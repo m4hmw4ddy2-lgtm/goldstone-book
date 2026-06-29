@@ -423,6 +423,30 @@ Status: READ (PDF fully readable — typeset text)
 Key content: **SPINE OF PART THREE.** Written from Bethlem Hospital on the day of sentencing. Hallucinations — William told Savage he had seen heaven opened and heard the voice of God, but this was never put before the jury. Judge Day "threw doubt upon my bona fides." William told a policeman he was "ready for the rope" — judge used this as evidence of criminal awareness. Savage's summary: "a feeble minded, rather weakly, good man... Anxiety about his increasing family at once developed the latent weakness." Closing line: "If this man is hanged, I think it will be a scandal to law."
 Book section: Part Three
 
+**BMJ — The Walthamstow Murder, 22 September 1883**
+`transcribed/BMJ_22_September_1883_Transcription.txt`
+Status: READ — full transcription complete
+Key content: Published 8 days after death sentence. Confirms boys drowned first, twins attacked second. New detail (unverified): Elizabeth said she wished the children were dead, which opened the idea to William — not in any witness statement, treat with caution. New detail (unverified): William suffered constant headaches in days before murders. Reinterprets revolver decision: not fear of detection but fear of being interrupted before completing the act. Criticises Justice Day for narrow McNaughton Rules interpretation. Criticises Savage for not going far enough. Savage examined William once, for between a quarter and half an hour, the day before trial. Calls on Home Secretary Sir William Harcourt to review the case. Virginia Woolf irony: Savage criticised here for timidity; later treated Woolf and she satirised him as Sir William Bradshaw in Mrs Dalloway.
+Book section: Part Three, Chapter Seven
+
+**BMJ — Medical News, 29 September 1883**
+`transcribed/BMJ_29_September_1883_Transcription.txt`
+Status: READ — full transcription complete (from speech-to-text dictation)
+Key content: Home Secretary intending to commute sentence to penal servitude for life. Dr Orange of Broadmoor and Dr Gover (HM Inspector of Prisons) instructed to examine Gouldstone. BMJ urges inquiry to cover mental state at time of crime, not only present state. Refers to "the touching narrative of his wife" — Elizabeth's substantial statement to Home Secretary not yet found. Refers to "the clear statement of the Vicar of the parish" — almost certainly Reverend Frederick W. Vernham, Vicar of St James, Walthamstow, biography file at Vestry House Museum. Key phrase: "the dire compulsion of disease."
+Book section: Part Three, Chapter Seven
+
+**BMJ — Medical News, 6 October 1883**
+`transcribed/BMJ_6_October_1883_Transcription.txt`
+Status: READ — full transcription complete (from speech-to-text dictation)
+Key content: MOST SIGNIFICANT PRESS PIECE FOUND TO DATE. Dr Orange sent to Chelmsford, entertained no doubt of William's insanity. Mother and aunt both insane, great-uncle committed suicide — three immediate/close relatives. "It is believed that he went out with the intention of drowning himself on the very day that he murdered his children" — ENTIRELY NEW. William tried to kill himself before coming home. The cord was for himself. Elizabeth says William showed signs of madness for twelve months — onset October 1882, predating the twins. Elizabeth described as "a very respectable young woman" — she has been actively engaging with Home Office or press.
+Book section: Part One (family history), Part Two (the day), Part Three (aftermath)
+
+**BMJ — The Walthamstow Murder, 6 October 1883, pp.682-683**
+`transcribed/BMJ_6_October_1883_pp682-683_Transcription.txt`
+Status: READ — full transcription complete (from OCR text)
+Key content: Editorial response to reprieve, separate from Medical News item same date. "A terrible disease which has scourged his family for three generations." Dr Guy on lunatic homicides: execution of a lunatic generally followed by a copious crop of lunatic homicides — implicit reference to Cole copycat. The youth Ben at Matlock — parallel case used to expose inequity of the system. Call for reform: government-appointed medical examiners, nominated by presidents of medical colleges, to examine all murder defendants before trial. "Fusty maxims and snatches of hazard evidence, founded on a ten-minute examination" — BMJ's description of how Gouldstone's sanity was assessed. "The duplex system" — the BMJ's phrase for the existing inequality. Key phrase: "Gouldstone would have atoned by this time with his life for the crime of being afflicted with a terrible disease."
+Book section: Part Three, Chapter Seven
+
 ---
 
 ### 2.5 Later Coverage
@@ -632,6 +656,32 @@ Key content: Full research findings from 24 June 2026 session. Book structure co
 3. **Albert's enlistment date vs William Madams death date** — Albert enlisted 19 June 1901; Madams died 23 November 1901. The project document states Albert enlisted "twelve days before William Madams died" which is incorrect by several months. Verify exact enlistment date from naval record.
 
 4. **Blacksmith vs whitesmith** — William listed as blacksmith on 1881 census and some early newspaper reports, whitesmith on trial documents and Graves testimony. Graves confirms he "made him a whitesmith" — the census error was likely an enumerator's simplification.
+
+5. **Tuke and Savage, The Cases of Gouldstone & Cole, Lewes: H.W. Wolff, 1883**
+Status: NOT YET OBTAINED
+Notes: Separately published pamphlet dealing with both the Gouldstone and Cole murders. Co-authored by Daniel Hack Tuke (editor of Journal of Mental Science) and George Henry Savage. Cited extensively in Victorian and later legal/medical literature. British Library almost certainly holds a copy. WorldCat search needed.
+6. **Savage, Journal of Mental Science Vol.29, Issue 128, January 1884**
+Two articles:
+1. "The Case of Gouldstone," pp.534-539, by Geo. H. Savage
+2. "William Gouldstone, Central Criminal Court, Sept. 14, 1883," pp.603-607
+Status: NOT YET OBTAINED — Cambridge Core paywall
+Notes: Most detailed medical accounts of the case. Second is a court report, first is Savage's own analysis. Both essential for Part Three.
+
+7. **BMJ — Cole / Thornton Heath murder**
+Vol.2, 1883, pp.829 and 880 — two pieces
+Status: NOT YET IN REPO
+Notes: The BMJ covered the Cole copycat murder separately. Both pieces needed for Part Three and for the Tuke/Savage pamphlet context.
+
+8. **Vestry House Museum files**
+- Gouldstone biography file (confirmed in published index)
+- Vernham biography file — Rev. Frederick W. Vernham, Vicar of St James, Walthamstow (confirmed in published index)
+- W28 St James's Street buildings file (confirmed in published list)
+Status: NOT YET ACCESSED — email drafted and ready to send to vestry.house@walthamforest.gov.uk
+
+9. **National Archives — HO 144 Gouldstone capital case file**
+Status: Reference unknown — must be looked up on Discovery (discovery.nationalarchives.gov.uk)
+NOTE: HO 144/155/A40379 IS WRONG — that is the Elizabeth Lane case.
+Notes: Contains Dr Orange's examination report, Elizabeth's full narrative, all correspondence leading to reprieve. Most important undiscovered primary source in the project.
 
 ---
 
