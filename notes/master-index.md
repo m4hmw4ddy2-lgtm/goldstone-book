@@ -579,6 +579,7 @@ Key content: Hercules Buildings was a mid-18th century terrace built by Daniel P
 Book section: Part Four
 
 **Rev. T. H. Grantham Robinson — Obituary**
+Obituary pamphlet 1884 `/transcribed/Grantham_Robinson_Obituary_1884.txt`
 External: cccbr.org.uk/wp-content/uploads/2017/09/bn03_84.pdf (and Walthamstow & Leyton Guardian excerpt within)
 Status: READ
 Key content: Full obituary. Confirms: Thomas Harrison Grantham Robinson, born Ireland July 1837, educated King's College London and University of Dublin. Ordained Whitechapel; Secretary Prayer Book and Homily Society; assistant curate St Augustine's Highbury. In 1865 offered living of St James's, Walthamstow. St Saviour's church built through munificence of Mr R. Foster. Preached Sunday 16 March 1884; died Friday 21 March 1884, age 46. Character: "large-hearted, good humoured, and kind to all." Respected by Nonconformists. "The beau ideal of a gentleman and an Englishman."
