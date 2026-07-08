@@ -36,47 +36,39 @@ William Gouldstone is not Rik's ancestor. He is the reason Rik exists.
 
 ---
 
-## PART TWO: THE PROLOGUE — CURRENT TEXT
+## PART TWO: THE PROLOGUE — FINAL TEXT
 
-On the evening of Wednesday the 8th of August 1883, William Gouldstone came home from work two hours early. He had not been at work.
+When William Gouldstone came home early on the evening of Wednesday 8 August 1883, Elizabeth was still upstairs in the back room, seven days delivered of twins and not yet recovered enough to leave her bed. She heard him enter, but it was Ada Hamilton, the monthly nurse, who went through to the kitchen and found him standing by the dresser. William was a whitesmith, and his usual hour of return was half past seven. It was only a quarter past five. Ada told him that he had frightened her. She had wondered who was there. He smiled but made no reply.
 
-Elizabeth Gouldstone, already a mother to three boys, had given birth to twins seven days earlier. She was lying in the back bedroom of 8 Courtenay Place, St James's Street, Walthamstow, while Ada Hamilton washed the babies at her bedside. Ada and her husband had been lodging in the rooms on the same floor for ten weeks already and she had been engaged as nurse for Elizabeth's confinement. The two eldest boys, Charles and Herbert, were in the kitchen. Frederick, sixteen months old, was on the bed.
+A little later he came to the bedside and stood there without speaking. Elizabeth asked how it was that he was home so early, and he replied that he had left when the manager went to dinner. It was an answer that belonged to an ordinary working day. Elizabeth had no reason to know it was false, but he had not been at the works since the Bank Holiday. When she asked whether he had told them at the shop that she was confined, he said simply, "No."
 
-Unexpectedly, Ada heard someone enter the house. She put down the baby and went to see who was there.
+She was asking from the bed, seven days after giving birth to twins, with five children under four and no room in the household for a lost wage.
 
-William was standing by the dresser. He was twenty-six years old, and his usual return from the ironworks wasn't until half past seven. It was a quarter past five.
+Frederick, sixteen months old, was on the bed. William took him up and carried him into the kitchen, where Charles and Herbert were. The rooms were close together, but from Elizabeth's bed the kitchen was out of sight, and beyond the kitchen was the scullery. Ada remained with Elizabeth and the twins. There was still work to do; she had yet to wash the second baby.
 
-Ada said: "You did frighten me. I wondered who it was."
+In the kitchen, when Ada next saw him, William was sitting on the fire guard, the three boys playing at his feet, turning and tying a piece of clothesline around and over his fingers. She asked whether he had had his tea, and when he said he had not, she told him it was ready. He made no reply.
 
-He smiled but made no reply. He had been like this since the twins were born, strange and withdrawn, and she had learned not to press him. She went back to the bedroom, finished washing the first twin and laid him next to his mother and brother.
+In the scullery, Ada noticed that the perambulator had been moved from its usual place by the cistern, and a chair placed there instead. The cistern, running the length of the room, was fixed high up, close to the ceiling, beyond the reach of a small child standing on the floor. When she asked who had moved the chair, William was within hearing but did not answer. It was Charles who replied, "My daddy put it there." He was three and a half, old enough to notice a change in the room but too young to know that his answer had any importance.
 
-When she returned to the kitchen, William had settled himself on the fire guard. The three boys were playing on the floor around him and he was watching them, saying nothing. He had a length of cord in his fingers, turning it slowly. She asked whether he had had his tea yet, and he replied only, "No." She told him it was ready but he made no reply to that at all, so she went back to see to Elizabeth and the babies.
+Ada went back to the bedroom. Elizabeth had to be lifted while the bed was made. When William put his head in the doorway, she told him, "You can come in, Mr Gouldstone." At that he turned back towards the kitchen, mumbling something to himself which she could not understand.
 
-Once she had finished washing the second twin, as she had done all afternoon, she went back through the kitchen toward the scullery. The boys were still playing. William was still on the fire guard, still watching them, the cord still in his hands. In the scullery, she noticed that the perambulator had been moved from its place beside the cistern and a chair put there instead. The cistern sat six feet from the floor. It held fourteen inches of water.
+Ada suggested to Elizabeth that she might leave the room to give William an opportunity, if he wished, of speaking to her privately, and went downstairs. The older boys were no longer where she could see them. From below, she heard him open the kitchen door and, later, go into the bedroom she had just left.
 
-She turned to ask who had moved the chair. William heard her, but it was three-year-old Charles who answered: "My daddy put it there."
+For a short while, Elizabeth was alone in the back room with William and the twins. As Ada reached the yard door, she heard screams of "Murder!" and knew immediately that the voice was Elizabeth's. She ran back upstairs; the bedroom door was locked from the inside. Elizabeth cried out for the door to be opened, that he was murdering her children. She was screaming from the room in which the two newborn babies lay.
 
-Back in the bedroom, Ada helped Elizabeth out of bed so it could be remade, then helped her back in. When William appeared in the doorway she told him he could come in, everyone was decent, and he mumbled something she could not make out before going back to the kitchen. She suggested to Elizabeth that she might leave them alone for a few minutes, to give William the chance to speak to his wife privately. Elizabeth agreed.
+*I wasn't looking for William Gouldstone. I was looking for someone else entirely, a great-grandfather I already had a name for. But this is the story I found instead, waiting underneath the one I thought I wanted. A murder that horrified a nation, and without which I would not exist.*
 
-Downstairs, just as Ada reached the back door, she heard screams of "Murder!" from above.
-
-She ran back up and tried the bedroom door, but it was locked from the inside. She tried to force it and could not. Elizabeth was screaming through it: "Open the door. He is murdering my children."
-
-Ada cried out for help.
-
-*I wasn't looking for William Gouldstone. I was looking for someone else entirely. But this is the story I found. A murder that shocked the nation and that created my family.*
+**Status: Settled.**
 
 ### Prologue decisions — current
-- Opens on two sentences establishing premeditation. "He had not been at work" is the first revelation.
-- Frederick correctly placed in the bedroom at the opening, not the kitchen — he was on the bed with Ada and Elizabeth. William took him to the kitchen when he entered the bedroom. Prologue now reflects this.
-- Ends on the locked door. Everything behind it belongs to Part Two.
-- Cistern measurements at the moment Ada notices the chair — reader does the arithmetic.
-- Free indirect style for Ada's unease.
-- "Still" construction three times in the scullery paragraph.
-- Four closing sentences in Rik's own voice.
-- Em-dashes forbidden. None present.
-- Twins are male throughout.
-- Ada's husband William Hamilton was in the building — "Ada and her husband had been lodging" reflects this.
+- Opens on Elizabeth's physical state and Ada as the point-of-contact, not on William's premeditation directly — the reader arrives at the deception through Ada and Elizabeth, not through narratorial assertion.
+- "He had left when the manager went to dinner" — paraphrase of William's answer, sidesteps the unresolved reading of the deposition/witness-statement wording around "situation" (see Section 3 below) without asserting a disputed reading in the prose.
+- "Since the Bank Holiday" replaces an earlier "three days" framing that had incorrectly folded Monday 6 August (Bank Holiday, nobody was at work that day) into his irregular absence. The genuine anomaly is Tuesday 7th and Wednesday 8th only.
+- Frederick's move from bed to kitchen now has an explicit transition ("William took him up and carried him into the kitchen"), closing a gap present in earlier drafts.
+- Chair/cistern quote: "My daddy put it there" — CONFIRMED against coroner deposition, verbatim: *"I asked as to who had placed the chair there. William Gouldstone was within hearing. Charles Gouldstone replied 'My Daddy put it there.'"* Added the detail that William was within hearing but did not answer — sourced, not inferred.
+- "You can come in, Mr Gouldstone" — CONFIRMED against coroner deposition, verbatim: *"I said to him 'You can come in Mr Goldstone.'"* Note: deposition spells the name "Goldstone" in this instance. Editorial decision: normalised to "Gouldstone" in the Prologue prose for consistency with the rest of the book's spelling convention. This is a conscious silent correction inside a direct quotation — flagged here rather than left undocumented, per the project's verbatim-first principle. If a future editorial pass wants the deposition's own spelling preserved inside the quote marks, that's a one-word reversal.
+- "Tying it" (the clothesline) — CONFIRMED against coroner deposition, verbatim: *"I noticed he had a piece of clothes line in his hand tying it. The piece produced is either the same or similar to it."* Not an inference; her word.
+- Twins are male throughout. Em-dashes: none present. Four closing sentences in Rik's own voice, as required.
 
 ---
 
