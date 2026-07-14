@@ -287,15 +287,23 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. Coroner depo
 
 | Date | Event | Source(s) |
 |---|---|---|
-| 23 Sep 1810 | Edward Suckling marries Sarah Crawley | Ancestry record |
-| 23 Nov 1811 | Jemima Suckling born, Wethersfield, Essex | Ancestry record |
+| c.1785-87 | Edward Suckling born, Barking, Essex | 1851/1861/1871 censuses |
+| 3 Oct 1802 | Thomas Stock baptised, St John the Baptist, Finchingfield (father James Stock, mother Sarah Newman) | Baptism record D/P 14/1/3 — NB self-reported age at 1854 marriage suggests b. c.1805; 3-year discrepancy unresolved, baptism preferred |
+| 15 Dec 1811 | Jemima Suckling baptised, Hornchurch, Essex (father Edward Suckling, mother Sarah) | Baptism record, FHL Film 857075 — corrects earlier unsourced "23 Nov 1811, Wethersfield" |
 | 1 Dec 1821 | Thomas Gouldstone baptised, St Michael's, Great Sampford (father Joseph, mother Ruth) | Baptism record D/P 289/1/13 |
+| 20 Oct 1827 | Marriage record, Thomas Stock & Sarah Hockley, Finchingfield | D/P 14/1/10 — NOT CONFIRMED as our Thomas Stock; see Part Three, new Contradiction 11 below |
+| 25 Dec 1833 | Jemima Suckling marries John Ansell (her first marriage), Wethersfield | Marriage record D/P 119/1/9 |
 | 1834 | Emily Willett born, Wimbish, Essex | Ancestry record |
+| 9 Jul 1843 | Arthur Ansell (Jemima's son by John Ansell) baptised, Wethersfield | Baptism record D/P 119/1/5 |
+| 29 Apr 1844 | Arthur Ansell buried, Wethersfield, aged 0 | Burial record D/P 119/1/7 |
+| 19 Apr 1845 | John Ansell (Jemima's first husband) dies, aged 32, buried Wethersfield | Burial record |
 | 30 Jan 1851 | Thomas Gouldstone marries Emily Willett | Marriage record |
-| 1855 | Elizabeth Stock born, Wethersfield, Essex | Ancestry record |
+| 16 Jun 1854 | Thomas Stock (widower) marries Jemima Ansell née Suckling (widow), Wethersfield | Marriage record D/P 119/1/10; witnesses Robert Suckling (Jemima's brother) and Frederick Smee |
+| 1855 | Elizabeth Stock born, Wethersfield, Essex, at Brewery House | 1861 census — NB Elizabeth had six known Ansell half-siblings from Jemima's first marriage, not the single "Arthur" previously recorded |
 | ~1857 | William Gouldstone born, Great Sampford, Essex | Census evidence |
-| 25 Oct 1873 | Jemima Stock dies, Braintree, age 61 | Ancestry record |
-| Nov 1873 | Thomas Stock dies | Project notes |
+| 1871 | Elizabeth Stock (18, general servant) in service alongside Susan Newman (16, nursemaid, also b. Wethersfield) at 115 Albion Road, Stoke Newington, household of solicitor George Horace David Chilton | 1871 census — likely mechanism for Elizabeth's move to London |
+| 25 Oct 1873 | Jemima Stock dies, Braintree, age 61. Cause: Neuralgia (6 weeks), Congestion of the Brain (3 weeks) | GRO death certificate |
+| 22 Nov 1873 | Thomas Stock dies, Braintree, age 71. Cause: Bronchitis, Chronic (12 months) | GRO death certificate; buried 28 Dec 1873, D/P 119/1/8 |
 | 15 Mar 1879 | William marries Elizabeth, St Luke's, Hackney. Both at 88 Frampton Park Road. | Marriage certificate |
 | 1879-~1882 | William and Elizabeth lodge with Graves; three older boys born in Graves's house | Graves, Old Bailey |
 | ~1882 | Gouldstones move to 8 Courtenay Place, Walthamstow | Emma Clarke testimony |
@@ -353,7 +361,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. Coroner depo
 | 2 Dec 1901 | Home Office returns depositions (retained since 1883) to Central Criminal Court | Home Office Letter, trial-docs, ref. A31638 |
 | 23 Nov 1901 | William James Madams dies at Chartham | National Archives MH 94/37 |
 | Jun 1906 | Emily Willett Gouldstone dies, Essex, age 79 | Ancestry record |
-| Jul 1906 | Elizabeth Stock dies, Blean, Kent, age 51 | Ancestry record |
+| Jul 1906 | Elizabeth Stock dies, age 51. Registered Blean district, Kent — NOT a confirmed specific place of death (district covers several parishes near Canterbury) | GRO index; see Contradiction 12 below |
 | Q1 1910 | Albert Goldstone marries Clarie Irene Setterington, Medway | GRO |
 | Nov 1917 | Second Battle of Heligoland Bight. Albert on HMS Courageous. | Naval record |
 | 1918 | German High Seas Fleet surrenders. Albert present. | Naval record |
@@ -457,7 +465,22 @@ Two separate claims here, not to be conflated:
 
 ---
 
-## SUMMARY: LIVE OPEN QUESTIONS
+### 11. THOMAS STOCK'S FIRST MARRIAGE — UNCONFIRMED
+- **Marriage record exists:** Thomas Stock & Sarah Hockley, 20 October 1827, Finchingfield (D/P 14/1/10). No ages, no parents' names given for either party.
+- **Against it:** At least three other Thomas Stocks documented in the same small parish cluster across the relevant decades (a "Mary Stock, five children" household at Gravel Pit, Wethersfield, 1841; an unmarried Thomas Stock tracked consistently across 1841 and 1851 at "Village, Finchingfield"; a "Thomas Stock, 20" in an unrelated household in 1841). No census return in 1841 or 1851 shows a Sarah as wife to any Thomas Stock matching our man's known details.
+- **A related FamilySearch collaborative-tree profile** compounds the risk: correct baptism and parents for our Thomas, but continues with Sarah as his wife through 1881 with five/six children by her, and omits Jemima and Elizabeth entirely — an evident merge of two separate research threads.
+
+**Assessment:** Cannot be confirmed as belonging to our Thomas Stock. What IS confirmed directly (1854 marriage register): Thomas was a widower at his marriage to Jemima. Use that fact; do not name "Sarah Hockley" as the first wife without further corroboration (an 1841 census entry showing her as his wife, or her October 1845 Braintree death record naming him as husband, would settle it).
+
+---
+
+### 12. ELIZABETH STOCK'S DEATH LOCATION
+- **Existing project notes/older Ancestry-derived summaries:** "Blean, Kent" stated as her place of death.
+- **What Blean actually is:** the GRO registration district covering several parishes near Canterbury, not a single place.
+
+**Assessment:** Do not state a specific parish or village for Elizabeth's death without the GRO death certificate itself. "Registered in the Blean district" is the correct, sourced claim.
+
+---
 
 1. Where did William attempt to drown himself on the morning of 8 August?
 2. Does Elizabeth's fuller narrative to the Home Secretary survive in HO 144?
@@ -472,4 +495,7 @@ Two separate claims here, not to be conflated:
 11. J Frost — full name and role at Brook Street infirmary not yet established
 12. What word was crossed out in the coroner deposition before "near to the cistern"? Cosmetic, low priority — doesn't affect the established sequence.
 13. Great Eastern Railway timetables 1883 — 6.04am and evening services from St James's Street
+14. What became of Eliza, Sarah, and Alfred Ansell (Jemima's children by her first marriage) after the 1841 census? Unaccounted for by 1851 — not confirmed dead or traced elsewhere.
+15. Is Thomas Stock's first wife recoverable at all? See Contradiction 11 — currently closed off as unresolvable and non-essential to the book's argument, not actively pursued.
+16. How did Elizabeth get from Stoke Newington service (1871) to marrying William Gouldstone in Hackney (1879)? No record found between these two points. Possible avenues not yet pursued: re-checking the 1879 marriage certificate's witnesses; investigating whether William was already in the Graves household before Elizabeth arrived.
 
