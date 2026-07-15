@@ -1,0 +1,387 @@
+# DRAMATIS PERSONAE
+## The Gouldstone Book — Complete Character Register
+## Updated: 15 July 2026 (second pass — Benjamin Gouldstone and 1874 directory cross-confirmation added)
+
+---
+
+## THE GOULDSTONE FAMILY
+
+### William Gouldstone (c.1857–1935)
+**The murderer. The pivot on which the whole book turns. NOT Rik's ancestor — the reason Rik exists.**
+
+Born Great Sampford, Essex, approximately 1857. Third child of Thomas and Emily Gouldstone. Came to London and was taken on at the Falkirk Ironworks through William Graves (who had known him since birth). Promoted from blacksmith to whitesmith by Graves.
+
+**Physical:** 5ft 6in (prison admission record — most reliable; IPN 18 Aug estimated "not more than 5ft 4in"). Stout build. Fair complexion. Light, curly hair — shorn on arrival at Chelmsford Prison. Slight moustache. Preserved "a great deal of boyishness" despite being 26. Did not smoke.
+
+**Character:** Quiet, steady, almost bordering on moroseness (Westbrook). Went home and came to work alone — never with companions. Highly punctual: missed the 6.04am train only once when a clock went wrong. Amateur musician: played cornet, flute, and other wind instruments; played concertina for the children for hours. Very fond of wife and three older children before August 1883. Abstemious. Helped with household duties.
+
+**Physical suffering:** Large double hernia causing significant and worsening pain. Severe headaches, especially when the rupture troubled him. Both confirmed across multiple witnesses at the Old Bailey.
+
+**Mental state:** Told workmate Cakebread to knock his brains out with a hammer. Said he would throw himself in front of a train if killed instantly. Would throw himself down the lift shaft without lingering. Was in the lift at the Ironworks when the rope broke; said to Skelton "Never mind, it goes to the bottom; it will only kill me out of the way." In one incident: arrived at work deeply depressed, then began "dancing and singing foolish things, what they call the Salvation Army hymns" (Skelton) — witnessed oscillation between depression and apparent elation. Told Dr Savage he had seen heaven opened and heard the voice of God, but "he knew it was only dreaming" — never given in court.
+
+**His words, in sequence:**
+- Smiled at Ada on arrival but made no reply (coroner deposition only)
+- On opening bedroom door: multiple versions — see Contradictions document. Emma Clarke confirmed his words to her: *"You can come in, it is all done."*
+- To PC Cheeseman on walk to station: *"When I took my money last week I thought of buying a revolver to do it with, but I altered my mind, as I thought it would make too much noise. I had a hard job with the two biggest, but the other little b——, I soon settled him. I thought it was getting too hot. I have had five kids in about three years and a half, so I thought it was time to put a stop to it."*
+- At station: *"I did it like a man."* When charged: *"Quite right, sir."*
+- In cell c.6:45pm: *"I have had an extra drop of drink to accomplish the job; there's five of them gone to glory, and it is a good job."*
+- In cell c.7:30pm: *"I am sorry for my wife and parents, but the children will be better off in heaven, if there is such a place; it is better than leaving them to the mercy of the world."*
+- In cell c.9pm: *"I wish I had killed the little ones out of the way; I don't know whether I hit them once or twice; I have had this preying on my mind for a long time."* (Wheatley confirmed under cross-examination: preying, not playing.)
+- At Chelmsford, to Elizabeth: *"I have broken God's commandment, and I must expect to suffer, but He will forgive me for what I have done."*
+
+**Trial and after:** Guilty 14 September 1883. Death sentence. Reprieved 3 October 1883. Certified of unsound mind. Received news "with deep gratitude." Removed to Broadmoor 15 October 1883. "An ideal patient. He worked in the various wards." Died 19 January 1935, aged 78. 52 years detained.
+
+**His letter from Chelmsford, 15 September 1883:** Full text in Essex Weekly News and Western Daily Press. Pious tone. No apparent understanding of the enormity of what he has done. Refers to "Cousin Gouldstone in Mash Street" (probably Marsh Street, Walthamstow — identity unknown).
+
+---
+
+### Elizabeth Stock Gouldstone (1855–1906)
+**The survivor. The book's second central figure.**
+
+Born 1855, Wethersfield, Essex, at Brewery House — father **Thomas Stock**, Ag Lab (occupation confirmed 1861 census; baptised 3 October 1802, Finchingfield, D/P 14/1/3, father James Stock and mother Sarah Newman), mother **Jemima Suckling** (baptised 15 December 1811, Hornchurch, Essex — corrected from earlier "23 Nov 1811, Wethersfield," which was unsourced; father Edward Suckling, b. Barking, Essex c.1785–87, later a Finchingfield gardener and, by 1861, a parish pauper; mother Sarah, b. Cranham, Essex, surname not independently confirmed — "Crawley" in earlier notes is unverified).
+
+**Elizabeth was NOT an only child of this household — corrected 14 July 2026.** Jemima had been married once before, to John Ansell (m. 25 December 1833, Wethersfield, St Mary Magdalene, D/P 119/1/9), and had **seven children by that marriage**: John Nathan, Eliza, Sarah, Alfred, George, Arthur (b. 9 July 1843, d. in infancy, buried 29 April 1844, D/P 119/1/5 and D/P 119/1/7), and Emma. John Ansell (husband) died 19 April 1845, aged 32. Jemima married Thomas Stock — himself a widower — 16 June 1854, Wethersfield, St Mary Magdalene (D/P 119/1/10), witnessed by her brother Robert Suckling and by Frederick Smee, who had also witnessed her first wedding 21 years earlier. Elizabeth, born the following year, therefore had at minimum six known half-siblings on her mother's side, not the single "half-brother Arthur" previously recorded. Of the six surviving Ansell children, three (John Nathan, George, Emma) remained with Jemima through her widowhood and are traceable in the 1851 and 1861 censuses; Emma was still living in Jemima and Thomas's household in 1861, recorded under the period convention "daughter-in-law" (i.e., step-daughter). Eliza, Sarah, and Alfred are unaccounted for after 1841 — not confirmed dead, not yet traced elsewhere.
+
+**Thomas Stock's own first marriage remains unconfirmed.** A marriage record exists for a Thomas Stock and Sarah Hockley, 20 October 1827, Finchingfield (D/P 14/1/10), but extensive checking (14 July 2026) found at least three other Thomas Stocks active in the same small parish cluster in the relevant decades, and no census return shows a Sarah as wife to a Thomas Stock matching our man's known details. Do not state "Sarah Hockley" as Elizabeth's father's first wife without further corroboration. What is confirmed directly from the 1854 marriage register is that Thomas was a widower at that marriage — the fact, not the name, is what's sourced.
+
+"Her father and mother are both dead, and she has no near relatives whatever" (Liverpool Mercury 10 Aug) — now understood to mean no relatives she was in contact with or acknowledged as near, not that none existed; her Ansell half-siblings' fates by 1883 are unknown.
+
+**Elizabeth in service, aged 16–18:** 1871 census, general servant in the household of George Horace David Chilton (solicitor, London-born) and his wife Isabella, 115 Albion Road, Stoke Newington St Mary. Alongside her: **Susan Newman**, 16, nursemaid, also born Wethersfield — baptised 28 October 1855, same parish (St Mary Magdalene), father John Newman (d. by 1861), mother Emma, a young widow. Two Wethersfield-born girls of the same age in the same London household is the likely mechanism by which Elizabeth reached domestic service in London — not confirmed family, but strong circumstantial village connection; a possible (unconfirmed) blood link via a shared Newman surname with Thomas Stock's own mother, Sarah Newman, should be treated as colour only, not fact.
+
+**The gap between Stoke Newington and Hackney is not resolved.** No record has been found placing Elizabeth anywhere between the 1871 census and her March 1879 marriage. How she came to meet William Gouldstone, and why she left the Chiltons' employment, is currently unrecorded — state as an open gap in any prose, do not bridge with invented material.
+
+Married William Gouldstone 15 March 1879, St Luke's, Hackney. Age 24. Both living at 88 Frampton Park Road (the Graves household) at time of marriage. Father listed as Thomas Stock (decd). Witnesses: Thomas and Emily Goldstone.
+
+**On 8 August:** Seven days post-partum, in bed with newborn twins when William locked the bedroom door. Her words: through the locked door: *"Come in; he is murdering my children."* When door opened: *"Come and look at my babies, and see if he has killed them."* When police brought William back: *"Oh you wicked man, what have you done?"* Then immediately: *"Have you any money?"*
+
+**Her public statement (September 1883):** *"I have no doubt he did not know and could not help what he did. He was always most affectionate to me and the children, and I cannot think that he should suffer a shameful death for what would be to him, if he only understood it, the most awful distress."*
+
+**Could not divorce William** — alive in Broadmoor; insanity not straightforward grounds for divorce in Victorian England. Legally Mrs Gouldstone until his death in 1935.
+
+**Disappears August 1883 to June 1887.** Resurfaced at the Workhouse Infirmary, Brook Street, Lambeth, where she gave birth to Albert on 19 June 1887. Her address at the time: **2 John Street, Hercules Buildings, Lambeth** (renamed Newnham Terrace 1893; site now Park Plaza Hotel Waterloo). She was not a workhouse inmate — she had her own address and came to the infirmary as a pauper patient through the relieving officer system to deliver. The infirmary was approximately half a mile from her address.
+
+The 1891 Eliza Jane birth certificate lists her as "Elizabeth Madams, late Goldstone formerly Stock" — all three identities in one document.
+
+Cohabited with William James Madams in Whitstable from approximately 1888. No marriage certificate found — could not legally marry.
+
+**Died July 1906, aged 51.** Registered in the **Blean registration district**, Kent — this covers a cluster of parishes around Canterbury, not a single confirmed place of death; do not state "Blean" as her actual place of death without the GRO certificate itself. Did not live to see William Gouldstone die in 1935.
+
+---
+
+### Charles Thomas Gouldstone (c.1880–8 Aug 1883)
+Eldest surviving child. Age 3½ at death. Drowned in the cistern. A cord noose had been placed around his neck — loose, insufficient alone to kill (Dr Gould; PC Honey confirmed the noose under cross-examination). Well nourished; fully clothed. The child who answered Ada's question: **"My daddy put it there."** Within minutes, William drowned him in the cistern whose reach that chair had been prepared to extend.
+
+---
+
+### Herbert Ernest Gouldstone (c.1881–8 Aug 1883)
+Second child. Age 2½. Drowned in cistern. No marks of violence. Well nourished.
+
+---
+
+### Frederick Gouldstone (c.1882–8 Aug 1883)
+Third child. Age 16 months. Was in the bedroom with Ada and Elizabeth when William arrived. William took him to the kitchen. Drowned in cistern. No marks of violence. Well nourished. William carried his wet body from the scullery back to the kitchen; Ada met him in the kitchen doorway.
+
+---
+
+### Twin 1 (unnamed male, 1–8 Aug 1883)
+Born 1 August 1883. Seven days old. Right parietal bone smashed into three pieces; brain protruding through fractures. Died c.7pm, 8 August 1883.
+
+---
+
+### Twin 2 (unnamed male, 1–8 Aug 1883)
+Born 1 August 1883. Seven days old. Right parietal, left parietal, and occipital bone all fractured. Died c.2am, 9 August 1883.
+
+---
+
+### Thomas Gouldstone (1821–1899)
+William's father. Baptised 1 December 1821, St Michael's, Great Sampford, Essex. Father Joseph Gouldstone, mother Ruth. Archive reference: D/P 289/1/13 (Essex Record Office). Attended William's 1879 wedding as witness alongside wife Emily. At trial: gave defence testimony about Emily's insanity and family history. Said his wife "tried to grain herself with a scarf" — a juror clarified that "grain" is the Essex word for strangle. Cross-examination: confirmed all other children were right except the prisoner.
+
+**Working life — did NOT stay in Great Sampford his whole life, correcting the earlier note.** Fully traced across six census years (15 July 2026 — full record in session_notes_2026-07-15_essex_geography_and_gouldstone_line.md):
+- **1841**, Great Sampford, age 15 (rounded per 1841 census convention; actual age ~19 given his baptism date), living in father Joseph's household.
+- **1851**, possibly Cock Inn, Great Sampford (address uncertain — the primary census image's street/place column is reportedly blank for this entry; treat "Cock Inn" as unconfirmed until checked directly), age 29, Blacksmith. Neighbouring household: James Goldstone, 22, blacksmith, born Thaxted — very likely a relative, unconfirmed.
+- **1861**, Village, Great Sampford, age 39, **Blacksmith employing 3 men**.
+- **1871**, **White House, Moor End** — a separate settlement roughly half a mile to a mile from the main village. Age 49, occupation **Blacksmith & Publican**. (Census index originally misread the pub's name as "White Horse"; corrected via Historic England listing 1322551 — Grade II, C17 timber-framed and plastered house, National Grid Reference TL 64021 35902, still standing.) **Independently confirmed 15 July 2026** by the 1874 Post Office Directory, which lists "Thomas Gouldstone, beer retailer" and "Thomas Gouldstone, blacksmith" as two separate entries for the same man — a second, non-census source corroborating the dual trade.
+- **1881**, own household near the Swan Inn, **Finchingfield** — the same village Elizabeth's maternal grandparents, Edward and Sarah Suckling, had lived in a generation earlier at Malting Yard. A documented geographic overlap between the two branches of what becomes Rik's family, with no evidenced causal connection. Age 60, Blacksmith.
+- **1891**, near the church, Great Sampford (index misread as "W The Church"; corrected by direct image check to "Nr The Church" — i.e. Near The Church). Age 70, **General Smith**, self-employed, three-room household with just Emily.
+
+Died Q3 1899, Saffron Walden registration district, age 77 (formal GRO citation for this event not yet obtained beyond the registration-district/quarter/age already established).
+
+---
+
+### Emily Gouldstone née Willett (c.1833/34–1913)
+William's mother. Born Wimbish, Essex. Married Thomas 30 January 1851. Suffered from sustained "despondency" — attended by Dr Sunderland of Thaxted for eight years. Multiple suicide attempts. A woman employed to look after her. Never certified insane. Central to the defence's hereditary insanity argument.
+
+**Age recorded inconsistently across every surviving census and never resolves to a single consistent birth year** — 21 in 1851 (implying b. ~1830), 27 in 1861 (~1834), 37 or 39 in 1871 (the transcription disagrees internally within the same record), 44 in 1881 (~1837), 58 in 1891 (~1833, closest to consensus), 66 in 1901 (~1835). Treat as a permanent, unresolved feature of the record. Occupation given as Dressmaker from 1881 onward.
+
+Died Q2 (Apr–May–Jun) 1913, Saffron Walden registration district, age 79. GRO reference: Volume 4a, Page 785. In 1901, living at Great Sampford with granddaughter **Mabel Goldstone** (26, dressmaker) — Mabel had been recorded as Thomas and Emily's own daughter in the 1881 census, age 7; the 1901 "granddaughter" is a genuine, unresolved discrepancy (see Mabel's entry below). In 1911, living with daughter Emily Willett Gouldstone, 59.
+
+---
+
+### Robert Gouldstone
+William's eldest brother. At trial: confirmed family hid knives and razors from mother. Confirmed William's suicidal statements and complaints of head pains.
+
+---
+
+### Emily Gouldstone (b. c.1852)
+William's sister. In service in London at time of trial. Brief evidence about mother's suicide attempts.
+
+---
+
+### Bennett Gouldstone (b. c.1862)
+William's brother. **Also worked at the Falkirk Ironworks** — same shop. At trial: confirmed William's suicidal statements, suffering from rupture and head pains. "He used to wander about as if something were wrong in him, and be very strange."
+
+---
+
+### Thomas Gouldstone Jr (b. c.1859), Flora Gouldstone (b. c.1864), Hugh C Gouldstone (b. c.1868)
+William's siblings. In 1871 census. No trial testimony identified. **Flora is almost certainly the "Florence Miles"** recorded married, dressmaker, age 19, in Thomas and Emily's 1881 household — a two-year arithmetic discrepancy against her 1871 age (7, implying birth ~1864 vs. the 1881 record implying ~1862) is flagged open, but name, sex, and birthplace otherwise match.
+
+### Mabel Gouldstone (b. c.1874)
+Previously unrecorded child. Recorded as Thomas and Emily's **daughter**, age 7, in the 1881 census; recorded as their **granddaughter**, age 26, dressmaker, in the 1901 census, living with the widowed Emily. Same person by age in both records — the relationship itself is the discrepancy, not the identity. The 1901 "granddaughter" is the more specific and less convenient claim of the two, and is probably the more reliable; if so, Mabel's actual parent is one of Thomas and Emily's other children, currently unidentified. Open question.
+
+---
+
+### Joseph Goldstone/Gouldstone (c.1793–1876)
+William's paternal grandfather. Baptised 17 March 1793, St Michael's, Great Sampford. Father Robert Goldstone, mother Rebecca (confirmed via two independently-indexed FamilySearch parish register entries, same underlying microfilm, agreeing exactly on date and parents). Blacksmith throughout his working life: Great Sampford (1841 census, head of household including Thomas at 15); **Little Sampford** (1851 census, address given as "Milk" — street name uncertain, address column blank on the primary image, possibly recoverable from the previous census page); back to Great Sampford, Village (1861 census, age 69). Buried 1 May 1876, St Michael's, Great Sampford, age 83 (also confirmed via two independent FamilySearch entries — same film, different image numbers, dates and age agree exactly).
+
+**Wife Ruth Goldstone/Gouldstone (c.1793/95–1866).** Birthplace given as **Broomfield, Essex** in the 1851 census and **Bedford** in the 1861 census — a genuine, unresolved contradiction between two different counties, not a spelling variant; do not silently resolve in favour of one or the other. Buried 1 January 1866, St Michael's, Great Sampford, age 71 — the exact date should be checked against the primary register image before being cited precisely elsewhere, as an exact "1 January" burial date can sometimes indicate an indexing placeholder where only the year is certainly known.
+
+**Children of Joseph and Ruth (Thomas's siblings, William's aunts and uncle — not previously recorded in this register):**
+- **Robert** (age 15 in the 1841 census, the same age as Thomas — worth checking whether this is a transcription duplicate or genuine twins before treating both as separate confirmed individuals)
+- **Betsey** (age 12, 1841)
+- **James** (age 11, 1841)
+- **Lydia** (age 10, 1841; age 21 and working as a straw plaiter by the 1851 census)
+- **Ruth Jr** (age 6, 1841; age 16, straw plaiter, 1851)
+- **Joseph Jr** (age 3, 1841; age 13, agricultural labourer, 1851 — possibly the parent of the two Holloway-born grandchildren recorded in the 1861 household, below, though this is unconfirmed)
+- **Ann** (b. ~1819, not recorded in the 1841 household with the others — first appears in the 1861 census, unmarried, age 42, occupation dressmaker, still living with her parents)
+
+**Two grandchildren in the 1861 household**, relationship to the rest of the family otherwise unconfirmed: **Ruth Gouldstone** (age 7, born **Holloway, Middlesex**) and **Thomas Gouldstone** (age 5, born **Holloway, Middlesex**). Likely children of one of Joseph's own children who had moved to London, parent unidentified. This Thomas (b. ~1856, Holloway) is explicitly **not the same person** as William's own brother Thomas Gouldstone Jr (b. ~1859, Great Sampford) — the two appear in two separate households on the same 1861 census night, which confirms they cannot be one individual. Flagged here specifically to prevent future conflation, given the identical name, surname, and generation.
+
+Also unresolved: **James Goldstone**, blacksmith, age 22 in the 1851 census, born Thaxted (not matching any known sibling's birthplace), living in a household neighbouring Thomas's own in Great Sampford. Very likely a relative given trade, surname, and proximity — not confirmed.
+
+---
+
+### John Byford
+William's brother-in-law. Married one of William's sisters (not Emily — probably Flora or another). At trial: confirmed William visited him on Saturday afternoons, sat and played with his hat, answered questions with the wrong answers, took three or four minutes to reply. Last saw him "a fortnight before Bank Holiday."
+
+---
+
+### Mrs Andrews
+Emily Gouldstone's sister. William's maternal aunt. Suffered "despondency" — same form as Emily Gouldstone. Attended by Dr Sunderland. Husband a small farmer. Grown-up daughter at home to look after her. Never certified. Described by Savage in his Lancet letter as having "suicidal inclinations and ideas of ruin impending."
+
+---
+
+### Charles Gouldstone (cousin of Thomas Gouldstone, Epping)
+First cousin of the prisoner's father. At trial: confirmed his son William (the prisoner's second cousin) was confined at Brentwood Lunatic Asylum from 21 April 1880 for about 16 months and died there.
+
+---
+
+## THE STOCK/SUCKLING FAMILY
+
+**This section was retired 15 July 2026.** It previously duplicated, and contradicted, the fully-corrected account of Thomas Stock, Jemima Suckling Stock, and Elizabeth's Ansell half-siblings that has lived in Elizabeth's own entry above since the 14 July 2026 research pass (see "Elizabeth Stock Gouldstone," above, and `session_update_2026-07-14.md` / `session_update_2026-07-14_part2.md`). In particular: Elizabeth was **not** an only child (Jemima had seven children by her first marriage, six surviving infancy); Edward Suckling's dates were **not** 1784–1864 (corrected to b. Barking c.1785–87, dates otherwise unconfirmed); "Sarah Crawley" as Edward's wife's surname is **unconfirmed**; and Arthur Ansell was one of six known Ansell half-siblings, not the only one, and died in infancy (baptised 9 July 1843, buried 29 April 1844) rather than surviving into adulthood as the old entry here implied. Refer to Elizabeth's own entry, above, for the current, correct, and single account of this family. Do not restore this section's content.
+
+### Wethersfield, Finchingfield, and the wider family geography — 15 July 2026
+Both the Stock/Suckling side and the Gouldstone side of the family have now been located on the ground, not just in the census record. See MASTER_NOTES.md, Part Ten, for the full summary: Thomas and Jemima Stock's **Brewery House** and Jemima's own **Dog Chase** address in Wethersfield; Edward and Sarah Suckling's **Malting Yard** in Finchingfield; and — a documented, unconnected coincidence — Thomas Gouldstone's own household in Finchingfield by 1881, a generation after the Sucklings had lived there. Full working record: `session_notes_2026-07-15_essex_geography_and_gouldstone_line.md`.
+
+---
+
+## THE HAMILTONS
+
+### Ada Hamilton
+Monthly nurse. Wife of William Hamilton (jeweller). Both lodged at 8 Courtenay Place for ten weeks before the murders, in the front room on the same floor as the Gouldstones (Ada's coroner deposition says "second floor" — see Contradictions). Her testimony across multiple hearings is the primary account of the afternoon of 8 August and the single most important source in the book. The coroner deposition (10 August 1883) is the earliest sworn document. The CRIM 1/19/2 witness statement was sworn 9 August. The Old Bailey transcript is the fullest account.
+
+### William Hamilton
+Ada's husband. Jeweller. Present in the building on 8 August. Confirmed in Ada's coroner deposition. Gave no testimony at any hearing. Entirely invisible in press reporting.
+
+---
+
+## THE CLARKES
+
+### Emma Clarke
+Wife of **Charles Clarke** (CONFIRMED — coroner deposition and Old Bailey; press accounts giving "James" are errors). Head tenant of 8 Courtenay Place. Husband hired the whole building and sublet the first floor. Emma was in the back garden when the murders occurred. Confirmed William's words on opening the door: *"You can come in, it is all done."* Said she had heard Elizabeth say she wished the children dead — when she was worried, not in earnest, to the children when they worried her. Coroner on this evidence: "He did not think anything would turn on that."
+
+### Charles Clarke
+Emma's husband. Carpenter. Confirmed name: Charles. Hired the whole house at 8 Courtenay Place and sublet. Considered the Gouldstones fortunate tenants. Went on Sunday morning walks with William along the river. William helped him kill rabbits — "his country origin was discovered through his aptitude in killing rabbits."
+
+---
+
+## THE MEDICAL WITNESSES
+
+### Dr Henry Gould, M.R.C.S., L.S.A.
+Divisional surgeon of police, Leyton. Called to 8 Courtenay Place at approximately 6pm on 8 August. Confirmed skull fractures on twins; three older children dead in kitchen. Found cord indentation on Charles's neck — insufficient alone to kill. Made post-mortem examinations 9 August. Gave evidence at every hearing.
+
+### Dr Twining
+First doctor at the scene (all press accounts). Named "Dr Lorning" in PC Honey's witness statement — confirmed transcription error; Twining is correct. Present in kitchen when Ada returned. Took the cord from Charles's neck and gave it to Honey. Described as "very ill" at the committal hearing. Did not appear as a formal witness.
+
+### Dr William Sunderland
+Medical practitioner, Thaxted, Essex. Defence witness. Had attended Emily Gouldstone for approximately eight years; also attended Mrs Andrews for the same condition. Neither woman certified. Did not know the cause of their conditions.
+
+### Dr George Henry Savage, M.D. (1842–1921)
+Physician-Superintendent, Bethlem Hospital. Examined William for "between a quarter and half an hour" on 13 September 1883 — day before trial. Gave hedged testimony: found him "rather weak in mind" but conversation rational; would not certify him as a lunatic; thought from courtroom evidence that his mind was probably unsound at the time of the act. What the court was not allowed to hear: William told him he had seen heaven opened, heard the voice of God — "but he knew it was only dreaming." Judge refused counsel to ask Savage's full opinion; ridiculed second cousin evidence; "threw doubt upon my bona fides" from the bench (Savage's Lancet letter). Closing line of Lancet letter: "If this man is hanged, I think it will be a scandal to law."
+
+Later: co-editor Journal of Mental Science; President, Medico-Psychological Association; knighted 1912; treated Virginia Woolf; satirised as Sir William Bradshaw in *Mrs Dalloway*.
+
+---
+
+## THE POLICE WITNESSES
+
+### PC William Cheeseman, N 86
+First police officer on scene. Found William stooping over three dead children. Took William to station. Heard his statement on the walk. Took possession of hammer. Gave evidence at every hearing.
+
+### PC James Honey, N R 41
+Reserve constable. Went first to Dr Twining. Saw three dead children in kitchen; two injured twins in front room. **Under cross-examination confirmed: "I saw the noose on the string which was loose round the child's neck."**
+
+### PC Henry Wheatley, N 208
+Had charge of William in cell during first night. Received three statements at c.6:45pm, 7:30pm, and 9pm. **Confirmed under cross-examination: the word William used was "preying," not "playing."**
+
+### Inspector George Folkard
+N Division. Charged William. Examined cistern: 6ft from floor, 10in from ceiling, 14in deep, full length of room. Gave evidence at every hearing.
+
+### Sergeant Horace Smith, N 410 and Sergeant James Bryant, N 42
+Directed removal of children to mortuary. Deposed at inquest.
+
+---
+
+## THE LEGAL FIGURES
+
+### Mr C C Lewis
+Coroner, southern division of Essex. Conducted inquest. On Emma Clarke's "wished them dead" evidence: "He did not think anything would turn on that." Repudiated Juror Blyth's conduct.
+
+### Mr J P Grain and Mr Elliott
+Defended at trial. Grain described as proceeding "with utmost skill, discreetness, and ability" even in the judge's summing up. Hampered by the judge's refusal to allow Savage's full opinion.
+
+### Mr H B Poland and Mr Montagu Williams
+Prosecuted for the Crown.
+
+### Mr Justice Day
+Trial judge. Applied McNaughten Rules strictly. Refused to admit broader interpretation. Ridiculed second cousin evidence. Publicly questioned Savage's bona fides from the bench. Appeared "a good deal affected" when passing the death sentence.
+
+### Mr Blyth (juror)
+Visited Elizabeth at home during inquest adjournment. Told her it was no use trying to get William off the rope — jury believed she drove him to crime through jealousy. Dr Lyle protested formally. Blyth: "I am in the hands of the other jurymen, if I have been indiscreet."
+
+### Mr Charles Gepp
+Under Sheriff of Essex. Informed William the capital sentence would not be carried out. William received it "with deep gratitude."
+
+---
+
+## THE IRONWORKS WITNESSES
+
+### William Graves
+Foreman, Falkirk Ironworks. **Known William since birth. William and Elizabeth lived with Graves for approximately the first three years of their marriage. The three older boys were born in Graves's house.** Noticed change in William on 2 August. Gave defence testimony. Signed collective workmates' letter. Mrs Graves attended the children's funeral.
+
+### Charles Cakebread
+Workmate. Worked with William as his mate for some years. William asked him to knock his brains out with a hammer. Confirmed train and lift shaft statements.
+
+### Bennett Gouldstone
+William's brother. **Also at Falkirk Ironworks.** Gave defence testimony. Confirmed suicidal statements and suffering from rupture.
+
+### John Clark
+Workmate. Confirmed William's suicidal statements on many occasions, including when not in physical pain.
+
+### George Skelton
+Workmate. **Was in the lift when the rope broke.** William said: "Never mind, it goes to the bottom; it will only kill me out of the way." Also witnessed William's oscillation between depression and apparent elation.
+
+### William Henry Westbrook
+Manager. Described William as "almost bordering on moroseness. He would go home by himself and come by himself, and never seemed to have a companion with him."
+
+### Howard John Kinnaird
+Partner of the firm. Gave collective verdict: "The whole feeling of his fellow-workmen is that he is certainly insane." The firm had "fully 1,000 workmen."
+
+---
+
+## CONTEXTUAL AND PERIPHERAL FIGURES
+
+### Rev. Thomas Harrison Grantham Robinson (1837–1884)
+First Vicar of St Saviour's, Walthamstow, within the parish of St James's. Born Ireland, July 1837. Educated King's College London and University of Dublin. Ordained to Whitechapel; Secretary to the Prayer Book and Homily Society; assistant curate St Augustine's Highbury under Rev. Gordon Calthorp. In 1865 offered living of St James's. St Saviour's church built through munificence of Mr R. Foster.
+
+Conducted the funeral of the five Gouldstone children 13 August 1883. Almost certainly the "Vicar of the parish in which he lived" (BMJ 29 Sep 1883) who wrote to the Home Secretary supporting the reprieve.
+
+Died Friday 21 March 1884, age 46. Preached Sunday 16 March; visited parish Monday; felt unwell Wednesday; dead by Friday morning. Seven months after the murders. Five months after the reprieve. He buried the children, wrote the letter, and was dead before the outcomes were known.
+
+Character from obituary: "Large-hearted, good humoured, and kind to all." Respected by Nonconformists. The poor mourned him as "a departed leader and friend."
+
+### Sir William Harcourt
+Home Secretary. Ordered inquiry. Commuted the sentence. 
+
+### Dr William Orange
+Medical Superintendent, Broadmoor, 1870-1886. Examined William at Chelmsford alongside Dr Clarke. "Entertained no doubt of his insanity." His report almost certainly caused the reprieve.
+
+### Dr Clarke ("of London")
+Named in Sunday Dispatch (30 Sep) as second examining doctor alongside Orange. Full name and identity not established.
+
+### Mrs (Raymond) Pelly
+Wife of the vicar of St John the Evangelist, Stratford. **Founded St Agatha's Refuge, Stratford, 1883** — same year as murders. Church of England rescue institution for women in moral distress. [Essex Archives D/CAc 12/18] Note: all references to "Mrs Bayly's Refuge" in older project notes are errors.
+
+### Miss Skinner
+Worked for Mrs Pelly's Refuge. Visited William in his Stratford police cell during 20 August remand hearing. He "manifested a repentant mood." [Times 20 Aug]
+
+### Dr Lyle
+Elizabeth's attending physician after murders. Wrote formally to coroner protesting Juror Blyth's visit. Warned Elizabeth might die from the shock.
+
+### J Frost
+Infirmary staff member (almost certainly a trained nurse — the Brook Street infirmary trained its own staff). Present at Albert's birth 19 June 1887. Registered the birth the following morning, 20 June 1887. Listed as informant on Albert's birth certificate: "J Frost, present at the birth, workhouse infirmary, Brook Street, Lambeth." Full name and role not yet established.
+
+### W. Wood, M.D.
+Physician to St Luke's Hospital. Wrote to The Times (19 Sep 1883) arguing William's act was insane: "The law ignores all this."
+
+---
+
+## FIGURES IN THE LATER NARRATIVE
+
+### Albert Jennet Goldstone (1887–1962)
+Elizabeth's son. Almost certainly the biological son of William James Madams. Born 19 June 1887, Workhouse Infirmary, Brook Street, Lambeth. Registered by J Frost, 20 June. Elizabeth's address: 2 John Street, Hercules Buildings, Lambeth (now Park Plaza Hotel Waterloo). Father unnamed on birth certificate.
+
+Middle name **Jennet**: origin unknown. No family precedent found in Gouldstone, Stock, Suckling, or Crawley lines. Open question.
+
+**The Germany Lie:** From naval enlistment 19 June 1901, claimed to be born in Germany. Maintained on every document for 61 years. Marriage certificate (Q1 1910, Medway) lists father as "William Goldstone, Commercial Traveller" — using the murderer's real given name and surname variant.
+
+**Naval record physical description:** 5'5", brown hair, hazel eyes, fresh complexion. Tattoos: "I love KC" on right forearm; anchor on left forearm; five dots and ring on left hand. The five dots: possibly representing five murdered half-siblings. Cannot be verified. Once seen, cannot be unseen.
+
+**Naval career:** 1901-1919. HMS Courageous — Second Battle of Heligoland Bight (November 1917). Present at surrender of German High Seas Fleet (1918). North Russia intervention (1918-19).
+
+**Post-Navy:** Ships rigger; later foreman of ropery, Chatham Dockyard. Chatham Borough Councillor (family memory — not documentarily confirmed).
+
+**Albert → Vera Georgina Goldstone (b. 1 March 1921) → George William Ferguson (b. 1920) → Michael George Ferguson → Richard David Ferguson (b. 31 May 1970).**
+
+Died June 1962, Chatham. Germany lie maintained to the end.
+
+---
+
+### William James Madams (1860–1901)
+Almost certainly Albert's biological father. Born 1 May 1860, Whitstable, Kent. Cohabited with Elizabeth from approximately 1888. No marriage certificate found. 1901 census at 50 Middle Wall, Whitstable: Albert listed as his son — only document in Albert's life where a father is named. Admitted to Chartham Asylum, 4 September 1901 (National Archives MH 94/37). Died 23 November 1901.
+
+---
+
+### Lilian Florence Isabel Madams (b. 7 April 1890)
+Daughter of Elizabeth and William Madams. Born Whitstable.
+
+### Eliza Jane Madams (b. 16 September 1891)
+Daughter of Elizabeth and William Madams. Born Whitstable. 1891 birth certificate lists mother as "Elizabeth Madams, late Goldstone formerly Stock." Married Percy Coombs. Emigrated to New Zealand 29 June 1927, SS Ionic, with husband and seven children. Died 1 April 1976, Rangimarie Home, New Plymouth, aged 84.
+
+### Vera Georgina Goldstone (1921–1979)
+Albert's daughter. Rik's paternal grandmother. Born 1 March 1921, Chatham. The Germany lie passed to Vera as fact. She passed it to Mick. Mick passed it to Rik as family history. Died November 1979.
+
+---
+
+## FIGURES MENTIONED BUT NOT FULLY IDENTIFIED
+
+| Name | Known role | Status |
+|---|---|---|
+| Arthur Ansell | One of Elizabeth's six known Ansell half-siblings (Jemima's son by her first husband, John Ansell) | **Resolved 14 July 2026**: baptised 9 July 1843, Wethersfield; died in infancy, buried 29 April 1844. Not "the" half-brother — one of seven Ansell children. See Elizabeth's entry above. |
+| John Nathan Ansell / George Ansell / Emma Ansell | Elizabeth's Ansell half-siblings, remained with Jemima through widowhood | Traced in 1851 and 1861 censuses; Emma still in Jemima/Thomas's household in 1861 |
+| Eliza / Sarah / Alfred Ansell | Elizabeth's Ansell half-siblings | Present in 1841 census, unaccounted for after — not confirmed dead or found elsewhere |
+| Dr Clarke "of London" | Second examining doctor at Chelmsford alongside Orange | Full name unknown |
+| William's great-uncle | Committed suicide | Identity unknown |
+| "Cousin Gouldstone in Mash Street" | Referenced in William's Chelmsford letter | Identity unknown |
+| Mrs Graves | William Graves's wife; present at funeral | No first name in any source |
+| The 1883 Vicar of St James, Walthamstow | Made statement to Home Secretary per BMJ 29 Sep | Almost certainly Grantham Robinson — confirmed |
+| Joseph Gouldstone | Thomas's father; William's paternal grandfather | **Resolved 15 July 2026**: baptised 1793, blacksmith, Great Sampford and Little Sampford, buried 1876 St Michael's Great Sampford. See full entry above. |
+| Ruth Gouldstone | Thomas's mother; William's paternal grandmother | **Resolved 15 July 2026**, with an open contradiction: birthplace given as Broomfield (1851) or Bedford (1861), unreconciled. Buried 1866, St Michael's Great Sampford. See full entry above. |
+| Robert Goldstone / Rebecca | Joseph's parents; William's great-great-grandparents | Named only on Joseph's own baptism record. No independent record found. |
+| Ruth & Thomas Gouldstone (grandchildren, b. Holloway, Middlesex) | In Joseph and Ruth's 1861 household, relationship "grandchildren" | Parentage among Joseph's children unidentified. This Thomas is distinct from William's brother Thomas Jr — see Joseph's entry above. |
+| Mabel Gouldstone (b. c.1874) | Recorded as Thomas and Emily's daughter (1881) then granddaughter (1901) | Actual parentage unresolved. See entry above. |
+| James Goldstone (blacksmith, b. Thaxted) | Neighbouring household to Thomas Gouldstone, 1851 census | Likely relative, unconfirmed. |
+| Benjamin Gouldstone (shoe maker) | Great Sampford, 1874 Post Office Directory | Previously unrecorded. Different trade from the family's blacksmithing line. Relationship to Thomas's family unconfirmed. Found 15 July 2026. |
+| J Frost | Infirmary staff member; registered Albert's birth | Full name and role not yet established |
+| Edward Suckling | Elizabeth's maternal grandfather | **Resolved 14 July 2026**: b. Barking, Essex, c.1785–87; traced across four censuses (1841–71), Finchingfield; Ag Lab, later Gardener, later parish pauper. Earlier "1784–1864" dates were unsourced and should not be used. |
+| Sarah, Edward Suckling's wife | Elizabeth's maternal grandmother | b. Cranham, Essex. Surname unconfirmed — "Crawley" (earlier notes) not independently verified. |
+
