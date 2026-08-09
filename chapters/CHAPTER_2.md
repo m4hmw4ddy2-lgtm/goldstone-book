@@ -14,7 +14,7 @@ Jemima bore seven children between 1834 and 1843. By the 1841 census there were 
 
 Then, across a little over three years, Jemima buried nearly all of it.
 
-Sarah went first, in March 1844, aged eight. Seven weeks later Arthur followed her, not yet one. The following spring, John himself died, thirty-two years old. Between his children's burials, the year had produced only another grave. Four months after that, Eliza was buried, aged ten. The parish burial register lists her interment under her full name, Elizabeth. The next summer took Alfred, eight. Somewhere in amongst it all, an eighth child, a daughter named Edith, born after her father had already died, lived just long enough to be buried in February 1847, not yet two years old.
+Sarah went first, in March 1844, aged eight. Eight weeks later Arthur followed her, not yet one year old. The following spring, John himself died, thirty-two years old. Between his children's burials, the year had produced only another grave. Four months after that, Eliza was buried, aged ten. The parish burial register lists her interment under her full name, Elizabeth. The next summer took Alfred, eight. Somewhere in amongst it all, an eighth child, a daughter named Edith, born after her father had already died, lived just long enough to be buried in February 1847, not yet two years old.
 
 The register that records each burial doesn't say what took them. Scarlet fever, diphtheria, and typhus all moved through Essex villages in those years, any one of which could empty a house this thoroughly, but the entries themselves give no information beyond a name and a date. Six deaths in three years: a husband and five children, out of a household that had numbered eleven only a few years before.
 
