@@ -25,7 +25,7 @@ For a short while, Elizabeth was alone in the back room with William and the twi
 
 *I wasn't looking for William Gouldstone. I was looking for someone else entirely, a great-grandfather I already had a name for. But this is the story I found instead, waiting underneath the one I thought I wanted. A murder that horrified a nation, and without which I would not exist.*
 
-**Status: Settled.**
+**Status: Settled as of 8 July 2026, superseded by a later trim.** The version in `chapters/PROLOGUE.md` is shorter than the text above — it drops "She was asking from the bed, seven days after giving birth to twins, with five children under four and no room in the household for a lost wage," drops "William was within hearing but did not answer," and drops "He was three and a half, old enough to notice a change in the room but too young to know that his answer had any importance." **Rik confirmed 30 July 2026 that the trimmed `chapters/PROLOGUE.md` version is the correct, current one.** Treat the fuller text above as historical draft only — do not restore it, and do not flag the gap between the two as a regression in future sessions.
 
 ---
 
