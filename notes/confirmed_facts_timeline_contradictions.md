@@ -553,7 +553,7 @@ Two separate claims here, not to be conflated:
 4. What does the Walthamstow Guardian 11 August 1883 add? (Copy at Waltham Forest Archives)
 5. When was Courtenay Place demolished?
 6. Clarke's residence on ground floor — probable but not sourced
-7. Ada moving the chair back afterward — appears in press but not in sworn primary documents (NB: Ada's noticing the chair and questioning who moved it is now confirmed, sworn — see Part Three, Contradiction 3)
+7. Ada moving the chair back afterward — appears in press but not in sworn primary documents. Note: Ada's noticing the chair and questioning who moved it is a separate claim and is confirmed, sworn, in the coroner deposition, Ada's own witness statement, and the Old Bailey trial transcript — see session_updates_2026-07-08.md and the corrected item 3 in master-index.md, Section 9.
 8. What was Grantham Robinson's statement to the Home Secretary? Does it survive in HO 144?
 9. Electoral registers at Essex Record Office for room descriptions at the address
 10. Origin of Albert's middle name Jennet — no family precedent found anywhere in the record
