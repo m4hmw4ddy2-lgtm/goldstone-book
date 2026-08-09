@@ -46,7 +46,7 @@ Book section: Part Two
 **PC William Cheeseman — Witness Statement**
 `sources/trial-docs/Witness statements/PC William Cheeseman/Witness_Statement_William_Cheeseman_Complete.txt`
 Status: READ
-Key content: Walk to the station. William's full statement confirmed. At police station: "I've done it like a man."
+Key content: Walk to the station. William's full statement confirmed. At police station: "I've done it like a man." Also states: "I never heard the wife of prisoner say she had already wished the children dead" — independently corroborates Ada Hamilton's supplementary statement denial of the same thing; see Section 10 quote list and dramatis_personae.md.
 Book section: Part Two
 
 **PC James Honey — Witness Statement**
@@ -716,7 +716,9 @@ Book section: Part One
 
 2. **Penny Illustrated Oct 1883** — mention of William's mother found dead was a conflation with a subsequent unrelated article about a Mrs Pole. **DISCARD ENTIRELY.**
 
-3. **Chair-moving by Ada** — appears in DT 10 Aug and Western Times 14 Aug but NOT in Ada's formal witness statement or Old Bailey transcript. Not confirmed as a primary source fact.
+3. **Chair-moving by Ada** — RESOLVED 8 July 2026 (session_updates_2026-07-08.md). This entry previously conflated two separate claims; corrected split below. Do not restore the old wording above the line.
+   - Ada **noticing** the chair placed at the cistern and questioning who moved it — CONFIRMED, sworn, in all three of the coroner deposition, Ada's JP witness statement, and the Old Bailey trial transcript.
+   - Ada **moving the chair back** afterward — still press-only (DT 10 Aug, Western Times 14 Aug), not in any sworn primary document. Remains unconfirmed. Do not use.
 
 4. **Who took Frederick to the kitchen?** — Ada's coroner deposition (10 Aug, earliest) says Elizabeth. All subsequent testimony (witness statement onwards) says William. Working assumption: William. Discrepancy is real and noted.
 
@@ -742,7 +744,7 @@ Book section: Part One
 - On opening bedroom door (witness statement): "I have killed the children. I am a happy man now."
 - William's words to Emma Clarke when he opened the door (Clarke's coroner deposition, confirmed under cross-examination): "You can come in, it is all done."
 - To Ada about the cistern: "Your other three children are in the cistern."
-- To Elizabeth: "I have killed all your children. Now you'll be single again, and I shall be hanged."
+- To Elizabeth: "I have killed all your children. Now you'll be single again, and I shall be hanged." Fuller version, Old Bailey trial transcript (Ada Hamilton, cross-examined): "All your children are dead, and I shall be hanged, and you will be single again; you wished they were dead, and now you have got your wish." This "you wished them dead" clause is the specific claim that Ada (supplementary statement, 18 Aug) and PC Cheeseman (witness statement) both later deny ever having heard Elizabeth say — see their entries above and in dramatis_personae.md. William's own words at the scene are the origin of that claim; the two denials are not a response to press rumour, they directly refute what he said in the room, under oath.
 - To policeman: "Good evening, policeman; I have done it; now I am happy. I am ready for the rope."
 - On walk to station: "When I took my money last week I thought of buying a revolver to do it with, but I altered my mind, as I thought it would make too much noise. I had a hard job with the two biggest, but the other little one I soon settled him. I thought it was getting too hot. I have had five children in about three years and a half, so I thought I would put a stop to it."
 - At police station, c.6:45pm: "There is five of them gone to glory, and it is a good job."
@@ -758,10 +760,11 @@ Book section: Part One
 - Public statement, September 1883: "I have no doubt he did not know and could not help what he did. He was always most affectionate to me and the children, and I cannot think that he should suffer a shameful death for what would be to him, if he only understood it, the most awful distress."
 
 **Charles Gouldstone, age 3½, to Ada Hamilton:**
-- "My dada put it there." [about the chair placed near the cistern]
+- Three sworn wordings of the same exchange, about the chair placed near the cistern: coroner deposition (10 Aug) — "My Daddy put it there"; JP-sworn witness statement (9 Aug, resworn 11 Aug) — "Dad did it"; Old Bailey trial transcript (14 Sep, cross-examined) — "My dada put it there." **Prose uses the coroner deposition's wording** ("My daddy put it there") by deliberate editorial choice, not because it is the most authoritative of the three — full reasoning and sourcing under Charles Gouldstone's entry in dramatis_personae.md.
 
 **Emma Clarke, confirmed under cross-examination:**
 - William's words on opening the door: "You can come in, it is all done."
+- Said she had heard Elizabeth say she wished the children dead — "when she was worried, not in earnest," said to the children when they were being difficult. The coroner: "He did not think anything would turn on that." This is a different claim from William's own accusatory use of "you wished them dead" at the moment of arrest (see William's quote list, above) — Clarke's account is domestic and innocuous; Ada and Cheeseman separately deny ever hearing the words at all. All three should be read together, not conflated: one witness heard something like it in an ordinary context, two others deny hearing it in any context.
 
 **George Henry Savage:**
 - "If this man is hanged, I think it will be a scandal to law."
