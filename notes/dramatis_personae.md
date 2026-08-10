@@ -141,13 +141,13 @@ Died Q2 (Apr–May–Jun) 1913, Saffron Walden registration district, age 79. GR
 
 ---
 
-### Robert Gouldstone
-William's eldest brother. At trial: confirmed family hid knives and razors from mother. Confirmed William's suicidal statements and complaints of head pains.
+### Robert Gouldstone (b. 7 January 1855)
+Baptised St Michael's, Great Sampford, father Thomas, mother Emily (D/P 289/1/13, p.95 — confirmed 30 July 2026). William's eldest brother. At trial: confirmed family hid knives and razors from mother. Confirmed William's suicidal statements and complaints of head pains. Key witness for the unresolved Chapter 3 blocker on the Finchingfield blacksmith partnership with William — his own testimony dates it to "six to eight years" before the September 1883 trial (c.1875–77), which would put Robert at about 20–22, consistent with his account.
 
 ---
 
-### Emily Gouldstone (b. c.1852)
-William's sister. In service in London at time of trial. Brief evidence about mother's suicide attempts.
+### Emily Gouldstone (b. 5 March 1854)
+Baptised St Michael's, Great Sampford, father Thomas, mother Emily — middle name "Willett" per two independent transcriptions of the same record, both misreadings ("Millett," "Wilett"); a third independent instance of the same M/W error already flagged in the 1911 census index ("Nillett"). Birth year corrected 30 July 2026 from an earlier census-derived estimate of c.1852. William's sister. In service in London at time of trial. Brief evidence about mother's suicide attempts.
 
 ---
 
@@ -175,8 +175,8 @@ William's paternal grandfather. Baptised 17 March 1793, St Michael's, Great Samp
 - **James** (age 11, 1841)
 - **Lydia** (age 10, 1841; age 21 and working as a straw plaiter by the 1851 census)
 - **Ruth Jr** (age 6, 1841; age 16, straw plaiter, 1851)
-- **Joseph Jr** (age 3, 1841; age 13, agricultural labourer, 1851 — possibly the parent of the two Holloway-born grandchildren recorded in the 1861 household, below, though this is unconfirmed)
-- **Ann** (b. ~1819, not recorded in the 1841 household with the others — first appears in the 1861 census, unmarried, age 42, occupation dressmaker, still living with her parents)
+- **Joseph Jr** (age 3, 1841; age 13, agricultural labourer, 1851 — full census trail now reconstructed to 1901, likely settled permanently in Kent as a brick burner; possibly the parent of the two Holloway-born grandchildren recorded in the 1861 household, below, though this is now considered a *weaker* candidacy than Ann's — see full detail and citations in MASTER_NOTES.md, Part Ten)
+- **Ann** (b. ~1819/1820, not recorded in the 1841 household with the others — first appears in the 1861 census, unmarried, age 42, occupation dressmaker, still living with her parents. Buried 14 November 1866, St Michael's, Great Sampford, age 46, under her maiden name — died unmarried. Working hypothesis as mother of the two Holloway-born grandchildren, not confirmed — see full detail, caveats, and citations in MASTER_NOTES.md, Part Ten)
 
 **Two grandchildren in the 1861 household**, relationship to the rest of the family otherwise unconfirmed: **Ruth Gouldstone** (age 7, born **Holloway, Middlesex**) and **Thomas Gouldstone** (age 5, born **Holloway, Middlesex**). Likely children of one of Joseph's own children who had moved to London, parent unidentified. This Thomas (b. ~1856, Holloway) is explicitly **not the same person** as William's own brother Thomas Gouldstone Jr (b. ~1859, Great Sampford) — the two appear in two separate households on the same 1861 census night, which confirms they cannot be one individual. Flagged here specifically to prevent future conflation, given the identical name, surname, and generation.
 
