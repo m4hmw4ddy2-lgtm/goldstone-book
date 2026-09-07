@@ -55,6 +55,48 @@ And decisively: **neither of the two most authoritative local sources mentions t
 
 ---
 
+## PART TWO-AND-A-HALF: DR SUNDERLAND IDENTIFIED, AND A NEW ANDREWS LEAD
+
+**Dr Sunderland's full identity, found via Essex Archives Online (D/P 16/25/65T).** The trial testimony names only "Dr Sunderland of Thaxted" as the physician who attended Ann Willett ("Mrs Andrews") for her despondency and suicidal inclinations. An Essex Record Office deed dated 1 October 1890 — appointment of new trustees for Yardley's Charity, Thaxted, St John the Baptist parish — independently confirms his full identity: **William Sunderland, surgeon**, of Thaxted, listed among a group of local trustees (farmers, an auctioneer, an accountant, a butcher, a confectioner, a brewer). This is a genuinely independent, non-genealogical primary source — a charity administration deed, not a family record — and it confirms he was a real, established local figure still active and locally prominent seven years after the 1883 trial. Good corroborating texture for his standing as the kind of physician a family in this area would plausibly have engaged.
+
+**New, unresolved lead: Mordecai Charles Andrews, brewer, Thaxted.** The same 1890 trustee deed lists a Mordecai Charles Andrews, brewer, also of Thaxted, alongside William Sunderland. Ann Willett's own husband — "Mrs Andrews" of the trial testimony — was **Thomas Andrews**, described at trial as a small farmer (independently matched via the primary parish marriage register, 14 May 1850, St Mary the Virgin, Saffron Walden). Different first name, different trade from Thomas, so almost certainly not the same man — but the shared surname, same small town (Thaxted), and correct era raise an obvious question: is Mordecai Charles Andrews a son or other relative of Thomas and Ann's? **Not yet checked.** Worth a direct search — an 1891 census entry for Mordecai Charles Andrews, Thaxted, checked against Thomas and Ann's own known household (New Biggen, Thaxted, 1891 census — Thomas 77, retired farmer; Ann 61; daughter/stepdaughter Eliza, 49) — would settle it either way. If connected, this would be useful corroborating texture: it would mean the Andrews family had real, lasting standing in Thaxted across at least two generations, consistent with Thomas's "small farmer" description and Eliza's known role caring for her stepmother in the household.
+
+---
+
+## PART TWO-AND-THREE-QUARTERS: GENERATION 1 GENEALOGY, SUBSTANTIALLY UPGRADED — GENERATION 0 FOUND
+
+Two batches of parish records, supplied by Rik, take Robert and Rebecca Gouldstone (Great Sampford's Generation 1, previously circumstantial only) to firmly documented, and add a new generation behind them.
+
+**Marriage record.** Robert Goldstone and Rebecca Taylor married 13 February 1774, Great Bardfield, Essex (FamilySearch batch M15069-2, GS film 990406). This is the first record giving Rebecca's maiden name (Taylor). The marriage location, Great Bardfield rather than Great Sampford, is consistent with the wider pattern already noted in this family across generations (Thomas's own later move to Finchingfield; the family's world repeatedly touching the same small cluster of villages without ever converging with Elizabeth's side).
+
+**Robert's own baptism, found — a new Generation 0.** Robert Goldstone baptised 31 October 1751, St Michael's, Great Sampford, son of **Edward Goldstone and Ann** (archive ref D/P 289/1/3). This matches, precisely, the birth year already estimated from the burial register (buried 1824, aged 73 → b. ~1751). Three independent sources — burial age, 1774 marriage record, and now his own baptism — now converge on this man. **Confidence: high, no longer circumstantial.**
+
+**A full sibling set for Joseph, previously unknown.** All baptised St Michael's, Great Sampford, father Robert, mother Rebecca (archive refs D/P 289/1/3 and D/P 289/1/4):
+
+| Name | Baptised |
+|---|---|
+| Ann | 19 Nov 1780 |
+| Robert (the younger) | 30 May 1784 |
+| Rebecca | 22 Jan 1786 |
+| Elizabeth | 15 Apr 1787 |
+| Thomas | 3 Jul 1791 |
+| Joseph (already established, Generation 2) | 17 Mar 1793 |
+
+Six years between the 1774 marriage and the earliest known baptism (Ann, 1780) leaves room for still-earlier children not yet found — worth a further check, not urgent.
+
+**NAMING COLLISION — FLAG CLEARLY, ADD TO DRAMATIS PERSONAE.** There are now two "Thomas Goldstone/Gouldstone" men in this family line, one generation and thirty years apart:
+
+- **Thomas Goldstone, b. 1791** — Joseph's elder brother, i.e. great-uncle to "our" Thomas.
+- **Thomas Gouldstone, b. 1821** — Joseph's son, the blacksmith at the centre of Chapter 3, William's father.
+
+Any future search of the St Michael's, Great Sampford registers for "Thomas Goldstone/Gouldstone" will return both men. Keep them clearly distinguished in all notes and in dramatis_personae.md going forward.
+
+**Consequence for the Chapter 3 draft in progress.** The current draft opening (new scene-first style, see chat log) contains the line: *"Joseph Gouldstone had been baptised at St Michael's in March 1793, son of a Robert and Rebecca Gouldstone who exist nowhere else in the surviving record, not baptised, not married, not recorded doing anything at all beyond producing a son and then, decades apart, dying in the same small parish."* **This is now factually superseded and needs rewriting.** Robert and Rebecca are no longer a dead end in the record — they have their own baptisms (Robert's, at least — Rebecca Taylor's own baptism not yet searched), a marriage record, and five other named children besides Joseph. The line's rhetorical point (a couple visible only as parents, otherwise blank) no longer holds and should be replaced with something reflecting the fuller picture: a couple who raised at least six children at Great Sampford, Robert himself a third-generation figure back to Edward and Ann Goldstone.
+
+**Not yet done:** Rebecca Taylor's own baptism (maiden family, birth year, parish) has not been searched. Edward and Ann Goldstone (Generation 0) have no other record yet beyond being named as Robert's parents on his 1751 baptism.
+
+---
+
 ## PART THREE: METHODOLOGICAL NOTE FOR FUTURE SESSIONS
 
 This session is a useful case study in both directions of the source-fidelity rule. Claude's first instinct on seeing an AI-generated overview was to pattern-match it as unreliable and start hunting for the errors — which found one real error (the coaching claim) but also produced two false positives (the windmill count, the Bridge House workhouse) where the claim was actually correct and Claude's own assumption was wrong. The fix in both directions was the same: check the specific claim against a specific primary or authoritative secondary source, not against a general prior about the reliability of the source type. This is worth keeping in mind both when AI-generated content is pasted into a session and, more importantly, when Claude is drafting prose itself — the same discipline applies to Claude's own unverified assumptions (see: the "administrative divide" framing in Part One, which was Claude's own construction, not the AI Overview's, and needed the same correction).
