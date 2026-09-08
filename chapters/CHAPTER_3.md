@@ -10,7 +10,7 @@ He started at the Norrises'. William and Henry Norris, brothers and partners, ra
 
 Last on the row that morning, past the labourers' cottages, was the smithy, and here Burton found a different kind of household again: Thomas Gouldstone, thirty-nine, a blacksmith employing three men, his wife Emily, twenty-seven, with their four children: Emily nine, Robert seven, William four, and Thomas two, filling the rest of the house around them. No servant here either, but a business all the same, three men on his books who returned to their own homes each night rather than sleeping in Thomas's.
 
-Thomas sat somewhere between the shopkeepers and the labourers on Burton's page: a tradesman with three employees, but no servant in the house. A smith earned his own place by the work of his own hands.
+Thomas sat somewhere between the shopkeepers and the labourers on Burton's page: a tradesman with three employees, but no servant in the house.
 
 Burton's book could go no further back than that one morning. A ledger only ever records snapshots, not history. What it couldn't show was already old news to everyone on that row: that the smith at the end of the lane was himself a smith's son, and his father a smith's son before him, back at least as far as anyone in the village could remember.
 
@@ -28,7 +28,7 @@ A juryman broke in before anyone could move on.
 
 Nobody in the courtroom needed telling twice. Thomas didn't pause for it, didn't explain himself, just carried on: "I have taken a knife away from her several times during that time. She was going to make an end of herself, as far as I could see." Pressed again later, under cross-examination, he gave the same fact in plainer words, the county dialect dropped for the one the barristers would use: "It was about eighteen years ago that she tried to strangle herself... it was about eighteen years ago she took the knife up."
 
-Thomas could put a date on it, but how many times he never said, only "several." Her sister at Thaxted carried the same darkness, bad enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had also finished what the two sisters only attempted. And in 1880, his cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
+Thomas could put a date on it, but how many times he never said, only "several." Her sister at Thaxted suffered similar problems, serious enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had died by suicide. And in 1880, his cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
 
 Emily's illness was therefore not an isolated event in the family history. Thomas later described similar problems among other relatives on both sides. William grew up in a household in which his mother's illness was longstanding and, at times, dangerous.
 
