@@ -24,7 +24,7 @@ On 16 June 1854, at the same church where she had buried five of her own childre
 
 The following year, Elizabeth was born.
 
-She was not yet a year old when John Nathan, the eldest of her mother's Ansell children, died in July 1856, aged twenty-two. He was buried under the name Nathan alone, the John dropped from the register. Two years after that, George followed him, nineteen. Only Emma was left of the eight, living on in her mother and stepfather's household until her own death in November 1861, the first of her mother's losses that Elizabeth was old enough to understand.
+She was not yet a year old when John Nathan, the eldest of her mother's Ansell children, died in July 1856, aged twenty-two. He was buried under the name Nathan alone, the John dropped from the register. Two years after that, George followed him, nineteen. Only Emma was left of the eight, living on in her mother and stepfather's household until her own death in November 1861, the first of her mother's losses that Elizabeth was old enough to remember.
 
 By then, every child Jemima had borne before Elizabeth was dead. Elizabeth was the only survivor of nine births across her mother's two marriages.
 
