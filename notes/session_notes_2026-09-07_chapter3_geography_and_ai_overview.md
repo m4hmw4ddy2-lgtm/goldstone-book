@@ -97,6 +97,18 @@ Any future search of the St Michael's, Great Sampford registers for "Thomas Gold
 
 ---
 
+## PART FOUR: "GRAIN" — ETYMOLOGY, LOGGED FOR LATER USE, NOT FOR CHAPTER 3
+
+Rik supplied a dictionary entry (Webster's New International) confirming and dating the Essex dialect word central to Thomas's 1883 trial testimony: **"grain," dialect England, transitive verb: to strangle, choke** — from obsolete *grane*, "trap, snare, noose," from Middle English, related to *grin* (a noose). The word's own etymology carries a noose inside it.
+
+This is a genuine, striking resonance with the Prologue (William brought a noose home in his pocket) — but a deliberate editorial decision was made **not** to use the etymology in Chapter 3, on the same principle already governing that chapter throughout: no reaching toward the murders, no dramatic irony aimed at events the household hasn't yet lived through within its own timeframe. Folding "noose" into a scene about Emily in the 1860s–70s would be foreshadowing exactly where the project has committed to avoiding it.
+
+**Where this could go instead**: wherever the book actually deals with the noose itself, Part Two or Part Three, once the word "grain" has already been used plainly (without comment on its roots) in Chapter 3. The resonance would land harder for a reader who already has the word in mind from Emily's story, without the book ever having to point at the connection itself.
+
+Primary source for the word's actual courtroom use, confirmed this session directly from the trial transcript (sources/trial-docs/): Thomas Gouldstone's testimony that his wife "tried to grain herself with a scarf," interrupted mid-sentence by a juror's bracketed interjection in the transcript itself: **"[A JURYMAN: Grain is the Essex word for strangle.]"** The juror was glossing the word for the court, not merely recognising it silently — worth keeping this direction correct in any future drafting, since an earlier draft of the Chapter 3 passage had it backwards.
+
+---
+
 ## PART THREE: METHODOLOGICAL NOTE FOR FUTURE SESSIONS
 
 This session is a useful case study in both directions of the source-fidelity rule. Claude's first instinct on seeing an AI-generated overview was to pattern-match it as unreliable and start hunting for the errors — which found one real error (the coaching claim) but also produced two false positives (the windmill count, the Bridge House workhouse) where the claim was actually correct and Claude's own assumption was wrong. The fix in both directions was the same: check the specific claim against a specific primary or authoritative secondary source, not against a general prior about the reliability of the source type. This is worth keeping in mind both when AI-generated content is pasted into a session and, more importantly, when Claude is drafting prose itself — the same discipline applies to Claude's own unverified assumptions (see: the "administrative divide" framing in Part One, which was Claude's own construction, not the AI Overview's, and needed the same correction).
