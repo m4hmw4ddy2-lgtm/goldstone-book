@@ -34,6 +34,6 @@ Most men worked as agricultural labourers, like Elizabeth's father. A great many
 
 In 1861 Elizabeth was recorded as a scholar. It tells us almost nothing about what her schooling consisted of. There was no law yet requiring schooling; in 1861 a great many working-class children went entirely without it, and the government's own education commissioners could not even say how many there were. She went anyway, in a village where plenty of other children were already at work by ten or eleven, plaiting, minding younger siblings, or following a father into the fields.
 
-What Elizabeth carried away from that schoolroom is uncertain. She may have learned to read, to write a little, both, or neither; the records had little reason to test the difference. Eighteen years later, on her wedding certificate, she made her mark, a spidery 'x'. So did William.
+What Elizabeth carried away from that schoolroom is uncertain. She may have learned to read, to write a little, both, or neither; the records had little reason to test the difference. Eighteen years later, on her wedding certificate, she signed her own name. So did William.
 
 Jemima had lost far more than Elizabeth ever saw, and most of it before Elizabeth was even born. Elizabeth's childhood began in her mother's losses.
