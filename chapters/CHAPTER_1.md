@@ -6,7 +6,7 @@ In 1861, when Elizabeth was six, that ledger finds her at Brewery House, Wethers
 
 Brewery House was a designation far more than it was a name. It marked out the whole of Thomas Raven's brewing works, and in 1861 the census recorded four separate dwellings under it, one after another on the enumerator's page: Raven's own household; William and Ann Westwood's; the Stocks'; and, in the fourth, Elizabeth Love, seventy-eight, a widow, with her son George.
 
-The house Raven himself lived in survives today, known as Hillfoot House: a handsome, double-fronted building of rendered brick, with white chimneys standing either side of its front door. Behind it, the windmill on the western edge of the village stood close enough for the sails to be visible from the yard. Corn and malt turned within sight of each other. In front, the village green stretched between the house and the church beyond.
+The house Raven himself lived in survives today, known as Hillfoot House: a handsome, double-fronted building of rendered brick, with white chimneys standing either side of its front door. Behind it, the windmill on the western edge of the village stood close enough for the sails to be visible from the yard. Mill and malt turned within sight of each other. In front, the village green stretched between the house and the church beyond.
 
 Raven was farmer of a hundred acres, maltster, and brewer, his work running from field to malthouse to barrel. His two sisters kept his house around him, while his nineteen-year-old nephew, another Thomas, was already learning the brewing trade. Next door, at the Brewery Tap, Edwin Martin kept the public house that sold what Raven brewed.
 
