@@ -1,6 +1,6 @@
 # Prologue
 
-When William Gouldstone came home early on the evening of Wednesday the eighth of August 1883, Elizabeth was still upstairs in the back room, seven days delivered of twins and not yet recovered enough to leave her bed. She heard him enter, but it was Ada Hamilton, the monthly nurse, who went through to the kitchen and found him standing by the dresser. William was a whitesmith, and his usual hour of return was half past seven. It was only a quarter past five. Ada told him that he had frightened her. She had wondered who was there. He smiled but made no reply.
+When William Gouldstone came home early on the evening of Wednesday the eighth of August 1883, Elizabeth was still upstairs in the back room, seven days delivered of twins and not yet recovered enough to leave her bed. She heard him enter, but it was Ada Hamilton, the monthly nurse, who went through to the kitchen and found him standing by the dresser. William was a whitesmith, and his usual hour of return was half past seven. It was only a quarter past five. Ada told him that he had frightened her, that she had wondered who was there. He smiled but made no reply.
 
 A little later he came to the bedside and stood there without speaking. Elizabeth asked how it was that he was home so early, and he replied that he had left when the manager went to dinner. He had not been at the works since the Bank Holiday. When she asked whether he had told them at the shop that she was confined, he said simply, "No."
 
