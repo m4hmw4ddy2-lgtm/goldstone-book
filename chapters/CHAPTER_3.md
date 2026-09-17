@@ -4,7 +4,7 @@ THE FORGE
 
 The 1861 census schedules for Great Sampford went out in the last days of March, one to a household, to be filled in by whoever in the house could write and handed back the morning after census night. Not everyone could. Where nobody in a house had the schooling for it, the form went next door, or down the lane, to whoever did, a neighbour, more often than not the local publican. Where even that failed, the enumerator filled it in himself, standing on the doorstep, asking the questions aloud and writing down the answers in his own hand.
 
-On Monday the 8th of April, John Burton walked the lanes of Great Sampford doing exactly that, collecting what had been filled in and finishing what hadn't. The Sunday itself had been cold and overcast, low cloud pressing down over the flat Essex fields; by the Monday it had cleared, the sky washed blue, the wind swinging round to blow gently out of the east. Burton worked his way down the row.
+On Monday the eighth of April, John Burton walked the lanes of Great Sampford doing exactly that, collecting what had been filled in and finishing what hadn't. The Sunday itself had been cold and overcast, low cloud pressing down over the flat Essex fields; by the Monday it had cleared, the sky washed blue, the wind swinging round to blow gently out of the east. Burton worked his way down the row.
 
 He started at the Norrises'. William and Henry Norris, brothers and partners, ran a butcher's shop and kept an inn, and their schedule came back to him already filled in, a housekeeper, a house servant and a groom living in with them, three staff for two men doing well enough to need the help. Next came William Ruffle, grocer and draper, who kept one servant of his own. Then Watson, then Drane, both agricultural labourers. For neither of those two did Burton have anyone else to record at all.
 
@@ -22,7 +22,7 @@ Burton's page said nothing about the illness Emily carried into that house along
 
 "My wife, the prisoner's mother, is alive," Thomas told the court. "She is very bad in her mind now, and has been for a good many years. She was in a very bad way about eighteen years ago. I kept a woman with her. She tried to grain herself with a scarf."
 
-A juryman broke in before anyone could move on.
+A juryman interrupted before the court could move on.
 
 "Grain is the Essex word for strangle."
 
