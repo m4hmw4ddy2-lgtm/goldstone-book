@@ -4,7 +4,7 @@ THE FORGE
 
 The 1861 census schedules for Great Sampford went out in the last days of March, one to a household, to be filled in by whoever in the house could write and handed back the morning after census night. Not everyone could. Where nobody in a house had the schooling for it, the form went next door, or down the lane, to whoever did, a neighbour, more often than not the local publican. Where even that failed, the enumerator filled it in himself, standing on the doorstep, asking the questions aloud and writing down the answers in his own hand.
 
-On Monday the 8th of April, John Burton walked the lanes of Great Sampford doing exactly that, collecting what had been filled in and finishing what hadn't. The Sunday itself had been cold and overcast, low cloud pressing down over the flat Essex fields; by the Monday it had cleared, the sky washed blue, the wind swinging round to blow gently out of the east. Burton worked his way down the row.
+On Monday the eighth of April, John Burton walked the lanes of Great Sampford doing exactly that, collecting what had been filled in and finishing what hadn't. The Sunday itself had been cold and overcast, low cloud pressing down over the flat Essex fields; by the Monday it had cleared, the sky washed blue, the wind swinging round to blow gently out of the east. Burton worked his way down the row.
 
 He started at the Norrises'. William and Henry Norris, brothers and partners, ran a butcher's shop and kept an inn, and their schedule came back to him already filled in, a housekeeper, a house servant and a groom living in with them, three staff for two men doing well enough to need the help. Next came William Ruffle, grocer and draper, who kept one servant of his own. Then Watson, then Drane, both agricultural labourers. For neither of those two did Burton have anyone else to record at all.
 
@@ -22,7 +22,7 @@ Burton's page said nothing about the illness Emily carried into that house along
 
 "My wife, the prisoner's mother, is alive," Thomas told the court. "She is very bad in her mind now, and has been for a good many years. She was in a very bad way about eighteen years ago. I kept a woman with her. She tried to grain herself with a scarf."
 
-A juryman broke in before anyone could move on.
+A juryman interrupted before the court could move on.
 
 "Grain is the Essex word for strangle."
 
@@ -30,10 +30,10 @@ Nobody in the courtroom needed telling twice. Thomas didn't pause for it, didn't
 
 Thomas could put a date on it, but how many times he never said, only "several." Her sister at Thaxted suffered similar problems, serious enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had died by suicide. And in 1880, his cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
 
-This is what Emily carried while she raised four children, then six. This is what Thomas carried too, from his own side of the family, in the same house, watching the same thing show up over and over. William grew up in a household in which his mother's illness was longstanding and, at times, dangerous.
+This is what Emily carried while she raised four children, then six, and what Thomas carried too, from his own side of the family, in the same house, watching the same thing show up over and over. William grew up in a household in which his mother's illness was longstanding and, at times, dangerous.
 
 By 1871 the family had moved half a mile north, out past the last of the village proper, to a scatter of houses that went by the name Moor End. The White House stood there, timber-framed, two centuries old already by the time the Gouldstones took it on, and Thomas had added a second trade to the first. He kept the forge going and ran the White House as a pub besides, blacksmith and publican both, his name entered twice over in the trade directory the year after, once for beer, once for iron.
 
 The household filled around him. Emily, nineteen now. Robert, sixteen. William, fourteen, still down as a scholar, not yet pulled into the trade whatever training he'd already begun at his father's elbow. Thomas Jr, twelve. Bennett, nine. Flora, seven. Hugh, three. Seven children under one roof that was also, on many nights, a public bar, the smell of the forge outside mixing with beer and tobacco from the room next door, the whole family living in the space between.
 
-By fourteen, in a household like this one, a boy was very nearly a man. Whatever William took in that year, and the years around it, it did not stay vague. Fourteen is not an age things wash past. It is an age things lodge, and stay, and start to shape what a person does with everything that comes after. What exactly he understood, what he was told outright and what he worked out on his own, we can never know. But it went in. It was already part of him by the time he left home.
+By fourteen, in a household like this one, a boy was very nearly a man. Whatever William took in that year, and the years around it, it did not stay vague. By fourteen, these things stick. They stay, and shape what a person does with everything that comes after. What exactly he understood, what he was told outright and what he worked out on his own, we can never know. But this was the house he grew up in. Whatever he made of it, he carried it with him when he left.
