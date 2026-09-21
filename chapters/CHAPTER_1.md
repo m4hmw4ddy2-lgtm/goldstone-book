@@ -1,0 +1,41 @@
+Chapter One
+
+THE LEDGER
+
+Elizabeth Stock was born on the eighteenth of February 1855. The registrar wrote her birthplace down as 'The Village, Weathersfield', and her father as Thomas Stock, agricultural labourer. Her mother's name went down in full: Jemima Stock, late Ansell, formerly Suckling.
+
+Nobody recorded what Elizabeth's childhood was like. No school report, no letters survive, not a line in her own words from before her own children were murdered. What survives is a census taker's ledger, a scattering of addresses, and the outline of a household already remade before she was old enough to understand it.
+
+In 1861, when Elizabeth was six, that ledger finds her at Brewery House, Wethersfield, with her parents Thomas and Jemima Stock. In the same household were Emma and John Ansell. John, eighty-five years old and blind, was recorded as 'father-in-law', though he shared no blood with Thomas Stock. He was the father of Jemima's first husband, sixteen years dead by then. Emma, twenty, a straw plaiter, was recorded as 'daughter-in-law', though she was Elizabeth's half-sister. The census had a word for what everyone in that house was to Thomas. It had none for what most of them were to each other.
+
+Brewery House was the name for the whole of Thomas Raven's brewing works, and in 1861 the census recorded four separate dwellings under it, one after another on the enumerator's page: Raven's own household; William and Ann Westwood's; the Stocks'; and, in the fourth, Elizabeth Love, seventy-eight, a widow, with her son George.
+
+The brewery was as new as Elizabeth was. It had been established in 1855, the year she was born.
+
+The house Raven himself lived in survives today, known as Hillfoot House: a handsome, double-fronted house of rendered brick, with a bay window rising the full two storeys on either side of its front door and a tall brick chimney at each end of the roof. Behind it, the windmill on the western edge of the village stood close enough for the sails to be visible from the yard, across flat, open ground with nothing standing in between. Mill and malt turned within sight of each other. Near the mill stood the Independent chapel, with a burial ground of its own. In front, the village green stretched between the house and the church beyond.
+
+St Mary Magdalene had stood on the same ground for the better part of nine hundred years by the time Elizabeth was born. Some of it predated William the Conqueror; a scrap of Anglo-Saxon wall was still visible where the nave met its northwest corner. Her mother had been married there twice.
+
+Raven was farmer of a hundred acres, maltster, and brewer, his work running from field to malthouse to barrel. His two sisters kept his house around him, while his nineteen-year-old nephew, another Thomas, was already learning the brewing trade. Next door, at the Brewery Tap, Edwin Martin kept the public house that sold what Raven brewed. Up in the village, at the top of Dog Chase where it met the High Street, the Dog Inn was the Ravens' too.
+
+The Stocks lived in one of the other dwellings on the same site. George Love, Raven's journeyman brewer, lived in another with his widowed mother, Elizabeth. William Westwood made shoes. His wife, Ann, plaited straw for hats, as most of the women and half the children in Wethersfield did by then. The straw was split into fine lengths with a small hand tool, plaited into long strips, and sold on for a few pence a bundle. In 1991 a woman in the village still had some of the plaiting, and the things you split the straw with. Four working households, sharing one site and one name, though not, it seems, one roof.
+
+None of them had water in the house. Nobody in Wethersfield did, and nobody would for another seventy-six years. It came from the springs, or from the public pump on the High Street, and it was carried.
+
+In 1861 the parish covered a little over four thousand acres and held something under two thousand people. There were more women than men, and the margin had been widening at every census for half a century. Most of the men worked on the land, as Elizabeth's father did. A great many of the women and children, when they were not working in the fields or minding a house, sat over the straw, the way Mrs Westwood did, and the way Emma did.
+
+John Ansell had not always been the guest, or the burden. Twenty years earlier he had been the head of his own household on Dog Chase: an established brewer with his son, also John, working the land, and that son's wife and their six small children living under his roof and within his good graces. The son's wife was Jemima. She would go on to marry Thomas Stock and become Elizabeth's mother, but not yet. Not for another thirteen years. The younger John Ansell died in April 1845, just thirty-two years old. What became of his father afterward is written plainly enough in the record, if nowhere else. By 1851 his own wife, Elizabeth, was gone too, dead that February. His trade had gone from the record with her. In that year's census he was recorded as an agricultural labourer and widower, living in his daughter-in-law's house, as she and her children had once lived in his. Ten years further on he was blind as well, the declining years of a fall that had begun a decade earlier, brewer to labourer to dependent.
+
+Elizabeth would only ever have known him as he was that year: old and sightless, a man who had once run a business and headed a household and had, by the time she could form any memory of him at all, nothing left but a place at his daughter-in-law's table. He was still grandfather to Jemima's Emma.
+
+She would have known Emma better. Twenty years old that April, working the straw the way half the village did, sharing whatever passed for ordinary days in their crowded house. The census called her a daughter-in-law. To Elizabeth she was a big sister, the one who still lived at home and always had.
+
+In 1861 Elizabeth was recorded as a scholar. There was no law yet requiring it, and there would not be for another nineteen years. A great many working-class children went entirely without schooling, and the government's own education commissioners could not even say how many there were. She went anyway, in a village where plenty of other children were already at work by ten or eleven, plaiting, minding younger siblings, or following a father into the fields. When Thomas Stock registered her birth, he signed with his mark. At their wedding the year before, he and Jemima had each made one. Eighteen years after the enumerator wrote her down as a scholar, Elizabeth signed her own name in the marriage register. So did William.
+
+Elizabeth was not the only scholar in the village. Up on the High Street, two doors from the Red Lion, the same census found Susan Newman, five years old, recorded the same way, with a brother of three. Their mother was a widow of twenty-three, and in service.
+
+Emma died at home on the twenty-seventh of October. The certificate gave the cause as diseased lungs, of a month's standing, and Mary Livermore, who was with her at the end, registered the death with her mark. In rural Essex the dead were commonly kept in the house until the burial, three or four days, washed and laid out by a neighbour and watched over through the nights. People came to the house to see the body, more of them than would follow it to the churchyard. Children were not necessarily excluded from any of this. In some households they were even asked to touch the dead, so that they would not dream of them afterward. Whether six-year-old Elizabeth was one of them is impossible to know, though she may well have been brought to her sister's side.
+
+Elizabeth was six. Emma's was perhaps the first death she was old enough to remember. It was not the last loss she would live through, though very likely the first she understood as a loss at all.
+
+Emma was buried at St Mary Magdalene on the second of November 1861, six days after she died, aged twenty-one. Seven months earlier the census had recorded her as a straw plaiter, living at home. She was the last of Jemima's first family.
