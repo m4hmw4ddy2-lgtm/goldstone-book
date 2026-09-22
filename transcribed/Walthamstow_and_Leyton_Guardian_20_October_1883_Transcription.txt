@@ -1,0 +1,49 @@
+Source image: sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_20_October_1883_0005_Clip.jpg (745 x 823)
+Newspaper/title if visible: not visible in the crop; the file is from the Walthamstow and Leyton Guardian
+Date if visible: not visible in the crop; the filename gives 20 October 1883 (a Saturday)
+Page/column/article if known: two consecutive items in a single column
+Transcription scope: the whole clip
+Transcription status: Complete. Transcribed 22 September 2026.
+
+TRANSCRIPTION
+
+REMOVAL of the CONVICT GOULDSTONE.
+
+The convict Wm. Gouldstone left H.M.'s Prison, Chelmsford, on Monday morning, in charge of Warders Lanham
+and Parker, en route for Broadmoor Criminal Lunatic Asylum. They proceeded to Liverpool-street by the 7.45
+a.m. train from Chelmsford Station.
+
+                        ___________________
+
+William Graves, a fellow-workman of Gouldstone, writes:—"I hope you will forgive me for bringing the
+position of Gouldstone's poor wife to the notice of the public. By the act of her mad husband she has lost
+her only support as well as her five children, and now stands alone in utter destitution. We have paid the
+sum of £50 for the law expenses, but only got in £36 from subscriptions, so that not only are we short of
+the bare sum wanted to meet the expenses, but we have nothing to give to the wife. We should be grateful if
+you would once more allow us to appeal to the public for help by putting this letter in your paper, and Mr.
+Grantham Robinson, Vicar of St Saviour's, Walthamstow, who has already kindly taken a deal of trouble in
+this matter, will receive subscriptions, or they may be sent to me at this address.—W. GRAVES, for self and
+fellow-workmen, 67, Upper Thames-street, Oct. 11."
+
+TRANSCRIBER'S NOTES
+
+1. **The removal date.** "Monday morning" in a paper of Saturday 20 October means Monday 15 October 1883,
+   which is confirmed as a Monday and is the date of William's admission to Broadmoor already established
+   in the project. The two fit exactly: 7.45 a.m. from Chelmsford to Liverpool Street, in the charge of
+   Warders Lanham and Parker, admitted the same day. This is now the only source in the archive that
+   describes the journey itself.
+2. **The letter is dated 11 October**, which places it either the day after or within a day or two of the
+   Home Office letter reaching the Sheriff ("on Wednesday morning", i.e. 10 October, per the Preston
+   Chronicle of 13 October). Graves is writing about legal costs and destitution at the moment the reprieve
+   is being settled, and he does not mention it, which is worth noting when the reprieve date is finally
+   pinned down.
+3. **The money.** £50 paid for the law expenses, £36 raised by subscription, nothing left for Elizabeth.
+   The Guardian's own leader of 1 September had urged that the various funds be concentrated so that a
+   sufficient sum "might be available to start her in some way of business". Six weeks later the fund is
+   £14 short of the lawyers alone. These two transcriptions should be read together.
+4. The paper calls Graves "a fellow-workman of Gouldstone". He was the foreman, and had known William since
+   birth, taught him the trade and housed the couple for three years; his own signature, "for self and
+   fellow-workmen", is what the paper is following. Not an error worth logging, but not a description to
+   carry into prose.
+5. The summary of this letter already in `notes/dramatis_personae.md` (Graves's entry, added 15 September
+   2026) is accurate against the text above. The letter had never been transcribed in full.
