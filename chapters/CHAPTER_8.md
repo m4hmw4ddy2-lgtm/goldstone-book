@@ -14,7 +14,7 @@ He had nothing in his hands. He seemed excited, Cheeseman thought, but not with 
 
 Cheeseman said nothing.
 
-In the bedroom, Elizabeth herself had similarly asked Ada to go and tell her husband that she wanted to speak to him. Ada looked out of the door, saw the policeman standing in the kitchen, and then William came into the bedroom with the constable. Elizabeth was on the bed. The two babies lay where Ada had covered them with the sheet, there was blood on their faces, and Cheeseman, looking at them, did not see them move. It was Elizabeth who spoke first.
+In the bedroom, Elizabeth herself had asked Ada to go and tell her husband that she wanted to speak to him. Ada looked out of the door, saw the policeman standing in the kitchen, and then William came into the bedroom with the constable. Elizabeth was on the bed. The two babies lay where Ada had covered them with the sheet, there was blood on their faces, and Cheeseman, looking at them, did not see them move. It was Elizabeth who spoke first.
 
 "Oh, you wicked man, what have you done?"
 
