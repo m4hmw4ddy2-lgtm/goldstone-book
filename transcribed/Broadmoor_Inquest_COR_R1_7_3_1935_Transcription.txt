@@ -1,0 +1,182 @@
+INQUEST ON WILLIAM GOULDSTONE, BROADMOOR, 21 JANUARY 1935
+Coroner's case papers, Berkshire Record Office / Royal Berkshire Archives
+Reference: COR/R1/7/3/1-4 (the PDF's own filename is cor-r-37-3-1.pdf; the slip at item 4 is endorsed COR/R1/7/3/4)
+Supplied to Rik Ferguson by Emily Forster, Royal Berkshire Archives, June 2025
+Repository copy: sources/images/broadmoor-documents/Broadmoor Inquest.pdf (4 pages) and .png (page 1 only)
+Transcribed 22 September 2026. Handwriting is Victorian-to-modern cursive, mostly legible; uncertain
+readings are marked [?]. Typed text is rendered in CAPITALS where the form's own typescript is capitalised.
+THESE PAPERS ARE NOT SUBJECT TO THE 2036 CLOSURE. The Broadmoor patient file (D/H14/D2/2/1/1175) is.
+Forster's covering letter states these case papers "do not appear to have any access conditions."
+
+================================================================================
+PAGE 1 — THE INQUISITION (printed form, typed and handwritten insertions)
+================================================================================
+
+An Inquisition taken for our Sovereign Lord the King, at BROADMOOR CRIMINAL LUNATIC ASYLUM
+in the PARISH of CROWTHORNE in the COUNTY of BERKS on the 21st day of January 1935
+[the adjournment clause is left blank]
+before ROBERT SIDNEY PAYNE Esquire, one of the Coroners of our said Lord the King, for the said
+COUNTY of BERKS upon the Oath of good and lawful Men of the said PARISH duly sworn to inquire for
+our said Lord the King, touching the death of WILLIAM GOULDSTONE
+
+and upon view of his body [the printed words "by me" struck through] and those of the said Jurors
+whose names are hereunto subscribed, upon their Oaths do say:—
+
+That the said Deceased died in the Parish and County aforesaid on the 19th instant
+
+and that the cause of his death was [handwritten] hypostatic pneumonia following myocardial
+degeneration.
+
+and so do further say that the said death was due to natural causes———
+
+and the Jurors aforesaid, do further say that the said WILLIAM GOULDSTONE ——— was a male person
+of the age of SEVENTY EIGHT years, and an inmate of the said Asylum, formerly a Blacksmith of
+[handwritten] 2 Helen Cottages, Queens Road, West Walthamstow, Essex.
+
+In Witness whereof as well the said Coroner as the Jurors have hereunder subscribed their Hands and
+Seals this 21st day of January 1935
+
+Coroner: Robert S. Payne
+Foreman: J. Tims
+Jurors (as signed, left column then right): Arthur Hallett; Arthur Goodwin; Harry Judge;
+Edwin Goodwin; Harry Wood; Alfred Lewington; Alfred Hearn [?]
+[Each signature is followed by a printed seal device. Eight jurors including the foreman.]
+
+================================================================================
+PAGE 2 — THE WRAPPER
+================================================================================
+
+No. 3
+Dated 21st Jany 1935
+
+Inquisition taken on View of the Body of WILLIAM GOULDSTONE
+
+Verdict: [handwritten] natural causes
+
+Coroners 3.
+[printed at foot] Shaw & Sons Ltd., Fetter Lane, E.C.4.
+
+================================================================================
+PAGE 3 — DEPOSITIONS OF WITNESSES (typed heading, handwritten depositions)
+================================================================================
+
+[typed]
+Berks to wit
+
+DEPOSITIONS of WITNESSES taken and acknowledged on behalf of Our Sovereign Lord The King touching
+the death of — WILLIAM GOULDSTONE — at BROADMOOR CRIMINAL LUNATIC ASYLUM CROWTHORNE in the County
+aforesaid on Monday the 21st day of January 1935 Before ROBERT SIDNEY PAYNE, Gentleman, One of His
+Majesty's Coroners for the said County on view of the body of the said person then and there lying
+dead.
+
+[handwritten, first deposition]
+Kenneth Oswald [?] Milne M.D. on oath saith:- I am assistant Medical Officer at Broadmoor Asylum.
+Deceased Wm [the writer first began "Goldstone", struck it through, and wrote] Gouldstone aged 78
+years at time of death was admitted here on 15 October 1883 from Chelmsford Prison. He lived
+formerly at 2 Helen Cottages, Queens Road, West Walthamstow, Essex: he was a married man & a
+blacksmith by occupation. He was charged with wilful murder & was tried at C. Crim Court on
+Sept 10th 1883: found Guilty & sentenced to death: this sentence was "respited": on admission he
+was suffering from confusional insanity & later became demented. He has been in poor bodily health
+for the last six [?] years: during the last 3 months he gradually became weaker & died in the
+Infirmary on 19 instant: at 12.5 am. A p.m. was made & showed the cause of death to be hypostatic
+pneumonia following myocardial degeneration.
+                                                        [signed] K. Milne.
+
+[handwritten, second deposition]
+Edward John Priest on oath saith:- I am an Attendant at Broadmoor Asylum. I was on duty when
+Deceased died in the Infirmary at 12.5 am on the 19th inst. He received every attention & was
+regularly seen by the Medical Officers.
+                                                        [signed] E. J. Priest.
+[signed, lower left] Robert S. Payne, Coroner
+[endorsed, lower right] COR/R1/7/3/[3?]
+
+================================================================================
+PAGE 4 — TYPED SLIP AND ENVELOPE
+================================================================================
+
+[typed slip]
+WILLIAM GOULDSTONE
+-------
+died 12.5 a.m. 19th January 1935 Age 78 years.
+Widower   Blacksmith.
+Inquest: 12-15 p.m. 21/1/35.
+[endorsed in pencil, lower right] COR/R1/7/3/4
+
+[envelope, reused; postmarked LONDON, OCT 1926, 6.15 PM, slogan "BRITISH GOODS ARE BEST",
+King George V 1½d stamp]
+Messrs. Weedon & Payne,
+17 Market Place,
+Reading.
+
+================================================================================
+NOTES ON THE TRANSCRIPTION — what is new here, and what needs checking
+================================================================================
+
+1. TIME OF DEATH. 12.5 a.m., 19 January 1935, in the Infirmary. The project has carried only the date.
+   Both the typed slip and Milne's deposition give the time, and Priest swore he was on duty at it.
+
+2. "CONFUSIONAL INSANITY & LATER BECAME DEMENTED." This is the only medical characterisation of
+   William's fifty-one years in Broadmoor currently available to the project, and it sits OUTSIDE the
+   sealed patient file. "Confusional insanity" was a recognised diagnostic category of the period,
+   broadly an acute psychosis with clouded consciousness, and is consistent with Savage's trial
+   evidence about slowness of appreciation. TO CHECK before use in prose: the term's contemporary
+   definition, from Savage's own Insanity and Allied Neuroses or the Journal of Mental Science.
+
+3. "TRIED AT C. CRIM COURT ON SEPT 10th 1883" IS WRONG. The trial was Friday 14 September 1883
+   (Old Bailey transcript; The Times, 15 September). Milne, writing in 1935, is four days out. He was
+   presumably copying from the admission papers or the case file. LOG AS A CONTRADICTION. It matters
+   for two reasons: it is direct evidence that the Broadmoor file's own summary data contains errors,
+   which is worth knowing in advance of 2036; and it is a warning against treating anything in these
+   papers as independent testimony about 1883. Milne never met the William Gouldstone of 1883.
+
+4. "BLACKSMITH", TWICE, AND ON THE TYPED SLIP. Both the inquisition and Milne's deposition give his
+   trade as blacksmith, not whitesmith. Graves swore at the Old Bailey: "When he first came to work for
+   this firm he was a blacksmith; we then made him a whitesmith." Broadmoor recorded the trade he
+   arrived with, and kept it for fifty-one years.
+
+5. "WIDOWER." The typed slip calls him a widower. He and Elizabeth were never divorced, so he was in
+   law her widower from 29 June 1906. Her own death certificate, five weeks short of twenty-nine years
+   earlier, calls her "Widow of William Madams, General Labourer" — a man she could not marry because
+   she was still married to this one. Each certificate records the other's survival under a different
+   man's name. Both are accurate. Neither is true.
+
+6. "HE RECEIVED EVERY ATTENTION." Priest's formula is routine and appears at asylum inquests
+   everywhere; it should not be read as a statement about this patient in particular. Noted here only
+   because the sentence exists, sworn, in the file.
+
+7. THE ADDRESS. "2 Helen Cottages, Queens Road, West Walthamstow" appears here twice. Queens Road did
+   not exist under that name in 1883 (see session-note-2026-06-28), so this is either the address as
+   later understood or a 1935 clerk's rendering of it. Already flagged in the notes; this transcription
+   does not resolve it.
+
+8. THE CORONER. Robert Sidney Payne, of Weedon & Payne, solicitors, 17 Market Place, Reading. The
+   firm's own envelope, postmarked 1926, was reused as the wrapper for the papers nine years later.
+
+9. "RESPITED" IS IN INVERTED COMMAS in Milne's own hand. He is quoting a word from the file rather
+   than using it himself. Small, but it is the only visible trace in these papers of the 1883 documents
+   that will not open until 2036.
+
+10. THE SIXTH YEAR. "in poor bodily health for the last six years" — the numeral word is not certain
+    and could be "nine". Do not use a figure in prose without re-checking the manuscript.
+
+================================================================================
+SEPARATE ITEM: "Broadmoor admisision register.jpg" (same folder) — IDENTIFICATION CORRECTED
+================================================================================
+
+The repository filename is misleading. This is NOT a Broadmoor admission register. It is an
+alphabetical register of criminal lunatics covering many institutions: the columns are No. in order of
+Admission, Name, Private/Pauper (M/F), Date of Admission 1883, ASYLUM, and Date of Discharge or Death,
+and the Asylum column on this page alone names Lincoln, Leicester, Notts, S. York, Berks, Lancaster,
+Wandsworth, Prestwich, Somerset, Abergavenny, Dorset, Durham, Sussex, City of London, Stafford, Colney,
+Oxford, Gloucester, Burntwood, Hanwell, Rainhill and Broadmoor. Very likely a Lunacy Commission or Home
+Office register. TO IDENTIFY properly: the series and repository are not recorded anywhere in the notes.
+
+William's entry, surnames under G:
+  No. 4953 | Gouldstone, Wm | pauper, male [with a superscript "c" above the tick, presumably
+  "criminal"] | 15 Oct [1883] | Broadmoor | 19.1.35 | ticked in the "Died" column
+
+Worth noting, and observable rather than inferred: on this page every other entry closes between 1883
+and 1893, with three exceptions running to 1900, 1906 and 1911. William's "19.1.35" is the latest on
+the page by twenty-four years, and it is written in a visibly larger, different hand from the entries
+around it. Someone came back to that book half a century after the page was filled in, to close his
+line.
