@@ -19,7 +19,7 @@ Principal corrections:
 - "Goldstone" → "Gouldstone"
 - "Medical Superintendent" capitalised as a title
 
-Published 3 days after the formal reprieve (3 October 1883).
+Published shortly before the formal reprieve. CORRECTED 22 September 2026: the "3 October 1883" date previously given here appears in no primary source in the archive; the best-supported reading is c.10 October 1883, inferred from the Preston Chronicle of 13 October. See MASTER_NOTES.
 
 ---
 
@@ -57,7 +57,7 @@ ACTION REQUIRED: National Archives, Kew, HO 144 series (Home Office registered p
 - Elizabeth is the source — this is part of the narrative she gave to the Home Office or press, referred to in the 29 September BMJ as "the touching narrative of his wife."
 
 4. DR ORANGE AT CHELMSFORD.
-Dr Orange, Medical Superintendent of Broadmoor, was sent to Chelmsford Prison to examine Gouldstone after the death sentence. He entertained no doubt of his insanity. This examination directly preceded and almost certainly caused the reprieve of 3 October 1883. Orange will be responsible for William for the next 52 years.
+Dr Orange, Medical Superintendent of Broadmoor, was sent to Chelmsford Prison to examine Gouldstone after the death sentence. He entertained no doubt of his insanity. This examination directly preceded and almost certainly caused the reprieve. CORRECTED 22 September 2026: this note previously gave the reprieve as 3 October 1883, a date that appears in no primary source in the archive (best-supported reading c.10 October); and said Orange "will be responsible for William for the next 52 years", which is wrong twice over. William was detained 51 years and three months, and Orange was Superintendent of Broadmoor only until 1886.
 
 5. ELIZABETH — "A VERY RESPECTABLE YOUNG WOMAN."
 The BMJ's characterisation of Elizabeth. She has been in contact with the Home Office or the press or both since the trial. Her account is shaping the medical and public response. She is not a passive figure in the aftermath.
