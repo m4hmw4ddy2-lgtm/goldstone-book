@@ -1,0 +1,43 @@
+# PART THREE CONTEXT: THE LAW AND THE DOCTORS, 1883
+# Created 22 September 2026 (Rik's request: the era as the germination of criminal psychology and its place in the justice system)
+# STATUS: research file, not prose. Everything below is either (a) in the project's own archive, (b) sourced to a named outside work, or (c) marked TO VERIFY. Nothing here enters a chapter until it is in category (a) or (b).
+
+## 1. Why this matters for the book
+William was tried on 14 September 1883, three weeks after Parliament changed the law on insane defendants, and his case was then used by campaigning doctors as an argument about that law. Part Three is therefore not only his trial. It is a fight between two systems for deciding what he was. The context must arrive through the men who held the views, in the witness box and in the journals, never as an essay dropped into the narrative.
+
+## 2. The legal test he was tried under
+- **The M'Naghten Rules, 1843.** The defendant is presumed sane unless it is proved that, through disease of the mind, he did not know the nature and quality of his act, or, if he did, did not know that what he was doing was wrong. This is the test Mr Justice Day applied, and the reason William's own words ("I shall be hanged", "ready for the rope") were treated as proof of responsibility.
+- **What our archive already holds on this.** The BMJ of 22 September 1883 argues the case directly against the rules as applied: Savage "would have been justified in going further, and declaring that he did not know the nature and quality of his act when he did so. No doubt he knew that he was killing his children, and that he would be hanged for it; but he did not know that he was doing wrong, but was as fully persuaded of the righteousness of his proceedings as is the lunatic who kills at the command of God." It also complains that nothing was said of "the effects of an enfeebled or paralysed will."
+- **James Fitzjames Stephen.** The same BMJ passage contrasts Day's approach with "the more liberal construction of Mr. Justice Stephen", under which William's "prospects of being dealt with as a lunatic would have been vastly increased." Stephen's *A History of the Criminal Law of England* was published in 1883, the same year, and he argued for allowing that disease of the mind could destroy the power of self-control, not only knowledge. **TO VERIFY before use:** publication date and Stephen's exact formulation, from the book itself.
+- **The verdict.** The Old Bailey transcript ends "GUILTY.— DEATH." No qualification.
+
+## 3. The Trial of Lunatics Act 1883
+- **Royal assent 25 August 1883**, twenty days before the trial. Long title: "An Act to amend the Law respecting the Trial and Custody of Insane Persons charged with offences." It replaced the acquittal "not guilty on the ground of insanity" with a finding of "guilty of the act or omission charged, but insane so as not to be responsible, according to law, for his actions", with detention at Her Majesty's pleasure. Source: Wikipedia, Trial of Lunatics Act 1883. **TO VERIFY** against legislation.gov.uk or the statute itself, and check whether commencement was immediate on assent.
+- **Why it was passed:** Queen Victoria, repeatedly attacked by mentally ill men, objected to the "not guilty" form of the verdict. The case usually named is Roderick Maclean, who shot at her at Windsor in March 1882 and was acquitted as insane. **TO VERIFY**: the Wikipedia article on the Act does not name Maclean; his own article does. Confirm from a legal history before the book states it.
+- **The point for the book:** the new verdict existed at William's trial and was not returned. Our notes have said he "was one of the first major cases tried in its shadow"; the sharper and checkable claim is that a jury which had the new form available took fifteen minutes and returned the old one. **OPEN:** does the Old Bailey transcript, the Times of 15 September, or the Essex Weekly News show the Act being mentioned at the trial at all? A search of the transcript for the Act's wording finds nothing.
+
+## 4. The profession that was forming
+- Broadmoor opened in 1863; Dr William Orange was its superintendent and examined William before the reprieve.
+- Dr George Henry Savage was physician-superintendent of Bethlem and co-editor of the Journal of Mental Science, the organ of the Medico-Psychological Association. He was "the only specialist examined at the trial" (BMJ), wrote to the Lancet about it on the day of the verdict, wrote it up twice in the Journal of Mental Science in January 1884, and published it with the Cole case in a pamphlet with Daniel Hack Tuke.
+- The BMJ's own editorial names "Dr. Maudsley" as the kind of authority who should have examined him (master-index, BMJ 6 October entry). Henry Maudsley's *Responsibility in Mental Disease* (1874) is the standard statement of the medical case against the legal test. **TO VERIFY**: date and the exact argument, from the book.
+- So the medical men in Part Three are not neutral experts. They are a profession asserting jurisdiction over a question the courts had kept.
+
+## 5. The ideas in circulation, all of which appear in the evidence
+- **Hereditary insanity and degeneration.** "A terrible disease which has scourged his family for three generations" (BMJ). Thomas Gouldstone's evidence on his wife, her sister and the cousin in Brentford is the family's own version of the same idea.
+- **Moral insanity** (J. C. Prichard, 1835): the intellect sound, the will and feelings diseased. This is what Savage was trying to describe and what the M'Naghten test could not accommodate. **TO VERIFY** date and definition.
+- **Poverty as a cause of madness.** Savage in the Journal of Mental Science (already in our notes): "A man with strong direct inheritance of insanity is reduced by bad feeding, pain, and worry to a..." This is the medical argument that meets the book's class argument.
+- **Altruistic or deliverance filicide**: the parent who kills to spare the children. William's own account ("better off in heaven… than leaving them to the mercy of the world") is the purest statement of it in the archive.
+
+## 6. Modern scholarship worth having
+- **Jade Shepherd**, "'One of the Best Fathers until He Went Out of His Mind': Paternal Child-Murder, 1864–1900", Journal of Victorian Culture 18:1 (2013). Studies 60 men sent to Broadmoor for killing their children. Argues that paternal child-murder was treated much as maternal infanticide was: so contrary to expectations of fatherhood that it implied insanity, so affectionate fathers were readily found insane; that defence counsel stressed prior kindness and absence of motive; that alienists accepted economic stress as a cause; and that Broadmoor worked as moral rehabilitation, discharge depending on restored industriousness and temperance. **William, tried in 1883 and sent to Broadmoor, is very likely one of her 60. Worth checking the article for him by name.** Already on the sources-to-obtain list.
+- **Jade Shepherd**, "'I am very glad and cheered when I hear the flute': The Treatment of Criminal Lunatics in Late Victorian Broadmoor", Medical History (2016). Also already listed.
+- **Roger Smith**, *Trial by Medicine: Insanity and Responsibility in Victorian Trials* (1981). The standard account of exactly this conflict. NOT yet on our list; add.
+- **Joel Peter Eigen** on medical witnesses in the criminal courts. Add.
+- Liverpool PhD thesis (2018), "Representations of Paternal Child Killing in English National [newspapers]": argues press coverage was "overwhelmingly sympathetic to unemployed and financially-distressed fathers", that lay rather than medical understandings dominated the reporting, and that respectability before the crime bought leniency. **Checked: it does not mention Gouldstone.**
+
+## 7. Sources used for this file
+- BMJ, 22 September 1883 (in `transcribed/`), for the M'Naghten argument, "enfeebled or paralysed will", and Stephen.
+- Old Bailey transcript (in `sources/trial-docs/`) for the verdict.
+- Wikipedia, Trial of Lunatics Act 1883 (assent date, wording, Victoria's objection) — to be replaced by the statute.
+- Jade Shepherd, Journal of Victorian Culture 18:1 (2013), abstract and summary.
+- Liverpool repository thesis, 200627993 (2018).

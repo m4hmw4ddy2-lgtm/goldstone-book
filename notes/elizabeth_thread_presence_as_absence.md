@@ -1,0 +1,210 @@
+# THE ELIZABETH THREAD: PRESENCE AS ABSENCE
+# Created 22 September 2026, at Rik's instruction: "we also need to show Elizabeth by her absence. How the woman was often
+# simply pitied, brushed aside, ignored, or in our case even threatened by the system and the (male) physical embodiment of
+# it. Her presence is very often her absence."
+# STATUS: governing thread for Parts Three and Four, plus a sourced evidence base. Not prose.
+# Companion file: notes/part_three_context_law_and_medicine.md
+
+## 1. The thread, stated once
+
+Elizabeth Gouldstone is the only surviving adult eyewitness to the murder of the twins. She was in the bed they were struck
+beside. She heard the exchange at the dresser that every later account of William's state of mind turns on. She was never
+asked a single question, on oath, by any tribunal: not by the coroner, not by the Stratford magistrates, not at the Old
+Bailey. In the whole sworn record of five murders she exists only as a voice other people quote.
+
+She is nonetheless everywhere in the case. She is discussed, pitied, diagnosed, protected, described, invaded, threatened,
+and finally read by the Home Secretary. Every one of those things is done to her by a man. The only document in which she
+speaks in her own person, at length, is a statement she gave to the press, and it is the document the British Medical
+Journal credits with helping to save her husband's life.
+
+That is the shape of the thread and it does not have to be argued. It only has to be laid out in order, as it happened. The
+book's rule holds here as everywhere: no narratorial commentary. Show the record, and show what is not in it.
+
+## 2. Every word Elizabeth is recorded as saying, in the sworn record
+
+This is the complete list. It should be checked again before Part Three is drafted, but as of 22 September 2026 these are
+all of them, and every one is reported by somebody else.
+
+1. "What makes you home so early?" — Ada, Old Bailey (15 September).
+2. "Did you tell them at the shop about my being confined?" — Ada's witness statement, 9 August. ("Did you tell them I was
+   confined?" at the Old Bailey.)
+3. "Didn't you tell Mr. Graves?" — Ada, Old Bailey.
+4. "He has killed my babies" — Emma Clarke, coroner and Old Bailey, heard through a locked door. (Ada's coroner deposition
+   renders the same moment indirectly: "in consequence of Mrs Gouldstone had said he was murdering her children".)
+5. "Oh, you wicked man, what have you done?" — Cheeseman's witness statement and coroner deposition.
+
+Four of the five are questions. Three of those four are put to a man who is at that moment in the middle of killing her
+children, and they are about his work. The fifth is the only sentence in which she is not asking for information, and she is
+behind a door when she says it.
+
+Press-tier only, logged at Contradiction 28 and used once in Chapter Seven: "Yes, do, my dear." Not sworn.
+
+**Note for the prose:** her silence in the record is not a silence in the house. She screamed, she was heard, she lost
+consciousness, she cried through the night. The absence is specifically an absence from the documents that decided what
+happened. Do not let the two blur.
+
+## 3. Why she was never called — the legal position
+
+At common law a wife was incompetent to give evidence in a criminal case, **both for and against her husband**. Lord
+Mansfield in *Bentley v. Cooke* (1784): "There never has been an instance either in a civil or a criminal case where the
+husband or wife has been permitted to be a witness for or against the other, except in the case of necessity." The rule was
+not abolished for criminal proceedings until the Criminal Evidence Act 1898.
+
+The exceptions were narrow. The oldest, from *Lord Audley's Case* (1631), let a wife testify where the charge was personal
+violence against her, on the reasoning that such violence would otherwise be unprovable. There were further narrow
+exceptions for treason and for cases of abduction (*R v. Wakefield*, 1827).
+
+So the murder of her five children did not open the door. The violence was not against her. On the law as it stood in 1883,
+neither Mr Poland for the Crown nor Mr Grain for the defence could have called her, however much either of them wanted to.
+
+**Confidence:** the rule and the authorities above are well established and come from a law-review survey of the English
+position (Queensland University of Technology Law Review, "Spouses as Witnesses in England and Queensland"). Before this
+enters prose it should be confirmed from a standard legal history — Roger Smith's *Trial by Medicine* is already on the
+list for Part Three, and Wigmore or a nineteenth-century evidence textbook (Taylor, *On Evidence*) would settle it. **TO
+VERIFY:** whether any contemporary account of this case notices her absence from the witness box and explains it. Nothing
+found so far does. If nothing does, that silence is itself the point, and must be described as our inference, in the notes,
+not asserted in the prose.
+
+## 4. The four documents that carry the thread, in order
+
+### (a) The view, Friday 10 August — she does not know they are there
+The coroner and jury walked through the house, on the adjournment, to test whether the children could have been drowned in
+the cistern. The coroner's own defence of the visit, given a week later at the resumed inquest:
+
+> "The object of the other jurymen and myself in going to the house was simply to see if the children could have been
+> drowned in the cistern. It was purely a view, and no observation should have been made. I myself and the jurymen
+> accompanying me conducted the view with the greatest possible amount of quiet, so that Mrs. Gouldstone, lying ill in the
+> front room, really did not know what was going on." (Dover Express, 17 August)
+
+Twelve men and a coroner went through the rooms where her children had been killed, nine days after the birth, and the
+proof offered that this was properly done is that she did not know they were there. Nothing is recorded as being asked of
+her, or said to her, or explained to her.
+
+### (b) Blyth at her bedside, Sunday 12 August — the threat
+Blyth (Blythe in the Dover Express, Blyth in the Morning Post), a juryman, could not attend the view on the Friday, so he
+went alone to the house on the Sunday morning. On his own account the visit "was of a kindly nature, to see if he could be
+of any service to Mrs. Gouldstone."
+
+What he is alleged to have said, from Dr Lyle's letter as reported in the Dover Express, 17 August: he began "roundly to
+abuse her," telling her "it was no use trying to get her husband off the rope, for if he were not hung he would be locked up
+for life, and he would be as good as dead to her"; and that it was the opinion of the jury that "she had driven her husband
+to commit the crime through jealousy."
+
+The Morning Post's shorter version: he told her "it was no use further to screen her husband, as the jury had made up their
+minds on the subject and he would be hanged."
+
+Asked directly whether he had said these things, he did not deny them. Dover Express: "The Coroner: Then these observations
+were not made by you? Mr. Blythe: Well, they might have been. I do not know." Morning Post, flatter still: "He was asked if
+he had used any of the observations spoken of and he admitted that he had."
+
+**This is the single most important scene in the thread.** A member of the tribunal inquiring into her children's deaths
+arrived at her bed, told her the verdict was already decided, told her her husband would be hanged or would be as good as
+dead, and told her the jury blamed her for it. He did so eight days after the murders, while two doctors were keeping her
+alive on jellies and quiet. He described it as kindness.
+
+### (c) Lyle's protest, Monday 13 August — she is spoken for, not heard
+The protest is made by her doctor, in a letter, read aloud by him at the resumed inquest, in the cemetery lodge, on the
+morning of her children's funeral. She is not present and is not asked to give her own account of what was said to her.
+Blyth's account of the visit is heard. Hers is not.
+
+Lyle's warning, in the coroner's court, is blunt: "You might have to make an inquiry as to the cause of Mrs. Gouldstone's
+death owing to the injury done her."
+
+What the institution does with that:
+> "The Coroner: If any such observations were made by you, they were indiscreet. [...] So far as I am concerned I repudiate
+> anything said on behalf of this Court. [...] It was extremely unwise, and it may have been done incautiously or
+> unguardedly. We will now proceed with the case."
+
+Blyth: "I am in the hands of the other jurymen, if I have been indiscreet." He remained on the jury. The jury then returned
+its verdict of wilful murder, "at once".
+
+**For the prose:** the whole exchange takes up a few lines before the evidence resumes, and the words that close it are "We
+will now proceed with the case." That sentence does the work. Do not add to it.
+
+### (d) The statement, published c.21 September — she speaks, once, and it counts
+Essex Weekly News, 21 September 1883: "Mrs. Gouldstone, who is exerting herself to the utmost to save her unfortunate
+husband's life, writes to state her solemn belief that when the crime was committed the convict was not responsible for his
+act." What follows is roughly a thousand words in her own voice, and it is the only extended first-person account of William
+Gouldstone by anyone who knew him.
+
+It contains, among much else: the household budget ("We commenced housekeeping on 21s. a week, and latterly he had 25s.");
+his absent-mindedness and delay in answering questions; his fear of his own mind ("it was a good job he had not much to
+think of, as if he had he believed it would turn his brain"); the remark before the twins were born that "he believed that
+he had not many weeks to live"; the concertina and the children who "never tired listening"; the cup of tea he brought her
+"every morning from their birth till their death"; his going straight out of the house when the twins were born and
+returning after twelve with "his eyes strange and wandering"; and her own reasoning to the conclusion: "I never knew till
+very lately that there was any insanity on the family. Knowing that now, and looking back on all that has happened, I am
+certain that he was insane."
+
+The British Medical Journal, 29 September 1883: "no medical man can read the touching narrative of his wife and the clear
+statement of the Vicar of the parish in which he lived without finding them in strong corroboration of the only theory that
+is consistent with the facts of the case as given in evidence."
+
+**The closing of the circle.** The woman who could not be sworn, could not be questioned, could not be called by either
+side, and was not asked for her account even when a juryman was accused of abusing her, wrote to the Home Secretary and to
+the papers, and her account is one of the two documents the medical press names as having changed the outcome. Her husband
+went to Broadmoor rather than the rope. Everything in the causal chain after 1883 follows from that.
+
+**Open, and important:** the BMJ's phrase implies something longer than the press statement, and the press statement is
+itself addressed to the public rather than to the Home Office. The fuller narrative to the Home Secretary has not been
+found. See MASTER_NOTES open questions. If it survives it is the most valuable undiscovered document in the project.
+
+## 5. The vocabulary used about her
+
+Worth collecting as a set, because the pattern is the argument. Every one of these is a man writing or speaking about her in
+the third person, in print or in court, while she is in bed unable to reply.
+
+- "the poor woman, Mrs. Gouldstone" — Dover Express, on Grantham Robinson taking an interest in her
+- "the sufferer's brain" — Illustrated Police News, 18 August
+- "His wife is described as 'a good housewife and ladylike woman.'" — IPN, 18 August (described by whom is not said)
+- "She lies in a very low state." — IPN
+- "Their chief fear now is that her reason will be affected by the terrible shock." — IPN
+- "It is stated that Mrs. Gouldstone is on the whole progressing satisfactorily towards recovery." — Dover Express, the last
+  line of the inquest report, immediately after the verdict on her five children
+- "dangerously ill" — passim
+
+And the IPN's account of the only thing she is recorded as having asked for on her own behalf: "She asked and begged to see
+her dead little ones, but the doctors had to be stern in their refusal, dreading its effect on the sufferer's brain."
+Refused by men, for her own good, in her own house.
+
+She is not mentioned in any account of the funeral.
+
+## 6. How this is written, chapter by chapter
+
+The instruction is to show the absence, not to assert it. In practice:
+
+- **Never editorialise on her treatment.** The Blyth scene, set down plainly with the coroner's closing sentence intact,
+  will do more than any gloss. The same goes for "really did not know what was going on."
+- **Let the pronoun do it.** In Part Three she is almost always "his wife" or "Mrs. Gouldstone" in the sources. Where a
+  chapter is in the sources' register, that is what she is. Where the narration is our own, she is Elizabeth. The gap
+  between the two is available to be felt without being pointed at.
+- **Put her in the room the record leaves her out of.** She is in the front room during the view, through the wall, and the
+  sources say so. She is twelve days from the birth on the morning of the funeral, and the funeral was moved three hours
+  earlier to avoid the crowd. Placing her in those scenes is sourced, not invented, as long as the prose does not claim to
+  know what she felt.
+- **Chapter Eight already carries the first beat**: "Nobody who was in the house that night described under oath what
+  Elizabeth went through." That sentence is the thread's opening. It should not be repeated in that form. Later chapters
+  demonstrate the same thing rather than restating it.
+- **The statement is a turn, not a sample.** When Part Three reaches c.21 September, she should be allowed to run at
+  length, in her own words, with as little interruption as the chapter can bear. It is the first time in the book that she
+  speaks for herself and it should read like it.
+- **Part Four inherits the thread inverted.** After the reprieve, the record loses her entirely for four years. The
+  documented woman becomes an undocumented one. The same absence, without even the men describing her.
+
+## 7. Open questions belonging to this thread
+
+- Elizabeth's fuller narrative to the Home Secretary — sought, not found (see §4d).
+- Is there any record of her being formally excused, or of either counsel raising her competence? Nothing in the Old Bailey
+  transcript, the coroner depositions, or the Stratford magisterial examination.
+- Blyth's full name, occupation and address. He is a named juror at a Walthamstow inquest; the Walthamstow Guardian of 11
+  August (Waltham Forest Archives, already on the sources list) and the local rate books could identify him.
+- Dr Lyle's forename, and the relationship between Lyle and Mr Sutton. Sutton delivered the twins and was "her medical
+  attendant" (Daily Chronicle letter, 13 August); Lyle is "the medical gentleman in attendance upon Mrs. Gouldstone" a week
+  later, and the IPN says "Two doctors have since been in attendance on her". The likeliest reading is that both are
+  correct and they are the two doctors. Not yet confirmed.
+- Grantham Robinson's involvement with her begins at the funeral ("has taken a great interest in the poor woman, Mrs.
+  Gouldstone, since the terrible occurrence") and ends with his statement to the Home Secretary. His is the one male
+  intervention in this whole record that appears to have been on her terms. Worth watching as a counterweight so the thread
+  does not flatten into a single note.
+- Did she receive any relief money? No subscription or fund has been found in the archive despite the scale of press
+  coverage. Absence not yet confirmed as absence.
