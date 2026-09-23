@@ -189,3 +189,39 @@ William nor Elizabeth was a competent witness. The Criminal Evidence Act 1898 ma
 for the defence, the accused only on his own application and the spouse only on his; it made the
 spouse competent for the prosecution only in the scheduled offences, which do not include murder;
 and it expressly left untouched the accused's pre-existing right to make an unsworn statement.
+
+---
+
+## Juries in 1883: all-male necessarily, and the one exception
+**Checked 23 September 2026**, prompted by Rik asking whether all juries were all-male then.
+
+**Yes, without exception in the ordinary sense.** Women were not eligible for jury service in
+England and Wales until the **Sex Disqualification (Removal) Act 1919**, under which women first
+served in 1920. So every jury in this book, the coroner's jury of fourteen in the cemetery board
+room on 10 August and the trial jury of twelve at the Old Bailey on 14 September, was necessarily
+composed of men. It was not a feature of these juries. It was the law.
+
+**Consequence for the prose, and it cuts against a change made earlier the same day.** Movement two
+of Chapter Ten currently reads "The all-male jury were Messrs William Smith..." at Rik's
+instruction. If every jury was all-male by law, the adjective describes a universal condition as
+though it were a characteristic of this one, which is the kind of modern editorial nudge the
+project's own rules exclude, and it invites the reader to think a choice was made. **Recommend
+cutting it back to "The jury were", with the fact carried in the notes and the point made properly
+elsewhere.** Rik's call, since the insertion was his.
+
+**The exception, and it is worth more than the adjective was.** The only women ever empanelled in an
+English court before 1919 were a **jury of matrons**, assembled under the writ *de ventre
+inspiciendo* to determine whether a woman sentenced to death was "quick with child". They were older
+women chosen for practical experience of pregnancy, and because women could not otherwise serve,
+court officials would lock the courthouse doors to stop women in the public seats leaving before
+enough had been found. A finding of pregnancy postponed execution until after the birth, and the
+sentence was then usually commuted. The practice was abolished only by the **Sentence of Death
+(Expectant Mothers) Act 1931**.
+
+So in the whole apparatus that decided what had happened at 8 Courtenay Place, and what William was,
+there was no place for a woman except one: the jury box could be filled with women solely in order
+to examine another woman's body. **That is a Part Three point and possibly an Elizabeth-thread
+point, to be made once and without comment. It is not an adjective.**
+
+Sources: First 100 Years, "Abolishing Juries of Matrons",
+https://first100years.org.uk/abolishing-juries-of-matrons/
