@@ -34,7 +34,7 @@ William was tried on 14 September 1883, three weeks after Parliament changed the
 ## 6. Modern scholarship worth having
 - **Jade Shepherd**, "'One of the Best Fathers until He Went Out of His Mind': Paternal Child-Murder, 1864–1900", Journal of Victorian Culture 18:1 (2013). Studies 60 men sent to Broadmoor for killing their children. Argues that paternal child-murder was treated much as maternal infanticide was: so contrary to expectations of fatherhood that it implied insanity, so affectionate fathers were readily found insane; that defence counsel stressed prior kindness and absence of motive; that alienists accepted economic stress as a cause; and that Broadmoor worked as moral rehabilitation, discharge depending on restored industriousness and temperance. **William, tried in 1883 and sent to Broadmoor, is very likely one of her 60. Worth checking the article for him by name.** Already on the sources-to-obtain list.
 - **Jade Shepherd**, "'I am very glad and cheered when I hear the flute': The Treatment of Criminal Lunatics in Late Victorian Broadmoor", Medical History (2016). Also already listed.
-- **Roger Smith**, *Trial by Medicine: Insanity and Responsibility in Victorian Trials* (1981). The standard account of exactly this conflict. NOT yet on our list; add.
+- **Roger Smith**, *Trial by Medicine: Insanity and Responsibility in Victorian Trials* (1981). The standard account of exactly this conflict. Now on the sources list in MASTER_NOTES. **Checked at one remove, 23 September 2026**, through the open-access BJPsych Advances review essay of November 2025 (O'Sullivan and Simpson): the book's scope is confirmed as the right one, covering M'Naghten, the professional conflict between prison doctors, asylum superintendents and alienists, and gender and class in verdicts. The review does not reach the Trial of Lunatics Act 1883, moral insanity, or spousal competence, so it is orientation only and the book itself is still needed.
 - **Joel Peter Eigen** on medical witnesses in the criminal courts. Add.
 - Liverpool PhD thesis (2018), "Representations of Paternal Child Killing in English National [newspapers]": argues press coverage was "overwhelmingly sympathetic to unemployed and financially-distressed fathers", that lay rather than medical understandings dominated the reporting, and that respectability before the crime bought leniency. **Checked: it does not mention Gouldstone.**
 
@@ -44,3 +44,47 @@ William was tried on 14 September 1883, three weeks after Parliament changed the
 - Wikipedia, Trial of Lunatics Act 1883 (assent date, wording, Victoria's objection) — to be replaced by the statute.
 - Jade Shepherd, Journal of Victorian Culture 18:1 (2013), abstract and summary.
 - Liverpool repository thesis, 200627993 (2018).
+
+---
+
+## Why William never gave evidence, and why it is the same fact as Elizabeth's silence
+**Logged 23 September 2026**, in answer to a direct question from Rik: did he not take the stand
+because he pleaded guilty?
+
+**He did not plead guilty.** The Old Bailey account is unambiguous that a trial took place: he "was
+indicted for, and charged on the Coroner's Inquisition with, the wilful murder of Charles
+Gouldstone"; Poland and Montagu Williams prosecuted; Grain and Elliott defended; the prosecution
+called Ada, Cheeseman, Folkard, Wheatley, Gould and Honey; "The following Witnesses were called for
+the Defence" introduces Robert, Bennett, Cakebread, Skelton, the brother-in-law, Dr Sunderland and
+Dr Savage; and it ends "GUILTY.— DEATH." A guilty plea produces no witnesses and no verdict. He
+pleaded not guilty and his counsel ran insanity.
+
+**Note also that only one murder was tried.** The indictment before the jury on 14 September was
+the wilful murder of Charles alone, the eldest. The other four deaths came in as evidence. That is
+ordinary practice for the period but it should be got right in the prose: he was convicted of one
+murder, not five.
+
+**The reason he did not testify is that he could not.** TO VERIFY, and flagged as such: until the
+Criminal Evidence Act 1898, a defendant in an English criminal trial was not a competent witness in
+his own defence and could not be sworn. He could make an unsworn statement from the dock, not on
+oath and not subject to cross-examination. Nothing in the Old Bailey account records him making
+one.
+
+**This is the same statute that made Elizabeth incompetent**, which is the finding worth carrying.
+The 1898 Act is what made both the accused and the accused's spouse competent witnesses. So in
+September 1883 the two people who had been in that bedroom and survived were both, by the same
+rule, legally unable to be sworn. The trial heard William's voice continuously and never once from
+him: through Ada, through Cheeseman, through Folkard, through Wheatley, all of it reported by other
+people, most of it after a caution. It heard Elizabeth not at all.
+
+**Consequence for the sourcing.** Two load-bearing claims now rest on one unsourced proposition
+about the law of evidence before 1898, and both are structural rather than decorative. See the
+sources list, item 7a: Roger Smith's book, or a standard history of the law of evidence, is needed
+before either goes into prose as flat fact.
+
+**One detail worth the prose.** Savage, who told the court he thought William's mind was unsound at
+the time of the act, had examined him once, "for not more than a quarter or half an hour", the day
+before the trial, at the solicitor's request, and said in cross-examination that from that
+conversation alone he had "no reason to doubt that he was a man of sound mind" and would not have
+certified him. The opinion that saved William's life was formed, on Savage's own account, from
+sitting in court and listening to other people describe him.

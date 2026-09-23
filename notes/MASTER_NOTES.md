@@ -632,8 +632,50 @@ Useful for tightening birth-year estimates from stated ages across all family li
 3. Savage, Journal of Mental Science Vol.29, Issue 128, January 1884 (pp.534-539 and pp.603-607)
 4. Vestry House Museum files (Gouldstone, Grantham Robinson, W28)
 5. BMJ on Cole/Thornton Heath murder: Vol 2, 1883, pp.829 and pp.880
-6. Jade Shepherd, "I Am Very Glad and Cheered When I Hear the Flute" (Medical History, 2016)
-7. Jade Shepherd, "One of the Best Fathers until He Went Out of His Mind" (Journal of Victorian Culture, 2013)
+6. Jade Shepherd, "I Am Very Glad and Cheered When I Hear the Flute: The Treatment of Criminal
+   Lunatics in Late Victorian Broadmoor" (Medical History, Vol 60 Issue 4, October 2016).
+   **CHECKED 23 September 2026: Gouldstone is not named in it, but KEEP IT, for a specific reason
+   given below.** Open access under Creative Commons, free to read:
+   https://www.cambridge.org/core/journals/medical-history/article/i-am-very-glad-and-cheered-when-i-hear-the-flute-the-treatment-of-criminal-lunatics-in-late-victorian-broadmoor/1F711BABFE0E8D356D2A0169020C099A
+   Covers Broadmoor 1863 to 1900. Named patients are Matthew Jackson Hunter, Lucy Thompson, George
+   Longmore, John Wendover, Henry Dodwell, Mary Ann Miller, Timothy Grundy, Charles Lanham, William
+   Heaps and Abraham Thompson. No section on child-killing fathers.
+   **Why it still matters to this book.** It sets out the four superintendencies, and William's
+   detention runs across all of them: John Meyer to 1870, **William Orange 1870 to 1886**, David
+   Nicolson 1886 to 1896, and **Richard Brayn 1896 to 1910**, who the article says brought in
+   pessimism and increased seclusion sharply. William was admitted on 15 October 1883, so he
+   entered Broadmoor under Orange and the regime of therapeutic optimism, reading, music lessons,
+   theatricals, cards and billiards and cricket, work that nobody was compelled to do, and
+   "kindness and forbearance" as the stated principle; and he was still there, with more than
+   thirty years left to serve, when that was reversed around him. **That reversal is the shape of
+   Parts Three to Six's Broadmoor material and it is sourced here without needing his file.** Use
+   it as institutional context, never as evidence about him personally.
+7. ~~Jade Shepherd, "One of the Best Fathers until He Went Out of His Mind" (Journal of Victorian
+   Culture, 2013)~~ **CHECKED AND STRUCK, 23 September 2026 (Rik): Gouldstone is not mentioned in it.**
+   https://academic.oup.com/jvc/article/18/1/17/4102742. It may still be useful as context for
+   Broadmoor's child-killing fathers as a class, but it is not a source on this case and should not
+   be chased again. The 2016 Medical History article at item 6 has now been checked separately; see item 6.
+7a. **Roger Smith, *Trial by Medicine: Insanity and Responsibility in Victorian Trials* (1981).**
+   Still wanted, for the legal-medical context of Part Three and to confirm the spousal incompetence
+   rule from a proper legal history rather than a law-review summary. **PARTIALLY CHECKED 23
+   September 2026 (Rik) through the 2025 review essay** by Owen P. O'Sullivan and Alexander I. F.
+   Simpson, BJPsych Advances, 27 November 2025, open access:
+   https://www.cambridge.org/core/journals/bjpsych-advances/article/trial-by-medicine-a-landmark-interdisciplinary-exploration-of-legal-insanity-and-criminal-responsibility-in-victorian-britain/AC8695D37F748144B2B91C4C204674E2
+   **It is a review, not the book, and it does not do the book's job.** What it confirms is that
+   Smith's scope is the right one for us: M'Naghten and the rules that came out of it; the
+   professional conflict between prison doctors, asylum superintendents and alienists, which is
+   exactly the Savage and Orange axis; gender and class as influences on verdicts; and infanticide
+   and puerperal insanity. It does **not** touch the Trial of Lunatics Act 1883, moral insanity or
+   spousal competence, and names no case relevant to this book.
+   **Consequence, and it matters.** The spousal incompetence rule is still unconfirmed from a legal
+   history. This project's own statement of it, that at common law a wife was incompetent to testify
+   for or against her husband until the Criminal Evidence Act 1898, with exceptions for personal
+   violence to herself, treason and abduction, appears in this file and in the Elizabeth thread, and
+   it is load-bearing: it is the whole reason neither Poland nor Grain could have called Elizabeth.
+   It is currently resting on a law-review summary, which is precisely the kind of claim the first
+   standing rule exists to catch. Smith's book, or a standard history of the law of evidence, is
+   still needed before the prose relies on it.
+
 8. GRO certificates: William death 1935. (Five murdered children: NOT NEEDED, decided 22 September 2026: the death index, S qtr 1883 West Ham 4a 102, gives what the book uses, including the twins as "Male". Elizabeth's 1906 death certificate is already obtained.)
 9. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (probably won't show Elizabeth — she was not a resident inmate — but worth checking)
 10. Albert Goldstone marriage certificate (GRO, Q1 1910, Medway)

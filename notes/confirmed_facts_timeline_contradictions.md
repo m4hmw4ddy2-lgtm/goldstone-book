@@ -2163,3 +2163,32 @@ touches the Saturday.
 prose now states is what all three reporters saw him do, which none of them disputes: he pointed at
 something, and then at his own throat.
 
+
+---
+
+## Lyle's letter to the coroner: what we have, and where the full text might be
+**Logged 23 September 2026**, in answer to a direct question. **We do not have it.** Nothing in the
+archive prints it in full. Three papers report it, all of them summarising:
+
+- **Walthamstow and Leyton Guardian, 18 August** and **Dover Express, 17 August**: the same
+  paraphrase, with three fragments inside quotation marks. Lyle's own characterisation, "scandalous
+  and indelicate conduct" and "roundly to abuse her"; and, presented as the thing said to her, "it
+  was no use trying to get her husband off the rope, for if he were not hung he would be locked up
+  for life, and he would be as good as dead to her." The jealousy allegation is reported but **not**
+  put in quotation, and the prose respects that difference.
+- **Morning Post**: shorter, nothing in quotation at all. "Telling her it was no use further to
+  screen her husband, as the jury had made up their minds on the subject and he would be hanged."
+
+**Consequence for the prose.** There is no verbatim first-person speech available for the Sunday
+from any source. Blythe's own explanation is rendered indirectly by both papers, so it cannot be put
+inside quotation marks as his words; what can be quoted is the Guardian's sentence about it, quoted
+as the Guardian's. Anything else would be invention.
+
+**Where the full letter might survive.** It was handed to the coroner in open court and read aloud,
+so it should have gone into the coroner's file for the inquest. The project holds the coroner's
+depositions (Ada Hamilton, Emma Clarke, Henry Gould, Folkard, Cheeseman, Smith and Bryant, and the
+committal) and **no correspondence at all**. Essex Record Office holds coroners' records for the
+southern division; C. C. Lewis was coroner. **Add to the enquiry list**: does any file survive for
+this inquest beyond the depositions already obtained, and does it contain letters received? Dr Lyle
+is also still short of a forename (see the Elizabeth thread's open questions), and a coroner's file
+would likely give it.
