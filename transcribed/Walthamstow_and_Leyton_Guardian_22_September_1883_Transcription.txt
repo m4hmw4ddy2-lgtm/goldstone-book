@@ -473,9 +473,15 @@ TRANSCRIBER'S NOTES
    a Saturday weekly, so both letters were written to a daily and are reprinted here. The project has dated
    her statement "c.21 September" from the Essex Weekly News. The first publication was Thursday
    20 September, in a London daily not yet identified.
-4. **Elizabeth's statement here and the Essex Weekly News version of 21 September should be collated
-   word by word.** They appear to be the same text. Any divergence matters, because this is the only
-   document in which she speaks at length.
+4. **Elizabeth's statement as printed here is an ABRIDGEMENT, and the cuts are not marked.** Collated
+   23 September 2026 against the Essex Weekly News of 21 September and the Western Daily Press of the same
+   day: the Essex Weekly News runs to about 1,300 words, the Western Daily Press to about 1,075, and this
+   text to about 800. The Guardian silently drops five passages, including the children's ages, the cup of
+   tea every morning from the twins' birth till their death, his going out of the house when they were
+   born and coming back after twelve with his eyes "strange and wandering", and Elizabeth's own account of
+   asking him at the door whether he had told his foreman. The note that first stood here, that the two
+   "appear to be the same text", was wrong. **Do not quote her statement from this text.** Full collation
+   at `notes/elizabeth_statement_collation.md`.
 5. Savage's two letters are distinct: one to the paper carrying "One of the Jury" (Bethlehem Hospital,
    17 September) and one to The Times (15 September). Check both against
    `transcribed/William_Gouldstone_Lancet_letter_transcription.txt` before treating any of the three as the
