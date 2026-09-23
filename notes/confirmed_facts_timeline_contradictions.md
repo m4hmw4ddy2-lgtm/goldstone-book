@@ -2192,3 +2192,46 @@ southern division; C. C. Lewis was coroner. **Add to the enquiry list**: does an
 this inquest beyond the depositions already obtained, and does it contain letters received? Dr Lyle
 is also still short of a forename (see the Elizabeth thread's open questions), and a coroner's file
 would likely give it.
+
+---
+
+## Contradiction 56. Who asked Emma Clarke the second half of her answer: the jury or the coroner?
+**Logged 23 September 2026**, found while checking whether the coroner's closing remark survives as
+direct speech. It does not: both papers give it indirectly and in identical words, "The coroner said
+he did not think anything would turn on that" (Daily Telegraph, 11 August; Walthamstow and Leyton
+Guardian, 18 August). The prose is right to render it as reported speech.
+
+**But the two papers divide the evidence before it differently, and the difference matters.**
+
+- **Walthamstow and Leyton Guardian, 18 August**, runs the whole answer under one heading:
+  "By the Jury: I have heard the mother say she wished the children dead—that was when she was
+  worried. I did not think she was in earnest. She never said it in conversation. She had remarked
+  it to the children when they worried her."
+- **Daily Telegraph, 11 August**, splits it in two:
+  "By the jury: I have heard the mother say she wished the children dead—that was when she was
+  worried."
+  "By the Coroner: I did not think she was in earnest. She never said it in conversation. She had
+  remarked it to the children when they worried her."
+
+**On the Telegraph's version the coroner intervened himself.** A juryman got out of Emma Clarke that
+Elizabeth had said she wished her children dead. The coroner then asked his own questions, and every
+one of them pulled the answer back: not in earnest, not in conversation, said to the children when
+they worried her. Only then did he say he did not think anything would turn on it. That is a
+different scene from the one the Guardian prints, in which the qualification arrives unprompted as
+part of the jury's own answer and the coroner merely closes the subject.
+
+**The Telegraph is the earlier document**, 11 August against the Guardian's 18th, and it is the more
+granular of the two. Under the project's third standing rule that is the version to prefer unless
+there is a reason not to, and no reason has been found.
+
+**Consequence for Chapter Ten, movement two**, which currently follows the Guardian and gives the
+whole answer to the jury: it should probably be split, so that the jury asks, and the coroner
+follows up, and the qualification is something he draws out rather than something she volunteers.
+**Rik to rule**, because it changes the reading of the coroner in a scene where he is otherwise the
+only figure treating Elizabeth with any care, and that is a characterisation decision, not a
+transcription one.
+
+**Note for the Elizabeth thread.** On the Telegraph's version, the only moment in the entire inquest
+where anyone acts to protect Elizabeth's reputation is the coroner's follow-up here, and it is done
+by questioning a witness rather than by hearing from Elizabeth, who is half a mile away and cannot
+be called. Two days later the same jury's member is at her bedside telling her they blame her.
