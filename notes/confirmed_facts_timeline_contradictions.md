@@ -2213,12 +2213,28 @@ Guardian, 18 August). The prose is right to render it as reported speech.
   "By the Coroner: I did not think she was in earnest. She never said it in conversation. She had
   remarked it to the children when they worried her."
 
-**On the Telegraph's version the coroner intervened himself.** A juryman got out of Emma Clarke that
-Elizabeth had said she wished her children dead. The coroner then asked his own questions, and every
-one of them pulled the answer back: not in earnest, not in conversation, said to the children when
-they worried her. Only then did he say he did not think anything would turn on it. That is a
-different scene from the one the Guardian prints, in which the qualification arrives unprompted as
-part of the jury's own answer and the coroner merely closes the subject.
+**On the Telegraph's version the coroner questioned her himself**, which the Guardian's version does
+not show at all. A juryman got out of Emma Clarke that Elizabeth had said she wished her children
+dead; the coroner then put his own questions; her answers to them were three qualifications, not in
+earnest, not in conversation, said to the children when they worried her; and he then said he did
+not think anything would turn on it.
+
+**CORRECTED 23 September 2026, same day, after Rik put the passage back in front of me.** The
+paragraph above originally read that the coroner "intervened" and that "every one of them pulled the
+allegation back", and a note further down called this the only moment in the inquest when anyone
+acted to protect Elizabeth's reputation. **That is motive, and the document does not carry it.** The
+Telegraph prints answers without the questions that produced them. What is recoverable is that the
+coroner asked, and that what she said next qualified what she had just said. Why he asked is not
+recoverable at all, and at least four readings fit the same text equally well: that he was shielding
+a woman who could not answer for herself; that he was testing an unproven hearsay allegation raised
+by a juryman; that he was clarifying vague evidence as a matter of routine; or that he was pressing
+her to see whether there was more, and got qualifications he was not looking for. **The direction of
+his questioning is the one thing the report does not preserve.**
+
+The prose is unaffected and was already right: "The coroner then questioned her himself" states the
+act and not the purpose. **This entry is the caution.** An inference of mine had hardened into a
+characterisation across two files within an hour of being written, which is the first standing rule
+happening in real time rather than in the archive.
 
 **The Telegraph is the earlier document**, 11 August against the Guardian's 18th, and it is the more
 granular of the two. Under the project's third standing rule that is the version to prefer unless
@@ -2227,11 +2243,41 @@ there is a reason not to, and no reason has been found.
 **Consequence for Chapter Ten, movement two**, which currently follows the Guardian and gives the
 whole answer to the jury: it should probably be split, so that the jury asks, and the coroner
 follows up, and the qualification is something he draws out rather than something she volunteers.
-**Rik to rule**, because it changes the reading of the coroner in a scene where he is otherwise the
-only figure treating Elizabeth with any care, and that is a characterisation decision, not a
-transcription one.
+**RESOLVED SAME DAY, 23 September 2026.** Rik's answer to being told this was "so why are we going
+with the later doc in the prose?", and there was no good answer. The movement had been drafted from
+the Guardian because the Guardian was the newest transcription in the folder and carried the jury
+list, and the Telegraph's account of the same sitting was never compared against it. That is the
+third standing rule missed in the ordinary way, by not looking. The prose now follows the Telegraph:
+the jury asks, the coroner follows up, and the qualification is drawn out of her rather than
+volunteered.
 
-**Note for the Elizabeth thread.** On the Telegraph's version, the only moment in the entire inquest
-where anyone acts to protect Elizabeth's reputation is the coroner's follow-up here, and it is done
-by questioning a witness rather than by hearing from Elizabeth, who is half a mile away and cannot
-be called. Two days later the same jury's member is at her bedside telling her they blame her.
+**The comparison then found three more differences in the same movement**, all now applied:
+1. **"A calm, placid man", not "a calm, steady man".** The Guardian has Emma Clarke say "He was
+   generally a steady man. He was a calm, steady man", repeating the word in a way that reads like
+   an error; the Telegraph has "He was generally a steady man. I only saw him the worse for drink
+   once. He was a calm, placid man." Earlier document, and the better reading on its face.
+2. **Emma Clarke's evidence is substantially fuller in the Telegraph**, which alone has "My husband
+   rented the house" and "He was at that time quite a stranger to me". Both now in the prose, and
+   the second is worth having: the man she is describing was a stranger eleven months ago.
+3. **Craggs is "of the N Division"**, and he "watched the case on behalf of the Commissioners of
+   Police". This also settles a smaller thing: the Telegraph of 10 August has him and Folkard as
+   "of the V Division", which is a misprint. N Division is right and agrees with Cheeseman (86 N),
+   Wheatley (N 208) and Honey (N R 41).
+
+**One thing the Telegraph does NOT win, and the distinction matters for the rule.** The coroner's
+charge to the jury is a short indirect summary in the Telegraph and verbatim in the Guardian, and
+the prose rightly keeps the Guardian's. **Earlier is the tiebreaker where two documents conflict.
+It is not a reason to prefer a summary over a transcript.** The jury list is likewise the
+Guardian's alone.
+
+**Still to do:** the Telegraph of 11 August is headed "THE WALTHAMSTOW TRAGEDY. STATEMENT OF THE
+PRISONER", and that headline has not been accounted for. Whatever statement it refers to should be
+identified before Part Three, and checked against the question of whether William ever spoke at his
+own trial.
+
+**Note for the Elizabeth thread, rewritten to the same correction.** What the Telegraph shows is
+that the question of whether Elizabeth had wished her own children dead was raised, examined and
+disposed of in a room she was not in and could not have been called into, by men putting questions
+to a third party about words she was supposed to have said. Whether the coroner was defending her or
+merely tidying the evidence is not knowable and should not be written either way. Two days later a
+member of the same jury was at her bedside telling her the jury blamed her.
