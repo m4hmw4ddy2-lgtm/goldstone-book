@@ -1414,3 +1414,615 @@ It is hard to comprehend on what principle a man should be hung for committing a
 impossible for him to resist." Full text and citations in the transcription. This is the legal counterpart
 to the BMJ of 22 September and belongs in
 `notes/part_three_context_law_and_medicine.md`.
+
+
+### BOARD ROOM AGAINST LODGE — RESOLVED, 23 September 2026
+The open question at Contradiction 44 ("the opening is reported at the board room and the resumption at the
+lodge. One room or two is not established") is answered, and the answer is that they are the same room.
+
+**The cemetery.** "Walthamstow Cemetery" in the 1883 reports is **Queen's Road Cemetery**, the Walthamstow
+Burial Board's own ground, eleven acres acquired in 1872 after the borough's 1866 cholera epidemic, with
+the first burial on 2 October 1872. The project had this as an unsourced research lead in MASTER_NOTES
+("Walthamstow Cemetery is Queen's Road Cemetery, opened 1872") with nothing behind it; it now has two
+independent accounts behind it, and the identification is further supported from within the archive, since
+the project's own note on the lost streets of Walthamstow records that Queen's Road East ran from Hoe
+Street **to the Cemetery**.
+
+**The buildings.** Six firms competed and **R. C. Sutton of Nottingham** was appointed architect, his fee
+capped at £2,250 for the chapels, lodge and ancillary structures. He built two chapels, Anglican and
+Nonconformist, at right angles and joined by a covered way with an octagonal spire, and an entrance lodge,
+all in Kentish ragstone in the fourteenth-century Decorated style. **Attached to the lodge he built an
+inquest room, "a Room about twenty by fourteen feet for Inquest Room", and it is still in use as a
+coroner's court.**
+
+**What that settles.** The Walthamstow Burial Board's inquest room, in the entrance lodge, is where Mr
+Charles Carne Lewis sat on both days. "The board room of the Walthamstow Cemetery" (The Times, the Evening
+News and the Daily Telegraph, 11 August) and "the Lodge of the Walthamstow Cemetery" (Morning Post) and
+"the lodge of the cemetery… the small lodge" (Dover Express) are three descriptions of one building, which
+is why the local paper, whose reporter was there both days, calls it the Board-room each time and has the
+funeral procession emerging "from the vicinity of the Board-room". **The prose may now move between the two
+sittings without changing venue**, and "small" is literal: a room twenty feet by fourteen, holding a
+coroner, fourteen jurors, the witnesses, the police and the reporters.
+
+**Confidence, and what would make it primary.** Both accounts are secondary: the Parks & Gardens register
+entry for Queen's Road Cemetery, and the Queen's Boundary local history page, which agree on the date, the
+architect, the competition, the materials and the inquest room, and read as though drawing on the burial
+board's own records. Before the book states the twenty-by-fourteen measurement it should be confirmed from
+the **Walthamstow Burial Board minutes** (Vestry House Museum) or a **Historic England list entry** for the
+lodge and chapels. The identification of the cemetery itself, and the existence of a purpose-built inquest
+room attached to the lodge, are safe to use now.
+
+**Consequences elsewhere, and one caution added the same day from an Ordnance Survey extract.** Rik supplied
+an OS sheet of the cemetery (25-inch series; sheet number and survey date still to be recorded, and it is a
+decade or more after 1883). It labels the ground **WALTHAMSTOW CEMETERY**, not Queen's Road, which is what
+the 1883 papers call it too. It shows two buildings inside the ground: one set in a circular carriage drive
+at the centre, which is Sutton's pair of chapels joined by the covered way, and a smaller one at the
+southern entrance drive, which is where the lodge and its inquest room should be. **And it marks a separate
+building "Mort." at the north-east corner, off Exmouth Road**, well away from the entrance.
+
+That last point matters. The Daily Telegraph has the jury view the bodies "in the mortuary close by" before
+the evidence, and the Walthamstow Guardian has the five coffins lying on the bier in "the mortuary church"
+before the funeral. If the map's "Mort." is the mortuary the bodies were kept in, then **the mortuary and
+the inquest room are at opposite ends of the cemetery**, the jury walked the length of the ground and back
+before hearing a word, and "close by" means close by the cemetery rather than adjacent to the room. The
+mortuary church, being a church, is more likely one of the two chapels in the middle. **Do not write the
+Friday and Monday as happening within a few yards until the buildings on the map are identified.** The
+sheet Rik supplied, read at full resolution with its key, plus the burial board minutes, would settle which
+building is which.
+
+**Sources:** parksandgardens.org, Queen's Road Cemetery, Waltham Forest; queensboundary.wordpress.com,
+local history, Queen's Road Cemetery. Both consulted 23 September 2026. Note that the Wikipedia article
+titled "Queen's Road Cemetery" is a different cemetery, in Croydon, opened 1861 under the Croydon Local
+Board of Health; it was checked and discarded, and should not be cited here by anyone who finds it.
+
+
+### THE AUNT AT THE FUNERAL — A CANDIDATE ALREADY IN OUR OWN NOTES (23 September 2026)
+The Walthamstow Guardian of 18 August names among the ten mourners "Mrs. Gouldstone, the prisoner's aunt,
+accompanied by her daughter", the aunt carrying a bouquet; the Dover Express calls her "the wife of one of
+the prisoner's uncles". She therefore married a brother of Thomas Gouldstone and bears the name by
+marriage, which rules out an aunt on Emily's side and makes the census search a search for a **Gouldstone**,
+not for a woman under a new name.
+
+**The candidate.** MASTER_NOTES already records a **Robert Gouldstone in Walthamstow with a wife Martha in
+both the 1871 and 1881 censuses**, the same wife a decade apart, with a son Joseph J correctly aged seven
+and seventeen. That entry calls the family "on its own terms, entirely solid" while warning that nothing
+has ever tied it to Joseph senior's son Robert, because no document names a father. **The funeral report is
+the first evidence pointing the other way:** it puts a Mrs Gouldstone who is William's aunt in Walthamstow
+in August 1883, and the same paper adds that William "is believed to have one or two relatives in
+Walthamstow". William's Chelmsford letter asks that "Cousin Gouldstone in Mash-street" be told how he is,
+and the same page of the Guardian carries a notice for the Marsh-street Open Air Mission, confirming Marsh
+Street as a Walthamstow locality.
+
+**What to check, in order.**
+1. The **full 1881 return** for the Walthamstow Robert and Martha household, not the index entry. Our note
+   mentions only the son, because it is a summary. **Is there a daughter?** A daughter old enough to walk
+   behind five coffins in August 1883 would make this household the aunt and the cousin at once.
+2. Surname Gouldstone in Walthamstow across 1871, 1881 and 1891, with the spelling thrown wide
+   (Goldstone, Gouldston, Goldston, and whatever an indexer made of the G). Head born Essex, ideally Great
+   or Little Sampford, born roughly 1815 to 1835: Thomas was baptised 1821, Robert 1824, James about 1828,
+   Joseph junior about 1838.
+3. **Walthamstow rate books 1880 to 1885, Vestry House**, for a Gouldstone ratepayer by street. That is a
+   faster route to a Marsh Street address than working backwards from a census index, and it is already on
+   the sources list for other reasons.
+
+**Caution.** She may have been widowed by 1883 and would still be Mrs Gouldstone. "Aunt" and "cousin" were
+both used loosely in the period. And the aunt at the funeral and the Marsh Street cousin may be two
+households rather than one; nothing yet joins them but proximity of name and place.
+
+**FOLLOWED UP THE SAME DAY, from census searches Rik ran (Ancestry index screenshots, 23 September 2026).
+Two candidates, and they are two different households, as this entry anticipated.**
+
+**(a) The aunt: Martha Gouldstone of Union Road, Walthamstow — and the daughter exists.**
+1871 census, Union Road, Walthamstow: **Robert Gouldstone**, b. c.1819, Essex; wife **Martha**, b. c.1838,
+Middlesex; children **Joseph J** (c.1864), **Harry B** (c.1865), **Sarah A** (c.1868) and **Robert W**, all
+born Essex. Sarah A would be about fifteen in August 1883, which is the right age to be the daughter who
+walked with her mother behind the coffins. This is the household MASTER_NOTES already described as
+"entirely solid on its own terms" while warning that nothing tied it to Joseph senior's son Robert.
+
+**Open against it, and both are answerable from one document.** Robert's stated birth year, 1819, sits five
+years off our Robert's baptism of 2 May 1824 at Great Sampford, and Joseph senior's children are documented
+closely enough that a Robert born 1819 is awkward. And Robert disappears after 1871: Martha is at 49 Lennox
+Road in 1891 with a son David (b. c.1873, so born after the 1871 census), at 198 Hoe Street in 1901, and
+alone in the Monoux Almshouses by St Mary's churchyard in 1911. She was widowed at some point; if before
+August 1883, the Dover Express's "the wife of one of the prisoner's uncles" is loose. **Next step: the 1881
+return for this household**, which settles Robert's age, whether he was alive, and the family's address two
+years before the funeral. Their eldest, Joseph J, was at 40 Queen's Road by 1901, the road the cemetery is
+named for.
+
+**(b) The Marsh Street cousin: John Gouldstone, and a date that makes the letter make sense.**
+**Marsh Street officially became the High Street in 1882** (Queens Road Stories, "High Street / Marsh
+Street"), one year before William wrote from Chelmsford asking that "Cousin Gouldstone in Mash-street" be
+told how he was. Using the old name a year after the change is what everyone did. And the 1891 census has
+**John Gouldstone, b. c.1840 at Saling, Essex**, at **5 The Terrace, High Street, Walthamstow**, with wife
+**Louisa C** (b. c.1846, Finchley) and a large family: Lizzie L (1870), John M (1876), Reuben E (1879),
+Alfred E (1881), Jessie F, Florence J (1883), Ada W (1887), Olive L (1889), most born Spital Square,
+Middlesex. By 1901 they are at 28 Buxton Road.
+
+**This is the best candidate yet for the cousin of the Chelmsford letter.** Saling is Essex, about twenty
+miles from the Sampfords, and the address is the street William named. **Next step: John Gouldstone in the
+1881 census**, which would place him on Marsh Street under that name while William was alive and at liberty.
+Note the generation problem for the aunt reading: born about 1840, John is nineteen years younger than
+Thomas and is far more likely a cousin than a brother, which is exactly what William calls him.
+
+**Discarded from the same searches:** the Goldstones of Campbell Road and Farmiloe Road (a Stratford and
+Leyton family, other spelling); the Goldstons of St Stephens Terrace (born Russia); and Thomas and Sarabann
+Goldstone of Hartington Road (she born Ipswich).
+
+**Third independent source for the cemetery buildings, found the same day:** Hidden London's gazetteer entry
+for Walthamstow Queens Road describes the 1872 burial board cemetery as having "two chapels, an entrance
+lodge and (less typically) a neighbouring coroner's court", which agrees with the Parks & Gardens and
+Queen's Boundary accounts and adds that the coroner's court adjoined the lodge.
+
+**THE BIRTHPLACES DATE THE MOVES, and they do it better than the 1881 census would (23 September 2026).**
+There is no 1881 entry for any Walthamstow Gouldstone in the searches run so far; the years returned are
+1871, 1891, 1901, 1911, 1921 and the 1939 Register. For John Gouldstone that absence is explained by the
+birthplaces of his own children.
+
+- **John and Louisa C Gouldstone moved from Spitalfields to Walthamstow between 1881 and 1883.** Lizzie L
+  (1870), John M (1876), Reuben E (1879) and Alfred E (1881) were all born at **Spital Square, Middlesex**.
+  Florence J (1883), Ada W (1887) and Olive L (1889) were all born at **Walthamstow**. In April 1881 the
+  family was still in Spital Square, which is why they are not in the Walthamstow 1881 returns, and they
+  were in Walthamstow by 1883, the year of William's letter.
+- **Robert and Martha Gouldstone were long-established.** Their first four children were born in Essex and
+  **David J was born at Walthamstow about 1873**, so that household was settled there from before 1871 and
+  still there in the mid-seventies. They were locals of long standing by 1883, not recent arrivals.
+
+**A hypothesis, logged as one and not as a finding.** The Gouldstones moved to 8 Courtenay Place in
+**September 1882**, dated from Emma Clarke's own "eleven months". John's household arrived between the
+spring of 1881 and Florence's birth in 1883. Two Gouldstone families out of rural Essex settling in the
+same suburb within a couple of years of each other, one of them in the street William named from the
+condemned cell, invites the question whether **William moved to Walthamstow because a cousin was already
+there**. Nothing in the record says so. It would explain a move that the book currently presents without a
+reason, and it is worth holding in mind when the 1881 and 1891 returns are read properly. Do not let it
+into prose as anything but a question, and preferably not at all until there is a document.
+
+**Still wanted from the 1881 census, for different reasons now.** For John, whether the move had already
+happened by April 1881 and where he first landed. For Robert, whether he was alive in 1881 at all, since
+the funeral report turns on whether Martha was a wife or a widow in August 1883, and nothing yet found
+places Robert anywhere after the 1871 return.
+
+**THE 1871 ORIGINAL SETTLES THE FAMILY, NOT THE MAN (23 September 2026, from the census image Rik supplied).**
+Reference: **RG 10/1637, page 60, schedule 321, Union Road, Walthamstow**, ecclesiastical district **St
+James**.
+
+- **Robert Gouldstone, head, married, labourer, born ESSEX, GREAT SAMPFORD.** That is the decisive line.
+  MASTER_NOTES had said of this household that "no document has ever named a father" and left it unconnected
+  to Joseph senior's son Robert. A Robert Gouldstone born at Great Sampford, living in Walthamstow, is
+  William's family: Joseph, Ruth and all their children were baptised at St Michael's, Great Sampford, Thomas
+  on 1 December 1821 and Robert on 2 May 1824.
+- **Martha, wife, born Cripplegate, Middlesex** — matching the 1911 return exactly ("Crippe Gate City
+  London"). Children Joseph, Henry B, Sarah A and Robert W, born Walthamstow.
+- **The ecclesiastical district is St James**, the parish William himself lived in twelve years later at
+  8 Courtenay Place, St James's Street.
+
+**What it does not settle: which Robert.** The age column reads **52**, which is where Ancestry's "circa
+1819" comes from, and our Robert, baptised May 1824, should be forty-six or forty-seven in April 1871.
+Five years is wide even for a labouring household. Two readings, and the page cannot choose:
+(a) our Robert with a badly stated age, which is commonplace; or
+(b) **a second Robert Gouldstone born at Great Sampford around 1819**, which is chronologically open, since
+Joseph and Ruth's banns were read on 18 January 1818 — though our notes already place Ann at about 1819-20.
+Two further frictions to hold: he is entered here as a **labourer**, where our Robert married at Thaxted in
+1846 with a trade recorded; and no record yet places him anywhere after this return.
+
+**NEXT STEP, and it is a register rather than a census.** The **Great Sampford baptism register, D/P
+289/1/13**, already used in this project for Thomas, Joseph, Lydia and Rebecca. If it holds only the Robert
+of 2 May 1824, this is him and the age is wrong. If it holds a second Robert about 1819, there are two men
+and the identification has to start again.
+
+**THE DOCUMENT THAT WOULD SETTLE IT IS A MARRIAGE CERTIFICATE, NOT A BIRTH (23 September 2026).**
+Civil registration begins 1 July 1837, so **there is no GRO birth record for either candidate Robert**
+(c.1819 and 1824). The Great Sampford register is the only place a baptism exists. What GRO can do is
+better, because a marriage certificate names the father and his occupation.
+
+- **The marriage to Martha is a second marriage and it falls inside civil registration.** Martha was born
+  about 1838, so she was eight in 1846 when our Robert married Sarah Clark at Thaxted. The eldest child of
+  the Walthamstow household, Joseph, arrives about 1864. **So there is a Robert Gouldstone / Martha
+  marriage around 1860 to 1863**, most likely London or Essex. If its certificate names **Joseph
+  Gouldstone, blacksmith**, as the father, the identification is closed and the 1871 age is a census error.
+- **Cheapest route in: the GRO's own birth index**, which carries the **mother's maiden name** for births
+  from 1837. A search for Gouldstone births in the **West Ham** registration district, 1864 to 1873, yields
+  Martha's maiden surname across Joseph, Harry B, Sarah A, Robert W and David J at no cost, and with that
+  surname the marriage can be found in the index. One certificate then does the work, not five.
+- **Robert's death, West Ham, 1871 to 1891.** Gives a second independent age statement, an occupation and
+  an informant, probably Martha or a child. It also answers the question the funeral report turns on:
+  whether Martha was a wife or a widow in August 1883. The Dover Express calls her "the wife of one of the
+  prisoner's uncles"; the Guardian only "the prisoner's aunt".
+- **Sarah A's birth certificate**, if one is wanted in hand, since she is the daughter at the graveside and
+  her exact age in August 1883 belongs in the chapter.
+
+**THE 1841 CENSUS KILLS THE 1819 READING, AND SHARPENS WHAT IS LEFT (23 September 2026).**
+Rik pointed out that the project already holds Robert in his parents' household in 1841. It does:
+HO107/329, Great Sampford, Enum. District 8 — Joseph (45-49, blacksmith), Ruth (35-39), **Thomas (15-19),
+Robert (15-19)**, Betsey 12, James 11, Lydia 10, Ruth 6, Joseph 3.
+
+**The rounding rule makes that entry decisive one way.** The 1841 census, taken 6 June 1841, is the only
+one with an instructed rounding: ages of fifteen and over were written down rounded **down** to the nearest
+five. (From 1851 onward every census asks exact age last birthday, so the **1871 "52" is a stated age, not
+a rounding artefact**, and it is not a heaped value either. Cite the 1841 enumerator instructions before
+printing the rule.) A recorded "15" therefore means a real age of fifteen to nineteen, so born between
+about June 1821 and June 1826. Robert, baptised 2 May 1824, was seventeen years and one month old that
+night and is recorded as 15. **A Robert born in 1819 would have been twenty-one or twenty-two and would
+have been recorded as 20.**
+
+**So Joseph and Ruth had no son Robert born about 1819.** The reading offered earlier the same day, that
+there might be a second Robert of theirs born c.1819, is withdrawn. Their Robert is the one baptised 1824,
+and the 1841 return corroborates the baptism rather than merely failing to contradict it. What remains is
+a straight either/or: the Walthamstow man's 52 is wrong by five years, or the Walthamstow man is a Great
+Sampford Gouldstone from another branch of the wider Robert-and-Rebecca line, not Joseph's son.
+
+**THE HARDER PROBLEM, which the 1871 date makes sharp, and which is already implicit in this project's own
+records.** The 1871 census was taken **2 April 1871**. On that night:
+- **Sarah Clark**, our Robert's wife since their marriage at Thaxted on 3 October 1846, was alive at New
+  Biggin, Thaxted, aged 47, recorded as **"Baker's Wife"**, living with her mother and not with Robert. She
+  died on **7 July 1871**, three months later, and her death certificate names her **"Wife of Robert
+  Goldstone, Baker"**. She was legally his wife until the day she died.
+- **A Robert Gouldstone at Union Road, Walthamstow** was recorded **married**, with a wife Martha and four
+  children, the eldest seven.
+
+If those are one man, he had a second household from about 1863 while his wife was living, which is
+bigamy. It would account for a good deal: an age nobody can match, a labourer in Walthamstow against a
+baker in Thaxted, and a man who vanishes from the record completely after 1871. If they are two men, the
+aunt at the funeral belongs to another branch and the identification begins again. **Do not let either
+version into prose.** The project's earlier note that the balance had "shifted back toward different men"
+was written before the funeral report gave us a Mrs Gouldstone in Walthamstow who was William's aunt.
+
+**What the marriage certificate now settles, beyond paternity.** If a Robert Gouldstone married a Martha
+about 1860-63, the **condition column** — bachelor or widower — is itself evidence, and a false entry there
+would be the record of the bigamy. Route as set out above: GRO birth index for the West Ham Gouldstone
+births 1864-73 gives Martha's maiden name free, and the maiden name finds the marriage.
+
+**A SECOND ROBERT GOLDSTONE, BAPTISED GREAT SAMPFORD 1824 (found 23 September 2026).**
+An Ancestry search for Robert Gouldstone tied to Great Sampford returns four records, and they are not
+three copies of one man:
+1. Essex Parish Baptisms and Confirmations 1538-1924 — baptism **2 May 1824**, Great Sampford, father
+   Joseph Goldstone, mother Ruth. (Our Robert.)
+2. Essex Parish Registers 1538-1900 — christening **19 September 1824**, Great Sampford, **mother Betsey
+   Norris, no father shown**.
+3. Essex Parish Registers 1538-1900 — christening 2 May 1824, parents Joseph Goldstone and Ruth. **Same
+   event as 1, indexed twice in two collections.**
+4. 1841 census, Cottage, Great Sampford, parents implied Joseph and Ruth. (Our Robert, aged 15-19.)
+
+**So two Robert Goldstones were baptised at Great Sampford in 1824, four and a half months apart.** The
+second is the "Gouldstone from another Great Sampford branch" that the Walthamstow identification needed as
+an alternative, and he turned up within the hour of the possibility being raised.
+
+**What to do with him.** An entry naming a mother and no father ordinarily means a base-born child, and in
+that case what the register itself wrote is what matters: if the clerk entered the boy as **Goldstone**
+while naming the mother as **Betsey Norris**, that usually implies a Goldstone was named or reputed as the
+father, which would make him a relation rather than a namesake. The index cannot show this. **Get the
+register page** — D/P 289/1/13 or the corresponding page in the same book the project has already used for
+Thomas, Joseph, Lydia and Rebecca. Betsey Norris herself is then traceable, and so is the boy.
+
+**What he does not do: rescue the 52.** Both Roberts were born in 1824. Neither supports a birth around
+1819, so the Walthamstow man's stated age is still unexplained, and the choice remains between a wrong age
+and a man from further out than Great Sampford altogether.
+
+**A caution about the search, for whoever repeats it.** Those four hits are records tied to Great Sampford
+as a *place*. They are not a test of how many Robert Gouldstones appear in the censuses, because our Robert
+was living at Greenwich in 1851 and St Pancras in 1861 and no Great Sampford search will ever return him.
+Birthplace searching also cannot reach 1841, which recorded only whether a person was born in the same
+county. Keep the two questions apart.
+
+**THE 1881 CENSUS: HELEN COTTAGES, AND THE AGE RESOLVED (23 September 2026, from Ancestry search results
+Rik supplied). Two findings, and the first one touches the crime scene.**
+
+**(1) 2 HELEN COTTAGES IS AN ADDRESS IN THIS FAMILY.**
+1881 census index: **Robert Gouldstone, b. circa 1819, "Great Sandford, Essex", at "2 Helens Cotts, James
+Road", with wife Martha and sons Joseph J, Robert W and David J.**
+
+The project has carried "2 Helen Cottages, Queens Road, West Walthamstow" as an unexplained address since
+June 2026. It comes from William's **1935** Broadmoor coroner's paperwork, compiled fifty-two years after
+the fact, and it contradicts every contemporary document, all of which say 8 Courtenay Place, St James's
+Street. The "same building" claim was **disputed and unresolved** as of 10 September 2026, and a note in
+this file records that Queen's Road did not exist under that name in 1883.
+
+**Here is a Gouldstone household at 2 Helen Cottages in 1881, in James Road, at the St James's Street end
+of Walthamstow, and it is William's uncle's household.** William moved his own family to St James's Street
+the following year, in September 1882.
+
+This does not resolve the puzzle and may complicate it, since 1935 puts Helen Cottages in Queens Road and
+1881 puts it in James Road. **But it changes the question.** It is no longer "did one building carry two
+names" but "why does a 1935 clerk attach to William an address at which his uncle was living two years
+before the murders". **Next step: the 1881 census image itself** — read the address as written, the
+neighbouring schedules and the enumerator's route, because that page may settle the address question that
+has been open in this project for three months. See MASTER_NOTES, "The 'same building' claim", and the
+master-index entry reopened 10 September 2026.
+
+**(2) THE AGE IS EXPLAINED, AND THE "DIFFERENT MEN" READING SHOULD NOW BE DROPPED.**
+Five records, one birthplace under four spellings, and an age drifting steadily older:
+
+| Census | Place | Birthplace as written | Implied birth |
+|---|---|---|---|
+| 1841 | Great Sampford, with his parents | (1841 records no birthplace) | 1822-1826 |
+| 1851 | 4 Victory St, Greenwich | "Gt Sempford, Essex" | c.1825 |
+| 1861 | Toll House, Junction Road, St Pancras | "Gt Sandford, Essex" | c.1822 |
+| 1871 | Union Road, Walthamstow | "Great Sampford" (on the image) | c.1819 |
+| 1881 | 2 Helens Cotts, James Road | "Great Sandford, Essex" | c.1819 |
+
+**The earliest statement is the most reliable and it lands within twelve months of the baptism of 2 May
+1824.** An age creeping six years older across thirty years is the commonest pattern in the census record
+for a man who never knew his own age. The 1871 "52" is the far end of that drift, not evidence of a second
+man. **The Greenwich, St Pancras and Walthamstow households are one man, and he is Joseph and Ruth's son.**
+The note in MASTER_NOTES that the balance had "shifted back toward different men" is superseded.
+
+**(3) WHICH MAKES THE BIGAMY PROBLEM WORSE, NOT BETTER.** One man means: Greenwich 1851 with a wife
+**Lydia**; St Pancras 1861 with a wife **Emma** and a daughter **Ruth**; Walthamstow from about 1863 with
+**Martha** — while **Sarah Clark**, married at Thaxted 3 October 1846, lived on at Thaxted until 7 July
+1871, described on her own death certificate as "Wife of Robert Goldstone, Baker". Note that **Lydia was
+his sister's name and Ruth his mother's**, which is suggestive of the right family and nothing more.
+**None of this goes into prose.** It wants the marriage certificates, and the condition column on each.
+
+**Discarded from the same search:** the Robert Goldstones of North Benfleet, Chadwell St Mary, Witham,
+Kelvedon and Birchbury are other families.
+
+**THE 1881 IMAGE READ IN FULL — RG 11/1730, page 50, schedule 255 (23 September 2026).**
+Urban Sanitary District **Walthamstow**; ecclesiastical parish **ST SAVIOUR'S**.
+
+**Schedule 255, 2 Helen Cottages, James Road:**
+- **Robert Gouldstone**, Head, Married, **62**, **"Foreman of Roads"**, born **Great Sandford [Sampford],
+  Essex**
+- **Martha**, wife, Married, 43 (b. c.1838, matching Cripplegate elsewhere)
+- **Joseph J**, son, unmarried, **17, Gardener**, born Walthamstow
+- **Robert W**, son, 10, born Walthamstow
+- **David J**, son, 8, born Walthamstow
+- **William Edwards, "nurse child", 4**, born St Luke's, Middlesex — a child boarded with them for payment.
+
+**Helen Cottages is a terrace of four houses in James Road.** The numbering runs down the page: schedule
+252 at **4 Helen Cottages**, 253 and 254 both at **3** (one house, two schedules), Robert at **2**, and 256
+at **1**. The page totals four houses across five schedules, which confirms the shared house. Neighbours:
+James Taylor, clerk, a widower with a German son-in-law and three boarders; William Wyatt, cigar maker;
+Jane Webb, widow, formerly a laundress; Benjamin Richardson, baker. **The address in William's 1935
+paperwork is a real terrace with a known shape, not an orphan reference.**
+
+**St Saviour's matters.** That is **Grantham Robinson's** parish, of which he was the first vicar; he buried
+the five children, opened the relief subscription for Elizabeth, and the BMJ calls him "the Vicar of the
+parish in which he lived". Robert's household sat in **St James's** district in 1871 and in **St Saviour's**
+by 1881, the latter having been carved out of the former. William's uncle was living in the clergyman's
+parish two years before the funeral.
+
+**The age.** 62 in 1881 is 52 plus ten, so the same year was given in both Walthamstow returns. The drift
+therefore runs 1825 (Greenwich), 1822 (St Pancras), then settles at 1819 for 1871 and 1881. A man who
+arrived at an answer and kept it. It does not disturb the reading that the earliest statement is the one
+closest to the baptism of 2 May 1824.
+
+**Occupation, third version.** Labourer in 1871, **Foreman of Roads** in 1881, and **baker** on Sarah
+Clark's death certificate of July 1871. Three descriptions inside ten years.
+
+**Sarah A is not in the 1881 household.** She would have been thirteen; she and Harry B have both gone
+since 1871. If she is the daughter at the graveside in August 1883, she was not living at home two years
+earlier. Establish where she was before the chapter puts her behind the coffins.
+
+**HYPOTHESIS, logged as a question, for the 1935 address.** Broadmoor and asylum admission papers routinely
+recorded a next of kin and where to reach them. **If Elizabeth went to her husband's uncle after the
+murders, the address in William's file would be the uncle's house at 2 Helen Cottages**, and a clerk
+compiling the 1935 coroner's paperwork would copy it as William's own. That would explain an address that
+has never fitted any contemporary document, without needing Courtenay Place and Helen Cottages to be the
+same building. **Checkable**: the 1883 committal papers, if they record a family address; the Broadmoor
+file itself when it opens in 2036; and the four missing years of Elizabeth's life, which begin exactly
+here. Do not write this as anything but a possibility.
+
+**Note also:** Helen Cottages is in **James Road**, while William's address is **St James's Street**. Those
+are two streets, and the 1935 record says **Queens Road**. Three streets, one cottage name. The Walthamstow
+rate books and a large-scale plan would fix Helen Cottages on the ground.
+
+**ROBERT: WHERE THE IDENTIFICATION ACTUALLY STANDS, AND A CLAIM WITHDRAWN (23 September 2026, end of the
+session's work on him). Read this before using anything above about Robert.**
+
+**A claim made earlier the same day is withdrawn.** This file said, on the strength of the birthplace and
+the age drift, that "the Greenwich, St Pancras and Walthamstow households are one man, and he is Joseph and
+Ruth's son". That was too strong, and what undercuts it was found twenty minutes later and is recorded
+above: **two Robert Goldstones were baptised at Great Sampford in 1824**, one on 2 May to Joseph and Ruth
+and one on 19 September to Betsey Norris. Both answer to "Robert Goldstone, born Great Sampford, about
+1824" in any census, so a birthplace match cannot tell them apart, and the birthplace match was the whole
+argument.
+
+**CERTAIN.** Baptised Great Sampford 2 May 1824, son of Joseph and Ruth. In their household there in 1841.
+Married Sarah Clark at Thaxted 3 October 1846, aged 22. Sarah lived on at Thaxted, gave her condition as
+Single in 1861 and Baker's Wife in 1871, died 7 July 1871, and her death certificate names her the wife of
+Robert Goldstone, baker. That certificate is the strongest document in the file and it is about her, not
+him.
+
+**ADDED TODAY.** A Walthamstow household, Union Road 1871 and 2 Helen Cottages 1881, headed by a Robert
+Gouldstone who twice gave Great Sampford as his birthplace, with a wife Martha and a daughter of the right
+age for the funeral. And a newspaper calling a Mrs Gouldstone "the prisoner's aunt".
+
+**ON THE WIVES, AND THE QUESTION IS WRONGLY PUT.** A census "wife" is whatever the householder told the
+enumerator. Cohabitation described as marriage was ordinary and leaves no certificate; **bigamy requires a
+second ceremony, a household requires nothing**. So Lydia (1851), Emma (1861) and Martha (from c.1863) may
+be three successive households rather than three marriages, and the right question is how many households,
+not how many wives. The earlier entry in this file framing it as bigamy overstates what is in evidence.
+
+**THREE READINGS, none yet worth betting on.**
+1. **One man, Joseph and Ruth's son**, who left Sarah in Essex and formed successive households in London
+   and Walthamstow while she lived. Fits the newspaper's "aunt" exactly. Requires him to be a baker in
+   Thaxted, a labourer in Walthamstow and a foreman of roads.
+2. **Two men, split the tidy way**: Joseph and Ruth's Robert stays in Essex as the baker Sarah died married
+   to; **Betsey Norris's Robert** goes to Greenwich, St Pancras and Walthamstow. Explains everything except
+   the word "aunt" — unless Betsey Norris's son was fathered by a Goldstone, in which case the funeral
+   mourner is a cousin's wife and the paper was loose.
+3. **Two men split the other way.** Possible, unevidenced.
+
+**THE CHEAPEST TESTS, IN ORDER.**
+1. **The register page for 19 September 1824** — was that child entered as a Goldstone, and was a father
+   named or reputed? Same book already used for Thomas, Joseph, Lydia and Rebecca.
+2. **Sarah's husband in 1851 and 1861** — search Essex for a Robert Goldstone, baker. If he is in Essex in
+   those years while another Robert is at Greenwich and St Pancras, the two-man reading is proved and the
+   aunt is in trouble.
+3. **The GRO birth index for the Walthamstow children**, which gives Martha's maiden name free and shows
+   whether a marriage to her exists at all.
+
+**Until tests 1 and 2 are done, what is known about Robert is: one certain baptism, one certain marriage,
+one certain abandoned wife, and a Walthamstow household that a newspaper says was family.**
+
+**SARAH'S HUSBAND IS CERTAINLY JOSEPH AND RUTH'S SON — AND THE TRADE COLUMN NOW CUTS AGAINST THE
+WALTHAMSTOW MAN (23 September 2026).**
+
+Rik asked whether the abandoned wife was our Robert's or the other Robert's. **Ours, certainly, and the
+document was already in the file.** The Thaxted marriage register of 3 October 1846, **D/P 16/1/13, p.73**,
+gives the father explicitly as **"Joseph Goldstone, Blacksmith"**. Betsey Norris's son is not in that
+entry. That is the same field that would settle the Walthamstow man's paternity, and for the 1846 marriage
+we have had it all along.
+
+**But the next column cuts the other way.** The same register gives Robert's own occupation in 1846 as
+**Baker**. Sarah gave herself as a **Baker's Wife** in 1871 and her death certificate of July 1871 names
+him **"Robert Goldstone, Baker"**. So Joseph and Ruth's Robert is a baker at twenty-two and is still
+described as a baker twenty-five years later, by the woman with most reason to know.
+
+**The Walthamstow man is a labourer in 1871 and Foreman of Roads in 1881. Never a baker.**
+
+**Net effect: the two-man reading is now the stronger one**, which is the reverse of where this file stood
+earlier today. Joseph and Ruth's Robert is pinned to a trade and a county. The Walthamstow householder is
+pinned to a different trade. The only thing joining them is a birthplace that two men shared.
+
+**What still stands on the other side is the word "aunt."** Both the Walthamstow Guardian and the Dover
+Express place a Mrs Gouldstone at the graveside as William's aunt, by marriage to one of his uncles. If the
+Walthamstow man is Betsey Norris's son, the papers can only be right if that boy was fathered by a
+Goldstone close enough for the relationship to be described that way. Which returns us to the register page
+for 19 September 1824.
+
+**NEXT TEST, AND IT IS FREE: THE OCCUPATION COLUMN IN THE 1851 AND 1861 ENTRIES.**
+- **1851, 4 Victory Street, Greenwich** (wife Lydia) — occupation not yet read.
+- **1861, Toll House, Junction Road, St Pancras** (wife Emma, daughter Ruth) — occupation not yet read, and
+  the address being a toll house suggests something other than either baking or labouring.
+If either man is a **baker**, he is Joseph and Ruth's Robert and the one-man reading revives. If both are
+labouring men, there is a baker in Essex and a labouring man moving through London to Walthamstow, and they
+are two people. **Read both images before anything else on Robert.**
+
+**ROBERT'S DEATH FOUND — Q4 1882, WEST HAM (23 September 2026, GRO death index, Rik).**
+**Robert Gouldstone, died Oct-Nov-Dec quarter 1882, West Ham registration district, age 68, volume 4a page
+110.** West Ham is the district covering Walthamstow. This fills what MASTER_NOTES calls "a complete blank"
+after 1871.
+
+**What it explains, all at once.**
+- **Why no uncle appears anywhere in the coverage of the murders.** He had been dead about nine months.
+- **Why Martha walks behind the coffins with her daughter and no husband.**
+- **Why she is alone in 1891, 1901 and 1911.**
+- **And it makes the papers precise rather than careless.** The Guardian's "Mrs. Gouldstone, the prisoner's
+  aunt" is exactly right for a widow; the Dover Express's "the wife of one of the prisoner's uncles" is the
+  loose one. The earlier note in this file worrying at that difference is answered.
+
+**The timing.** William moved his family to Walthamstow in **September 1882**. His uncle died in the quarter
+beginning the following month.
+
+**The age, which nobody should quote.** Sixty-eight in late 1882 implies birth about **1814**, against
+sixty-two in his own census entry eighteen months earlier. That is a fifth different birth year for this
+man: 1825, 1822, 1819, 1819, 1814. Death ages are the least reliable figures in the civil register, given
+by whoever registered the death.
+
+**ORDER THE CERTIFICATE. It is the most valuable few pounds currently available, and it carries four
+things:**
+1. **Occupation** — the direct test of baker against Foreman of Roads, and therefore of the one-man against
+   the two-man reading.
+2. **Address** — if it reads 2 Helen Cottages, the household, the death and the 1935 Broadmoor entry are
+   tied together.
+3. **Informant** — if Martha, she is established as his widow from a document instead of by inference.
+4. **Exact date** — how long before the murders, and whether before or after William's arrival in the
+   parish.
+
+**THE DEATH CERTIFICATE READ — ENTRY 432, AND IT ANSWERS THE HELEN COTTAGES QUESTION (23 September 2026).**
+Certificate image supplied by Rik. Registration entry **No. 432**, Walthamstow U.S.D.
+
+- **Died 20 December 1882, Queens Road, Walthamstow U.S.D.**
+- **Robert Gouldstone**, male, **63 years**
+- **Occupation: "Foreman on roads"**
+- Cause: acute bronchitis 21 days, pneumonia 3 days, certified by **J. Allinson MRCS**
+- Informant: **"M. Gouldstone, wife, present at the death, Queens Road, Walthamstow"**
+- Registered **21 December 1882**
+
+**(1) THE 1935 ADDRESS IS THE UNCLE'S ADDRESS.** The Broadmoor coroner's paperwork of 1935 gives William's
+address as **"2 Helen Cottages, Queens Road, West Walthamstow"**. This household was at **2 Helen
+Cottages** in April 1881 and at **Queens Road** in December 1882, so Helen Cottages stood on or off Queens
+Road and the 1881 enumerator's "James Road" is an adjacent designation, not a contradiction. **The strong
+reading is that a clerk in 1935 copied a family address out of William's file and it became his own.** This
+supersedes three months of treating it as a possible alternative name for 8 Courtenay Place. Update
+MASTER_NOTES ("the 'same building' claim") and master-index item 1, both of which still frame it as a
+building-identity question.
+
+**(2) A PROJECT CLAIM DISPROVED.** `notes/session-note-2026-06-28.md` states flatly that **"Queens Road did
+not exist in 1883"**, and that claim has been used to discount the 1935 address. A registrar wrote it on
+**21 December 1882**. The claim is wrong and should be struck where it appears.
+
+**(3) THE TRADE TEST CAME BACK, AND IT FAVOURS TWO MEN.** He is a **road foreman** at death, exactly as in
+the 1881 census, and **never a baker**. Joseph and Ruth's Robert was a **baker** at his marriage in 1846 and
+was still called a baker by Sarah in 1871 and on her death certificate.
+
+**(4) THE AGE, AND A CORRECTION TO THIS FILE.** The GRO index gives 68; **the certificate says 63**, so the
+index is wrong and the note written earlier today on the strength of it ("age 68... implies birth about
+1814... a fifth different birth year") is withdrawn. Sixty-three in December 1882 implies **1819**, which is
+exactly what this man gave in 1871 and 1881. **The drift stops.** He says 1819 three times running; Joseph
+and Ruth's son was baptised in 1824. The two birth years are now each internally consistent and mutually
+incompatible, which is a much harder problem than a wandering age.
+
+**(5) MARTHA IS A WIDOW FROM 20 DECEMBER 1882**, by document, and was present at the death. She walked
+behind the five coffins just under eight months later. The Guardian's "the prisoner's aunt" is exact; the
+Dover Express's "the wife of one of the prisoner's uncles" is the loose one.
+
+**(6) WILLIAM'S OWN CHRONOLOGY.** He moved his family to Walthamstow in **September 1882**. This man fell
+ill about the end of November and died on 20 December 1882.
+
+**FREE ADDITION TO AN ENQUIRY ALREADY PLANNED.** A man who died at Queens Road in December 1882 was very
+likely buried at **Queen's Road Cemetery**, a few hundred yards away. When the burial registers are asked
+about the children's grave, **ask about Robert Gouldstone, died 20 December 1882, in the same enquiry**. If
+he is there, then eight months before the five children were buried in that ground, so was their
+great-uncle.
+
+**THE 1851 AND 1861 IMAGES SETTLE IT: ONE MAN, AND HE IS OUR ROBERT (23 September 2026). THIS SUPERSEDES
+EVERY EARLIER POSITION IN THIS FILE TODAY.**
+
+**1851 — HO 107/1584, page 219, St Paul Deptford, Greenwich, schedule 197, Victory Street:**
+**Robert Gouldstone, head, married, age 26, Labourer, born Essex, Great Sampford**; **Lydia**, wife,
+33 or 35, born Bedfordshire.
+**Twenty-six in March 1851 means born between March 1824 and March 1825, and Joseph and Ruth's Robert was
+baptised on 2 May 1824.** That is the earliest independent statement he ever made about his own age and it
+matches the baptism.
+
+**1861 — RG 9/124, page 36, St Pancras, ecclesiastical district St John the Baptist, schedule 104, "Toll
+House in Junction Road":** **Robert Goldstone, head, married, 39, Toll Collector, born Essex Gt Sandford**;
+**Emma**, wife, 27, born Yorkshire, Huddersfield; **Ruth**, daughter.
+
+**THE TRADE OBJECTION IS DEAD.** He is a **labourer already in 1851**, five years after marrying Sarah as a
+baker. The change happened almost at once. Thaxted went on calling him a baker until 1871 because Thaxted
+last saw him as one in 1846. The working life reads: **baker (1846), labourer (1851), toll collector
+(1861), labourer (1871), foreman of roads (1881-82)**. One humble life moving through London, not two men.
+
+**THE AGE CHAIN, COMPLETE:** 26 in 1851 (b. 1824) / 39 in 1861 (b. 1822) / 52 in 1871 (b. 1819) / 62 in
+1881 (b. 1819) / 63 at death in 1882 (b. 1819). **Accurate when young, drifting older with every telling
+until the figure sets.** Betsey Norris's son is not needed to explain anything.
+
+**CONCLUSION: the Greenwich, St Pancras and Walthamstow households are one man; he is Joseph and Ruth's
+Robert; he is William's uncle; and Martha at the graveside is genuinely William's aunt.** The "two men"
+leaning recorded earlier today, on the strength of the baker and the age, is withdrawn — the third and
+final position taken on him in one session, and the swing is left visible on purpose.
+
+**WHAT IS NOW THE STORY RATHER THAN THE PUZZLE.** Lydia at Deptford in 1851, seven years older than him,
+from Bedfordshire. Emma at the St Pancras toll house in 1861, from Huddersfield, with a daughter **Ruth**,
+his mother's name. Martha from about 1863 at Walthamstow. And **Sarah Clark alive in Thaxted through all of
+it**, giving her condition as Single in 1861 and Baker's Wife in 1871, dying 7 July 1871 still legally his
+wife. Note that a census "wife" is a claim by the householder; none of these three is yet shown to be a
+marriage.
+
+**THE SEARCHES, IN ORDER, AND THE FIRST TWO ARE FREE.**
+1. **GRO marriage index: Robert Gouldstone/Goldstone and a Martha, July 1871 to December 1882**, West Ham
+   or Essex. Sarah died 7 July 1871; a marriage after that date was legal. Whether he regularised it the
+   moment he was free is a fact about the man.
+2. **GRO marriage index: a Lydia c.1846-51 and an Emma c.1855-61.** Either would be documented bigamy.
+3. **Ruth's birth certificate** (1861 household) — gives **Emma's maiden name**, which is what makes any
+   search for Emma possible at all. Then trace Ruth forward to a marriage naming Robert as her father.
+4. **The Walthamstow children in the GRO birth index** — gives **Martha's maiden name** free.
+5. **Deaths last.** Lydia and Emma may never have been legally Gouldstone and may have died under their own
+   surnames, so a death search before a maiden name is a search for a name we do not have.
+
+**CONFLATION WARNING — FIVE ROBERTS.** (1) Robert Goldstone 1751-1824, the great-great-grandfather.
+(2) The uncle, baptised 2 May 1824, died 20 December 1882. (3) **William's own brother, Robert Gouldstone,
+born 7 January 1855, who gave defence evidence at the Old Bailey in September 1883** — the uncle was ten
+months dead by then, and the trial witness is the brother. (4) The uncle's son **Robert W**, born about
+1871. (5) Betsey Norris's boy, baptised 19 September 1824. Any Robert Gouldstone turning up in Essex or
+London in the 1880s must be tested against all five before being attached to any of them.
+
+**A curiosity, possibly nothing.** Four doors from Robert in Victory Street, Deptford, in 1851, at schedule
+195, lived **Robert M. Norris**, journeyman ladies' shoemaker, born London about 1813. Norris is the
+surname of the mother of the other Robert Goldstone baptised at Great Sampford in 1824. He is too old to be
+that child. Logged only in case the name turns out not to be a coincidence.
+
+**PROPORTION.** The aunt is identified, which is what Chapter Ten needed. Reconstructing Robert's domestic
+life from here on is colour for the family chapters, not something the chapter is waiting on.

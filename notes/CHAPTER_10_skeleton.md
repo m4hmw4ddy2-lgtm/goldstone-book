@@ -221,10 +221,14 @@ Chapter Eight already stated the thing once, plainly. This chapter demonstrates 
 - The unaccounted day, still homeless.
 
 ## OPEN BEFORE DRAFTING
-- **Board room against lodge: one room or two?** Still open, but narrowed. The local paper says Board-room
-  for both sittings and puts the funeral procession beside it; the Morning Post and Dover Express say
-  Lodge for the Monday. Likeliest reading is one building. A burial board minute book or a cemetery plan
-  would settle it.
+- ~~Board room against lodge: one room or two?~~ **RESOLVED 23 September 2026: one room.** Walthamstow
+  Cemetery is Queen's Road Cemetery, the Walthamstow Burial Board's ground, opened October 1872, built by
+  R. C. Sutton of Nottingham in Kentish ragstone: two chapels at right angles, an entrance lodge, and
+  **an inquest room attached to the lodge, "a Room about twenty by fourteen feet"**, still a coroner's
+  court today. That is where Lewis sat on both days, and board room, lodge and small lodge are three names
+  for it. The prose may move between the two sittings without changing venue, and "small" is literal.
+  Secondary sources only so far, so confirm the measurement from the burial board minutes at Vestry House
+  before printing the figure. See the timeline file, "Board room against lodge — resolved".
 - ~~Blyth's full name~~ **RESOLVED: Joseph Blythe.** Occupation and address still unknown, but the rate
   books and the 1881 census can now be searched on a name, and so can the other thirteen jurors.
 - ~~Whether Elizabeth's absence from the funeral is anywhere stated~~ **RESOLVED: it is stated.** The
