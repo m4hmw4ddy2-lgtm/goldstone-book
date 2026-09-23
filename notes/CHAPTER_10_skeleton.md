@@ -507,3 +507,24 @@ chapter otherwise has none. Flagged for Rik to confirm he wants it, not to remov
   marking time with the clerk's reading".
 - "He replied that he did not think anything would turn on that" makes the coroner answer Emma
   Clarke. He was addressing the court. Both papers have "The coroner said".
+
+---
+
+## TITLE SETTLED 24 September 2026 (Rik): "Of a Kindly Nature"
+
+From the Walthamstow and Leyton Guardian of 18 August, reporting Joseph Blythe's account of his own
+visit to Elizabeth's bedside: "His visit was of a kindly nature, to see if he could be of any
+service to Mrs. Gouldstone." It is also the chapter's last line, so the title is redeemed rather
+than explained: the reader arrives at it.
+
+It belongs to the pattern already set by "Uncommonly Fine Children" and "Gone to Glory": the irony
+is the Victorians' own, in their own words, not the narrator's. And it names what the chapter is
+about, which is men describing in gentle language what they did to the Gouldstones. The coroner says
+"purely a view" under challenge; Blythe says "of a kindly nature" without being challenged at all.
+
+Superseded: "The Time Appointed for the Funeral", which moved to Chapter Eleven on 23 September and
+stays there; and "Purely a View", the working title of 23 September, now free. Worth remembering
+that "purely a view" is still in the chapter as the coroner's quoted words, doing its work unlabelled.
+
+"Reunited" was considered and kept where it is, in the third sentence, rather than spent on the
+title, since the misdirection can only be had once.
