@@ -673,8 +673,13 @@ Useful for tightening birth-year estimates from stated ages across all family li
    Lord Mansfield in *Bentley v Cooke* (1784), and the Irish Law Reform Commission's report on
    competence and compellability of spouses. Both confirm the rule and the three exceptions. One
    correction came out of it: "until the Criminal Evidence Act 1898" must not be written as though
-   that Act flipped a switch. The statute itself has still not been read in its own words, and
-   until it has, the prose should say Elizabeth could not be called and not explain the statute.
+   that Act flipped a switch. **The statute itself was then obtained by Rik the same day** and is at
+   `sources/pdfs/Criminal_Evidence_Act_1898_61-62_Vict_c36.pdf` (61 & 62 Vict. c. 36, Royal Assent
+   12 August 1898, in force 12 October 1898). It confirms everything and adds one thing: proviso (h)
+   to section 1 preserves "any right of the person charged to make a statement without being sworn",
+   a right it does not create, so William could have addressed his own trial unsworn and the Old
+   Bailey account does not record him doing so. Full provisions, the Schedule, and the finding that
+   murder is not a scheduled offence, in part_three_context_law_and_medicine.md.
 
 8. GRO certificates: William death 1935. (Five murdered children: NOT NEEDED, decided 22 September 2026: the death index, S qtr 1883 West Ham 4a 102, gives what the book uses, including the twins as "Male". Elizabeth's 1906 death certificate is already obtained.)
 9. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (probably won't show Elizabeth — she was not a resident inmate — but worth checking)

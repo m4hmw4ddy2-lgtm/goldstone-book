@@ -133,6 +133,59 @@ switch in 1898 that did not happen, and the notes should not say that.
 **Where the claim appears and must be corrected in step**: this file; the summary of the Elizabeth
 thread in MASTER_NOTES; and the Elizabeth thread file itself.
 
-**What is still not done.** Nobody has read section 1, section 4 or the Schedule of the 1898 Act in
-its own words, and until someone has, the prose should say Elizabeth could not be called and stop
-there, rather than explaining the statute.
+### THE STATUTE ITSELF, obtained by Rik 23 September 2026. Everything above is confirmed, and the caveat is lifted
+`sources/pdfs/Criminal_Evidence_Act_1898_61-62_Vict_c36.pdf`. Criminal Evidence Act 1898, 61 & 62
+Vict. c. 36. Long title: **"An Act to amend the Law of Evidence."** Royal Assent **12 August 1898**;
+by section 7(2) it came into operation "on the expiration of two months after the passing thereof",
+so **12 October 1898**. By section 7(1) it did not extend to Ireland, which is why the Irish Law
+Reform Commission cited above discusses the Irish Act of 1924 instead.
+
+**Section 1, the operative words:** "Every person charged with an offence, and the wife or husband,
+as the case may be, of the person so charged, shall be a competent witness for the defence at every
+stage of the proceedings, whether the person so charged is charged solely or jointly with any other
+person." That single sentence is the proof of what the law had been. Parliament does not enact that
+people *shall be* competent witnesses unless they were not.
+
+**Section 1, the provisos that matter to us:**
+- **(a.)** "A person so charged shall not be called as a witness in pursuance of this Act except
+  upon his own application."
+- **(b.)** "The failure of any person charged with an offence, or of the wife or husband... to give
+  evidence shall not be made the subject of any comment by the prosecution."
+- **(c.)** "The wife or husband of the person charged shall not, save as in this Act mentioned, be
+  called as a witness in pursuance of this Act except upon the application of the person so
+  charged."
+- **(h.)** "Nothing in this Act shall affect the provisions of section eighteen of the Indictable
+  Offences Act, 1848, or any right of the person charged to make a statement without being sworn."
+
+**Proviso (h) is the find.** The statute preserves a right it does not create, which means the right
+of the accused to make an unsworn statement was already there in 1883. William could have spoken at
+his own trial. He could not be sworn, he could not be cross-examined, and nothing he said would have
+been evidence, but he could have stood up in that dock and addressed the court, and the Old Bailey
+account does not record him doing it. **That moves this from a legal disability to a choice, or at
+least to something the prose can put in front of the reader as an absence rather than an
+impossibility.** Shoemaker's account of the practice, that the defendant "was then asked to state
+their case", makes it likelier still that he was given the opening and did not take it. Whether the
+Proceedings simply omit it is a separate question and should be checked against the newspaper trial
+reports of 15 September before anything is written.
+
+**Section 4(1):** "The wife or husband of a person charged with an offence under any enactment
+mentioned in the schedule to this Act may be called as a witness either for the prosecution or
+defence and without the consent of the person charged." **Section 4(2):** "Nothing in this Act shall
+affect a case where the wife or husband of a person charged with an offence may at common law be
+called as a witness without the consent of that person", which preserves the old exceptions intact.
+
+**The Schedule, and this is the point for Elizabeth.** It lists the Vagrancy Act 1824 (neglecting to
+maintain or deserting wife or family); the Poor Law (Scotland) Act 1845 s.80; the **Offences against
+the Person Act 1861, sections forty-eight to fifty-five**; the Married Women's Property Act 1882 ss.
+12 and 16; the Criminal Law Amendment Act 1885, the whole Act; and the Prevention of Cruelty to
+Children Act 1894, the whole Act. **Murder is not in it.** Murder is at the front of the Offences
+against the Person Act, not in sections 48 to 55, which are the sexual and abduction offences. So
+even after 1898 the prosecution could not have called Elizabeth in a murder trial without her
+husband's consent. What changed in 1898 is that **he** could have called her. In 1883 neither side
+could.
+
+**Corrected statement of the rule, for use everywhere in this project:** in September 1883 neither
+William nor Elizabeth was a competent witness. The Criminal Evidence Act 1898 made both competent
+for the defence, the accused only on his own application and the spouse only on his; it made the
+spouse competent for the prosecution only in the scheduled offences, which do not include murder;
+and it expressly left untouched the accused's pre-existing right to make an unsworn statement.

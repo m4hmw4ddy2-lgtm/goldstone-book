@@ -75,13 +75,28 @@ incompetent both ways, but the notes should not imply a clean switch.
 "Spouses as Witnesses in England and Queensland", Queensland Institute of Technology Law Journal, 1984, quotes the
 *Bentley v. Cooke* passage exactly as given here and lists the same three exceptions, calling the third deprivation of
 liberty rather than abduction; and the Irish Law Reform Commission's *Report on Competence and Compellability of Spouses
-as Witnesses* states the general rule in the same terms. The statute itself has still not been read in its own words.
+as Witnesses* states the general rule in the same terms.
+
+**AND THE STATUTE ITSELF, obtained by Rik the same day**, now at
+`sources/pdfs/Criminal_Evidence_Act_1898_61-62_Vict_c36.pdf`. Section 1 begins: "Every person charged with an offence,
+and the wife or husband, as the case may be, of the person so charged, shall be a competent witness for the defence at
+every stage of the proceedings." Parliament does not enact that people shall be competent unless they were not, so the
+section is itself the proof of the old rule. The Schedule, which lists the offences in which a spouse could be called
+for the PROSECUTION, does not include murder: it reaches the Offences against the Person Act 1861 only at sections
+forty-eight to fifty-five. **So the full position is that in 1883 neither side could call Elizabeth; after 1898 the
+prosecution still could not; only William could have.** See part_three_context_law_and_medicine.md for the provisions in
+full.
 
 **And the same rule silenced William.** No defendant could be sworn in his own defence before 1898 either. Robert
 Shoemaker, Old Bailey Proceedings Online, "Trial Procedures": "The defendant, who until 1898 was not put on oath (it was
 thought this was a form of compulsion), was then asked to state their case." So the two people who were in that bedroom
-and lived were both, under one body of law, unable to give evidence. The difference is that William was at least expected
-to state his case unsworn, and the Old Bailey account does not record him doing it; Elizabeth was not in the building.
+and lived were both, under one body of law, unable to give evidence on oath. **But the difference between them is larger
+than it first looked, and the 1898 Act proves it.** That Act's proviso (h) preserves "any right of the person charged to
+make a statement without being sworn", a right it does not create, which means William already had it in 1883. He could
+have addressed the court. Unsworn, uncross-examined, and not as evidence, but he could have spoken, and the Old Bailey
+account does not record him speaking. Elizabeth had no such right, because she was not a party and was not in the
+building. **His silence was available to be broken and hers was not.** Check the newspaper trial reports of 15 September
+before writing this, in case the Proceedings simply omit a statement he did make.
 This belongs in the thread: her silence is not singular, it is half of a pair, and the other half is the man the whole
 proceeding was about.
 
