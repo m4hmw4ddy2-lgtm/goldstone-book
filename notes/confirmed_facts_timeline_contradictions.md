@@ -2026,3 +2026,71 @@ that child. Logged only in case the name turns out not to be a coincidence.
 
 **PROPORTION.** The aunt is identified, which is what Chapter Ten needed. Reconstructing Robert's domestic
 life from here on is colour for the family chapters, not something the chapter is waiting on.
+
+=========================================================================
+FROM THE FRIENDS OF QUEEN'S ROAD CEMETERY GROUP AND FROM FURTHER BAPTISM RECORDS
+23 September 2026. Facebook replies are third-party recollection, not documents; treated as leads and
+labelled as such. The baptism records are index entries and should be confirmed against the registers.
+=========================================================================
+
+### THE GRAVE NUMBER — 1370A (lead, from Mark Lewis, Friends of Queen's Road Cemetery)
+He gives the plot as **1370A** and the burial entry as: **"Charles aged 3, Frederick aged 1, Herbert aged 2
+and 2 males unnamed recently born."**
+
+**A CONTRADICTION, AND IT MATTERS.** The Walthamstow and Leyton Guardian of 18 August reports that each of
+the five coffins carried **"a plate on which their respective names and ages were inscribed"**. The burial
+register, as quoted, enters the twins as **"2 males unnamed"**. Both can be true only if the plates for the
+twins carried something other than names, or if the paper generalised from the three that had them.
+**The project has been hoping the register would supply the twins' names. On this reading it does not.**
+They are unnamed in the death index ("Male" and "Male"), unnamed in the burial register, and the only claim
+that they had names is a newspaper's. Confirm the register entry directly before writing either version.
+
+### THE LODGE, THE BOARD ROOM AND THE MORTUARY (lead, from Karen McGowan-Griffin, who lived in the lodge
+from the early 1960s to the early 1980s)
+"There is an office attached to the lodge that may have been used as a board room, it looks like part of
+the house but has its own entrance. The mortuary is at the back of the car park but I don't know if it was
+there in the 1880s." Lizzie Harper adds that the coroner's court is at the entrance on Queens Road.
+
+**This corroborates the resolution already logged**: one building, the entrance lodge, with the inquest or
+board room attached and reached by its own door. It also matches the 1880s reports exactly, since a
+reporter coming to the board room by its own entrance would call it the board room, and one describing the
+building would call it the lodge. **It does not settle where the mortuary stood in 1883** — she is explicit
+that she does not know — so the caution logged against the OS sheet's "Mort." at the north-east corner
+stands.
+
+### FIVE HELEN COTTAGES IN 1867 — THE ADDRESS IS OLDER THAN WE THOUGHT
+**Sarah Annie Gouldstone**, baptised **18 August 1867**, Walthamstow, **St James the Greater**, father
+Robert Gouldstone, mother Martha, **residence 5 Helen Cottages** (Essex Parish Baptisms, page 83, archive
+reference D/P 522/1/1).
+
+So the family was in Helen Cottages by 1867, at **number 5**, and at **number 2** by the 1881 census. The
+address in William's 1935 Broadmoor paperwork is not a passing one: his uncle's household lived in that
+terrace for at least fourteen years and probably longer. Note also that this baptism gives Sarah Annie her
+full name and an exact date, which makes her **just short of sixteen** at the funeral in August 1883.
+
+### THE FAMILY WERE ST SAVIOUR'S PARISHIONERS, AND THAT IS GRANTHAM ROBINSON'S CHURCH
+- **David John Gouldstone**, born and christened **1872**, **Walthamstow, St Saviour's Church**, father
+  Robert, mother Martha (England Births and Christenings, batch C16391-1).
+- **Thomas Henry Goldstone**, born **7 October 1875**, baptised **3 November 1875**, **St Saviour,
+  Walthamstow**, father Robert Goldstone, mother Martha (Essex Parish Baptisms, page 39, archive reference
+  WF/W83/95 RBp 1). **A child not previously known to this project.**
+
+The 1867 baptism is at St James the Greater; the 1872 and 1875 baptisms are at St Saviour's. The family
+moved to the new church as it opened, which is what parishioners do.
+
+**The inference, and it is an inference.** Rev. T. H. Grantham Robinson was the first vicar of St
+Saviour's. He buried the five children, opened the first relief subscription for Elizabeth, wrote to the
+press on 10 August having already visited her rooms, wrote again on 20 September confirming her statement,
+and got up a petition for a reprieve. The BMJ calls him "the Vicar of the parish in which he lived". **His
+parish had been baptising Gouldstones for eleven years before the murders.** That does not prove he knew
+the family, and nothing found yet says he did. It does offer a reason for the depth of his involvement
+that the project has never had, and it is worth testing against the St Saviour's registers and his own
+parish papers. **Do not put it in prose as a motive until something says so.**
+
+### CONSEQUENT ADDITIONS TO THE ARCHIVE ENQUIRIES
+- Burial register entry for **grave 1370A**: the exact wording, the date, who paid, and whether the twins
+  are named anywhere in it.
+- Whether **Robert Gouldstone, died 20 December 1882 at Queens Road**, is buried in the same cemetery, and
+  where.
+- **St Saviour's baptism registers** for the Gouldstone children, and any parish papers of Grantham
+  Robinson's.
