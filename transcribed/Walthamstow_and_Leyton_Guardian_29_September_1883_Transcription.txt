@@ -1,0 +1,57 @@
+Source image: sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_29_September_1883_0005_Clip.jpg (736 x 1766)
+Newspaper/title if visible: not visible in the crop; the file is from the Walthamstow and Leyton Guardian
+Date if visible: not visible in the crop; the filename gives 29 September 1883
+Page/column/article if known: single column, complete item
+Transcription scope: the whole clip
+Transcription status: Complete. Transcribed 22 September 2026.
+IMPORTANT: this is the Guardian reprinting an article from THE LAW TIMES, which it credits at the foot.
+The argument below is the legal profession's own journal on this case, not the local paper's opinion.
+
+TRANSCRIPTION
+
+The following article from a legal contemporary will prove interesting:—
+
+"The conviction of William Gouldstone, for the murder of his five children at Walthamstow, was inevitable,
+when his case was tested by the law of insanity, as laid down by the judges and approved of by the House of
+Lords in M'Naughten's case (10 Cl., and Fin. 200, 1 c and k 130). It was there decided, and it is still the
+law, that if a man is in a condition of mind to know that the act he is committing is wrong, and
+consequently punishable, he must be held responsible for the commission of that act. Thus the question of
+knowledge of right and wrong in the abstract is not now put generally and indefinitely, as was formerly the
+case after R. v. Bellingham (coll. 636), but it is put in reference to the particular act and the particular
+time of committing it. It is to be hoped that the circumstances attending the Walthamstow murder will
+convince the Legislature that the time has arrived to enlarge the hard and fast rule laid down by
+M'Naughten's case. Gouldstone, it is true, was perfectly conscious of the enormity of the crime he was
+committing; he knew and expressed himself willing to pay its penalty, and, according to the present state of
+the law, he was clearly guilty of murder; but when it is remembered that there was in his case a total
+absence of any of those motives which almost invariably dictate the crime of murder, and that insanity was
+hereditary in his family, we cannot help seeing that, though the murderer perfectly understood the nature of
+his act and its consequences, nevertheless his control over his own actions was suspended to such an extent
+that he was no longer a free agent, but became the victim of an insane and irresistible impulse. It is hard
+to comprehend on what principle a man should be hung for committing an act which it is impossible for him to
+resist. It may be argued that no man would ever commit a murder unless urged by an insane impulse, and that
+if the present ruling of the law be enlarged, the murderer will always be able to shelter himself under the
+plea of insanity—the j'ai vu rouge of the French criminal. But it is seldom that no inducement besides an
+insane impulse is discoverable in the mind of a murderer, and if murder is prompted by absolutely none of
+the motives which would influence a sane person, if a man kills a human being whom he loves, merely because
+voices in his diseased brain whisper to him, 'The devil wishes it,' 'He must have red blood,' or 'Your loved
+ones must die,' surely the prevention of a lunatic asylum is better suited to his case than the cure of the
+gallows."—The Law Times.
+
+TRANSCRIBER'S NOTES
+
+1. **This is a significant addition to `notes/part_three_context_law_and_medicine.md`.** That file has the
+   medical profession's case against M'Naghten as applied, from the BMJ of 22 September. Here is the legal
+   profession's own journal making the same case on the same man, a week later, and going further than the
+   BMJ did: it concedes that William knew what he was doing and that the conviction was correct as the law
+   stood, and argues from that concession that the law itself should be enlarged to admit irresistible
+   impulse. The phrase to note is "his control over his own actions was suspended to such an extent that he
+   was no longer a free agent" — the same idea the BMJ reached for as "the effects of an enfeebled or
+   paralysed will".
+2. Citations as printed: M'Naughten's case, 10 Cl. & Fin. 200, "1 c and k 130" (i.e. 1 Car. & K. 130); R. v.
+   Bellingham, "coll. 636" (Collinson on Lunacy). These should be checked against a law report before the
+   book quotes them as citations rather than as the Law Times's own text.
+3. Dating: the Guardian of 29 September falls between the trial (14 September) and the original execution
+   date of 1 October, and two days before it. The respite to 8 October pending the mental-state inquiry was
+   reported on 26 September, so this article appears while the outcome was open.
+4. The article is unsigned and is reprinted, so it is evidence of what the legal press said, not of
+   anything that happened. Under the standing press rule it enters the prose as The Law Times, named.
