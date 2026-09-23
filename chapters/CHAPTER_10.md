@@ -1,6 +1,6 @@
 Chapter Ten
 
-PURELY A VIEW [title provisional, from the coroner at the resumed inquest, defending the jury's walk to Courtenay Place: "It was purely a view, and no observation should have been made."]
+OF A KINDLY NATURE
 
 On the Thursday morning Sergeant Bryant went back to Courtenay Place for the twins. He went on instructions from Inspector Craggs, who had charge of the case. The doctor saw them first, and then Bryant took them away to the mortuary, where their three brothers had lain since the evening before. By the middle of the morning all five of the Gouldstone children were reunited.
 
