@@ -1237,9 +1237,14 @@ belongs to Chapters Eleven to Thirteen, not Chapter Ten.
 - **IPN, 18 August:** "not more than 5ft 4in".
 - **Walthamstow and Leyton Guardian, 22 September**, describing him in the condemned cell: "In height he
   stands 5ft. 6in.; he is stoutly built, his complexion is fair, and his demeanour stolid and indifferent."
-The Guardian's figure comes with a set of other particulars that read like prison information rather than a
-reporter's glance across a courtroom, which is what the IPN's looks like. Neither is a measurement we can
-check. Do not state a height.
+**CORRECTED 23 September 2026, and the reasoning first given here was invented.** The Essex Weekly News of
+21 September prints the same Chelmsford paragraph word for word and reads **"In height he stands 5ft.
+4in."** The two papers are not two observers but one piece of copy set twice, so the Guardian's "6" is a
+compositor's slip for the "4" that the Essex Weekly News and the IPN both give. **Best reading: 5ft 4in**,
+two texts against one, and it is no longer a real contradiction. It is still nobody's measurement, so the
+prose should not lean on it. The note first written here, that the Guardian's figure "reads like prison
+information" and the IPN's like a reporter's glance across a courtroom, was a distinction between two
+printings of the same sentence.
 
 ### RESOLVED — THE TRIAL OF LUNATICS ACT WAS PUT TO THE JURY
 `notes/part_three_context_law_and_medicine.md` records as **OPEN**: "does the Old Bailey transcript, the
@@ -1285,13 +1290,27 @@ side and the open question should be reframed rather than left as it stands. **A
 petition was got up in Walthamstow.** No copy is in the archive.
 
 ### ELIZABETH'S STATEMENT — FIRST PUBLICATION IS THURSDAY 20 SEPTEMBER
-The project dates it "published c.21 September" from the Essex Weekly News. Her own text says she saw
-William at Chelmsford "yesterday (Tuesday)", which is 18 September, so she gave it on Wednesday the 19th;
-Grantham Robinson replies on Thursday the 20th having read it "in your paper this morning". The Guardian is
-a Saturday weekly, so both were written to a daily. **First publication: Thursday 20 September 1883, in a
-London daily not yet identified.** The Essex Weekly News of the 21st and the Guardian of the 22nd both
-reprint it. The Guardian's text and the Essex Weekly News text agree word for word as far as they have been
-collated, which is the opening third; the rest should be collated before the statement is quoted at length.
+The project dates it "published c.21 September" from the Essex Weekly News. **Settled as far as it can be,
+23 September 2026, after a third reprint was found in the repository.** She saw William at Chelmsford on
+Tuesday 18 September. Two of the three reprints keep "yesterday (Tuesday)" — the Western Daily Press of
+21 September and the Guardian of the 22nd — while the Essex Weekly News, publishing on the Friday,
+normalises it to "on Tuesday last" and then forgets to, four sentences later, at "His sister and aunt
+accompanied me yesterday". A paper writing "yesterday (Tuesday)" was published on **Wednesday 19 September
+1883**, and that is the first publication, in a London daily not yet identified. Grantham Robinson's "I
+have just read Mrs. Gouldstone's letter in your paper this morning", dated the 20th, is satisfied by his
+reading a Wednesday paper a day late, or a Thursday reprint. The earlier note here, giving Thursday
+20 September, is superseded.
+
+**The three reprints do not agree, and all three are abridged.** Essex Weekly News, about 1,300 words and
+the fullest; Western Daily Press, about 1,075, marking its single cut with an ellipsis; Walthamstow
+Guardian, about 800, marking nothing. The Guardian silently drops five passages, among them the children's
+ages, the cup of tea "every morning from their birth till their death", his going out when the twins were
+born and returning after twelve with his eyes "strange and wandering", and Elizabeth's own account of
+asking him at the door whether he had told his foreman. **The Essex Weekly News is the copy text and must
+be cited by name.** Full collation at `notes/elizabeth_statement_collation.md`, which also records three
+claims from its own first pass that proved to be errors in our transcription rather than differences
+between the papers, including the long-quoted "any insanity on the family", which every text actually
+reads as "in the family".
 
 ### SAVAGE WROTE THREE LETTERS IN FOUR DAYS, AND THEY ARE DIFFERENT DOCUMENTS
 1. **The Lancet, dated Bethlem Hospital, 14 September** (already in the archive) — written on the day of

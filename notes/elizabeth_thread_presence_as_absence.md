@@ -143,12 +143,16 @@ its verdict of wilful murder, "at once".
 **For the prose:** the whole exchange takes up a few lines before the evidence resumes, and the words that close it are "We
 will now proceed with the case." That sentence does the work. Do not add to it.
 
-### (d) The statement, first published Thursday 20 September — she speaks, once, and it counts
-**Date corrected 22 September 2026.** Her own text says she saw William at Chelmsford "yesterday (Tuesday)", which is
-18 September, so she gave the statement on Wednesday the 19th, and Grantham Robinson replied on Thursday the 20th having
-read it "in your paper this morning". Both were written to a London daily, not yet identified. The Essex Weekly News of
-21 September and the Walthamstow and Leyton Guardian of 22 September both reprint it, and the two texts agree word for
-word as far as they have been collated.
+### (d) The statement, first published Wednesday 19 September — she speaks, once, and it counts
+**Date and text settled as far as they can be, 23 September 2026.** She saw William at Chelmsford on Tuesday
+18 September. Two of the three surviving reprints keep "yesterday (Tuesday)", so the original was a London daily of
+**Wednesday 19 September**, not yet identified. **Three reprints survive and all three are abridged differently:** Essex
+Weekly News, 21 September, about 1,300 words and the fullest; Western Daily Press, 21 September, about 1,075, marking its
+one cut with an ellipsis; Walthamstow and Leyton Guardian, 22 September, about 800, marking nothing. **Quote from the
+Essex Weekly News and cite it by name.** The passage carrying the morning tea, his eyes "strange and wandering", and her
+own account of asking him at the door whether he had told his foreman survives in that paper alone. Full collation,
+including three claims from a first pass that proved to be errors in our own transcription rather than differences
+between the papers, at `notes/elizabeth_statement_collation.md`.
 Essex Weekly News, 21 September 1883: "Mrs. Gouldstone, who is exerting herself to the utmost to save her unfortunate
 husband's life, writes to state her solemn belief that when the crime was committed the convict was not responsible for his
 act." What follows is roughly a thousand words in her own voice, and it is the only extended first-person account of William
@@ -160,7 +164,7 @@ think of, as if he had he believed it would turn his brain"); the remark before 
 he had not many weeks to live"; the concertina and the children who "never tired listening"; the cup of tea he brought her
 "every morning from their birth till their death"; his going straight out of the house when the twins were born and
 returning after twelve with "his eyes strange and wandering"; and her own reasoning to the conclusion: "I never knew till
-very lately that there was any insanity on the family. Knowing that now, and looking back on all that has happened, I am
+very lately that there was any insanity in the family. Knowing that now, and looking back on all that has happened, I am
 certain that he was insane."
 
 The British Medical Journal, 29 September 1883: "no medical man can read the touching narrative of his wife and the clear
