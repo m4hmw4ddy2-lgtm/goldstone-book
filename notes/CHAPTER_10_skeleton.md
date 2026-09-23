@@ -383,3 +383,127 @@ Elizabeth's room and looks at her, and calls it a visit of a kindly nature. Rik 
 **Blythe improves under the split.** His Sunday visit and Dr Lyle's letter of complaint about it
 were four movements apart in the single-chapter plan. Split, the Sunday closes Chapter Ten and the
 letter is read aloud early in Chapter Eleven, so the reader carries it across the break.
+
+---
+
+# CHAPTER TEN ASSEMBLED, 23 September 2026
+
+`chapters/CHAPTER_10.md`, 3,119 words, four movements separated by section marks. Title set
+provisionally to **"Purely a View"**, pending Rik. Movement four, the Sunday, drafted the same day,
+488 words.
+
+## Movement four: sources and decisions
+- **The week in the house** comes from the Illustrated Police News of 18 August, quoted as the paper
+  under the press rule: the sightseers turned away, the police volunteering a body of their staff,
+  the jellies and light strengthening food, the fear for her reason, and the refusal to let her see
+  her children because the doctors "had to be stern in their refusal, dreading its effect on the
+  sufferer's brain."
+- **Lyle's allegations are attributed to Lyle's letter in the prose**, not asserted. "What he said is
+  on record because her doctor wrote it down and sent it to the coroner." That is attribution, not
+  hedging, and it is the same discipline the press rule applies to newspapers. The Morning Post's
+  shorter version of the letter is given after it.
+- **Blythe, not Blyth.** The Guardian's full jury list of 18 August gives Joseph Blythe, and that is
+  the spelling used in movement two as well. The Morning Post's "Blyth" is a variant, noted in the
+  Elizabeth thread file.
+- **The movement ends on his own sentence**, unanswered and without comment: "His visit was of a
+  kindly nature, to see if he could be of any service to Mrs. Gouldstone." Per the standing
+  instruction in the Elizabeth thread: set it down flat, no adjectives.
+- **Eleven days** after the birth of the twins is arithmetic from 1 August, checked.
+
+## One structural risk for Rik to rule on
+The Monday exchange in the board room now gets three separate forward references before Chapter
+Eleven stages it. The coroner's defence of the jury's view closes movement two; Blythe's explanation
+of his own visit closes movement four; and Chapter Eleven has the whole exchange, including the line
+neither movement uses, "Well, they might have been. I do not know."
+
+Two of those are deliberate and earn their place: each movement needs the Monday words to complete
+its own scene, and both are the only surviving account of what they describe. The risk is that
+Chapter Eleven's scene arrives already spent. **If it does, the fix is to cut movement four's
+paragraph beginning "He was asked about it the following afternoon" and let the Sunday end on Lyle's
+allegations alone**, with Blythe's kindly-nature line moving into Chapter Eleven where he speaks it.
+That costs the flattest ending in the chapter, which is why it has not been done unasked.
+
+---
+
+## Correction, 23 September 2026: the post-mortem times were misread
+Rik's catch, and it was a straightforward misreading of Gould's coroner deposition by me, not a
+conflict between sources.
+
+The deposition reads: "On Thursday the 9th August instant at 3.30 P.M. I made a post mortem
+examination of all the 5 children. I now proceed to detail the result of each in order, commencing
+with the male infant who died last." Then, after that first description, "At 4.30 P.M. on Thursday
+I made a post mortem examination of the other male infant."
+
+**3.30 is when he began the series of five. It is not a completed examination of all five.** The
+4.30 entry is the second examination in that series, on the other twin. The first draft of movement
+one had him examining all five at half past three and then going back at half past four to do one
+of them a second time, which is nonsense and would have got past anyone who did not stop at it.
+
+**Those are the only two times in the document.** The three eldest are described without times, and
+two of them barely described at all: Herbert's appearances are recorded as "precisely similar to
+those here fully described in Frederick's case", and Charles's the same "with the exception of the
+marks of the cord around his neck". The movement now ends there, which is both accurate and a
+better close than the muddle it replaces.
+
+**Which twin is which**, for anyone writing this again: the 3.30 examination is the twin who died
+last, at about two on the Thursday morning, the one with the right parietal smashed into three
+pieces. The 4.30 examination is the twin who died first, in Ada's arms on the Wednesday evening,
+with the mark above and behind the right ear and the right parietal, left parietal and occipital
+all fractured. This matches the twins table in the timeline file and the correction of 21 September.
+
+---
+
+## Rik's full edit adopted as the chapter, 23 September 2026
+`chapters/CHAPTER_10.md` is now Rik's edited text. Section breaks are `***`, not `§`. Every
+correction made during the day survives in it: the Craggs thread, the post-mortem sequence, the
+Telegraph rebuild of Emma Clarke, the juryman/jury attributions, "the cells of the court", "Maryland
+Point station", "Before the magistrates", and the restored clause about watching the clerk intently.
+
+**The movement draft files are now stale** and should not be edited again. Anything further goes
+into the chapter file.
+
+### One fix applied without asking
+A quotation ran on into its attribution with a full stop: `...about half a mile." wrote the Daily
+Chronicle`. Now a comma. Purely mechanical.
+
+### Three things flagged, not changed
+
+**1. RESOLVED 23 September 2026: Rik reinstated "The hearing was in the largest of the three
+courts", which he had not seen when editing.** The opening clause only; the rest of his sentence
+stands. The note below is kept for the reason.
+
+**1. The sequencing problem had come back.** "They put him in the largest of the three courts, yet
+still two or three hundred people remained outside" is followed by "Two of his brothers came to him
+in the cells of the court." That puts him in the courtroom and then back down in the cells. The
+Chronicle's sentence is about which courtroom was in use, not about where he was placed at that
+moment; he was in the cells until the magistrates sat. The earlier wording, "The hearing was in the
+largest of the three courts", was there to prevent exactly this. Rik's version also restores the
+"unable to gain admittance" clause that states the obvious reason for a thing just said, which was
+his own objection on 23 September.
+
+**2. RESOLVED 23 September 2026. Neither original version was right.** Rik's objection to "what
+they were afraid of was her reason" is correct and worth recording: the bare noun stumbles, because
+"reason" as cause has all but driven out "reason" as the rational faculty, and the sentence reads as
+though it wants a complement, her reason to what. The objection to "her fragile mental state" also
+stands: it describes a condition she was already in, where the source describes an event the doctors
+were trying to prevent. Settled as "what they were afraid of was that she would lose her reason",
+which is the period's own idiom, cannot be misread, and keeps the fear a fear rather than a
+diagnosis. Original note follows.
+
+**2. "Her fragile mental state" for "her reason".** The Illustrated Police News says "Their chief
+fear now is that her reason will be affected by the terrible shock." Two objections. "Reason" is the
+source's word and the period's, and losing one's reason is a specific and much more frightening
+thing than having a fragile mental state. And "fragile mental state" asserts as established what the
+doctors feared might happen. The original, "what they were afraid of was her reason", carried both.
+
+**3. "And was, for some reason, admitted."** This is the one place in the chapter where the narrator
+raises an eyebrow. It is defensible: the paragraph above has other callers "denied", so the contrast
+is sourced and the phrase points at it rather than explaining it. But it is commentary, and the
+chapter otherwise has none. Flagged for Rik to confirm he wants it, not to remove.
+
+### Two smaller notes
+- "The Guardian's journalist... felt as though he were marking time with the reading" leaves "he"
+  able to attach to either the journalist or William. The source has William "moving his feet, as if
+  marking time with the clerk's reading".
+- "He replied that he did not think anything would turn on that" makes the coroner answer Emma
+  Clarke. He was addressing the court. Both papers have "The coroner said".

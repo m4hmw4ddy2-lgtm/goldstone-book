@@ -2309,6 +2309,16 @@ someone else's voice.
 inserting an interior state where the record gives only behaviour. Watch for that specifically in
 Chapter Eleven, where the funeral and the verdict will both invite it.
 
+**A third flavour of the same fault, found the same evening (Rik): overstated scope.** Movement
+three called Ada "the only witness against him". She was not. She was the only witness the
+magistrates had heard, at the hearings of 9 and 11 August; the inquest of the 10th had already heard
+Emma Clarke and Cheeseman, the examination of 18 August would hear six, and the case against him
+rested far more on his own statements to Cheeseman, Folkard and Wheatley than on anything Ada said.
+Corrected to "Ada was still the only witness the bench had heard, and her evidence had now been put
+before it twice without a question from the defence", which keeps the real point and drops the
+claim that was never true. **The pattern across all three is the same: a sentence reaching for
+significance the document does not give it.**
+
 ### Contradiction 56, further: what "By the Coroner:" actually means, and The Times settles the voice
 **23 September 2026.** Rik, reasonably, could not make sense of the Telegraph line "By the Coroner:
 I did not think she was in earnest." **Because it reads as though the coroner is speaking, and he
@@ -2376,3 +2386,35 @@ Essex Record Office and the Old Bailey's own committal papers are the obvious pl
 
 **Until it is established the prose should keep saying "the House of Detention"**, which is what
 every source says, and should not name a town.
+
+### Which tribunal heard whom: checked 23 September 2026
+Rik objected that "the bench had heard" only Ada was untrue because Emma Clarke had given evidence
+too. **She had, but not to the bench.** The distinction is worth setting down once, because the
+chapter moves between two tribunals in four pages and the prose was not marking the change.
+
+- **The magistrates at Stratford Petty Sessions.** 9 August: Ada alone (Daily Telegraph, 10
+  August). 11 August: Ada alone again, her deposition read back to her, with one addition about the
+  hammer. **18 August: the examination cover names six deponents, and Emma Clarke is not among
+  them** — Ada Hamilton, William Cheeseman, George Folkard, James Honey, Henry Wheatley, Henry
+  Gould (`sources/trial-docs/Magesterial Examination Stratford/`).
+- **The coroner's inquest.** 10 August: Ada, Emma Clarke, Cheeseman. 13 August: Smith, Bryant,
+  Folkard, Gould.
+- **The Old Bailey, 14 September.** Emma **did** appear here: "EMMA CLARK. I am the wife of Charles
+  Clark, a carpenter, and the tenant of 8, Courtnay Place."
+
+So the sentence was accurate and the confusion was the prose's fault. Corrected to lead with the
+tribunal: "Before the magistrates, Ada was still the only witness who had been called..."
+
+**Two things found while checking.**
+
+1. **Emma's own sworn words at the Old Bailey independently confirm her husband as Charles Clark**,
+   not James. The press error is already on the DO NOT USE list, sourced to the newspapers; this is
+   the witness herself, on oath, naming him. Worth adding to his entry in dramatis_personae.
+
+2. **NAMING COLLISION, new: JOHN CLARK.** A defence witness at the Old Bailey, and no relation to
+   the household. "I am also employed at the Falkirk Ironworks—I have heard the prisoner on many
+   occasions wish that he were dead, and also that he wished some one would hit him on the head and
+   kill him out of the way... he was speaking solemnly and seriously; he was not laughing at all
+   over it." He is a workmate, in the same group of evidence as Cakebread and Skelton. **The project
+   already has one Clarke problem, the press's "James" for Charles. Do not let a search for "Clark"
+   in the trial papers merge the carpenter's household with this man.**
