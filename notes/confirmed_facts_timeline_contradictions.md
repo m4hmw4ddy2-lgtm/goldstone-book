@@ -2281,3 +2281,98 @@ disposed of in a room she was not in and could not have been called into, by men
 to a third party about words she was supposed to have said. Whether the coroner was defending her or
 merely tidying the evidence is not knowable and should not be written either way. Two days later a
 member of the same jury was at her bedside telling her the jury blamed her.
+
+### Found while checking whether the same fault was anywhere else in Chapter Ten: it was, and worse
+**23 September 2026.** Movement three read "William did not listen to them" of the clerk reading
+Ada's deposition. That is an interior state, unsupported, and it is **contradicted by the very
+paragraph the rest of the sentence was drawn from.** The Guardian and the Police News, after the
+exhibit moment, both have "the prisoner meantime watching the clerk intently, though instantly his
+attention was drawn to the body of the court." The Daily Telegraph of 10 August says of the previous
+day's hearing that "at times he listened attentively to the evidence which was given against him."
+
+**I had quoted the glancing and dropped the watching.** That is cherry-picking within a single
+sentence of source, which is a worse failure than the coroner inference, because the correcting
+clause was four words away in the same document.
+
+Corrected two ways. The false claim is simply gone; the paragraph now opens on what he did rather
+than on what he supposedly failed to do. And the omitted clause is restored **in the source's own
+position**, after the exhibits rather than before them, which is where the Guardian puts it: "Then
+the reading of the depositions went on, and he watched the clerk intently, and every time the room
+made a noise his attention went to it."
+
+The restored version is also the better one. A man who is not listening is a blank. A man watching
+the clerk intently and pulled away by every sound in the room is the man all the witnesses describe
+for the rest of the case, and he does it while his dead children's nurse's words are read out in
+someone else's voice.
+
+**Standing caution.** Both errors corrected today, the coroner's motive and this one, were mine
+inserting an interior state where the record gives only behaviour. Watch for that specifically in
+Chapter Eleven, where the funeral and the verdict will both invite it.
+
+### Contradiction 56, further: what "By the Coroner:" actually means, and The Times settles the voice
+**23 September 2026.** Rik, reasonably, could not make sense of the Telegraph line "By the Coroner:
+I did not think she was in earnest." **Because it reads as though the coroner is speaking, and he
+is not.**
+
+**"By the Coroner:" is a heading, not a speaker.** It means "in answer to questions by the Coroner",
+and everything after it is the witness's own words. The same goes for "By the jury". Nothing in
+these reports attributes speech to the questioner; only the answers are printed.
+
+**The Times of 11 August proves it beyond argument**, by running the whole passage as one
+uninterrupted first-person answer under a single heading: "By the jury.—I have heard the mother say
+she wished the children dead. That was when she was worried, but I do not think she was in earnest.
+She never said it in conversation, but had remarked it to the children when they worried her." The
+"but" joins the two halves into one statement by one speaker, and that speaker is Emma Clarke. Sense
+confirms it independently: the coroner had never heard Elizabeth say anything and could not have an
+opinion on whether she was in earnest.
+
+**This also removes the reason given earlier today for preferring the Telegraph's split.** That
+reason was that the Telegraph is the earlier document. The Times is of the same date and does not
+split it, so earliness no longer decides anything here. The position is now: **the Telegraph alone
+records a change of questioner; The Times and the Guardian print the answer whole.**
+
+**The split is kept anyway, on different grounds.** A reporter does not invent a change of
+questioner, but a reporter compressing a long day's evidence will readily drop one. Positive
+attestation in one paper outweighs silence in two, which is the same reasoning this project already
+applied at Contradiction 27, where the coroner deposition's silence about the cord was held not to
+be a denial. **But it is now single-sourced and should be described that way wherever the sources
+are discussed.**
+
+**And the prose had inherited exactly Rik's confusion.** "The coroner then questioned her himself"
+followed immediately by a first-person quotation invited the reader to hear the coroner saying "I
+did not think she was in earnest". Fixed by tagging the first answer as hers and making the second
+continue her voice: "The coroner put his own questions after theirs, and she went on."
+
+**Standing note for every court report in this project.** Any line beginning "By the Coroner", "By
+the jury", "By Mr Poland", "Cross-examined" or "Re-examined" is a heading over the witness's
+answers. It never means the named person is speaking. Check this before quoting any such line.
+
+### OPEN QUESTION, logged 23 September 2026: which House of Detention?
+Prompted by Rik asking whether Maryland Point needs clarifying in the prose. It did, and one word
+fixed it: the Daily Chronicle calls it "the Maryland Point Station of the Great Eastern Railway",
+and the prose now says "Maryland Point station". **The other place-name in the same sentence is the
+problem.**
+
+"The House of Detention" appears across the archive and **is never once identified by place**:
+- Daily Chronicle, 13 August: the crowd expected him to be brought from the House of Detention.
+- Elizabeth's own statement, Western Daily Press, 21 September: "Since the occurrence I have seen my
+  husband three times at the House of Detention, once at the Old Bailey."
+- Walthamstow and Leyton Guardian, 22 September: "the Medical Officer to the House of Detention told
+  me he considered him to be suffering from melancholia."
+- Grantham Robinson's letter of 20 September: "a long interview with the prisoner in the House of
+  Detention."
+
+**This matters in three separate parts of the book**, which is why it should not stay vague. It is
+where the only contemporaneous medical opinion of William before Savage's half-hour was formed; it
+is the one place Elizabeth is known to have seen her husband after 8 August, three times, and that
+is Part Four material of the first importance; and it is where the vicar's interview happened, on
+which his statement to the Home Secretary rests.
+
+**Do not assume Clerkenwell.** Clerkenwell was the Middlesex house of detention, and the offence,
+the committal and the coroner's jurisdiction were all Essex. Where an Essex prisoner committed at
+Stratford was held on remand in August and September 1883, before trial at the Central Criminal
+Court, needs establishing from a source and not from a guess. Add to the archives enquiry list;
+Essex Record Office and the Old Bailey's own committal papers are the obvious places.
+
+**Until it is established the prose should keep saying "the House of Detention"**, which is what
+every source says, and should not name a town.
