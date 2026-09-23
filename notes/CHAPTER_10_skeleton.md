@@ -305,3 +305,81 @@ The general principle, now in the writing rules: we do not repunctuate or respel
 people's words to suit our own house style. It applies to every quoted source, not only
 newspapers.
 
+
+---
+
+## Movement three drafted, 23 September 2026
+
+About 990 words, `chapters/CHAPTER_10_DRAFT_movement3.md`, untracked.
+
+Told as the Daily Chronicle's report, per the decision of 22 September, named and dated at
+the head of the movement, and reordered into chronological sequence: the Chronicle prints
+the court first and the crowd second, the prose runs the wrong station and the walk first.
+
+**The throat gesture: all three papers are given, against each other.** Rik's decision of
+22 September framed the movement as the Chronicle's; the reopening note of the same date
+said the gesture is either given three ways or left out, because the ominous reading cannot
+stand as fact. Both are honoured: the Chronicle carries the narrative, and the one moment
+where the papers split is shown as a split, with the Police News and the Guardian named and
+dated and quoted, and one sentence noting that those two are one reporter's copy. The prose
+states what all three agree on, that he pointed at his throat, and what they do not, and
+stops there. **If Rik would rather the gesture went out altogether, the three quoted
+paragraphs and the sentence after them lift cleanly**, leaving Ada's addition about the
+hammer to follow the clerk's reading.
+
+### Things to check in this draft
+- **"Low stature" is not quoted.** The Chronicle describes him as "a young man of low
+  stature and fair complexion, with a slight moustache". Movement one already quotes the
+  Telegraph's "of medium height". Quoting both would put a height disagreement in front of
+  the reader for no return, so the Chronicle's description is cut back to the nod, with
+  editorial brackets on "[he]". This is Contradiction 53 and belongs in the notes, not the
+  prose. Reversible if Rik wants the papers to disagree about his body as well.
+- **"It is said that he was visited in the cell by two of his brothers"** is the Guardian's
+  own hedge, and the prose says so before quoting it. Brothers otherwise unidentified; the
+  only sourced siblings should be checked against dramatis_personae before this goes further.
+- **One evidentiary aside spent, in the opening sentence**, on there being no sworn record
+  of the Saturday. Verified: the JP file runs from Ada's statement of 9 August to the
+  examination of 18 August. The chapter's allowance is now used, so movements four to six
+  carry none.
+- **"Ada was not asked to speak"** is our own sentence, not a quotation. It is supported:
+  both the Chronicle and the Guardian have the clerk reading her deposition over to her, and
+  her only contribution is the addition about the hammer. Worth a second look anyway, since
+  it is the one interpretive sentence in the movement.
+
+---
+
+# DECIDED 23 September 2026 (Rik): the chapter splits in two
+
+The six-movement plan was going to land at roughly 5,500 words. The longest chapter in the book is
+Chapter Five at 1,675; Chapters Seven and Eight, the two big set pieces, are about 1,530 each. A
+5,500-word chapter is not a chapter, it is a part, and the first three movements already stood at
+2,603 before the funeral or the verdict had been written.
+
+**Chapter Ten: Thursday the ninth to Sunday the twelfth.** Movements one to four as drafted. The
+magistrates at Stratford, the inquest opening in the board room, the Saturday crowd, and Blythe at
+Elizabeth's bedside on the Sunday. About 3,000 words. It ends on Elizabeth, which is the standing
+instruction for the whole second half of the book.
+
+**Chapter Eleven: Monday the thirteenth.** The old movements five and six, renumbered as Chapter
+Eleven's movements one and two, and to be drafted as `chapters/CHAPTER_11_DRAFT_movement1.md` and
+`..._movement2.md`. One day, one place: five coffins of stained elm at noon, the same cemetery at
+three o'clock, and the grave being filled in outside while the jury returns wilful murder. About
+2,500 words.
+
+**The title goes with the Monday.** "The Time Appointed for the Funeral" comes from the Guardian's
+line about the adjourned inquest sitting at three, the time appointed for the funeral. That sentence
+describes the collision of the burial and the inquest on one day. It was never a title for the
+Thursday, the Friday or the Saturday, and putting it on a five-day chapter was an error in the
+original skeleton. It belongs to Chapter Eleven.
+
+**Chapter Ten therefore needs a title. Proposed: "Purely a View".** The coroner's own words, from
+his defence of the walk to Courtenay Place: "It was purely a view, and no observation should have
+been made." The chapter is four days of people coming to look at the Gouldstones. The jury view the
+bodies on a slab. The coroner and the jury view the house, quietly enough, he says, that Elizabeth
+did not know they were there. A mob views William on the half-mile walk from Stratford station, and
+again through the window of a cab. And on the Sunday a member of that same jury lets himself into
+Elizabeth's room and looks at her, and calls it a visit of a kindly nature. Rik to rule.
+
+**Blythe improves under the split.** His Sunday visit and Dr Lyle's letter of complaint about it
+were four movements apart in the single-chapter plan. Split, the Sunday closes Chapter Ten and the
+letter is read aloud early in Chapter Eleven, so the reader carries it across the break.

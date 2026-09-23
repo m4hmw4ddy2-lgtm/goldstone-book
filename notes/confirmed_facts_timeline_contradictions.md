@@ -2094,3 +2094,72 @@ parish papers. **Do not put it in prose as a motive until something says so.**
   where.
 - **St Saviour's baptism registers** for the Gouldstone children, and any parish papers of Grantham
   Robinson's.
+
+---
+
+## Contradiction 54. The cell visit by two brothers: the local paper doubts what the national states
+**Logged 23 September 2026.**
+
+Two sources, and they are one reporter's copy, as they are for the whole of the Saturday hearing.
+
+- **Illustrated Police News, 18 August**, states it flat: "While in the cells of the court he was
+  visited by two of his brothers. He seemed calm and perfectly unconcerned at his position."
+  Verified against the source image (`sources/images/Media-coverage/IPN Aug 18 1883 inside detail
+  2.png`) on 23 September 2026.
+- **Walthamstow and Leyton Guardian, 18 August**, hedges the same sentence: "It is said that he was
+  visited in the cell by two of his brothers, and seemed perfectly unconcerned about his position."
+
+The interesting direction is that the hedge belongs to the **local** paper, the one whose reporter
+was likeliest to know whether it happened, and the flat assertion to the national weekly. That is
+the opposite of the usual pattern and is worth carrying as a caution about the shared Saturday copy
+generally: the two papers are not independent, but they are not identical either, and where they
+differ the Guardian is the more careful of the two.
+
+**No independent record of the visit exists anywhere in the archive.** Searched 23 September 2026
+across `transcribed/` and `sources/`; these two sentences are all there is.
+
+**Which brothers is not stated by either paper.** The two who gave evidence at the Old Bailey five
+weeks later were **Robert** (the eldest, Great Sampford blacksmith, with whom William had been in a
+Finchingfield partnership) and **Bennett** (whitesmith, who had boarded with William and Elizabeth
+at 88 Frampton Park Road in 1881). They are the obvious candidates and must not be named in the
+prose as though they were sourced. A third brother, Thomas Jr, is also on record.
+
+## Contradiction 55. "By and bye" verified
+**Logged 23 September 2026.** Queried as a possible transcription slip for "by and by". It is not.
+The IPN sets it "By and bye he leaned his full length as much as he could over the breadth of the
+dock", confirmed directly against the source image on 23 September 2026. The Guardian, printing the
+same copy, reads the same. The spelling is the period's and stands in any quotation of it.
+
+---
+
+## Contradiction 49 SUPERSEDED. The throat gesture of 11 August: the papers agree on more than was thought
+**Corrected 23 September 2026**, after a check of what the sworn record contains for that morning.
+Contradiction 49 logged the gesture as contested three ways and left it there. Two things were
+missed.
+
+**First, the Chronicle has BOTH exhibits produced, not one.** Its own next sentence after the
+gesture reads: "The hammer used by the prisoner was also produced and identified by the witness."
+So the papers do not disagree about what was brought into court. The cord and the hammer were both
+produced. They disagree only about **which object was in the air at the moment he touched his
+throat**, and about what the gesture meant.
+
+**Second, all three objects are neckwear or a ligature.** The Guardian's tartan scarf, the Police
+News's neck handkerchief, and the Chronicle's cord, which is the thin twine Ada watched him
+handling on the fire guard and which Gould and Honey both describe as having been round Charles's
+neck. In every surviving version of the moment, the thing he pointed at is something that goes
+round a throat, and the thing he pointed at next is his own. That convergence is stronger than the
+disagreement and is what the prose now carries.
+
+**Nothing sworn survives from 11 August and nothing can settle it.** Confirmed 23 September 2026
+by direct check: the JP file (`sources/trial-docs/Magesterial Examination Stratford/`) is the
+examination of **18 August**, before two justices at the Court House, Great Eastern Road; the
+witness statements are of 9 August; there is nothing for the Saturday. Exhibit production is
+recorded elsewhere but at other hearings: the **cord** was produced at the inquest of 13 August
+(Gould: "a piece of cord such as that which has been produced"), and the **hammer** at the Old
+Bailey (Cheeseman, re-examined: "I took possession of this hammer (produced) at the time"). Neither
+touches the Saturday.
+
+**The ominous reading still cannot be stated as fact**, and the prose does not state it. What the
+prose now states is what all three reporters saw him do, which none of them disputes: he pointed at
+something, and then at his own throat.
+
