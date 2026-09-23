@@ -66,7 +66,24 @@ happened. Do not let the two blur.
 At common law a wife was incompetent to give evidence in a criminal case, **both for and against her husband**. Lord
 Mansfield in *Bentley v. Cooke* (1784): "There never has been an instance either in a civil or a criminal case where the
 husband or wife has been permitted to be a witness for or against the other, except in the case of necessity." The rule was
-not abolished for criminal proceedings until the Criminal Evidence Act 1898.
+not abolished for criminal proceedings until the Criminal Evidence Act 1898, and even then not at a stroke: that Act
+made a spouse a competent witness for the DEFENCE generally, but for the PROSECUTION only in the offences listed in its
+Schedule, and not compellable even there (*Leach v R*). None of that alters Elizabeth's position in 1883, when she was
+incompetent both ways, but the notes should not imply a clean switch.
+
+**VERIFIED 23 September 2026.** This section was checked against authorities outside the project and stands: I. A. Wilson,
+"Spouses as Witnesses in England and Queensland", Queensland Institute of Technology Law Journal, 1984, quotes the
+*Bentley v. Cooke* passage exactly as given here and lists the same three exceptions, calling the third deprivation of
+liberty rather than abduction; and the Irish Law Reform Commission's *Report on Competence and Compellability of Spouses
+as Witnesses* states the general rule in the same terms. The statute itself has still not been read in its own words.
+
+**And the same rule silenced William.** No defendant could be sworn in his own defence before 1898 either. Robert
+Shoemaker, Old Bailey Proceedings Online, "Trial Procedures": "The defendant, who until 1898 was not put on oath (it was
+thought this was a form of compulsion), was then asked to state their case." So the two people who were in that bedroom
+and lived were both, under one body of law, unable to give evidence. The difference is that William was at least expected
+to state his case unsworn, and the Old Bailey account does not record him doing it; Elizabeth was not in the building.
+This belongs in the thread: her silence is not singular, it is half of a pair, and the other half is the man the whole
+proceeding was about.
 
 The exceptions were narrow. The oldest, from *Lord Audley's Case* (1631), let a wife testify where the charge was personal
 violence against her, on the reasoning that such violence would otherwise be unprovable. There were further narrow

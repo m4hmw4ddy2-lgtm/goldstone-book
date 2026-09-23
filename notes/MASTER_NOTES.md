@@ -667,14 +667,14 @@ Useful for tightening birth-year estimates from stated ages across all family li
    exactly the Savage and Orange axis; gender and class as influences on verdicts; and infanticide
    and puerperal insanity. It does **not** touch the Trial of Lunatics Act 1883, moral insanity or
    spousal competence, and names no case relevant to this book.
-   **Consequence, and it matters.** The spousal incompetence rule is still unconfirmed from a legal
-   history. This project's own statement of it, that at common law a wife was incompetent to testify
-   for or against her husband until the Criminal Evidence Act 1898, with exceptions for personal
-   violence to herself, treason and abduction, appears in this file and in the Elizabeth thread, and
-   it is load-bearing: it is the whole reason neither Poland nor Grain could have called Elizabeth.
-   It is currently resting on a law-review summary, which is precisely the kind of claim the first
-   standing rule exists to catch. Smith's book, or a standard history of the law of evidence, is
-   still needed before the prose relies on it.
+   **The spousal rule has since been verified elsewhere, 23 September 2026, so Smith is no longer
+   needed for that** and is wanted now only for the medical-legal context. The verification, with
+   citations, is in part_three_context_law_and_medicine.md: Wilson (QIT Law Journal, 1984) quoting
+   Lord Mansfield in *Bentley v Cooke* (1784), and the Irish Law Reform Commission's report on
+   competence and compellability of spouses. Both confirm the rule and the three exceptions. One
+   correction came out of it: "until the Criminal Evidence Act 1898" must not be written as though
+   that Act flipped a switch. The statute itself has still not been read in its own words, and
+   until it has, the prose should say Elizabeth could not be called and not explain the statute.
 
 8. GRO certificates: William death 1935. (Five murdered children: NOT NEEDED, decided 22 September 2026: the death index, S qtr 1883 West Ham 4a 102, gives what the book uses, including the twins as "Male". Elizabeth's 1906 death certificate is already obtained.)
 9. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (probably won't show Elizabeth — she was not a resident inmate — but worth checking)
@@ -1241,9 +1241,13 @@ present in the evidence. Items marked TO VERIFY are not to be used until verifie
 **`notes/elizabeth_thread_presence_as_absence.md`** — the governing thread for Elizabeth through Parts Three and Four,
 written to Rik's formulation: "her presence is very often her absence." Contains the complete list of every word she is
 recorded as saying in the sworn record (five, all reported by other people, four of them questions); the legal reason she
-was never called (at common law a wife was incompetent to testify for OR against her husband until the Criminal Evidence
-Act 1898, the exceptions being personal violence to herself, treason and abduction, so neither Poland nor Grain could have
-called her); and the four-document chain that carries the thread — the coroner's view of the house while she lay in the
+was never called (at common law a wife was incompetent to testify for OR against her husband, the exceptions being
+personal violence by one spouse to the other, treason and deprivation of liberty, none of which reached Elizabeth, so
+neither Poland nor Grain could have called her. VERIFIED 23 September 2026; see part_three_context_law_and_medicine.md.
+Do NOT write "until the Criminal Evidence Act 1898" as though that Act flipped a switch: it made a spouse competent for
+the DEFENCE generally but for the PROSECUTION only in its scheduled offences, and not compellable even then. Elizabeth's
+own position in 1883 is unaffected either way. Note also, verified the same day, that WILLIAM could not be sworn either:
+no defendant could, before 1898); and the four-document chain that carries the thread — the coroner's view of the house while she lay in the
 front room and "really did not know what was going on"; Blyth at her bedside on the Sunday; Lyle's protest read aloud in
 the cemetery lodge on the morning of the funeral, answered with "We will now proceed with the case"; and her own statement
 in the Essex Weekly News of 21 September, the one document in which she speaks at length, which the BMJ then names as

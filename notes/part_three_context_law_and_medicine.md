@@ -88,3 +88,51 @@ before the trial, at the solicitor's request, and said in cross-examination that
 conversation alone he had "no reason to doubt that he was a man of sound mind" and would not have
 certified him. The opinion that saved William's life was formed, on Savage's own account, from
 sitting in court and listening to other people describe him.
+
+### VERIFIED 23 September 2026: both evidence rules, with one correction
+Both propositions flagged TO VERIFY above have now been checked against sources outside this
+project. The statute itself could not be fetched (legislation.gov.uk refuses automated access and
+Wikisource is cache-only), so what follows rests on two independent secondary authorities plus one
+eighteenth-century case quoted in one of them. **That is better than where we were, which was a
+law-review summary quoted at second hand, but it is not the statute, and someone should still put
+eyes on the Act.**
+
+**1. The accused could not be sworn. CONFIRMED.**
+Robert Shoemaker, for the Old Bailey Proceedings Online, "Trial Procedures", posted 4 March 2022:
+"The defendant, who until 1898 was not put on oath (it was thought this was a form of compulsion),
+was then asked to state their case."
+https://www.dhi.ac.uk/blogs/old-bailey/trial-procedures/
+Two things follow. The rule is confirmed, and so is the practice that went with it: the defendant
+was expected to state his case unsworn. **Nothing in the Old Bailey account of 14 September records
+William doing so**, which is now a real silence rather than an assumed one, and worth a line in the
+prose. Note also that this is the same project that published the trial account we are working
+from, so it is the natural citation.
+
+**2. The spouse could not be sworn either, and the three exceptions are right. CONFIRMED.**
+I. A. Wilson, "Spouses as Witnesses in England and Queensland: During Marriage and After Divorce",
+Queensland Institute of Technology Law Journal, 1984, quoting Lord Mansfield in *Bentley v Cooke*
+(1784): "There never has been an instance either in a civil or a criminal case where the husband or
+wife has been permitted to be a witness for or against the other, except in the case of
+necessity..." Wilson gives the exceptions as personal violence by one spouse against the other,
+treason, and deprivation of liberty (*R v Wakefield*, the abduction case). That matches this
+project's own three, with "abduction" better stated as deprivation of liberty.
+Corroborated by the Irish Law Reform Commission's *Report on Competence and Compellability of
+Spouses as Witnesses*: "At common law, in both civil and criminal proceedings, it was a general
+rule that a spouse of a party was not competent to testify."
+
+**3. THE CORRECTION. "Until the Criminal Evidence Act 1898" is too flat, and this project has been
+saying it in three files.** The 1898 Act did not simply make spouses competent. On the Law Reform
+Commission's account, and on the Irish Act of 1924 which followed the English section 4 verbatim,
+it made the spouse competent **for the defence generally**, but competent **for the prosecution
+only in the offences listed in its Schedule**, and not compellable even then (*Leach v R*). The
+distinction does not change Elizabeth's position in 1883 by a hair, because before 1898 she was
+incompetent both ways and no exception reached her: what happened at Courtenay Place was not
+personal violence to her. But the sentence as this project has been writing it implies a clean
+switch in 1898 that did not happen, and the notes should not say that.
+
+**Where the claim appears and must be corrected in step**: this file; the summary of the Elizabeth
+thread in MASTER_NOTES; and the Elizabeth thread file itself.
+
+**What is still not done.** Nobody has read section 1, section 4 or the Schedule of the 1898 Act in
+its own words, and until someone has, the prose should say Elizabeth could not be called and stop
+there, rather than explaining the statute.
