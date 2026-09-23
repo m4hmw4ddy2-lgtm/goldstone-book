@@ -241,3 +241,67 @@ Chapter Eight already stated the thing once, plainly. This chapter demonstrates 
 - **What time the resumed inquest began.** Not stated anywhere found. It matters only if the prose wants to
   place the verdict relative to the filling of the grave, which it should not (Contradiction 48).
 - ~~Whether the post-mortem was the 9th or the 10th.~~ **RESOLVED: Thursday 9 August, 3.30 and 4.30 p.m.**
+
+---
+
+## Prose decision, 23 September 2026 (Rik): reported speech to direct speech
+
+Rik's note on the first draft of movements one and two: much of what was set as reported
+speech is in fact contemporary quotation, and the grammar and word choice give it away.
+Rendering it as direct speech lends it authenticity and weight. Both movements reworked
+accordingly on 23 September 2026.
+
+What is now quoted, and from where:
+
+**Movement one**
+- The Daily Telegraph of 10 August 1883 on William in the dock ("The prisoner is a fair
+  man, with light-coloured hair and moustache..."), quoted as the Telegraph under the
+  press rule, named and dated in the prose.
+- The Telegraph's own bracketed line inside Ada's evidence ("Here the witness commenced
+  to sob..."). Its being the reporter's interpolation rather than her words is shown in
+  the prose, not footnoted.
+- Ada's closing answers, in her first person as the Telegraph prints them ("I have lived
+  in the house for ten weeks...").
+- The Atkinson / Lister exchange, already direct, unchanged.
+
+**Movement two**
+- The Walthamstow and Leyton Guardian of 18 August on the view of the bodies ("It need
+  hardly be said..."), quoted as the paper.
+- The coroner's charge to the jury, now quoted at length in three pieces: the opening
+  and the direction to dismiss what they had heard or read; his announcement that he
+  would adjourn for the view; and the post-mortem admission.
+- Ada's two answers to the jurymen, and Emma Clarke's character evidence and her answer
+  to the jury, all in their own first person as the Guardian prints them.
+- The coroner's defence of the view, already direct, unchanged.
+
+### The em-dash question: RESOLVED 23 September 2026 (Rik)
+
+Em-dashes from newspaper reports may remain, and were reinstated in this chapter the same
+day. The writing rule in MASTER_NOTES has been amended to match: the ban is on em-dashes in
+our own prose, and quoted matter is reproduced as its source sets it.
+
+Reinstated in movement two, all four from the Walthamstow and Leyton Guardian of 18 August:
+1. The coroner's charge, with the dropped clause restored: "such as we may say—such at
+   least as we may trust—have seldom or almost never been submitted to a jury to inquire
+   into."
+2. His announcement of the view: "And then—for the satisfaction, not only of myself, but
+   of those members of the jury who may not have had an opportunity of viewing the
+   premises—I propose to adjourn the inquiry".
+3. The post-mortem passage, with the dropped clause and the following sentence restored:
+   "For this reason—that the law requires you should not only have positive evidence as to
+   the cause of death, but also negative evidence that death was not caused by any other
+   means—in other words that the injuries, if any other injuries are proved, are the sole
+   cause of the death. Therefore it is necessary always that a post-mortem examination
+   should be made."
+4. Emma Clarke to the jury: "I have heard the mother say she wished the children dead—that
+   was when she was worried."
+
+One further silent alteration was found and reversed while doing this, of the same class
+though not an em-dash: Ada's "He was earning 25s. a week" had been respelled as
+"twenty-five shillings" to match the narrative-prose convention. The convention does not
+reach inside a quotation. The source's numeral stands.
+
+The general principle, now in the writing rules: we do not repunctuate or respell other
+people's words to suit our own house style. It applies to every quoted source, not only
+newspapers.
+

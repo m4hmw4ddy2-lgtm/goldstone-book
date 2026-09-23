@@ -88,7 +88,14 @@ If William Gouldstone does not murder his five children on 8 August 1883, Elizab
 William Gouldstone is not Rik's ancestor. He is the reason Rik exists.
 
 ### Writing rules — active
-- Em-dashes: STRICTLY FORBIDDEN throughout
+- Em-dashes: STRICTLY FORBIDDEN in our own prose. AMENDED 23 September 2026 (Rik): em-dashes
+  inside quoted matter from newspaper reports may remain, and are to be reproduced as the
+  source sets them. The rule was previously stated as absolute, "throughout", and that reading
+  had begun to do real damage: in the first draft of Chapter Ten it pushed three passages of
+  the coroner's charge back into paraphrase, and cost him his own words for a full paragraph,
+  purely to avoid punctuation that was his printer's and not ours. Quotation is reproduced, not
+  corrected. This applies to every source quoted as a source, not only to newspapers; the point
+  is that we do not silently repunctuate other people's words.
 - All prose checked against rik-voice-writing-gate.md and AI_Writing_Tells_Gate.md before showing to Rik
 - Free indirect style for character interiority in Victorian sections
 - Rik's own voice only in Part Six and the four closing sentences of the Prologue
