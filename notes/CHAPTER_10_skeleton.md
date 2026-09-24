@@ -528,3 +528,46 @@ that "purely a view" is still in the chapter as the coroner's quoted words, doin
 
 "Reunited" was considered and kept where it is, in the third sentence, rather than spent on the
 title, since the misdirection can only be had once.
+
+---
+
+## Two photographs of Queen's Road Cemetery, received 24 September 2026
+
+`sources/images/Queens_Road_Cemetery_chapel_undated_Friends_group.jpg`
+`sources/images/Queens_Road_Cemetery_lodge_and_gates_undated_Friends_group.jpg`
+
+**Provenance, exactly as it stands: from the Friends of Queen's Road Cemetery group on Facebook,
+UNDATED, described only as "very early".** Nothing further is known. Do not let "very early" harden
+into a date in any later file; the cemetery opened in October 1872 and "very early" could mean any
+time across three decades.
+
+**What they show.** The first is the cemetery chapel: stone, Gothic, a central tower with a spire
+and a large arched opening beneath it, and gabled ranges to left and right with different window
+treatments. The second is the entrance lodge seen from inside the drive, with the gate piers and
+the iron gates beside it, the lodge heavily grown over with creeper and the trees mature.
+
+**What they are evidence for, and what they are not.** They are evidence of what these two buildings
+looked like at some point after 1872. They are **not** evidence of how either looked in August 1883,
+and cannot be cited for that. Both were built with the cemetery, so the probability is high that
+these are the buildings the Gouldstone family's mourners walked past, but probability is not a
+citation. If a date is ever obtained from the Friends group, record it here and the position changes.
+
+**One inference, marked as inference and not to be used until checked.** The chapel appears to be a
+twin-chapel arrangement, two chapels flanking a central tower with a carriage arch, which is the
+standard Burial Board plan of the period: one half consecrated, one half not. If that is right it
+explains the Walthamstow and Leyton Guardian's "the church, however, is very limited in its
+dimensions", since each half is small, and therefore why the crowd could press so hard at one door
+that Sergeant Hawkins had to hold them back. It would also follow that, Grantham Robinson being
+vicar of St Saviour's and the service Anglican, the five coffins lay in the consecrated half. **All
+of that is reasoning from a photograph, and the architectural reading has not been confirmed by
+anyone who knows the building.** Ask the Friends group directly.
+
+**What they do not settle.** The mortuary. The Ordnance Survey sheet marks "Mort." at the north-east
+corner off Exmouth Road, a long way from the entrance, and neither photograph shows it. That is
+where the three boys lay from the Wednesday evening and where the jury walked on the Friday, and it
+remains an open question, as does the board room against the lodge.
+
+**Where they earn their place: Chapter Eleven, not Chapter Ten.** Chapter Ten's cemetery scenes are
+interior and procedural. Chapter Eleven has coffins on a bier in the mortuary church, a crowd at its
+door, a procession emerging from the vicinity of the board room, and people admitted until the gates
+closed. Both buildings, and those gates, are in that one paragraph of the Guardian.
