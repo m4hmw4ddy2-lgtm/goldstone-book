@@ -1223,8 +1223,8 @@ Rik noticed Chapter Seven had the same over-short paragraphing as the first draf
 - Fixed for three o'clock, moved to noon "in order to prevent the assemblage of a large crowd while the proceedings at the inquest were progressing… after the mourners had desired it so" (Dover Express, 17 Aug). Crowds came anyway: "at about three o'clock troops of people were pouring into the cemetery to replace those who had seen the funeral."
 - Five small elm coffins, one grave, third-class portion, Walthamstow Cemetery. Grantham Robinson officiated, and "has taken a great interest in the poor woman, Mrs. Gouldstone, since the terrible occurrence" — his first appearance beside Elizabeth, before his statement to the Home Secretary.
 - Mourners named: Mrs Graves, and "the wife of one of the prisoner's uncles and her daughter" (Dover Express). **Open: which uncle, and is this the Walthamstow relative William calls "Cousin Gouldstone in Mash-street" in his Chelmsford letter?**
-- **NEW CONTRADICTION (42): the grave's depth.** "6ft. deep" (Dover Express) against "a 10-foot grave" (Morning Post). Attendance is already Contradiction 7 (1,500 against "several hundred").
-- **Elizabeth is not mentioned in any account of the funeral.** She was twelve days from the birth, "dangerously ill", and Dr Lyle had told the coroner she might die of the shock; the IPN says she "asked and begged to see her dead little ones, but the doctors had to be stern in their refusal". Her absence is therefore very likely but not documented, and must be written as such if written at all.
+- **SETTLED 24 September 2026 at ten feet and used in Chapter Eleven; see CHAPTER_10_skeleton.md, "Chapter Eleven assembled", and Contradiction 52.** Original note: **NEW CONTRADICTION (42): the grave's depth.** "6ft. deep" (Dover Express) against "a 10-foot grave" (Morning Post). Attendance is already Contradiction 7 (1,500 against "several hundred").
+- **SUPERSEDED 22 September 2026: her absence IS stated** (Walthamstow and Leyton Guardian, 18 August: "many people expected that she would be present at the funeral"). The original note follows. **Elizabeth is not mentioned in any account of the funeral.** She was twelve days from the birth, "dangerously ill", and Dr Lyle had told the coroner she might die of the shock; the IPN says she "asked and begged to see her dead little ones, but the doctors had to be stern in their refusal". Her absence is therefore very likely but not documented, and must be written as such if written at all.
 - **Confirmed 23 September 2026, having been an unsourced lead here since it was written:** Walthamstow Cemetery is Queen’s Road Cemetery, the Walthamstow Burial Board’s own ground, eleven acres taken after the 1866 cholera epidemic, first burial 2 October 1872, built by R. C. Sutton of Nottingham in Kentish ragstone with two chapels, an entrance lodge and **an inquest room attached to the lodge, about twenty feet by fourteen, still a coroner’s court**. That inquest room is where the Gouldstone inquest sat on both days, which resolves the board-room-against-lodge question for Chapter Ten. Secondary sources; see the timeline file for the confidence note. The burial registers (Waltham Forest) would give the grave number, who paid, and the names the twins were buried under. A located grave is potential Part Six material in Rik's own voice.
 
 ### Part Three — shape proposed 22 September 2026, NOT decided
@@ -1424,7 +1424,7 @@ Full skeleton at `notes/CHAPTER_10_skeleton.md`; the sourcing behind all three i
    the cord held up, the hammer, the coffee shop and the short cut to the station are press-only. The
    Chronicle of 13 August is the earlier printing; the Dover Express of 17 August reprints it almost word
    for word (Contradiction 46), so the Chronicle is the paper to name.
-3. **Neither funeral figure is used.** Not the depth (6ft against 10ft, Contradiction 42) and not the
+3. **Neither funeral figure is used. (Depth REOPENED and settled at ten feet, 24 September 2026, in Chapter Eleven; attendance still out.)** Not the depth (6ft against 10ft, Contradiction 42) and not the
    attendance (1,500 against "several hundred", Contradiction 7). The crowd is rendered in what it does.
    Note the asymmetry for later: the attendance is an estimate nobody recorded and can only ever be
    attributed to a paper; the depth is a matter of record and the Queen's Road burial register would settle
@@ -1434,3 +1434,15 @@ Full skeleton at `notes/CHAPTER_10_skeleton.md`; the sourcing behind all three i
 name, occupation and address; whether Elizabeth's absence from the funeral is anywhere stated rather than
 inferred; which uncle's wife and daughter attended. The Walthamstow Guardian of 11 August, at Waltham
 Forest Archives, would answer the first two and is already on the sources list.
+
+### Chapter Eleven assembled, 24 September 2026: "THE TIME APPOINTED FOR THE FUNERAL"
+`chapters/CHAPTER_11.md`, 1,758 words: the funeral at noon on Monday 13 August, and the resumed inquest at three
+in the same cemetery. Every decision taken in drafting is recorded in `notes/CHAPTER_10_skeleton.md`, section
+"CHAPTER ELEVEN ASSEMBLED", which is where the plan for this chapter has lived since the split of 23 September.
+Also in this session: the Guardian of 18 August turned out to be missing twenty untranscribed lines (George
+Foxwell's defence of Blythe; the full repudiation; Lyle's warning), now recovered, with the Cheeseman "gap" in
+the same file (timeline file, "Contradiction 50 SUPERSEDED"); the sworn depositions of 13 August say "this
+Mortuary" (same file); the OS sheet of the cemetery is the six-inch, revised 1893-94 (skeleton); a paragraph
+explaining the three tribunals was added at the head of Chapter Ten's movement two, with its sources in
+`notes/part_three_context_law_and_medicine.md`; Chapter Ten line 143 was corrected ("Instead" and "the bedroom"
+removed); and `notes/acknowledgements_running_list.md` was started.

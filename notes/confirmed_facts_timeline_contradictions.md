@@ -200,7 +200,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 
 - Date: Monday 13 August 1883, noon (originally fixed for 3pm) [Morning Post; Dover Express]
 - Officiant: Rev. Thomas Harrison Grantham Robinson, first Vicar of St Saviour’s, Walthamstow [Dover Express; Morning Post]. **Corrected 22 September 2026:** the note that the Morning Post "spells it Robson — same person, press error" was a transcription error in this project, not a press error in 1883. The source image reads "Grantham Robinson". Both papers agree, and there is nothing to reconcile. Also corrected in `transcribed/Morning_Post_article.txt` and `notes/master-index.md`.
-- Five elm coffins, one common grave in the third-class portion of Walthamstow Cemetery [Dover Express; Morning Post]. **Depth is contested and must not be stated: 6ft (Dover Express) against 10ft (Morning Post) — see Contradiction 42.** This line previously read "one 10-foot grave" and cited both papers for it, while Contradiction 42 in this same file recorded the figure as irreconcilable. Corrected 22 September 2026.
+- Five elm coffins, one common grave in the third-class portion of Walthamstow Cemetery [Dover Express; Morning Post]. **Depth SETTLED 24 September 2026 at ten feet (Guardian and Morning Post against the Dover Express; see Contradiction 52 and the correction below it), and used in Chapter Eleven.** Earlier position, now superseded: depth contested, 6ft (Dover Express) against 10ft (Morning Post), see Contradiction 42. This line previously read "one 10-foot grave" and cited both papers for it, while Contradiction 42 in this same file recorded the figure as irreconcilable. Corrected 22 September 2026.
 - Mourners included Mrs Graves (wife of foreman William Graves) [Dover Express]
 - Attendance: see Contradictions (1,500 per Dover Express; "several hundred" per Morning Post)
 
@@ -706,7 +706,7 @@ Honey sets out to FETCH Twining and finds him already at the house. That only wo
 - **Dover Express, 17 Aug:** "one common grave, 6ft. deep, in the third-class portion of the cemetery."
 - **Morning Post:** "They were all placed into a 10-foot grave in the third-class portion of the cemetery."
 
-**Assessment:** irreconcilable as printed. The burial register for Queen's Road Cemetery would settle it. Do not pick one in prose without it. (Attendance at the same funeral is Contradiction 7.)
+**SUPERSEDED: see Contradiction 52, and the note below it of 24 September 2026.** **Assessment:** irreconcilable as printed. The burial register for Queen's Road Cemetery would settle it. Do not pick one in prose without it. (Attendance at the same funeral is Contradiction 7.)
 
 
 ### 43. THE 1935 BROADMOOR INQUEST PAPERS GET 1883 WRONG (logged 22 September 2026)
@@ -1091,6 +1091,15 @@ earlier "irreconcilable" verdict at Contradiction 42 was reached without this so
 Chingford Mount would confirm it outright and should still be obtained. Note the point the figure carries:
 a ten-foot grave is a common grave dug deep for multiple interments, in the third-class portion, by the
 contractor who held the Union interment contract. That is the class argument in one hole in the ground.
+
+**Correction, 24 September 2026, and the decision.** The two funeral reports are not fully independent: the
+closing 586 characters of the Dover Express's funeral paragraph are the Guardian's text word for word. The
+"6ft." falls in the part that is not shared. Ten feet stands on the Guardian and the Morning Post, worded
+independently, against a compiler with two other demonstrable errors on the same page (see
+CHAPTER_10_skeleton.md, "Chapter Eleven assembled"). **Decided by Rik and used in Chapter Eleven: ten feet.**
+One caution on the gloss above: only the Dover Express says "common grave", and it may mean no more than one
+grave shared by the five. The prose states the depth and the third-class portion and draws no class
+conclusion.
 
 
 ### NEWLY ESTABLISHED FROM THE GUARDIAN OF 18 AUGUST — none of it previously in the project

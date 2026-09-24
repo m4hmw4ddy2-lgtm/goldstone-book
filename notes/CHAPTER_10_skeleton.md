@@ -664,3 +664,67 @@ demolished. Nothing in this settles where the bodies lay in August 1883. The can
 two, the 1893-94 building and the later one, and it is not established whether the 1893-94 building
 already stood in 1883. The Walthamstow Burial Board minutes (Vestry House) remain the document that
 would settle it.
+
+---
+
+# CHAPTER ELEVEN ASSEMBLED, 24 September 2026
+`chapters/CHAPTER_11.md`, "The Time Appointed for the Funeral", 1,758 words, two movements separated by
+`***`: the funeral at noon (about 630 words) and the resumed inquest at three (about 1,130). Both
+movements went through Rik's notes in this session; the text is the agreed version.
+
+## Decisions taken in drafting (Rik, 24 September 2026)
+- **Grave depth REOPENED and settled: ten feet.** Written into the prose as "and it was ten feet deep".
+  Guardian and Morning Post, worded independently, against the Dover Express. **Correction to the
+  skeleton's claim that the two funeral reports were "genuinely independent":** the last 586 characters of
+  the Dover Express's funeral paragraph ("troops of people were pouring… but withal affected") are the
+  Guardian's text word for word, so the Dover compiler had the Guardian's copy. Its "6ft." sits in the part
+  that is not shared, beside two other errors on the same page ("the following morning" for the inquest;
+  Bethnal Green for Mrs Graves's house against the Guardian's Hackney). Same method as the 5ft 4in height
+  (Contradiction 53). The burial register would still confirm it.
+- **Attendance stays out**, as decided. The crowd is rendered by what it did.
+- **The coffin plates.** The Guardian says every plate gave "names and ages". The Morning Post calls the twins
+  "unnamed", the death index has "Male" and "Male", and the burial entry reported by Mark Lewis has
+  "2 males unnamed". The prose gives the plates claim as the Guardian's and does not correct it, under the
+  press rule, so the reader holds it against Chapter Eight's "Male, and Male".
+- **Martha Gouldstone is named** at first mention, "William's aunt", with Robert's death "the December
+  before". This rests on the census and death-certificate chain in the timeline file, not on a document
+  naming her at the graveside. Her daughter is not named: where Sarah Annie was living is not established.
+- **Mrs Graves** is given as "the foreman's wife" only. Chapter Five already carries the house, the
+  marriage from it and the three births in it.
+- **"The mortuary church" stays the Guardian's phrase** ("in what the Guardian called the mortuary church").
+  Chapel or mortuary is not established, and "chapel" would settle it silently.
+- **Grantham Robinson's letter of 10 August** is quoted with the transcriber's square-bracket
+  reconstructions ("[five]", "[the]") kept visible.
+- **The burial service**: "His first words were 'I am the resurrection and the life, saith the Lord'", from
+  the 1662 order, which the Guardian's "the solemn words about the resurrection and the life" points to.
+- **Mrs Millard** is kept in the Guardian's words only. No evidence of the circumstances of her sons'
+  deaths; nothing in the archive, and a web search found nothing. Research lead: the Guardian for July 1883
+  and a BNA search.
+- **The inquest movement uses the recovered Guardian text** (twenty lines missing from the first
+  transcription, recovered 24 September): the repudiation of "everything in this letter", "Hear, hear" from
+  several of the jury, "The Coroner's court cannot possibly be responsible for that sort of thing", Lyle's
+  "You may have to make an inquiry as to the cause of her death", **George Foxwell's defence of Blythe**
+  (quoted as the Guardian's own sentence, since it is reported indirectly), Blythe's "Oh, I don't think
+  there was that motive", and the coroner closing on "Now, having said so much I think we may proceed with
+  the case". See the timeline file, "Contradiction 50 SUPERSEDED".
+- **Chapter Ten material is echoed, not repeated**: Lyle's letter, Blythe's "kindly nature" and the
+  coroner's defence of the view each get a clause or a fragment. The skeleton's fallback fix (cutting
+  Chapter Ten's "He was asked about it the following afternoon" paragraph) was not needed and was not made.
+- **The evidence** comes from the sworn coroner depositions of 13 August. Smith, Bryant and Folkard are
+  compressed to one sentence (Rik: the reader already has it), kept only to set up the Morning Post's "Who
+  undressed it?" exchange. Gould's post-mortem findings arrive here, as decided for Chapter Ten.
+- **The chapter ends** on the Guardian's last sentence of its inquest report, "It is stated that Mrs.
+  Gouldstone is on the whole progressing satisfactorily towards recovery", which echoes the Morning Post's
+  account of Lyle's letter earlier in the movement ("Before this visit the patient was progressing
+  satisfactorily"). The skeleton named the Dover Express for this line; the Guardian prints it too, and is
+  the paper named in the sentences just before.
+
+## One join for Rik to look at
+Movement one ends "It was not filled in until three o'clock." Movement two opens, after the section
+break, "But by three o'clock, outside, the grave was already filled in." The second sentence restates the
+first across the break. Either can carry the fact; both together is a repeat. Not changed.
+
+## Consequence for the plan
+The skeleton's "WHAT IS NOT IN THIS CHAPTER" put the committal, the Cole copycat and the press sensation
+in "Chapter Eleven". Since the split of 23 September they move to **Chapter Twelve** at the earliest. Not
+yet planned.
