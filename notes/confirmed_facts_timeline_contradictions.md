@@ -2418,3 +2418,89 @@ tribunal: "Before the magistrates, Ada was still the only witness who had been c
    over it." He is a workmate, in the same group of evidence as Cakebread and Skelton. **The project
    already has one Clarke problem, the press's "James" for Charles. Do not let a search for "Clark"
    in the trial papers merge the carpenter's household with this man.**
+
+---
+
+## Contradiction 50 SUPERSEDED, and a passage the project never had: the Guardian's missing twenty lines
+**Logged 24 September 2026, found while preparing Chapter Eleven, movement two.**
+
+**What happened.** The transcription of the Walthamstow and Leyton Guardian of 18 August ran from "to be
+responsible for what any member of the jury" at the foot of column 4 straight to "...day, is simply that"
+at the head of column 5, and **marked no gap**. Twenty lines were missing. They are fully legible on the
+repository image (`sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_18_August_1883_0005_Clip.jpg`),
+at the foot of column 4, and have now been transcribed. The same check found that the marked "GAP" in PC
+Cheeseman's evidence at the foot of column 3 was not a gap either; it is legible and is now transcribed.
+The transcription file carries CORRECTED notes at both places.
+
+**The recovered passage, verbatim:**
+
+> ...to be responsible for what any member of the jury takes upon himself to do. The Coroner's court cannot
+> possibly be responsible for that sort of thing.
+> Dr. Lyle: You may have to make an inquiry as to the cause of her death.
+> Mr. Foxwell (a juryman) said he had known that Mr. Blythe was going to the house on Sunday morning to see
+> the cistern on account of his having been unable to go there either on Friday or Saturday, and he had no
+> doubt that when Mr. Blythe went he asked to see Mrs. Gouldstone as a friendly visit, after seeing the
+> cistern; and it was very possible Mrs. Gouldstone might have asked Mr. Blythe a number of questions and he
+> might have answered her. It was very well after a man had said the words for other persons to sign their
+> names to a statement in order to get a man into trouble.
+> Mr. Blythe: Oh, I don't think there was that motive.
+> The Coroner: Of course it is extremely unwise, but anything of that sort might have been done—most
+> incautiously and unguardedly. The object of a view, the object of a jury going as we did on this
+> particular day, is simply this—no observation was made except simply to see the premises themselves...
+> Now, having said so much I think we may proceed with the case.
+
+**(1) Contradiction 50 largely dissolves.** The Guardian's coroner says BOTH things: he repudiates
+"everything in this letter", to "Hear, hear" from several of the jury, AND says "The Coroner's court cannot
+possibly be responsible for that sort of thing." The Dover Express's "I repudiate anything said on behalf of
+this Court" is a compression of the second, and it drops the first. The Guardian's is the fuller record of
+one speech, not a rival account of it. **Both halves may be used, from the Guardian.**
+
+**(2) Lyle's warning is in the Guardian too**, shorter: "You may have to make an inquiry as to the cause of
+her death." The Dover Express adds "owing to the injury done her". Same moment, same place in the exchange.
+
+**(3) The coroner's closing words exist in two forms.** Guardian: "Now, having said so much I think we may
+proceed with the case." Dover Express: "We will now proceed with the case." The Dover Express is a
+compressed printing of the same exchange (it drops the Foxwell passage entirely). **The Guardian's is the
+fuller, and the Elizabeth thread's instruction to close on "We will now proceed with the case" rests on the
+compressed version.** Either may be quoted as its own newspaper's. Do not present the Dover's shorter form
+as the coroner's exact words without naming the Dover Express.
+
+**(4) NEW, AND IT IS THE HARDEST THING IN THE ELIZABETH THREAD SO FAR: George Foxwell's defence of
+Blythe.** A second juror, named in the jury list, stood up for Blythe in open court. His account differs
+from Blythe's own: Blythe had gone "to see the cistern", having missed both the Friday and the Saturday,
+and then "asked to see Mrs. Gouldstone as a friendly visit". And he turned the matter round onto her: "it
+was very possible Mrs. Gouldstone might have asked Mr. Blythe a number of questions and he might have
+answered her." Then an accusation against the complaint itself: "It was very well after a man had said the
+words for other persons to sign their names to a statement in order to get a man into trouble." Blythe's
+reply: "Oh, I don't think there was that motive."
+
+**What Foxwell's last sentence implies, and it is an implication, not a fact:** that Lyle's letter was, or
+was accompanied by, a statement signed by other people. Who they would be is not said. If a statement
+signed by witnesses to the Sunday visit existed, it went to the coroner and should be in the same missing
+coroner's file as the letter itself (see "Lyle's letter to the coroner" above). **Add to that enquiry.**
+
+**(5) Blythe's own account now has three versions of what he went for.** His own: the visit "was of a
+kindly nature, to see if he could be of any service to Mrs. Gouldstone" (Guardian, Dover Express). The
+Morning Post's: he "went in his leisure time on the Sunday morning". Foxwell's: to see the cistern, and
+then to see her. These are compatible and should not be forced into one.
+
+**(6) Watch in drafting.** Foxwell is the passage most likely to tempt an interior reading ("Foxwell
+blamed her", "the jury closed ranks"). The document gives his words and one reply to them. Set them down
+and stop. "Hear, hear" from several of the jury is behaviour and may be stated; what the jury felt is not.
+
+## "This Mortuary": the sworn depositions of 13 August place the inquest at the mortuary
+**Logged 24 September 2026.** Sergeant Horace Smith's coroner deposition, sworn at the resumed inquest:
+"Under my direction Charles, Herbert & Frederick, who were already dead, were removed to **this
+Mortuary**." PC (corrected in pencil to Sergeant) James Bryant, the same sitting: "I removed them to **this
+Mortuary**." The heading of the same document: "Information of Witnesses taken this thirteenth day of
+August 1883, in the Parish of Walthamstow". The coroner's clerk wrote "this Mortuary" of the place where
+the depositions were being sworn.
+
+**What it suggests, and it is inference:** in August 1883 the mortuary was at, or part of, the building
+where the inquest sat, which the newspapers call the board room and the lodge. That fits the Daily
+Telegraph's "the mortuary close by" on the Friday exactly. It does NOT fit the 1893-94 Ordnance Survey
+"Mort." at the far north-east corner, which on this reading would be a later building. **This is the
+nearest thing to a primary statement of where the bodies lay that the project has**, and it is sworn. It
+does not settle what the Guardian meant by "the mortuary church". The burial board minutes would confirm
+it. Until they do, the prose may say what the depositions say, the bodies were at the mortuary where the
+inquest sat, and nothing about where that stood in the grounds.

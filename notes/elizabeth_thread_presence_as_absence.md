@@ -175,6 +175,18 @@ its verdict of wilful murder, "at once".
 **For the prose:** the whole exchange takes up a few lines before the evidence resumes, and the words that close it are "We
 will now proceed with the case." That sentence does the work. Do not add to it.
 
+**CORRECTED 24 September 2026.** The Dover Express's version quoted above is a compression. The Walthamstow and Leyton
+Guardian's fuller text, twenty lines of which were missing from the project's transcription until today, has the coroner
+repudiating "everything in this letter" to "Hear, hear" from several of the jury, then "The Coroner's court cannot
+possibly be responsible for that sort of thing"; Lyle's warning; **a second juror, George Foxwell, defending Blythe and
+suggesting that "it was very possible Mrs. Gouldstone might have asked Mr. Blythe a number of questions and he might
+have answered her"**, and that the complaint was a statement others had been got to sign "in order to get a man into
+trouble"; Blythe: "Oh, I don't think there was that motive"; and the coroner closing "Now, having said so much I think
+we may proceed with the case." The Dover's "We will now proceed with the case" is not the only form of the closing words.
+See the timeline file, "Contradiction 50 SUPERSEDED". Foxwell belongs in this file's list of what was done to her: at
+the inquest into her children's deaths, in her absence, a juror proposed that she had brought the conversation on
+herself.
+
 ### (d) The statement, first published Wednesday 19 September — she speaks, once, and it counts
 **Date and text settled as far as they can be, 23 September 2026.** She saw William at Chelmsford on Tuesday
 18 September. Two of the three surviving reprints keep "yesterday (Tuesday)", so the original was a London daily of
