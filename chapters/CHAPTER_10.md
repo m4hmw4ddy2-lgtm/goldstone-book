@@ -140,7 +140,7 @@ Two doctors were attending her. They were feeding her on jellies and light stren
 
 On the Sunday morning a man came to the door and was, for some reason, admitted.
 
-He was Joseph Blythe, and he was one of the fourteen men who had been sworn on the Friday to inquire into how her children had died. He had not gone with the coroner to look at the cistern. Instead he came now, by himself, to the bedroom on the first floor where she was lying eleven days after the birth of the twins, and he spoke to her.
+He was Joseph Blythe, and he was one of the fourteen men who had been sworn on the Friday to inquire into how her children had died. He had not gone with the coroner on the Friday. He came now, by himself, to the room on the first floor where she was lying eleven days after the birth of the twins, and he spoke to her.
 
 What he said in that room is on record because her doctor wrote it down and sent it to the coroner. Dr Lyle's letter protested against the "scandalous and indelicate conduct" of a juryman who had gone to her house and there begun, in Lyle's own word for it, "roundly to abuse her." What Lyle set down in quotation, as the thing said to a woman eleven days out of childbed about the husband who had killed her children, was this:
 
