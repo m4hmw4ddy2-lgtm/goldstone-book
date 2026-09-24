@@ -10,7 +10,7 @@ The undertaker was Mr T. Maynard, who held the contract for the Union interments
 
 Before the mourners arrived, the five coffins had been set on the bier in what the Guardian called the mortuary church, each under a velvet pall. That was not the usual custom, and it made the people waiting outside all the more eager to be let in. The building was small. The police, under Sergeant Hawkins, kept it from overfilling, and the newspaper was satisfied that "the orderly demeanour of the spectators was in harmony with the melancholy nature of the occasion."
 
-Shortly after twelve the procession came out from near the board room, where the jury would sit at three, with the Reverend T. H. Grantham Robinson, vicar of St Saviour's, at its head. He had already seen the children. On the Friday, the day the inquest opened, he had written to the Guardian. He had been to see Elizabeth and had supplied her "with everything needful for the present", and the letter ended: "I shall never forget the [five] little brothers as I saw them lying side by side in [the] parish mortuary."
+Shortly after twelve the procession came out from near the board room, where the jury would sit at three, with the Reverend T. H. Grantham Robinson, vicar of St Saviour's, at its head. He had already seen the children. On the Friday, the day the inquest opened, he had written to the Guardian. He had been to see Elizabeth "a few hours after the murders", had supplied her immediate wants, and hoped, with local help, to provide her "with everything needful for the present". The letter ended: "I shall never forget the five little brothers as I saw them lying side by side in our parish mortuary."
 
 There were ten mourners. First came Martha Gouldstone, William's aunt, with her daughter, and she was carrying a bouquet. Her husband, William's uncle Robert, had died at Walthamstow the December before. Then Mrs Graves, the foreman's wife, and her daughter, and Mrs Graves had a wreath. After them came Ada Hamilton and Emma Clarke, and Mrs Millard, "who but a few weeks ago had two boys drowned", and others the newspaper did not name.
 
@@ -82,8 +82,8 @@ Inside, the coroner summed up, at great length, the Morning Post said. The case 
 
 The jury returned their verdict without hesitation: wilful murder, against William Gouldstone. Then they signed five verdicts to that effect, and the coroner issued his warrant committing him.
 
-Visitors kept coming to the grave all afternoon and until the cemetery gates were closed, and by then the top of it was covered with flowers, many of them carried in, in small baskets, by children, who seemed to the Guardian's reporter "greatly pleased at the task they had in hand, but withal affected."
+Visitors kept coming to the grave all afternoon and until the cemetery gates were closed, and by then the top of it was covered with flowers, many of them carried in small baskets by children, who seemed to the Guardian's reporter "greatly pleased at the task they had in hand, but withal affected."
 
-The newspaper's report of the inquest ended with the verdict, the warrant, and one more sentence.
+The report ended with the verdict, the warrant, and one more sentence.
 
 "It is stated that Mrs. Gouldstone is on the whole progressing satisfactorily towards recovery."
