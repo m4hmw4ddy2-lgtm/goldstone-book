@@ -606,7 +606,7 @@ north-east corner and Grantham Robinson's "parish mortuary" keep that open.
 
 ### The Ordnance Survey extract, now in the repository (24 September 2026)
 
-`sources/images/Walthamstow_Cemetery_OS_extract_undated_sheet_unrecorded.webp`
+`sources/images/Walthamstow_Cemetery_OS_6inch_London_III_SE_rev1893-94.webp` (renamed 24 September 2026 from `..._OS_extract_undated_sheet_unrecorded.webp` once the sheet was identified; see below)
 
 This is the sheet already described in the timeline file ("Board room against lodge — resolved"),
 and until now it was not in `sources/`. **The sheet number and the survey or revision date are still
@@ -634,3 +634,33 @@ information gives the series, sheet and dates. Record them here before anything 
 **Still not measurable:** the extract has no scale bar. The walk from the mortuary to the chapel, and
 from either to the lodge, can be measured in the viewer once the sheet is identified. Until then the
 prose should say nothing about distances inside the cemetery, beyond the Daily Telegraph's own "close by".
+
+### The sheet identified, and the mortuary site today (24 September 2026, Rik)
+
+**The sheet.** A wider view of the same map from the NLS viewer, now at
+`sources/images/Walthamstow_Cemetery_OS_6inch_London_III_SE_rev1893-94_wider.png`, carries the viewer's
+own sheet information: **London III.SE, revised 1893 to 1894, published 1894 to 1896**, and **Essex
+LXV.SW, revised 1894, published 1898**. Layer: NLS "OS Six Inch, 1888-1913". Scale six inches to the mile
+(1:10,560). Grid reference at the cursor TQ 37145 88471.
+
+**Consequences.**
+- The map shows the cemetery **ten or eleven years after the funeral**. "Mort." is attested for 1893-94,
+  not for 1883. The terrace-dating suggestion in the section above is superseded.
+- **Next step: an earlier edition of either sheet in the NLS viewer.** If one was surveyed between
+  October 1872 (the cemetery's opening) and 1883, it is the nearest map to the funeral. One surveyed before
+  October 1872 will not show the cemetery at all. Its dates will say which.
+- At a known scale the NLS measuring tool can now give the walk from "Mort." to the chapel, valid for
+  1893-94 only.
+- **Correction to the reading above:** the arrow beside "B.M. 52·0" at the south-east corner is the
+  Ordnance Survey bench-mark symbol, not an entrance. The wider view also shows a small building at the
+  north-west corner where the Exmouth Road path enters, as well as the solid building on the drive south of
+  the chapel. Neither is to be identified as the lodge of the photograph from the map alone.
+
+**The mortuary site today (Rik, from a current aerial view on Google Maps).** Where "Mort." stood in
+1893-94 is still inside the cemetery and still burial ground, and **there is no building there now.** So
+the mortuary Karen McGowan-Griffin knew, "at the back of the car park", is **a different building on a
+different site** from the one marked on the 1893-94 sheet, and the "Mort." building has since been
+demolished. Nothing in this settles where the bodies lay in August 1883. The candidates are now at least
+two, the 1893-94 building and the later one, and it is not established whether the 1893-94 building
+already stood in 1883. The Walthamstow Burial Board minutes (Vestry House) remain the document that
+would settle it.
