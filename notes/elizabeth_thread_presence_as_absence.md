@@ -292,7 +292,9 @@ The instruction is to show the absence, not to assert it. In practice:
   attendant" (Daily Chronicle letter, 13 August); Lyle is "the medical gentleman in attendance upon Mrs. Gouldstone" a week
   later, and the IPN says "Two doctors have since been in attendance on her". The likeliest reading is that both are
   correct and they are the two doctors. Not yet confirmed.
-- Grantham Robinson's involvement with her begins at the funeral ("has taken a great interest in the poor woman, Mrs.
+- **CORRECTED 24 September 2026:** Grantham Robinson's involvement with her begins on the night of the murders. His letter
+  of 10 August, now fully transcribed: "I saw her a few hours after the murders, and found her wonderfully composed but very
+  weak... I supplied her immediate wants". Original entry: Grantham Robinson's involvement with her begins at the funeral ("has taken a great interest in the poor woman, Mrs.
   Gouldstone, since the terrible occurrence") and ends with his statement to the Home Secretary. His is the one male
   intervention in this whole record that appears to have been on her terms. Worth watching as a counterweight so the thread
   does not flatten into a single note.

@@ -1218,6 +1218,12 @@ house for eleven months. The IPN of 18 August carries the same remark in the sam
 15 September Guardian is not in the repository and cannot be checked from here. **Flagged, not corrected.**
 
 **Two letters, both in the paper's correspondence column.**
+- **CORRECTED 24 September 2026: the whole letter is legible and is now transcribed in full; see the
+  transcription file's CORRECTED note. It was never under a fold: a diagonal tear crosses the line starts,
+  and the fragments join. The word before "parish mortuary" is "our", not "[the]". He "supplied her
+  immediate wants" and HOPED to provide "everything needful for the present". And "I saw her a few hours
+  after the murders": his involvement with Elizabeth begins on the night of 8 August, not on the 10th. The
+  original entry follows and is superseded where it differs.**
 - **Rev. T. H. Grantham Robinson, dated 10 August** — the earliest document in this project in his own
   voice, and it moves his involvement with Elizabeth back to the day the inquest opened, three days before
   the funeral. He had been to her, found her "wonderfully composed but very w[eak]", found the two rooms

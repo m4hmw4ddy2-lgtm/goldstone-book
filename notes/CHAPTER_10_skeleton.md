@@ -693,8 +693,12 @@ movements went through Rik's notes in this session; the text is the agreed versi
   marriage from it and the three births in it.
 - **"The mortuary church" stays the Guardian's phrase** ("in what the Guardian called the mortuary church").
   Chapel or mortuary is not established, and "chapel" would settle it silently.
-- **Grantham Robinson's letter of 10 August** is quoted with the transcriber's square-bracket
-  reconstructions ("[five]", "[the]") kept visible.
+- **Grantham Robinson's letter of 10 August. CORRECTED 24 September 2026 (Rik asked whether the square brackets
+  were the newspaper's).** They were not: they were the first transcriber's reconstructions of a damaged
+  spot. Read again from the image, the whole letter is legible, and one bracket was wrong ("our parish
+  mortuary", not "[the]") and one quotation was mis-joined across two lines (he supplied her "immediate wants"
+  and hoped to provide "everything needful for the present"). The prose now quotes the letter without
+  brackets and adds "a few hours after the murders", when he first saw her.
 - **The burial service**: "His first words were 'I am the resurrection and the life, saith the Lord'", from
   the 1662 order, which the Guardian's "the solemn words about the resurrection and the life" points to.
 - **Mrs Millard** is kept in the Guardian's words only. No evidence of the circumstances of her sons'
