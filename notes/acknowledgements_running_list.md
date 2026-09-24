@@ -46,6 +46,21 @@ documents later show.
 - **Queen's Boundary** (queensboundary.wordpress.com) and **Queens Road Stories**. Queen's Road Cemetery
   history; Marsh Street becoming the High Street in 1882. *Find the authors' names.*
 
+### Found in the sweep of 24 September 2026 (repo and past project chats)
+- **Rik's mother**, for the family story, via Lil and Vera, that Albert served as a councillor. Recorded in
+  the June 2026 project chats as an open item. *Rik to confirm, and whether anyone else confirmed it.*
+- **Frederick Brook, "Memories of Childhood in Little Sampford"**, recorded in 1980 by his daughter **Dorothy
+  Lee**. Oral history used for Great Sampford and Little Sampford village life. Recorded:
+  `notes/session_update_2026-07-20_part2.md`, section 7. *Find where it is published or held, and credit
+  that; only if the finished text uses it.*
+- **bygoneboozers.co.uk.** Licensee histories of the Cock Inn and the Bull, Great Sampford. Same file.
+  *Find the compiler's name.*
+- **Peter Higginbotham, workhouses.org.uk.** Workhouse history (Bridge House, Finchingfield; Lambeth).
+- **Kevin Schürer (CAMPOP), "Stuck in the mud"**, drawing on Jean Robin's Elmdon study. Rural mobility,
+  Chapter Three.
+- **HathiTrust.** The 1884 American journals that reported the case (American Psychological Journal v.2 and
+  others). Only if the finished text uses them.
+
 ## Institutions and collections
 - **The National Archives**: CRIM 1/19/2 (the depositions, witness statements, committal and Home Office
   letter).
@@ -62,6 +77,9 @@ documents later show.
 - **Parks & Gardens** register and **Hidden London**: the cemetery buildings.
 - **Victoria County History, Essex vol. 5** (British History Online): the Central Criminal Court district.
 - **Legal History Miscellany**: coroner's inquisitions.
+- **Historic England** list entries (Hillcrest, formerly the Cock Inn; the Old Smithy; and others).
+- **A Vision of Britain through Time**: population figures for Wethersfield, Finchingfield and Great Sampford.
+- **Kelly's, White's, Pigot's and Post Office directories** of Essex.
 
 ## Pending — add once they have actually helped
 - **Waltham Forest Archives / Vestry House Museum**: enquiry drafted
