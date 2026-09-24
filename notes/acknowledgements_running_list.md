@@ -1,9 +1,6 @@
 # ACKNOWLEDGEMENTS — RUNNING LIST
-# Started 24 September 2026 at Rik's request. Not prose. A list to be added to whenever someone helps,
-# so the page can be written from it at the end without anyone being forgotten.
-# Rule for adding: name, what they gave, date, and where in the repo it is recorded. Private individuals
-# are listed here as working notes; ask each one before printing their name, and ask how they want to
-# be named.
+# Started 24 September 2026 at Rik's request. Not prose. A list to be added to whenever someone helps, so the page can be written from it at the end without anyone being forgotten.
+# Rule for adding: name, what they gave, date, and where in the repo it is recorded. Private individuals are listed here as working notes; ask each one before printing their name, and ask how they want to be named.
 
 ## People
 
@@ -89,7 +86,6 @@ documents later show.
 - **David and Malcolm Ainsley** (sons of great-aunt Rene): not yet contacted.
 
 ## For Rik to decide
-- Whether, and how, to acknowledge research and drafting assistance from AI tools (Claude; the earlier
-  ChatGPT work in `ChatGPT-archive/`). Some publishers now ask authors to disclose this.
+- Whether, and how, to acknowledge research and drafting assistance from AI tools (Claude; the earlier ChatGPT work in `ChatGPT-archive/`). Some publishers now ask authors to disclose this.
 - Speakers Corner or any agent or publisher, once there is one.
 - Anyone who read drafts.
