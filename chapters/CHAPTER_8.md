@@ -44,6 +44,8 @@ An account of the evening went out by telegraph that same night, and the next da
 
 Nobody who was in the house that night described under oath what Elizabeth went through. The *Illustrated Police News*, ten days later, told its readers that "when the murderer was taken away by the police, the poor wife, perhaps happily, lost consciousness for an hour; and through the night, which few thought she would survive, alternately broke into cries, to swoon away again."
 
+Within a few hours of the murders the vicar of the parish had been to see her. Two days later the Reverend T. H. Grantham Robinson, of St Saviour's, wrote to the local paper that he had seen her "a few hours after the murders, and found her wonderfully composed but very weak, and the house, or rather two rooms which the family occupied, devoid of all comfort, even the plainest food."
+
 The second baby, the one with the bruise over his eye, died at about two o'clock in the morning. When Dr Gould came back at ten minutes past seven, he found him dead.
 
 Neither of them had survived long enough even to be given a name. In the Registrar General's index of deaths for that quarter they follow directly after their brothers, on the same page: Charles, Frederick, Herbert, and then Male, and Male.
