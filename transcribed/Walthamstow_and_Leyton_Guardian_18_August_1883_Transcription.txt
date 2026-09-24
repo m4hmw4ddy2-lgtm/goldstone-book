@@ -7,7 +7,7 @@ Transcription scope: the Gouldstone material only, columns 3 to 6. The rest of t
 Hope, Wood-street Sunday School, Express Train Service, Marsh-street Open Air Mission, Mrs Barclay's
 Mission Room, St Mary's Sunday School, Black Horse Lane Wesleyan Sunday School, Walthamstow Literary
 Institute and the remaining local matter) is not transcribed.
-Transcription status: SUBSTANTIALLY COMPLETE, with two marked gaps. Transcribed 22 September 2026 from
+Transcription status: COMPLETE for columns 3 to 5 as of 24 September 2026 (see the two CORRECTED notes). The Grantham Robinson letter in column 6 is still partly illegible under a fold. Originally SUBSTANTIALLY COMPLETE, with two marked gaps. Transcribed 22 September 2026 from
 column crops of the repository image. Two passages are marked [GAP — NOT TRANSCRIBED] where the column
 break or a fold in the scan prevented a confident reading. Nothing has been supplied from any other
 source. Anything that could not be read is marked, not guessed.
@@ -128,10 +128,16 @@ into the bedroom, and his wife said, "Oh, you wicked man; what have you done?" H
 your children; now you'll be single again, and I shall be hanged." His wife said, "Have you any money?" He
 said "Yes," and gave her all he had.
 
-[GAP — NOT TRANSCRIBED: the remainder of PC Cheeseman's evidence, at the foot of column 3 and the head of
-column 4. It is the familiar cell-and-charge material and appears in full in The Times, the Daily Telegraph
-and the Morning Post reports already in this folder. The transcription resumes at the last two sentences of
-that evidence, which are visible at the head of column 4.]
+He then kissed her, and bade her "Good-bye." On the way to the police-station he said, "When I took my
+money last week I thought of buying a revolver to do it with, but I altered my mind, as I thought it would
+make too much noise. I had a hard job with the two eldest, but the other little —— I soon settled him. I
+thought it was getting too hot. I have had five children in about three years and a half, so I thought I
+would put a stop to it." At the police-station he said, "I've done it like a man," and when the charge
+was read over to him by the inspector he
+
+[CORRECTED 24 September 2026. This passage was previously marked "GAP — NOT TRANSCRIBED". It is fully
+legible on the repository image at the foot of column 3 and has now been read from a zoomed crop. It
+runs straight on into the head of column 4 ("said, 'Quite right, sir.'"). There is no gap.]
 
 =========================================================================
 COLUMN 4
@@ -253,12 +259,33 @@ Mr. Blythe: I did not connect the jury with it.
 The Coroner: So far as I and the jury are concerned I thoroughly repudiate everything in this letter.
 ("Hear, hear" from several of the jury.) It is impossible for us, when the inquiry has been adjourned, to
 be responsible for what any member of the jury
+takes upon himself to do. The Coroner's court cannot possibly be responsible for that sort of thing.
+
+Dr. Lyle: You may have to make an inquiry as to the cause of her death.
+
+Mr. Foxwell (a juryman) said he had known that Mr. Blythe was going to the house on Sunday morning to see
+the cistern on account of his having been unable to go there either on Friday or Saturday, and he had no
+doubt that when Mr. Blythe went he asked to see Mrs. Gouldstone as a friendly visit, after seeing the
+cistern; and it was very possible Mrs. Gouldstone might have asked Mr. Blythe a number of questions and he
+might have answered her. It was very well after a man had said the words for other persons to sign their
+names to a statement in order to get a man into trouble.
+
+Mr. Blythe: Oh, I don't think there was that motive.
+
+The Coroner: Of course it is extremely unwise, but anything of that sort might have been done—most
+incautiously and unguardedly. The object of a view, the object of a jury going as we did on this particular
+
+[CORRECTED 24 September 2026. The twenty lines above, from "takes upon himself to do" to "on this
+particular", were omitted from the first transcription WITHOUT any gap being marked: the text jumped from
+the foot of the visible column 4 to "...day, is simply that" at the head of column 5 as though the column
+break had lost nothing. They are fully legible on the repository image at the foot of column 4. See the
+timeline file, Contradiction 50 SUPERSEDED, for what they change.]
 
 =========================================================================
 COLUMN 5
 =========================================================================
 
-...day, is simply that—no observation was made except simply to see the premises themselves. And without
+day, is simply this—no observation was made except simply to see the premises themselves. And without
 any observation being made, the premises were viewed and we came away, and there was an end of the view. As
 a matter of course, if, in the interim any juryman takes upon himself to go there, the Coroner or jury
 cannot be in any shape or way responsible for it. Now, having said so much I think we may proceed with the
