@@ -571,3 +571,66 @@ remains an open question, as does the board room against the lodge.
 interior and procedural. Chapter Eleven has coffins on a bier in the mortuary church, a crowd at its
 door, a procession emerging from the vicinity of the board room, and people admitted until the gates
 closed. Both buildings, and those gates, are in that one paragraph of the Guardian.
+
+### Observations on the two photographs, 24 September 2026 (checked against the images)
+
+**1. The chapel photograph agrees with the published descriptions, and corrects the inference above.**
+Parks & Gardens and Queen's Boundary describe Sutton's work as two chapels **at right angles**, joined
+by a covered way under an octagonal spire. That is what the photograph shows. The left-hand chapel faces
+the camera gable-end on, with the traceried window in its gable. The right-hand chapel is seen side-on,
+running away from the viewer. The arched opening under the tower is the covered way between them, and the
+belfry stage reads as octagonal. **The inference above, "two chapels flanking a central tower", should be
+read as two chapels at right angles.** The consecrated-and-unconsecrated question does not depend on the
+layout and still stands as a question for the Friends group. The walling is rough-coursed stone, which fits
+the Kentish ragstone of the secondary accounts. That is consistent with those accounts, and it is not
+independent confirmation of them.
+
+**2. The chapel photograph looks early. Do not date it.** The planting is young, including a small conifer
+beside the left-hand chapel, and only one or two monuments are visible, at the left edge. Both are
+consistent with a date not long after 1872. Both are reasoning from a photograph, and the provenance
+warning above applies in full. Record this as "consistent with an early date", never as a date.
+
+**3. The lodge photograph appears to be a photograph of a printed page.** The page curves and there is glare
+across the surface, which suggests a book reproduction photographed and posted. **Lead:** if the
+publication can be identified, it may carry a date and a picture credit that the Facebook post does not.
+Ask the Friends group where it was taken from. The mature trees and the heavy creeper suggest a
+considerably later date than the chapel photograph, which is again reasoning from a photograph. Neither
+the inquest room nor a separate entrance can be made out in it, so it neither confirms nor contradicts
+Karen McGowan-Griffin's "office attached to the lodge... has its own entrance".
+
+**Consequence for Chapter Eleven, movement one:** none yet. The draft says only "the mortuary church",
+"The church was small" and "near the board room", and describes no building. A sentence on the chapels as
+built in 1872, from the secondary architectural description and not from the photographs, becomes possible
+only once "the mortuary church" is shown to be one of them. The Ordnance Survey sheet's "Mort." at the
+north-east corner and Grantham Robinson's "parish mortuary" keep that open.
+
+### The Ordnance Survey extract, now in the repository (24 September 2026)
+
+`sources/images/Walthamstow_Cemetery_OS_extract_undated_sheet_unrecorded.webp`
+
+This is the sheet already described in the timeline file ("Board room against lodge — resolved"),
+and until now it was not in `sources/`. **The sheet number and the survey or revision date are still
+unrecorded.** The layer control visible in the screenshot ("ESRI World Image") suggests a
+georeferenced map viewer, probably the National Library of Scotland's. If so, the viewer's layer
+information gives the series, sheet and dates. Record them here before anything is built on the map.
+
+**What the extract shows, read directly:**
+- **"Mort."** is a small building with a small enclosure at the north-east corner of the ground,
+  against Exmouth Road. One dashed path runs to it from an opening at the north-west corner, off Exmouth
+  Road, and another runs south from it to the chapel's circular drive. **On this sheet the mortuary
+  could be reached from Exmouth Road without using the main entrance.** That is a reading of the map at
+  the map's date, not of 1883.
+- **The chapel** is a solid rectangle inside the circular drive. At this scale the symbol cannot show
+  whether there is one building or two chapels at right angles, so the map neither supports nor
+  contradicts the photograph. Do not cite it against the photograph.
+- **A second small building** stands on the drive just south of the circle. The earlier note took this
+  as the lodge. The lodge photograph puts the lodge right beside the gate piers, but on this extract the
+  building is some way north of the edge of the crop, and the entrance itself is off the crop. **Do not
+  identify it as the lodge from this extract.** The full sheet is needed.
+- **Exmouth Road and Edinburgh Road are lined with terraces.** If those terraces postdate 1883, then so
+  does the sheet, and possibly so does the building marked "Mort.". Their building dates would give a
+  lower limit for the sheet.
+
+**Still not measurable:** the extract has no scale bar. The walk from the mortuary to the chapel, and
+from either to the lodge, can be measured in the viewer once the sheet is identified. Until then the
+prose should say nothing about distances inside the cemetery, beyond the Daily Telegraph's own "close by".
