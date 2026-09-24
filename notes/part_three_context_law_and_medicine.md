@@ -225,3 +225,35 @@ point, to be made once and without comment. It is not an adjective.**
 
 Sources: First 100 Years, "Abolishing Juries of Matrons",
 https://first100years.org.uk/abolishing-juries-of-matrons/
+
+---
+
+## The three tribunals, verified for the Chapter Ten explanatory paragraph (24 September 2026)
+Rik asked for a short paragraph, placed at the head of Chapter Ten's movement two, explaining the process to
+the reader before the book moves between the magistrates, the inquest and the Old Bailey. Draft at
+`chapters/CHAPTER_10_INSERT_process.md`. What each claim in it rests on:
+
+- **Why an Essex case went to the Old Bailey.** The Central Criminal Court Act 1834, section II, gave the new
+  court jurisdiction over "all Treasons, Murders, Felonies, and Misdemeanors" committed in the City, Middlesex
+  and named parts of Essex, Kent and Surrey. The Essex parishes named are Barking, East Ham, West Ham, Little
+  Ilford, Low Layton, **Walthamstow**, Wanstead, Woodford and Chingford. Sources: the Act's text (vLex, Central
+  Criminal Court Act 1834); Victoria County History, Essex vol. 5, pp. 32-37 ("The Essex parishes within it
+  were Barking, East Ham, West Ham, Little Ilford, Leyton, Walthamstow, Wanstead, Woodford, and Chingford").
+- **The coroner's power to send a named man for trial.** Attested in this case directly, which is better than
+  any general authority: the Walthamstow and Leyton Guardian of 18 August, "the Coroner issued his warrant
+  committing the accused"; and the Old Bailey record, where William is "indicted for, and charged on the
+  Coroner's Inquisition with, the wilful murder of Charles Gouldstone". On the general position: an
+  inquisition finding murder against a named person was treated as "equivalent to the finding of a grand
+  jury and comparable to an indictment found to be a true bill" (Legal History Miscellany, "Prosecuting
+  Homicide on the Coroner's Inquisition", 2018). The power to charge a named person on an inquisition was
+  ended by the Criminal Law Act 1977, s. 56(1): "a coroner's inquisition shall in no case charge a person
+  with any of those offences" (murder, manslaughter, infanticide).
+- **The magistrates.** Remands of 9 and 11 August (Daily Telegraph; Daily Chronicle); examination and committal
+  of 18 August, with six deponents and "I reserve my defence"
+  (`sources/trial-docs/Magesterial Examination Stratford/`).
+- **Left out of the paragraph on purpose:** the grand jury, which returned a true bill before the trial (see
+  Graves in dramatis_personae), because a fourth body would defeat the paragraph's purpose; and the fact
+  that only Charles's murder was tried, which belongs where the trial is, not here.
+- **"A jury of local men"** is the standard practice and fits a jury list that can be run against the
+  Walthamstow rate books. It is not stated in terms by any source for this inquest. If Rik wants it
+  stricter, "a jury" alone is safe.
