@@ -360,7 +360,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 | 22 Sep | BMJ first article; Savage's Lancet letter | BMJ; Lancet |
 | 26 Sep | Execution respited until 8 October | Guardian 26 Sep |
 | 30 Sep | Sunday Dispatch: formal respite; Dr Clarke and Dr Orange examined William (6-7 hours) | Sunday Dispatch |
-| c.10 Oct | Formal reprieve — **corrected 18 September 2026: "3 Oct" was unsourced, citing only the project instructions document, which in turn had no primary source at all. Best reading now: Preston Chronicle (pub. Sat 13 Oct) has the Sheriff receiving notice "Wednesday morning" — counting back, 10 October. Inferred, not confirmed; see MASTER_NOTES.md.** |
+| 3 Oct | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Daily News, 6 Oct; Contradiction 80). **REOPENED 30 September 2026.** Previous entry: c.10 Oct, formal reprieve — **corrected 18 September 2026: "3 Oct" was unsourced, citing only the project instructions document, which in turn had no primary source at all. Best reading now: Preston Chronicle (pub. Sat 13 Oct) has the Sheriff receiving notice "Wednesday morning" — counting back, 10 October. Inferred, not confirmed; see MASTER_NOTES.md.** |
 | 6 Oct | BMJ Medical News; BMJ editorial pp682-683; Penny Illustrated | Multiple |
 | 13 Oct | Preston Chronicle: certified of unsound mind; to be removed to Broadmoor | Preston Chronicle |
 | 15 Oct 1883 (Monday) | William leaves Chelmsford prison in custody of warders Lanham and Parker, 7.45am train to Liverpool Street, en route to Broadmoor | Walthamstow and Leyton Guardian, 20 Oct 1883 (Graves's own letter) |
@@ -2871,3 +2871,52 @@ dated the 5th and printed on the 8th; there is still none on the 15th, and the "
 still Clarke's. This is the "memorial" the 15 September paragraph refers to, or its covering letter; the paragraph
 does not say. Graves's known public letters are now two: 5 September and 11 October. **The money thread in its own
 words:** lawyers first, "the poor wife" from any surplus; on 11 October, £36 against £50 and nothing for her.
+
+## FIVE DAILY NEWS PAGES, UPLOADED BY RIK AND TRANSCRIBED 30 September 2026
+20 August (pages 4 and 6), 22 September (page 6), 6 October (page 7), 16 October (page 5). Transcriptions in
+`transcribed/Daily_News_London_*`. Each page was searched with text recognition, then read by eye at every hit.
+
+### 80. THE REPRIEVE DATE: A HOME OFFICE LETTER DATED 3 OCTOBER 1883
+- **Daily News, Saturday 6 October, page 7,** "REPRIEVE OF THE WALTHAMSTOW MURDERER": "The following letter has been
+  received from the Home Office by the solicitor of the convict Gouldstone's employers:—'Whitehall, Oct. 3, 1883.—Sir,
+  —With reference to the applications forwarded by you in behalf of William Gouldstone, I am directed by the Secretary
+  of State to acquaint you that, having caused special medical inquiry to be made as to the state of this man's mind,
+  he has felt justified in advising her Majesty to respite the capital sentence.—I am, Sir, your obedient servant,
+  GODFREY LUSHINGTON.'"
+- **Preston Chronicle, Saturday 13 October:** the High Sheriff received the Home Office communication "on Wednesday
+  morning". 3 October and 10 October were both Wednesdays.
+- **Guardian, 26 September:** execution respited from 1 to 8 October pending the inquiry.
+**Assessment.** The Home Office decision is dated Wednesday 3 October 1883 on a letter printed verbatim. The 18
+September correction was right on the evidence then held ("3 October" had no source); it now has one. The Preston
+Chronicle's "Wednesday" is most naturally the same Wednesday (the Sheriff's letter and the solicitor's the same day),
+but a weekly of the 13th could mean the 10th; not decidable from the text. **Recommended reading: the reprieve was
+decided and communicated on Wednesday 3 October 1883.** The DO NOT USE entry "3 October 1883 for the reprieve" should
+be withdrawn and replaced with the source. **Rik to confirm.** Also new: the employers had a solicitor, who forwarded
+"the applications" (plural); unnamed.
+
+### 61. RESOLVED: THE SECOND MAGISTRATE ON 18 AUGUST WAS ARTHUR LISTER
+Daily News, 20 August, page 6: "Mr. Nathaniel Powell (the Chairman) and Mr. Arthur Lister were the magistrates."
+
+### 81. THE DAILY NEWS REPORT OF THE COMMITTAL (20 August, page 6)
+Partly the same copy as the IPN and Guardian (Cheeseman, Gould, the Wells/Batchelor exchange, abridged); partly its
+own. New: the magistrates named (61); "By Mr. Powell" for the question about the money (in the IPN/Guardian copy it
+runs on under Atkinson); Cheeseman "I made a note of the conversation a few minutes afterwards"; "the other little
+——" and "five —— children", two words suppressed (bears on the Chapter Nine "bloody" decision); Atkinson's own reason
+for the insanity questions, "his only desire was to get something on the depositions before it went to a judge and
+jury" (as in the Times). Ada "detailed the evidence given by her on the last-named occasion" (the inquest): no
+cross-examination reported at all.
+
+### 82. THE MEDICAL INQUIRY ANNOUNCED (Daily News, Saturday 22 September, page 6)
+"The Central News states that the Home Secretary is about to cause a medical inquiry to be held into the mental
+condition of William Gouldstone". Agency copy. Dates the announcement to 21 or 22 September.
+
+### 83. REMOVAL TO BROADMOOR, MONDAY 15 OCTOBER (Daily News, Tuesday 16 October, page 5)
+"Yesterday William Gouldstone ... was removed from Chelmsford Prison to Broadmoor Criminal Lunatic Asylum, in
+accordance with the order of the Home Secretary." A second source for the date, independent of Graves (Guardian,
+20 October).
+
+### THE "COMMUTATION" CLIPPING IS THE LIVERPOOL DAILY POST OF 1 OCTOBER
+`transcribed/Communtation in newspaper.txt` (no title, no date) is the same text, word for word, as the Liverpool
+Daily Post of 1 October. The Post is now its identified source. Note that "He is either a murderer of the worst type
+or an irresponsible lunatic" is the NEWSPAPER'S comment; master-index.md had attributed the argument to the BMJ
+(corrected there).

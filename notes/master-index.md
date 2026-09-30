@@ -383,7 +383,7 @@ Book section: Part Three
 **Commutation notice**
 `transcribed/Communtation%20in%20newspaper.txt`
 Status: READ
-Key content: "He is either a murderer of the worst type or an irresponsible lunatic." BMJ arguing penal servitude wrong — should be criminal lunatic asylum.
+Key content: "He is either a murderer of the worst type or an irresponsible lunatic." The NEWSPAPER (identified 30 September 2026 as the Liverpool Daily Post, 1 October) arguing, against the BMJ, that penal servitude would be wrong and he should go to a criminal lunatic asylum.
 Book section: Part Three
 
 **The Penny Illustrated Paper, 6 October 1883**
@@ -391,6 +391,13 @@ Book section: Part Three
 Status: READ
 Key content: Dr Orange "entertains no doubt of his insanity." NOTE: a subsequent unrelated article about a Mrs Pole appears in the same issue — earlier research conflated the two. The suggestion that William's mother was found dead does NOT appear in this article and should NOT be used.
 Book section: Part Three
+
+**Daily News, 6 October 1883** — `transcribed/Daily_News_London_06_October_1883_transcription.txt`
+Status: READ. The Home Office letter, "Whitehall, Oct. 3, 1883", advising the respite of the capital sentence (Contradiction 80).
+
+**Daily News, 16 October 1883** — removal to Broadmoor "Yesterday" (Monday 15 October).
+
+**Commutation notice** above: the same text as the Liverpool Daily Post, 1 October 1883 (`transcribed/Liverpool_Daily_Post_1_Oct_1883_transcription.txt`). NB its "He is either a murderer..." is the newspaper's own comment, not the BMJ's.
 
 **Preston Chronicle, 13 October 1883**
 `transcribed/Preston_Chronicle_13_Oct_removal_to_Broadmoor.txt`
