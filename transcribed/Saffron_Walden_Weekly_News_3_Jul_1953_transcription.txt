@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Saffron_Walden_Weekly_News_1953_07_03_13.jpg (795 x 5178)
+Source image: sources/images/Media-coverage/Saffron_Walden_Weekly_News_1953_07_03_13.jpg (795 x 5178)
 Newspaper/title if visible: section heading "SAFFRON WALDEN NEWS"; the Saffron Walden Weekly News, per the file name
 Date if visible: not visible; Friday 3 July 1953, page 13, per the file name
 Page/column/article if known: one column of local news paragraphs

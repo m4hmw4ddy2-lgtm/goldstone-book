@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Liverpool_Daily_Post_Oct_11883.jpg (515 x 428)
+Source image: sources/images/Media-coverage/Liverpool_Daily_Post_Oct_11883.jpg (515 x 428)
 Newspaper/title if visible: not visible in the clip; the Liverpool Daily Post, per the file name
 Date if visible: not visible; Monday 1 October 1883, per the file name ("Oct_11883")
 Page/column/article if known: one paragraph, headed "COMMUTATION OF GOULDSTONE'S SENTENCE."

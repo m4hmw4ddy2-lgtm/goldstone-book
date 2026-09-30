@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Daily_News_London_11_August_1883_0006_Clip.jpg (868 x 4214)
+Source image: sources/images/Media-coverage/Daily_News_London_11_August_1883_0006_Clip.jpg (868 x 4214)
 Newspaper/title if visible: not visible in the clip; the Daily News (London), per the file name
 Date if visible: not visible; Saturday 11 August 1883, per the file name (page 6). The report says "yesterday" of
 the inquest, which opened on Friday 10 August.

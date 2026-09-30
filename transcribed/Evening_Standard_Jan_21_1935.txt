@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Evening Standard Jan 21 1935.png (the Newspapers.com clipping page). A second, cropped copy of the same clipping is sources/images/Media-coverage/Evening_Standard_21_Jan_1935_Death_of_William_G.jpg. CHECKED against the image 30 September 2026: no changes.
+Source image: sources/images/Media-coverage/Evening Standard Jan 21 1935.png (the Newspapers.com clipping page). A second, cropped copy of the same clipping is sources/images/Media-coverage/Evening_Standard_21_Jan_1935_Death_of_William_G.jpg. CHECKED against the image 30 September 2026: no changes.
 Newspaper/title if visible: Evening Standard (London, Greater London, England)
 Date if visible: Mon, 21 Jan 1935
 Page/column/article if known: Page 10; article clipping headed “Death After 52 Years in Broadmoor”

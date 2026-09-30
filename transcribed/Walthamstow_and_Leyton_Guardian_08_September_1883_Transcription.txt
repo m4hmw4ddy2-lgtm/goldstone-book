@@ -2,7 +2,8 @@ Source image: sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_08_Se
 Newspaper/title if visible: not visible in the clip; the Walthamstow and Leyton Guardian, per the file name and the
 letter's own heading
 Date if visible: not visible; SATURDAY, SEPTEMBER 8, 1883, per the file name (page 6). The letter is dated 5 September.
-Page/column/article if known: page 6, Letters to the Editor; one letter, "THE WALTHAMSTOW TRAGEDY"
+Second source image: sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_08_September_1883_0006_Clip-2.jpg (788 x 581), the enclosed letter, printed immediately below
+Page/column/article if known: page 6, Letters to the Editor; the vicar's letter, "THE WALTHAMSTOW TRAGEDY", and the fellow-workmen's letter it encloses
 Transcription scope: the letter. The foot of the letter above ("Sept. 6.") is at the top edge of the clip and is not
 part of this item.
 Transcription status: COMPLETE for the letter. Transcribed 30 September 2026 from the image.
@@ -21,18 +22,40 @@ I shall be happy to receive subscriptions for the purposes named in the accompan
                                         T. H. GRANTHAM ROBINSON.
 St. Saviour's Vicarage, Walthamstow, Sept. 5.
 
+[The enclosed letter follows, printed directly below. Source: the Clip-2 image.]
+
+                                        67, Upper Thames-street, E.C., Sept. 5, 1883.
+Reverend Sir,—We, the fellow-workmen of William Gouldstone, the poor man now awaiting his trial for the murder of
+his five children at Walthamstow, have been doing what is in our power to collect money to employ a good counsel
+for the purpose of proving, what we all believe, that Gouldstone was out of his mind when he committed the act. We
+are quite sure that he went out of his mind when his wife bore him twins. We think, too, that if you would kindly
+write a letter to the papers something might be collected more than is required for the lawyers, to provide for
+the poor wife. We can see our way to get £20 among ourselves. As he is to be tried next week, we hope you will not
+mind seeing to this at once.—I am, reverend sir, your humble servant,
+                                        WM. GRAVES, for Self and Fellow-Workmen.
+To the Rev. T. H. Grantham Robinson,
+     Vicar of Walthamstow.
+
 TRANSCRIBER'S NOTES
 
-1. THE ENCLOSED LETTER IS NOT IN THE CLIP. The vicar says he encloses the fellow-workmen's letter and refers to "the
-   purposes named in the accompanying letter". If the paper printed it, it will be immediately below or beside this
-   one on page 6. It is very probably the workmen's memorial and appeal (see the issue of 15 September: "a memorial
-   expressing their belief in his insanity", £20 raised "for the purpose of procuring legal assistance"). Needed.
+1. THE ENCLOSED LETTER, found by Rik the same evening (Clip-2): signed "Wm. Graves, for Self and Fellow-Workmen",
+   67 Upper Thames-street, 5 September. So Graves DID write in September, but on the 5th, printed on the 8th; not the
+   15th (Contradiction 74). "The purposes named in the accompanying letter" are two: "to employ a good counsel for the
+   purpose of proving ... that Gouldstone was out of his mind", and, if more came in than the lawyers needed, "to
+   provide for the poor wife". The £20 is their own ("We can see our way to get £20 among ourselves"). "£20" is
+   slightly blurred in the image; it agrees with the Guardian of 15 September.
 2. "he had never absented himself a single day from his work": the vicar's "on inquiry", not evidence. Graves, the
    foreman, swore William was absent on Tuesday 7 and Wednesday 8 August. Presumably meant of his working life before
    that week.
 3. "talking of his desire not to live and of committing suicide": compare Robert Gouldstone at the Old Bailey ("he
    wished himself dead at times; I have heard him say so"). Here, before the trial, from the vicar's inquiries.
-4. The purpose of the subscription has moved. On 9 August (issue of 11 August) the vicar asked for "a few pounds to
+4. The purpose of the subscription has moved (and see note 5). On 9 August (issue of 11 August) the vicar asked for "a few pounds to
    provide present necessities" for Elizabeth; the leader of 1 September hoped to "start her in some way of
    business"; here the money is for "the purposes named in the accompanying letter", which by the issue of 15
    September means his legal defence.
+5. "We are quite sure that he went out of his mind when his wife bore him twins": the workmen's own dating of it,
+   before any medical evidence. Compare Ada ("after that date I noticed a great difference in the prisoner") and
+   Elizabeth's own later account, that the change began about twelve months before. The workmen put Elizabeth second, and conditionally:
+   whatever is "more than is required for the lawyers". Graves's letter of 11 October records the outcome: £36
+   raised, £50 of costs, nothing for her.
+6. "Vicar of Walthamstow": Graves's address; Grantham Robinson was vicar of St Saviour's.
