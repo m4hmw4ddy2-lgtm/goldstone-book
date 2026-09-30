@@ -50,6 +50,23 @@
 
 **THE SHAPE OF BOTH CHAPTERS IS NOW AGREED.** Nothing is drafted.
 
+**DECIDED 30 September 2026 (Rik), during drafting:**
+- Movement one (arrival) stands as drafted.
+- **"I reserve my defence", option (b).** The form (0025) records the words under "Whereupon the said William
+  Gouldstone saith as follows", unsigned. Every paper that names a speaker gives them to Atkinson (Daily News:
+  "Mr. Atkinson saying he would reserve his defence"; IPN and Guardian: "Mr. Atkinson intimating that the accused would
+  reserve his defence"; the Times neutral, "reserving his defence"). The prose sets both side by side, without comment.
+  The skeleton's "his only words in the day's record" framing is withdrawn: the record does not show he spoke them.
+  Rik, same day: forms of this kind recorded what was said on the prisoner's behalf, so the form does not show that
+  William spoke. Prose states both: the clerk wrote "I reserve my defence" on the form as the prisoner's statement and
+  left the space for a signature empty; the papers report that Atkinson said it. No choosing between them.
+- **Confirmed by Rik, 30 September 2026:** Ada "recalled and resworn", never "read over"; the "wished the children
+  dead" answer from the Times, attributed; "speciality" is Gould's in the Times (the IPN/Guardian/Daily News copy gives
+  it to Wells); Twining's "If it was necessary at the trial he would, of course, have to do so" (Guardian and IPN);
+  Honey's sworn "loose round the child's neck"; the transcription fixes to Ada, Cheeseman and Honey (applied, with a
+  checked note in each file's header); "evidently probing poverty" removed from MASTER_NOTES.
+- **Movement one is still being worked on by Rik.** Movement two drafted and shown; not assembled.
+
 **Still open:** the "1st June" reading and its consequence for Chapter Six; permission to propagate the fifteen
 corrections below; and the research items under OPEN BEFORE DRAFTING, of which only the Guardian of 25 August could
 change Chapter Twelve materially.
@@ -443,7 +460,7 @@ Chapter Thirteen candidates, all from sources in hand and all within its own wee
   court, which is where the Spectator's "evidence" must have been given.
 - **Who the second justice was on 18 August.** Powell signs; the cover says two justices; Lister asks a question
   (Times). Lister is the likely second, not confirmed.
-- **Which House of Detention.** Still open. New evidence, not a resolution: Cole, a Surrey case committed to the
+- **Which House of Detention.** ~~Still open.~~ **DECIDED 30 September 2026 (Rik): Clerkenwell, stated as fact (Contradiction 66).** Original entry: New evidence, not a resolution: Cole, a Surrey case committed to the
   Central Criminal Court, was held at **Clerkenwell** House of Detention (Tuke). That shows Clerkenwell took Central
   Criminal Court committals from outside Middlesex in the same autumn. It does not show William was there.
 
@@ -572,6 +589,8 @@ Either way, what William told him goes in as the vicar's indirect report, never 
 **DECIDE 9. Chapter Twelve's last line.** The ending on the crowd (DECIDE 7) stands, now with the Guardian's cordon
 and brougham beside the Times. Candidate last beat: "safely lodged at Clerkenwell", quoted as the Guardian's. Only if
 Rik is content to name Clerkenwell on a press source (Contradiction 66).
+**DECIDED 30 September 2026 (Rik): Clerkenwell is fact.** The chapter may say he was taken to Clerkenwell in its own
+voice; the Guardian's "safely lodged" wording stays optional.
 
 ## FOUR MORE GUARDIAN ITEMS, 30 September 2026: WHAT THEY ADD TO CHAPTERS TWELVE AND THIRTEEN
 See the timeline file, Contradictions 70 to 76.

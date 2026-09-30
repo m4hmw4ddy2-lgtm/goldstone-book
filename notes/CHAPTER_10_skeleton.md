@@ -732,3 +732,10 @@ first across the break. Either can carry the fact; both together is a repeat. No
 The skeleton's "WHAT IS NOT IN THIS CHAPTER" put the committal, the Cole copycat and the press sensation
 in "Chapter Eleven". Since the split of 23 September they move to **Chapter Twelve** at the earliest. Not
 yet planned.
+
+## CHAPTER TEN, ONE LINE CHANGED 30 September 2026 (Rik)
+Movement three, 11 August: "The charge was read over, all five children in one indictment now." cut back to "The charge
+was read over." Two faults: "indictment" is the wrong word at a magistrates' hearing (the indictment is what the grand
+jury found a true bill on in September), and "now" implied the twins had not been in the charge before, when the
+Thursday paragraph already has him charged with their murder, and Folkard charged him with all five at 8.30 on 9 August.
+The reading of the charge is kept as a real step in that day's hearing.
