@@ -102,7 +102,7 @@ The hearing was in the largest of the three courts, yet still two or three hundr
 
 Two of his brothers came to him in the cells of the court. The Illustrated Police News, which had a man there, thought it worth printing what they found: "He seemed calm and perfectly unconcerned at his position."
 
-Four magistrates sat, Powell in the chair with Spicer, Glenny and Lister, who had been on the bench on the Thursday as well. Mr Atkinson appeared again for the defence. The charge was read over, all five children in one indictment now.
+Four magistrates sat, Powell in the chair with Spicer, Glenny and Lister, who had been on the bench on the Thursday as well. Mr Atkinson appeared again for the defence. The charge was read over.
 
 "Upon being placed in the dock, [he] nodded complacently in recognition to Mrs. Hamilton, a lodger at 8, Courtenay-place, and nurse to Mrs. Gouldstone, but Mrs. Hamilton, who was seated with other witnesses at the side of the court facing the dock, did not appear to notice the nod of the prisoner."
 
