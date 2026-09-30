@@ -2859,3 +2859,15 @@ irresponsible lunatic." The date comes from the file name only. Press; usable fo
 ### SAFFRON WALDEN WEEKLY NEWS, 3 JULY 1953 (family, Part Five or Six)
 The funeral of Cecil Edgar Housden, husband of Rose Elizabeth Gouldstone (Bennett's daughter, named for Elizabeth
 Stock), on Tuesday 23 June 1953. Mourners listed; the list is cut off at the foot of the clip. The rest is needed.
+
+### 75, COMPLETED: THE FELLOW-WORKMEN'S LETTER FOUND (Guardian, 8 September, page 6; Rik, 30 September 2026)
+Printed below the vicar's letter. Signed "Wm. Graves, for Self and Fellow-Workmen", 67 Upper Thames-street, dated
+5 September 1883, addressed to Grantham Robinson. They are collecting "to employ a good counsel for the purpose of
+proving, what we all believe, that Gouldstone was out of his mind when he committed the act. We are quite sure that
+he went out of his mind when his wife bore him twins." If the vicar writes to the papers, "something might be
+collected more than is required for the lawyers, to provide for the poor wife". "We can see our way to get £20 among
+ourselves." **So Contradiction 74 needs a qualification:** there IS a Graves letter in the Guardian in September,
+dated the 5th and printed on the 8th; there is still none on the 15th, and the "fortunate in their lodgers" remark is
+still Clarke's. This is the "memorial" the 15 September paragraph refers to, or its covering letter; the paragraph
+does not say. Graves's known public letters are now two: 5 September and 11 October. **The money thread in its own
+words:** lawyers first, "the poor wife" from any surplus; on 11 October, £36 against £50 and nothing for her.

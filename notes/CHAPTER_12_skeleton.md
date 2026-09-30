@@ -583,8 +583,9 @@ See the timeline file, Contradictions 70 to 76.
 - **Wednesday 5 September.** Grantham Robinson writes to the Guardian (printed 8 September) enclosing the
   fellow-workmen's letter, and asks for subscriptions: "a most excellent character ... never absented himself a
   single day from his work ... remarkable sobriety ... a kind husband and father ... talking of his desire not to live
-  and of committing suicide". The workmen's own letter is not in the clip. **Needed:** the rest of page 6 of
-  8 September.
+  and of committing suicide". Printed below it, the workmen's own letter (Graves, 5 September): a good counsel "for the purpose of proving, what
+  we all believe, that Gouldstone was out of his mind"; "quite sure that he went out of his mind when his wife bore
+  him twins"; any surplus "to provide for the poor wife"; £20 among themselves. FOUND 30 September.
 - **Monday 10 September.** Commissioner Kerr charges the grand jury: the prisoner's "observations" after the twins'
   deaths might suggest "he was not aware of the consequences of his acts", but "That, however, was not a question for
   the Grand Jury to consider." A third tribunal setting insanity aside for another (after the Bench of 18 August).
