@@ -1446,3 +1446,11 @@ Mortuary" (same file); the OS sheet of the cemetery is the six-inch, revised 189
 explaining the three tribunals was added at the head of Chapter Ten's movement two, with its sources in
 `notes/part_three_context_law_and_medicine.md`; Chapter Ten line 143 was corrected ("Instead" and "the bedroom"
 removed); and `notes/acknowledgements_running_list.md` was started.
+
+### 30 September 2026 (late): quotation fixes in Chapters Eight, Nine and Eleven (Rik)
+- **Chapter Nine:** both station lines now follow Folkard's coroner deposition of 10 August, words and punctuation
+  as written, handwriting capitals made ordinary; the unsourced "sir" in Cheeseman's line removed (timeline file,
+  Contradiction 65).
+- **New convention, all manuscript quotations:** keep a clerk's words and punctuation, not his handwriting capitals.
+- **Chapter Eight:** the vicar's visit reduced to the fact alone; the 10 August letter's words moved to Chapter
+  Eleven, where the letter is dated (linear rule). See the timeline file, section after Contradiction 65.

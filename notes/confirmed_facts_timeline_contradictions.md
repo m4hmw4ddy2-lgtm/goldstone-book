@@ -2648,3 +2648,26 @@ writing rule that quotations keep their source's punctuation, the comma should b
 **Also from that session:** Gould's coroner deposition fixes ("oozing", "no marks of violence", "on the right side
 of the head & face", "stout string") are already in the repository and in Chapter Eleven. Folkard's "Albert" is
 handled as Rik decided here: manuscript reading restored with [sic].
+
+### 65. CHAPTER NINE'S TWO STATION LINES: ONE SOURCE, ONE TREATMENT (30 September 2026, Rik)
+- **Folkard, coroner deposition, 10 August (image 0037):** Cheeseman: "this is a Charge of Murder. This Man has
+  murdered his five Children." William: "that is right Sir. I did it and now I am happy. I did it like a man too."
+- **Chapter Nine before this entry:** Cheeseman's line tidied ("This is a charge of murder, sir," with a "sir" the
+  deposition does not have, and a comma for the full stop); William's line restored to the deposition, capital
+  "Sir" included. Two lines from the same document, treated two different ways.
+**Decision (Rik, option 2).** Both lines follow the deposition's words and punctuation; the clerk's handwriting
+capitals are made ordinary. Chapter Nine now reads: Cheeseman told him: "This is a charge of murder. This man has
+murdered his five children." and "That is right sir. I did it and now I am happy. I did it like a man too." The
+opening capital of each spoken sentence is ours. **DONE 30 September 2026.**
+**Convention adopted, applies to every manuscript quotation in the book:** a clerk's words and punctuation are
+kept; his handwriting capitals (Charge, Murder, Man, Children, Sir, Mortuary, Chemist and the like) are not. A
+grep of every chapter on 30 September found no other manuscript quotation affected ("Murder!" in the Prologue is a
+shouted word, not a clerk's capital).
+
+### CHAPTER EIGHT AND CHAPTER ELEVEN: GRANTHAM ROBINSON'S LETTER OF 10 AUGUST (30 September 2026, Rik)
+Chapter Eight's paragraph on the vicar's visit said the same thing twice and quoted a letter dated 10 August in
+the chapter about the night of the 8th, against the linear rule. Chapter Eight now keeps the fact only: "Within a
+few hours of the murders the Reverend T. H. Grantham Robinson, vicar of St Saviour's, had been to see her." The
+letter's words ("wonderfully composed but very weak"; "devoid of all comfort, even the plainest food") move to
+Chapter Eleven, where the letter is already introduced and dated ("On the Friday, the day the inquest opened").
+**DONE 30 September 2026.**
