@@ -1,0 +1,18 @@
+Source image: sources/images/Media-coverage/Daily_News_London_20_August_1883_0004_Clip.jpg (5524 x 7442)
+Newspaper/title if visible: the Daily News (per the file name)
+Date if visible: Monday 20 August 1883, page 4, per the file name
+Page/column/article if known: page 4 (leader page), one paragraph in the news summary
+Transcription scope: the one paragraph. The page was searched (text recognition, then by eye at the hit): no leader
+on the case, and nothing on Cole.
+Transcription status: COMPLETE. Transcribed 30 September 2026 from the image.
+
+TRANSCRIPTION
+
+The man Wm. Gouldstone, who is charged with murdering his five children at his residence, 8, Courtenay-place,
+Walthamstow, on the 8th inst., was again brought up before the magistrates at Stratford on Saturday. The evidence of
+Mrs. Ada Hamilton, who acted as nurse to the wife of the accused, was recapitulated, and that of the constables and the
+doctor who had charge of the case added, after which the prisoner was committed for trial.
+
+TRANSCRIBER'S NOTES
+
+1. A digest of the page 6 report of the same day (Daily_News_London_20_August_1883_p6_transcription.txt). Nothing new.

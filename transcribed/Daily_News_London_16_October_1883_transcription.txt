@@ -1,0 +1,18 @@
+Source image: sources/images/Media-coverage/Daily_News_London_16_October_1883_0005_Clip.jpg (5519 x 7317)
+Newspaper/title if visible: the Daily News (per the file name; running head not checked)
+Date if visible: Tuesday 16 October 1883, page 5, per the file name
+Page/column/article if known: page 5, last column, foot; one paragraph among short news items
+Transcription scope: the one paragraph. Nothing else on the page concerns the case ("Robinson" and "Whitehall"
+elsewhere on the page are unrelated).
+Transcription status: COMPLETE. Transcribed 30 September 2026 from the image.
+
+TRANSCRIPTION
+
+Yesterday William Gouldstone, the Walthamstow murderer, was removed from Chelmsford Prison to Broadmoor Criminal
+Lunatic Asylum, in accordance with the order of the Home Secretary.
+
+TRANSCRIBER'S NOTES
+
+1. "Yesterday" in a paper of Tuesday 16 October: Monday 15 October 1883. Agrees with the Broadmoor admission date and
+   with Graves's letter of 11 October / Guardian of 20 October ("left H.M.'s Prison, Chelmsford, on Monday morning").
+   A second, independent source for the date of removal.

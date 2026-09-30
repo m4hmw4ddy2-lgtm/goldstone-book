@@ -20,6 +20,8 @@ the worst type or an irresponsible lunatic.
 
 TRANSCRIBER'S NOTES
 
+0. The same text as transcribed/Communtation in newspaper.txt (untitled, undated clipping): this Post page identifies it.
+
 1. Date from the file name only; the clip shows no date. Monday 1 October 1883 was the original date fixed for the
    execution, before the respite to 8 October (Guardian, 26 September).
 2. The BMJ passage it quotes is the BMJ of 29 September (transcribed/BMJ_29_September_1883_Transcription.txt), which

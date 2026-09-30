@@ -1,0 +1,18 @@
+Source image: sources/images/Media-coverage/Daily_News_London_22_September_1883_0006_Clip.jpg (5556 x 7403)
+Newspaper/title if visible: the Daily News (per the file name)
+Date if visible: Saturday 22 September 1883, page 6, per the file name
+Page/column/article if known: page 6, one paragraph near the foot of a news column
+Transcription scope: the one paragraph
+Transcription status: COMPLETE. Transcribed 30 September 2026 from the image.
+
+TRANSCRIPTION
+
+THE WALTHAMSTOW MURDERS.—The Central News states that the Home Secretary is about to cause a medical inquiry to be
+held into the mental condition of William Gouldstone, who was sentenced to death for the murder of his five children at
+Walthamstow on the 8th August.
+
+TRANSCRIBER'S NOTES
+
+1. An agency (Central News) paragraph: likely printed widely the same day. One witness, however many papers ran it.
+2. Dates the public announcement of the inquiry to Friday 21 or Saturday 22 September: eight days after the sentence,
+   four days before the respite of 26 September. The BMJ of 29 September, on commutation, follows.

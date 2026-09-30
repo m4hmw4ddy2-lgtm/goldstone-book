@@ -1,0 +1,29 @@
+Source image: sources/images/Media-coverage/Daily_News_London_06_October_1883_0007_Clip.jpg (5522 x 7435)
+Newspaper/title if visible: the Daily News (running head cut; date line "...RDAY, OCTOBER 6, 1883.", page 7)
+Date if visible: SATURDAY, OCTOBER 6, 1883 (running head)
+Page/column/article if known: page 7, column 4 (literary "Other Notes" column), one paragraph near the foot
+Transcription scope: the one paragraph. The rest of the page (police courts, law notices, bankruptcies,
+advertisements) has nothing on the case.
+Transcription status: COMPLETE. Transcribed 30 September 2026 from the image at full resolution. Spelling and
+punctuation as printed.
+
+TRANSCRIPTION
+
+REPRIEVE OF THE WALTHAMSTOW MURDERER.—The following letter has been received from the Home Office by the solicitor
+of the convict Gouldstone's employers:—"Whitehall, Oct. 3, 1883.—Sir,—With reference to the applications forwarded by
+you in behalf of William Gouldstone, I am directed by the Secretary of State to acquaint you that, having caused
+special medical inquiry to be made as to the state of this man's mind, he has felt justified in advising her Majesty to
+respite the capital sentence.—I am, Sir, your obedient servant, GODFREY LUSHINGTON."
+
+TRANSCRIBER'S NOTES
+
+1. THE HOME OFFICE DECISION IS DATED WEDNESDAY 3 OCTOBER 1883. A Home Office letter, quoted in full, signed by Godfrey
+   Lushington (at the Home Office; Assistant Under-Secretary in 1883, Permanent Under-Secretary from 1885 -- TO VERIFY). This is a press printing of a primary document, not a
+   reporter's summary. See the timeline file, Contradiction 80: the reprieve date.
+2. "respite the capital sentence": the formal language. The respite of 26 September had put the execution back a week
+   (1 to 8 October) pending the inquiry; this letter, after the inquiry, advises a respite of the sentence itself, i.e.
+   no execution. Removal to Broadmoor followed on 15 October (Daily News, 16 October).
+3. "the solicitor of the convict Gouldstone's employers": the first sign that the firm (Kennard's, 67 Upper Thames
+   Street) had a solicitor acting, and that "the applications" (plural) went through him. Compare Graves's letters of
+   5 September and 11 October: the workmen raised money for the defence. The solicitor is not named.
+4. "special medical inquiry": Orange and a second physician (Sunday Dispatch, 30 September: Clarke; Contradiction 20).
