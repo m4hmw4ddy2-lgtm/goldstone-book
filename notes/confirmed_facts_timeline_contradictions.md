@@ -360,7 +360,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 | 22 Sep | BMJ first article; Savage's Lancet letter | BMJ; Lancet |
 | 26 Sep | Execution respited until 8 October | Guardian 26 Sep |
 | 30 Sep | Sunday Dispatch: formal respite; Dr Clarke and Dr Orange examined William (6-7 hours) | Sunday Dispatch |
-| 3 Oct | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Daily News, 6 Oct; Contradiction 80). **REOPENED 30 September 2026.** Previous entry: c.10 Oct, formal reprieve — **corrected 18 September 2026: "3 Oct" was unsourced, citing only the project instructions document, which in turn had no primary source at all. Best reading now: Preston Chronicle (pub. Sat 13 Oct) has the Sheriff receiving notice "Wednesday morning" — counting back, 10 October. Inferred, not confirmed; see MASTER_NOTES.md.** |
+| 3 Oct | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Daily News, 6 Oct; Contradiction 80). **CONFIRMED by Rik, 30 September 2026.** Previous entry: c.10 Oct, formal reprieve — **corrected 18 September 2026: "3 Oct" was unsourced, citing only the project instructions document, which in turn had no primary source at all. Best reading now: Preston Chronicle (pub. Sat 13 Oct) has the Sheriff receiving notice "Wednesday morning" — counting back, 10 October. Inferred, not confirmed; see MASTER_NOTES.md.** |
 | 6 Oct | BMJ Medical News; BMJ editorial pp682-683; Penny Illustrated | Multiple |
 | 13 Oct | Preston Chronicle: certified of unsound mind; to be removed to Broadmoor | Preston Chronicle |
 | 15 Oct 1883 (Monday) | William leaves Chelmsford prison in custody of warders Lanham and Parker, 7.45am train to Liverpool Street, en route to Broadmoor | Walthamstow and Leyton Guardian, 20 Oct 1883 (Graves's own letter) |
@@ -2891,7 +2891,7 @@ September correction was right on the evidence then held ("3 October" had no sou
 Chronicle's "Wednesday" is most naturally the same Wednesday (the Sheriff's letter and the solicitor's the same day),
 but a weekly of the 13th could mean the 10th; not decidable from the text. **Recommended reading: the reprieve was
 decided and communicated on Wednesday 3 October 1883.** The DO NOT USE entry "3 October 1883 for the reprieve" should
-be withdrawn and replaced with the source. **Rik to confirm.** Also new: the employers had a solicitor, who forwarded
+be withdrawn and replaced with the source. **CONFIRMED by Rik, 30 September 2026. DO NOT USE entry withdrawn.** Also new: the employers had a solicitor, who forwarded
 "the applications" (plural); unnamed.
 
 ### 61. RESOLVED: THE SECOND MAGISTRATE ON 18 AUGUST WAS ARTHUR LISTER
