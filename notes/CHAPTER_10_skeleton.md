@@ -8,7 +8,7 @@
 
 ## SECOND REVISION, 22 September 2026, LATE — THE LOCAL PAPER
 
-`sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_18_August_1883_0005_Clip.jpg`
+`sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_18_August_1883_0005_Clip.jpg`
 was in the repository, untranscribed, throughout the work above. It is the Walthamstow and Leyton
 Guardian's own coverage of the entire week: the inquest opening with the jury named, the Saturday hearing,
 the funeral in detail, the resumed inquest, a character sketch of William, and two letters. It is now

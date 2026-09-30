@@ -786,6 +786,8 @@ from confusional insanity & later became demented."
 ---
 
 ### 34. "I'VE DONE IT, I'VE DONE IT" — WILLIAM CARRYING FREDERICK
+**Update 30 September 2026:** the Walthamstow and Leyton Guardian of 25 August prints the same words in the same shared
+copy. Still one press witness; both page images checked. See the Guardian section at the end of this file.
 - **Ada, cross-examined by Atkinson (IPN 25 Aug, press report of sworn evidence):** "I went to see if they were dead or alive, when I saw him carrying the first one. He seemed very excited—not absent or wandering, but excited. He said, 'I've done it, I've done it.'"
 - **Ada's witness statement, coroner deposition and Old Bailey:** no words at that moment. Chapter Seven has him silent.
 
@@ -850,7 +852,7 @@ Ada's Old Bailey evidence (14 September 1883) carries a third beat in the bedsid
 1. Where did William attempt to drown himself on the morning of 8 August?
 2. Does Elizabeth's fuller narrative to the Home Secretary survive in HO 144?
 3. Does Dr Orange/Clarke's examination report survive in HO 144?
-4. What does the Walthamstow Guardian 11 August 1883 add? (Copy at Waltham Forest Archives)
+4. ~~What does the Walthamstow Guardian 11 August 1883 add?~~ ANSWERED 30 September 2026: see Contradictions 70 and 71 and the transcription.
 5. When was Courtenay Place demolished? **Narrowed, 14 September 2026**: not in the 1881 census, present at No. 8 in 1891, numbering breaks 7 to 9 by 1901, street gone by 1911 — so sometime in the 1890s. Exact date and reason still unknown.
 6. ~~Clarke's residence on ground floor — probable but not sourced~~ **Resolved, 14 September 2026**: confirmed by elimination — Ada's coroner deposition accounts for every room on the first floor (Gouldstones and Hamiltons), leaving nothing for the Clarkes but the ground floor. See MASTER_NOTES.md.
 7. Ada moving the chair back afterward — appears in press but not in sworn primary documents. Note: Ada's noticing the chair and questioning who moved it is a separate claim and is confirmed, sworn, in the coroner deposition, Ada's own witness statement, and the Old Bailey trial transcript — see session_updates_2026-07-08.md and the corrected item 3 in master-index.md, Section 9.
@@ -2381,6 +2383,8 @@ the jury", "By Mr Poland", "Cross-examined" or "Re-examined" is a heading over t
 answers. It never means the named person is speaking. Check this before quoting any such line.
 
 ### OPEN QUESTION, logged 23 September 2026: which House of Detention?
+**ANSWERED ON A PRESS SOURCE, 30 September 2026: the Walthamstow and Leyton Guardian, 25 August, "safely lodged at
+Clerkenwell". See Contradiction 66. The text below is kept as the record of the question.**
 Prompted by Rik asking whether Maryland Point needs clarifying in the prose. It did, and one word
 fixed it: the Daily Chronicle calls it "the Maryland Point Station of the Great Eastern Railway",
 and the prose now says "Maryland Point station". **The other place-name in the same sentence is the
@@ -2450,7 +2454,7 @@ tribunal: "Before the magistrates, Ada was still the only witness who had been c
 **What happened.** The transcription of the Walthamstow and Leyton Guardian of 18 August ran from "to be
 responsible for what any member of the jury" at the foot of column 4 straight to "...day, is simply that"
 at the head of column 5, and **marked no gap**. Twenty lines were missing. They are fully legible on the
-repository image (`sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_18_August_1883_0005_Clip.jpg`),
+repository image (`sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_18_August_1883_0005_Clip.jpg`),
 at the foot of column 4, and have now been transcribed. The same check found that the marked "GAP" in PC
 Cheeseman's evidence at the foot of column 3 was not a gap either; it is legible and is now transcribed.
 The transcription file carries CORRECTED notes at both places.
@@ -2671,3 +2675,187 @@ few hours of the murders the Reverend T. H. Grantham Robinson, vicar of St Savio
 letter's words ("wonderfully composed but very weak"; "devoid of all comfort, even the plainest food") move to
 Chapter Eleven, where the letter is already introduced and dated ("On the Friday, the day the inquest opened").
 **DONE 30 September 2026.**
+
+---
+
+## THE WALTHAMSTOW AND LEYTON GUARDIAN OF 25 AUGUST 1883, OBTAINED 30 September 2026
+Page image supplied by Rik; transcribed in full for the Gouldstone material:
+`transcribed/Walthamstow_and_Leyton_Guardian_25_August_1883_Transcription.txt`. Four items: a leader paragraph;
+the report of the committal of 18 August; a paragraph on the crowds and the removal; the close of Grantham
+Robinson's sermon of Sunday 19 August. **The court report is shared copy with the IPN of 25 August**, word for
+word bar small differences (listed at the foot of the transcription). One witness, not two. But it is the first
+page IMAGE of that text in the repository, so it now checks the unchecked IPN transcription.
+
+### 66. WHICH HOUSE OF DETENTION: "SAFELY LODGED AT CLERKENWELL"
+- **Guardian, 25 August (its own paragraph, not in the IPN):** "the prisoner was brought direct from the House of
+  Detention to the court in a brougham ... In this brougham the prisoner was driven off, and safely lodged at
+  Clerkenwell."
+- **Cole, Old Bailey:** Cole held at the Clerkenwell House of Detention from 20 August (context, not proof).
+**Assessment.** The first source in the archive to name the place. Press, local, and specific; nothing against it.
+The open question (logged 23 September) is now answered on a press source. **DECIDE (Rik):** whether prose may
+now say Clerkenwell as fact, or only as the Guardian's words.
+
+### 67. THE VICAR'S VISIT, FRIDAY 17 AUGUST, AND HIS SERMON, SUNDAY 19 AUGUST (NEW)
+Grantham Robinson, in his own sermon as printed: "On Friday last I saw the unhappy man ... at the House of
+Detention". What William told him is given only in the vicar's indirect report. See his entry in
+dramatis_personae.md. The sermon was preached on the Sunday evening of the day James Cole killed his son. Place:
+Chapter Thirteen's plan, see CHAPTER_12_skeleton.md, DECIDE 8.
+
+### 68. HONEY'S "TEN O'CLOCK"
+- **Honey, sworn statement of 18 August:** "about 10 minutes to 6".
+- **Guardian and IPN (one text):** "At about ten o'clock on Aug. 8" (IPN "August 9").
+**Assessment.** A reporter's garbling of "ten to six". The sworn time stands. Not for use.
+
+### 69. "THE DAUGHTER OF THE LATE MR. JOHN ANSELL, JUNR."
+- **Guardian, 25 August, leader:** Elizabeth "a native of Wethersfield, being the daughter of the late Mr. John
+  Ansell, junr."
+- **Her GRO birth certificate:** father Thomas Stock; mother "Jemima Stock, late Ansell formerly Suckling". John
+  Ansell, her mother's first husband, died 15 April 1845, ten years before Elizabeth was born.
+**Assessment.** Wrong as fact. Worth noting that somebody in Walthamstow in August 1883 connected her with the Ansell
+name, which she never bore on any record we hold; the source of the paragraph is unknown. Note it; do not
+interpret it. The same paragraph has William's father "a master blacksmith" at Great Sampford, "previously ... in
+business at Wethersfield", and the Finchingfield Band; check against Thomas Gouldstone's own entry before use.
+
+### CONTRADICTION 34 AND "YOU WISHED THEM DEAD": STATUS UNCHANGED
+The Guardian has "I've done it, I've done it" and "I have murdered all your children; you wished them dead, and now
+you have got your wish" in Ada's cross-examination, exactly as the IPN does. Shared copy: still ONE press witness.
+Neither is in Ada's sworn deposition of 18 August. Both wordings are now confirmed from the page images of both
+papers, nothing more.
+
+### CONTRADICTION 37: THE GUARDIAN'S PLACING OF "NOW"
+Guardian: "I have done it; now I am happy, and am ready for the rope", as in the Times of 20 August. The IPN, as
+printed (image checked 30 September), has "I have done it now, I am happy": the same copy, with the stop set
+differently by one of the two compositors. Under the shared-copy rule the Guardian and the IPN are one witness, and
+that witness is split, so it adds nothing either way. The reading adopted on 22 September rests, as it always did,
+on the unpunctuated sworn statement, the Times, and William's own pattern of words.
+
+### IPN 25 AUGUST TRANSCRIPTION, CHECKED AGAINST ITS OWN IMAGE AND THE GUARDIAN'S (30 September 2026)
+The IPN page image is now in the repository (sources/images/Media-coverage/IPN p2 Aug 25 1883.png) and the
+transcription has been read against it in full. It was accurate except for the cistern sentence. "Tunic" is printed
+in the IPN (the Guardian's setting has "cord"); "blacksmith" and "August 9" are printed in the IPN too. The cistern
+passage, as printed in both papers: "It was the top of it that was 6ft. from the floor. The top of it to the ceiling was about
+10in., the cistern being about 14in. deep." The Guardian adds "and some coppers" to Cheeseman's account of the
+money and "upstairs" to "I went into the kitchen". "Whitesmith" (Guardian) against "blacksmith" (IPN, as printed).
+
+### THE CROWD AND THE REMOVAL, 18 AUGUST: TWO PRESS ACCOUNTS
+- **Times, 20 August:** "The police had much difficulty in getting him away from the station without his being
+  seen by the large crowd".
+- **Guardian, 25 August (own paragraph):** crowds outside the courthouse and at Stratford Main and Maryland Point
+  railway stations, "disappointed, as the prisoner was brought direct from the House of Detention to the court in
+  a brougham"; after the committal "a large contingent of the K and N divisions were requisitioned, and a cordon
+  drawn round the brougham and magistrates' entrance".
+**Assessment.** Compatible. The Times's "station" is most likely the police station at the court, not a railway
+station; the Guardian explains why the railway crowds saw nothing. Both press. Unlike the 11th (Chapter Ten), he did
+not walk from the railway station: he came and went by brougham.
+
+### THE GUARDIAN: WHAT THE BNA HAS AND HASN'T (Rik, 30 September 2026)
+- **No coverage before 18 August** comes up in a BNA search. But the 18 August issue says "Since our last issue the
+  prisoner has been again brought before the magistrates", so the 11 August issue DID report the case, at least the
+  first Stratford hearing. Either the issue is not digitised or the search missed it. Next step: browse to 11 August
+  by date; if absent, Waltham Forest Archives.
+- **1 September, page 5: nothing on the case.** But page 4 carries, besides the leader, a report of the Club Minstrels'
+  entertainment (CORRECTED later the same day, when Rik uploaded it; the line previously here said it was not
+  reported). No subscription list; nothing on the Rev. T. Jackson's meeting.
+- **15 September, page 5: obtained the same evening.** Not a trial report (the paper went to press on the morning of
+  the trial) but the sessions, the true bill, the arraignment and the workmen's memorial. See below.
+
+## FIVE MORE GUARDIAN ITEMS, UPLOADED BY RIK AND TRANSCRIBED 30 September 2026
+Transcriptions in `transcribed/`: Walthamstow_and_Leyton_Guardian_11_August_1883, _01_September_1883_Workmens_Hall,
+_08_September_1883, _15_September_1883 (each _Transcription.txt). The 25 August file's source line now points at the
+uploaded image.
+
+### 70. A NEWSPAPER CUTTING IN HIS POCKET (Guardian, 11 August, press only)
+"When searched at the police-station a cutting from a newspaper was found in his possession, containing an account
+of two recent murders." The Guardian's own narrative, written on Friday 10 August, unattributed. No sworn document
+mentions a search or a cutting; no other paper in the repository has it. **Status:** press only, one paper, source
+unknown. Under the press rule it may be quoted as what the Guardian printed. Not to be stated as fact. Worth a search
+of the Old Bailey account and Folkard's depositions for any mention of what was found on him; none known.
+
+### 71. GRANTHAM ROBINSON'S FIRST LETTER, THURSDAY 9 AUGUST (Guardian, 11 August)
+"I have just seen Mrs. Gouldstone. She is very weak and prostrate, utterly stunned, but most resigned. The family
+lived in two rooms wretchedly furnished, and I found no nourishment whatever in the house." He asks "for a few
+pounds to provide present necessities". **A different and earlier letter** from the one of Friday 10 August (Guardian,
+18 August: "wonderfully composed but very weak ... devoid of all comfort, even the plainest food"). Two letters, a
+day apart, describing the same visit in different words: "utterly stunned, but most resigned" and "wonderfully
+composed". **Bearing on the chapters:** Chapter Eight's "Within a few hours of the murders ... had been to see her"
+stands (the 9 August letter says "just seen"). Chapter Eleven's "On the Friday ... he had written to the Guardian"
+is true of the second letter, but the first had been printed on the Saturday before the funeral, in the issue the
+town was reading. For Rik: whether Chapter Ten or Eleven should know of the first letter. No prose changed.
+
+### 72. THE ARRAIGNMENT, WEDNESDAY 12 SEPTEMBER (Guardian, 15 September)
+Before Mr Justice Watkin Williams: pleaded not guilty "in a firm tone", "perfectly calm and composed"; Elliott applied
+for the trial to be put off to Friday because the defence witnesses could not attend before then; Poland did not
+oppose; the judge acceded although it meant a judge sitting "specially". **New dated event** between the true bill
+(11th) and the trial (14th). Bears on DECIDE for Chapter Thirteen's ending (CHAPTER_12_skeleton.md).
+
+### 73. "DEFENDED BY MR. FORREST FULTON"
+Guardian, 15 September: "the prisoner will be defended by Mr. Forrest Fulton"; in the next paragraph "Mr. Elliott, for
+the prisoner" applies for the postponement. Grain and Elliott defended at the trial. Unresolved. Do not state that
+Fulton was briefed and replaced; that is inference.
+
+### 74. CORRECTION: THE 15 SEPTEMBER MATERIAL IS A NEWS PARAGRAPH, NOT GRAVES'S LETTER
+MASTER_NOTES (session of 15 September 2026) and dramatis_personae.md (Graves) attributed the memorial, the £20, Forrest
+Fulton and the sessions officials to "Graves's letter, Guardian 15 September". The page image shows them in an
+unsigned news paragraph, "THE WALTHAMSTOW TRAGEDY", and Graves is not named. **The remark about being "fortunate"
+in their lodgers is not Graves's at all:** it is Charles Clarke, the landlord, in the Guardian of 18 August (and the
+IPN of the same date, shared copy): "Mr. Clark, their landlord, stated that it was only a day or two before he
+remarked to his wife how very fortunate they were in their present lodgers". Chapter Six already has it right, as
+Clarke's. Only the notes were wrong. Corrected in MASTER_NOTES and dramatis_personae.md. No Graves letter of
+15 September is known; his only known letter is that of 11 October.
+
+### 75. THE VICAR'S LETTER OF 5 SEPTEMBER (Guardian, 8 September)
+Encloses a copy of a letter from William's fellow-workmen (NOT in the clip; probably printed alongside; needed). "I
+find on inquiry that he bore a most excellent character, that he had never absented himself a single day from his
+work, that he was a man of remarkable sobriety, and had always been a kind husband and father. He has on several
+occasions exhibited symptoms of insanity, such as talking of his desire not to live and of committing suicide."
+**Against it:** Graves's sworn evidence that William was absent on 7 and 8 August. The vicar's "on inquiry", not
+evidence. **The purpose of the money shifts** across the vicar's letters: "present necessities" for Elizabeth
+(9 August), then subscriptions "for the purposes named in the accompanying letter" (5 September), which the issue of
+15 September shows to be legal assistance for William. Read with Graves's letter of 11 October (£36 raised against
+£50 of legal costs, nothing left for Elizabeth).
+
+### 76. THE CLUB MINSTRELS, TUESDAY 28 AUGUST (Guardian, 1 September, page 4)
+The benefit entertainment for Elizabeth at the Workmen's Hall: hall lent free, crowded, a blackface minstrel troupe of
+local amateurs, all performers named. No sum given. The leader on the same page calls it "a travesty"; the report is
+warm.
+
+### THE 11 AUGUST FIRST-HEARING REPORT: SHARED COPY
+Same text as the Daily Telegraph (10 August), the Pall Mall Gazette (9 August) and the IPN (18 August). One witness.
+It completes the IPN transcription, which breaks off mid-sentence, and adds the remand exchange: Wells asks Craggs if he
+wants a remand; Atkinson asks to put questions; Lister: "Do you think your case will be improved by cross-examining
+now, or will you reserve it?"; Atkinson: "I leave it entirely in your hands"; remanded to Saturday. It confirms Chapter
+Ten's account of Atkinson deferring his cross-examination.
+
+## SIX MORE PRESS IMAGES, UPLOADED BY RIK AND CHECKED OR TRANSCRIBED 30 September 2026
+New transcriptions: Daily_News_London_11_August_1883, Derby_Daily_Telegraph_9_Aug_1883, Liverpool_Daily_Post_1_Oct_1883,
+Saffron_Walden_Weekly_News_3_Jul_1953 (each _transcription.txt). Checked against images for the first time: "Ad for next
+IPN issue" ("PURKISS" corrected to "PURKESS"; the notice is in the IPN of 18 August) and the Evening Standard of
+21 January 1935 (no change).
+
+### 77. THE DAILY NEWS OF 11 AUGUST, NOW SEEN
+The inquest report the notes have quoted since 15 September without an image. **Shared copy with the Evening News of
+11 August: one reporter, one witness.** So "three weeks" (Contradictions 21 and 58) is one press figure, not two.
+Checked against the image, the notes had two things wrong (corrected in MASTER_NOTES): Elizabeth's "I have my doctor to
+pay" comes after the constable is in the house, not "on the door opening"; and this report does NOT have William
+telling Elizabeth "Your other three children are in the cistern" ("She told me that he had murdered the other three
+children"). "Attended by a medical man" is printed, and is no longer a discrepancy (Mr Sutton, Contradiction 23).
+Also in it: Cheeseman's "I have done it. Now I am happy. I am ready for the rope." (Contradiction 37; the "now" opens
+the second sentence, as in Chapter Seven); "the other little ——, I soon settled him", with the word printed as a
+dash (compare the Chapter Nine decision on "bloody"); the charge that night "with having murdered these three
+children" (the Evening News transcription reads "five"); "The hammer produced I received from Mrs. Hamilton"
+(Cheeseman).
+
+### 78. THE DERBY DAILY TELEGRAPH OF 9 AUGUST: A SEPARATE, SHORT TELEGRAM
+Not the wire dispatch. Three sentences: "drowned three of his children in a water butt", one twin killed and the other
+"mortally" injured, and "The cares of a large and growing family are believed to have upset his mind". The first
+printed motive, and the first printed suggestion of a disordered mind, on the morning after. Press only.
+
+### 79. THE LIVERPOOL DAILY POST OF 1 OCTOBER
+The Home Secretary "has requested two physicians to examine the convict"; quotes the BMJ (29 September) on commutation
+to penal servitude for life, with "of the sentence" where the BMJ has "of his punishment"; argues penal servitude would
+be "absurd", he should go to "a criminal lunatic asylum", and "He is either a murderer of the worst type or an
+irresponsible lunatic." The date comes from the file name only. Press; usable for the respite week.
+
+### SAFFRON WALDEN WEEKLY NEWS, 3 JULY 1953 (family, Part Five or Six)
+The funeral of Cecil Edgar Housden, husband of Rose Elizabeth Gouldstone (Bennett's daughter, named for Elizabeth
+Stock), on Tuesday 23 June 1953. Mourners listed; the list is cut off at the foot of the clip. The rest is needed.

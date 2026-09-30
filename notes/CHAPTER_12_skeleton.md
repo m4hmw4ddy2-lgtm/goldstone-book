@@ -63,7 +63,7 @@ deposition of 18 August (0010 to 0012) and the foot of her 9 August statement (0
 Folkard (0017), Wheatley (0021, 0022), Gould (0023, 0024). Every press text in `transcribed/` that reports the
 18 August hearing or anything between it and the trial: The Times, 20 August (checked against the image at the
 two passages that matter); the Bury Free Press, 23 August; the Illustrated Police News, 25 August (page 2, text
-only: **the source image is not in the repository**, see below); the Walthamstow and Leyton Guardian, 1 September;
+only at the time; **image obtained and checked 30 September 2026**); the Walthamstow and Leyton Guardian, 1 September;
 the Liverpool Mercury, 10 September; The Times, 12 September; Elizabeth's statement in the Essex Weekly News,
 21 September, for the one passage that falls in this period. Both IPN front covers (18 and 25 August), read from
 the images. On Cole: nothing in `transcribed/` or `notes/` beyond the bare entry; the Spectator of 25 August 1883
@@ -71,9 +71,8 @@ the images. On Cole: nothing in `transcribed/` or `notes/` beyond the bare entry
 Journal of Mental Science, January 1884, quoted at length by Clark Bell in `sources/pdfs/The_Medico-legal_journal.
 _Volume_2,_Issue_3,_December_1884...pdf`. The fourth standing rule held again: the grep found it before the web did.
 
-**Not obtained, and it limits the chapter:** the Walthamstow and Leyton Guardian of 25 August (the local account of
-the committal; its 18 August issue was the best single source for Chapters Ten and Eleven), and of 8 and
-15 September; the IPN 25 August page image; any report of Cole's inquest or police-court hearing; the two BMJ pieces
+**Not obtained, and it limits the chapter:** ~~the Walthamstow and Leyton Guardian of 25 August~~ **OBTAINED 30 September
+2026, see the section "THE GUARDIAN OF 25 AUGUST" at the end of this file**; the Guardian of 8 and 15 September; the IPN 25 August page image; any report of Cole's inquest or police-court hearing; the two BMJ pieces
 on Cole (Vol. 2, 1883, pp. 829 and 880; Europe PMC refused the request); Cole's Old Bailey record (Old Bailey Online
 refused access).
 
@@ -82,8 +81,8 @@ refused access).
 ## THE DAYS, PINNED TO SOURCES
 
 - **Monday 13 August.** Verdict of wilful murder; the coroner's warrant. Chapter Eleven ends here.
-- **Tuesday 14 to Friday 17 August.** Nothing dated. William on remand; the sources call where he was held "the
-  House of Detention" and never name it (see the open question in the timeline file).
+- **Tuesday 14 to Friday 17 August.** William on remand at "the House of Detention" (named as Clerkenwell only by the
+  Guardian of 25 August, Contradiction 66). **Friday 17 August:** Grantham Robinson visits him there (Contradiction 67).
 - **Saturday 18 August, morning.** The examination and committal at the Court House, Great Eastern Road,
   Stratford, "in the Court-house of the Half-Hundred of Becontree Division" (Times). In the dock "shortly after
   eleven o'clock" (IPN). **Six deponents, sworn before two justices** (cover, image 0043); every deposition and the
@@ -107,8 +106,8 @@ refused access).
 - **Undated, between 18 August and 14 September.** Elizabeth sees William "three times at the House of
   Detention" (her own statement, Essex Weekly News, 21 September). He writes her at least one letter from there,
   in which "he spoke of them as being in heaven, where he hopes soon to join them" (same). The Graves workshop
-  raises £20 for his defence (Graves's letter, Guardian 15 September, not in the repository; known only from the
-  notes).
+  raises £20 for his defence and presents a memorial of belief in his insanity (Guardian, 15 September, a news
+  paragraph, now transcribed; not Graves's letter, Contradiction 74).
 
 ---
 
@@ -435,11 +434,10 @@ Chapter Thirteen candidates, all from sources in hand and all within its own wee
 ---
 
 ## OPEN BEFORE DRAFTING
-- **Walthamstow and Leyton Guardian, 25 August 1883** (and 8 and 15 September). Highest priority. Waltham Forest
-  Archives or the BNA. The local reporter's account of the committal, and the paper that printed the relief notices.
-- **The IPN of 25 August, page 2, as an image.** The transcription is marked "Needs review" and cannot be checked:
-  "the piece of tunic I produce" is almost certainly "twine"; "Mr. H. Batchelor" against the Times's "Batcheler";
-  the dock detail and "I've done it, I've done it" rest on it.
+- ~~**Walthamstow and Leyton Guardian, 25 August 1883**~~ OBTAINED 30 September 2026. Still wanted: 8 and 15 September.
+- ~~**The IPN of 25 August, page 2, as an image.**~~ OBTAINED AND CHECKED 30 September 2026. "Tunic" is the IPN's own
+  misprint (the Guardian has "cord"). "Batchelor" is the spelling in both papers; the Times has "Batcheler". The dock
+  detail and "I've done it, I've done it" are confirmed as printed, in one shared text.
 - **The Spectator, 25 August 1883, p. 3**, read from the page image, for the exact Cole wording (and 18 August, p. 3).
 - **Cole's date and inquest.** A daily of 20 or 21 August (The Times; a Croydon paper) for the inquest or police
   court, which is where the Spectator's "evidence" must have been given.
@@ -537,3 +535,78 @@ Per standing rule two, each needs propagating to every file that carries it. Lis
   reading: the clerk's compression of one answer. Do not build on either.
 - **60. Twining's absence.** "Very ill" (Batcheler, IPN only). Single press source.
 - **61. Who stood beside Powell.** Two justices on the cover; only Powell signs; Lister questions Gould (Times).
+
+---
+
+## THE GUARDIAN OF 25 AUGUST, OBTAINED 30 September 2026: WHAT IT CHANGES
+Transcription: `transcribed/Walthamstow_and_Leyton_Guardian_25_August_1883_Transcription.txt`. Findings logged in
+the timeline file (section of the same name; Contradictions 66 to 69).
+
+**What it does not change.** The court report is the IPN's text (shared copy), so Chapter Twelve's evidence has no
+new witness. The cross-examination is exactly as already planned. Movement 1 stands.
+
+**What it changes or adds:**
+1. **His arrival and departure (movement 1, first and last beats).** He came direct from the House of Detention in a
+   brougham; crowds at Stratford Main and Maryland Point railway stations waited for him and were disappointed; a
+   crowd outside the courthouse; after the committal a cordon of K and N division men round the brougham and the
+   magistrates' entrance; "driven off, and safely lodged at Clerkenwell". Press, attributed. It fits with the
+   Times's crowd and adds the concrete detail DECIDE 7 was short of. It also marks a difference from the 11th in
+   Chapter Ten, when he walked from the railway station.
+2. **Clerkenwell (Contradiction 66).** The first source to name the House of Detention.
+3. **The vicar's visit (Contradiction 67).** Grantham Robinson saw William at the House of Detention on Friday
+   17 August, and described it in his sermon on the evening of Sunday 19 August, the day Cole killed his son.
+4. **For Chapter Thirteen, under the press rule:** the leader's letter to the prisoner signed "A Voice from the
+   embryo English Revolution" (sympathy with him for putting the children "out of their misery"; "May peace and
+   tranquillity be with you until you are relieved of an existence in a world where cunning preys upon ignorance
+   as wolves upon sheep"), and the paper's verdict that its writer was "a fit candidate for a lunatic asylum". Also
+   the leader's own view: "His demeanour ... go far to establish a belief in his insanity", "were there no gleam of
+   insanity in his eyes, prove him to be of weak intellect, or of a very depraved mind". The local paper arguing
+   the question the Bench refused to hear, a week after the Bench refused it.
+
+**DECIDE 8. The vicar's visit and sermon.** (a) Chapter Thirteen, opening on the Sunday evening: the sermon as
+preached, with the Friday visit inside it as the vicar told it. The sermon is itself an event of the 19th, so this
+is not a forward reference under the linear rule. Recommended. (b) Chapter Twelve, as a Friday prelude before the
+Saturday. Against: Chapter Twelve is agreed as one day, and the only source for the Friday is the Sunday sermon.
+Either way, what William told him goes in as the vicar's indirect report, never in quotation marks as William's.
+
+**DECIDE 9. Chapter Twelve's last line.** The ending on the crowd (DECIDE 7) stands, now with the Guardian's cordon
+and brougham beside the Times. Candidate last beat: "safely lodged at Clerkenwell", quoted as the Guardian's. Only if
+Rik is content to name Clerkenwell on a press source (Contradiction 66).
+
+## FOUR MORE GUARDIAN ITEMS, 30 September 2026: WHAT THEY ADD TO CHAPTERS TWELVE AND THIRTEEN
+See the timeline file, Contradictions 70 to 76.
+
+**Chapter Thirteen, new dated material, in order:**
+- **Tuesday 28 August.** The Club Minstrels' benefit for Elizabeth at the Workmen's Hall; hall lent free, crowded
+  (Guardian, 1 September, page 4). With the leader of the same day (already planned), a before-and-after: the report
+  warm, the leader calling it "a travesty".
+- **Wednesday 5 September.** Grantham Robinson writes to the Guardian (printed 8 September) enclosing the
+  fellow-workmen's letter, and asks for subscriptions: "a most excellent character ... never absented himself a
+  single day from his work ... remarkable sobriety ... a kind husband and father ... talking of his desire not to live
+  and of committing suicide". The workmen's own letter is not in the clip. **Needed:** the rest of page 6 of
+  8 September.
+- **Monday 10 September.** Commissioner Kerr charges the grand jury: the prisoner's "observations" after the twins'
+  deaths might suggest "he was not aware of the consequences of his acts", but "That, however, was not a question for
+  the Grand Jury to consider." A third tribunal setting insanity aside for another (after the Bench of 18 August).
+- **Tuesday 11 September.** True bill.
+- **Wednesday 12 September. NEW.** Arraigned before Mr Justice Watkin Williams; pleaded not guilty "in a firm tone",
+  "perfectly calm and composed"; Elliott's application to put the trial off to Friday, because the defence witnesses
+  could not come sooner; Poland does not oppose; the judge agrees though it means sitting specially.
+- **The memorial and the £20** (Guardian, 15 September): undated, before the 15th.
+
+**DECIDE 10. Chapter Thirteen's last beat.** The agreed ending was the true bill (Tuesday 11). The arraignment on
+Wednesday 12 is now the last dated event before the trial. Options: (a) keep the true bill as the ending and open the
+trial chapter with the arraignment and the postponement; (b) end on the arraignment: "not guilty, in a firm tone", and
+the trial fixed for Friday. Recommended (b): linear, and the plea is William's first word in a court since "I reserve
+my defence". Kerr's charge fits either way, on the Monday.
+
+**The money thread, now sourced at every step:** "a few pounds to provide present necessities" for Elizabeth (vicar,
+9 August); "to start her in some way of business" (leader, 1 September); the Club Minstrels (28 August); subscriptions
+for "the purposes named in the accompanying letter" (vicar, 5 September); £20 raised by the workmen "for the purpose of
+procuring legal assistance" and an appeal to the public (15 September); £36 raised against £50 of legal costs, nothing
+left for her (Graves, 11 October). Told in order, the facts carry it; no comment needed.
+
+**Chapters Ten and Eleven (for Rik; no prose changed):** the Guardian of 11 August, on sale on the Saturday of the
+second Stratford hearing, carried the vicar's first letter ("utterly stunned, but most resigned"; "no nourishment
+whatever in the house") and the newspaper cutting of "two recent murders" said to have been found on William
+(Contradictions 70 and 71). Both are press, usable as the Guardian's words.

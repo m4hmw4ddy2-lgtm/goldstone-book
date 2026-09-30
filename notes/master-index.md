@@ -727,7 +727,7 @@ Book section: Part One
 2. Tuke and Savage, *The Cases of Gouldstone & Cole*, Lewes: H.W. Wolff, 1883
 3. Savage, Journal of Mental Science Vol.29, Issue 128, January 1884 (pp.534-539 and pp.603-607)
 4. Vestry House Museum: Gouldstone biography file; **Grantham Robinson biography file** (Rev. Thomas Harrison Grantham Robinson, first Vicar of St Saviour's, died March 1884 — add to email request); W28 St James's Street buildings file; rate books 1880-1900
-5. Walthamstow Guardian 11 August 1883 — copy at Waltham Forest Archives (now at Chingford Assembly Hall)
+5. ~~Walthamstow Guardian 11 August 1883~~ OBTAINED 30 September 2026 (BNA); transcribed
 6. Jade Shepherd, "I Am Very Glad and Cheered When I Hear the Flute" (Medical History, 2016)
 7. Jade Shepherd, "One of the Best Fathers until He Went Out of His Mind" (Journal of Victorian Culture, 2013)
 
