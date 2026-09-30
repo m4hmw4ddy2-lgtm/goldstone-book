@@ -12,7 +12,7 @@ Three or four minutes afterwards, Cheeseman wrote it down. He kept the note, and
 
 Inspector George Folkard was at the Lea Bridge Road station when they came in, about six o'clock. "This is a charge of murder, sir," Cheeseman told him. "This man has murdered his five children." Two of them were still alive.
 
-"That is right, sir. I did it, and now I am happy. I did it like a man too."
+"That is right Sir. I did it and now I am happy. I did it like a man too."
 
 He braced himself up as he said it, Folkard noticed. Folkard left him in custody and went to the house with Dr Gould, and William was put into a cell. Henry Wheatley, police constable 208 N, had charge of him, keeping watch from the passage outside. At about a quarter to seven, of his own accord, William spoke to him.
 
