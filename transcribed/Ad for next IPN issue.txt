@@ -1,9 +1,9 @@
-Source image: Ad for next IPN issue.png
+Source image: sources/images/Media-coverage/to-transcribe/Ad for next IPN issue.png (391 x 319)
 Newspaper/title if visible: The Illustrated Police News
 Date if visible: August 25th (year not visible)
 Page/column/article if known: Page 4; advertisement/notice
 Transcription scope: Visible advertisement for next issue
-Transcription status: Complete
+Transcription status: Complete. CHECKED against the image 30 September 2026: one correction, "PURKISS" to "PURKESS".
 
 TRANSCRIPTION
 
@@ -20,8 +20,8 @@ SHOCKING MURDER OF FIVE CHILDREN
 
 AT WALTHAMSTOW.
 
-"G." PURKISS, Office, 286, Strand.
+G. PURKESS, Office, 286, Strand.
 
 EDITORIAL NOTES
 
-The initial mark before “G.” PURKISS appears as a quotation mark in the image and has been transcribed as printed. Page number “4” is visible above the notice and is included in the metadata, not the transcription.
+The initial is damaged in the print; what looked like quotation marks round "G." are blemishes. George Purkess was the proprietor of the Illustrated Police News. NOTE: the notice sits on page 4 of an issue dated before 25 August ("NEXT SATURDAY (AUGUST 25TH)"), so it is in the IPN of 18 August. Page number “4” is visible above the notice and is included in the metadata, not the transcription.

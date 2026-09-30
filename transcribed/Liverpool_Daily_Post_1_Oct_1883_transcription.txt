@@ -1,0 +1,31 @@
+Source image: sources/images/Media-coverage/to-transcribe/Liverpool_Daily_Post_Oct_11883.jpg (515 x 428)
+Newspaper/title if visible: not visible in the clip; the Liverpool Daily Post, per the file name
+Date if visible: not visible; Monday 1 October 1883, per the file name ("Oct_11883")
+Page/column/article if known: one paragraph, headed "COMMUTATION OF GOULDSTONE'S SENTENCE."
+Transcription scope: the whole clip
+Transcription status: COMPLETE. Transcribed 30 September 2026 from the image. Spelling and punctuation as printed.
+
+TRANSCRIPTION
+
+COMMUTATION OF GOULDSTONE'S
+SENTENCE.
+
+The Home Secretary has requested two physicians to examine the convict Gouldstone, and report as to his mental
+condition. The British Medical Journal says that the Home Secretary intends to commute the sentence on Gouldstone to
+penal servitude for life, "the evidence of insanity being sufficient to justify a modification of the sentence." We
+venture to say that such a termination of the case would be absurd. If there is sufficient evidence of insanity to
+justify a commutation of the sentence, it would follow as a matter of course that Gouldstone would be sent, not into
+penal servitude, but to a criminal lunatic asylum, where he would be properly cared for. He is either a murderer of
+the worst type or an irresponsible lunatic.
+
+TRANSCRIBER'S NOTES
+
+1. Date from the file name only; the clip shows no date. Monday 1 October 1883 was the original date fixed for the
+   execution, before the respite to 8 October (Guardian, 26 September).
+2. The BMJ passage it quotes is the BMJ of 29 September (transcribed/BMJ_29_September_1883_Transcription.txt), which
+   reads "a modification of his punishment", not "of the sentence". The Post's quotation marks enclose its own
+   variant. Quote the BMJ from the BMJ.
+3. "two physicians": Orange and a second (Contradiction 20, Clarke or Gover). Unnamed here.
+4. Under the press rule, usable as what one paper argued in the week between the respite and the reprieve: that
+   penal servitude would be "absurd", and that he was "either a murderer of the worst type or an irresponsible
+   lunatic". In the event he went to Broadmoor, which is what the paper said should happen.
