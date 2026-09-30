@@ -1,16 +1,16 @@
 The Examination of
 Ada Hamilton
-of the Parish of Walthamstow in the County of Essex, wife of jeweller
+of the Parish of Walthamstow in the County of Essex Monthly nurse
 William Cheeseman
-of the Parish of Leyton in the County of Essex, Police Constable
+of the Parish of Leyton in the County of Essex Police Constable
 George Folkard
-of the Parish of Leyton in the County of Essex, Inspector of Police
+of the Parish of Leyton in the County of Essex Inspector of Police
 James Honey
-of the Parish of Leyton in the County of Essex, Police Constable
+of the Parish of Leyton in the County of Essex Police Constable
 Henry Wheatley
-of the Parish of Leyton in the County of Essex, Police Constable
+of the Parish of Leyton in the County of Essex Police Constable
 Henry Gould
-of the Parish of Leyton in the County of Essex, Surgeon
+of the Parish of Leyton in the County of Essex Surgeon
 taken on Oath this eighteenth day of August in the year of our Lord One Thousand Eight Hundred and Eighty Three
 at the Court House, Great Eastern Road, Stratford, in the County aforesaid, before the undersigned, two of Her Majesty's Justices of the Peace for the said County, in the presence and hearing of William Gouldstone
 who was charged this day before us for that he the said William Gouldstone
@@ -20,3 +20,9 @@ and for that he the said William Gouldstone on the eighth day of August 1883 at 
 and for that he the said William Gouldstone on the eighth day of August 1883 at the said parish of Walthamstow in the said County feloniously, wilfully and of his malice aforethought did kill and murder one Frederick Gouldstone
 and for that he the said William Gouldstone on the eighth day of August 1883 at the said parish of Walthamstow in the said County feloniously, wilfully and of his malice aforethought did kill and murder two infant male children, the children of the said William Gouldstone
 against the Peace of our Sovereign Lady the Queen, Her Crown and Dignity, and contrary to the Statute in such case made and provided.
+
+[TRANSCRIBER'S NOTE, 30 September 2026, checked against image 0043.]
+- This file is a single cover sheet (CRIM 1/19/2, folio 42), not a record of the proceedings. The depositions it heads are the 18 August statements filed under `sources/trial-docs/Witness statements/` (Ada Hamilton's resworn statement and cross-examination; Cheeseman; Folkard; Honey; Wheatley; Gould).
+- Occupations: an earlier transcription gave Ada as "wife of jeweller". The image reads "Monthly nurse". Corrected.
+- The printed form is headed "(11 & 12 Vict. c. 42.) Depositions of witnesses under s. 17", printed by P. T. Little, "Advertiser" Office, Stratford, E. It is a form for theft: "did feloniously steal, take and carry away" and "of the total value of … of the Goods and Chattels of one" are printed and struck through.
+- "before the undersigned, two of Her Majesty's Justices of the Peace". Every deposition of 18 August is signed by Nath. Powell alone. The Times of 20 August has Gould "re-called by Mr. Lister", so Lister was on the bench; that he was the second justice is likely, not confirmed.
