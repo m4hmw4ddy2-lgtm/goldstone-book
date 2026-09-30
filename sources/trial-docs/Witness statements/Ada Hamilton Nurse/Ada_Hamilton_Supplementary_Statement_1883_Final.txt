@@ -2,7 +2,11 @@ SUPPLEMENTARY STATEMENT – ADA HAMILTON
 Pages 010–012 of 12
 Resworn, 18 August 1883
 
-I have known prisoner since the 7th June last.
+[CORRECTED 30 September 2026 against manuscript images 0011 and 0012. This is the record of Ada's cross-examination by Mr Atkinson at the examination of 18 August, after her statement of 9 August was read over and resworn; "Supplementary Statement" is a transcriber's label, not the document's. Corrections: (1) "7th June" is a misreading; the manuscript reads "1st June", matching the IPN of 25 August, which reports the same answer as "since the 1st of June". (2) The pawning answer had been dropped and replaced with words not in the document. (3) The marginal heading was omitted. See notes/CHAPTER_12_skeleton.md, corrections 1 and 2.]
+
+[margin:] Mr Atkinson Cross-exd
+
+I have known prisoner since 1st June last.
 
 I have had ample opportunity of observing prisoner’s demeanour.
 
@@ -22,7 +26,7 @@ I never heard him complain of being short of money.
 
 Never heard him talk of not being able to support the children.
 
-Never heard him complain of his wife, or of showing his temper.
+Never heard him complain of his wife pawning his things.
 
 Never heard him say a cross word to his wife.
 
