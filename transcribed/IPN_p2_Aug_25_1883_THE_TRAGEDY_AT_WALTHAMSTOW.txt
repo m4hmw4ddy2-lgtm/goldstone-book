@@ -3,7 +3,7 @@ Newspaper/title if visible: THE ILLUSTRATED POLICE NEWS
 Date if visible: [not visible in requested crop]
 Page/column/article if known: Lower half of left column and upper half of right column; article headed “THE TRAGEDY AT WALTHAMSTOW.”
 Transcription scope: From “THE TRAGEDY AT WALTHAMSTOW.” through “reserve his defence.”
-Transcription status: Needs review
+Transcription status: Needs review. The source image (IPN, 25 August 1883, page 2) is NOT in the repository, so this text cannot be checked; "the piece of tunic I produce" is almost certainly "twine". NOTE 30 September 2026: this is a report of the examination and committal of Saturday 18 August 1883; 25 August is the publication date.
 
 TRANSCRIPTION
 
