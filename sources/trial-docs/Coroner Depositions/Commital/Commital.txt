@@ -11,3 +11,10 @@ Whereupon the said William Gouldstone saith as follows:
 "I reserve my defence."
 Taken and made before me, this eighteenth day of August 1883.
 Nath. Powell Justice of the Peace
+
+[TRANSCRIBER'S NOTE, 30 September 2026, checked against images 0025 and 0026.]
+- MISFILED: despite its folder, this is not a coroner's document. It is the magistrates' form "N. (11 & 12 Vict. c. 42.) Statement of the accused, under s. 18", printed by Shaw and Sons, Fetter Lane, taken at Stratford on 18 August 1883 at the close of the examination (see `sources/trial-docs/Magesterial Examination Stratford/`). The coroner's own committal was his warrant of 13 August, which is not in the archive.
+- The form is printed for theft; "did feloniously steal, take and carry away" is struck through.
+- The printed footnote (b) reads: "Here state whatever the prisoner may say, and in his very words, as nearly as possible. Get him to sign it if he will." There is no signature or mark of William Gouldstone on the document. Only Powell signs, as "J. P. for Essex".
+- Section 18 of 11 & 12 Vict. c. 42 (the Indictable Offences Act 1848) is the section the Criminal Evidence Act 1898 expressly preserves in proviso (h) to section 1. See `notes/part_three_context_law_and_medicine.md`.
+- Image 0026 is the docket wrapping the depositions: "Cen. Criminal Court Sept 10th 1883 / A31638 / 9 / Regina on the Prosn of Henry Craggs v William Gouldstone / Murder / Depositions", with a Home Office stamp dated 17 SEP 1883.
