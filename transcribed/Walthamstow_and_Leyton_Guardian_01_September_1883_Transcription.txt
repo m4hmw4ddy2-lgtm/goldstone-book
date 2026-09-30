@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_01_September_1883_0004_Clip.jpg (722 x 2210)
+Source image: sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_01_September_1883_0004_Clip.jpg (761 x 2225; a re-crop of the 722 x 2210 image this was first transcribed from, same article)
 Newspaper/title if visible: The Walthamstow and Leyton Guardian (full masthead visible)
 Date if visible: SATURDAY, SEPTEMBER 1, 1883
 Page/column/article if known: leading article, single column, complete

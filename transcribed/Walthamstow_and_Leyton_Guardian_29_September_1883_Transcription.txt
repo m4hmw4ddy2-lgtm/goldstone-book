@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_29_September_1883_0005_Clip.jpg (736 x 1766)
+Source image: sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_29_September_1883_0005_Clip.jpg (736 x 1766)
 Newspaper/title if visible: not visible in the crop; the file is from the Walthamstow and Leyton Guardian
 Date if visible: not visible in the crop; the filename gives 29 September 1883
 Page/column/article if known: single column, complete item

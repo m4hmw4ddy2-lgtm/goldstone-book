@@ -1,4 +1,4 @@
-Source image: sources/images/Media-coverage/to-transcribe/Walthamstow_and_Leyton_Guardia_20_October_1883_0005_Clip.jpg (745 x 823)
+Source image: sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_20_October_1883_0005_Clip.jpg (745 x 823)
 Newspaper/title if visible: not visible in the crop; the file is from the Walthamstow and Leyton Guardian
 Date if visible: not visible in the crop; the filename gives 20 October 1883 (a Saturday)
 Page/column/article if known: two consecutive items in a single column

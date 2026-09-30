@@ -1,0 +1,305 @@
+Source image: sources/images/Media-coverage/Walthamstow_and_Leyton_Guardia_25_August_1883_0005_Clip.jpg (4735 x 6187)
+Newspaper/title if visible: THE WALTHAMSTOW & LEYTON GUARDIAN
+Date if visible: SATURDAY, AUG. 25, 1883 (masthead line, top left)
+Page/column/article if known: full page, seven columns. The Gouldstone material fills column 1, column 2, and the
+head of column 3, in four items: (1) a leader paragraph, "THE WALTHAMSTOW TRAGEDY"; (2) the report of the
+examination and committal at Stratford on Saturday 18 August; (3) a paragraph on the crowds and the prisoner's
+removal; (4) the close of the Vicar of St Saviour's sermon of Sunday 19 August, which describes his visit to the
+prisoner at the House of Detention on Friday 17 August.
+Transcription scope: items (1) to (4), in full. Columns 3 (from "FLOWER SHOW AT ST. SAVIOUR'S SCHOOLS") to 7 are
+not transcribed and contain no Gouldstone material in the first three columns' remainder.
+Transcription status: COMPLETE for items (1) to (4). Transcribed 30 September 2026 from column crops of the image,
+each doubtful reading checked at twice the size. Two printed readings that look like errors are kept as printed
+and flagged: "the late Mr. John Ansell, junr." and Honey's "At about ten o'clock". Spelling and punctuation as
+printed; line-end hyphens closed up.
+
+SHARED COPY. Item (2), the court report, is the same text as the Illustrated Police News of 25 August
+(transcribed/IPN_p2_Aug_25_1883_THE_TRAGEDY_AT_WALTHAMSTOW.txt), word for word except for the differences listed
+at the foot of this file. Count the two as ONE witness to the hearing of 18 August, not two. Items (1), (3) and
+(4) are not in the IPN transcription and are, so far as the repository shows, the Guardian's own.
+
+=========================================================================
+COLUMN 1
+=========================================================================
+
+THE WALTHAMSTOW TRAGEDY.
+
+This sad occurrence is still the subject of pitying comment, and it might be thought that the only feeling which
+could possibly be evoked by the narrative of such a tragedy would be one of pure and unalloyed sorrow. We find,
+however, that there is at least one mind on which it has not had such an influence. A letter of a most singular
+character, signed "A Voice from the embryo English Revolution," has been sent to the prisoner. The writer
+expresses sympathy with the prisoner, and states that instead of seeing his children half-fed and neglected the
+prisoner had had the resolution to put them all out of their misery. After a tirade against the Houses of
+Parliament, the writer concludes:—"May peace and tranquillity be with you until you are relieved of an existence
+in a world where cunning preys upon ignorance as wolves upon sheep." We should think the writer of such a letter
+is a fit candidate for a lunatic asylum.
+
+It appears that the prisoner Gouldstone belongs to a respectable family, and that he himself was well conducted
+until this sad occurrence. He is said to be a native of Great Sampford, where his father now resides and carries
+on the business of a master blacksmith. Previously Mr. Gouldstone, senr., was in business at Wethersfield, and
+when he left for Sampford his son William went to London, where he has since worked as a whitesmith. The poor
+mother of the murdered children, for whom great sympathy is expressed in her terrible bereavement, is also a
+native of Wethersfield, being the daughter of the late Mr. John Ansell, junr. It is stated that the prisoner is
+rather a clever musician; and, indeed, at one time his father, his brothers, and himself almost entirely
+constituted the Finchingfield Band. He may have been all that is now said on his behalf; yet it is but too
+painfully evident that he has not been very healthy-minded, or that his religious training has been somewhat
+defective. And this is the more unaccountable, seeing that when a boy he attended a Sunday School, and was a
+member of the Church choir. His demeanour since the dreadful occurrence, and especially the statements which he
+has made, go far to establish a belief in his insanity. He has alluded to his children as "My five —— kids!" and
+said, "They are in Heaven, if there be such a place." These expressions are a sorry burlesque on his religious
+experiences, and were there no gleam of insanity in his eyes, prove him to be of weak intellect, or of a very
+depraved mind.
+
+[rule]
+
+On Saturday, at the Stratford Petty Sessions William Gouldstone, 26 years of age, described as a whitesmith, who
+lived at 8, Courtenay-place, St. James's-street, Walthamstow, was charged on remand with having murdered his five
+children on the 8th inst.—namely, Charles Gouldstone, aged three years and a half; Herbert Gouldstone, two years
+and a half old; and Frederick Gouldstone, aged 16 months, by drowning them in a cistern; and two twin infants,
+seven days old, by striking them on the head with a hammer. Mr. H. Batchelor conducted the prosecution on behalf
+of the Treasury authorities, and Mr. J. W. Atkinson, solicitor, Stratford, represented the accused.
+
+The prisoner, against whom a coroner's jury has already returned a verdict of "wilful murder" was placed in the
+dock shortly after eleven o'clock. After a hurried glance at the crowded court, he quietly folded his arms across
+the dock-rail, and while the charge was being read he again gazed round the court, nodding, with a smile, to some
+one whom he recognised. The accused, while maintaining an unconcerned aspect, so far as regarded the proceedings,
+very often changed his position. He would stretch across the dock, with his head resting on his folded arms on
+the bar in front of him; then he would stand erect, with great firmness; and next he would lean against the
+siderail of the dock, all the while, however, maintaining his cool demeanour. A tin mug full of water was brought
+into the dock for his use during the hearing, but he merely sipped a little water, and standing in the centre of
+the dock, rested his elbows on the rail till the case was concluded.
+
+Mr. Batchelor, at the commencement of the proceedings, intimated that the evidence he would call would be very
+short, and he asked that the prisoner should be committed for trial.
+
+Mrs. Hamilton, a lodger at 8, Courtenay-place, St. James's-street, and who attended as nurse upon Mrs. Gouldstone,
+was recalled and cross-examined by Mr. Atkinson. She said: I have known the prisoner since the 1st of June, and
+had ample opportunities to notice his demeanour. Up to this time he was always very kind to his wife. The twins
+were born on Aug. 1, and after that date I noticed a great difference in the prisoner. I have never seen him the
+worse for drink but once. He was not addicted to drink. After Aug. 1 he appeared to be in a desponding state. He
+would come in and sit down and seldom speak to any one. I have never heard him complain of being short of money,
+and have never heard him speak about being unable to support his children. I have never heard him speak a thing
+against his wife, and never heard him complain of her pawning his things. He was very kind to her, and I have
+never known him to speak a cross word to her. I have never heard his wife say that she wished the children were
+dead. Since the birth of these twins I have noticed he appeared absent. He never said anything to witness about a
+fit of kleptomania coming on him. He did not speak to that effect on the Sunday previous. As to the twins I heard
+him say nothing when I was by his wife's side. When he was sitting on the fireguard in the kitchen just before the
+murder he was not gazing into the fire. He had his back to it, and was twiddling a piece of string about. I did
+not notice that there was a slip-noose in the cord. It may have been there, but I did not notice it. He looked in
+the bed-room and muttered something. I saw him in the bed-room after the occurrence, and I did not notice a hammer
+till afterwards, when the constable asked for it. After the death of the three children I said, "Oh, you wicked
+man, what have you done?" He replied, "I am happy now." I saw one of the children first, and shortly afterwards
+the other two. I went to see if they were dead or alive, when I saw him carrying the first one. He seemed very
+excited—not absent or wandering, but excited. He said, "I've done it, I've done it." When the constable took him
+into the bed-room, he said to Mrs. Gouldstone, "I have murdered all your children; you wished them dead, and now
+you have got your wish." I do not know any of his family.
+
+Police-constable William Cheeseman, 86 N, said: I was on duty at St. James's-street, Walthamstow, on the day in
+question, and was called to 8, Courtenay-place. I went upstairs into the kitchen, and saw three children lying on
+the floor there, the prisoner being in a stooping position over them. He had his hat and coat off, and his shirt
+sleeves were tucked up. The clothes of the children appeared to be drenched with water, and were thoroughly wet.
+When the prisoner saw me he said, "Good evening, policeman; I have done it; now I am happy, and am ready for the
+rope." I told him that what he said would be used in evidence against him, and then he put on his hat and coat,
+and asked me to let him see his wife. I then took him into the bedroom to his wife, and when I got there his wife
+said, "Oh, you wicked man; what have you done?" The prisoner said, "I have killed all your children, you will be
+single again, and I shall be hanged." His wife asked him for money, and he gave it her. The prisoner then kissed
+his wife, wished her "Good bye," and I took him away. On the way to the station the prisoner said, "When I took
+my money last week I thought of buying a revolver to do it with; but I altered my mind, as I thought it would make
+too much noise." He also said, "I had a hard job with the two biggest, but the other little one I soon settled. I
+thought it was getting too hot, for I have had five kids in three years and a half, so I thought it time to put a
+stop to it." When I got him to the station he said, "I did it like a man." When the charge was read over to him at
+the station he said, "Quite right, sir." When I saw the three children at the house I satisfied myself that they
+were dead.
+
+By Mr. Atkinson: The moment the prisoner saw me he spoke first. He seemed excited at the time, but not such an
+excitement as from drink. He had no appearance of drink. When he spoke about being "ready for the rope," he had
+not a piece of rope in his hand. When in the bedroom I did not hear the wife say that she wished the children were
+dead. She did not supplement her request for money with the wish that the children were dead. The whole of the
+children, as a matter of fact, were not dead. It was at the station that he said, "Quite right, sir." He said
+nothing there about not having the money to support his children. I did not hear the word "pawn" mentioned in the
+wife's presence. The wife made no reply whatever when he said that he had murdered all her children. I saw the two
+infants were covered up. They had blood on them. I did not see them move. When the wife asked for money he gave
+her some—a two-shilling piece or a half-crown and a shilling and some coppers. It was about twenty minutes to six
+that I went to the house. I saw no evidence of any meals about—no provisions of any kind.
+
+Police-constable James Honey, 41 N Reserve, was next called. He said: I am stationed at the Lea Bridge-road. At
+about ten o'clock on Aug. 8, I was in the High-street, Walthamstow, and in consequence of information received I
+went to Dr. Twining, and then to 8, Courtenay-place. When I got there Dr. Twining was there and examining the
+bodies of the three children in the kitchen.
+[AS PRINTED. Honey's sworn statement of the same day reads "about 10 minutes to 6"; "ten o'clock" is the
+reporter's garbling of "ten to six". The IPN has the same "ten o'clock", with "August 9".]
+
+Mr. Batchelor, in reply to the Bench, said he did not propose to call Dr. Twining, as he was very ill. If it was
+necessary at the trial he would, of course, have to do so.
+
+Examination continued: Dr. Twining handed me the piece of cord I produce. I could see the three children were
+dead. I went into the front room and saw the two other infants. One of them was bleeding from the mouth, and both
+their heads appeared to
+
+=========================================================================
+COLUMN 2
+=========================================================================
+
+be seriously injured. I remained there till Dr. Gould came.
+
+By Mr. Atkinson: The string which had been around the eldest child's neck was not tight; it was loose.
+
+George Folkard, a police-inspector of the N Division, stationed at Lea Bridge-road Station, said: I was at the
+station on the 8th inst., when the prisoner was brought in by Police-constable Cheeseman. The constable said,
+"This is a charge of murder; this man has murdered his five children." The prisoner said, "That is right, sir. I
+did it like a man, too." I went to the house with Dr. Gould, and at about eight o'clock returned to the station,
+and charged the prisoner with murdering his three children, Charles, Herbert, and Frederick, and with attempting
+to murder his two male infants. He said, "Quite right, sir. What condition was the missus in? I suppose some of
+you gentlemen have been around." Dr. Gould said, "Tolerable." The prisoner then asked, "Are the two young ones
+dead?" I said, "No." At half-past eight o'clock the following morning I charged him with the murder of the two
+younger children. He said, "Yes, sir. The other two are dead, then?" I said, "Yes." When I went to 8,
+Courtenay-place, I examined the cistern. It is about 6ft. from the floor, high up, near the ceiling. It was the
+top of it that was 6ft. from the floor. The top of it to the ceiling was about 10in., the cistern being about 14in.
+deep.
+
+By Mr. Atkinson: The prisoner volunteered these statements. He was a little excited, I thought, but very slight.
+He was not so excited as I should expect. He braced himself up when he said, "I did it like a man, too." About two
+hours had elapsed since the prisoner last saw his wife. Then he asked me how she was.
+
+Henry Wheatley, police-constable 208 N, stationed at Lea-bridge, said: About a quarter to seven on the evening of
+the 8th inst. I was in the cell passage of the station leading to the cell where the prisoner was. The prisoner
+said to me, "I have had an extra drop of drink to-day to accomplish this job. There's five of them gone to glory,
+and it is a good job, too." Later on, at half-past seven o'clock, he said, "I am sorry for my wife and parents;
+but the children will be better off in Heaven, if there is such a place. It is better than leaving them to the
+mercy of the world." At about nine o'clock he said, "I wish I had killed the little ones out of the way. I don't
+know if I hit them once or twice. I have had this playing on my mind for a long time."
+
+By Mr. Atkinson: He volunteered these statements. He was under my immediate observation all the time. I did not
+hear him rambling or mumbling to himself. I observed no traces of drink about the prisoner. He first stated he
+had killed the five, and then said he wished he had killed the little ones. I did not in the least observe any
+strangeness about him; he was very cool.
+
+Mr. Henry Gould, examined by Mr. Batchelor, said: I reside at Lea-bridge-road, Leyton. I am an M.R.C.S., and
+L.S.A. London, and divisional surgeon of police for the district. On the 8th inst., at six o'clock, I was called
+by Inspector Foulkard, and went to 8, Courtenay-place. I went into the front room on the first floor, and there on
+a bed saw two children only a few days old. They were male children. I examined them, and found they had both
+received injuries to the head. I felt that the skull of each was fractured, and blood and froth was issuing from
+them. I thought it impossible that the children could live. I went into the kitchen, and there saw three children
+lying in a row, side by side, their feet being all one way. They were quite dead and their clothes saturated with
+water. One of the children was naked, Dr. Twining having taken the clothes off. I saw no marks of violence on two
+of them, but on the eldest (Charles) I found on the neck an indentation mark of a stout cord. It had been put round
+the neck. At seven o'clock I again went to the house, and saw that one of the two infants had died. Soon after
+seven o'clock the next morning I went and found that the other one was dead. Since that time I have made
+post-mortem examinations of the bodies of the whole of the five children. As to the two younger, I found that
+their death had been caused by the violence used that fractured the skull of each. As to the three others, from
+the condition of the heart and lungs, I came to the conclusion that they died from suffocation, caused by
+drowning. All the bodies of the three children were well nourished. On the three there were no marks of violence,
+except the indentation mark on the neck of the eldest.
+
+By Mr. Atkinson: I have only seen the prisoner in connection with this case. I would not like to say that I am
+perfectly acquainted with the "Cyclopædia of Practical Medicine."
+
+Mr. Wells, the clerk, said this was scientific evidence of the doctor, and he was not well up in questions of
+insanity, if that was to be referred to, as that was a speciality.
+
+Mr. Batchelor concurred with Mr. Wells that insanity was not a question for the consideration of this Court.
+
+Mr. Atkinson said he would not press the question.
+
+This concluded the evidence, and the prisoner was committed for trial, Mr. Atkinson intimating that the accused
+would reserve his defence.
+
+[rule]
+
+A great number of people assembled outside the courthouse in the hope of either gaining admission to the Court,
+or of seeing the prisoner removed. A large crowd of persons assembled at the Stratford Main and Maryland Point
+Railway Stations in order to see the prisoner on his way to the courthouse; but they were disappointed, as the
+prisoner was brought direct from the House of Detention to the court in a brougham. After the committal, a large
+contingent of the K and N divisions were requisitioned, and a cordon drawn round the brougham and magistrates'
+entrance. In this brougham the prisoner was driven off, and safely lodged at Clerkenwell.
+
+[rule]
+
+The Vicar of St. Saviour's, preaching last Sunday evening from the parable of the Prodigal Son, concluded his
+sermon as follows, (having showed how the parable taught us two great truths, one respecting sin, and the other
+respecting repentance), he said:—By Baptism we are everyone brought into the Church. We are brought in at a time
+when our own wills have not come into action, that is, we are baptized in infancy. In that we learn this profound
+truth—that God's fatherly relations with us do not depend upon our own wills, convictions, or states of mind. God
+in His Providence does not wait till we are full grown before He asks us to become members of His household. He
+claims us in our infancy; He gathers us into His Church while as yet we cannot say "I will come," or "I will not
+come." He places us in a state of salvation, and there we commence our intellectual and spiritual life.
+Accordingly, when a baby is baptized it becomes "a Member of Christ," a "Child of God," and an "Inheritor of the
+Kingdom of Heaven." If it dies in infancy we are as sure of its salvation as if it had died after seventy years of
+unsullied sanctity. See, then, the position in which Christians personally are placed with regard to sin. Sin
+with them is a going out of the Father's house. It is a falling from that state of salvation in which God's mercy
+has placed them. This view is of incalculable importance in the religious training of the young. If you teach
+children that they are not in a state of salvation, that they are not the children of God, you hurt their minds
+in two ways—you first lead them to believe that they cannot commence the service of God until some new relations
+have been established between their souls and heaven, and what is far worse you give them an utterly false idea
+of sin. Practically, you tell them if they want to serve Satan, they are just in the right position for doing so,
+but if they want to serve God they must get into a new position before they can commence. The consequence is the
+child, if unhappily it thinks at all about the matter, is bewildered with thoughts about conversion and
+sanctification, processes which it cannot possibly understand. One thing only is clear to it—"I am not God's child
+yet; some day, somehow, I may become one, but I must wait." If this parable applies in any way to individual
+spiritual life, it gives a death-blow to such a view of sin. If the younger son was in any application of the
+parable a figure of a Jewish sinner then, or a Christian sinner now, we must, if we follow an honest
+interpretation, treat each sinner as one who has departed from the household of God. If our view of human nature
+is that persons are not placed in a state of salvation until they become responsible, and then enter the
+household of God, we cannot regard this parable as in any way dealing with the spiritual course of Christians. On
+the other hand, if we read it in the light of the doctrine of baptism held by our Church, we can treat it as a
+story of the human soul, told with the utmost fidelity. By baptism the Church of England teaches that children are
+called to a state of salvation, in other words, they are brought into the Father's house. The sin which follows in
+succeeding life is the departure—the voluntary departure—from the household of faith. Like the younger son, the
+soul in the plenitude of strength and selfish expectation calls for the portion of goods that falleth to it.
+Health, talents, opportunities are carried outside the Christian family, such are employed for selfish ends in the
+far country of the world; yet, though this perpetually happens, it is not God's intention for any human soul;
+God's intention is, that where the soul is placed, there it should remain, ever with the Father, having no
+property apart from Him, no purposes that are not of His approval. Here then lies the true power of this parable
+as a call to sinners. It tells men that at one time, by their own act and deed they went out from the Father's
+house. As the religious sanctions which environs childhood gradually lost strength, as with approaching manhood,
+or womanhood, the idea of obeying God gradually receded, and the idea of obeying the world, and living for it, as
+gradually became prominent; all this time
+
+=========================================================================
+COLUMN 3 (head only)
+=========================================================================
+
+the soul was departing, going farther and farther from the divine house, relinquishing the state of salvation. If
+you hold that up to any Christian who has lived a worldly life, he will confess, "Yes, that is the true statement
+of the case; God did not at first in a state of banishment. I was in the house. I freely left it. Life slowly lost
+its sacredness, and duty more and more resolved itself into interest." I might have made the position in which I
+was first placed a stepping-stone to higher things, but I chose a lower life—a life that was ever getting lower. I
+have, indeed, committed no social offence; outwardly I am respectable and respected, but when looking into my own
+heart, I remember the high thoughts, the pure aspirations, the freshness of feeling with which I started in life,
+and contrast these with my present feelings, I acknowledge that I have wasted my substance. Thus read in the light
+of Christian doctrine the parable of the Prodigal Son, is, in a quiet way, the most awakening view of his
+spiritual state that you can set before a sinner. It is true to human nature and experience, no really wise man
+will dispute the reality of the portraiture, and the feature which most of all will arouse his attention, and
+possibly quicken his repentance, is that where the younger son is described as leaving his father's house against
+his father's will. And, oh! what a terrible illustration of this truth our own parish has afforded during the past
+few days. On Friday last I saw the unhappy man, whose fearful deed has startled the country, at the House of
+Detention, and he quietly and soberly told me that had he not forsaken his God and his church, had he not gone out
+from his Father's house, he would not have been in his awful position. He had been a Sunday school boy, he had
+been a member of the choir, but he gave up attending church. During his ten months' residence in Walthamstow he
+had never attended a place of worship; and now he traces his misery and crime to his own carelessness and neglect,
+his wilful departure from the Church into which he had been baptized. God grant that, notwithstanding his
+apostacy, he may even now realize His heavenly Sonship, that he is a member of Christ, a child of God, and an
+inheritor of the Kingdom of Heaven; and amid the loneliness and misery of a prison life, and the prospect of an
+almost inevitable fate, he may yet humbly and sincerely say, "I will arise, and go to my Father."
+
+[rule; FLOWER SHOW AT ST. SAVIOUR'S SCHOOLS follows, not transcribed]
+
+[Transcriber's note: "God did not at first in a state of banishment" is as printed; a word ("place me"?) appears
+to have dropped out in the setting. Not supplied.]
+
+=========================================================================
+DIFFERENCES FROM THE IPN TEXT OF THE SAME REPORT (checked against both page images, 30 September 2026)
+=========================================================================
+- Guardian "whitesmith"; IPN "blacksmith" (as printed).
+- Cheeseman: Guardian "I went upstairs into the kitchen"; IPN "I went into the kitchen".
+- Cheeseman: Guardian "I have done it; now I am happy, and am ready for the rope" (same placing of "now" as the
+  Times of 20 August, and as the Chapter Seven decision, Contradiction 37); IPN, as printed, "I have done it now, I
+  am happy". The same copy with the stop set in different places; nothing shows which compositor moved it.
+- Cheeseman on the money: Guardian adds "and some coppers" after "a shilling".
+- Honey: Guardian "on Aug. 8"; IPN "August 9". Both "ten o'clock" (garbled; see note above).
+- Honey: Guardian "the piece of cord I produce"; IPN "tunic", as printed (the IPN compositor's error).
+- Folkard's cistern measurements: identical in both papers as printed (the IPN transcription had garbled them; now
+  corrected).
+- Folkard named "Folkard" in his own paragraph and "Foulkard" in Gould's, in the Guardian; IPN "Foulkard" in both.
+- Gould: Guardian "the indentation mark"; IPN "the indentation".
+- Items (1), (3) and (4) of the Guardian are not in the IPN text.
