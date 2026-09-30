@@ -307,3 +307,38 @@ The instruction is to show the absence, not to assert it. In practice:
   it gains a harder one. What remains genuinely open is whether she ever received anything from the other, less reliable
   efforts the Guardian doubted (the Rev. T. Jackson's open-air meeting, the Workmen's Hall entertainment).
   See dramatis_personae.md, Grantham Robinson and William Graves.
+
+## 8. Added 30 September 2026, from the Chapter Twelve source sweep
+
+**The committal, 18 August: the second tribunal to examine her words, through a man's cross-examination of other
+witnesses.** Atkinson, for William, drew from Ada (deposition, images 0011 and 0012): "Never heard him complain of
+his wife pawning his things"; "I never heard the prisoner say she wished the children were dead"; "Never heard him
+say a cross word to his wife." From Cheeseman (images 0015 and 0016): "I never heard the wife of prisoner say she had
+already wished the children dead"; "I never heard the word 'Pawn' in his wife's presence"; "She made no reply to him
+when he said he had murdered all the children... His wife was crying." Only the answers survive. **The questions are
+recoverable as subjects and their purpose not at all; do not supply one.** The deposition cover records the evidence
+as taken "in the presence and hearing of William Gouldstone" (image 0043).
+
+**The chain now runs through two tribunals.** Friday 10 August, the jury asks whether she wished her children dead,
+and whether she reproached him about money. Sunday 12, a juror at her bedside. Monday 13, the coroner: William's
+sanity "concerned another tribunal". Saturday 18, before that tribunal, her husband's solicitor asks her nurse and
+the arresting constable whether she pawned his things and whether she wished the children dead. Set down in order;
+say nothing.
+
+**She is pictured.** The Illustrated Police News cover of 18 August: a woman sitting up in bed, mouth open, two infants
+on the coverlet, a bearded man with a hammer. The engraver's invention. The same paper's portrait of William a week
+later shows a moustache and no beard. Whether any later paper pictured her is unchecked; do not write "the only".
+
+**She moves, once, in the four weeks before the trial.** "Since the occurrence I have seen my husband three times at
+the House of Detention" (her statement, Essex Weekly News, 21 September), and a letter from him there in which "he
+spoke of them as being in heaven". Undated. **Placed in Chapter Thirteen by Rik's linear rule (30 September 2026):
+stated as fact, without quoting her statement's words about it**; "as happy as a child at play" waits for the
+statement's chapter.
+
+**A contemporary noticed the rule that silenced her, in the paired case.** Tuke, Journal of Mental Science, January
+1884, on James Cole: "Important in such a case, also, is the circumstance that his wife could not give evidence in
+court, while her intimate knowledge of his history would have been of the highest value to a medical commission."
+And Cole's wife had gone to the magistrates and been told "that they could do nothing till he had committed some
+act." Both are about Cole's wife, who is never named in his trial record. They are context for this thread, not
+evidence about Elizabeth, and the prose must not borrow either for her. This does answer part of the open question in
+section 3: a contemporary did notice a wife's incompetence as a witness, in print, within months, though not hers.

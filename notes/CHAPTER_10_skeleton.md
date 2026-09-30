@@ -216,7 +216,7 @@ for them. Two days later a juryman is at her bed.
 Chapter Eight already stated the thing once, plainly. This chapter demonstrates it instead.
 
 ## WHAT IS NOT IN THIS CHAPTER
-- The committal, the Cole copycat, the press sensation: Chapter Eleven.
+- The committal, the Cole case, the press sensation: Chapter Eleven. [Now Chapters Twelve and Thirteen; see CHAPTER_12_skeleton.md. "Copycat" retired 30 September 2026.]
 - The 18 and 25 August hearings and everything after them.
 - The unaccounted day, still homeless.
 

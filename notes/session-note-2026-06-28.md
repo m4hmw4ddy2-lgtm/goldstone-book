@@ -397,6 +397,7 @@ Key new details from the full text not previously in our record:
 Combined with the BMJ claim that he went out on Wednesday intending to drown himself: he had been wandering since Saturday, absent from work, twice drunk, and spent the morning of the murders trying and failing to kill himself before coming home.
 
 ### Cole copycat murder — confirmed
+**[SUPERSEDED 30 September 2026: the Spectator's claim is not confirmed by Cole's trial record (Old Bailey t18831015-964), in which no witness mentions Walthamstow; Cole was reprieved, not executed; "copycat" is not to be used in our voice. See Contradiction 57. Kept as a dated record.]**
 The Spectator, 25 August 1883: Cole had spent Sunday reading about the Gouldstone case and told his wife he would settle his own children in the same way. He murdered his three-year-old son that same Sunday night (19 August 1883), eleven days after Gouldstone.
 
 Source: Spectator, 25 August 1883. Also in BMJ: The Thornton Heath Murder, BMJ Vol 2, 1883, pp. 829, 880. (NOT YET IN OUR REPO — ADD TO SOURCES NEEDED)

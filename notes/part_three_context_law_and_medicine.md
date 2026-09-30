@@ -257,3 +257,24 @@ the reader before the book moves between the magistrates, the inquest and the Ol
 - **"A jury of local men"** is the standard practice and fits a jury list that can be run against the
   Walthamstow rate books. It is not stated in terms by any source for this inquest. If Rik wants it
   stricter, "a jury" alone is safe.
+
+---
+
+## Section 18 of the Indictable Offences Act 1848, on the document itself (30 September 2026)
+William's "I reserve my defence" of 18 August 1883 is written on the printed form "N. (11 & 12 Vict. c. 42.)
+Statement of the accused, under s. 18" (image 0025, misfiled under `sources/trial-docs/Coroner Depositions/Commital/`).
+Section 18 of that Act is the section the Criminal Evidence Act 1898 expressly leaves untouched in proviso (h) to
+section 1, together with "any right of the person charged to make a statement without being sworn". So the
+committal form is the statutory point at which an accused could speak unsworn before trial, and the record shows
+what William did with it: four words, and no signature, against the form's printed instruction "Get him to sign it
+if he will." The depositions of the same day are on the companion form "Depositions of witnesses under s. 17".
+Both forms were printed for theft and have "steal, take and carry away" struck through (notes only; DECIDE 6 of the
+Chapter Twelve skeleton).
+
+## The committal refused the insanity question (18 August 1883)
+The Times, 20 August: Atkinson tried to put questions on insanity to Gould from the "Cyclopaedia of Practical
+Medicine"; the clerk, Wells, "waited the order of the Bench"; Batcheler for the Treasury said "insanity was not a
+question for the consideration of this Court" and that evidence could be produced at the trial; Atkinson said he
+would "get the questions put through counsel at another place"; "The Bench having dissented". Five days earlier the
+coroner had told his jury that sanity "concerned another tribunal". Two tribunals in a week passed the question on.
+None of the exchange is in Gould's sworn deposition, which records his cross-examination as one line.

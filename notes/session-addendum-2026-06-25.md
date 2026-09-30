@@ -59,6 +59,7 @@ Mary Bayly (1816-1899), author of *Ragged Homes and How to Mend Them* (1860), so
 Read in full. Address to nursing staff of The Retreat, York, 23 November 1911. Key passage: Savage on patients who hear hallucinations — "the patient heard unkind words and thought they came from nurse, they were, in fact, only hallucinations of hearing." Shows Savage's deep clinical understanding of auditory hallucinations — exactly what William described (hearing voice of God). The gap between this humane, experienced clinician and his constrained courtroom performance in 1883 is the tragedy of Part Three.
 
 ### Kleptomania reference — DISCARDED
+**[SUPERSEDED 30 September 2026: this entry is wrong. The reference is in Ada's sworn deposition of 18 August (image 0012: "He never spoke to me on the Sunday previous that he had a fit of Cleptomania coming on") and in The Times of 20 August and the IPN of 25 August. It is an answer to the defence's cross-examination. Kept as a dated record.]**
 Reference to kleptomania in ChatGPT conversation was ChatGPT speculating from degraded OCR on page 12 of witness statements. Not in any verified source document. Discard entirely.
 
 ### Hathitrust documents — American journals 1884

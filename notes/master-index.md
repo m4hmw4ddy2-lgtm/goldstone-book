@@ -28,19 +28,19 @@ Book section: Prologue, Part Two
 **Ada Hamilton — Supplementary Statement**
 `sources/trial-docs/Witness statements/Ada Hamilton Nurse/Ada_Hamilton_Supplementary_Statement_1883_Final.txt`
 Status: READ
-Key content: Additional detail. Kleptomania denial — Ada says William never told her on the Sunday that a fit of kleptomania was coming on him. Cord noose — might have been a slip noose but she didn't notice. Never heard Elizabeth say she wished the children dead.
-Book section: Part Two
+Key content: Ada's cross-examination by Atkinson at the examination of 18 August (the label "Supplementary Statement" is the transcriber's). Known him since 1st June (corrected 30 September 2026 from "7th June"); never heard him complain of his wife pawning his things (restored 30 September 2026; the transcription had dropped it); never heard Elizabeth say she wished the children dead; kleptomania denial; cord in his hands, slip noose not noticed.
+Book section: Part Three (Chapter Twelve)
 
 **Henry Gould (Surgeon) — Witness Statement**
 `sources/trial-docs/Witness statements/Henry Gould/Henry Gould.txt`
 Status: READ
-Key content: Post-mortem findings. Three boys drowned. Charles had cord noose (loose) around neck. Twins struck with hammer, skull fractures described in detail.
-Book section: Part Two
+Key content: Gould's deposition of 18 August. The twins in the front room; three boys dead in the kitchen, one naked; indentation on Charles's neck; post-mortems of the whole of the five (corrected 30 September 2026 from "the eldest of the five"). Cross-examined, one line only; see Contradiction 59. Ink note at foot: committed for trial, Craggs bound over to prosecute.
+Book section: Part Two, Part Three (Chapter Twelve)
 
 **Inspector George Folkard — Witness Statement**
 `sources/trial-docs/Witness statements/Inspector George Folkard/Witness_Statement_George_Folkard_Complete.txt`
 Status: READ
-Key content: Arrival at scene. William's words. The hammer. The children's bodies. NOTE: the typed statement reads "Charles, Albert and Frederick" — "Albert" is a scribal error for "Herbert."
+Key content: Arrival at scene. William's words. The hammer. The children's bodies. NOTE: the manuscript (image 0017) reads "Charles Albert and Frederick", the 1883 clerk's error for Herbert. Transcription restored to the manuscript reading with [sic], 30 September 2026 (Rik).
 Book section: Part Two
 
 **PC William Cheeseman — Witness Statement**
@@ -110,14 +110,14 @@ Book section: Part Two
 **Committal Document**
 `sources/trial-docs/Coroner Depositions/Commital/Commital.txt`
 Status: READ
-Key content: Formal committal for trial. Signed before Justice Nathaniel Powell.
-Book section: Part Two
+Key content: MISFILED under Coroner Depositions. This is the magistrates' Statement of the accused, form N, under s. 18 of 11 & 12 Vict. c. 42, 18 August 1883: "I reserve my defence", unsigned by William, signed by Nath. Powell J.P. The same folder holds image 0026, the depositions docket ("Cen. Criminal Court Sept 10th 1883", Home Office stamp 17 SEP 1883). Corrected 30 September 2026.
+Book section: Part Three (Chapter Twelve)
 
 **Magisterial Examination, Stratford**
 `sources/trial-docs/Magesterial Examination Stratford/Magestrial Examination Stratford.txt`
 Status: READ
-Key content: Stratford Petty Sessions remand hearings. Full proceedings including cord produced and William pointing to his throat.
-Book section: Part Two
+Key content: CORRECTED 30 September 2026: a single cover sheet (image 0043) for the six depositions of 18 August, taken before two justices at the Court House, Great Eastern Road. It contains no proceedings. The cord and the throat gesture belong to 11 August and are press-only. Ada's occupation corrected to "Monthly nurse".
+Book section: Part Three (Chapter Twelve)
 
 **Home Office Letter 1901**
 `sources/trial-docs/Home Office Letter/Letter 1901.txt`
@@ -130,6 +130,12 @@ Book section: Part Three
 Status: READ
 Key content: Full Old Bailey trial transcript, 14 September 1883. All testimony, cross-examination, judge's summing up, verdict and sentence. Confirms Charles Clarke (not James) as Emma's husband. Confirms William Hamilton present in the building. Confirms three older boys were born in Graves's house. Confirms Bennett Gouldstone also worked at Falkirk Ironworks. Confirms "grain" = Essex word for strangle (juror clarification). Full testimony of Skelton (lift rope incident), Westbrook, Kinnaird, Byford, Cakebread, John Clark.
 Book section: Part Two, Part Three
+
+**Old Bailey Trial Account — James Cole, 15 October 1883 sessions (t18831015-964)**
+`transcribed/OldBailey_t18831015-964_James_Cole.txt`
+Status: READ, 30 September 2026. Website text pasted by Rik; not checked against the printed page.
+Key content: Cole's killing of his son Thomas, Sunday 19 August 1883, West Croydon; trial 18 October before Denman; Poland and Montagu Williams prosecuting; guilty, death. No witness mentions Walthamstow. Held at Clerkenwell House of Detention from 20 August. One question about "a convict of the name of Gouldstone" to the Wandsworth chaplain. See Contradiction 57.
+Book section: Part Three (reprieve chapter; Chapter Thirteen only via the Spectator)
 
 ---
 
@@ -213,7 +219,7 @@ Book section: Part Two
 **The Times, 20 August 1883**
 `transcribed/The_Times_20_Aug_transcription.txt`
 Status: READ
-Key content: Continued remand hearing. Miss Skinner, working for **Mrs Pelly's Refuge Home** (NOT Mrs Bayly — earlier notes were wrong; correct identification is Mrs Raymond Pelly, wife of vicar of St John the Evangelist, Stratford, who founded St Agatha's Refuge, Stratford, 1883), visited William in cell; he manifested a repentant mood.
+Key content: The examination and committal of Saturday 18 August (not a remand; corrected 30 September 2026). Ada cross-examined; insanity questions to Gould refused by the Bench; committed, reserving his defence. Reprinted word for word by the Bury Free Press, 23 August (one witness, not two). Miss Skinner, working for **Mrs Pelly's Refuge Home** (NOT Mrs Bayly — earlier notes were wrong; correct identification is Mrs Raymond Pelly, wife of vicar of St John the Evangelist, Stratford, who founded St Agatha's Refuge, Stratford, 1883), visited William in cell; he manifested a repentant mood.
 Book section: Part Two, Part Three
 
 **Western Times, 14 August 1883**
@@ -255,8 +261,8 @@ Book section: Part Two (potential illustration reference)
 **IPN page 2, 25 August 1883**
 `transcribed/IPN_p2_Aug_25_1883_THE_TRAGEDY_AT_WALTHAMSTOW.txt`
 Status: READ
-Key content: Follow-up coverage. Ada cross-examination. Kleptomania denial confirmed. Cord noose question. "I am happy now" — further version of William's words.
-Book section: Part Two
+Key content: The examination and committal of Saturday 18 August (25 August is the publication date). Independent of the Times report. Dock behaviour; Batcheler for the Treasury; Ada cross-examined; Twining "very ill" and not called; the insanity exchange; reserved his defence. THE SOURCE IMAGE IS NOT IN THE REPOSITORY and the transcription is unchecked.
+Book section: Part Three (Chapter Twelve)
 
 **IPN front cover illustration, 25 August 1883 — no dedicated index entry existed until 9 September 2026.**
 `sources/images/Media-coverage/IPN Front Cover Aug 25 1883.jpeg`

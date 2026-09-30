@@ -190,7 +190,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 ### THE HAMMER AND CORD
 
 - Hammer: "ordinary large hammer for knocking in nails" (Ada, Old Bailey). Ada had never seen it before. Found on floor near dressing table. Gave it to Cheeseman. Origin unknown.
-- Cord: a piece of clothes line (Ada, coroner deposition — full word-tally across every source in MASTER_NOTES.md). **PC Honey under cross-examination: "I saw the noose on the string which was loose round the child's neck"** — describes it as found on Charles, not before. **Corrected 18 September 2026: no source supports "brought by William for himself" or links it to the BMJ's separate claim about that morning — this was an invented connection, removed.** Origin unknown; likeliest reading is that it was already in the washhouse, a length of clothesline near the cistern it was used at. At remand hearing 20 August, cord produced; William **pointed significantly to his throat.**
+- Cord: a piece of clothes line (Ada, coroner deposition — full word-tally across every source in MASTER_NOTES.md). **PC Honey under cross-examination: "I saw the noose on the string which was loose round the child's neck"** — describes it as found on Charles, not before. **Corrected 18 September 2026: no source supports "brought by William for himself" or links it to the BMJ's separate claim about that morning — this was an invented connection, removed.** Origin unknown; likeliest reading is that it was already in the washhouse, a length of clothesline near the cistern it was used at. At the remand hearing of **Saturday 11 August** (Daily Chronicle, 13 August), cord produced; William **pointed significantly to his throat.** (Corrected 30 September 2026 from "20 August", which is the Times's publication date for its report of the hearing of 18 August; that report has no cord and no gesture. See Contradiction 49 SUPERSEDED for the three versions of the gesture.)
 - The unnamed figure at the scene — "a gentleman (a chemist)," per press reports of Ada's testimony — is also in her own sworn JP statement, not a press-only detail as previously treated. **The word is legible: "A Gentleman was present, a Chemist" (manuscript image 0008, checked 21 September 2026; earlier notes called it illegible).** **Identification with Dr Twining CONFIRMED 21 September 2026** (Rik's reasoning, 18 September, from Honey's statement). The friction point recorded here — that Ada calls a local doctor "a chemist" and seemingly does not recognise him — is resolved by the explanation already noted: the Gouldstones' own medical attendant was Mr Sutton, not Twining. Her not naming him is therefore evidence FOR the identification, since she would have named Sutton, and it rules Sutton out as the figure. See Contradiction 29 for the full sequence.
 - **Order of the three drownings and use of the cord — reasoned inference, added 19 September 2026, not a sourced sequence.** No document states which boy went into the cistern first or when the cord was used relative to the water. But Herbert (2½) was "sickly, still unable to walk" (Elizabeth's own reprieve statement) and Frederick was sixteen months old — neither could stand, run, or resist. Charles (3½) was the only one of the three capable of any of that, and the only one carrying the cord mark. Strongest available reading: Charles, the one real risk of noise or flight, was restrained with the cord and dealt with first, before the two who could not have resisted regardless and needed no restraint. See full reasoning, MASTER_NOTES.md, cord section. Flag as inference wherever used in prose, exactly as the door-wording variants are flagged rather than silently resolved.
 
@@ -288,7 +288,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 ### MRS PELLY AND MISS SKINNER
 
 - **Mrs Raymond Pelly**: wife of the vicar of St John the Evangelist, Stratford. Founded **St Agatha's Refuge**, Stratford, **1883** — same year as murders. First premises at back of what became Trinity College Mission Church. Church of England rescue institution for women in moral distress. [Essex Archives Online, D/CAc 12/18]
-- **Miss Skinner**: worked for Mrs Pelly's Refuge. Visited William in his Stratford police cell during 20 August remand hearing. William "manifested a repentant mood." [Times 20 Aug]
+- **Miss Skinner**: worked for Mrs Pelly's Refuge. Visited William in his cell at Stratford after the examination and committal of **Saturday 18 August** (corrected 30 September 2026 from "20 August", the Times's publication date). William "manifested a repentant mood." [Times 20 Aug]
 - Note: all references to "Mrs Bayly's Refuge" in older project notes are errors — correct identification is Mrs Pelly.
 
 ---
@@ -322,7 +322,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 | ~1882 | Gouldstones move to 8 Courtenay Place, Walthamstow | Emma Clarke testimony |
 | ~Oct 1882 | Elizabeth: William showed signs of madness from this point | BMJ 6 Oct Medical News |
 | ~Jan 1883 | Lift rope breaks at Falkirk Ironworks; William's suicidal statement to Skelton | Skelton, Old Bailey |
-| Ada Hamilton begins lodging at house (ten weeks before murders) | ~early June 1883 | Ada, coroner deposition |
+| 1 Jun 1883 | Ada Hamilton has "known prisoner since 1st June" (her deposition of 18 Aug, image 0011); with her sworn "about ten weeks" in the house (Old Bailey), the best reading is that the Hamiltons came to lodge on or about 1 June. Corrected 30 September 2026 from "7 June", a misreading. See Contradiction 58 | Ada, deposition 18 Aug; Old Bailey |
 | 1 Aug 1883, 10:30pm | Elizabeth confined of twins — two male children | Emma Clarke, Times 11 Aug |
 | 2 Aug 1883 | Graves notices change in William; William: "only my head is very queer" | Graves, Old Bailey |
 | 2 Aug 1883, night | William worse for drink; didn't speak when told of twins | Emma Clarke, Old Bailey |
@@ -348,9 +348,11 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 | 9 Aug | First appearance Stratford Petty Sessions; remanded | All early press |
 | 13 Aug | Adjourned inquest; funeral at noon | Morning Post; Dover Express |
 | 13 Aug | Inquest verdict: wilful murder (five verdicts signed) | Morning Post |
-| ~19 Aug | James Cole copycat murder, Thornton Heath | DT 15 Sep commentary |
-| 18 Aug | Remand hearing: cord produced; William points to throat. Miss Skinner visits. | Times 20 Aug |
-| 25 Aug | Final remand; Ada cross-examined; committed for trial | IPN 25 Aug |
+| 11 Aug | Second Stratford hearing: cord produced; William points to his throat; remanded a week | Daily Chronicle 13 Aug; IPN and Guardian 18 Aug |
+| 18 Aug (Sat) | Examination and committal, Court House, Great Eastern Road, Stratford: six deponents; Ada cross-examined by Atkinson; insanity questions to Gould refused ("insanity was not a question for the consideration of this Court"); "I reserve my defence"; committed to the Central Criminal Court; Miss Skinner visits him in the cell. Corrected 30 September 2026: the committal was 18 August, not 25 August (the IPN's publication date), and the cord and throat belong to 11 August | Sworn depositions and statement of the accused, 18 Aug; Times 20 Aug; IPN 25 Aug |
+| 19 Aug (Sun) | James Cole kills his son Thomas (3 years 8 months), Pridham Road, West Croydon; the child dies the next morning. Corrected 30 September 2026: previously "copycat murder", cited to a Daily Telegraph transcription that does not mention Cole. See Contradiction 57 | Old Bailey t18831015-964; Spectator 25 Aug |
+| 20 Aug | Cole received into Clerkenwell House of Detention | Old Bailey t18831015-964 (Treadwell) |
+| 10 Sep | September sessions of the Central Criminal Court open | Liverpool Mercury 10 Sep; depositions docket, image 0026 |
 | 11 Sep | Grand jury return true bill | Times 12 Sep |
 | 14 Sep | Trial, Old Bailey. Guilty. Death sentence. | Times 15 Sep; Old Bailey transcript |
 | 14 Sep, 8:12pm | William taken to Chelmsford Prison | Essex Weekly News |
@@ -574,16 +576,20 @@ Two separate claims here, not to be conflated:
 
 **Assessment:** A direct conflict, found 15 September 2026. The contemporary Sunday Dispatch report is the stronger source for a specific factual detail like this; the obituary, written decades later, could easily conflate this case with one of Orange and Gover's other, later joint examinations over a long shared career. Not silently resolved in Clarke's favour — flagged as a real discrepancy. Dr Clarke remains the working figure for Part Three pending anything further.
 
+**LIKELY EXPLANATION, 30 September 2026 (inference, not proof).** Orange examined **James Cole**, convicted at the Old Bailey on 18 October 1883, with "Dr. Glover" (Tuke, Journal of Mental Science, January 1884, as quoted by Clark Bell in the Medico-Legal Journal PDF in `sources/pdfs/`), almost certainly Gover. The two cases were examined weeks apart on Harcourt's orders, reprieved, and always cited together afterwards. The 1917 obituary's "Orange and Gover" in the Gouldstone case is very probably a conflation of the two. Clarke stands for Gouldstone.
+
 ---
 
 ### 21. ADA HAMILTON'S DURATION IN THE HOUSE — FOUR DIFFERENT FIGURES
 - **Daily News, inquest, 10 Aug (reported 11 Aug)**: three weeks.
-- **Ada's supplementary statement, 18 Aug**: since 7 June specifically.
+- **Ada's supplementary statement, 18 Aug**: ~~since 7 June specifically~~ since **1 June** (misread as 7 June until 30 September 2026; see Contradiction 58).
 - **IPN, 25 Aug, cross-examination**: since 1 June.
 - **Old Bailey trial, 14 Sep (raw transcript and the Times' separate report of it, agreeing)**: ten weeks.
 - **IPN, 18 Aug**: internally inconsistent within the same article — "ten weeks" at one point, "ten or eleven weeks" later in the same piece.
 
 **Assessment:** Found 15 September 2026. Not resolved. The later, more detailed statements (supplementary statement, Old Bailey) are being treated as the working figures for narrative purposes — roughly eight weeks before the birth, arriving 7 June — since they're the most specific and latest-given, but this is a judgement call, not a settled fact. The earliest account (three weeks, at the inquest) is a real, unreconciled outlier.
+
+**SUPERSEDED 30 September 2026: see Contradiction 58.** The "7 June" above is a misreading of the 18 August deposition, which reads "1st June" (image 0011), and the IPN's "1st of June" is the same answer at the same hearing, not a separate figure. Chapter Six now reads "the first of June 1883" (Rik).
 
 ---
 
@@ -729,6 +735,8 @@ entry is logged for two reasons. First, nothing in these papers may be used as i
 1883; they are a 1935 document about a 1935 death. Second, and more useful: the errors are evidence that
 the Broadmoor file's own summary data is unreliable, which is worth knowing in advance of 2036 and worth
 saying in the book if the file is ever quoted.
+
+**LIKELY SOURCE OF MILNE'S "SEPT 10TH", 30 September 2026 (inference).** The docket wrapping the 1883 depositions (image 0026) is headed "Cen. Criminal Court Sept 10th 1883", the day the September sessions opened; the trial itself was on the 14th. A clerk's summary taken from the file would give the sessions date. The same docket carries a Home Office stamp dated 17 SEP 1883: the depositions went to the Home Office three days after the verdict.
 
 **What the papers DO establish, and the project did not previously have:** the time of death, 12.5 a.m.,
 19 January 1935, in the Infirmary; the attendant present, Edward John Priest; and the only medical
@@ -2519,3 +2527,124 @@ nearest thing to a primary statement of where the bodies lay that the project ha
 does not settle what the Guardian meant by "the mortuary church". The burial board minutes would confirm
 it. Until they do, the prose may say what the depositions say, the bodies were at the mortuary where the
 inquest sat, and nothing about where that stood in the grounds.
+
+---
+
+## FROM THE CHAPTER TWELVE SOURCE SWEEP, 24 TO 30 SEPTEMBER 2026
+Full working in `notes/CHAPTER_12_skeleton.md`. Entered here 30 September 2026, with Rik's agreement to apply all
+corrections from that sweep.
+
+### 57. JAMES COLE: THE DATE, AND WHAT CONNECTS HIM TO THIS CASE — date RESOLVED
+- **Tuke, Journal of Mental Science, January 1884** (quoted in Clark Bell, Medico-Legal Journal, December 1884,
+  `sources/pdfs/`): "On the evening of the 18th he took the child Thomas by the legs".
+- **The Spectator, 25 August 1883, p. 3** (web archive; wording still to be checked against the page image): Cole
+  "had been reading the story of the Walthamstow case all the Sunday, and had told his wife that he would settle his
+  own children in the same way"; "Murders of the deliberate kind appear to breed each other"; "Gloomy cruelty is
+  infectious."
+- **Old Bailey, t18831015-964** (`transcribed/OldBailey_t18831015-964_James_Cole.txt`): five witnesses give Sunday
+  night, 19 August, about 9.30 to 10.30; the child died at about 7.25 the next morning (Harding) and was found just
+  dead at 8 (Dr Martin Jackson); concussion, skull not fractured. Pridham Road, West Croydon.
+
+**Assessment.** The date is **Sunday 19 August**; Tuke's "18th" is wrong. The only contemporary claim that Cole
+was imitating Gouldstone is the Spectator's paragraph. No witness at Cole's trial mentions Walthamstow or a
+newspaper account of it. The nearest words in the sworn record are Harriet Harding's: he would "sooner settle the
+lot" than let a woman do as she liked. What pairs the two men in print (Tuke; Bucknill) is the law: same court,
+same prosecutors (Poland and Montagu Williams), both convicted, both examined by Orange, both reprieved. **"Copycat"
+is not to be used in our voice** (Rik, 30 September 2026). Gouldstone's name appears in Cole's trial once, in a
+defence question to the Wandsworth chaplain: "I am not aware that a convict of the name of Gouldstone was under my
+care." Why it was asked is not recorded.
+**OPEN LEAD, 30 September 2026 (raised by Rik: does this prove William was at Wandsworth?).** It does not. The
+answer is a denial, and the chaplain's next answers ("I do not visit all the prisoners daily, that would be
+impossible") suggest the question was testing how well a chaplain knows his prisoners, for which the best-known
+convict of the moment would be the obvious name. Every source places William elsewhere: Stratford cells (9, 11, 18
+August); "the House of Detention" to the trial (Elizabeth, Savage, Grantham Robinson); Chelmsford from 14
+September; Broadmoor from 15 October, three days before Cole's trial. **But it is a lead:** the defence named him
+and used "convict". Readings: rhetorical example; a passage through Wandsworth not otherwise recorded (for
+instance on the way from Chelmsford to Broadmoor, which the Guardian describes as a train to Liverpool Street); or
+a different Gouldstone. **Check: Wandsworth prison registers, 1883 (National Archives, PCOM 2, or London Metropolitan
+Archives).**
+
+### 58. ADA'S FIRST ACQUAINTANCE WITH WILLIAM: 1 JUNE (supersedes the figures in Contradiction 21)
+- **Ada, deposition of 18 August, image 0011:** "I have known prisoner since 1st June last." Previously transcribed
+  as "7th June", a misreading.
+- **IPN, 25 August**, reporting the same answer at the same hearing: "since the 1st of June".
+- **Ada, Old Bailey:** "I had lived there about ten weeks" (ten weeks before 8 August is 30 May).
+**Assessment.** One sworn answer and one sworn duration agree. The deposition dates her acquaintance, not the
+tenancy; that the Hamiltons came to lodge on or about 1 June is a reading of the two together, strong but a reading.
+Only the Daily News's "three weeks" (inquest report) remains outside. Chapter Six now reads "On the first of June
+1883" (Rik, 30 September 2026).
+
+### 59. GOULD, CROSS-EXAMINED, 18 AUGUST: "SEVERAL TIMES" OR "ONLY IN CONNEXION WITH THIS CASE"
+- **Sworn deposition, image 0024:** "Cross-exd. I have seen prisoner several times."
+- **The Times, 20 August** and **IPN, 25 August** (independent texts): "I have only seen the prisoner in connexion
+  with this case."
+**Assessment.** Very likely the clerk's compression of one answer. It is not evidence of earlier medical contact
+between Gould and William, and dramatis_personae has been corrected. The rest of the cross-examination, the
+"Cyclopaedia of Practical Medicine" and the Bench's refusal, is in the press only; the deposition records none of it.
+
+### 60. DR TWINING'S ABSENCE FROM THE EXAMINATION
+- **IPN, 25 August:** Batcheler "did not propose to call Dr. Twining, as he was very ill." Single press source; the
+  Times is silent. Twining gives evidence at no hearing.
+
+### 61. WHO SAT WITH POWELL ON 18 AUGUST
+- **Examination cover, image 0043:** "two of Her Majesty's Justices". Only Nath. Powell signs anything.
+- **The Times, 20 August:** Gould "re-called by Mr. Lister". Lister is the likely second justice; not confirmed.
+
+### NEWLY ESTABLISHED, not contradictions
+- **The examination of 18 August was the only hearing at which the defence cross-examined.** Ada's answers to
+  Atkinson survive in her deposition (images 0010 to 0012): known him since 1 June; never short of money; "Never heard
+  him complain of his wife pawning his things"; "I never heard the prisoner say she wished the children were dead";
+  "He never spoke to me on the Sunday previous that he had a fit of Cleptomania coming on"; the cord in his hands, no
+  slip noose noticed; "At the time the murder was committed he seemed Excited." Cheeseman's: "I never heard the wife
+  of prisoner say she had already wished the children dead"; "I never heard the word 'Pawn' in his wife's presence."
+  The questions are recoverable only as subjects; why they were asked is not recorded and must not be supplied.
+- **The Bench refused the insanity questions.** Times, 20 August: Batcheler, "insanity was not a question for the
+  consideration of this Court"; Atkinson, he "would have to get the questions put through counsel at another place";
+  "The Bench having dissented to the cross-examination".
+- **"I reserve my defence" is unsigned** (image 0025), against the form's printed instruction "Get him to sign it
+  if he will."
+- **Cole was held at the Clerkenwell House of Detention from 20 August** (Treadwell and Dr Thomas Jackson, Old
+  Bailey). A Surrey prisoner committed to the Central Criminal Court that week went to Clerkenwell; this strengthens,
+  but does not establish, Clerkenwell as William's "House of Detention".
+- **A contemporary noticed a wife's silence, in the paired case.** Tuke on Cole: "his wife could not give evidence
+  in court, while her intimate knowledge of his history would have been of the highest value to a medical
+  commission." About Cole's wife, not Elizabeth. Logged in the Elizabeth thread file as context.
+- **The Police News pictured Elizabeth.** Cover of 18 August: a woman sitting up in bed, two infants on the coverlet,
+  a bearded man with a hammer. A week later its portrait of "The Prisoner Gouldstone" shows a moustache and no beard.
+  Whether later papers pictured her is unchecked.
+
+### RECONCILED 30 September 2026 WITH A PARALLEL SESSION'S QUOTATION CHECK OF CHAPTERS EIGHT TO ELEVEN
+A second session checked every quotation in Chapters Eight to Eleven against the manuscript and newspaper images.
+It reported Chapters Ten and Eleven clean (after fixing three Gould quotations in Chapter Eleven and Grantham
+Robinson's letter, already in the repository), and three findings for Eight and Nine. That session also numbered two
+contradictions "57" and "58", which collide with the numbers above; **its files were not uploaded, and its findings
+are entered here instead, as 62 to 64.** One of its findings is wrong and is reversed below.
+
+### 62. GOULD, 18 AUGUST: "NOT POSSIBLE TO LIVE", NOT "TO SAVE"
+- **Deposition, image 0023:** "They were living but not possible to live." Read independently in both sessions.
+  The transcription's "save" was a transcriber's tidying, and Chapter Eight quoted it: "They were living, he said,
+  'but not possible to save.'"
+- **The same answer in the press:** "I saw it was impossible that they could live" (Times, 20 August); "I thought it
+  impossible that the children could live" (IPN, 25 August).
+**Assessment.** "Live" is right and "save" must come out of quotation marks. The clerk compressed "impossible that
+they could live". **DONE 30 September 2026 (Rik): Chapter Eight now paraphrases, "They were alive, he said, but neither could
+survive."**
+
+### 63. "PREYING" OR "PLAYING": THE PARALLEL SESSION'S WITHDRAWAL IS ITSELF WRONG
+- The parallel session reported that "both sworn records say 'playing'" and that MASTER_NOTES' claim that "the
+  constable corrected this in cross-examination" has nothing behind it, and withdrew the claim.
+- **The Old Bailey account, `sources/trial-docs/Trial Account Old Bailey website.txt`, line 23, immediately after
+  Wheatley's evidence-in-chief (which prints "playing"):** "Cross-examined. He said 'preying,' not 'playing.'"
+- The 18 August deposition (image 0021) and the IPN print "playing"; The Times of 20 August prints "preying".
+**Assessment.** The correction is in the sworn record, on cross-examination at the Old Bailey, and MASTER_NOTES was
+right. **Chapter Nine's "preying" stands and needs no change.** The withdrawal must not be carried into any file.
+
+### 64. CHAPTER NINE'S "NOW I AM HAPPY" SENTENCE: A COMMA, NOT A FULL STOP
+- **Old Bailey (Cheeseman):** "he added 'Now I am happy, I thought it was time to put a stop to it'".
+- **Chapter Nine, line 9:** "Now I am happy. I thought it was time to put a stop to it."
+**Assessment.** Chapter Nine uses the Old Bailey wording (MASTER_NOTES, Chapter Nine decisions), so under the
+writing rule that quotations keep their source's punctuation, the comma should be restored. **DONE 30 September 2026 (Rik): comma restored in Chapter Nine.**
+
+**Also from that session:** Gould's coroner deposition fixes ("oozing", "no marks of violence", "on the right side
+of the head & face", "stout string") are already in the repository and in Chapter Eleven. Folkard's "Albert" is
+handled as Rik decided here: manuscript reading restored with [sic].
