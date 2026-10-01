@@ -585,7 +585,7 @@ Useful for tightening birth-year estimates from stated ages across all family li
 **GitHub:** `https://github.com/m4hmw4ddy2-lgtm/goldstone-book`. Clone fresh each session (`git clone --depth 1`); never read files through raw.githubusercontent.com or any CDN.
 
 ### Folder structure
-- `chapters/` — the drafted chapters; `chapters/old/` holds superseded drafts
+- `chapters/` — the drafted chapters (`chapters/old/`, the superseded drafts, was deleted by Rik on 1 October 2026; earlier versions are in the git history)
 - `notes/` — the working notes (below); `notes/archive/` holds superseded session logs and retired sections, searched when cited, never treated as current
 - `transcribed/` — transcriptions of press and other sources (active path, NOT `/transcriptions/`); each header records what has been checked against the image
 - `sources/trial-docs/` — witness statements and depositions (CRIM 1/19/2 images with transcriptions), coroner depositions, the magisterial examination cover, the Old Bailey account, the Home Office letter of 1901
