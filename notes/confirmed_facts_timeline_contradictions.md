@@ -287,7 +287,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 
 ### MRS PELLY AND MISS SKINNER
 
-- **Mrs Raymond Pelly**: wife of the vicar of St John the Evangelist, Stratford. Founded **St Agatha's Refuge**, Stratford, **1883** — same year as murders. First premises at back of what became Trinity College Mission Church. Church of England rescue institution for women in moral distress. [Essex Archives Online, D/CAc 12/18]
+- **Mrs Raymond Pelly**: wife of the vicar of St John the Evangelist, Stratford. Founded **St Agatha's Refuge**, Stratford, **1883** — same year as murders. First premises at back of what became Trinity College Mission Church. Church of England rescue institution for women in moral distress. [Essex Archives Online, D/CAc 12/18] **Checked 1 October 2026 against the catalogue entry (Essex Archives Online, D/CAc 12/18, "Stratford (Newham) branch", 1925-1968, administrative history; https://www.essexarchivesonline.co.uk/Result_Details.aspx?DocID=592854):** "The refuge known as St Agatha's was founded at Stratford in 1883 by Mrs Raymond Pelly, wife of the vicar of St John the Evangelist, Stratford"; first "at the back of the present Trinity College Mission Church", later "a house at Stratford Green, and then again to a house in West Ham Lane"; Disraeli Road 1909-1916, Romford Road from 1916; closed March 1968. The month of founding is not given; the Times shows it existing by 18 August. NOT on the item page: "Church of England rescue institution for women in moral distress". That description comes from the parent collection (a diocesan rescue and girls' aid association, records from 1898), not from anything about St Agatha's in 1883; do not use it in prose. The entry is a modern archival history, not a contemporary document.
 - **Miss Skinner**: worked for Mrs Pelly's Refuge. Visited William in his cell at Stratford after the examination and committal of **Saturday 18 August** (corrected 30 September 2026 from "20 August", the Times's publication date). William "manifested a repentant mood." [Times 20 Aug]
 - Note: all references to "Mrs Bayly's Refuge" in older project notes are errors — correct identification is Mrs Pelly.
 
@@ -2983,3 +2983,35 @@ accordance with the order of the Home Secretary." A second source for the date, 
 Daily Post of 1 October. The Post is now its identified source. Note that "He is either a murderer of the worst type
 or an irresponsible lunatic" is the NEWSPAPER'S comment; master-index.md had attributed the argument to the BMJ
 (corrected there).
+
+
+### 84. THE MORNING ADVERTISER OF 20 AUGUST (page 6): A NEW SOURCE FOR 18 AUGUST (1 October 2026)
+`transcribed/Morning_Advertiser_20_August_1883_p6_transcription.txt`, from Rik's image. The evidence (Ada to Gould) is an
+abridged setting of the IPN/Guardian copy: ONE witness with them. The last three paragraphs are the paper's own and
+new: the prisoner in the dock (Powell read the charge; Honey brought the mug of water at his request; "About ten
+minutes later the case was concluded"); Miss Skinner's visit in full ("joined in prayer"; "every man's hand was
+against him"; "Amen"; "that defiance" when the constable appeared); and the departure by ruse (decoy cab at the
+prisoners' exit, constables towards the Three Choppers coffee palace, brougham from the Grove to the magistrates'
+entrance, the chase, the block at Angell Lane, the crowd running to Stratford main station, "safely lodged at
+Clerkenwell"). Spells "Mr. Batchelor".
+
+### 85. MISS SKINNER'S VISIT: BEFORE OR AFTER THE HEARING?
+- **Times, 20 August:** after. "During the proceedings ... Subsequently, however, on being visited in his cell by Miss
+  Skinner".
+- **Morning Advertiser, 20 August:** "While he was in his cell Miss Skinner ... was accorded the privilege of visiting
+  him", placed in the paragraph about his arrival, before the departure. Does not say before or after the hearing;
+  the placing suggests before.
+**Assessment:** the Times is explicit and the Advertiser is not. Chapter Twelve's "Afterwards" follows the Times. Not
+resolved; do not build a sequence on the Advertiser's placing.
+
+### 86. CROWDS AT "BOTH" OR "THREE" STATIONS
+- **Guardian, 25 August:** crowds at "the Stratford Main and Maryland Point Railway Stations".
+- **Morning Advertiser, 20 August:** "A crowd of several hundreds waited at each of the three stations at Stratford".
+Chapter Twelve, movement one: "This time there were crowds at both." For Rik.
+
+### 87. "ABSENT"
+- **Times, 20 August (Ada, cross-examined):** "not absent or wandering".
+- **Morning Advertiser, 20 August (same answer, IPN/Guardian copy):** "Since the birth of the twins I have noticed he
+  appeared absent."
+- **Ada's deposition of 18 August (image 0012):** neither word.
+A straight contradiction between two reports of the same cross-examination. Neither is in Chapter Twelve.

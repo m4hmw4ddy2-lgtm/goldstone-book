@@ -333,6 +333,12 @@ Status: READ
 Key content: The examination and committal of Saturday 18 August (not a remand; corrected 30 September 2026). Ada cross-examined; insanity questions to Gould refused by the Bench; committed, reserving his defence. Reprinted word for word by the Bury Free Press, 23 August (one witness, not two). Miss Skinner, working for **Mrs Pelly's Refuge Home** (NOT Mrs Bayly — earlier notes were wrong; correct identification is Mrs Raymond Pelly, wife of vicar of St John the Evangelist, Stratford, who founded St Agatha's Refuge, Stratford, 1883), visited William in cell; he manifested a repentant mood.
 Book section: Part Two, Part Three
 
+**Morning Advertiser, 20 August 1883, page 6**
+`transcribed/Morning_Advertiser_20_August_1883_p6_transcription.txt` (image: in the repository, filename to be added)
+Status: READ, transcribed 1 October 2026 from Rik's image
+Key content: The committal of 18 August. Evidence abridged from the IPN/Guardian copy (one witness with them). Its own: the dock (Powell reads the charge; Honey brings the water); Miss Skinner's visit in full ("joined in prayer", "Amen", "that defiance"); the departure by ruse (decoy cab, Three Choppers coffee palace, brougham from the Grove, the chase, Angell Lane). "Mr. Batchelor". Contradictions 84 to 87.
+Book section: Part Three (Chapter Twelve)
+
 **Western Times, 14 August 1883**
 `transcribed/Western_Times_14_Aug_transcription.txt`
 Status: READ
