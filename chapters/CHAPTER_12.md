@@ -28,7 +28,7 @@ Police-constable Honey had gone for Dr Twining at about ten minutes to six that 
 
 Inspector Folkard told again what William had said to him at the station, and of those words he said, "He volunteered all this statement to me." To Folkard he had seemed "very slightly excited". He "was not vacant but was rather cool." Police-constable Wheatley, who had been in the passage outside the cell that night, gave the three things William had said to him there. He had not heard him mumble or talk to himself, and had seen no traces of drink about him. He had appeared, Wheatley said, "perfectly cool", and "not strange in the least."
 
-Last came Henry Gould, the divisional surgeon. He described the two infants he had found in the front room on the first floor, and the three boys side by side in the kitchen, the mark on Charles's throat, his return to the house that evening and the next morning, and the post-mortem examinations of the whole of the five. The two youngest had died of the violence done to them, the three others of suffocation caused by drowning.
+Last came Henry Gould, the divisional surgeon, with his findings from the house and the post-mortems, as the inquest had heard them five days before.
 
 "All the bodies of the children were well nourished."
 
