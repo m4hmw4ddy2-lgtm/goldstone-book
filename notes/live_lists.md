@@ -71,7 +71,8 @@
 - ~~**Emma Ansell's age in 1851**~~ DECIDED 1 October 2026 (Rik): Chapter Two says ten. The census wrote eight; the
   burial (21, October 1861) and the 1861 census (20) put her birth between April and October 1840.
 - **Emma Ansell's baptism, 30 May 1841, Wethersfield:** the index gives the mother as "Mary", not Jemima. Check the
-  register image: a slip, or another John Ansell's daughter? Not used in prose until checked.
+  register image: a slip, or another John Ansell's daughter? Not used in prose until checked. Low priority: her birth
+  (GRO, Q3 1840, Braintree, maiden name Suckling) is now certain without it.
 - Alice Gouldstone, sub-postmistress, Great Sampford (directory, likely 1894): a baptism or birth record naming Thomas
   and Emily as parents is needed before treating her as William's sister (dramatis_personae.md).
 - Edward Suckling's marriage date and his wife's surname.
