@@ -22,8 +22,8 @@
   84): Miss Skinner's visit in full (attributed; "Amen" the only word quoted as his), the Pelly clause in the form
   keeping the Times's name ("Mrs Pelly's Refuge Home, which the wife of the vicar of St John's, Stratford, had founded
   that year"; catalogue D/CAc 12/18), and the departure by ruse stated as observed fact with the Guardian's cordon at
-  the magistrates' entrance. Ends: "He was driven on to Clerkenwell." Movement one: "crowds at the stations", not "at
-  both" (Contradiction 86). "Afterwards" for the visit follows the Times (Contradiction 85).
+  the magistrates' entrance. Ends: "He was driven on to Clerkenwell." Movement one: "crowds at all three stations" (Rik,
+  revised from "at the stations"; Contradiction 86). "Afterwards" for the visit follows the Times (Contradiction 85).
 - **Selection rule for Chapter Twelve (Rik, 1 October 2026, from an outside editorial note, reviewed point by point):
   repeat earlier evidence only where the courtroom changes what it means.** Folkard, Wheatley, Cheeseman and Honey
   pass (one clause of old material each, then new answers under cross-examination). Gould did not: his paragraph

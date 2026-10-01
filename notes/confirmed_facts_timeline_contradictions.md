@@ -3008,7 +3008,9 @@ resolved; do not build a sequence on the Advertiser's placing.
 - **Guardian, 25 August:** crowds at "the Stratford Main and Maryland Point Railway Stations".
 - **Morning Advertiser, 20 August:** "A crowd of several hundreds waited at each of the three stations at Stratford".
 Chapter Twelve, movement one: "This time there were crowds at both." **Decided 1 October 2026 (Rik): "This time there
-were crowds at the stations."** No number stated.
+were crowds at the stations."** No number stated. **Revised the same evening (Rik): "This time there were crowds at
+all three stations"**, following the Morning Advertiser; the Guardian's two named stations are not contradicted by it,
+only incomplete.
 
 ### 87. "ABSENT"
 - **Times, 20 August (Ada, cross-examined):** "not absent or wandering".
