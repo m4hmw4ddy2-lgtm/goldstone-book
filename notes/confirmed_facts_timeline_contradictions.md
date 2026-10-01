@@ -300,6 +300,9 @@ instructions point here; the old MASTER_NOTES table is kept word for word in
 `notes/archive/MASTER_NOTES_retired_sections_2026-10-01.md`, because several of its rows carry research detail
 (informants, registrars, witnesses) that belongs with the person in `dramatis_personae.md`. When a date changes,
 change it here and grep the repository for the old one (standing rule two).
+A row's presence here is not proof that it has been verified: the dates were last checked as a set on 18 September
+and 1 October 2026, and they drift back into error easily. Re-check any date against its source before it goes into
+prose, and again if this table is more than a few weeks old when read (carried over from the project instructions).
 
 **What the rebuild corrected, against the sources the notes already cite:**
 - Elizabeth's birth: **18 February 1855, "The Village", Wethersfield** (GRO birth certificate). Both old tables said
@@ -412,7 +415,7 @@ change it here and grep the repository for the old one (standing rule two).
 | 3 Oct (Wed) | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Contradiction 80). Confirmed by Rik, 30 Sep 2026. The day the Sheriff was told ("Wednesday", Preston Chronicle) may be the 3rd or the 10th | Daily News 6 Oct |
 | 6 Oct | BMJ Medical News and editorial (pp.682-683); Penny Illustrated | BMJ; Penny Illustrated |
 | 13 Oct | Certified of unsound mind; to be removed to Broadmoor | Preston Chronicle 13 Oct |
-| 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct |
+| 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct; 1935 inquest papers ("admitted here on 15 October 1883 from Chelmsford Prison") |
 | 18 Oct | Cole tried before Denman; convicted; later reprieved | Old Bailey t18831015-964 |
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
 | 1883-1887 | Elizabeth disappears from the documentary record | — |

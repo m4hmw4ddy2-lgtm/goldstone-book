@@ -80,6 +80,7 @@
   James's Street buildings file; rate books 1880-1900; Burial Board minutes; photographs of Courtenay Place;
   demolition date.
 - **National Archives Discovery:** search "Gouldstone" within HO 144.
+- **Royal Berkshire Archives:** register interest in the Broadmoor file, as a request to be told when it opens in 2036 (not a route in; see MASTER_NOTES, "THE BROADMOOR FILE"). Whether this has been done is not recorded.
 - **Emily Forster, Royal Berkshire Archives:** the case-book enquiry, drafted, not sent (see section 4).
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
@@ -92,7 +93,7 @@
 4. Cole's inquest or Croydon police-court report (c.20–25 August 1883)
 5. Illustrated Police News, 22 September, and Penny Illustrated, 6 October 1883: the pictures only, to see whether Elizabeth is pictured again
 6. Tuke and Savage, The Cases of Gouldstone & Cole, Lewes: H.W. Wolff, 1883
-7. Savage, Journal of Mental Science Vol.29, Issue 128, January 1884 (Tuke's account of both cases is quoted at length in Clark Bell, Medico-Legal Journal, December 1884, already in sources/pdfs/)
+7. Savage, Journal of Mental Science Vol.29, Issue 128, January 1884, pp.534-539 and pp.603-607 (Tuke's account of both cases is quoted at length in Clark Bell, Medico-Legal Journal, December 1884, already in sources/pdfs/)
 8. Vestry House Museum: Gouldstone biography file; Grantham Robinson biography file; W28 St James's Street buildings file; rate books 1880-1900; Walthamstow Burial Board minutes (the mortuary in 1883; the inquest room's dimensions)
 9. BMJ on Cole/Thornton Heath murder: Vol 2, 1883, pp.829 and pp.880
 10. GRO certificate: William death 1935 (the five children's certificates are not needed: the death index, S qtr 1883 West Ham 4a 102, gives what the book uses, including the twins as "Male")
@@ -170,7 +171,7 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 - "Warner flat" — not confirmed; predates the Warner Estate Company (registered 1891)
 - "Twins were girls" — both twins were male
 - "Gouldstone is 43 years of age" (Telegraph first report, 9 Aug) and "thirty-five" (Evening Gazette, Middlesbrough, 9 Aug) — both wrong; he was 26 (GRO birth certificate, 10 October 1856)
-- "Dr Gover" as the doctor who examined William after sentence — it was Dr Clarke of London, with Orange (Sunday Dispatch, 30 Sep 1883); Gover examined Cole (Contradiction 20)
+- "Dr Gover" as the doctor who examined William after sentence — it was Dr Clarke of London, with Orange (Sunday Dispatch, 30 Sep 1883). Tuke's "Dr. Glover", almost certainly Gover, examined Cole; the 1917 obituary probably conflates the cases (Contradiction 20, inference)
 - "Edward Ansell" as Jemima's father — the 1854 marriage register's clerk wrote her married surname; her birth surname is Suckling
 - "Jemima Suckling born 23 Nov 1811, Wethersfield" — unsourced; baptised 15 Dec 1811, Hornchurch
 - "Elizabeth Stock, only child" / "half-brother Arthur Ansell" (singular) — Jemima had eight children by her first marriage; see dramatis_personae.md
