@@ -352,3 +352,36 @@ And Cole's wife had gone to the magistrates and been told "that they could do no
 act." Both are about Cole's wife, who is never named in his trial record. They are context for this thread, not
 evidence about Elizabeth, and the prose must not borrow either for her. This does answer part of the open question in
 section 3: a contemporary did notice a wife's incompetence as a witness, in print, within months, though not hers.
+
+## 9. The statement in Part One: what is spent and what is held back (1 October 2026, Rik)
+**Decision.** Rik: quoting Elizabeth's words in Part One "gives her presence and engages the reader more". The linear
+rule is amended to allow it (project instructions, LINEAR RULE, amended 1 October 2026): a later document may be quoted
+for the years before the eighth of August; for anything from the eighth onwards its words wait for its own chapter.
+Section 6's "a turn, not a sample" still governs the statement's chapter. These two limits are what keep it a turn.
+
+**Limit one: Part One does not say what the statement was for.** Not that it was written to save his life, not that it
+argues he was insane, not its conclusion. **One sentence in Part One currently breaches this, for Rik to decide:**
+Chapter Five: "Four and a half years later, Elizabeth would write that she had never known, until very lately, that
+there was any insanity in the family." That is the statement's closing argument, given away in Part One. Not changed;
+prose waits for Rik.
+
+**Limit two: spent lines.** Quoted in Part One as of 1 October 2026 (Essex Weekly News text unless stated):
+- Ch 5: "We commenced housekeeping on 21s. a week," / "and latterly he had 25s."
+- Ch 5: "Before we had the first child, and right on till the birth of the second," / "we regularly went to Church."
+- Ch 5: "except in the way of saying how sorry he was that my hands were so full, and that we could not go out together
+  as we used to do. That was the only way in which he ever spoke of the burden of the family." (Essex reads "burthen";
+  see live_lists.md, actions.)
+- Ch 5: "He was painfully aware of how easy it was for him to get worried, and he has often said to me that it was a
+  good job he had not much to think of, as if he had he believed it would turn his brain."
+- Ch 6: "During our five years married life," / "I frequently noticed ... something not concerning the question."
+Paraphrased, not quoted, in Part One (the facts are used; the words remain available): his few acquaintances; his
+liveliness and help about the house; lots of people manage on less; "not many weeks to live".
+("There's my Charley" and "I have a very large family" in Chapter Six are not from the statement: Guardian of 18 August
+and the press of 11 August respectively.)
+
+**Held back for the statement's chapter: everything else**, and in particular the concertina and the children who
+"never tired listening"; "Nothing that he ever said or did ... gave me the least fear"; the cup of tea "every morning
+from their birth till their death"; that he "never took any notice of the babies"; his going out when the twins were
+born and returning with "his eyes strange and wandering"; the doorway and the foreman; the House of Detention visits and
+"as happy as a child at play"; and the conclusion, "I am certain that he was insane." Before Part One quotes any further
+line, check it against this list and add it here.

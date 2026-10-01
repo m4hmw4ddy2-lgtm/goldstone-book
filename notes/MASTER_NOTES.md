@@ -1155,3 +1155,12 @@ removed); and `notes/acknowledgements_running_list.md` was started.
 - **New convention, all manuscript quotations:** keep a clerk's words and punctuation, not his handwriting capitals.
 - **Chapter Eight:** the vicar's visit reduced to the fact alone; the 10 August letter's words moved to Chapter
   Eleven, where the letter is dated (linear rule). See the timeline file, section after Contradiction 65.
+
+### 1 October 2026: the linear rule amended (Rik)
+Rik decided to keep Elizabeth's statement quoted in Chapters Five and Six: her words give her a presence in Part One
+she has nowhere else. The linear rule (project instructions) now reads: from the eighth of August onwards, a later
+document's words wait for its own chapter; before the eighth, a later document may be quoted. Two limits protect the
+statement's chapter: Part One does not say what the statement was for, and only the lines already quoted are spent.
+Lists and the one sentence in breach (Chapter Five, "insanity in the family"): elizabeth_thread_presence_as_absence.md,
+section 9.
+

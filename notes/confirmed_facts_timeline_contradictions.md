@@ -315,10 +315,13 @@ prose, and again if this table is more than a few weeks old when read (carried o
 - The move to Courtenay Place: **about September 1882**, counted back from Emma Clarke's "eleven months".
 - Savage's Lancet letter: **dated 14 September, published 22 September** (the Lancet image). MASTER_NOTES said
   "15 Sep".
-- **William's mother: MASTER_NOTES's "~Late Jul 1883, William's mother makes another suicide attempt" has no source
-  and does not match the Old Bailey.** William's sister Emily, cross-examined on 14 September: "I heard her threaten
-  to do so about a fortnight or three weeks ago"; re-examined: "I have heard of my mother attempting suicide before a
-  fortnight ago, years ago." So: a threat, in late August, not an attempt in late July. Row replaced below.
+- **William's mother (CORRECTED AGAIN the same day, 1 October 2026, after the Times of 15 September was checked):**
+  MASTER_NOTES's "~Late Jul 1883, William's mother makes another suicide attempt" was wrong in one word, not in its date.
+  Thomas Gouldstone at the trial (The Times, 15 September): "About eight weeks ago she threatened to take her life",
+  which is about the third week of July. William's sister Emily (Old Bailey): "I heard her threaten to do so about a
+  fortnight or three weeks ago"; re-examined, "I have heard of my mother attempting suicide before a fortnight ago,
+  years ago." So: threats, reported by two witnesses, in about late July and about late August; the known attempts
+  were years earlier. The first version of this note said the late-July date had no source. It had one.
 - The 3 October row no longer carries the superseded "c.10 October" reasoning inside it.
 - The old table's "3 Aug (Thu)" is a mislabel: 3 August 1883 was a Friday. Ada's Old Bailey evidence is "he went to his
   work on the Thursday and Friday, but not after the Friday", that is, 2 and 3 August.
@@ -363,6 +366,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 20 Dec 1882 | Robert Gouldstone, William's uncle, dies at Queens Road, Walthamstow | GRO death certificate, entry 432 |
 | c. Jan 1883 | Lift rope breaks at the Falkirk Ironworks; William's suicidal statement to Skelton | Skelton, Old Bailey |
 | 1 Jun 1883 | Ada Hamilton has "known prisoner since 1st June"; with her sworn "about ten weeks" in the house, the Hamiltons came to lodge on or about 1 June. Not "7 June" (Contradiction 58) | Ada, deposition 18 Aug (image 0011); Old Bailey |
+| c. late Jul | Thomas: his wife "threatened to take her life" "about eight weeks ago" (eight weeks before the trial). A threat, not an attempt | Thomas Gouldstone, Times 15 Sep |
 | 1 Aug 1883, 10.30pm | Elizabeth confined of twins, two male children, 8 Courtenay Place | Emma Clarke, Times 11 Aug |
 | 2 Aug | Graves notices the change; William: "only my head is very queer" | Graves, Old Bailey |
 | 2 Aug, night | William the worse for drink; did not speak when told of the twins | Emma Clarke, Old Bailey |
@@ -398,7 +402,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 20 Aug | Cole received into the Clerkenwell House of Detention | Old Bailey t18831015-964 (Treadwell) |
 | 25 Aug | Royal assent, Trial of Lunatics Act 1883 (TO VERIFY against the statute) | part_three_context_law_and_medicine.md |
 | 28 Aug (Tue) | The Club Minstrels' benefit for Elizabeth, Workmen's Hall (Contradiction 76) | Guardian 1 Sep |
-| c. late Aug | William's sister Emily hears their mother threaten suicide, "about a fortnight or three weeks" before the trial. Replaces "~Late Jul 1883, another suicide attempt", which had no source | Emily Gouldstone, Old Bailey (cross-examined and re-examined) |
+| c. late Aug | William's sister Emily hears their mother threaten suicide, "about a fortnight or three weeks" before the trial; the attempts were "years ago" | Emily Gouldstone, Old Bailey (cross-examined and re-examined) |
 | 5 Sep | Grantham Robinson's letter to the Guardian, enclosing Graves's letter for himself and his fellow-workmen (Contradiction 75) | Guardian 8 Sep |
 | 10 Sep (Mon) | September sessions of the Central Criminal Court open; Commissioner Kerr's charge to the grand jury | Liverpool Mercury 10 Sep; depositions docket (image 0026); Guardian 15 Sep |
 | 11 Sep (Tue) | Grand jury return a true bill | Times 12 Sep |

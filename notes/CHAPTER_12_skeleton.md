@@ -39,6 +39,11 @@
 4. **CONFIRMED 30 September 2026 (Rik): the reading of the linear rule above is right.** Chapter Thirteen states
    the visits and the letter as facts; it does not quote the statement's words about them. "As happy as a child at
    play" waits for the statement's chapter.
+4a. **AMENDED 1 October 2026 (Rik).** The linear rule now distinguishes before and after the eighth of August: a later
+   document may be quoted for the years before it (Elizabeth's statement in Part One); from the eighth onwards its words
+   wait for its own chapter. Nothing above changes: the House of Detention visits are after the eighth, so Chapter
+   Thirteen still states them as fact. Full wording in the project instructions; spent and reserved lines in
+   elizabeth_thread_presence_as_absence.md, section 9.
 5. **Chapter endings (Rik):** chapters do not all have to close on Elizabeth, "in fact it would be predictable if
    they did". Recorded as a standing note for the rest of the book. **Chapter Thirteen closes on the sessions
    notice and the true bill**, as recommended; the visits sit earlier, undated.

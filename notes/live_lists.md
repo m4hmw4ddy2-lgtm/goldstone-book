@@ -92,6 +92,13 @@
 - **Emily Forster, Royal Berkshire Archives:** the case-book enquiry, drafted, not sent (see section 4).
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
+- **"burden" or "burthen":** the Essex Weekly News reads "burthen of the family" (checked against its image). Our
+  Western Daily Press transcription reads "burden", but the Essex file's header says the Western Daily Press
+  "independently agrees" with "burthen". Check that one line of the Western Daily Press against its image, record it in
+  the header, and then Chapter Five quotes whichever spelling the copy text has (Essex Weekly News is the copy text, so
+  "burthen" unless the check finds otherwise).
+- **Chapter Five, "insanity in the family" sentence:** gives away the statement's conclusion in Part One, against the
+  amended linear rule. Rik to decide (elizabeth_thread_presence_as_absence.md, section 9).
 - ~~**master-index.md:** rebuild~~ done 1 October 2026 (see its header).
 
 ## 4. SOURCES STILL TO OBTAIN (priority order)
@@ -192,7 +199,7 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 - "Edward Suckling (1784–1864), Sarah Crawley (1790–1870)" as dates — unsourced Ancestry hints; Edward b. Barking c.1785–87
 - Blean as Elizabeth's place of death — it is the registration district; she died at Beach Alley, Whitstable (GRO certificate)
 - "Brewery House" as Elizabeth's birthplace — it is the 1861 census address; the birth certificate says "The Village", Wethersfield (corrected 1 October 2026)
-- "~Late Jul 1883, William's mother makes another suicide attempt" — no source; the Old Bailey has his sister hearing a threat "about a fortnight or three weeks" before the trial (corrected 1 October 2026; see the dates table)
+- "~Late Jul 1883, William's mother makes another suicide attempt" — it was a threat, not an attempt: "About eight weeks ago she threatened to take her life" (Thomas, Times 15 Sep); his sister heard another "about a fortnight or three weeks" before the trial (Old Bailey). Both are in the dates table
 - "White Horse", Moor End, Great Sampford — census index error; the building is the White House (Historic England 1322551)
 - "W The Church", Great Sampford (1891) — index error; the image reads "Nr The Church"
 - "Nillett Gouldstone" (1911 census index) — a misreading of Willett
