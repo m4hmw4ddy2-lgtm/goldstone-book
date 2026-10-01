@@ -18,6 +18,12 @@
   difficulty getting him away, the cordon and the drive to Clerkenwell stated as fact. Ends: "He was driven off in
   the brougham to Clerkenwell."
 - Press rule refinement (see MASTER_NOTES, Press as press): a blend of attributed and observed.
+- **Later the same evening (Rik): movement four redrafted from the Morning Advertiser of 20 August, p6** (Contradiction
+  84): Miss Skinner's visit in full (attributed; "Amen" the only word quoted as his), the Pelly clause in the form
+  keeping the Times's name ("Mrs Pelly's Refuge Home, which the wife of the vicar of St John's, Stratford, had founded
+  that year"; catalogue D/CAc 12/18), and the departure by ruse stated as observed fact with the Guardian's cordon at
+  the magistrates' entrance. Ends: "He was driven on to Clerkenwell." Movement one: "crowds at the stations", not "at
+  both" (Contradiction 86). "Afterwards" for the visit follows the Times (Contradiction 85).
 
 ## DECIDED 30 September 2026 (Rik)
 

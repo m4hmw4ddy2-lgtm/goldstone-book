@@ -3007,7 +3007,8 @@ resolved; do not build a sequence on the Advertiser's placing.
 ### 86. CROWDS AT "BOTH" OR "THREE" STATIONS
 - **Guardian, 25 August:** crowds at "the Stratford Main and Maryland Point Railway Stations".
 - **Morning Advertiser, 20 August:** "A crowd of several hundreds waited at each of the three stations at Stratford".
-Chapter Twelve, movement one: "This time there were crowds at both." For Rik.
+Chapter Twelve, movement one: "This time there were crowds at both." **Decided 1 October 2026 (Rik): "This time there
+were crowds at the stations."** No number stated.
 
 ### 87. "ABSENT"
 - **Times, 20 August (Ada, cross-examined):** "not absent or wandering".
