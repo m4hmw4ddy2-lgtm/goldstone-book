@@ -372,7 +372,7 @@ Book section: Part Two (potential illustration reference)
 **IPN page 2, 25 August 1883**
 `transcribed/IPN_p2_Aug_25_1883_THE_TRAGEDY_AT_WALTHAMSTOW.txt`
 Status: READ
-Key content: The examination and committal of Saturday 18 August (25 August is the publication date). Independent of the Times report. Dock behaviour; Batcheler for the Treasury; Ada cross-examined; Twining "very ill" and not called; the insanity exchange; reserved his defence. THE SOURCE IMAGE IS NOT IN THE REPOSITORY and the transcription is unchecked.
+Key content: The examination and committal of Saturday 18 August (25 August is the publication date). Independent of the Times report. Dock behaviour; Batchelor for the Treasury; Ada cross-examined; Twining "very ill" and not called; the insanity exchange; reserved his defence. THE SOURCE IMAGE IS NOT IN THE REPOSITORY and the transcription is unchecked.
 Book section: Part Three (Chapter Twelve)
 
 **IPN front cover illustration, 25 August 1883 — no dedicated index entry existed until 9 September 2026.**

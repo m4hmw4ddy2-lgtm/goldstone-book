@@ -2646,7 +2646,7 @@ between Gould and William, and dramatis_personae has been corrected. The rest of
 "Cyclopaedia of Practical Medicine" and the Bench's refusal, is in the press only; the deposition records none of it.
 
 ### 60. DR TWINING'S ABSENCE FROM THE EXAMINATION
-- **IPN, 25 August:** Batcheler "did not propose to call Dr. Twining, as he was very ill." Single press source; the
+- **IPN, 25 August:** Batchelor "did not propose to call Dr. Twining, as he was very ill." Single press source; the
   Times is silent. Twining gives evidence at no hearing.
 
 ### 61. WHO SAT WITH POWELL ON 18 AUGUST
@@ -2661,7 +2661,7 @@ between Gould and William, and dramatis_personae has been corrected. The rest of
   slip noose noticed; "At the time the murder was committed he seemed Excited." Cheeseman's: "I never heard the wife
   of prisoner say she had already wished the children dead"; "I never heard the word 'Pawn' in his wife's presence."
   The questions are recoverable only as subjects; why they were asked is not recorded and must not be supplied.
-- **The Bench refused the insanity questions.** Times, 20 August: Batcheler, "insanity was not a question for the
+- **The Bench refused the insanity questions.** Times, 20 August: Batchelor, "insanity was not a question for the
   consideration of this Court"; Atkinson, he "would have to get the questions put through counsel at another place";
   "The Bench having dissented to the cross-examination".
 - **"I reserve my defence" is unsigned** (image 0025), against the form's printed instruction "Get him to sign it

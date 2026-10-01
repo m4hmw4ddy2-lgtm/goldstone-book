@@ -76,6 +76,17 @@
   checked note in each file's header); "evidently probing poverty" removed from MASTER_NOTES.
 - **Movement one is still being worked on by Rik.** Movement two drafted and shown; not assembled.
 
+**DECIDED 1 October 2026 (Rik), drafting from scratch:**
+- **No word target.** The 1,500 to 1,700 estimate is withdrawn; the chapter will be what it will be.
+- **Batchelor**, not Batcheler (IPN, Guardian, Daily News; outside sources). Propagated through the notes; the Times's
+  spelling survives only inside quotations from the Times.
+- **Cheeseman's "He hadn't a piece of string in his hand" stays in** for now (Rik will edit). Caution for drafting: every
+  press report places the answer at "ready for the rope", during the arrest, so it is not set against Ada's cord on the
+  fire guard, a different moment.
+- **Wheatley, image 0022: "not strange in the least"** (Rik's reading), not "showy"; agrees with the press's "strangeness".
+- **Movement one** redrafted from scratch and revised by Rik (his text, 1 October). Open: whether it needs a sentence
+  saying this is the same Stratford Petty Sessions as on the 9th and 11th, and why he was brought back.
+
 **Still open:** the "1st June" reading and its consequence for Chapter Six; permission to propagate the fifteen
 corrections below; and the research items under OPEN BEFORE DRAFTING, of which only the Guardian of 25 August could
 change Chapter Twelve materially.
@@ -113,7 +124,7 @@ refused access).
   Stratford, "in the Court-house of the Half-Hundred of Becontree Division" (Times). In the dock "shortly after
   eleven o'clock" (IPN). **Six deponents, sworn before two justices** (cover, image 0043); every deposition and the
   statement of the accused signed by Nath. Powell; Mr Lister also on the bench (Times: Gould "re-called by Mr.
-  Lister"). Mr Batcheler of the Solicitor to the Treasury's office prosecuting; Mr Atkinson, solicitor, of
+  Lister"). Mr Batchelor of the Solicitor to the Treasury's office prosecuting; Mr Atkinson, solicitor, of
   Stratford, for the prisoner. Mr Wells the clerk. **"I reserve my defence"** (image 0025). Committed to the
   Central Criminal Court; "Insp. Craggs bound over to prosecute" (ink note at the foot of Gould's deposition,
   image 0024). Afterwards Miss Skinner in the cell; the crowd outside the station (Times only).
@@ -218,7 +229,7 @@ The second tribunal, and the first with a full sworn record. In the order of the
   smile to someone he recognised; stretching across the dock with his head on his arms; standing erect; leaning
   on the side-rail; a tin mug of water brought for him, which he sipped (IPN, 25 August). The Times has "an air of
   perfect indifference" (the repository transcription reads "affected"; the image reads "perfect").
-- **The Treasury's man.** Batcheler asks for committal and says the evidence will be short (IPN). The prosecution
+- **The Treasury's man.** Batchelor asks for committal and says the evidence will be short (IPN). The prosecution
   is now "on behalf of the Public Prosecutor" (Times), which completes what Craggs announced on the 11th in Chapter
   Ten ("The Treasury will take up the prosecution").
 - **Ada, recalled.** Her deposition of the 9th read over and resworn (as on the 11th), then cross-examined by
@@ -234,17 +245,17 @@ The second tribunal, and the first with a full sworn record. In the order of the
   appear as a sequence of men repeating it, and the chapter should give them one paragraph between them, as Chapter
   Eleven did for Smith, Bryant and Folkard. What is new: the cross-examination answers above; Cheeseman's "He
   hadn't a piece of string in his hand" (image 0015) against Ada's cord; Honey's "The string which had been around
-  the eldest child's neck was not tight; it was loose" (IPN); and **Dr Twining not called. Batcheler "did not
+  the eldest child's neck was not tight; it was loose" (IPN); and **Dr Twining not called. Batchelor "did not
   propose to call Dr. Twining, as he was very ill"** (IPN only). The man who lifted the cord from Charles's neck is
   not in the record of the case again.
 - **Gould, and the question that was not allowed.** Gould's evidence of the house and the post-mortems, which the
   reader has had in Chapter Eleven, compressed to a clause. Then Atkinson. "I should not like to say that I am
   perfectly acquainted with the 'Cyclopaedia of Practical Medicine.'" "I have a long extract, will you take it
   down?" Wells: "It is scientific evidence, I presume. I wait the order of the Bench." Gould: not well up in the
-  question of insanity, "as it was a speciality". **Batcheler: "insanity was not a question for the consideration
+  question of insanity, "as it was a speciality". **Batchelor: "insanity was not a question for the consideration
   of this Court."** Atkinson: he only wanted "a few words on the depositions before the case went before a Judge and
   Jury... he would have to get the questions put through counsel at another place." "The Bench having dissented to
-  the cross-examination", Batcheler: "this was his case." (Times, verbatim and checked against the image; the IPN
+  the cross-examination", Batchelor: "this was his case." (Times, verbatim and checked against the image; the IPN
   agrees in substance and is independent.)
   **The documentary fact that goes with it:** Gould's sworn deposition records the whole of his cross-examination
   as one line, "Cross-exd. I have seen prisoner several times" (image 0024), and nothing of the extract, the clerk
@@ -434,7 +445,7 @@ reaches for significance).
 - **Original DECIDE 7, for one chapter, superseded:**
 
 **DECIDE 7 (superseded). The ending.** (a) On Elizabeth (DECIDE 4a). (b) On the Liverpool Mercury's "the defence that will be
-set up for him will be that of insanity", which answers Batcheler across three weeks and hands straight to the trial
+set up for him will be that of insanity", which answers Batchelor across three weeks and hands straight to the trial
 (recommended if DECIDE 4 goes to (b)). (c) On the grand jury's true bill, flat. The standing instruction is that the
 second half runs through Elizabeth; (b) breaks it for one chapter, and Chapter Eleven's last line was hers.
 
@@ -453,7 +464,7 @@ Chapter Thirteen candidates, all from sources in hand and all within its own wee
 - **"At Another Place"** (Atkinson: "he would have to get the questions put through counsel at another place").
   Recommended. It names what the day did, sends the reader on to the trial, and completes the coroner's "another
   tribunal" from Chapter Eleven without repeating it.
-- "Not a Question for This Court" (Batcheler). Sharper, and closer to an editorial.
+- "Not a Question for This Court" (Batchelor). Sharper, and closer to an editorial.
 - "I Reserve My Defence" (William). His only words in the day's record, but a flat legal formula; strongest if
   DECIDE 6 makes the unsigned statement a beat.
 
@@ -559,7 +570,7 @@ Per standing rule two, each needs propagating to every file that carries it. Lis
 - **59. Gould, cross-examined, 18 August.** "I have seen prisoner several times" (sworn deposition, image 0024)
   against "I have only seen the prisoner in connexion with this case" (Times; IPN, independent texts). Likeliest
   reading: the clerk's compression of one answer. Do not build on either.
-- **60. Twining's absence.** "Very ill" (Batcheler, IPN only). Single press source.
+- **60. Twining's absence.** "Very ill" (Batchelor, IPN only). Single press source.
 - **61. Who stood beside Powell.** Two justices on the cover; only Powell signs; Lister questions Gould (Times).
 
 ---

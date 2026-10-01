@@ -292,7 +292,7 @@ Chapter Twelve skeleton).
 
 ## The committal refused the insanity question (18 August 1883)
 The Times, 20 August: Atkinson tried to put questions on insanity to Gould from the "Cyclopaedia of Practical
-Medicine"; the clerk, Wells, "waited the order of the Bench"; Batcheler for the Treasury said "insanity was not a
+Medicine"; the clerk, Wells, "waited the order of the Bench"; Batchelor for the Treasury said "insanity was not a
 question for the consideration of this Court" and that evidence could be produced at the trial; Atkinson said he
 would "get the questions put through counsel at another place"; "The Bench having dissented". Five days earlier the
 coroner had told his jury that sanity "concerned another tribunal". Two tribunals in a week passed the question on.
