@@ -1,6 +1,6 @@
 # CHAPTER TWELVE — SKELETON (also carries the plan for CHAPTER THIRTEEN)
-# STATUS, 1 October 2026: Chapter Twelve is being drafted, one movement at a time (movement one with Rik; movement
-# two drafted and shown; three and four not yet drafted). Chapter Thirteen is planned, nothing drafted. Every DECIDE
+# STATUS, 1 October 2026 (evening): Chapter Twelve DRAFTED IN FULL, all four movements approved by Rik and assembled
+# in chapters/CHAPTER_12.md, about 1,700 words. Chapter Thirteen is planned, nothing drafted. Every DECIDE
 # point is settled except DECIDE 10 (Chapter Thirteen's ending). Contradictions 57 to 61 were entered in the
 # timeline file on 30 September; 61 is resolved (Arthur Lister). The header lines below are the original ones.
 # First proposed 24 September 2026, after a full source sweep of the period Tuesday 14 August to Tuesday
@@ -8,6 +8,16 @@
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
 # notes/confirmed_facts_timeline_contradictions.md (Contradictions 57 to 61 are proposed at the foot of this file
 # and have NOT yet been entered there).
+
+## DECIDED 1 October 2026, evening (Rik): movements three and four
+- Movement three: the Times's reported speech for Atkinson is narrated with short quoted phrases, never a whole
+  paragraph in quotation marks. "I reserve my defence": the form, then the Daily News and the Guardian, each named
+  plainly; no framing sentence about which papers named a speaker. Neither version chosen.
+- Movement four: "an air of perfect indifference" dropped (the Guardian's dock paragraph already shows his manner).
+  Miss Skinner's visit attributed ("The Times reported"); the crowd's "evidently were much incensed" quoted; the
+  difficulty getting him away, the cordon and the drive to Clerkenwell stated as fact. Ends: "He was driven off in
+  the brougham to Clerkenwell."
+- Press rule refinement (see MASTER_NOTES, Press as press): a blend of attributed and observed.
 
 ## DECIDED 30 September 2026 (Rik)
 
