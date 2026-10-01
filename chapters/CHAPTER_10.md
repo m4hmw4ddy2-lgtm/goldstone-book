@@ -134,6 +134,8 @@ When they understood what had been done, they cut across to the station. The cab
 
 ***
 
+On the Saturday the Guardian printed a letter from the vicar of St Saviour's, dated the day after the murders. "I have just seen Mrs. Gouldstone. She is very weak and prostrate, utterly stunned, but most resigned. The family lived in two rooms wretchedly furnished, and I found no nourishment whatever in the house." He had supplied her immediate wants, and he asked the paper's readers for "a few pounds to provide present necessities".
+
 People came to the house all that week to look at her. The Illustrated Police News told its readers what they were doing.
 
 "Some incautious people, with nothing but their own idle curiosity to satisfy, invaded the house and asked to see the poor woman, but of course were denied. The police, anticipating a crowd of sightseers, have volunteered a good body of their staff to keep the press back, but it is to be hoped their services will not be required, and respect will be had for the woman's dangerous condition."
