@@ -24,6 +24,13 @@
   that year"; catalogue D/CAc 12/18), and the departure by ruse stated as observed fact with the Guardian's cordon at
   the magistrates' entrance. Ends: "He was driven on to Clerkenwell." Movement one: "crowds at the stations", not "at
   both" (Contradiction 86). "Afterwards" for the visit follows the Times (Contradiction 85).
+- **Selection rule for Chapter Twelve (Rik, 1 October 2026, from an outside editorial note, reviewed point by point):
+  repeat earlier evidence only where the courtroom changes what it means.** Folkard, Wheatley, Cheeseman and Honey
+  pass (one clause of old material each, then new answers under cross-examination). Gould did not: his paragraph
+  retold Chapter Eleven's findings and is cut to "with his findings from the house and the post-mortems, as the
+  inquest had heard them five days before." "All the bodies of the children were well nourished" stays. The rule is
+  for selection only: the prose never says the defence was building a case of insanity unless a source says so; the
+  sequence carries it.
 
 ## DECIDED 30 September 2026 (Rik)
 
