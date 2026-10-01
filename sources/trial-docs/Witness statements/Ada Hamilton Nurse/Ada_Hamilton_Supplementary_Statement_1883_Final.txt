@@ -2,9 +2,11 @@ SUPPLEMENTARY STATEMENT – ADA HAMILTON
 Pages 010–012 of 12
 Resworn, 18 August 1883
 
-[CORRECTED 30 September 2026 against manuscript images 0011 and 0012. This is the record of Ada's cross-examination by Mr Atkinson at the examination of 18 August, after her statement of 9 August was read over and resworn; "Supplementary Statement" is a transcriber's label, not the document's. Corrections: (1) "7th June" is a misreading; the manuscript reads "1st June", matching the IPN of 25 August, which reports the same answer as "since the 1st of June". (2) The pawning answer had been dropped and replaced with words not in the document. (3) The marginal heading was omitted. See notes/CHAPTER_12_skeleton.md, corrections 1 and 2.]
+[CORRECTED 30 September 2026 against manuscript images 0011 and 0012. This is the record of Ada's cross-examination by Mr Atkinson at the examination of 18 August, after she was recalled; her answers were resworn at the foot of image 0012 (the earlier wording here, "read over and resworn", is withdrawn 1 October 2026: nothing records her 9 August statement being read over on the 18th; see live_lists.md, DO NOT USE); "Supplementary Statement" is a transcriber's label, not the document's. Corrections: (1) "7th June" is a misreading; the manuscript reads "1st June", matching the IPN of 25 August, which reports the same answer as "since the 1st of June". (2) The pawning answer had been dropped and replaced with words not in the document. (3) The marginal heading was omitted. See notes/CHAPTER_12_skeleton.md, corrections 1 and 2.]
 
 [CHECKED 30 September 2026 against images 0011 and 0012 (Chapter Twelve drafting): "despondent" read "desponding" (the Times and the IPN agree); "support the children" read "support his children"; quotation marks round "She wished the children were dead" removed, as they are not in the manuscript. The clerk's "the prisoner say she wished" garbles the answer the Times gives as "She had never heard the wife say that she wished the children dead"; do not quote the clerk's form as if William said it. Also: the 9 August statement (image 0009) carries a reswearing of 11 August only; the reswearing of 18 August stands here, at the foot of the cross-examination. Nothing records the 9 August statement being read over on the 18th.]
+
+[CHECKED 1 October 2026 against image 0012, cropped (Chapter Twelve, movement two): the kleptomania line has no comma after "previous" (comma removed); "At the time the murder was committed he seemed Excited" as transcribed.]
 
 [margin:] Mr Atkinson Cross-exd
 
@@ -34,7 +36,7 @@ Never heard him say a cross word to his wife.
 
 I never heard the prisoner say she wished the children were dead.
 
-He never spoke to me on the Sunday previous, that he had a fit of Cleptomania coming on.
+He never spoke to me on the Sunday previous that he had a fit of Cleptomania coming on.
 
 I saw him sitting on the fire guard with his back to the fire, with a piece of cord in his hand.
 
