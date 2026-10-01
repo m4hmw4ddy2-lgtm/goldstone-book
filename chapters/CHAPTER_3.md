@@ -22,7 +22,7 @@ By the time he was forty-eight years old, Joseph was a blacksmith with his own h
 
 Blacksmithing ran through the family down more than one line. Thomas grew up in a blacksmith's household, in a village with room for more than one forge, and his younger brother James took up the same trade, setting up as a blacksmith in a household of his own next door.
 
-In May 1850, at Saffron Walden, a Wimbish girl named Emily Willett stood witness at her sister Ann's wedding to Thomas Andrews, a farmer, and signed the register. Eight months later she married Thomas Gouldstone herself. She was twenty. By the spring of 1851 he had set up as a smith in his own right, somewhere in the cluster of buildings that had gathered, long before either of them was born, around the windmill and the Cock Inn at the village's northwest end. The census taker left the street name blank, but his place on the page, between a journeyman miller and another village blacksmith, and the map itself, showing the mill, the smithy and the Cock Inn standing side by side, point squarely to where he was.
+In May 1850, at Saffron Walden, a Wimbish girl named Emily Willett stood witness at her sister Ann's wedding to Thomas Andrews, a farmer, and signed the register. Eight months later she married Thomas Gouldstone herself. By the spring of 1851 he had set up as a smith in his own right, somewhere in the cluster of buildings that had gathered, long before either of them was born, around the windmill and the Cock Inn at the village's northwest end. The census taker left the street name blank, but his place on the page, between a journeyman miller and another village blacksmith, and the map itself, showing the mill, the smithy and the Cock Inn standing side by side, point squarely to where he was.
 
 William was born on the tenth of October 1856. Emily registered the birth herself, on the third of November: William, son of Thomas Gouldstone, blacksmith, and Emily Gouldstone, formerly Willett.
 
@@ -32,7 +32,7 @@ By 1871 the family had moved half a mile north, out past the last of the village
 
 The household filled around him. Young Emily, nineteen now. Robert, sixteen. William, fourteen, still down as a scholar, though he was, as a newspaper would put it twelve years later, "trained up in a branch of his father's business." Thomas Jr, twelve. Bennett, nine. Flora, seven. Hugh, three. Seven children under one roof that was also, on many nights, a public bar, with the forge outside and the whole family living in the space between.
 
-Neither Burton's page nor the one ten years after it said anything about the illness Emily carried into those houses. There was no column for it. Later, a doctor who examined William after the murders would record that Emily was said to have been unwell since before William was born, years before Burton ever walked the row. None of it surfaces in any record from these years themselves. It surfaces only once, twenty years on, called out in a courtroom as defence evidence, when Thomas said aloud, for the first time in any surviving record, what his own family had lived with for years.
+Neither Burton's page nor the one ten years after it said anything about the illness Emily carried into those houses. There was no column for it. Later, a doctor who examined William after the murders would record that Emily was said to have been unwell since before William was born, years before Burton ever walked the row. None of it surfaces in any record from these years themselves. It surfaces twenty years on, called out in a courtroom as defence evidence, when Thomas said aloud, for the first time in any surviving record, what his own family had lived with for years.
 
 "My wife, the prisoner's mother, is alive," Thomas told the court. "She is very bad in her mind now, and has been for a good many years. She was in a very bad way about eighteen years ago. I kept a woman with her. She tried to grain herself with a scarf."
 
@@ -42,7 +42,7 @@ A juryman interrupted before the court could move on.
 
 Thomas did not pause for it. "I have taken a knife away from her several times during that time. She was going to make an end of herself, as far as I could see."
 
-Thomas could put a date on it, but how many times he never said, only "several." Ann, the sister whose wedding Emily had witnessed, Mrs Andrews now, at Thaxted, suffered the same, serious enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had died by suicide. And in 1880, his cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
+Thomas could put a date on it, but how many times he never said, only "several." Ann, the sister whose wedding Emily had witnessed, Mrs Andrews now, at Thaxted, suffered the same, serious enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had died by suicide. And in 1880, a second cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
 
 This was what Emily carried while she raised seven children, and what Thomas carried from his own side of the family, in the same house.
 

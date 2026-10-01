@@ -34,7 +34,7 @@ The perambulator had been moved. Underneath the cistern, where it usually stood,
 
 Ada went back to the bedroom, and left the boys in the kitchen with their father.
 
-There were about fourteen inches of water standing in the cistern, and ten inches of clearance between its rim and the ceiling. Fourteen inches is not enough water for a child to drown in by falling into it. A boy put into that cistern would stand, or sit, or come up. He had to be held under, and held there, for as long as it took.
+There were about fourteen inches of water standing in the cistern, and ten inches of clearance between its rim and the ceiling. He held them under, and held them there, for as long as it took.
 
 Charles was three and a half. Herbert was two and a half. Frederick was sixteen months. He did them one at a time. The second went into the water where the first was already lying, and the third where both of them were.
 

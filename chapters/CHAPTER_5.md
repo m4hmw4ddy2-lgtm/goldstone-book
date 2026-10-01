@@ -28,8 +28,6 @@ Graves remembered only that William married some four or five months after he ar
 
 The wedding was on the fifteenth of March 1879, at St Luke's, Hackney. William gave his age as twenty-two. Elizabeth gave hers as twenty-four, which it was. In the column for the father's occupation, William's entry read "Smith". Elizabeth's father was named, Thomas Stock, and beside his name, where his work should have been, the register read "(dead)". William's parents had come up from Sampford to witness it. They were the only witnesses there were. Emily Gouldstone signed her name. Thomas made his mark. Elizabeth signed hers, and so did William. She stood at the front of that church with her own side of it empty.
 
-Four and a half years later, Elizabeth would write that she had never known, until very lately, that there was any insanity in the family.
-
 Graves and his family stayed on in the house, and William and Elizabeth had rooms of their own in it. "We commenced housekeeping on 21s. a week," she wrote, "and latterly he had 25s." It was sometimes difficult to make ends meet. She did all the spending of the money, and when there was a confinement or a sickness in the house and the payments were a trouble, she did not let him know.
 
 The children came quickly. Charles Thomas was born early in 1880, bright and healthy. Herbert Ernest came at the turn of the next year, and was weakly. Frederick William, with his father's name, followed in the spring of 1882. By then Herbert still could not walk, and she had, as she put it, practically two babies to mind.
@@ -40,6 +38,6 @@ When the census came round in April 1881, the enumerator took the Graveses at 88
 
 For all his absent ways, she wrote, he was very lively. He was kind with her and with the boys, handy and willing when they were ailing, and he constantly helped her about the house. He had few acquaintances beyond his own relatives and the men he worked with, and he was nearly always at home when he was not at work, except on a Sunday morning, when he sometimes took a walk alone. He played the cornet and the flute. But it was the concertina he was fond of, and for hours together, while she got on with the housework, he would keep the children going with it. They never tired of listening.
 
-If he seemed worried, amusing the children, at which he was very good, or a word from her would change his mood at once. They lived with Graves for a little under three years, and all three boys were born in his house. Elizabeth remembered one thing William said to her in those years, and said often.
+If he seemed worried, a word from her would change his mood at once, and so would amusing the children, at which he was very good. They lived with Graves for about three years, and all three boys were born in his house. Elizabeth remembered one thing William said to her in those years, and said often.
 
 "He was painfully aware of how easy it was for him to get worried, and he has often said to me that it was a good job he had not much to think of, as if he had he believed it would turn his brain."

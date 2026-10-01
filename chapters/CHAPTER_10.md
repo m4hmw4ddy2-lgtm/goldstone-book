@@ -38,7 +38,7 @@ At half past three that afternoon Henry Gould began. He took them in order, star
 
 ***
 
-There were two inquiries into what he had done, running side by side, and in the fortnight after the murders he was examined by both. The magistrates at Stratford had one question to answer, which was whether there was evidence enough to send him for trial. They heard witnesses on oath, had what they said written down, and remanded him from one hearing to the next until they were ready to commit him. The coroner had another. He and a jury of local men were to find how the five children had come by their deaths, and if they found that someone had killed them, they could say so by name, and the coroner could commit that man for trial on his own warrant. Both roads ended in the same place. Walthamstow lay inside the district of the Central Criminal Court, and it was at the Old Bailey that a judge and a jury of twelve would decide whether he was guilty. It was there, and not at the inquest, that the question of his mind belonged.
+There were two inquiries into what he had done, running side by side, and in the fortnight after the murders his case was before both. The magistrates at Stratford had one question to answer, which was whether there was evidence enough to send him for trial. They heard witnesses on oath, had what they said written down, and remanded him from one hearing to the next until they were ready to commit him. The coroner had another. He and a jury of local men were to find how the five children had come by their deaths, and if they found that someone had killed them, they could say so by name, and the coroner could commit that man for trial on his own warrant. Both roads ended in the same place. Walthamstow lay inside the district of the Central Criminal Court, and it was at the Old Bailey that a judge and a jury of twelve would decide whether he was guilty. It was there, and not at the inquest, that the question of his mind belonged.
 
 The inquest opened on the Friday afternoon, in the board room of the Walthamstow Cemetery, before Mr C. C. Lewis, coroner for the southern division of Essex. Craggs was there again, of the N Division, watching the case on behalf of the Commissioners of Police. The jury were Messrs William Smith, who was foreman, David Casey, Joseph Blythe, Walter Rollick, John Patchett, Joseph Day, George Foxwell, George Banks, George Lloyd, Thomas Mumford, Stephen Archer, Edwin Lee, William Haggett and William Weston.
 
@@ -100,7 +100,7 @@ On the Saturday morning a crowd stood at Maryland Point station waiting for a tr
 
 The hearing was in the largest of the three courts, yet still two or three hundred people remained outside, unable to gain admittance.
 
-Two of his brothers came to him in the cells of the court. The Illustrated Police News, which had a man there, thought it worth printing what they found: "He seemed calm and perfectly unconcerned at his position."
+Two of his brothers, the Illustrated Police News reported, came to him in the cells of the court. The paper, which had a man there, thought it worth printing what they found: "He seemed calm and perfectly unconcerned at his position."
 
 Four magistrates sat, Powell in the chair with Spicer, Glenny and Lister, who had been on the bench on the Thursday as well. Mr Atkinson appeared again for the defence. The charge was read over.
 
