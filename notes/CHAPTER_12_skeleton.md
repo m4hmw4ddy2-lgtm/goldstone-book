@@ -1,4 +1,8 @@
-# CHAPTER TWELVE — SKELETON
+# CHAPTER TWELVE — SKELETON (also carries the plan for CHAPTER THIRTEEN)
+# STATUS, 1 October 2026: Chapter Twelve is being drafted, one movement at a time (movement one with Rik; movement
+# two drafted and shown; three and four not yet drafted). Chapter Thirteen is planned, nothing drafted. Every DECIDE
+# point is settled except DECIDE 10 (Chapter Thirteen's ending). Contradictions 57 to 61 were entered in the
+# timeline file on 30 September; 61 is resolved (Arthur Lister). The header lines below are the original ones.
 # First proposed 24 September 2026, after a full source sweep of the period Tuesday 14 August to Tuesday
 # 11 September 1883. Nothing drafted. Every DECIDE point below is open until Rik rules on it.
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
@@ -458,7 +462,7 @@ Chapter Thirteen candidates, all from sources in hand and all within its own wee
 - **The Spectator, 25 August 1883, p. 3**, read from the page image, for the exact Cole wording (and 18 August, p. 3).
 - **Cole's date and inquest.** A daily of 20 or 21 August (The Times; a Croydon paper) for the inquest or police
   court, which is where the Spectator's "evidence" must have been given.
-- **Who the second justice was on 18 August.** Powell signs; the cover says two justices; Lister asks a question
+- ~~**Who the second justice was on 18 August.**~~ **RESOLVED 30 September 2026: Arthur Lister** (Daily News, 20 August; Contradiction 61). Original entry: Powell signs; the cover says two justices; Lister asks a question
   (Times). Lister is the likely second, not confirmed.
 - **Which House of Detention.** ~~Still open.~~ **DECIDED 30 September 2026 (Rik): Clerkenwell, stated as fact (Contradiction 66).** Original entry: New evidence, not a resolution: Cole, a Surrey case committed to the
   Central Criminal Court, was held at **Clerkenwell** House of Detention (Tuke). That shows Clerkenwell took Central

@@ -48,6 +48,25 @@ William was tried on 14 September 1883, three weeks after Parliament changed the
 ---
 
 ## Why William never gave evidence, and why it is the same fact as Elizabeth's silence
+
+**CURRENT POSITION, 1 October 2026 (read this first; the working below it arrived in layers, and its opening
+paragraphs were superseded by its last).**
+- He pleaded not guilty and was tried for the murder of Charles alone; the other four deaths came in as evidence.
+- **Neither he nor Elizabeth could be sworn in 1883.** The Criminal Evidence Act 1898, s.1, made the accused and the
+  spouse competent for the defence only from 12 October 1898; the spouse became competent for the prosecution only in
+  the Schedule's offences, which do not include murder. In 1883 neither side could call Elizabeth. (Statute in
+  `sources/pdfs/`; Wilson, QIT Law Journal 1984; Irish Law Reform Commission.)
+- **But he could speak unsworn.** Proviso (h) to s.1 of the 1898 Act preserves, and does not create, the right of the
+  accused "to make a statement without being sworn", and expressly leaves s.18 of the Indictable Offences Act 1848
+  untouched. **The committal form of 18 August is that s.18 procedure in use:** "I reserve my defence", written on
+  the form as his statement and unsigned, while the IPN, the Guardian and the Daily News report that Atkinson said
+  the words.
+- **The Old Bailey account records no statement from him at his trial.** Whether he made one is open until the press
+  trial reports of 15 September are checked (live_lists.md).
+- **For the prose:** "he could not give evidence" is true of sworn evidence only. Do not write that he could not
+  speak. Elizabeth had no such right: she was not a party.
+
+**The working, as it was written (kept for the record):**
 **Logged 23 September 2026**, in answer to a direct question from Rik: did he not take the stand
 because he pleaded guilty?
 
@@ -64,7 +83,7 @@ the wilful murder of Charles alone, the eldest. The other four deaths came in as
 ordinary practice for the period but it should be got right in the prose: he was convicted of one
 murder, not five.
 
-**The reason he did not testify is that he could not.** TO VERIFY, and flagged as such: until the
+**[SUPERSEDED: see the current position at the head of this section. He could not be SWORN; he could speak unsworn.]** **The reason he did not testify is that he could not.** TO VERIFY, and flagged as such: until the
 Criminal Evidence Act 1898, a defendant in an English criminal trial was not a competent witness in
 his own defence and could not be sworn. He could make an unsworn statement from the dock, not on
 oath and not subject to cross-examination. Nothing in the Old Bailey account records him making
@@ -79,7 +98,7 @@ people, most of it after a caution. It heard Elizabeth not at all.
 
 **Consequence for the sourcing.** Two load-bearing claims now rest on one unsourced proposition
 about the law of evidence before 1898, and both are structural rather than decorative. See the
-sources list, item 7a: Roger Smith's book, or a standard history of the law of evidence, is needed
+sources list (now live_lists.md; the rule has since been verified from the statute itself, below): Roger Smith's book, or a standard history of the law of evidence, is needed
 before either goes into prose as flat fact.
 
 **One detail worth the prose.** Savage, who told the court he thought William's mind was unsound at

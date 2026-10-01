@@ -1,6 +1,6 @@
 # GOULDSTONE PROJECT: CONFIRMED FACTS, TIMELINE, AND CONTRADICTIONS
 ## Incorporating all transcribed sources including trial-docs and session research
-## Updated: 21 September 2026, late (Chapter Eight source sweep: arrest order corrected, hammer and twins' deaths corrected, Contradictions 30–35 added, press rule). Previous header: 15 July 2026.
+## Header checked 1 October 2026: the file has been amended entry by entry through 30 September 2026 (Contradictions to 83); each entry carries its own date. Older header: Updated 21 September 2026, late (Chapter Eight source sweep: arrest order corrected, hammer and twins' deaths corrected, Contradictions 30–35 added, press rule). Previous header: 15 July 2026.
 
 ---
 
@@ -208,7 +208,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 
 ### THE INQUEST — JUROR BLYTH
 
-- Juror Blyth visited Elizabeth at home after Friday adjournment. Told her jury believed she drove William to crime through jealousy. [Dover Express; Morning Post]
+- Juror Blythe visited Elizabeth at home after Friday adjournment. Told her jury believed she drove William to crime through jealousy. [Dover Express; Morning Post]
 - Coroner's comment on Emma Clarke's "wished them dead" evidence: "He did not think anything would turn on that." [Daily Telegraph 11 Aug]
 - Dr Lyle protested formally; Elizabeth's recovery set back. [Dover Express]
 - Inquest verdict: wilful murder, five verdicts signed. [Morning Post]
@@ -295,100 +295,152 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 
 ## PART TWO: COMPLETE TIMELINE
 
+**THE SINGLE DATES TABLE (rebuilt 1 October 2026).** This is the one copy. MASTER_NOTES Part Nine and the project
+instructions point here; the old MASTER_NOTES table is kept word for word in
+`notes/archive/MASTER_NOTES_retired_sections_2026-10-01.md`, because several of its rows carry research detail
+(informants, registrars, witnesses) that belongs with the person in `dramatis_personae.md`. When a date changes,
+change it here and grep the repository for the old one (standing rule two).
+
+**What the rebuild corrected, against the sources the notes already cite:**
+- Elizabeth's birth: **18 February 1855, "The Village", Wethersfield** (GRO birth certificate). Both old tables said
+  "at Brewery House", which is the family's 1861 census address, not her birthplace.
+- Jemima Stock's death: **Dog Chase, Wethersfield** (GRO death certificate). This table said "Braintree", the
+  registration district.
+- Elizabeth's death: **29 June 1906, Beach Alley, Whitstable** (GRO death certificate, checked 9 September 2026).
+  This table still said "Jul 1906 ... NOT a confirmed specific place".
+- Emily Gouldstone's death: **Q2 1913, Saffron Walden district**. MASTER_NOTES said "Jun 1913, Essex".
+- The move to Courtenay Place: **about September 1882**, counted back from Emma Clarke's "eleven months".
+- Savage's Lancet letter: **dated 14 September, published 22 September** (the Lancet image). MASTER_NOTES said
+  "15 Sep".
+- **William's mother: MASTER_NOTES's "~Late Jul 1883, William's mother makes another suicide attempt" has no source
+  and does not match the Old Bailey.** William's sister Emily, cross-examined on 14 September: "I heard her threaten
+  to do so about a fortnight or three weeks ago"; re-examined: "I have heard of my mother attempting suicide before a
+  fortnight ago, years ago." So: a threat, in late August, not an attempt in late July. Row replaced below.
+- The 3 October row no longer carries the superseded "c.10 October" reasoning inside it.
+- The old table's "3 Aug (Thu)" is a mislabel: 3 August 1883 was a Friday. Ada's Old Bailey evidence is "he went to his
+  work on the Thursday and Friday, but not after the Friday", that is, 2 and 3 August.
+- Rows sorted into date order (several were out of order in both old tables).
+
 | Date | Event | Source(s) |
 |---|---|---|
 | c.1785-87 | Edward Suckling born, Barking, Essex | 1851/1861/1871 censuses |
-| 3 Oct 1802 | Thomas Stock baptised, St John the Baptist, Finchingfield (father James Stock, mother Sarah Newman) | Baptism record D/P 14/1/3 — NB self-reported age at 1854 marriage suggests b. c.1805; 3-year discrepancy unresolved, baptism preferred |
-| 15 Dec 1811 | Jemima Suckling baptised, Hornchurch, Essex (father Edward Suckling, mother Sarah) | Baptism record, FHL Film 857075 — corrects earlier unsourced "23 Nov 1811, Wethersfield" |
-| 17 Mar 1793 | Joseph Goldstone baptised, St Michael's, Great Sampford (father Robert, mother Rebecca) — William's paternal grandfather | Two independent FamilySearch parish register entries, same underlying film |
-| 1 Dec 1821 | Thomas Gouldstone baptised, St Michael's, Great Sampford (father Joseph, mother Ruth) | Baptism record D/P 289/1/13 |
-| 20 Oct 1827 | Marriage record, Thomas Stock & Sarah Hockley, Finchingfield | D/P 14/1/10 — NOT CONFIRMED as our Thomas Stock; see Part Three, new Contradiction 11 below |
-| 25 Dec 1833 | Jemima Suckling marries John Ansell (her first marriage), Wethersfield | Marriage record D/P 119/1/9 |
-| 26 Dec 1830 | Emily Willett baptised, Wimbish, All Saints (recorded "Emma"/"Anna" — see Contradiction 15) — supersedes the earlier "1834" estimate below | D/P 313/1/7, confirmed 4 September 2026 |
-| 9 Jul 1843 | Arthur Ansell (Jemima's son by John Ansell) baptised, Wethersfield | Baptism record D/P 119/1/5 |
-| 29 Apr 1844 | Arthur Ansell buried, Wethersfield, aged 0 | Burial record D/P 119/1/7 |
-| 15 Apr 1845 | **Corrected 9 September 2026** — previously this project conflated his death and burial into one date (19 April). John Ansell (Jemima's first husband) dies, Hudson's Hill, Wethersfield, aged 32. Cause: Decline. Buried 19 April 1845, Wethersfield | GRO death certificate, checked directly against image, 9 Sept 2026; burial record, D/P 119/1/7 |
+| 17 Mar 1793 | Joseph Goldstone baptised, St Michael's, Great Sampford (father Robert, mother Rebecca) — William's paternal grandfather | Two FamilySearch parish register entries, same underlying film |
+| 3 Oct 1802 | Thomas Stock baptised, St John the Baptist, Finchingfield (father James Stock, mother Sarah Newman). Self-reported ages drift later (c.1805-07); baptism preferred | D/P 14/1/3 |
+| ~1810 | Edward Suckling marries; wife's forename Sarah, surname unconfirmed. **Provisional: the date itself has not been re-verified against a register.** "Crawley" retracted 16 July 2026 | — (see DO NOT USE) |
+| 15 Dec 1811 | Jemima Suckling baptised, Hornchurch, Essex (father Edward, mother Sarah). Not "23 Nov 1811, Wethersfield" | FHL Film 857075 |
+| 1 Dec 1821 | Thomas Gouldstone baptised, St Michael's, Great Sampford (father Joseph, mother Ruth) | D/P 289/1/13 |
+| 20 Oct 1827 | Marriage, Thomas Stock and Sarah Hockley, Finchingfield. **NOT CONFIRMED as our Thomas Stock** (Contradiction 11) | D/P 14/1/10 |
+| 26 Dec 1830 | Emily Willett baptised, Wimbish (recorded "Emma"/"Anna"; Contradiction 15). Her birth year is a close call between 1830 and 1833-35; do not state it with more confidence than that | D/P 313/1/7 |
+| 25 Dec 1833 | Jemima Suckling marries John Ansell (her first marriage), Wethersfield, St Mary Magdalene | D/P 119/1/9 |
+| 4 Aug 1835 | Sarah and Elizabeth ("Eliza") Ansell born, twins, Wethersfield | TNA RG4/1768, p.52, lines 17-18 |
+| 9 Jul 1843 | Arthur Ansell baptised, Wethersfield | D/P 119/1/5 |
+| 6 Mar 1844 | Sarah Ansell buried, Wethersfield, age 8 | D/P 119/1/7 |
+| 29 Apr 1844 | Arthur Ansell buried, Wethersfield, age 0 | D/P 119/1/7 |
+| 15 Apr 1845 | John Ansell (Jemima's first husband) dies, Hudson's Hill, Wethersfield, aged 32; cause "Decline". Buried 19 April (not his death date) | GRO death certificate (checked 9 Sep 2026); D/P 119/1/7 |
+| 11 Aug 1845 | Elizabeth ("Eliza") Ansell buried, Wethersfield, age 10 | D/P 119/1/7 |
+| 1 Jun 1846 | Alfred Ansell buried, Wethersfield, age 8 | D/P 119/1/7 |
+| 24 Feb 1847 | Edith Ansell buried, Wethersfield, age 1 (born after her father's death) | D/P 119/1/7 |
 | 30 Jan 1851 | Thomas Gouldstone marries Emily Willett | Marriage record |
-| 27 Dec 1865 | Ruth Gouldstone (Joseph's wife, Thomas's mother) dies, Great Sampford, age 72 | Primary GRO death certificate, obtained 7 September 2026 — corrects earlier "1 January 1866" date, which was her registration date, not her death date |
-| 1 May 1876 | Joseph Gouldstone (William's paternal grandfather) buried, St Michael's, Great Sampford, age 83 | Two independent FamilySearch parish register entries, same underlying film |
-| 16 Jun 1854 | Thomas Stock (widower) marries Jemima Ansell née Suckling (widow), Wethersfield | Marriage record D/P 119/1/10; witnesses Robert Suckling (Jemima's brother) and Frederick Smee |
-| 1855 | Elizabeth Stock born, Wethersfield, Essex, at Brewery House | 1861 census — NB Elizabeth had six known Ansell half-siblings from Jemima's first marriage, not the single "Arthur" previously recorded |
-| 10 Oct 1856 | William Gouldstone born, Great Sampford, Essex | Full GRO birth certificate obtained 10 September 2026 |
-| 1871 | Elizabeth Stock (18, general servant) in service alongside Susan Newman (16, nursemaid, also b. Wethersfield) at 115 Albion Road, Stoke Newington, household of solicitor George Horace David Chilton. **Note, added 9 September 2026**: the census ages here are inconsistent with the girls' own vital records — Elizabeth's GRO birth certificate gives 18 February 1855, making her 16 on census night, not 18; Susan's baptism record gives 28 October 1855, close enough to Elizabeth's own birth that the two were very likely the same age, not two years apart as the raw census figures suggest. Census-stated ages for young female servants were often approximate; treat the birth/baptism dates as authoritative and describe the two girls as the same age, not "18 and 16." | 1871 census — likely mechanism for Elizabeth's move to London |
-| 25 Oct 1873 | Jemima Stock dies, Braintree, age 61. Cause: Neuralgia (6 weeks), Congestion of the Brain (3 weeks) | GRO death certificate |
-| 22 Dec 1873 | **Corrected 9 September 2026 — previously misdated 22 November throughout this project.** Thomas Stock dies, Dog Chase, Wethersfield, age 72. Cause: Bronchitis, Chronic (12 months) | GRO death certificate, checked directly against image, 9 Sept 2026; buried 28 Dec 1873, D/P 119/1/8 — six-day gap to burial, consistent with the corrected date and the reason the old date is rejected |
-| 15 Mar 1879 | William marries Elizabeth, St Luke's, Hackney. Both at 88 Frampton Park Road. | Marriage certificate |
-| 1879-~1882 | William and Elizabeth lodge with Graves; three older boys born in Graves's house | Graves, Old Bailey |
-| ~1882 | Gouldstones move to 8 Courtenay Place, Walthamstow | Emma Clarke testimony |
-| ~Oct 1882 | Elizabeth: William showed signs of madness from this point | BMJ 6 Oct Medical News |
-| ~Jan 1883 | Lift rope breaks at Falkirk Ironworks; William's suicidal statement to Skelton | Skelton, Old Bailey |
-| 1 Jun 1883 | Ada Hamilton has "known prisoner since 1st June" (her deposition of 18 Aug, image 0011); with her sworn "about ten weeks" in the house (Old Bailey), the best reading is that the Hamiltons came to lodge on or about 1 June. Corrected 30 September 2026 from "7 June", a misreading. See Contradiction 58 | Ada, deposition 18 Aug; Old Bailey |
-| 1 Aug 1883, 10:30pm | Elizabeth confined of twins — two male children | Emma Clarke, Times 11 Aug |
-| 2 Aug 1883 | Graves notices change in William; William: "only my head is very queer" | Graves, Old Bailey |
-| 2 Aug 1883, night | William worse for drink; didn't speak when told of twins | Emma Clarke, Old Bailey |
-| 3 Aug (Thu) | William went to work | Ada, Old Bailey |
-| 3 Aug (Fri) | William went to work; Graves paid wages + 10s present | Graves, Old Bailey |
-| 4 Aug (Sat) | Beanfeast; William went "where he thought proper" | Graves, Old Bailey |
-| 6 Aug (Mon) | Bank Holiday — not at work | Times 15 Sep |
-| 7 Aug (Tue) | Absent from work; at home at noon and at tea time (Ada). See Contradiction 39 | Graves; Ada |
-| 7 Aug, noon | Appeared to Ada as if he had been crying | Ada, DT 11 Aug |
-| 8 Aug (Wed) | Absent from work; tea for Elizabeth early; then unplaced until 5.15pm | Graves; Elizabeth; Ada |
-| 8 Aug (Wed, day) | Went out intending to drown himself | BMJ 6 Oct Medical News |
-| 8 Aug, c.5:15pm | William arrives home — two hours early. Smiles at Ada but makes no reply. | Ada, coroner deposition |
-| c.5:15-5:40pm | The murders (full sequence above) | Ada Hamilton primary testimony |
-| c.5:40pm | William arrested by PC Cheeseman | Cheeseman, all sources |
-| c.5:35–5:45pm | Emma Clarke calls police in St James's Street; Twining arrives on Ada's summons; Ada and Emma see the three boys in a row with William and Twining present | Witness statement; Emma Clarke; Cheeseman coroner deposition |
-| 6pm | William brought into Lea Bridge Road station by Cheeseman | Folkard |
-| after 6pm | Inspector Folkard and Dr Gould arrive at the house; Sergeant Smith arrives about 6 | Folkard; Gould; Smith |
-| c.6:45pm | First statement to Wheatley | Wheatley, all sources |
-| between c.6:15 and c.8pm | First twin dies, in Ada's arms. Not c.7pm as previously stated: Gould found both alive after 6, and says he learned of the death "shortly after 8" (IPN has "seven"). See Contradiction 31 | Ada, Old Bailey; Gould |
-| c.7:30pm | Second statement to Wheatley | Wheatley, all sources |
-| c.9pm, 8 Aug | Third statement to Wheatley ("preying on my mind") | Wheatley, all sources |
-| c.2am, 9 Aug | Second twin dies | Dr Gould, all sources |
-| 9 Aug | First appearance Stratford Petty Sessions; remanded | All early press |
-| 13 Aug | Adjourned inquest; funeral at noon | Morning Post; Dover Express |
-| 13 Aug | Inquest verdict: wilful murder (five verdicts signed) | Morning Post |
-| 11 Aug | Second Stratford hearing: cord produced; William points to his throat; remanded a week | Daily Chronicle 13 Aug; IPN and Guardian 18 Aug |
-| 18 Aug (Sat) | Examination and committal, Court House, Great Eastern Road, Stratford: six deponents; Ada cross-examined by Atkinson; insanity questions to Gould refused ("insanity was not a question for the consideration of this Court"); "I reserve my defence"; committed to the Central Criminal Court; Miss Skinner visits him in the cell. Corrected 30 September 2026: the committal was 18 August, not 25 August (the IPN's publication date), and the cord and throat belong to 11 August | Sworn depositions and statement of the accused, 18 Aug; Times 20 Aug; IPN 25 Aug |
-| 19 Aug (Sun) | James Cole kills his son Thomas (3 years 8 months), Pridham Road, West Croydon; the child dies the next morning. Corrected 30 September 2026: previously "copycat murder", cited to a Daily Telegraph transcription that does not mention Cole. See Contradiction 57 | Old Bailey t18831015-964; Spectator 25 Aug |
-| 20 Aug | Cole received into Clerkenwell House of Detention | Old Bailey t18831015-964 (Treadwell) |
-| 10 Sep | September sessions of the Central Criminal Court open | Liverpool Mercury 10 Sep; depositions docket, image 0026 |
-| 11 Sep | Grand jury return true bill | Times 12 Sep |
-| 14 Sep | Trial, Old Bailey. Guilty. Death sentence. | Times 15 Sep; Old Bailey transcript |
-| 14 Sep, 8:12pm | William taken to Chelmsford Prison | Essex Weekly News |
+| 15 Mar 1851 | Sarah Stock née Newman (Thomas Stock's mother) buried, Finchingfield, age 86 | D/P 14/1/8, p.187 |
+| 16 Jun 1854 | Thomas Stock (widower) marries Jemima Ansell née Suckling (widow), Wethersfield, after banns; both sign with a mark | D/P 119/1/10 (witnesses Robert Suckling and Frederick Smee) |
+| 18 Feb 1855 | Elizabeth Stock born, "The Village", Wethersfield. Six Ansell half-siblings then living | GRO birth certificate |
+| 10 Oct 1856 | William Gouldstone born, Great Sampford | Full GRO birth certificate, obtained 10 Sep 2026 |
+| 19 Jul 1856 | John Nathan Ansell buried (as "Nathan"), Wethersfield, age 22 | D/P 119/1/7 |
+| 11 Jul 1858 | George Ansell buried, Wethersfield, age 19 | D/P 119/1/7 |
+| 2 Nov 1861 | Emma Ansell buried, Wethersfield, age 21: the last of Jemima's eight Ansell children to die | D/P 119/1/7 |
+| 27 Dec 1865 | Ruth Gouldstone (Joseph's wife, Thomas's mother) dies, Great Sampford, age 72 (registered 1 Jan 1866) | GRO death certificate, obtained 7 Sep 2026 |
+| 1871 | Elizabeth Stock, general servant, with Susan Newman, nursemaid (also b. Wethersfield), at 115 Albion Road, Stoke Newington, household of the solicitor George Horace David Chilton. The census gives them as 18 and 16; their birth and baptism dates make them the same age (Elizabeth 16) | 1871 census |
+| 25 Oct 1873 | Jemima Stock dies, Dog Chase, Wethersfield, age 61. Cause: neuralgia (6 weeks), congestion of the brain (3 weeks). Braintree is the registration district | GRO death certificate (checked 9 Sep 2026) |
+| 22 Dec 1873 | Thomas Stock dies, Dog Chase, Wethersfield, age 72. Cause: chronic bronchitis (12 months). Buried 28 Dec. Not "22 November" | GRO death certificate (checked 9 Sep 2026); D/P 119/1/8 |
+| 1 May 1876 | Joseph Gouldstone (William's paternal grandfather) buried, Great Sampford, age 83 | Two FamilySearch parish register entries |
+| 15 Mar 1879 | William marries Elizabeth, St Luke's, Hackney. Both of 88 Frampton Park Road | Marriage certificate |
+| 1879-c.1882 | William and Elizabeth lodge with Graves; Charles (GRO M qtr 1880), Herbert (M qtr 1881) and Frederick William (J qtr 1882) born | Graves, Old Bailey; GRO index |
+| c. Sep 1882 | The Gouldstones move to 8 Courtenay Place, Walthamstow (counted back from Emma Clarke's "eleven months") | Emma Clarke, Old Bailey |
+| c. Oct 1882 | The change in William begins, on Elizabeth's own later account ("twelve months", her imprecise figure) | Elizabeth's statement (Essex Weekly News, 21 Sep 1883); BMJ 6 Oct |
+| 20 Dec 1882 | Robert Gouldstone, William's uncle, dies at Queens Road, Walthamstow | GRO death certificate, entry 432 |
+| c. Jan 1883 | Lift rope breaks at the Falkirk Ironworks; William's suicidal statement to Skelton | Skelton, Old Bailey |
+| 1 Jun 1883 | Ada Hamilton has "known prisoner since 1st June"; with her sworn "about ten weeks" in the house, the Hamiltons came to lodge on or about 1 June. Not "7 June" (Contradiction 58) | Ada, deposition 18 Aug (image 0011); Old Bailey |
+| 1 Aug 1883, 10.30pm | Elizabeth confined of twins, two male children, 8 Courtenay Place | Emma Clarke, Times 11 Aug |
+| 2 Aug | Graves notices the change; William: "only my head is very queer" | Graves, Old Bailey |
+| 2 Aug, night | William the worse for drink; did not speak when told of the twins | Emma Clarke, Old Bailey |
+| 2 Aug (Thu) and 3 Aug (Fri) | William at work both days, "but not after the Friday" (Ada); paid on the Friday, with Graves's customary 10s. present | Ada, Old Bailey; Graves, Old Bailey |
+| 4 Aug (Sat) | The beanfeast; William went "where he thought proper" | Graves, Old Bailey |
+| 6 Aug (Mon) | Bank Holiday; not at work | Times 15 Sep |
+| 7 Aug (Tue) | Absent from work; at home at noon, when he seemed to Ada as if he had been crying, and at tea time, about six, "perfectly calm". "Did not remain at home" is Poland's speech, not evidence (Contradiction 39) | Graves; Ada (DT 11 Aug; coroner deposition) |
+| 8 Aug (Wed), early | Brings Elizabeth her tea, as every morning since the birth; Ada does not see him leave; absent from work; placed nowhere until 5.15pm | Elizabeth's statement; Ada; Graves |
+| 8 Aug, during the day | "It is believed that he went out with the intention of drowning himself" — unattributed in the source | BMJ 6 Oct, Medical News |
+| 8 Aug, c.5.15pm | William comes home, two hours early | Ada, coroner deposition |
+| c.5.15-5.40pm | The murders (sequence in Part One) | Ada; the confession; the pathology |
+| c.5.35-5.45pm | Emma Clarke calls the police in St James's Street; Twining arrives; Ada and Emma see the three boys in a row with William and Twining present (order: Contradiction 29) | Ada, witness statement; Emma Clarke; Cheeseman |
+| c.5.40pm | Arrested by PC Cheeseman | Cheeseman, all sources |
+| 6pm | Brought into Lea Bridge Road station | Folkard |
+| after 6pm | Folkard and Gould at the house; Sergeant Smith about six | Folkard; Gould; Smith |
+| c.6.45pm | First statement to Wheatley | Wheatley |
+| between c.6.15 and c.8pm | First twin dies, in Ada's arms. Not "c.7pm", not "half an hour after" (Contradiction 31) | Ada, Old Bailey; Gould |
+| c.7.30pm | Second statement to Wheatley | Wheatley |
+| c.8pm | Charged by Folkard (timings: Contradiction 41) | Folkard |
+| c.9pm | Third statement to Wheatley ("preying on my mind"; Contradiction 63) | Wheatley |
+| 9 Aug, c.2am | Second twin dies (Ada's figure) | Ada |
+| 9 Aug, 7.10am | Gould finds the second twin dead on his morning visit | Gould |
+| 9 Aug, 8.30am | Charged with the murder of all five | Folkard |
+| 9 Aug, morning | First Stratford hearing, before Lister and Glenny; Ada sworn; remanded to Saturday | DT 10 Aug; Ada's statement (image 0009) |
+| 9 Aug, 3.30pm | Post-mortems begin (the second infant again at 4.30) | Gould, coroner deposition (image 0039) |
+| 10 Aug, afternoon | Inquest opens, Walthamstow Cemetery board room; the view of the house | DT 11 Aug; Guardian 18 Aug |
+| 11 Aug, morning | Second Stratford hearing; the cord produced and the throat gesture (press only); remanded a week | Daily Chronicle 13 Aug; IPN and Guardian 18 Aug |
+| 12 Aug, morning | Joseph Blythe at Elizabeth's bedside | Lyle's letter (Dover Express 17 Aug; Morning Post) |
+| 13 Aug | Funeral at noon, Walthamstow (Queen's Road) Cemetery, one grave ten feet deep, third-class portion; resumed inquest at three; verdict of wilful murder, five verdicts signed; coroner's warrant | Guardian 18 Aug; Dover Express 17 Aug; Morning Post |
+| 17 Aug (Fri) | Grantham Robinson visits William at the House of Detention (Contradiction 67) | His sermon, Guardian 25 Aug |
+| 18 Aug (Sat) | Examination and committal, Court House, Great Eastern Road, Stratford, before Nathaniel Powell and Arthur Lister: six deponents; Ada cross-examined by Atkinson; Twining "very ill", not called; insanity questions to Gould refused; "I reserve my defence", on the form as the prisoner's statement and unsigned, though the IPN, Guardian and Daily News report that Atkinson said it; committed; Miss Skinner in the cell; taken by brougham to the Clerkenwell House of Detention (Contradiction 66) | Depositions and statement of the accused, 18 Aug; Times 20 Aug; Daily News 20 Aug; IPN and Guardian 25 Aug |
+| 19 Aug (Sun) | James Cole kills his son Thomas (3 years 8 months), Pridham Road, West Croydon; the child dies the next morning. Not "copycat" (Contradiction 57). The same evening, Grantham Robinson's sermon describing his Friday visit | Old Bailey t18831015-964; Guardian 25 Aug |
+| 20 Aug | Cole received into the Clerkenwell House of Detention | Old Bailey t18831015-964 (Treadwell) |
+| 25 Aug | Royal assent, Trial of Lunatics Act 1883 (TO VERIFY against the statute) | part_three_context_law_and_medicine.md |
+| 28 Aug (Tue) | The Club Minstrels' benefit for Elizabeth, Workmen's Hall (Contradiction 76) | Guardian 1 Sep |
+| c. late Aug | William's sister Emily hears their mother threaten suicide, "about a fortnight or three weeks" before the trial. Replaces "~Late Jul 1883, another suicide attempt", which had no source | Emily Gouldstone, Old Bailey (cross-examined and re-examined) |
+| 5 Sep | Grantham Robinson's letter to the Guardian, enclosing Graves's letter for himself and his fellow-workmen (Contradiction 75) | Guardian 8 Sep |
+| 10 Sep (Mon) | September sessions of the Central Criminal Court open; Commissioner Kerr's charge to the grand jury | Liverpool Mercury 10 Sep; depositions docket (image 0026); Guardian 15 Sep |
+| 11 Sep (Tue) | Grand jury return a true bill | Times 12 Sep |
+| 12 Sep (Wed) | Arraigned before Mr Justice Watkin Williams; pleads not guilty "in a firm tone"; trial put off to Friday on Elliott's application (Contradiction 72) | Guardian 15 Sep |
+| 14 Sep (Fri) | Trial, Old Bailey, for the murder of Charles only; guilty; sentenced to death. Savage writes to the Lancet the same day | Old Bailey; Times 15 Sep; Lancet |
+| 14 Sep, 8.12pm | Taken to Chelmsford Prison | Essex Weekly News 21 Sep |
 | 15 Sep | William's letter from Chelmsford | Essex Weekly News; Western Daily Press 21 Sep |
-| 22 Sep | BMJ first article; Savage's Lancet letter | BMJ; Lancet |
-| 26 Sep | Execution respited until 8 October | Guardian 26 Sep |
-| 30 Sep | Sunday Dispatch: formal respite; Dr Clarke and Dr Orange examined William (6-7 hours) | Sunday Dispatch |
-| 3 Oct | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Daily News, 6 Oct; Contradiction 80). **CONFIRMED by Rik, 30 September 2026.** Previous entry: c.10 Oct, formal reprieve — **corrected 18 September 2026: "3 Oct" was unsourced, citing only the project instructions document, which in turn had no primary source at all. Best reading now: Preston Chronicle (pub. Sat 13 Oct) has the Sheriff receiving notice "Wednesday morning" — counting back, 10 October. Inferred, not confirmed; see MASTER_NOTES.md.** |
-| 6 Oct | BMJ Medical News; BMJ editorial pp682-683; Penny Illustrated | Multiple |
-| 13 Oct | Preston Chronicle: certified of unsound mind; to be removed to Broadmoor | Preston Chronicle |
-| 15 Oct 1883 (Monday) | William leaves Chelmsford prison in custody of warders Lanham and Parker, 7.45am train to Liverpool Street, en route to Broadmoor | Walthamstow and Leyton Guardian, 20 Oct 1883 (Graves's own letter) |
-| 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells and Illustrated Church News |
-| Q3 1899 | Thomas Gouldstone dies, Saffron Walden district, age 77 | Death record |
-| 1883-1887 | Elizabeth disappears from all documentary record | — |
-| 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth. Registered by J Frost, 20 June. Elizabeth's address: 2 John Street, Hercules Buildings, Lambeth. | Birth certificate |
-| ~1888 | Elizabeth and William Madams begin cohabitation, Whitstable | Census; project notes |
+| 18 Sep (Tue) | Elizabeth sees William at Chelmsford | Her statement |
+| 19 Sep (Wed) | Elizabeth's statement first published, in a London daily not yet identified | Collation (elizabeth_statement_collation.md) |
+| 20 Sep | Grantham Robinson's public letter ("I firmly believe that he was not in his right mind") | Guardian 22 Sep |
+| 22 Sep | BMJ's first article (pp.584-585); Savage's Lancet letter of 14 Sep published | BMJ; Lancet |
+| 26 Sep | Execution respited from 1 to 8 October, pending a medical inquiry | Guardian 26 Sep |
+| 30 Sep | Dr Clarke and Dr Orange have examined William (six or seven hours) | Sunday Dispatch 30 Sep |
+| 3 Oct (Wed) | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Contradiction 80). Confirmed by Rik, 30 Sep 2026. The day the Sheriff was told ("Wednesday", Preston Chronicle) may be the 3rd or the 10th | Daily News 6 Oct |
+| 6 Oct | BMJ Medical News and editorial (pp.682-683); Penny Illustrated | BMJ; Penny Illustrated |
+| 13 Oct | Certified of unsound mind; to be removed to Broadmoor | Preston Chronicle 13 Oct |
+| 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct |
+| 18 Oct | Cole tried before Denman; convicted; later reprieved | Old Bailey t18831015-964 |
+| 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
+| 1883-1887 | Elizabeth disappears from the documentary record | — |
+| 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by J Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
+| c.1888 | Elizabeth and William Madams begin living together, Whitstable | Census; project notes |
 | 7 Apr 1890 | Lilian Florence Isabel Madams born, Whitstable | Birth record |
 | 16 Sep 1891 | Eliza Jane Madams born, Whitstable | Birth record |
-| 21 May 1898 | Albert named as Albert Madams in Whitstable Times school attendance warning | Whitstable Times |
+| 21 May 1898 | Albert named as Albert Madams in a Whitstable Times school-attendance warning | Whitstable Times |
+| Q3 1899 | Thomas Gouldstone dies, Saffron Walden district, age 77 (probate calendar: 21 Aug 1899) | GRO index; National Probate Calendar |
 | 31 Mar 1901 | Census: Albert as son of William Maddams, 50 Middle Wall, Whitstable | 1901 census |
-| 19 Jun 1901 | Albert enlists as Albert Goldstone, born Germany. The lie begins. | Naval record |
-| 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | National Archives MH 94/37 |
-| 2 Dec 1901 | Home Office returns depositions (retained since 1883) to Central Criminal Court | Home Office Letter, trial-docs, ref. A31638 |
-| 23 Nov 1901 | William James Madams dies at Chartham | National Archives MH 94/37 |
-| Jul 1906 | Elizabeth Stock dies, age 51. Registered Blean district, Kent — NOT a confirmed specific place of death (district covers several parishes near Canterbury) | GRO index; see Contradiction 12 below |
-| Q1 1910 | Albert Goldstone marries Clarie Irene Setterington, Medway | GRO |
-| Q2 1913 | Emily Willett Gouldstone dies, Saffron Walden district, age 79. GRO reference Volume 4a, Page 785. **CORRECTS an earlier "Jun 1906" entry in this table, which was a conflation with Elizabeth Stock's own 1906 death immediately above it** — every other source (Thomas's own death Q3 1899 leaving her a widow for over a decade, all six census returns tracking her into old age, and this GRO index entry itself) is consistent with 1913, not 1906. | GRO death index, confirmed 15 July 2026 |
-| Nov 1917 | Second Battle of Heligoland Bight. Albert on HMS Courageous. | Naval record |
-| 1918 | German High Seas Fleet surrenders. Albert present. | Naval record |
+| 19 Jun 1901 | Albert enlists as Albert Goldstone, born Germany | Naval record |
+| 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 |
+| 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | TNA MH 94/37 |
+| 2 Dec 1901 | Home Office returns the depositions (ref. A31638) to the Central Criminal Court | Home Office letter, trial-docs |
+| 29 Jun 1906 | Elizabeth (by then using the name Madams) dies, Beach Alley, Whitstable; certificate age 47 against a birth date that makes her 51 (unresolved; do not pick one in prose). Blean is the registration district | GRO death certificate (checked 9 Sep 2026) |
+| Q1 1910 | Albert Goldstone marries Clarie Irene Setterington, Medway | GRO index |
+| Q2 1913 | Emily Willett Gouldstone dies, Saffron Walden district, age 79 (4a 785) | GRO death index |
+| Nov 1917 | Second Battle of Heligoland Bight; Albert on HMS Courageous | Naval record |
+| 1918 | German High Seas Fleet surrenders; Albert present | Naval record |
 | 1 Mar 1921 | Vera Georgina Goldstone born, Chatham | Birth record |
 | 29 Jun 1927 | Eliza Jane Coombs née Madams emigrates to New Zealand with Percy Coombs and seven children | Passenger record |
-| 19 Jan 1935 | William Gouldstone dies in Broadmoor. 51 years detained (corrected 18 Sep 2026, was "52"). Age 78. | Evening Standard 21 Jan 1935 |
-| Jun 1962 | Albert Jennet Goldstone dies, Chatham | Project notes |
+| 14 Jul 1930 | SS Orbita arrives Plymouth; Albert embarked at Bermuda, "Rigger". **Unverified: from a ChatGPT-archive summary only** | ChatGPT-archive (not a source) |
+| 19 Jan 1935 | William dies in Broadmoor, age 78; detained 51 years and three months (not "52") | Evening Standard 21 Jan 1935; 1935 inquest papers |
 | Mar 1962 | George William Ferguson dies | Project notes |
+| Jun 1962 | Albert Jennet Goldstone dies, Chatham | Project notes |
 | 31 May 1970 | Richard David Ferguson born, Chatham General Hospital | — |
-| **2036** | **Broadmoor files unseal** | — |
+| **2036** | **Broadmoor case file opens** | Royal Berkshire Archives (correspondence/Forster_RBA_letters_2025.md) |
+
 
 ---
 
@@ -948,7 +1000,7 @@ been killed". No source supports twelve.
 - **Daily Telegraph, 11 August:** "The inquiry was then adjourned, and after Mr. Lewis had made out the
   orders for the burials of the children he, **with some of the jurymen**, proceeded to view the premises
   where the sad affair occurred."
-- Blyth, at the resumed inquest, confirms the same from the other side: he "was unable to accompany the
+- Blythe, at the resumed inquest, confirms the same from the other side: he "was unable to accompany the
   coroner and the other jurymen to inspect the premises" (Dover Express).
 
 **Use "the coroner and some of the jury". Corrected in `notes/elizabeth_thread_presence_as_absence.md` and
@@ -1314,7 +1366,7 @@ Elizabeth may well have written separately to Harcourt. But the simpler reading 
 side and the open question should be reframed rather than left as it stands. **Also new: a reprieve
 petition was got up in Walthamstow.** No copy is in the archive.
 
-### ELIZABETH'S STATEMENT — FIRST PUBLICATION IS THURSDAY 20 SEPTEMBER
+### ELIZABETH'S STATEMENT — FIRST PUBLICATION IS WEDNESDAY 19 SEPTEMBER (heading corrected 1 October 2026; it read "Thursday 20 September", which the text below supersedes)
 The project dates it "published c.21 September" from the Essex Weekly News. **Settled as far as it can be,
 23 September 2026, after a third reprint was found in the repository.** She saw William at Chelmsford on
 Tuesday 18 September. Two of the three reprints keep "yesterday (Tuesday)" — the Western Daily Press of

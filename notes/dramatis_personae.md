@@ -1,6 +1,6 @@
 # DRAMATIS PERSONAE
 ## The Gouldstone Book — Complete Character Register
-## Updated: 6 September 2026 (Mrs Andrews identified, Mabel's parentage resolved, Robert and Bennett's full lives added, cross-checked against MASTER_NOTES.md and full /notes audit)
+## Header checked 1 October 2026: amended entry by entry through 30 September 2026; each entry carries its own date. Older header: Updated 6 September 2026 (Mrs Andrews identified, Mabel's parentage resolved, Robert and Bennett's full lives added, cross-checked against MASTER_NOTES.md and full /notes audit)
 
 ---
 
@@ -353,7 +353,7 @@ Directed removal of children to mortuary. Deposed at inquest. **Fuller detail fo
 ## THE LEGAL FIGURES
 
 ### Mr C C Lewis
-Coroner, southern division of Essex. Conducted inquest. On Emma Clarke's "wished them dead" evidence: "He did not think anything would turn on that." Repudiated Juror Blyth's conduct.
+Coroner, southern division of Essex. Conducted inquest. On Emma Clarke's "wished them dead" evidence: "He did not think anything would turn on that." Repudiated Juror Blythe's conduct.
 
 ### Mr J P Grain and Mr Elliott
 Defended at trial. Grain described as proceeding "with utmost skill, discreetness, and ability" even in the judge's summing up. Hampered by the judge's refusal to allow Savage's full opinion.
@@ -364,8 +364,9 @@ Prosecuted for the Crown.
 ### Mr Justice Day
 Trial judge. Applied McNaughten Rules strictly. Refused to admit broader interpretation. Ridiculed second cousin evidence. Publicly questioned Savage's bona fides from the bench. Appeared "a good deal affected" when passing the death sentence.
 
-### Mr Blyth (juror)
-Visited Elizabeth at home during inquest adjournment. Told her it was no use trying to get William off the rope — jury believed she drove him to crime through jealousy. Dr Lyle protested formally. Blyth: "I am in the hands of the other jurymen, if I have been indiscreet."
+### Joseph Blythe (juror)
+(Spelled "Blyth" by the Morning Post; Joseph Blythe in the Guardian's jury list of 18 August.)
+Visited Elizabeth at home during inquest adjournment. Told her it was no use trying to get William off the rope — jury believed she drove him to crime through jealousy. Dr Lyle protested formally. Blythe: "I am in the hands of the other jurymen, if I have been indiscreet."
 
 ### Mr Batcheler
 Of the office of the Solicitor to the Treasury; prosecuted "on behalf of the Public Prosecutor" at the examination and committal of 18 August 1883 (Times, 20 August: "Batcheler"; IPN, 25 August: "Mr. H. Batchelor"). "Insanity was not a question for the consideration of this Court." Added 30 September 2026.
@@ -471,7 +472,7 @@ Labourer and brickmaker, of Pridham Road, West Croydon. Killed his son Thomas (3
 Elizabeth's "medical attendant", who delivered the twins on 1 August 1883. Named only in a letter to the Daily Chronicle (13 August 1883) from Edward Smith of 6 Colchester Road, Walthamstow, dated 11 August: "the accouchement fees, for the payment of which the poor woman showed herself so anxious at such a supreme moment, were at once kindly returned by Mr. Sutton, her medical attendant." **"Mr", not "Dr":** the letter's usage (the ordinary title for a surgeon); earlier notes' "Dr Sutton" had no source. First name, qualifications and address unknown. Resolves Contradiction 23. Press-only, so named with the letter credited when used in prose. Added 22 September 2026.
 
 ### Dr Lyle
-Elizabeth's attending physician after murders. Wrote formally to coroner protesting Juror Blyth's visit. Warned Elizabeth might die from the shock.
+Elizabeth's attending physician after murders. Wrote formally to coroner protesting Juror Blythe's visit. Warned Elizabeth might die from the shock.
 
 ### J Frost
 Infirmary staff member (almost certainly a trained nurse — the Brook Street infirmary trained its own staff). Present at Albert's birth 19 June 1887. Registered the birth the following morning, 20 June 1887. Listed as informant on Albert's birth certificate: "J Frost, present at the birth, workhouse infirmary, Brook Street, Lambeth." Full name and role not yet established.

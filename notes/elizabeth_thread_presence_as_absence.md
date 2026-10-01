@@ -63,6 +63,16 @@ happened. Do not let the two blur.
 
 ## 3. Why she was never called — the legal position
 
+**CURRENT POSITION, 1 October 2026 (read this first).** VERIFIED from the statute itself, the Criminal Evidence Act
+1898 (`sources/pdfs/`), and two independent authorities (Wilson, QIT Law Journal 1984, quoting *Bentley v Cooke*,
+1784; the Irish Law Reform Commission). In 1883 a wife could be called neither for nor against her husband; the
+narrow exceptions (personal violence against her, treason, deprivation of liberty) did not reach the killing of her
+children. After 1898 the prosecution still could not have called her in a murder trial; only William could have.
+William himself could not be sworn either, but, unlike her, he could make an unsworn statement (see
+part_three_context_law_and_medicine.md, current position). **Still open:** whether he made one at the trial, and
+whether any contemporary account notices her absence from the witness box (live_lists.md). The paragraph headed
+"Confidence" below predates the verification and is superseded.
+
 At common law a wife was incompetent to give evidence in a criminal case, **both for and against her husband**. Lord
 Mansfield in *Bentley v. Cooke* (1784): "There never has been an instance either in a civil or a criminal case where the
 husband or wife has been permitted to be a witness for or against the other, except in the case of necessity." The rule was
@@ -107,7 +117,7 @@ exceptions for treason and for cases of abduction (*R v. Wakefield*, 1827).
 So the murder of her five children did not open the door. The violence was not against her. On the law as it stood in 1883,
 neither Mr Poland for the Crown nor Mr Grain for the defence could have called her, however much either of them wanted to.
 
-**Confidence:** the rule and the authorities above are well established and come from a law-review survey of the English
+**[SUPERSEDED 23 September 2026 by the verification above; kept for the record.]** **Confidence:** the rule and the authorities above are well established and come from a law-review survey of the English
 position (Queensland University of Technology Law Review, "Spouses as Witnesses in England and Queensland"). Before this
 enters prose it should be confirmed from a standard legal history — Roger Smith's *Trial by Medicine* is already on the
 list for Part Three, and Wigmore or a nineteenth-century evidence textbook (Taylor, *On Evidence*) would settle it. **TO
@@ -120,7 +130,7 @@ not asserted in the prose.
 ### (a) The view, Friday 10 August — she does not know they are there
 The coroner and some of the jury walked through the house, on the adjournment, to test whether the children could have been
 drowned in the cistern. **Corrected 22 September 2026: "some of the jurymen", not the whole jury** (Daily Telegraph, 11
-August; Blyth's own account confirms it from the other side). The Daily Telegraph also establishes that the coroner made out
+August; Blythe's own account confirms it from the other side). The Daily Telegraph also establishes that the coroner made out
 the orders for the children's burials, in the cemetery board room, before he walked to the house. The coroner's own defence of the visit, given a week later at the resumed inquest:
 
 > "The object of the other jurymen and myself in going to the house was simply to see if the children could have been
@@ -134,8 +144,8 @@ and the proof offered that this was properly done is that she did not know they 
 Contradiction 47. The point the sentence makes does not depend on the number, and the number was never ours to supply.) Nothing is recorded as being asked of
 her, or said to her, or explained to her.
 
-### (b) Blyth at her bedside, Sunday 12 August — the threat
-Blyth (Blythe in the Dover Express, Blyth in the Morning Post), a juryman, could not attend the view on the Friday, so he
+### (b) Blythe at her bedside, Sunday 12 August — the threat
+Joseph Blythe (so in the Guardian's jury list and the Dover Express; "Blyth" in the Morning Post), a juryman, could not attend the view on the Friday, so he
 went alone to the house on the Sunday morning. On his own account the visit "was of a kindly nature, to see if he could be
 of any service to Mrs. Gouldstone."
 
@@ -159,7 +169,7 @@ alive on jellies and quiet. He described it as kindness.
 ### (c) Lyle's protest, Monday 13 August — she is spoken for, not heard
 The protest is made by her doctor, in a letter, read aloud by him at the resumed inquest, in the cemetery lodge, on the
 morning of her children's funeral. She is not present and is not asked to give her own account of what was said to her.
-Blyth's account of the visit is heard. Hers is not.
+Blythe's account of the visit is heard. Hers is not.
 
 Lyle's warning, in the coroner's court, is blunt: "You might have to make an inquiry as to the cause of Mrs. Gouldstone's
 death owing to the injury done her."
@@ -169,7 +179,7 @@ What the institution does with that:
 > anything said on behalf of this Court. [...] It was extremely unwise, and it may have been done incautiously or
 > unguardedly. We will now proceed with the case."
 
-Blyth: "I am in the hands of the other jurymen, if I have been indiscreet." He remained on the jury. The jury then returned
+Blythe: "I am in the hands of the other jurymen, if I have been indiscreet." He remained on the jury. The jury then returned
 its verdict of wilful murder, "at once".
 
 **For the prose:** the whole exchange takes up a few lines before the evidence resumes, and the words that close it are "We
@@ -229,7 +239,7 @@ documents its readers could read rather than two Home Office papers. That does n
 Harcourt, and she may well have written one; but the premise that a longer lost narrative must exist now has evidence
 against it and the question should be reframed rather than repeated. The original note follows. The BMJ's phrase implies something longer than the press statement, and the press statement is
 itself addressed to the public rather than to the Home Office. The fuller narrative to the Home Secretary has not been
-found. See MASTER_NOTES open questions. If it survives it is the most valuable undiscovered document in the project.
+found. See live_lists.md, open questions. If it survives it is the most valuable undiscovered document in the project.
 
 ## 5. The vocabulary used about her
 
@@ -260,7 +270,7 @@ The people who expected her were expecting her because she had asked to see her 
 
 The instruction is to show the absence, not to assert it. In practice:
 
-- **Never editorialise on her treatment.** The Blyth scene, set down plainly with the coroner's closing sentence intact,
+- **Never editorialise on her treatment.** The Blythe scene, set down plainly with the coroner's closing sentence intact,
   will do more than any gloss. The same goes for "really did not know what was going on."
 - **Let the pronoun do it.** In Part Three she is almost always "his wife" or "Mrs. Gouldstone" in the sources. Where a
   chapter is in the sources' register, that is what she is. Where the narration is our own, she is Elizabeth. The gap

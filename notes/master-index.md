@@ -1,4 +1,5 @@
 # Goldstone Book — Master Source Index
+*STALE, noted 1 October 2026: 21 of the 67 files in transcribed/ are not listed here, including every Walthamstow and Leyton Guardian issue and the Daily News of 11 and 20 August. Each transcription's own header now records its status and checks (CHECK ONCE rule). Treat this index as a partial guide until it is rebuilt.*
 *Last updated: 15 July 2026 (second pass — Great Sampford trade directory and Historic England listings added)*
 
 ---
@@ -231,13 +232,13 @@ Book section: Prologue, Part Two
 **Dover Express, 17 August 1883**
 `transcribed/Dover_Express_17_Aug_pm.txt`
 Status: READ
-Key content: Full inquest account. Juror Blyth's visit to Elizabeth and its consequences. Dr Lyle's protest to coroner. Funeral attendance: 1,500 (contradicted by Morning Post's "several hundred" — see that entry below, genuine unresolved contradiction between two named sources, not a transcription ambiguity). Funeral officiant: Rev. T. H. Grantham Robinson. Mrs Graves (wife of foreman) attended funeral.
+Key content: Full inquest account. Juror Blythe's visit to Elizabeth and its consequences. Dr Lyle's protest to coroner. Funeral attendance: 1,500 (contradicted by Morning Post's "several hundred" — see that entry below, genuine unresolved contradiction between two named sources, not a transcription ambiguity). Funeral officiant: Rev. T. H. Grantham Robinson. Mrs Graves (wife of foreman) attended funeral.
 Book section: Part Two
 
 **Morning Post (undated), coroner's inquest resumption**
 `transcribed/Morning_Post_article.txt`
 Status: READ — no dedicated index entry existed until 9 September 2026, despite being cross-referenced by the Dover Express entry above; full mining pass of `/transcribed` on that date confirmed this genuinely had no entry of its own.
-Key content: Fuller coroner's inquest account, juror Blyth's indiscreet visit confirmed independently. **New physical funeral detail not found anywhere else in this project**: funeral originally scheduled 3pm, moved to noon on the day; five children buried together in a single grave in the third-class portion of Walthamstow Cemetery; coffins were elm. (Depth SETTLED 24 September 2026 at ten feet: the Morning Post's "10-foot" is supported by the Walthamstow and Leyton Guardian of 18 August against the Dover Express's "6ft. deep". See Contradiction 52.) Funeral officiant given as "Rev. T. H. Grantham Robinson" — **corrected 22 September 2026**: this entry previously recorded a Morning Post misprint, "Robson". There is no misprint. The source image reads Robinson; the error was ours, in `transcribed/Morning_Post_article.txt`, and is now fixed there and in the timeline file. Attendance given as "several hundred people" — the actual source of the contradiction with the Dover Express's 1,500, now properly attributed rather than floating.
+Key content: Fuller coroner's inquest account, juror Blythe's indiscreet visit confirmed independently. **New physical funeral detail not found anywhere else in this project**: funeral originally scheduled 3pm, moved to noon on the day; five children buried together in a single grave in the third-class portion of Walthamstow Cemetery; coffins were elm. (Depth SETTLED 24 September 2026 at ten feet: the Morning Post's "10-foot" is supported by the Walthamstow and Leyton Guardian of 18 August against the Dover Express's "6ft. deep". See Contradiction 52.) Funeral officiant given as "Rev. T. H. Grantham Robinson" — **corrected 22 September 2026**: this entry previously recorded a Morning Post misprint, "Robson". There is no misprint. The source image reads Robinson; the error was ours, in `transcribed/Morning_Post_article.txt`, and is now fixed there and in the timeline file. Attendance given as "several hundred people" — the actual source of the contradiction with the Dover Express's 1,500, now properly attributed rather than floating.
 Book section: Part Two, Part Three
 
 **Bury Free Press, 23 August 1883**

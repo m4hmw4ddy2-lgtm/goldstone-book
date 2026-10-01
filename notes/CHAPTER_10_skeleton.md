@@ -1,4 +1,7 @@
-# CHAPTER TEN — SKELETON
+# CHAPTER TEN — SKELETON (also carries the plan for CHAPTER ELEVEN)
+# STATUS, 1 October 2026: BOTH CHAPTERS DRAFTED AND SETTLED. Chapter Ten assembled 23 September, titled 24 September,
+# one line changed 30 September; Chapter Eleven assembled 24 September. The header lines below are the original
+# ones of 22 September, kept as the record; the four research questions they mention are all answered.
 # First proposed 22 September 2026. REVISED the same day after a full source pass on the week of 9–13 August.
 # Status: SHAPE AGREED IN PART. Nothing drafted. The three DECIDE points were settled by Rik on
 # 22 September 2026 and are marked DECIDED below. Four research questions remain open before drafting.
