@@ -138,3 +138,10 @@ and the rhythm, which are the things that carry it.
    passage.
 3. The Western Daily Press reprint was in the repository throughout and had not been collated. Worth a
    sweep of `transcribed/` for any fourth reprint before this is treated as complete.
+
+## 1 October 2026: "burden" / "burthen", and a departure from the copy text (Rik)
+Checked against both images: Essex Weekly News "the burthen of the family"; Western Daily Press "the burden of the
+family". The Guardian cuts the passage. Chapter Five quotes "burden", following the Western Daily Press for this one
+word, by Rik's decision: "burthen" would read as a typo. Everything else Part One quotes from the statement follows the
+Essex Weekly News.
+

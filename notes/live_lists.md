@@ -68,6 +68,10 @@
 - Albert's 1930 SS Orbita record: from a ChatGPT-archive summary only; verify against a shipping list.
 
 ### The family before 1883
+- ~~**Emma Ansell's age in 1851**~~ DECIDED 1 October 2026 (Rik): Chapter Two says ten. The census wrote eight; the
+  burial (21, October 1861) and the 1861 census (20) put her birth between April and October 1840.
+- **Emma Ansell's baptism, 30 May 1841, Wethersfield:** the index gives the mother as "Mary", not Jemima. Check the
+  register image: a slip, or another John Ansell's daughter? Not used in prose until checked.
 - Alice Gouldstone, sub-postmistress, Great Sampford (directory, likely 1894): a baptism or birth record naming Thomas
   and Emily as parents is needed before treating her as William's sister (dramatis_personae.md).
 - Edward Suckling's marriage date and his wife's surname.
@@ -92,13 +96,10 @@
 - **Emily Forster, Royal Berkshire Archives:** the case-book enquiry, drafted, not sent (see section 4).
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
-- **"burden" or "burthen":** the Essex Weekly News reads "burthen of the family" (checked against its image). Our
-  Western Daily Press transcription reads "burden", but the Essex file's header says the Western Daily Press
-  "independently agrees" with "burthen". Check that one line of the Western Daily Press against its image, record it in
-  the header, and then Chapter Five quotes whichever spelling the copy text has (Essex Weekly News is the copy text, so
-  "burthen" unless the check finds otherwise).
-- **Chapter Five, "insanity in the family" sentence:** gives away the statement's conclusion in Part One, against the
-  amended linear rule. Rik to decide (elizabeth_thread_presence_as_absence.md, section 9).
+- ~~**"burden" or "burthen"**~~ DECIDED 1 October 2026 (Rik): Chapter Five keeps "burden", the Western Daily Press
+  reading (checked against its image), because "burthen" would read as a typo. A deliberate departure from the Essex
+  copy text for this one word; the Essex Weekly News reads "burthen". Recorded in the collation file.
+- ~~**Chapter Five, "insanity in the family" sentence**~~ DONE 1 October 2026 (Rik): cut.
 - ~~**master-index.md:** rebuild~~ done 1 October 2026 (see its header).
 
 ## 4. SOURCES STILL TO OBTAIN (priority order)

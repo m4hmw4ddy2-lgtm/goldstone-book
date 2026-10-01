@@ -754,7 +754,7 @@ Honey sets out to FETCH Twining and finds him already at the house. That only wo
 ### 40. PRESS-TIER AND INFERRED DETAILS IN CHAPTER EIGHT (logged 22 September 2026)
 - **"with their feet all one way"**: Gould's magistrates' evidence as reported by the IPN (25 Aug). Press report of sworn evidence, used unattributed as fact. Logged on the same basis as Contradictions 28 and 38.
 - **The twins in "the Hamiltons' front room" when Honey saw them**: Honey's own witness statement says only "I then saw the other two children"; the front room is from his magistrates' evidence as reported by the IPN (25 Aug), and is independently confirmed for Gould's arrival by Gould and Folkard (sworn). Low risk.
-- **"the doctor and the constable removed Charles's clothes"**: Smith's wording (Morning Post, inquest). The constable is inferred, not named, to be Honey.
+- **"the doctor and the constable removed Charles's clothes"**: Smith's wording (Morning Post, inquest). The constable is inferred, not named, to be Honey. **1 October 2026:** the doctor is Twining (Gould at the committal, IPN 25 Aug: "Dr. Twining having taken the clothes off"); Chapter Eight now names him.
 - **"Neither of them had survived long enough even to be given a name"**: the absence of names is sourced three ways (coroner's heading; press "unnamed"; GRO index "Male"). The reason ("survived long enough") is not documented. Rik's decision to keep it, 22 September 2026.
 
 ---

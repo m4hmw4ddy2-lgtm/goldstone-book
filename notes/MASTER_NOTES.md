@@ -1164,3 +1164,29 @@ statement's chapter: Part One does not say what the statement was for, and only 
 Lists and the one sentence in breach (Chapter Five, "insanity in the family"): elizabeth_thread_presence_as_absence.md,
 section 9.
 
+### 1 October 2026: line fixes across Part One to Chapter Ten (Rik)
+From a read of the whole book as it stands (A_Happy_Man.pages, which matched the repo chapters). Each re-checked
+against its source before Rik decided.
+- **Ch 2:** "no record survives naming his first wife" -> "his first wife has never been identified" (a candidate
+  record, Stock/Hockley 1827, exists but cannot be tied to him).
+- **Ch 3:** "She was twenty." cut (Emily Willett's birth year is a close call, 1830 against 1833-35). "It surfaces only
+  once" -> "It surfaces" (the paragraph itself has a doctor recording the illness). "his cousin" -> "a second cousin"
+  (Thomas's own words at the trial, Times, 15 September).
+- **Ch 5:** "a little under three years" -> "about three years" (Graves: "for about the first three years"). The
+  "If he seemed worried" sentence rewritten so it reads first time. And the "insanity in the family" sentence cut
+  (amended linear rule).
+- **Ch 6:** "one look of anger" now attributed to the Illustrated Police News (18 August), its only source.
+- **Ch 7:** the general claim that fourteen inches is not enough to drown in by falling, and that a boy "would stand, or
+  sit, or come up", cut: Herbert could not walk, Frederick was sixteen months, and the only contemporary source for the
+  point is prosecuting counsel's opening (Times, 15 September), which is not evidence. Now: "He held them under, and held
+  them there, for as long as it took." Rik's decision.
+- **Ch 8:** the clothes: Dr Twining named (Gould at the committal, IPN 25 August: "Dr. Twining having taken the clothes
+  off"; Smith at the inquest: "The doctor and the constable, thinking it was alive"), and the sentence moved before
+  "Honey stayed until Dr Gould came", so it no longer reads as Gould.
+- **Ch 10:** the brothers' cell visit attributed to the IPN (Contradiction 54: the Guardian hedges it). "he was examined
+  by both" -> "his case was before both" (he is not recorded at the inquest).
+- **Ch 2 (later the same day):** "Emma, eight" -> "Emma, ten" (Rik): the 1851 census age was wrong; the burial and the
+  1861 census agree on a birth in 1840.
+- **Not changed:** "Let me see my wife." in Ch 8 follows the Guardian and Daily News; only the Old Bailey account has a
+  question mark.
+
