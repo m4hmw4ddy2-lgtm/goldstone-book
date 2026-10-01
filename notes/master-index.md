@@ -699,25 +699,25 @@ Book section: Part One
 ## SECTION 7: NOTES AND WORKING DOCUMENTS
 
 **Session Summary 24 June 2026**
-`notes/session-summary-2026-06-24.md`
+`notes/archive/session-summary-2026-06-24.md`
 
 **Session Addendum 25 June 2026**
-`notes/session-addendum-2026-06-25.md`
+`notes/archive/session-addendum-2026-06-25.md`
 
 **Session Note 28 June 2026**
-`notes/session-note-2026-06-28.md`
+`notes/archive/session-note-2026-06-28.md`
 
 **Master Notes** *(renamed from MASTER_NOTES_7_JULY_2026.md on 14 July 2026; updated 14 July with Elizabeth/Jemima maternal-line corrections; updated 15 July with the four-generation Gouldstone line and Essex village geography)*
 `notes/MASTER_NOTES.md`
 
 **Session Notes 7 July 2026**
-`notes/session_notes_7_july_2026.md`
+`notes/archive/session_notes_7_july_2026.md`
 
 **Session Update 14 July 2026 (Parts 1 and 2)** — Elizabeth/Jemima/Suckling maternal-line research
-`notes/session_update_2026-07-14.md`, `notes/session_update_2026-07-14_part2.md`
+`notes/archive/session_update_2026-07-14.md`, `notes/archive/session_update_2026-07-14_part2.md`
 
 **Session Notes 15 July 2026** — Gouldstone four-generation line; Wethersfield, Finchingfield, Great Sampford village geography
-`notes/session_notes_2026-07-15_essex_geography_and_gouldstone_line.md`
+`notes/archive/session_notes_2026-07-15_essex_geography_and_gouldstone_line.md`
 
 **Confirmed Facts, Timeline and Contradictions** *(updated 7 July 2026)*
 `notes/confirmed_facts_timeline_contradictions.md`

@@ -6,7 +6,7 @@
 
 ### Family
 - **Uncle Steve Ferguson.** Family photographs (the survivors of the house fire at Dot's) and family
-  information. Recorded: `notes/session-summary-2026-06-24.md`; project memory.
+  information. Recorded: `notes/archive/session-summary-2026-06-24.md`; project memory.
 - **Linda Neaves, and her late sister Sue (Susan Neaves).** Oral history, including the Edam cheese story and
   the Chatham ropery foreman detail. Recorded: `notes/dramatis_personae.md` (Doris May Goldstone's entry);
   project memory. *Sue's name needs Linda's wishes before it is printed.*
@@ -48,7 +48,7 @@ documents later show.
   the June 2026 project chats as an open item. *Rik to confirm, and whether anyone else confirmed it.*
 - **Frederick Brook, "Memories of Childhood in Little Sampford"**, recorded in 1980 by his daughter **Dorothy
   Lee**. Oral history used for Great Sampford and Little Sampford village life. Recorded:
-  `notes/session_update_2026-07-20_part2.md`, section 7. *Find where it is published or held, and credit
+  `notes/archive/session_update_2026-07-20_part2.md`, section 7. *Find where it is published or held, and credit
   that; only if the finished text uses it.*
 - **bygoneboozers.co.uk.** Licensee histories of the Cock Inn and the Bull, Great Sampford. Same file.
   *Find the compiler's name.*

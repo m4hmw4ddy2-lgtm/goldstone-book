@@ -531,7 +531,7 @@ Per standing rule two, each needs propagating to every file that carries it. Lis
    headed "Cen. Criminal Court Sept 10th 1883", the date the sessions opened. Milne's wrong trial date in 1935 is very
    probably that heading copied from the file. Inference. The same docket carries the Home Office stamp, **17 SEP
    1883**: the depositions went to the Home Office three days after the verdict.
-13. **`notes/session-addendum-2026-06-25.md`, "Kleptomania reference — DISCARDED... Not in any verified source
+13. **`notes/archive/session-addendum-2026-06-25.md`, "Kleptomania reference — DISCARDED... Not in any verified source
    document."** Wrong: it is in Ada's sworn deposition (image 0012) and in the Times and the IPN. Historic session
    file; mark it rather than rewrite it.
 14. **Two open items in MASTER_NOTES appear to be answered by the Medico-Legal Journal PDF already in the

@@ -1963,7 +1963,7 @@ supersedes three months of treating it as a possible alternative name for 8 Cour
 MASTER_NOTES ("the 'same building' claim") and master-index item 1, both of which still frame it as a
 building-identity question.
 
-**(2) A PROJECT CLAIM DISPROVED.** `notes/session-note-2026-06-28.md` states flatly that **"Queens Road did
+**(2) A PROJECT CLAIM DISPROVED.** `notes/archive/session-note-2026-06-28.md` states flatly that **"Queens Road did
 not exist in 1883"**, and that claim has been used to discount the 1935 address. A registrar wrote it on
 **21 December 1882**. The claim is wrong and should be struck where it appears.
 
@@ -2384,7 +2384,7 @@ answers. It never means the named person is speaking. Check this before quoting 
 
 ### OPEN QUESTION, logged 23 September 2026: which House of Detention?
 **ANSWERED ON A PRESS SOURCE, 30 September 2026: the Walthamstow and Leyton Guardian, 25 August, "safely lodged at
-Clerkenwell". See Contradiction 66. The text below is kept as the record of the question.**
+Clerkenwell". See Contradiction 66. DECIDED the same day (Rik): prose names Clerkenwell as fact. The text below is kept as the record of the question.**
 Prompted by Rik asking whether Maryland Point needs clarifying in the prose. It did, and one word
 fixed it: the Daily Chronicle calls it "the Maryland Point Station of the Great Eastern Railway",
 and the prose now says "Maryland Point station". **The other place-name in the same sentence is the
@@ -2694,6 +2694,8 @@ page IMAGE of that text in the repository, so it now checks the unchecked IPN tr
 **Assessment.** The first source in the archive to name the place. Press, local, and specific; nothing against it.
 The open question (logged 23 September) is now answered on a press source. **DECIDE (Rik):** whether prose may
 now say Clerkenwell as fact, or only as the Guardian's words.
+**DECIDED 30 September 2026 (Rik): Clerkenwell is stated as fact in prose.** The House of Detention that held William
+between the committal and the trial is the Clerkenwell House of Detention. Source: Guardian, 25 August; context: Cole.
 
 ### 67. THE VICAR'S VISIT, FRIDAY 17 AUGUST, AND HIS SERMON, SUNDAY 19 AUGUST (NEW)
 Grantham Robinson, in his own sermon as printed: "On Friday last I saw the unhappy man ... at the House of
