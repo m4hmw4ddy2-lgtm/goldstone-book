@@ -742,3 +742,13 @@ was read over." Two faults: "indictment" is the wrong word at a magistrates' hea
 jury found a true bill on in September), and "now" implied the twins had not been in the charge before, when the
 Thursday paragraph already has him charged with their murder, and Folkard charged him with all five at 8.30 on 9 August.
 The reading of the charge is kept as a real step in that day's hearing.
+
+
+## REVISION, 1 October 2026 (Rik): the vicar's first letter (Contradiction 71)
+Chapter Ten's last section now opens with Grantham Robinson's letter of 9 August, as printed in the Guardian on the
+Saturday ("dated the day after the murders"): "utterly stunned, but most resigned", "no nourishment whatever in the
+house", "a few pounds to provide present necessities". It sits before the curious visitors who were denied and
+Blythe who was admitted; no comment joins them. Chapter Eleven trimmed to match: the second letter is now "written to
+the Guardian again", keeping "wonderfully composed but very weak", "everything needful for the present" and the
+mortuary line, and cutting "devoid of all comfort, even the plainest food" and "supplied her immediate wants", which
+repeated Chapter Ten. Source check: the 11 August transcription was made from close crops of the image, 30 September.

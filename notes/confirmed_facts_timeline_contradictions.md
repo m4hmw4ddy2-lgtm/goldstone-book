@@ -851,6 +851,7 @@ copy. Still one press witness; both page images checked. See the Guardian sectio
 - **Ada's witness statement, coroner deposition and Old Bailey:** no words at that moment. Chapter Seven has him silent.
 
 **Assessment:** a press-tier line, single source. Not for use in a scene without a decision (Rik). Could also belong to the moment she returned and saw the row.
+**DECIDED 1 October 2026 (Rik): (a), not used.** Chapter Seven stays silent at this moment. Reason: one shared press text against four sworn documents silent at the same moment, including Ada's own deposition of 18 August, where the clerk took down the adjacent answer ("At the time the murder was committed he seemed excited") and not these words. Not used as press-as-press elsewhere either.
 
 ---
 
@@ -2842,6 +2843,7 @@ composed". **Bearing on the chapters:** Chapter Eight's "Within a few hours of t
 stands (the 9 August letter says "just seen"). Chapter Eleven's "On the Friday ... he had written to the Guardian"
 is true of the second letter, but the first had been printed on the Saturday before the funeral, in the issue the
 town was reading. For Rik: whether Chapter Ten or Eleven should know of the first letter. No prose changed.
+**DECIDED 1 October 2026 (Rik): Chapter Ten.** The first letter goes in at the head of Chapter Ten's last section, as what the Guardian printed on the Saturday, "dated the day after the murders" (not "a visit on the ninth": "just seen" and "a few hours after the murders" are probably one visit, but neither letter says so). Quoted: "I have just seen ... no nourishment whatever in the house"; "a few pounds to provide present necessities". Chapter Eleven trimmed to avoid repeating it: "devoid of all comfort, even the plainest food" and "He had supplied her immediate wants" cut; "written to the Guardian again"; "wonderfully composed but very weak", "everything needful for the present" and the mortuary line kept. Both chapters changed 1 October 2026 with Rik's approval.
 
 ### 72. THE ARRAIGNMENT, WEDNESDAY 12 SEPTEMBER (Guardian, 15 September)
 Before Mr Justice Watkin Williams: pleaded not guilty "in a firm tone", "perfectly calm and composed"; Elliott applied

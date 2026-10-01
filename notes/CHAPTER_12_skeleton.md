@@ -1,7 +1,7 @@
 # CHAPTER TWELVE — SKELETON (also carries the plan for CHAPTER THIRTEEN)
 # STATUS, 1 October 2026 (evening): Chapter Twelve DRAFTED IN FULL, all four movements approved by Rik and assembled
 # in chapters/CHAPTER_12.md, about 1,700 words. Chapter Thirteen is planned, nothing drafted. Every DECIDE
-# point is settled except DECIDE 10 (Chapter Thirteen's ending). Contradictions 57 to 61 were entered in the
+# point is settled (DECIDE 10 settled 1 October 2026: Chapter Thirteen ends on the arraignment). Contradictions 57 to 61 were entered in the
 # timeline file on 30 September; 61 is resolved (Arthur Lister). The header lines below are the original ones.
 # First proposed 24 September 2026, after a full source sweep of the period Tuesday 14 August to Tuesday
 # 11 September 1883. Nothing drafted. Every DECIDE point below is open until Rik rules on it.
@@ -56,7 +56,8 @@
    elizabeth_thread_presence_as_absence.md, section 9.
 5. **Chapter endings (Rik):** chapters do not all have to close on Elizabeth, "in fact it would be predictable if
    they did". Recorded as a standing note for the rest of the book. **Chapter Thirteen closes on the sessions
-   notice and the true bill**, as recommended; the visits sit earlier, undated.
+   notice and the true bill**, as recommended; the visits sit earlier, undated. **SUPERSEDED 1 October 2026 by
+   DECIDE 10: it closes on the arraignment of Wednesday 12 September.**
 
 6. **DECIDED 30 September 2026 (Rik), all as recommended:**
    - **DECIDE 5:** the kleptomania and pawning answers go in, set down as Ada and Cheeseman gave them, in their
@@ -250,7 +251,7 @@ The second tribunal, and the first with a full sworn record. In the order of the
   spoke to me on the Sunday previous that he had a fit of Cleptomania coming on" (image 0012, clerk's spelling);
   the cord in his hands on the fire guard, "I didn't notice a slip noose in the string"; "At the time the murder
   was committed he seemed Excited." The Times adds "not absent or wandering"; the IPN adds "I've done it, I've
-  done it" (Contradiction 34, still undecided).
+  done it" (Contradiction 34: decided 1 October 2026, not used).
 - **Cheeseman, Honey, Folkard, Wheatley.** Chapter Nine and Chapter Eight already carry what they saw. Here they
   appear as a sequence of men repeating it, and the chapter should give them one paragraph between them, as Chapter
   Eleven did for Smith, Bryant and Folkard. What is new: the cross-examination answers above; Cheeseman's "He
@@ -649,6 +650,11 @@ Wednesday 12 is now the last dated event before the trial. Options: (a) keep the
 trial chapter with the arraignment and the postponement; (b) end on the arraignment: "not guilty, in a firm tone", and
 the trial fixed for Friday. Recommended (b): linear, and the plea is William's first word in a court since "I reserve
 my defence". Kerr's charge fits either way, on the Monday.
+**DECIDED 1 October 2026 (Rik): (b), end on the arraignment.** Reason: it gives the trial chapter a clean start on the
+Friday. The true bill stays in Chapter Thirteen as the second-last beat. Withdrawn as a reason: the "first word in a
+court since 'I reserve my defence'" echo, because Chapter Twelve leaves open whether William or Atkinson said those
+words. The plea is the Guardian's alone (15 September); the arraignment's image check is still to do before quoting
+"in a firm tone".
 
 **The money thread, now sourced at every step:** "a few pounds to provide present necessities" for Elizabeth (vicar,
 9 August); "to start her in some way of business" (leader, 1 September); the Club Minstrels (28 August); subscriptions
@@ -659,4 +665,6 @@ left for her (Graves, 11 October). Told in order, the facts carry it; no comment
 **Chapters Ten and Eleven (for Rik; no prose changed):** the Guardian of 11 August, on sale on the Saturday of the
 second Stratford hearing, carried the vicar's first letter ("utterly stunned, but most resigned"; "no nourishment
 whatever in the house") and the newspaper cutting of "two recent murders" said to have been found on William
-(Contradictions 70 and 71). Both are press, usable as the Guardian's words.
+(Contradictions 70 and 71). Both are press, usable as the Guardian's words. **1 October 2026 (Rik): the first letter is
+now in Chapter Ten (Contradiction 71); the money thread therefore begins there, with "a few pounds to provide present
+necessities".**

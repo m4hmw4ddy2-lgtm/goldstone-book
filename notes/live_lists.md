@@ -8,11 +8,7 @@
 ---
 
 ## 1. DECISIONS WAITING FOR RIK
-- **DECIDE 10 (CHAPTER_12_skeleton.md).** Chapter Thirteen to end on the true bill (Tuesday 11 September) or on the
-  arraignment (Wednesday 12 September, Contradiction 72).
-- **Contradiction 34.** "I've done it, I've done it" (one shared press text, IPN and Guardian of 25 August): not for
-  use without a decision; Chapter Seven has him silent at that moment.
-- **Contradiction 71.** Whether Chapter Ten or Eleven should know Grantham Robinson's first letter, of 9 August.
+- None as of 1 October 2026 (DECIDE 10, Contradictions 34 and 71 all settled that day).
 
 ## 2. OPEN QUESTIONS
 ### The case, 1883
