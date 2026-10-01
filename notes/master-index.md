@@ -334,7 +334,7 @@ Key content: The examination and committal of Saturday 18 August (not a remand; 
 Book section: Part Two, Part Three
 
 **Morning Advertiser, 20 August 1883, page 6**
-`transcribed/Morning_Advertiser_20_August_1883_p6_transcription.txt` (image: in the repository, filename to be added)
+`transcribed/Morning_Advertiser_20_August_1883_p6_transcription.txt` (image: `sources/images/Morning_Advertiser_20_August_1883_0006_Clip.jpg`)
 Status: READ, transcribed 1 October 2026 from Rik's image
 Key content: The committal of 18 August. Evidence abridged from the IPN/Guardian copy (one witness with them). Its own: the dock (Powell reads the charge; Honey brings the water); Miss Skinner's visit in full ("joined in prayer", "Amen", "that defiance"); the departure by ruse (decoy cab, Three Choppers coffee palace, brougham from the Grove, the chase, Angell Lane). "Mr. Batchelor". Contradictions 84 to 87.
 Book section: Part Three (Chapter Twelve)
