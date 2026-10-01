@@ -54,6 +54,12 @@
 - "Site now a bus depot": unsourced; check before use.
 - The insane great-uncle: unidentified.
 
+- Savage's letter to The Times ("I feel it my duty to write shortly about the case of William Gouldstone"), printed in
+  Clark Bell, Medico-Legal Journal, December 1884 (sources/pdfs/): not yet reconciled with the three Savage letters in
+  the timeline file.
+- 8 Courtenay Place before the Clarkes: Joseph Wells at "8 Courtenay Terrace, Marsh Street" (1882 directory); whether
+  he held the whole house, and how it passed to Charles Clarke.
+
 ### Elizabeth and after 1883
 - Her age at death: certificate 47, birth certificate 51. Do not pick one in prose.
 - The origin of Albert's middle name, Jennet.
@@ -62,6 +68,8 @@
 - Albert's 1930 SS Orbita record: from a ChatGPT-archive summary only; verify against a shipping list.
 
 ### The family before 1883
+- Alice Gouldstone, sub-postmistress, Great Sampford (directory, likely 1894): a baptism or birth record naming Thomas
+  and Emily as parents is needed before treating her as William's sister (dramatis_personae.md).
 - Edward Suckling's marriage date and his wife's surname.
 - Parentage of Ruth (b. c.1854) and Thomas (b. c.1856) Gouldstone, born Holloway, raised at Great Sampford; Ann the
   leading candidate.
@@ -79,12 +87,12 @@
 - **Vestry House** (vestry.house@walthamforest.gov.uk): Gouldstone and Grantham Robinson biography files; W28 St
   James's Street buildings file; rate books 1880-1900; Burial Board minutes; photographs of Courtenay Place;
   demolition date.
-- **National Archives Discovery:** search "Gouldstone" within HO 144.
+- **National Archives Discovery:** search "Gouldstone" within HO 144. A search under "Gouldstone" found only CRIM 1/19/2; still untried: "Goldstone", and browsing HO 144 by date (September-October 1883). If both fail, record the negative: not every capital case of the period has a surviving HO 144 file.
 - **Royal Berkshire Archives:** register interest in the Broadmoor file, as a request to be told when it opens in 2036 (not a route in; see MASTER_NOTES, "THE BROADMOOR FILE"). Whether this has been done is not recorded.
 - **Emily Forster, Royal Berkshire Archives:** the case-book enquiry, drafted, not sent (see section 4).
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
-- **master-index.md:** rebuild, or cut to a plain list of files (21 of 67 transcriptions missing).
+- ~~**master-index.md:** rebuild~~ done 1 October 2026 (see its header).
 
 ## 4. SOURCES STILL TO OBTAIN (priority order)
 1. Saffron Walden Weekly News, 3 July 1953, the rest of the Housden funeral paragraph (the mourners list, cut off in the clip).
@@ -117,6 +125,9 @@
 28. A period definition of "confusional insanity" (Savage, or the Journal of Mental Science), before Milne's 1935 deposition is quoted
 29. The London daily of Wednesday 19 September 1883 that first printed Elizabeth's statement
 30. Newspaper trial reports of 15 September 1883, to check whether William made an unsworn statement from the dock (the Old Bailey account records none)
+31. Walthamstow directory, 1883 or 1884: independent confirmation of Charles Clarke's tenancy at 8 Courtenay Place
+32. A directory of about 1894 covering Walthamstow: Courtenay Place or Courtenay Road still in use? (demolition window)
+33. A Whitstable directory, late 1880s to 1890s: William James Madams's occupation and address
 
 Checked and not needed again: Jade Shepherd, Journal of Victorian Culture 2013 (Gouldstone not in it); Jade Shepherd,
 Medical History 2016 (Gouldstone not named; kept as Broadmoor context, the four superintendencies); Roger Smith is now
@@ -202,9 +213,6 @@ The Spectator, 25 August 1883, on Cole ("Murders of the deliberate kind appear t
 
 Shared copy: several papers print one reporter's or one agency's text. The Daily Chronicle (13 Aug) and Dover Express (17 Aug) are one text for the Saturday hearing; the IPN and the Walthamstow Guardian (both 18 Aug) share copy for the same hearing; the Dover Express and the Guardian share copy for the Monday inquest and part of the funeral; the Bury Free Press (23 Aug) reprints The Times (20 Aug) word for word for the committal of 18 August; the IPN and the Guardian (both 25 Aug) share copy for the committal itself, and the Daily News of 20 August prints an abridged setting of the same copy for Cheeseman, Gould and the Wells/Batcheler exchange. Count shared copy as one witness, not several.
 
-## 7. FACTS FORMERLY FILED UNDER "DO NOT USE" IN MASTER_NOTES (not cautions; to be rehomed in dramatis_personae.md)
-- A third early variant of William's words to Ada, Telegraph first report, 9 August: "Never mind, I am happy now, and
-  she is a single woman." Press only.
-- Thomas Gouldstone at the trial (Pall Mall Budget, 21 September): he "had several other sons, but the prisoner was the
-  only one of his children who did not seem to be right in his mind." Press report.
-- The same 9 August report gives "five or six years" for William's time at the ironworks; elsewhere "five years".
+## 7. FACTS FORMERLY FILED UNDER "DO NOT USE" IN MASTER_NOTES
+Rehomed 1 October 2026: the two 9 August press details are now in William's entry and Thomas's trial evidence in
+Thomas's entry, dramatis_personae.md.

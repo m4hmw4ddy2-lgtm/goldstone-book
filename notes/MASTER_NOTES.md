@@ -783,11 +783,16 @@ and an unsourced late-July suicide attempt for William's mother) is kept word fo
 
 ## SESSION — 15 September 2026: Guardian letters, Orange's obituary, Bucknill's lecture, directory sweep
 
-### Graves's two public letters — new
-Beyond his coroner-deposition and Old Bailey testimony, Graves wrote at least twice to the Walthamstow and Leyton Guardian in his own voice, not under oath:
-
-- ~~**15 September 1883**: told the paper he'd remarked to his wife ... how fortunate they were in their lodgers ...~~ **CORRECTED 30 September 2026 against the page image (timeline file, Contradiction 74): there is no Graves letter in the Guardian of 15 September.** **But there is one of 5 September, printed 8 September** (the fellow-workmen's letter to Grantham Robinson; timeline file, "75, COMPLETED"). The memorial, the £20, the appeal, "Mr. Forrest Fulton" and the sessions officials are all in an unsigned news paragraph, "THE WALTHAMSTOW TRAGEDY" (transcribed/Walthamstow_and_Leyton_Guardian_15_September_1883_Transcription.txt). The "fortunate in their lodgers" remark is Charles Clarke's, the landlord's, in the Guardian of 18 August, as Chapter Six already has it. Fulton is not reconciled with Grain and Elliott (Contradiction 73); that he was "originally briefed and replaced" is inference only.
-- **11 October 1883**: signed "W. Graves, for self and fellow-workmen, 67 Upper Thames-street" — confirms his Falkirk Ironworks address independently. Reports total legal costs of £50, fully paid, against only £36 raised by subscription — a shortfall, and critically, nothing left over for Elizabeth herself despite that being half the point of the fund. Describes her as having lost her only support as well as her five children, now in utter destitution. Confirms Grantham Robinson still actively receiving subscriptions for her two months after the funeral. Same article gives real physical detail on William's Broadmoor transfer: left Chelmsford prison on a Monday morning in the custody of two named warders, **Lanham and Parker**, on the **7.45am train from Chelmsford to Liverpool Street**. This replaces the vague "Project notes" citation currently on the 15 October timeline entry — see confirmed_facts_timeline_contradictions.md.
+**Tidied 1 October 2026.** The session sections below are kept: most hold research findings and chapter decisions
+recorded nowhere else, and the project instructions point to them. Thirteen subsections that were fully superseded
+were moved word for word to `notes/archive/MASTER_NOTES_retired_sections_2026-10-01.md`, section 4: Graves's two
+public letters (now timeline Contradictions 74 and 75, and his dramatis entry); the new open questions of 15 September
+(open ones now in live_lists.md); the two "downgrades" (Elizabeth's narrative, Grantham Robinson's statement: now the
+Elizabeth thread file, 4(d), and the timeline file); the HO 144 note (its search advice now in live_lists.md); Ada's
+duration (Contradictions 21 and 58); the doctor in attendance (Contradiction 23); the method note (now the third
+standing rule); three logs (a transcription fix, Chapter Seven reflowed, corrections propagated, the last of which now
+contradicts the confirmed 3 October); the Part Three shape "NOT decided" (superseded by the skeletons); and the note on
+the two research files (now in the instructions; it counted five of Elizabeth's recorded sentences, where there are six).
 
 ### Elizabeth's relief funds — new, Part Four material
 Walthamstow and Leyton Guardian, 1 September 1883 — before the trial, before the reprieve. Grantham Robinson was first to open a subscription for Elizabeth's relief, and the paper treats his fund as the trustworthy channel by comparison with several competing efforts: a Rev. T. Jackson ran an open-air meeting to collect for her; a benefit entertainment by the "Club Minstrels" was given in her aid at the Workmen's Hall (the paper itself visibly uneasy about entertainment as the vehicle for a case this grim); and the Daily News had separately reported a public meeting at Walthamstow to open yet another subscription, naming someone appointed to receive funds — but the Guardian says plainly it has no knowledge such a meeting ever took place, and recommends anyone holding money from it hand it to Grantham Robinson's fund instead. Genuinely new picture of organised, slightly chaotic public sympathy for Elizabeth in the first weeks, years before she disappears into the documentary gap already tracked for 1883–87.
@@ -811,38 +816,10 @@ J. C. Bucknill, former Lord Chancellor's Visitor in Lunacy — a senior medico-l
 - **Great/Old Sampford, later edition (population given as "1891 was 492," so almost certainly 1894)**: two genuinely new finds. **Gouldstone Robert, blacksmith** — a third independent sighting of a man whose adult life is otherwise nearly blank (only the Finchingfield trial testimony and a single 1891 wedding-witness appearance previously on file), now shown back in the home village working his known trade. **Gouldstone Alice (Miss), shopkeeper, sub-postmistress** — not on the current sibling list (Robert, Emily, Thomas, Bennett, Flora, Hugh C.). Unmarried, running the post office in the same small village as Robert. Genuinely new figure, not yet confirmed as a sibling — needs a baptism or birth record naming Thomas and Emily as parents before treating as one. Working hypothesis reasoned through: rules out Bennett (fully documented, three children, no Alice) and Hugh C. (married Dec 1891, children too young); Robert is arithmetically possible but requires an entirely undocumented marriage; Thomas Jr is a genuine unknown. On balance, an untraced seventh child of Thomas and Emily is the simpler reading, not the more dramatic one — but unconfirmed either way pending the baptism record.
 - **1882, Walthamstow**: entry reads **"Courtenay Terrace, Marsh Street,"** not yet "Courtenay Place, St James's Street" — very likely the same row of houses caught in its first year (build date already ~1881), before the naming settled; Marsh Street was renamed High Street later that same year (22 December 1882), and Marsh Street is already established as having originally included what became St James's Street until an 1871 separation. Confirmed by a second entry: **Joseph Wells, 8 Courtenay Terrace, Marsh Street** — since directories typically reflect the previous year's data, this places Wells at No. 8 around late 1881, before Charles Clarke's own tenancy (beginning ~September 1882 per Emma's "eleven months" figure). **Wells is now the earliest identified occupant of 8 Courtenay Place**, predating both Clarke and the Gouldstones. Not yet established whether Wells held the whole house the way Clarke later did, or how the handover to Clarke happened.
 
-### New open questions from this session
-- Baptism or birth record for Alice Gouldstone, parents Thomas and Emily — resolves sibling-vs-granddaughter question above.
-- 1883 or 1884 Walthamstow directory — would give independent (non-trial-related) confirmation of Charles Clarke's tenancy at 8 Courtenay Place, still currently sourced only to case-adjacent documents.
-- 1894 directory (or the same edition already used for Great Sampford, if it also covers Walthamstow) — check whether Courtenay Place or Courtenay Road is in use, to narrow the demolition/redevelopment window further.
-- A directory covering Whitstable, late 1880s-1890s, for William James Madams — occupation and address independent of the 1901 census and the Chartham Asylum record.
-- Full transcription of the "William Graves, Foreman" and "Geo. H. Savage, M.D." letters on the Guardian's 22 September 1883 page — both new, only summarised so far, not fully captured.
-- A newspaper letter, 22 September 1883, opening "I feel it my duty to write shortly about the case of William Gouldstone... Justice demands further investigation" — found via a findmypast snippet (BL/0004053/18830922), genuinely new, not matching anything on file, full text not yet obtained. **Found 30 September 2026: it is Savage's letter to The Times, printed in full in Clark Bell, "Madness and Crime", Medico-Legal Journal, December 1884, already in `sources/pdfs/`, together with a card from the foreman of the trial jury in the Daily Telegraph. For the trial chapter; not yet reconciled with the three Savage letters logged in the timeline file.**
-
 ## SESSION — 15 September 2026 (continued): Everything surfaced while drafting Chapter 6
-
-### Elizabeth's "letter to the Home Office" — downgraded from assumed fact
-The BMJ, 29 September, references "the touching narrative of his wife" in language ("read") consistent with something publicly available, not confidential correspondence. Her own full published statement (Essex Weekly News / Western Daily Press, 21 Sep) matches the description closely and predates the BMJ piece by eight days — ample time to have reached it. The published statement is the more economical explanation; an undiscovered private letter to the Home Secretary is not required to account for the BMJ's reference. Chapter 6's opening was corrected accordingly — no longer asserts she wrote to "the one office in the land." Downgrade this from a confirmed missing document to a genuinely open question: same weight of evidence as the Grantham Robinson entry below.
-
-### Grantham Robinson's "statement to the Home Secretary" — same downgrade, and previously mis-marked "confirmed"
-Traced back, this rests on exactly one phrase: BMJ, 29 Sep, "the clear statement of the Vicar of the parish in which he lived." Nothing in that phrase specifies recipient, medium, or privacy. The project's own summary table has previously conflated "identity confirmed" (he is almost certainly the vicar in question) with "recipient confirmed" (that it went to the Home Secretary specifically) — the second half was never actually sourced and should not carry "confirmed" language. Worth weighing against the fact that Grantham Robinson is independently confirmed writing publicly to the press at least once (the juryman letter) — a second public statement, rather than private correspondence, is at least as plausible a reading.
-
-### HO 144 capital case file — existence itself unconfirmed, not just the reference number
-This has been treated throughout the project as "priority source #1 to obtain," phrased as though its existence were settled and only the correct shelf mark remained outstanding. It is not settled. What is actually known: HO 144/155/A40379 is confirmed wrong (Elizabeth Lane case). A Discovery search for "Gouldstone" within the archive returned only CRIM 1/19/2 — the trial transcript and depositions already extensively used — no HO 144 hit at all. **Not yet tried: searching under "Goldstone"** (the spelling this family's own line uses within a couple of generations, and one multiple contemporary documents already slip into) and browsing HO 144 by date range (September–October 1883) rather than relying on name-indexing, which may not be complete or accurately transcribed for a case this briefly described in the catalogue. If both of those also return nothing, a negative result is real and should be recorded as such — not every capital case from this period has a surviving HO 144 file.
-
-### Ada and William Hamilton's duration in the house — four figures now, not two
-- Daily News, inquest, 10 Aug (reported 11 Aug): Ada says **three weeks**.
-- Ada's supplementary statement, 18 Aug: ~~**7 June** specifically ("known prisoner since the 7th June last")~~ **CORRECTED 30 September 2026: the manuscript (image 0011) reads "I have known prisoner since 1st June last". "7th" was a misreading.**
-- IPN, 25 Aug, cross-examination: **"since the 1st of June"** — ~~a fifth data point~~ the same answer at the same hearing, not a separate figure (corrected 30 September 2026).
-- Old Bailey trial, 14 Sep (both the raw transcript and the Times' separate report of the same evidence): **ten weeks**.
-- IPN, 18 Aug: internally inconsistent within the same article — gives "ten weeks" at one point, "ten or eleven weeks" later in the same piece.
-Genuine, unresolved discrepancy in Ada's own evidence across separate hearings, not just press garbling — logged properly as Contradiction 21 in confirmed_facts_timeline_contradictions.md. The working assumption for Chapter 6 (7 June, roughly eight weeks before the birth; **SUPERSEDED 30 September 2026: the deposition reads 1 June, and Chapter Six now says so; Contradiction 58**) rests on the two most detailed, latest-given figures (supplementary statement and Old Bailey), not on the earliest (inquest, three weeks) — worth being aware this is a judgement call, not a settled resolution.
 
 ### Whether the lodging came first or the nursing engagement did — reasoned through, not resolved, reflected honestly in Ch6
 Working argument: William Hamilton (jeweller) lodging alongside Ada doesn't fit the standard live-in monthly-nurse arrangement, which is normally the nurse alone, brought in specifically for the confinement period. A husband also lodging fits an ordinary tenancy better. The ~8-week gap between arrival (1 June; corrected from 7 June, 30 September 2026) and the birth (1 Aug) also argues against "engaged and installed just before the birth" — that arrangement usually sits closer to the event. Conclusion: more likely they were lodgers first, and the nursing arrangement grew out of proximity, though nothing in either deposition states this directly. Chapter 6 reflects this with "would later see Elizabeth through her confinement," deliberately non-committal on sequence.
-
-### A doctor "in attendance" at the confinement — RESOLVED (checked against the page image 30 September 2026: the words are printed; Mr Sutton delivered the twins, Contradiction 23)
-Daily News, 11 Aug (Ada's inquest testimony): "She was attended by a medical man, and was confined on August 1." This conflicts with the established picture elsewhere — Ada as monthly nurse, no doctor mentioned attending the birth itself, Dr Lyle entering the record only afterward, for Elizabeth's injuries following the attack. Not yet checked against other sources for resolution. Possible readings: a doctor genuinely attended (undocumented elsewhere), the Daily News reporter garbled or added this detail, or "medical man" was loosely used by whoever gave the report. Flag, do not resolve.
 
 ### New dialogue and physical detail, Daily News, 11 Aug 1883 (inquest report)
 **CHECKED against the page image, 30 September 2026** (transcribed/Daily_News_London_11_August_1883_transcription.txt). Shared copy with the Evening News of 11 August: one reporter. Two corrections to the bullets below, marked.
@@ -927,10 +904,6 @@ Ada: "one died half an hour afterwards in my arms" (Old Bailey), "half an hour a
 - **Emma Clarke** went into the kitchen with Ada and saw the row, then "saw Wm Gouldstone apprehended but did not hear him make any observation" (coroner; Old Bailey).
 - **Honey (IPN 25 Aug)** gives "about ten o'clock on August 9", a press error for about ten to six on the 8th (his witness statement).
 
-### Method note from this sweep
-Contradiction 29's minute-by-minute timeline was built on the ORDER of events in Ada's coroner deposition, the same document the third standing rule already warns about for dates. Four other accounts, including the earlier witness statement, give a different order. Check the order of events across every sworn account, not only the date, before building a sequence on one document.
-
-
 ---
 
 ## SESSION — 22 September 2026: Chapter Eight's first third, and corrections to Chapters Six and Seven
@@ -963,10 +936,6 @@ Old: "William left for his 6.04 train as always, and Elizabeth did not expect to
 ### Chapter Seven — "the two eldest first" removed, 22 September 2026 (Rik)
 Old: "He did them one at a time, and he did the two eldest first." No source gives the order: "I had a hard job with the two biggest, but the other little one I soon settled" does not, and these notes' own reasoned inference (cord section) argues Charles was probably first. New: *"He did them one at a time. The second went into the water where the first was already lying, and the third where both of them were."* Sourced: all three were still in the cistern at about 5.35 ("Your other three children are in the cistern"), and William then carried Frederick in from the scullery. Rik raised what this means for the later children; the prose states the physical fact only and does not describe what any child saw or understood (cistern top six feet from the floor; Herbert could not walk; Frederick sixteen months; order unknown).
 
-### Transcription corrected
-`sources/trial-docs/Witness statements/PC William Cheeseman/Witness_Statement_William_Cheeseman_Complete.txt` dropped a word: the manuscript (image 0013) reads "I have done it now I am happy and am ready for the rope", unpunctuated. Corrected 22 September 2026.
-
-
 ### Chapter Eight completed, 22 September 2026: "UNCOMMONLY FINE CHILDREN" (retitled from "Allowed to Remain" the same day)
 Drafted scene by scene with Rik; about 1,520 words; no scene breaks. Order: the kitchen (Ada and Emma, the row, William, Twining); Cheeseman; the bedroom (the money, the kiss); "Ada remained behind."; the kitchen again ("Somebody came and felt their pulses", Ada's word kept, Rik); Honey (the cord handed to him, which names Chapter Seven's unnamed constable; the twins in the Hamiltons' front room); the hammer; Smith, Folkard and Gould; the boys to the mortuary ("The two infants, not being dead, were allowed to remain"); the first twin in Ada's arms; the 9 August wire dispatch (Western Daily Press text, attributed, uncorrected); the IPN on Elizabeth (press, attributed); the second twin at about two, Gould at 7.10; the index line; and, last, Mr Sutton and the Daily Chronicle letter ("On the Saturday", i.e. 11 August 1883), ending on "uncommonly fine children". FINAL ORDER, Rik, 22 September 2026. (The dispatch was moved before the IPN paragraph; the Sutton paragraph moved from after the hammer to the end. A proposed opening for the dispatch paragraph, "By the following morning, the story had already begun to change in transmission", was cut: it corrected the press in the narrator's voice and broke the timeline.)
 **Decisions and wording settled with Rik, for the record:**
@@ -989,10 +958,6 @@ Printed index, deaths, September quarter 1883: GOULDSTONE, Charles, 3; Frederick
 ### Press reach — lead for Part Three
 Ada's magistrates' evidence was reprinted in the Aberdeen Journal on 11 August 1883 (MyHeritage newspaper collection; not yet in the repo; text matches the Daily Telegraph of 10 August). Rik reports the story also reached American and Australian papers. Worth collecting paper, date and form (brief cable item or full reprint) for each; the lag is itself the story. Trove (National Library of Australia) and Chronicling America (Library of Congress) are free to search. Also for Part Three: the Middlesbrough Evening Gazette of 9 August already had both twins dead and the headline FIVE CHILDREN MURDERED BY THEIR FATHER, while the Bristol and Nottingham printings of the same dispatch said FOUR.
 
-### Chapter Seven reflowed, 22 September 2026
-Rik noticed Chapter Seven had the same over-short paragraphing as the first draft of Chapter Eight. Reflowed into fuller paragraphs with no change of wording beyond joins; dialogue kept as separate paragraphs; four deliberate short beats kept. Uploaded by Rik.
-
-
 ### Chapter Nine drafted, 22 September 2026: "GONE TO GLORY"
 - **The walk to the station.** No source states how they travelled. Every account says only "I took him away to the station" / "on the way"; the Times (20 Aug) and Bury Free Press give "On the road to the police-station", which the prose uses. A walk is the likeliest reading (Cheeseman was on foot on his beat; the route is about a mile; he was taken into custody about 5.40 and was at the station about six; Cheeseman's "about 25 minutes altogether from the time I first went into the kitchen to the time he was put into the cell"), but it is inference and the prose does not claim it. Note also that the 1883 street layout differed from today's (Queens Road did not exist as one street until 1903), so modern walking routes are not a safe guide.
 - **Lea Bridge Road police station.** Opened 1870, replacing the police station in the Vestry House, Church End, which the Metropolitan Police had occupied from 1841 (prisonhistory.org, Walthamstow Police Station (Vestry Road); the 1870 date is that page's, quoted by Rik). It served the district until Walthamstow's own station in Greenleaf Road was "brought into use in 1890"; it lost its separate identity in Police Orders of 1908 and "closed for police business" after the 1933 reorganisation, remaining a section house and married quarters into the late 1950s (Bryn Elliott, "Walthamstow Police Station", brynelliott.co.uk). So the building William was taken to in 1883 was thirteen years old. **The photograph is now in the repository at `sources/images/Lea Bridge Police Station.jpg`** (added by Rik 22 September 2026; 1200x792, no EXIF, so no date or source recoverable from the file). Observable in it, and nothing beyond: a two-storey brick corner building with a stone-canopied arched entrance under a carved crest, ornate cast-iron railings and gate piers, a shop parade opposite with a "Baron's" fascia and a Wills's Gold Flake advertisement, granite setts, a double tram track with overhead wires, a single cyclist and no motor vehicles. The overhead wires date it to the electric tram era, so 1905 at the earliest, twenty-two years after the night William was brought in, and the absence of motor traffic suggests earlier rather than later within that. **Still open: the source, the photographer, the date, and the rights position.** Until those are known it cannot be reproduced in the book, and it should not be described in the prose as showing the building as it stood in 1883: it shows a building at least twenty-two years on, with no evidence either way about alterations. What it is good for now is checking the geography of the walk from Courtenay Place. No rebuild is recorded between 1870 and then, but none is ruled out either.
@@ -1009,42 +974,6 @@ Rik noticed Chapter Seven had the same over-short paragraphing as the first draf
 - **SETTLED 24 September 2026 at ten feet and used in Chapter Eleven; see CHAPTER_10_skeleton.md, "Chapter Eleven assembled", and Contradiction 52.** Original note: **NEW CONTRADICTION (42): the grave's depth.** "6ft. deep" (Dover Express) against "a 10-foot grave" (Morning Post). Attendance is already Contradiction 7 (1,500 against "several hundred").
 - **SUPERSEDED 22 September 2026: her absence IS stated** (Walthamstow and Leyton Guardian, 18 August: "many people expected that she would be present at the funeral"). The original note follows. **Elizabeth is not mentioned in any account of the funeral.** She was twelve days from the birth, "dangerously ill", and Dr Lyle had told the coroner she might die of the shock; the IPN says she "asked and begged to see her dead little ones, but the doctors had to be stern in their refusal". Her absence is therefore very likely but not documented, and must be written as such if written at all.
 - **Confirmed 23 September 2026, having been an unsourced lead here since it was written:** Walthamstow Cemetery is Queen’s Road Cemetery, the Walthamstow Burial Board’s own ground, eleven acres taken after the 1866 cholera epidemic, first burial 2 October 1872, built by R. C. Sutton of Nottingham in Kentish ragstone with two chapels, an entrance lodge and **an inquest room attached to the lodge, about twenty feet by fourteen, still a coroner’s court**. That inquest room is where the Gouldstone inquest sat on both days, which resolves the board-room-against-lodge question for Chapter Ten. Secondary sources; see the timeline file for the confidence note. The burial registers (Waltham Forest) would give the grave number, who paid, and the names the twins were buried under. A located grave is potential Part Six material in Rik's own voice.
-
-### Part Three — shape proposed 22 September 2026, NOT decided
-Ch 10: 9–13 August (Stratford on the Thursday; the post-mortems; the inquest opening and the jury's view of the house with Elizabeth ill in the front room; the Saturday remand, the crowd, the cord and his throat, the hammer in the neck handkerchief, his brothers in the cells; Blythe at Elizabeth's bedside on the Sunday; Lyle's protest, the verdict and the funeral on the Monday). Ch 11: committal, the Cole case, the press sensation. Ch 12: the trial. Ch 13: Chelmsford, [SUPERSEDED 30 September 2026 (Rik): Ch 10 and 11 as drafted; Ch 12 the committal of 18 August, "At Another Place"; Ch 13 the four weeks to the trial, "Some Way of Business"; Ch 14 the trial. See CHAPTER_12_skeleton.md.] the medical campaign, the reprieve, Broadmoor. **Standing risk to watch:** Part Three's sources are almost all about William, and the book's rule is that the second half is carried through Elizabeth. Every chapter needs her thread (the front room during the view; Blythe; being refused sight of her children; the relief funds; her published statement; her visits to Chelmsford).
-
-### Two new research files, 22 September 2026 — READ BOTH BEFORE DRAFTING ANY PART THREE CHAPTER
-
-Both were written at Rik's request at the end of the 22 September session and are research files, not prose. Neither has
-been through the voice gates, because nothing in them is meant to be quoted into a chapter as written.
-
-**`notes/part_three_context_law_and_medicine.md`** — the legal and medical world William was tried in. M'Naghten 1843 and
-how Day applied it; the BMJ of 22 September 1883 arguing against that application in terms ("nature and quality", "an
-enfeebled or paralysed will", "the more liberal construction of Mr. Justice Stephen"); the Trial of Lunatics Act 1883,
-which received royal assent on 25 August 1883, twenty days before the trial, and whose new verdict of "guilty but insane"
-the jury did not return; Orange, Savage, Maudsley, Tuke and the Medico-Psychological Association as a profession claiming
-jurisdiction; hereditary degeneration, moral insanity, poverty as cause, and deliverance filicide as the ideas actually
-present in the evidence. Items marked TO VERIFY are not to be used until verified.
-
-**`notes/elizabeth_thread_presence_as_absence.md`** — the governing thread for Elizabeth through Parts Three and Four,
-written to Rik's formulation: "her presence is very often her absence." Contains the complete list of every word she is
-recorded as saying in the sworn record (five, all reported by other people, four of them questions); the legal reason she
-was never called (at common law a wife was incompetent to testify for OR against her husband, the exceptions being
-personal violence by one spouse to the other, treason and deprivation of liberty, none of which reached Elizabeth, so
-neither Poland nor Grain could have called her. VERIFIED 23 September 2026; see part_three_context_law_and_medicine.md.
-Do NOT write "until the Criminal Evidence Act 1898" as though that Act flipped a switch: it made a spouse competent for
-the DEFENCE generally but for the PROSECUTION only in its scheduled offences, and not compellable even then. Elizabeth's
-own position in 1883 is unaffected either way. Note also, verified the same day, that WILLIAM could not be sworn either:
-no defendant could, before 1898); and the four-document chain that carries the thread — the coroner's view of the house while she lay in the
-front room and "really did not know what was going on"; Blythe at her bedside on the Sunday; Lyle's protest read aloud in
-the cemetery lodge on the morning of the funeral, answered with "We will now proceed with the case"; and her own statement
-in the Essex Weekly News of 21 September, the one document in which she speaks at length, which the BMJ then names as
-having helped to save her husband's life. It also collects the third-person vocabulary used about her, and sets out how the
-thread is to be written (shown, never asserted) chapter by chapter.
-
-**The load-bearing point of the second file, for the causal chain:** the woman with no standing in any court changed the
-outcome from outside it. Everything after 1883 follows from the reprieve, and the reprieve follows in part from a document
-she wrote herself.
 
 ### A FOURTH STANDING RULE, earned 22 September 2026: the grep comes before the web
 
@@ -1078,17 +1007,6 @@ record. The grep comes first, the web second.
 repository as an untranscribed PDF while the project's own sources list carried them as a document still
 to be obtained, and this file described them as probably not held. Rik corrected it. Before adding
 anything to the sources-to-obtain list, check whether it is already in `sources/`.
-
-### Corrections propagated, 22 September 2026 (late) — standing rule two
-The stale reprieve date "3 October 1883", already corrected in MASTER_NOTES and the instructions on 18 September, was still
-sitting in three other files and has now been corrected in all of them: the project-added transcription notes at the foot
-of `transcribed/BMJ_6_October_1883_Transcription.txt` (twice) and `transcribed/BMJ_29_September_1883_Transcription.txt`,
-and `notes/archive/session-note-2026-06-28.md` (marked rather than rewritten, since that file is a dated session record). The same
-sweep found the BMJ 6 October note claiming Orange "will be responsible for William for the next 52 years", which is wrong
-twice: the detention was 51 years and three months, and Orange was Superintendent of Broadmoor only to 1886. Corrected.
-**The lesson repeats: the correction on 18 September was made in the summary documents and stopped there. Transcription
-files carry project commentary too, and that commentary goes stale exactly like everything else. Grep the whole repo,
-including `transcribed/`, not just `notes/`.**
 
 ### THE BROADMOOR FILE, THE ACCESS ROUTE, AND THE DESCENT POINT — 22 September 2026
 Source for everything in this section: the letter from **Emily Forster, Royal Berkshire Archives, 12 June

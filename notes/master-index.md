@@ -1,5 +1,5 @@
 # Goldstone Book — Master Source Index
-*STALE, noted 1 October 2026: 21 of the 67 files in transcribed/ are not listed here, including every Walthamstow and Leyton Guardian issue and the Daily News of 11 and 20 August. Each transcription's own header now records its status and checks (CHECK ONCE rule). Treat this index as a partial guide until it is rebuilt.*
+*Brought up to date 1 October 2026: the 21 transcriptions missing from this index are now listed in the section "ADDED 1 OCTOBER 2026" directly below, so every file in transcribed/ has an entry. Older entries were not re-checked in this pass and their "Status" lines may predate later corrections; each transcription's own header is the authority for what has been checked against its image (CHECK ONCE rule).*
 *Last updated: 15 July 2026 (second pass — Great Sampford trade directory and Historic England listings added)*
 
 ---
@@ -13,6 +13,116 @@ Each source is listed with:
 - **Book section:** which part(s) of the narrative it serves
 
 ---
+
+## ADDED 1 OCTOBER 2026: THE TRANSCRIPTIONS NOT PREVIOUSLY INDEXED
+
+**Walthamstow and Leyton Guardian, 11 August 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_11_August_1883_Transcription.txt`
+Status: Transcribed 30 Sep 2026 from column crops; complete for the three Gouldstone items.
+Key content: The first hearing of 9 August (shared copy with DT 10 Aug, PMG 9 Aug, IPN 18 Aug); the remand exchange (Lister: "Do you think your case will be improved by cross-examining now"); Grantham Robinson's first letter of 9 August ("utterly stunned, but most resigned", Contradiction 71); the newspaper cutting of "two recent murders" found on him when searched (press only, Contradiction 70).
+Book section: Chs 9-10; Elizabeth thread
+
+**Walthamstow and Leyton Guardian, 18 August 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_18_August_1883_Transcription.txt`
+Status: Complete for columns 3-5 as of 24 Sep 2026 (twenty lines recovered at a column break); column 6 partly illegible under a fold.
+Key content: The second hearing of 11 August (throat gesture: scarf); the inquest of 10 and 13 August, the full jury list (Joseph Blythe), Lyle's letter, Foxwell's defence of Blythe, the coroner's repudiation; the funeral and the ten mourners; "many people expected that she would be present"; Clarke's "fortunate in their lodgers"; Grantham Robinson's letter of 10 August.
+Book section: Chs 10-11; Elizabeth thread
+
+**Walthamstow and Leyton Guardian, 25 August 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_25_August_1883_Transcription.txt`
+Status: Transcribed 30 Sep 2026 from column crops; complete for its four items; checked against the IPN image.
+Key content: (1) leader: the "Voice from the embryo English Revolution" letter, family background, "go far to establish a belief in his insanity"; (2) the committal of 18 August (shared copy with IPN 25 Aug); (3) its own paragraph on the crowds, the brougham, the cordon and "safely lodged at Clerkenwell" (Contradiction 66); (4) the close of Grantham Robinson's sermon of 19 August, describing his visit on Friday 17 August (Contradiction 67).
+Book section: Chs 12-13
+
+**Walthamstow and Leyton Guardian, 1 September 1883 (leader)** — `transcribed/Walthamstow_and_Leyton_Guardian_01_September_1883_Transcription.txt`
+Status: Transcribed 22 Sep 2026; complete.
+Key content: Leader on the relief efforts for Elizabeth: Grantham Robinson's subscription, the Rev. T. Jackson's open-air collection, the minstrel show ("a travesty"), the Daily News's public meeting it doubts; "to start her in some way of business".
+Book section: Ch 13 (title source); Part Four
+
+**Walthamstow and Leyton Guardian, 1 September 1883 (Workmen's Hall)** — `transcribed/Walthamstow_and_Leyton_Guardian_01_September_1883_Workmens_Hall_Transcription.txt`
+Status: Transcribed 30 Sep 2026; complete.
+Key content: Report of the Club Minstrels' benefit for Elizabeth, Tuesday 28 August, hall lent free, crowded, performers named; no sum given (Contradiction 76).
+Book section: Ch 13
+
+**Walthamstow and Leyton Guardian, 8 September 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_08_September_1883_Transcription.txt`
+Status: Transcribed 30 Sep 2026; complete for the letters.
+Key content: Grantham Robinson's letter of 5 September and Graves's letter "for Self and Fellow-Workmen" it encloses: counsel to prove "he went out of his mind when his wife bore him twins"; £20 among themselves; any surplus "to provide for the poor wife" (Contradiction 75).
+Book section: Ch 13
+
+**Walthamstow and Leyton Guardian, 15 September 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_15_September_1883_Transcription.txt`
+Status: Transcribed 30 Sep 2026; complete.
+Key content: Unsigned news paragraph: the sessions opening Monday 10 September, Commissioner Kerr's charge to the grand jury, the true bill, the arraignment of Wednesday 12 September and the trial put off to Friday (Contradiction 72), "defended by Mr. Forrest Fulton" (73), the workmen's memorial and £20 (74).
+Book section: Ch 13; trial chapter
+
+**Walthamstow and Leyton Guardian, 22 September 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_22_September_1883_Transcription.txt`
+Status: Substantially complete (22 Sep 2026); one passage marked unread.
+Key content: The trial summary and Day's summing-up, including the Trial of Lunatics Act direction and the jury's quarter of an hour; the convict at Chelmsford; Grantham Robinson's letter of 20 September; Elizabeth's statement (abridged reprint); letters from Graves and Savage; "Opinions of the Press".
+Book section: Trial, Chelmsford and statement chapters
+
+**Walthamstow and Leyton Guardian, 29 September 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_29_September_1883_Transcription.txt`
+Status: Transcribed 22 Sep 2026; complete.
+Key content: The Law Times on the case, reprinted: the conviction "inevitable" under the law as it stood, and the case for an irresistible-impulse test.
+Book section: Medical-campaign chapter
+
+**Walthamstow and Leyton Guardian, 20 October 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_20_October_1883_Transcription.txt`
+Status: Transcribed 22 Sep 2026; complete.
+Key content: The removal to Broadmoor, Monday 15 October, warders Lanham and Parker, the 7.45 to Liverpool Street; Graves's letter of 11 October (£36 raised against £50 of legal costs, nothing left for Elizabeth).
+Book section: Broadmoor chapter; Part Four
+
+**Daily News, 11 August 1883 (inquest)** — `transcribed/Daily_News_London_11_August_1883_transcription.txt`
+Status: Transcribed and checked 30 Sep 2026.
+Key content: The inquest opening of 10 August; shared copy with the Evening News of 11 August (one reporter: "three weeks", Contradiction 77); "attended by a medical man"; Elizabeth's "I have my doctor to pay".
+Book section: Chs 8, 10
+
+**Daily News, 20 August 1883, page 4** — `transcribed/Daily_News_London_20_August_1883_p4_transcription.txt`
+Status: Transcribed 30 Sep 2026; complete.
+Key content: One-paragraph summary of the committal. Page searched: no leader on the case, nothing on Cole.
+Book section: Ch 12 (context)
+
+**Daily News, 20 August 1883, page 6** — `transcribed/Daily_News_London_20_August_1883_p6_transcription.txt`
+Status: Transcribed 30 Sep 2026 at full resolution; complete.
+Key content: The committal of 18 August: the magistrates named (Powell and Lister, Contradiction 61), "By Mr. Powell" on the money, Atkinson's "his only desire was to get something on the depositions", Atkinson reserving the defence. Partly shared copy with IPN/Guardian 25 Aug.
+Book section: Ch 12
+
+**Daily News, 22 September 1883** — `transcribed/Daily_News_London_22_September_1883_transcription.txt`
+Status: Transcribed 30 Sep 2026; complete.
+Key content: Central News: the Home Secretary about to order a medical inquiry (Contradiction 82).
+Book section: Reprieve chapter
+
+**Daily News, 16 October 1883** — `transcribed/Daily_News_London_16_October_1883_transcription.txt`
+Status: Transcribed 30 Sep 2026; complete.
+Key content: "Yesterday" removed from Chelmsford to Broadmoor (Monday 15 October; Contradiction 83).
+Book section: Broadmoor chapter
+
+**Derby Daily Telegraph, 9 August 1883** — `transcribed/Derby_Daily_Telegraph_9_Aug_1883_transcription.txt`
+Status: Transcribed 30 Sep 2026; complete.
+Key content: A separate short telegram, not the wire dispatch: "water butt"; "The cares of a large and growing family are believed to have upset his mind", the first printed motive (Contradiction 78). Press only.
+Book section: Ch 8 or Part Three, as press
+
+**Illustrated Police News, 18 August 1883, page 2** — `transcribed/IPN p2 Aug 18 1883_transcription.txt`
+Status: Complete; status of image check not recorded in its header.
+Key content: "TERRIBLE TRAGEDY AT WALTHAMSTOW": the second hearing of 11 August (shared copy with the Guardian of 18 August), Elizabeth's condition (two doctors, jellies, refused sight of her children), the house "only been built two years".
+Book section: Chs 8, 10; Elizabeth thread
+
+**Illustrated Police News, advertisement for the 25 August number** — `transcribed/Ad for next IPN issue.txt`
+Status: Checked against the image 30 Sep 2026 ("PURKESS").
+Key content: "SHOCKING MURDER OF FIVE CHILDREN AT WALTHAMSTOW", "further Illustrations, with Portraits, Views, &c."
+Book section: Ch 13
+
+**Liverpool Daily Post, 1 October 1883 ("Commutation" clipping)** — `transcribed/Communtation in newspaper.txt`
+Status: Complete; the clipping is identified as the Liverpool Daily Post of 1 October (timeline file).
+Key content: "COMMUTATION OF GOULDSTONE'S SENTENCE": two physicians to examine him; quotes the BMJ; "He is either a murderer of the worst type or an irresponsible lunatic" is the newspaper's own comment.
+Book section: Reprieve chapter
+
+**1935 inquest papers, COR/R1/7/3/1-4** — `transcribed/Broadmoor_Inquest_COR_R1_7_3_1935_Transcription.txt`
+Status: Transcribed 22 Sep 2026 from the PDF in sources/images/broadmoor-documents/; not closed to 2036.
+Key content: The coroner's case papers on William's death in Broadmoor, January 1935: "admitted here on 15 October 1883 from Chelmsford Prison"; Milne's deposition; the papers' errors about 1883 (Contradiction 43).
+Book section: Coda; Broadmoor chapter
+
+**Saffron Walden Weekly News, 3 July 1953** — `transcribed/Saffron_Walden_Weekly_News_3_Jul_1953_transcription.txt`
+Status: Complete for what the clip shows; the paragraph is cut off at its foot.
+Key content: The funeral of Cecil Edgar Housden, husband of Rose Elizabeth Gouldstone (Bennett's daughter, named for Elizabeth Stock). Mourners list incomplete; the rest is wanted (live_lists.md).
+Book section: Parts Five-Six
+
+---
+
 
 ## SECTION 1: TRIAL AND LEGAL DOCUMENTS
 

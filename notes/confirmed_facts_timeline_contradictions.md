@@ -656,7 +656,7 @@ Two separate claims here, not to be conflated:
 
 ---
 
-### 23. A DOCTOR "IN ATTENDANCE" AT THE CONFINEMENT — UNRESOLVED
+### 23. A DOCTOR "IN ATTENDANCE" AT THE CONFINEMENT — RESOLVED 22 September 2026 (Mr Sutton; heading corrected 1 October 2026)
 - **Daily News, inquest, 11 Aug**: Ada states Elizabeth "was attended by a medical man" for the birth.
 - **Everywhere else in the file**: only Ada, as monthly nurse, is described attending the birth itself; Dr Lyle enters the record afterward, for Elizabeth's injuries following the attack, not the confinement.
 

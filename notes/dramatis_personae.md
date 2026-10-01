@@ -40,6 +40,8 @@ Pious tone throughout, no apparent understanding of the enormity of what he has 
 
 ---
 
+**Two early press details, moved here 1 October 2026 from MASTER_NOTES's old "Do NOT use" list, where they were misfiled (they are facts, not cautions; press only):** the Telegraph's first report of 9 August has a third early variant of his words in answer to the nurse, "Never mind, I am happy now, and she is a single woman", beside the coroner deposition and witness-statement versions; and the same report gives "five or six years" for his time at the Falkirk Ironworks, a looser figure than the "five years" used elsewhere, not a contradiction of it. The same report's "43 years of age" is wrong (DO NOT USE, live_lists.md).
+
 ### Elizabeth Stock Gouldstone (1855–1906)
 **The survivor. The book's second central figure.**
 
@@ -170,6 +172,8 @@ William's father. Baptised 1 December 1821, St Michael's, Great Sampford, Essex.
 Died Q3 1899, Saffron Walden registration district, age 77 (formal GRO citation for this event not yet obtained beyond the registration-district/quarter/age already established).
 
 ---
+
+**At the trial, as reported (Pall Mall Budget, 21 September 1883; moved here 1 October 2026 from MASTER_NOTES's old "Do NOT use" list, where it was misfiled):** "The father of the prisoner stated that he had several other sons, but the prisoner was the only one of his children who did not seem to be right in his mind." Press report of sworn evidence.
 
 ### Emily Gouldstone née Willett (c.1833/34–1913)
 William's mother. Born Wimbish, Essex. Married Thomas 30 January 1851. Suffered from sustained "despondency" — attended by Dr Sunderland of Thaxted for eight years. Multiple suicide attempts. A woman employed to look after her. Never certified insane. Central to the defence's hereditary insanity argument.
