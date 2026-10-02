@@ -272,11 +272,16 @@ on 19 January 1935.
 | Elizabeth to Albert, 19 June 1887, Lambeth | Albert's birth certificate (father blank; mother's surname rendered "Goldston") | Yes: `sources/images/birth-certificates/Lambeth Workhouse Birth 1.png`, `2.png` |
 | Name change Gouldstone/Goldstone to Madams | Eliza Jane Madams's birth certificate, 1891: "Elizabeth Madams, late Goldstone formerly Stock" | Yes: `sources/images/birth-certificates/1891 Eliza Jane Madams Birth Cerificate.jpg` |
 | The same, at her death | Elizabeth's death certificate, 1906, "Widow of William Madams" | Yes: `sources/images/death-certificates/Elizabeth Madams Death Cert.jpg` |
-| Albert to Vera, 1 March 1921, Chatham | Vera's birth certificate | No |
-| Albert's own marriage, Q1 1910, Medway | Marriage certificate (names Vera's mother; not strictly a link in the chain) | No (already on sources-to-obtain) |
-| Goldstone to Ferguson, 28 March 1942, Chatham | Vera's marriage to George William Ferguson | No |
-| Vera to Michael George Ferguson, 1943 | Michael's birth certificate | No |
-| Michael to Rik, 31 May 1970, Chatham | Rik's birth certificate | No (Rik's own) |
+| Albert to Vera, 1 March 1921, Chatham | Vera's birth certificate (father Albert Goldstone; mother Clarie Irene Goldstone formerly Setterington) | Yes: `sources/images/birth-certificates/Birth Cert Vera Goldstone 1921.jpeg` |
+| Albert's own marriage, 5 March 1910, New Brompton | Marriage certificate (ties Albert Goldstone, 22, to the 1887 birth; names Vera's mother) | Yes: `sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg` |
+| Goldstone to Ferguson, 28 March 1942, Luton (Chatham district) | Vera's marriage to George William Ferguson; Albert a witness | Yes: `sources/images/marriage-certificates/Marriage Cert Vera Goldstone - George Ferguson 1942.jpeg` |
+| Vera to Michael George Ferguson, 21 April 1943 | Michael's birth certificate (mother "Vera Georgina Ferguson formerly Goldstone") | Yes: `sources/images/birth-certificates/Birth Cert Michael Ferguson 1943.jpeg` |
+| Michael to Rik, 31 May 1970, Chatham | Rik's birth certificate (father Michael George Ferguson) | Yes: `sources/images/birth-certificates/Birth Certificate - Richard Ferguson 1970.jpg` |
+
+**COMPLETE, 2 October 2026.** Rik added the four missing certificates and Albert's 1910 marriage; all
+read the same day and every link agrees with the next (names, parents, addresses, ages). Albert's own 1887
+birth is also now held as a GRO certified copy: `sources/images/birth-certificates/Birth Cert Albert
+Goldstone 1887.jpeg`.
 
 **The weak link is 1887.** Albert's certificate names no father, and the mother appears as "Goldston". The
 1891 Eliza Jane certificate is the document that ties that surname to Elizabeth Stock; include it.
@@ -288,7 +293,7 @@ Elizabeth, Albert, Vera (married George William Ferguson), Michael, Rik. Correct
 on 2 October 2026; the project instructions are outside the repository and need correcting by Rik.
 
 ### NEXT
-1. Gather the four certificates not in the repository.
+1. ~~Gather the four certificates not in the repository.~~ Done 2 October 2026.
 2. Reply to Emily: will assemble the descent evidence and send it for forwarding to the County Archivist;
    ask whether William's case-book entry is requestable from January 2036 even though the volume stays
    closed to 2053; ask again whether his entry carries a photograph.
