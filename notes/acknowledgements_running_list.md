@@ -20,8 +20,11 @@
 - **Charlotte** (Ancestry contact). Letter drafted, status unknown. *Hold until she has replied and helped.*
 
 ### Archivists
-- **Emily Forster, Royal Berkshire Archives.** Letters of 12 and 25 June 2025 confirming the Broadmoor case
-  file (D/H14/D2/2/1/1175), its closure to 2036, the access procedure, and the case book reference.
+- **Emily Forster, Archivist, Royal Berkshire Archives** (Archives Assistant in 2025). Letters of 12 and 25
+  June 2025 confirming the Broadmoor case file (D/H14/D2/2/1/1175), its closure to 2036, the access
+  procedure, and the case book reference; letter of 29 September 2026 reading two uncertain words in the
+  1935 inquest papers from the original (Oswald; six), the case book's closure to 2053, and the access
+  route through descent from Elizabeth.
   Recorded: `correspondence/Forster_RBA_letters_2025.md`.
 
 ### Friends of Queen's Road Cemetery (Facebook group), September 2026

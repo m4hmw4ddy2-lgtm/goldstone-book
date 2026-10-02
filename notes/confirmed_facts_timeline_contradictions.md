@@ -779,7 +779,7 @@ Source: coroner's case papers, COR/R1/7/3/1-4, Royal Berkshire Archives, in the 
 `sources/images/broadmoor-documents/Broadmoor Inquest.pdf` and now transcribed at
 `transcribed/Broadmoor_Inquest_COR_R1_7_3_1935_Transcription.txt`.
 
-- **Dr Kenneth Oswald [?] Milne, assistant medical officer, on oath, 21 January 1935:** William "was tried
+- **Dr Kenneth Oswald Milne (middle name confirmed by the archive, 29 September 2026), assistant medical officer, on oath, 21 January 1935:** William "was tried
   at C. Crim Court on **Sept 10th** 1883". The trial was Friday **14 September 1883** (Old Bailey
   transcript; The Times, 15 September). Milne is four days out.
 - **The same deposition and the inquisition both give his trade as "blacksmith".** Graves swore at the

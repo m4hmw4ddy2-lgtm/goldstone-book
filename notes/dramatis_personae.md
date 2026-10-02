@@ -512,7 +512,7 @@ All four sisters were, properly speaking, Rik's great-aunts (Vera being the exce
 
 **IMPORTANT — two distinct "Auntie Lil"s exist in this family's memory, do not conflate them in the prose.** (1) Lilian Alma Irene Goldstone, above — Albert's daughter, Vera's sister, Rik's actual great-aunt. (2) **Lilian Florence Isabel Madams** (see her own entry) — Albert's half-sister, Elizabeth's daughter by William Madams, remembered independently in family oral history (via Doris) as a hairdresser's relative on Harbour Street, Whitstable. Same nickname, two different women, one generation apart, on two different sides of Albert's own complicated parentage. Keep them clearly separated wherever both come up.
 
-**Albert → Vera Georgina Goldstone (b. 1 March 1921) → George William Ferguson (b. 1920) → Michael George Ferguson (b. 1943, d. 1996, pancreatic cancer — confirmed directly by Rik, 6 September 2026) → Richard David Ferguson (b. 31 May 1970).**
+**Albert → Vera Georgina Goldstone (b. 1 March 1921; married George William Ferguson, b. 1920, who is NOT a generation in the line: corrected 2 October 2026) → Michael George Ferguson (b. 1943, d. 1996, pancreatic cancer — confirmed directly by Rik, 6 September 2026) → Richard David Ferguson (b. 31 May 1970).**
 
 Died June 1962, Chatham. Germany lie maintained to the end.
 

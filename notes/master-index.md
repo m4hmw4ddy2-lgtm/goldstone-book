@@ -864,7 +864,7 @@ Book section: Part One
 13. BMJ on Cole/Thornton Heath murder: Vol 2, 1883, pp.829 and pp.880
 
 **Administrative:**
-14. Register genealogical interest with Berkshire Record Office (Broadmoor files open 2036)
+14. ~~Register genealogical interest with Berkshire Record Office~~ not possible: the archive cannot notify (Forster, 29 September 2026). The file opens January 2036; access request via descent from Elizabeth, see live_lists.md
 15. Medway Council archives — Albert Goldstone as councillor (family memory, unconfirmed)
 
 **Gouldstone line (added 15 July 2026):**

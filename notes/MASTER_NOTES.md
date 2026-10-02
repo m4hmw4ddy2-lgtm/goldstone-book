@@ -1022,11 +1022,13 @@ September 2026 and nearly used to introduce an error.
   patient's relatives.)" **Closed until 2036.**
 - `D/H14/D2/1/1/4` — Case book, males admitted 1877–1884, indexed, patient numbers 901–1200, entries on
   patients' progress 1877–1915, "a very few entries include photographs of patients". His medical notes
-  only. Forster: he is "most likely to feature" in it.
+  only. Forster: he is "most likely to feature" in it. **The volume is closed until 2053** (Forster, 29
+  September 2026); William's own entry is on the same terms as his file, closed until 2036, and can be
+  asked for in the same access request. See `correspondence/Forster_RBA_letters_2025.md`, Letter 4.
 - `COR/R1/7/3/1-4` — Case papers of William Gouldstone of Crowthorne, 21 January 1935. **No access
   conditions.** Obtained and now transcribed; see below.
 
-**The access route, and why it is closed to everyone**
+**The access route, and why it is closed to everyone** (SUPERSEDED 2 October 2026: descent from Elizabeth now counts; see "CORRECTED AGAIN" below)
 Forster sets out the early-access procedure: documentary proof, by birth and death certificates, that the
 applicant is **a direct descendant** of the patient **and the closest living relative**. Even if granted,
 the hospital decides what is released, "usually a brief summary of their time at Broadmoor", at £22 per
@@ -1065,8 +1067,23 @@ on a public document. The state gave her no standing when standing would have he
 when privacy would have spared her. **Do not editorialise this in the prose. Set the 2036 closure beside
 the 1883 record and let the reader do it.**
 
-**Register genealogical interest** remains worth doing, but the notes should stop implying it is a route
-in. It is a request to be told when the file opens.
+**Register genealogical interest: NOT POSSIBLE (corrected 2 October 2026).** Forster, 29 September 2026:
+"we are not able to notify you when the file opens, we have no way to do this. It will be open January
+2036." There is no notification to register for. The opening date is **January 2036**.
+
+**CORRECTED AGAIN, 2 October 2026, on Forster's letter of 29 September 2026 (ref. EF/E26F).** The archive
+now asks for "evidence that you are a direct descendant of his wife, including the marriage certificate
+between the patient and his wife and proof of any instances of name change", which "will bolster your
+request (though cannot guarantee access)", and offers to forward it to the County Archivist, who will
+request access from the Hospital on Rik's behalf. So the paragraphs above headed "why it is closed to
+everyone" and "nobody can satisfy the test" are wrong as statements about this archive's practice: Rik can
+meet the test the archive is actually applying. What stands: William has no line of his own (arithmetic,
+still true); the Hospital decides; release is usually a brief summary; re-use in print while closed is a
+separate request, "very unlikely". A researcher route also exists, without proof of relation, but is "more
+likely to be turned down". **For the Coda (Rik's call, not a drafting instruction):** the sentence about the
+"one key" held by five children is now false as a statement about access. The request that may yet reach the
+file runs through Elizabeth, and through Albert, who exists because of the murders. The descent pack and
+what is still missing are tabled in `correspondence/Forster_RBA_letters_2025.md`, Letter 4.
 
 ### THE 1935 INQUEST PAPERS — OBTAINED, AND NOW TRANSCRIBED (22 September 2026)
 The full case papers were already in the repository as
@@ -1077,7 +1094,7 @@ only the Helen Cottages address had ever been quoted from them. Transcription:
 New to the project from these papers:
 - **Time of death: 12.5 a.m., 19 January 1935, in the Infirmary.** The project previously had only the date.
 - **"On admission he was suffering from confusional insanity & later became demented."** Dr Kenneth Oswald
-  [?] Milne, assistant medical officer, on oath. This is the **only medical characterisation of William's
+  Milne (middle name confirmed by Forster, 29 September 2026), assistant medical officer, on oath. This is the **only medical characterisation of William's
   fifty-one years in Broadmoor available outside the sealed file**, and it is available now. TO CHECK
   before prose use: what "confusional insanity" meant to a Broadmoor medical officer, from Savage or the
   Journal of Mental Science.

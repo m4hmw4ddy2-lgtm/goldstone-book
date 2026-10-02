@@ -89,8 +89,8 @@
   James's Street buildings file; rate books 1880-1900; Burial Board minutes; photographs of Courtenay Place;
   demolition date.
 - **National Archives Discovery:** search "Gouldstone" within HO 144. A search under "Gouldstone" found only CRIM 1/19/2; still untried: "Goldstone", and browsing HO 144 by date (September-October 1883). If both fail, record the negative: not every capital case of the period has a surviving HO 144 file.
-- **Royal Berkshire Archives:** register interest in the Broadmoor file, as a request to be told when it opens in 2036 (not a route in; see MASTER_NOTES, "THE BROADMOOR FILE"). Whether this has been done is not recorded.
-- **Emily Forster, Royal Berkshire Archives:** the case-book enquiry, drafted, not sent (see section 4).
+- ~~**Royal Berkshire Archives:** register interest in the Broadmoor file~~ NOT POSSIBLE: the archive cannot notify anyone when the file opens (Forster, 29 September 2026). The file opens January 2036.
+- **Emily Forster, Royal Berkshire Archives:** enquiry sent 22 September 2026, answered 29 September (correspondence/Forster_RBA_letters_2025.md, Letter 4). Next: (a) assemble the descent evidence (section 4, item 34) and send it to her for forwarding to the County Archivist, who will request access from the Hospital; (b) ask whether William's case-book entry is requestable from January 2036 although the volume is closed to 2053; (c) ask again whether his entry carries a photograph.
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
 - ~~**"burden" or "burthen"**~~ DECIDED 1 October 2026 (Rik): Chapter Five keeps "burden", the Western Daily Press
@@ -125,7 +125,7 @@
 23. Henry Maudsley, Responsibility in Mental Disease (1874)
 24. Trial of Lunatics Act 1883 — the statute itself, from legislation.gov.uk, to confirm assent date, commencement, and the exact wording of the new verdict
 25. HO 144 capital case file for Gouldstone — existence and reference unconfirmed (search Discovery; HO 144/155/A40379 is the wrong case). Would hold Orange's report and the reprieve correspondence
-26. Broadmoor case book D/H14/D2/1/1/4 (males admitted 1877-1884) — whether a single entry can be consulted; enquiry to Emily Forster drafted at correspondence/DRAFT_letter_to_Forster_casebook.md, not sent
+26. Broadmoor case book D/H14/D2/1/1/4 (males admitted 1877-1884) — ANSWERED 29 September 2026: the volume is closed until 2053; William's own entry is on the same terms as his file (closed until January 2036) and can be included in the access request. Whether his entry has a photograph: not yet answered
 27. The criminal lunatic register from which sources/images/broadmoor-documents/'Broadmoor admisision register.jpg' comes — series and repository unknown, needed to cite it
 28. A period definition of "confusional insanity" (Savage, or the Journal of Mental Science), before Milne's 1935 deposition is quoted
 29. The London daily of Wednesday 19 September 1883 that first printed Elizabeth's statement
@@ -133,6 +133,7 @@
 31. Walthamstow directory, 1883 or 1884: independent confirmation of Charles Clarke's tenancy at 8 Courtenay Place
 32. A directory of about 1894 covering Walthamstow: Courtenay Place or Courtenay Road still in use? (demolition window)
 33. A Whitstable directory, late 1880s to 1890s: William James Madams's occupation and address
+34. Descent evidence for the Broadmoor access request (Forster, 29 September 2026): Vera Georgina Goldstone's birth certificate (1 March 1921, Chatham); Vera's marriage to George William Ferguson (28 March 1942, Chatham); Michael George Ferguson's birth certificate (1943); Rik's own birth certificate. Already held: the 1879 marriage, Albert's 1887 birth, Eliza Jane Madams's 1891 birth (the name-change link), Elizabeth's 1906 death. Table in correspondence/Forster_RBA_letters_2025.md, Letter 4
 
 Checked and not needed again: Jade Shepherd, Journal of Victorian Culture 2013 (Gouldstone not in it); Jade Shepherd,
 Medical History 2016 (Gouldstone not named; kept as Broadmoor context, the four superintendencies); Roger Smith is now
