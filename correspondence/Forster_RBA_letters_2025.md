@@ -271,6 +271,9 @@ on 19 January 1935.
 | William Gouldstone and Elizabeth Stock, 15 March 1879, St Luke's, Hackney (Stock to Gouldstone) | Marriage certificate | Yes: `sources/images/marriage-certificates/William Gouldstone-Elizabeth Stock Marriage.jpg` |
 | Elizabeth to Albert, 19 June 1887, Lambeth | Albert's birth certificate (father blank; mother's surname rendered "Goldston") | Yes: `sources/images/birth-certificates/Lambeth Workhouse Birth 1.png`, `2.png` |
 | Name change Gouldstone/Goldstone to Madams | Eliza Jane Madams's birth certificate, 1891: "Elizabeth Madams, late Goldstone formerly Stock" | Yes: `sources/images/birth-certificates/1891 Eliza Jane Madams Birth Cerificate.jpg` |
+| Elizabeth as Mrs Gouldstone, born Wethersfield | 1881 census, RG 11/301, folio 94, pp. 47-48 (surname entered "G. Stone") | Yes: `sources/images/census-stuff/Goldstone Family 1881 Census p1.jpg`, `p2.jpg` |
+| Elizabeth as Mrs Madams, born Wethersfield, with "Albert Goldstone, stepson", born Lambeth | 1891 census, RG 12/711, p. 6 | Yes: `sources/images/census-stuff/Whitstable Census 1891.png` |
+| Eliza Jane in the same household as Albert and Elizabeth | 1901 census, RG 13/799, folio 59, p. 25 | Yes: `sources/images/census-stuff/Whitstable Census 1901.png` |
 | The same, at her death | Elizabeth's death certificate, 1906, "Widow of William Madams" | Yes: `sources/images/death-certificates/Elizabeth Madams Death Cert.jpg` |
 | Albert to Vera, 1 March 1921, Chatham | Vera's birth certificate (father Albert Goldstone; mother Clarie Irene Goldstone formerly Setterington) | Yes: `sources/images/birth-certificates/Birth Cert Vera Goldstone 1921.jpeg` |
 | Albert's own marriage, 5 March 1910, New Brompton | Marriage certificate (ties Albert Goldstone, 22, to the 1887 birth; names Vera's mother) | Yes: `sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg` |
