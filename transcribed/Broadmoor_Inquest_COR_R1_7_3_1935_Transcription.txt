@@ -7,6 +7,9 @@ Transcribed 22 September 2026. Handwriting is Victorian-to-modern cursive, mostl
 readings are marked [?]. Typed text is rendered in CAPITALS where the form's own typescript is capitalised.
 THESE PAPERS ARE NOT SUBJECT TO THE 2036 CLOSURE. The Broadmoor patient file (D/H14/D2/2/1/1175) is.
 Forster's covering letter states these case papers "do not appear to have any access conditions."
+CHECKED 29 September 2026 by Emily Forster, Royal Berkshire Archives, against the original (two readings
+only): "I would agree the middle name is Oswald, and I think it says six years instead of nine." Both [?]
+marks removed 2 October 2026. Source: correspondence/Forster_RBA_letters_2025.md, Letter 4.
 
 ================================================================================
 PAGE 1 — THE INQUISITION (printed form, typed and handwritten insertions)
@@ -70,14 +73,14 @@ Majesty's Coroners for the said County on view of the body of the said person th
 dead.
 
 [handwritten, first deposition]
-Kenneth Oswald [?] Milne M.D. on oath saith:- I am assistant Medical Officer at Broadmoor Asylum.
+Kenneth Oswald Milne M.D. on oath saith:- I am assistant Medical Officer at Broadmoor Asylum.
 Deceased Wm [the writer first began "Goldstone", struck it through, and wrote] Gouldstone aged 78
 years at time of death was admitted here on 15 October 1883 from Chelmsford Prison. He lived
 formerly at 2 Helen Cottages, Queens Road, West Walthamstow, Essex: he was a married man & a
 blacksmith by occupation. He was charged with wilful murder & was tried at C. Crim Court on
 Sept 10th 1883: found Guilty & sentenced to death: this sentence was "respited": on admission he
 was suffering from confusional insanity & later became demented. He has been in poor bodily health
-for the last six [?] years: during the last 3 months he gradually became weaker & died in the
+for the last six years: during the last 3 months he gradually became weaker & died in the
 Infirmary on 19 instant: at 12.5 am. A p.m. was made & showed the cause of death to be hypostatic
 pneumonia following myocardial degeneration.
                                                         [signed] K. Milne.
@@ -156,8 +159,9 @@ NOTES ON THE TRANSCRIPTION — what is new here, and what needs checking
    than using it himself. Small, but it is the only visible trace in these papers of the 1883 documents
    that will not open until 2036.
 
-10. THE SIXTH YEAR. "in poor bodily health for the last six years" — the numeral word is not certain
-    and could be "nine". Do not use a figure in prose without re-checking the manuscript.
+10. THE SIXTH YEAR. "in poor bodily health for the last six years". The word was uncertain (six or
+    nine) on the PDF. RESOLVED 29 September 2026: the archivist, reading the original, "I think it says
+    six years instead of nine". Use "six", citing her reading if the figure carries any weight.
 
 ================================================================================
 SEPARATE ITEM: "Broadmoor admisision register.jpg" (same folder) — IDENTIFICATION CORRECTED
