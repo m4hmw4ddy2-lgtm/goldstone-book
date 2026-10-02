@@ -422,14 +422,16 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct; 1935 inquest papers ("admitted here on 15 October 1883 from Chelmsford Prison") |
 | 18 Oct | Cole tried before Denman; convicted; later reprieved | Old Bailey t18831015-964 |
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
+| 3 Apr 1881 | Census: 88 Frampton Park Road, Hackney. William G. Stone, 24, blacksmith; Elizabeth, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19 | RG 11/301, folio 94, pp. 47-48 (image read 2 Oct 2026) |
 | 1883-1887 | Elizabeth disappears from the documentary record | — |
 | 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by J Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
 | c.1888 | Elizabeth and William Madams begin living together, Whitstable | Census; project notes |
+| 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
 | 7 Apr 1890 | Lilian Florence Isabel Madams born, Whitstable | Birth record |
 | 16 Sep 1891 | Eliza Jane Madams born, Whitstable | Birth record |
 | 21 May 1898 | Albert named as Albert Madams in a Whitstable Times school-attendance warning | Whitstable Times |
 | Q3 1899 | Thomas Gouldstone dies, Saffron Walden district, age 77 (probate calendar: 21 Aug 1899) | GRO index; National Probate Calendar |
-| 31 Mar 1901 | Census: Albert as son of William Maddams, 50 Middle Wall, Whitstable | 1901 census |
+| 31 Mar 1901 | Census: Middle Wall, Whitstable (number "do" under 50). William Madams, 39, harbour labourer; Elizabeth, 43, born Wethersfield; Albert, **son**, 15 (true 13), harbour labourer; Lilian, 10; Eliza, 9 | RG 13/799, folio 59, p. 25, schedule 155 (image read 2 Oct 2026) |
 | 19 Jun 1901 | Albert enlists as Albert Goldstone, born Germany | Naval record |
 | 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 |
 | 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | TNA MH 94/37 |
@@ -3020,3 +3022,14 @@ only incomplete.
   appeared absent."
 - **Ada's deposition of 18 August (image 0012):** neither word.
 A straight contradiction between two reports of the same cross-examination. Neither is in Chapter Twelve.
+
+### 88. ALBERT: "STEPSON" IN 1891, "SON" IN 1901 (logged 2 October 2026)
+- **1891 census**, 41 Harbour Street, Whitstable (RG 12/711, schedule 39): "Albert Goldstone", relation to head **Stepson**, 3.
+- **1901 census**, Middle Wall, Whitstable (RG 13/799, schedule 155): "Albert do" [Maddams], relation to head **Son**, 15.
+- **Birth certificate, 1887:** father's column blank. **Lambeth Workhouse register:** "Illegitimate".
+- **1901 is not neutral either:** the same entry gives his age as 15 when he was 13.
+**Assessment:** neither census settles paternity. "Stepson" fits a child born before the couple lived together and carrying another surname, whoever the father was; "son" fits a household that had stopped making the distinction. The DNA match with Bronwyn Joule cannot separate the two either (Elizabeth is common to both readings). What IS settled, by dates and not by any of these documents: Albert is not William Gouldstone's son. The project's old phrase "almost certainly the biological son of William James Madams" is withdrawn in favour of "probably". In prose, the 1891 and 1901 entries may be set side by side without comment.
+
+### 89. ELIZABETH'S AGE: CORRECT BEFORE 1883, UNDERSTATED AFTER (logged 2 October 2026)
+Against her birth certificate (18 February 1855): 1879 marriage 24 (correct); 1881 census 26 (correct; the website index reads "28", the image reads 26); 1891 census 34 (true 36); 1901 census 43 (true 46); 1906 death certificate 47 (true 51).
+**Assessment:** a pattern, not a slip. It supersedes the treatment of the 1906 age as an isolated discrepancy (dramatis_personae.md, her entry). Why she understated it is not recorded anywhere; do not supply a reason in prose.

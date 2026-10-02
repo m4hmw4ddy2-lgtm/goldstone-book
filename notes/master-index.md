@@ -665,19 +665,26 @@ Status: READ 2 October 2026
 Key content: All Saints Hospital, Chatham (not "Chatham General Hospital", as the timeline had it). Father Michael George Ferguson, office supervisor; mother Eileen Adele Ferguson, née Ethell. Registered 12 June 1970.
 Book section: Part Six; Broadmoor descent evidence
 
+**1881 Census, 88 Frampton Park Road, Hackney (2 images)**
+`sources/images/census-stuff/Goldstone Family 1881 Census p1.jpg`, `... p2.jpg`
+Status: READ 2 October 2026
+Reference: RG 11/301, folio 94, pp. 47-48, ED 19, schedule 250 (folio stamped 94 on the image; the website index says 93)
+Key content: the family entered as "G. Stone" by the enumerator. William, head, 24, blacksmith, born Essex, Sampford; Elizabeth, wife, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19, blacksmith, born Sampford. The Graves household (schedule 249) at the same number. Broadmoor descent evidence: Elizabeth's birthplace before the name change.
+Book section: Part One; descent evidence
+
 **Whitstable Census 1891**
 `sources/images/census-stuff/Whitstable Census 1891.png`
-Status: UNREAD
-Key content: Albert listed with William Madams household, Whitstable.
-Book section: Part Four
-**ACTION: Read next session**
+Status: READ 2 October 2026
+Reference: RG 12/711, folio 20 (index only), p. 6, ED 2, schedule 39
+Key content: 41 Harbour Street, Whitstable. William Madams, head, general labourer, born Whitstable; Elizabeth, wife, 34, born Wethersfield, Essex; **Albert Goldstone, Stepson, 3, born London, Lambeth**; Lillian Madams, daughter, 11 months. Confirms the Harbour Street family memory. See Contradictions 88 and 89.
+Book section: Part Four; descent evidence
 
 **Whitstable Census 1901**
 `sources/images/census-stuff/Whitstable Census 1901.png`
-Status: UNREAD
-Key content: Albert listed as son of William Maddams, 50 Middle Wall, Whitstable — the only document naming a father.
-Book section: Part Four
-**ACTION: Read next session**
+Status: READ 2 October 2026
+Reference: RG 13/799, folio 59, p. 25, ED 3, schedule 155
+Key content: Middle Wall, Whitstable (house number entered "do" under 50). William Madams, head, 39, harbour labourer; Elizabeth, wife, 43, born Wethersfield; Albert, **son**, single, 15 (true 13), harbour labourer, born London; Lilian, 10; Eliza, 9. The only census with Eliza Jane in the same household as Albert: the link between her 1891 birth certificate and Albert. See Contradiction 88.
+Book section: Part Four; descent evidence
 
 **Broadmoor Admission Register**
 `sources/images/broadmoor-documents/Broadmoor admisision register.jpg`
