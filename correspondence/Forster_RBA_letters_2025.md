@@ -274,6 +274,8 @@ on 19 January 1935.
 | Elizabeth as Mrs Gouldstone, born Wethersfield | 1881 census, RG 11/301, folio 94, pp. 47-48 (surname entered "G. Stone") | Yes: `sources/images/census-stuff/Goldstone Family 1881 Census p1.jpg`, `p2.jpg` |
 | Elizabeth as Mrs Madams, born Wethersfield, with "Albert Goldstone, stepson", born Lambeth | 1891 census, RG 12/711, p. 6 | Yes: `sources/images/census-stuff/Whitstable Census 1891.png` |
 | Eliza Jane in the same household as Albert and Elizabeth | 1901 census, RG 13/799, folio 59, p. 25 | Yes: `sources/images/census-stuff/Whitstable Census 1901.png` |
+| Albert Goldstone, born 19 June, from 1901 | Naval record, ADM 188/383, no. 218159 (gives 1886 and "Heckenning Houzellon, Germany") | Yes: `sources/images/albert-goldstone/Albert Goldstone Naval Record.pdf` |
+| Vera's father, same invented birthplace | 1921 census, 46 Edinburgh Road, Chatham, RG 15/04062, schedule 109 (Albert, born "Hickening Howzllon" [?], Germany, with Vera, 3 months) | Yes: `sources/images/census-stuff/Goldstone Family 1921 Census.jpg` |
 | The same, at her death | Elizabeth's death certificate, 1906, "Widow of William Madams" | Yes: `sources/images/death-certificates/Elizabeth Madams Death Cert.jpg` |
 | Albert to Vera, 1 March 1921, Chatham | Vera's birth certificate (father Albert Goldstone; mother Clarie Irene Goldstone formerly Setterington) | Yes: `sources/images/birth-certificates/Birth Cert Vera Goldstone 1921.jpeg` |
 | Albert's own marriage, 5 March 1910, New Brompton | Marriage certificate (ties Albert Goldstone, 22, to the 1887 birth; names Vera's mother) | Yes: `sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg` |
