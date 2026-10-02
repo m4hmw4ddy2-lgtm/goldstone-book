@@ -302,3 +302,84 @@ on 2 October 2026; the project instructions are outside the repository and need 
 2. Reply to Emily: will assemble the descent evidence and send it for forwarding to the County Archivist;
    ask whether William's case-book entry is requestable from January 2036 even though the volume stays
    closed to 2053; ask again whether his entry carries a photograph.
+
+---
+
+## Letter 5 — OUTBOUND, sent by Rik 2 October 2026
+
+Sent as drafted, with fourteen documents in a zip file (file names numbered 01 to 14 to match the list).
+Verbatim:
+
+> Subject: Re: EF/E26F, William Gouldstone (D/H14/D2/2/1/1175): evidence of descent
+>
+> Dear Emily,
+>
+> Thank you for your letter of 29 September, and for reading those two words on the original. Oswald and
+> six are now settled in my transcription.
+>
+> Thank you too for the offer to forward my request to the County Archivist. I attach the evidence of my
+> descent from William Gouldstone's wife, Elizabeth, née Stock. I am her great-great-grandson, through her
+> son Albert. Albert was born in 1887, four years after William was confined, and was not William's son,
+> but he was Elizabeth's, and the line from her to me is unbroken.
+>
+> The documents are in the attached zip file, numbered as follows:
+>
+> 1. Marriage of William Gouldstone and Elizabeth Stock, St Luke's, Hackney, 15 March 1879.
+> 2. 1881 census, 88 Frampton Park Road, Hackney (RG 11/301, folio 94, pp. 47-48; two images): William and
+>    Elizabeth with their two eldest sons. The enumerator wrote the surname as "G. Stone". Elizabeth's
+>    birthplace is given as Wethersfield.
+> 3. Birth of Albert Jennet, Lambeth, 19 June 1887. Mother Elizabeth Goldston, of 2 John Street, Lambeth;
+>    no father named.
+> 4. 1891 census, 41 Harbour Street, Whitstable (RG 12/711, p. 6): Elizabeth Madams, born Wethersfield,
+>    with "Albert Goldstone, stepson", born Lambeth.
+> 5. Birth of Eliza Jane Madams, Whitstable, 16 September 1891. Mother "Elizabeth Madams, late Goldstone
+>    formerly Stock".
+> 6. 1901 census, Middle Wall, Whitstable (RG 13/799, folio 59, p. 25): Elizabeth, born Wethersfield, with
+>    Albert and Eliza in the same household.
+> 7. Albert's Royal Navy service record, 1901 to 1919 (ADM 188/383, no. 218159), in the name of Albert
+>    Goldstone.
+> 8. Death of Elizabeth Madams, Whitstable, 29 June 1906, "Widow of William Madams".
+> 9. Marriage of Albert Goldstone, Able Seaman, St Mark's, New Brompton, 5 March 1910.
+> 10. Birth of Vera Georgina Goldstone, Chatham, 1 March 1921. Father Albert Goldstone.
+> 11. 1921 census, 46 Edinburgh Road, Chatham (RG 15/04062, schedule 109): Albert Goldstone's household,
+>     with Vera aged three months.
+> 12. Marriage of Vera Georgina Goldstone and George William Ferguson, Luton, Kent, 28 March 1942. Albert
+>     Goldstone is a witness.
+> 13. Birth of Michael George Ferguson, Chatham, 21 April 1943. Mother "Vera Georgina Ferguson formerly
+>     Goldstone".
+> 14. My own birth, Chatham, 31 May 1970. Father Michael George Ferguson.
+>
+> The name changes run Stock, Gouldstone (also written Goldstone, G. Stone and Goldston), Madams, and on my
+> side Goldstone to Ferguson. The census entries give Elizabeth's birthplace as Wethersfield under each
+> name, and Eliza Jane's birth certificate gives all three of her surnames in one line.
+>
+> One thing in Albert's own records needs explaining. From the time he joined the navy, he gave his birth
+> as 19 June 1886, in a place in Germany written "Heckenning Houzellon" in the navy and "Hickening
+> Howzllon" in 1921, and he kept to that for the rest of his life. The day and month are correct; the year
+> and the place are not. His Lambeth birth certificate and the 1891 census are the accurate record. The
+> invented birthplace in fact helps identify him: it appears both on the naval record and on the 1921
+> census, where the same man lists Vera as his daughter. His naval record also places him at the Chatham
+> barracks, as an Able Seaman, the week of his 1910 marriage.
+>
+> I also have a DNA match with a descendant of Eliza Jane in New Zealand, which confirms that my line and
+> hers both descend from Elizabeth. I would be glad to supply it if it would help.
+>
+> I would like the request to cover the medical information in the case book as well as the patient file,
+> as you suggested. Two questions on that, if I may. Am I right that his own entry in the case book will be
+> requestable from January 2036, on the same terms as his file, even though the volume as a whole stays
+> closed until 2053? And do you know whether his entry is one of the few that carry a photograph?
+>
+> With thanks again for all your help,
+> Rik Ferguson
+> +48 500435104
+
+### WHAT TO WATCH FOR IN THE REPLY
+1. **Whether the evidence is accepted as sufficient** to go forward to the County Archivist, or more is asked
+   for (the DNA evidence, or anything on the 1887 link).
+2. **The case book:** whether William's own entry is requestable from January 2036 while the volume is closed
+   to 2053, and whether it carries a photograph.
+3. **The Hospital's decision**, when it comes, and what is released: a summary, or more. Any release is for
+   Rik personally; re-use in print while the file is closed is a separate request, "very unlikely" (June 2025).
+4. **Record the reply here as Letter 6**, and propagate any change to the access position to MASTER_NOTES
+   under standing rule two.
+
