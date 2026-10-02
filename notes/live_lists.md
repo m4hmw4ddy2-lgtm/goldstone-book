@@ -97,7 +97,7 @@
   demolition date.
 - **National Archives Discovery:** search "Gouldstone" within HO 144. A search under "Gouldstone" found only CRIM 1/19/2; still untried: "Goldstone", and browsing HO 144 by date (September-October 1883). If both fail, record the negative: not every capital case of the period has a surviving HO 144 file.
 - ~~**Royal Berkshire Archives:** register interest in the Broadmoor file~~ NOT POSSIBLE: the archive cannot notify anyone when the file opens (Forster, 29 September 2026). The file opens January 2036.
-- **Emily Forster, Royal Berkshire Archives:** enquiry sent 22 September 2026, answered 29 September (correspondence/Forster_RBA_letters_2025.md, Letter 4). Next: (a) assemble the descent evidence (section 4, item 34) and send it to her for forwarding to the County Archivist, who will request access from the Hospital; (b) ask whether William's case-book entry is requestable from January 2036 although the volume is closed to 2053; (c) ask again whether his entry carries a photograph.
+- **Emily Forster, Royal Berkshire Archives:** descent evidence (fourteen documents) sent 2 October 2026, with the case-book and photograph questions (correspondence/Forster_RBA_letters_2025.md, Letter 5). Awaiting her reply and the County Archivist's request to the Hospital.
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
 - ~~**"burden" or "burthen"**~~ DECIDED 1 October 2026 (Rik): Chapter Five keeps "burden", the Western Daily Press
