@@ -435,17 +435,19 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | TNA MH 94/37 |
 | 2 Dec 1901 | Home Office returns the depositions (ref. A31638) to the Central Criminal Court | Home Office letter, trial-docs |
 | 29 Jun 1906 | Elizabeth (by then using the name Madams) dies, Beach Alley, Whitstable; certificate age 47 against a birth date that makes her 51 (unresolved; do not pick one in prose). Blean is the registration district | GRO death certificate (checked 9 Sep 2026) |
-| Q1 1910 | Albert Goldstone marries Clarie Irene Setterington, Medway | GRO index |
+| 5 Mar 1910 | Albert Goldstone, 22, bachelor, Able Seaman, of New Brompton, marries "Rennie" [?] Setterington, 22, spinster, of New Brompton, at St Mark's Church, New Brompton (Medway district). His father: "William Goldstone, deceased", Commercial Traveller; William Gouldstone was alive in Broadmoor. Her father: George William Setterington, deceased, labourer. Her stated age, 22, against a birth date of 7 June 1889, which makes her 20. Witnesses Thomas Knowles [?], Ethel Cooper | Marriage certificate, GRO certified copy (image read 2 Oct 2026) |
 | Q2 1913 | Emily Willett Gouldstone dies, Saffron Walden district, age 79 (4a 785) | GRO death index |
 | Nov 1917 | Second Battle of Heligoland Bight; Albert on HMS Courageous | Naval record |
 | 1918 | German High Seas Fleet surrenders; Albert present | Naval record |
-| 1 Mar 1921 | Vera Georgina Goldstone born, Chatham | Birth record |
+| 1 Mar 1921 | Vera Georgina Goldstone born, 46 Edinburgh Road, Chatham. Father Albert Goldstone, "Seaman Yard Craft H.M.D., Ex. R.N."; mother Clarie Irene Goldstone formerly Setterington, informant; registered 7 April 1921 | Birth certificate, GRO certified copy (image read 2 Oct 2026) |
 | 29 Jun 1927 | Eliza Jane Coombs née Madams emigrates to New Zealand with Percy Coombs and seven children | Passenger record |
 | 14 Jul 1930 | SS Orbita arrives Plymouth; Albert embarked at Bermuda, "Rigger". **Unverified: from a ChatGPT-archive summary only** | ChatGPT-archive (not a source) |
 | 19 Jan 1935 | William dies in Broadmoor, age 78; detained 51 years and three months (not "52") | Evening Standard 21 Jan 1935; 1935 inquest papers |
+| 28 Mar 1942 | Vera Georgina Goldstone, 21, clerk, marries George William Ferguson, 21, aircraft fitter, at the parish church of Luton, Kent (Chatham district); both of 35 Dagmar Road, Chatham. Her father Albert Goldstone, rigger, is a witness | Marriage certificate, GRO certified copy (image read 2 Oct 2026) |
+| 21 Apr 1943 | Michael George Ferguson born, 42 Magpie Hall Road, Chatham. Father George William Ferguson, aircraft fitter; mother Vera Georgina Ferguson formerly Goldstone, informant; registered 7 May 1943 | Birth certificate, GRO certified copy (image read 2 Oct 2026) |
 | Mar 1962 | George William Ferguson dies | Project notes |
 | Jun 1962 | Albert Jennet Goldstone dies, Chatham | Project notes |
-| 31 May 1970 | Richard David Ferguson born, Chatham General Hospital | — |
+| 31 May 1970 | Richard David Ferguson born, All Saints Hospital, Chatham (corrected 2 Oct 2026 from "Chatham General Hospital", which had no source). Father Michael George Ferguson, office supervisor; mother Eileen Adele Ferguson, maiden surname Ethell | Birth certificate (image read 2 Oct 2026) |
 | **2036** | **Broadmoor case file opens** | Royal Berkshire Archives (correspondence/Forster_RBA_letters_2025.md) |
 
 

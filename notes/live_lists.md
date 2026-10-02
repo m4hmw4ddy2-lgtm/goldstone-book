@@ -113,7 +113,7 @@
 11. Newspaper reach of the case in America and Australia: collect paper, date and form for each (Trove; Chronicling America); Aberdeen Journal 11 Aug 1883 already located
 12. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01
 13. 1881 and 1891 census for 2 John Street, Hercules Buildings, Lambeth
-14. Albert Goldstone marriage certificate (GRO, Q1 1910, Medway)
+14. ~~Albert Goldstone marriage certificate (GRO, Q1 1910, Medway)~~ OBTAINED 2 October 2026 (5 March 1910, St Mark's, New Brompton); sources/images/marriage-certificates/
 15. Great Eastern Railway working timetables 1883
 16. Walthamstow Guardian: its July 1883 issues (Mrs Millard) and a clean scan of column 6 of 18 August (Grantham Robinson's letter of 10 August, partly illegible under a fold)
 17. Coroner's file for the Gouldstone inquest, Essex Record Office: Lyle's letter, any signed statement, Lyle's forename
@@ -133,7 +133,7 @@
 31. Walthamstow directory, 1883 or 1884: independent confirmation of Charles Clarke's tenancy at 8 Courtenay Place
 32. A directory of about 1894 covering Walthamstow: Courtenay Place or Courtenay Road still in use? (demolition window)
 33. A Whitstable directory, late 1880s to 1890s: William James Madams's occupation and address
-34. Descent evidence for the Broadmoor access request (Forster, 29 September 2026): Vera Georgina Goldstone's birth certificate (1 March 1921, Chatham); Vera's marriage to George William Ferguson (28 March 1942, Chatham); Michael George Ferguson's birth certificate (1943); Rik's own birth certificate. Already held: the 1879 marriage, Albert's 1887 birth, Eliza Jane Madams's 1891 birth (the name-change link), Elizabeth's 1906 death. Table in correspondence/Forster_RBA_letters_2025.md, Letter 4
+34. OBTAINED 2 October 2026, all in sources/images/. Descent evidence for the Broadmoor access request (Forster, 29 September 2026): Vera Georgina Goldstone's birth certificate (1 March 1921, Chatham); Vera's marriage to George William Ferguson (28 March 1942, Chatham); Michael George Ferguson's birth certificate (1943); Rik's own birth certificate. Already held: the 1879 marriage, Albert's 1887 birth, Eliza Jane Madams's 1891 birth (the name-change link), Elizabeth's 1906 death. Table in correspondence/Forster_RBA_letters_2025.md, Letter 4
 
 Checked and not needed again: Jade Shepherd, Journal of Victorian Culture 2013 (Gouldstone not in it); Jade Shepherd,
 Medical History 2016 (Gouldstone not named; kept as Broadmoor context, the four superintendencies); Roger Smith is now

@@ -630,6 +630,41 @@ Key content: Albert Jennet Goldstone, born 19 June 1887, Workhouse Infirmary Bro
 Book section: Part Four
 CORRECTIONS FROM PREVIOUS VERSION: Informant is J Frost, not S Frost. Elizabeth's address (2 John Street) is her residence, not the infirmary address. The infirmary address is "Workhouse Infirmary Brook Street." She was not a workhouse inmate.
 
+**Albert's birth, GRO certified copy (added 2 October 2026)**
+`sources/images/birth-certificates/Birth Cert Albert Goldstone 1887.jpeg`
+Status: READ 2 October 2026
+Key content: the same entry as the Lambeth Workhouse images above (Lambeth Church 2nd sub-district, No. 113), as a GRO certified copy issued 7 January 2013. For the Broadmoor descent evidence.
+
+**Albert Goldstone and "Rennie" [?] Setterington, marriage, 5 March 1910**
+`sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg`
+Status: READ 2 October 2026
+Key content: St Mark's Church, New Brompton. Albert 22, bachelor, Able Seaman; father "William Goldstone, deceased", Commercial Traveller (William Gouldstone was alive in Broadmoor). Bride 22 (birth date makes her 20), father George William Setterington, deceased, labourer. Witnesses Thomas Knowles [?], Ethel Cooper.
+Book section: Part Five
+
+**Vera Georgina Goldstone, birth, 1 March 1921**
+`sources/images/birth-certificates/Birth Cert Vera Goldstone 1921.jpeg`
+Status: READ 2 October 2026
+Key content: 46 Edinburgh Road, Chatham. Father Albert Goldstone, "Seaman Yard Craft H.M.D., Ex. R.N."; mother Clarie Irene Goldstone formerly Setterington, informant. Registered 7 April 1921.
+Book section: Part Five; Broadmoor descent evidence
+
+**Vera Goldstone and George William Ferguson, marriage, 28 March 1942**
+`sources/images/marriage-certificates/Marriage Cert Vera Goldstone - George Ferguson 1942.jpeg`
+Status: READ 2 October 2026
+Key content: parish church of Luton, Kent (Chatham district). Both 21, of 35 Dagmar Road, Chatham. He an aircraft fitter, father John Henry Ferguson, labourer HM Dockyard; she a clerk, father Albert Goldstone, rigger. Witnesses include Albert Goldstone and J. H. Ferguson.
+Book section: Part Five / Six; Broadmoor descent evidence
+
+**Michael George Ferguson, birth, 21 April 1943**
+`sources/images/birth-certificates/Birth Cert Michael Ferguson 1943.jpeg`
+Status: READ 2 October 2026
+Key content: 42 Magpie Hall Road, Chatham. Father George William Ferguson, aircraft fitter; mother Vera Georgina Ferguson formerly Goldstone, informant. Registered 7 May 1943.
+Book section: Part Six; Broadmoor descent evidence
+
+**Richard David Ferguson, birth, 31 May 1970**
+`sources/images/birth-certificates/Birth Certificate - Richard Ferguson 1970.jpg`
+Status: READ 2 October 2026
+Key content: All Saints Hospital, Chatham (not "Chatham General Hospital", as the timeline had it). Father Michael George Ferguson, office supervisor; mother Eileen Adele Ferguson, née Ethell. Registered 12 June 1970.
+Book section: Part Six; Broadmoor descent evidence
+
 **Whitstable Census 1891**
 `sources/images/census-stuff/Whitstable Census 1891.png`
 Status: UNREAD
@@ -859,7 +894,7 @@ Book section: Part One
 8. GRO certificates: five murdered children (birth and death), William death 1935, Elizabeth death July 1906 Blean
 9. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (probably won't show Elizabeth — she was not a resident inmate — but worth checking)
 10. 1881 and 1891 census for 2 John Street, Hercules Buildings, Lambeth (FindMyPast)
-11. Albert Goldstone marriage certificate (GRO, Q1 1910, Medway)
+11. ~~Albert Goldstone marriage certificate~~ OBTAINED 2 October 2026; see Section 4
 12. Great Eastern Railway working timetables 1883 — GER Society (gersociety.org.uk) or National Railway Museum (enquiries@railwaymuseum.org.uk); also Bradshaw's Monthly Railway Guide August 1883 — British Library or archive.org
 13. BMJ on Cole/Thornton Heath murder: Vol 2, 1883, pp.829 and pp.880
 
