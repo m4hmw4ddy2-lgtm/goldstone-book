@@ -11,6 +11,13 @@
 - None as of 1 October 2026 (DECIDE 10, Contradictions 34 and 71 all settled that day).
 
 ## 2. OPEN QUESTIONS
+### Albert and his family (added 2 October 2026)
+- "Heckenning Houzellon", Germany: Albert's stated birthplace (naval record, 1921 census). A real place, a garbling of one, or invented?
+- Census references still to record: the 1939 Register (RG 101 piece); the 1891 folio (index says 20, not visible on the image).
+- Where Vera was at the 1939 Register (not in her parents' household at 33A Connaught Road).
+- Albert's age on the 1921 census, 35 or 38: Contradiction 92.
+- Clarie junior's and Doris's birth dates, Clarie senior's age: Contradiction 91.
+
 ### The case, 1883
 - **The unaccounted day.** The Tuesday morning and afternoon and the Wednesday from early morning to 5.15pm
   (Contradiction 39). No chapter of its own.

@@ -426,31 +426,34 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 1883-1887 | Elizabeth disappears from the documentary record | — |
 | 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by J Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
 | c.1888 | Elizabeth and William Madams begin living together, Whitstable | Census; project notes |
-| 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
 | 7 Apr 1890 | Lilian Florence Isabel Madams born, Whitstable | Birth record |
+| 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
 | 16 Sep 1891 | Eliza Jane Madams born, Whitstable | Birth record |
 | 21 May 1898 | Albert named as Albert Madams in a Whitstable Times school-attendance warning | Whitstable Times |
 | Q3 1899 | Thomas Gouldstone dies, Saffron Walden district, age 77 (probate calendar: 21 Aug 1899) | GRO index; National Probate Calendar |
 | 31 Mar 1901 | Census: Middle Wall, Whitstable (number "do" under 50). William Madams, 39, harbour labourer; Elizabeth, 43, born Wethersfield; Albert, **son**, 15 (true 13), harbour labourer; Lilian, 10; Eliza, 9 | RG 13/799, folio 59, p. 25, schedule 155 (image read 2 Oct 2026) |
-| 19 Jun 1901 | Albert enlists as Albert Goldstone, born Germany | Naval record |
 | 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 |
+| 11 Nov 1901 | Albert joins HMS Impregnable as Boy 2nd Class, as Albert Goldstone, born 19 June 1886 at "Heckenning Houzellon", Germany; twelve days before William Madams dies at Chartham (corrected 2 Oct 2026 from "19 Jun 1901", see Contradiction 90) | ADM 188/383, no. 218159 (image read 2 Oct 2026) |
 | 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | TNA MH 94/37 |
 | 2 Dec 1901 | Home Office returns the depositions (ref. A31638) to the Central Criminal Court | Home Office letter, trial-docs |
+| 19 Jun 1904 | Albert's twelve-year continuous-service engagement begins, at "18" by his false birth year (year partly under an ink blot; the final 4 is legible) | ADM 188/383 |
 | 29 Jun 1906 | Elizabeth (by then using the name Madams) dies, Beach Alley, Whitstable; certificate age 47 against a birth date that makes her 51 (unresolved; do not pick one in prose). Blean is the registration district | GRO death certificate (checked 9 Sep 2026) |
 | 5 Mar 1910 | Albert Goldstone, 22, bachelor, Able Seaman, of New Brompton, marries "Rennie" [?] Setterington, 22, spinster, of New Brompton, at St Mark's Church, New Brompton (Medway district). His father: "William Goldstone, deceased", Commercial Traveller; William Gouldstone was alive in Broadmoor. Her father: George William Setterington, deceased, labourer. Her stated age, 22, against a birth date of 7 June 1889, which makes her 20. Witnesses Thomas Knowles [?], Ethel Cooper | Marriage certificate, GRO certified copy (image read 2 Oct 2026) |
 | Q2 1913 | Emily Willett Gouldstone dies, Saffron Walden district, age 79 (4a 785) | GRO death index |
 | Nov 1917 | Second Battle of Heligoland Bight; Albert on HMS Courageous | Naval record |
 | 1918 | German High Seas Fleet surrenders; Albert present | Naval record |
 | 1 Mar 1921 | Vera Georgina Goldstone born, 46 Edinburgh Road, Chatham. Father Albert Goldstone, "Seaman Yard Craft H.M.D., Ex. R.N."; mother Clarie Irene Goldstone formerly Setterington, informant; registered 7 April 1921 | Birth certificate, GRO certified copy (image read 2 Oct 2026) |
+| 19 Jun 1921 | Census (taken 19 June, though the form prints 24 April), 46 Edinburgh Road, Chatham, schedule 109: Albert Goldstone, head, 35 or 38 (see Contradiction 92), born "Hickening Howzllon" [?], Germany, nationality "Resident", English, seaman yard craft, Chatham Dockyard; Clarie Irene, wife, 34, born Kingston on Thames; Lily Alma Rose, 7; Clarie Irene, 2; Vera Georgina, 3 months; Alma Rose Setterington, sister-in-law, 32. Signed by Albert | RG 15/04062, RD 47, RS 1, ED 37, schedule 109 (image read 2 Oct 2026) |
 | 29 Jun 1927 | Eliza Jane Coombs née Madams emigrates to New Zealand with Percy Coombs and seven children | Passenger record |
 | 14 Jul 1930 | SS Orbita arrives Plymouth; Albert embarked at Bermuda, "Rigger". **Unverified: from a ChatGPT-archive summary only** | ChatGPT-archive (not a source) |
 | 19 Jan 1935 | William dies in Broadmoor, age 78; detained 51 years and three months (not "52") | Evening Standard 21 Jan 1935; 1935 inquest papers |
+| 29 Sep 1939 | 1939 Register, 33A Connaught Road, Chatham (ED DHDD), schedule 230: Albert Goldstone, born 19 June 1886, ship's rigger; Clarie I., 7 June 1889; Lily A. R. [?] (later Godbold), 14 Dec 1913, civil servant; Clarie I. (later Ainsley), 21 Oct 1918; Doris M., 17 Apr 1928. Vera not in the household | 1939 Register (image read 2 Oct 2026; RG 101 reference to add) |
 | 28 Mar 1942 | Vera Georgina Goldstone, 21, clerk, marries George William Ferguson, 21, aircraft fitter, at the parish church of Luton, Kent (Chatham district); both of 35 Dagmar Road, Chatham. Her father Albert Goldstone, rigger, is a witness | Marriage certificate, GRO certified copy (image read 2 Oct 2026) |
 | 21 Apr 1943 | Michael George Ferguson born, 42 Magpie Hall Road, Chatham. Father George William Ferguson, aircraft fitter; mother Vera Georgina Ferguson formerly Goldstone, informant; registered 7 May 1943 | Birth certificate, GRO certified copy (image read 2 Oct 2026) |
 | Mar 1962 | George William Ferguson dies | Project notes |
 | Jun 1962 | Albert Jennet Goldstone dies, Chatham | Project notes |
 | 31 May 1970 | Richard David Ferguson born, All Saints Hospital, Chatham (corrected 2 Oct 2026 from "Chatham General Hospital", which had no source). Father Michael George Ferguson, office supervisor; mother Eileen Adele Ferguson, maiden surname Ethell | Birth certificate (image read 2 Oct 2026) |
-| **2036** | **Broadmoor case file opens** | Royal Berkshire Archives (correspondence/Forster_RBA_letters_2025.md) |
+| **Jan 2036** | **Broadmoor case file opens** | Royal Berkshire Archives (correspondence/Forster_RBA_letters_2025.md) |
 
 
 ---
@@ -3033,3 +3036,21 @@ A straight contradiction between two reports of the same cross-examination. Neit
 ### 89. ELIZABETH'S AGE: CORRECT BEFORE 1883, UNDERSTATED AFTER (logged 2 October 2026)
 Against her birth certificate (18 February 1855): 1879 marriage 24 (correct); 1881 census 26 (correct; the website index reads "28", the image reads 26); 1891 census 34 (true 36); 1901 census 43 (true 46); 1906 death certificate 47 (true 51).
 **Assessment:** a pattern, not a slip. It supersedes the treatment of the 1906 age as an isolated discrepancy (dramatis_personae.md, her entry). Why she understated it is not recorded anywhere; do not supply a reason in prose.
+
+### 90. ALBERT'S ENLISTMENT: 19 JUNE 1901 OR 11 NOVEMBER 1901 (logged 2 October 2026)
+- **The project's dates table, Albert's entry and MASTER_NOTES** carried "19 June 1901", and MASTER_NOTES said Albert "had already enlisted before Madams was admitted" (4 September 1901). master-index.md, item 10 of its verification list, had "corrected" an earlier note that he joined "twelve days before William Madams died" as "INCORRECT by several months".
+- **The naval record itself (ADM 188/383, no. 218159, image read 2 October 2026):** first ship, Impregnable, Boy 2nd Class, from **11 Nov 01** to 25 Nov 01. "19 June" appears only as the date of the twelve-year continuous-service engagement, with the year under an ink blot whose last digit is 4, against an age of 18: 19 June 1904 by his false birth year of 1886.
+**Assessment:** "19 June 1901" conflated his (false) birthday with the engagement date. He entered the navy on 11 November 1901, after Madams was admitted to Chartham and twelve days before Madams died on 23 November 1901. The earlier "twelve days" note was right, and the correction of it was wrong. Corrected in this file, dramatis_personae.md, MASTER_NOTES.md and master-index.md.
+
+### 91. ALBERT'S DAUGHTERS AND WIFE: NAMES, DATES AND AGES (logged 2 October 2026)
+- **Lily's middle name: RESOLVED 2 October 2026, Lily Alma Rose (confirmed by Rik).** The notes had given "Lilian Alma Irene". The 1921 census, in Albert's household, gives **Lily Alma Rose**, beside her aunt Alma Rose Setterington; the archived session summary of 24 June 2026 also has "Lily Alma Rose". The 1939 Register's middle initials read "A. R." or "A. B." (unclear).
+- **Clarie junior's birth:** the notes give "Dec 1918"; the 1939 Register gives 21 October 1918; the 1921 census age (2 years 8 months on 19 June 1921) fits October 1918.
+- **Doris's birth:** the notes give 17 May 1928; the 1939 Register reads 17 April 1928.
+- **Clarie senior's age:** birth date in the notes 7 June 1889 (also in the 1939 Register). The 1910 marriage gives 22 (true 20); the 1921 census 34 (true 32).
+**Assessment:** Lily Alma Rose, settled. The Clarie junior and Doris dates want the GRO index or their birth certificates. Clarie senior's age was overstated by two years in both documents where she gave it herself; the 7 June 1889 date has a named place of birth (The Barracks, Kingston-upon-Thames) and should be checked against her birth certificate before the pattern is called one.
+
+### 92. ALBERT'S AGE IN 1921: 35 OR 38 (logged 2 October 2026)
+- **Findmypast transcription:** 38, birth year 1883.
+- **Claude's first reading of the image, 2 October 2026:** 35, which would fit the naval record's false birth date (19 June 1886) exactly on census night, 19 June 1921. Withdrawn as a settled reading.
+- **The image, zoomed:** the second digit has a hooked top and a closed lower bowl. It is not the same form as the "6" in Lily's age on the same page. It could be a 5 or an 8; the closed bowl favours 8, the hooked top 5.
+**Assessment:** unresolved. Do not use the "35 on his false birthday" coincidence anywhere until the digit is settled; compare other 5s and 8s in Albert's own hand if any can be found (the form is in his hand: he signed it). True age on census night: 33 (turning 34 the next day).

@@ -602,7 +602,8 @@ Book section: Part Three
 **Albert Goldstone Naval Record**
 `sources/images/albert-goldstone/Albert Goldstone Naval Record.pdf`
 Status: READ (image-based — read via vision)
-Key content: Full naval service record 1901-1919. Birth date given as 19 June 1886 (added a year — actually 1887). Claimed birthplace: Germany. All ships, ratings, promotions. Tattoos: "I love KC" right forearm, anchor left forearm, five dots and ring left hand. Always "Very Good" conduct.
+Reference: ADM 188/383, official no. 218159 (TNA image reference 122)
+Key content: Full naval service record 1901-1919. First ship Impregnable, Boy 2nd Class, 11 November 1901 (not 19 June 1901; Contradiction 90). Continuous-service engagement 19 June 1904, twelve years. Birth date given as 19 June 1886 (added a year — actually 1887). Claimed birthplace: "Heckenning Houzellon", Germany. AB by 1910; Pembroke I (Chatham) from 1 March 1910, four days before his marriage at New Brompton. Broadmoor descent evidence: ties the 1887 birthday to the 1910 groom and, through the birthplace, to the 1921 census. All ships, ratings, promotions. Tattoos: "I love KC" right forearm, anchor left forearm, five dots and ring left hand. Always "Very Good" conduct.
 Book section: Part Five
 
 **Albert Madams Attendance Warning**
@@ -671,6 +672,20 @@ Status: READ 2 October 2026
 Reference: RG 11/301, folio 94, pp. 47-48, ED 19, schedule 250 (folio stamped 94 on the image; the website index says 93)
 Key content: the family entered as "G. Stone" by the enumerator. William, head, 24, blacksmith, born Essex, Sampford; Elizabeth, wife, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19, blacksmith, born Sampford. The Graves household (schedule 249) at the same number. Broadmoor descent evidence: Elizabeth's birthplace before the name change.
 Book section: Part One; descent evidence
+
+**1921 Census, Albert Goldstone's household, Chatham**
+`sources/images/census-stuff/Goldstone Family 1921 Census.jpg`
+Status: READ 2 October 2026
+Reference: RG 15/04062, RD 47 (Medway), RS 1 (Rochester & Chatham), ED 37, schedule 109; 46 Edinburgh Road, Chatham, Christchurch ward. Findmypast transcribes the birthplace "Hickening Howyllon" and the age 38
+Key content: Albert Goldstone, head, 35 or 38 (Contradiction 92), born "Hickening Howzllon" [?], Germany, "Resident", English, seaman yard craft, Chatham Dockyard; Clarie Irene, wife, 34, born Kingston on Thames; Lily Alma Rose, 7 years 6 months; Clarie Irene, 2 years 8 months; Vera Georgina, 3 months; Alma Rose Setterington, sister-in-law, 32, general servant, Twilight Maternity Home, Junction Road, Gillingham. Signed by Albert.
+Book section: Part Five; descent evidence (the same invented birthplace as the naval record, with Vera in the household)
+
+**1939 Register, 33A Connaught Road, Chatham**
+`sources/images/census-stuff/Goldstone Family 1939 Register.png`
+Status: READ 2 October 2026
+Reference: RG 101, piece to add; ED letter code DHDD, schedule 230
+Key content: Albert Goldstone (Senr), 19 June 1886, married, ship's rigger; Clarie I., 7 June 1889, unpaid domestic duties; Lily A. R. [?], 14 Dec 1913, civil servant (later annotated Godbold); Clarie I., 21 Oct 1918, grocery shop assistant (later annotated Ainsley); Doris M., 17 Apr 1928, at school. No birthplace column. Vera not present. See Contradiction 91.
+Book section: Part Five
 
 **Whitstable Census 1891**
 `sources/images/census-stuff/Whitstable Census 1891.png`
@@ -940,7 +955,7 @@ Book section: Part One
 
 9. **BMJ — Cole/Thornton Heath murder** — Vol.2, 1883, pp.829 and 880 — not yet in repo.
 
-10. **Albert's enlistment vs Madams death** — Albert enlisted 19 June 1901; Madams died 23 November 1901. Previous project note stated Albert enlisted "twelve days before William Madams died" — INCORRECT by several months.
+10. **Albert's enlistment vs Madams death** — RESOLVED 2 October 2026 from the naval record image: Albert joined Impregnable on 11 November 1901, twelve days before Madams died on 23 November 1901. The earlier "twelve days" note was right; the "19 June 1901" that replaced it was the (false) birthday and the 1904 engagement date. See Contradiction 90.
 
 ---
 
