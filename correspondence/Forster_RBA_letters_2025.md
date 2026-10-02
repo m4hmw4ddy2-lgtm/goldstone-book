@@ -180,3 +180,115 @@ reconstructed without it. Do not send it unsolicited.
    finding for the book and belongs in the Coda material beside the 2036 date.
 4. **Any correction to the access position**, which would need propagating to MASTER_NOTES under standing
    rule two.
+
+**ANSWERED 29 September 2026: see Letter 4 below.** Items 1, 3 and 4 answered; item 2 answered in part
+(the photograph question was not answered).
+
+---
+
+## Letter 4: 29 September 2026, ref. EF/E26F (supplied by Rik 2 October 2026)
+
+Emily now signs as **Archivist** (previously Archives Assistant). Verbatim:
+
+> EF/E26F
+> 29 September 2026
+>
+> Dear Rik
+>
+> Thank you for your email received on Wednesday, it's good to hear from you again.
+>
+> I am pleased the coroner's report has been useful.
+>
+> COR/R1/7/3/1–4 - I would agree the middle name is Oswald, and I think it says six years instead of nine.
+>
+> The case book D/H14/D2/1/1/4 is unfortunately closed until 2053, and may not be consulted by members of
+> the public until this time. If you would like to gain this medical information about the patient, you
+> may request this in addition to the information in the patients file, as you are still interested in
+> applying for access. The access conditions to the specific patient in question's records are the same as
+> his patient file, closed until 2036.
+>
+> If you can please supply evidence that you are a direct descendant of his wife, including the marriage
+> certificate between the patient and his wife and proof of any instances of name change, this will
+> bolster your request (though cannot guarantee access), and I would be happy to then forward this on to
+> the County Archivist who will request access on your behalf. If you do not have this or do not wish to get
+> this information, you can still request information without proof of relation as a researcher, however it
+> is more likely to be turned down by the Hospital, although there is still a chance they may release a
+> brief summary.
+>
+> Unfortunately, we are not able to notify you when the file opens, we have no way to do this. It will be
+> open January 2036.
+>
+> I hope this has answered your queries, please do let me know if there is anything else I can do to help.
+>
+> Kind regards
+> Emily
+> Archivist
+
+"Received on Wednesday": Letter 3 is recorded above as sent 22 September 2026, a Tuesday. Either it arrived
+on Wednesday 23 September or Rik sent it a day later than recorded. Not material; noted so nobody "corrects"
+the send date from this letter without asking Rik.
+
+### WHAT LETTER 4 CHANGES (2 October 2026)
+
+**1. The two readings on page three are settled by the holding archive.** Milne's middle name is Oswald.
+The years are "six", in Emily's words "I think it says six years instead of nine": the archivist's reading,
+stated with a light hedge, and the best reading available. Applied to the transcription
+(`transcribed/Broadmoor_Inquest_COR_R1_7_3_1935_Transcription.txt`), MASTER_NOTES and Contradiction 43.
+
+**2. Descent from Elizabeth now counts. This reverses the "closed to everyone" position.** The June 2025
+test was descent from the patient and closest living relative, which nobody can meet. Letter 4 asks for
+evidence that Rik is "a direct descendant of his wife", with the 1879 marriage certificate and "proof of any
+instances of name change", and says this "will bolster your request (though cannot guarantee access)". The
+County Archivist would then request access on Rik's behalf. MASTER_NOTES said the descent route was closed
+to everyone; that is now wrong as a statement about this archive's practice, and is corrected there.
+Still true: William has no line of his own, and the hospital decides. Still true and unchanged: re-use in
+print while the file is closed is a separate request that the June 2025 letter called "very unlikely".
+
+**3. The researcher route exists, and is the weaker one.** Without proof of relation the request can still
+go forward "as a researcher", but is "more likely to be turned down by the Hospital", with "still a chance
+they may release a brief summary". The descent route is the one to take.
+
+**4. The case book is closed until 2053.** New to the project. The volume "may not be consulted by members
+of the public until this time". But "the access conditions to the specific patient in question's records
+are the same as his patient file, closed until 2036", and the case-book medical information can be asked
+for in the same access request as the file. Reading (inference, to confirm with her): William's own entry
+becomes requestable when his file opens, while the volume as a whole stays closed to 2053 because of other
+patients in it.
+
+**5. No notification is possible. The file opens January 2036.** "Unfortunately, we are not able to notify
+you when the file opens, we have no way to do this. It will be open January 2036." Registering
+genealogical interest is not a thing this archive does. Removed from the pending actions in
+`notes/live_lists.md` and `notes/master-index.md`. January 2036 is consistent with 101 years from his death
+on 19 January 1935.
+
+### STILL UNANSWERED
+- **Whether his case-book entry carries a photograph.** Not addressed. Ask again.
+- **The offer of the manuscript.** Not taken up. Do not send unsolicited (handling note above stands).
+
+### THE DESCENT PACK (what she asked for, against what the repository holds)
+| Link | Document | In repo |
+|---|---|---|
+| William Gouldstone and Elizabeth Stock, 15 March 1879, St Luke's, Hackney (Stock to Gouldstone) | Marriage certificate | Yes: `sources/images/marriage-certificates/William Gouldstone-Elizabeth Stock Marriage.jpg` |
+| Elizabeth to Albert, 19 June 1887, Lambeth | Albert's birth certificate (father blank; mother's surname rendered "Goldston") | Yes: `sources/images/birth-certificates/Lambeth Workhouse Birth 1.png`, `2.png` |
+| Name change Gouldstone/Goldstone to Madams | Eliza Jane Madams's birth certificate, 1891: "Elizabeth Madams, late Goldstone formerly Stock" | Yes: `sources/images/birth-certificates/1891 Eliza Jane Madams Birth Cerificate.jpg` |
+| The same, at her death | Elizabeth's death certificate, 1906, "Widow of William Madams" | Yes: `sources/images/death-certificates/Elizabeth Madams Death Cert.jpg` |
+| Albert to Vera, 1 March 1921, Chatham | Vera's birth certificate | No |
+| Albert's own marriage, Q1 1910, Medway | Marriage certificate (names Vera's mother; not strictly a link in the chain) | No (already on sources-to-obtain) |
+| Goldstone to Ferguson, 28 March 1942, Chatham | Vera's marriage to George William Ferguson | No |
+| Vera to Michael George Ferguson, 1943 | Michael's birth certificate | No |
+| Michael to Rik, 31 May 1970, Chatham | Rik's birth certificate | No (Rik's own) |
+
+**The weak link is 1887.** Albert's certificate names no father, and the mother appears as "Goldston". The
+1891 Eliza Jane certificate is the document that ties that surname to Elizabeth Stock; include it.
+
+**George William Ferguson is Vera's husband, not a generation.** The line as written in the project
+instructions (Rik, Michael, George William Ferguson, Vera, Albert, Elizabeth) and at one line of
+`notes/dramatis_personae.md` reads as if he were Michael's father's father. The correct chain is
+Elizabeth, Albert, Vera (married George William Ferguson), Michael, Rik. Corrected in dramatis_personae.md
+on 2 October 2026; the project instructions are outside the repository and need correcting by Rik.
+
+### NEXT
+1. Gather the four certificates not in the repository.
+2. Reply to Emily: will assemble the descent evidence and send it for forwarding to the County Archivist;
+   ask whether William's case-book entry is requestable from January 2036 even though the volume stays
+   closed to 2053; ask again whether his entry carries a photograph.
