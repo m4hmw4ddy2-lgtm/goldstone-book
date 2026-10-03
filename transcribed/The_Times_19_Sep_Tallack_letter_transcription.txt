@@ -1,0 +1,62 @@
+Source image: sources/images/Media-coverage/to-transcribe/The_Times_1883-09-19.jpg (3055 x 4156), page 7
+Newspaper/title if visible: THE TIMES
+Date if visible: WEDNESDAY, SEPTEMBER 19, 1883 (running head); page 7
+Page/column/article if known: fifth column, under the heading "THE LAW OF MURDER AND INSANITY.", the first of two
+letters. The second, directly below it, is W. Wood's (already held: transcribed/The_Times_19_Sep_transcription.txt).
+Transcription scope: Tallack's letter, complete.
+Transcription status: COMPLETE. Transcribed 3 October 2026 directly from the image, every line read enlarged. This
+counts as the one image check.
+
+NOTE: William Tallack's letter, dated 17 September, held until now only as Clark Bell's extract (Medico-Legal
+Journal, December 1884). Against Bell:
+- Bell omits the first paragraph (the Home Secretary and "a certain sentence of imprisonment") and the last ("It is
+  the capital sentence which solely constitutes the difficulty..."), and opens his extract "Sir,—There is one
+  department", as he does with Wood's.
+- Bell prints "a virtual condemnation of the law"; the Times reads "a virtual qualification of the law".
+- The Times reads "the physician of Bethlehem Hospital"; Bell, "Bethlem Hospital".
+The letter does not name William; it calls him "the Walthamstow murderer", which is why searches for "Gouldstone"
+missed it. Small capitals in the signature given in capitals. Press as press: it is a letter to a paper.
+
+TRANSCRIPTION
+
+THE LAW OF MURDER AND INSANITY.
+
+TO THE EDITOR OF THE TIMES.
+
+Sir,—The Home Secretary being recently requested by many persons to commute a certain sentence of imprisonment,
+replied, and very wisely, that it is not his function so to alter sentences as practically to modify legislation.
+Nor is it right for individuals, or the public, to expect him to do so, even in reference to sentences of death.
+While the law, on any point, is clear, it is equally binding on the Home Secretary and on the community.
+
+But there is one department of the law, that affecting homicidal crime, where a peculiar obscurity, or rather
+conflict, exists, at least in many instances where the letter of the law, though plain, is in clear collision with
+the consensus of the best scientific medical observation and also, and therefore, with equity and justice. The
+case of the Walthamstow murderer, now under sentence of death, affords an illustration. It was unmistakable, from
+the evidence at the trial, and, indeed, from the prisoner's own admission, that he well knew the nature of the act
+he was committing. Hence, too, that act is, plainly and legally, "wilful murder." But, from the testimony of the
+physician of Bethlehem Hospital and others, it is similarly obvious that, notwithstanding this, the condition of
+the man's mind was, to say the least of it, very abnormal and doubtful.
+
+And in so far as this may be the case, it is appropriate to bear in mind the very important resolution unanimously
+adopted at the annual meeting of the Association of Medical Officers of Asylums and Hospitals for the Insane, held
+at the Royal College of Physicians, London, on July 14, 1864, as follows:—
+
+"That so much of the legal test of the mental condition of an alleged criminal lunatic as renders him a
+responsible agent, because he knows the difference between right and wrong, is inconsistent with the fact,
+well-known to every member of this meeting, that the power of distinguishing between right and wrong exists very
+frequently among those who are undoubtedly insane and is often associated with dangerous and uncontrollable
+delusions."
+
+Such a resolution as the above by such a body is a virtual qualification of the law by the responsible official
+exponents of modern medical science. And this, taken in connexion with a series of Home Office precedents for
+interposition, constitutes a valid reason for expecting the Home Secretary, in such a case as the present one, to
+seriously reconsider the sentence.
+
+It is the capital sentence which solely constitutes the difficulty. A sentence to permanent detention would meet
+the claims of justice and science and public security, whether the man be insane or not. But if he be insane, as
+seems more than possible, a penal and ignominious death is an unjust infliction for the results of real lunacy,
+however horrible.
+
+Yours truly,
+WILLIAM TALLACK.
+Howard Association, London, Sept. 17.
