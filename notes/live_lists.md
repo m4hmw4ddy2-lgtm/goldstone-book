@@ -8,7 +8,7 @@
 ---
 
 ## 1. DECISIONS WAITING FOR RIK
-- Chapter Fourteen (the trial), 3 October 2026: DECIDE 1 to 14, proposed Contradictions 93 to 101, and corrections A to I to existing notes (not yet applied), all in notes/CHAPTER_14_skeleton.md. Nothing settled.
+- Chapter Fourteen (the trial), 3 October 2026: DECIDE 1 to 16 (15 and 16 added late, from the new Times and Telegraph images), proposed Contradictions 93 to 101, and corrections A to I to existing notes (not yet applied), all in notes/CHAPTER_14_skeleton.md. Nothing settled.
 
 ## 2. OPEN QUESTIONS
 ### Albert and his family (added 2 October 2026)

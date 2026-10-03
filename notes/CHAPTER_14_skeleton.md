@@ -52,14 +52,17 @@ else for the trial day was found.
 
 ## SOURCES WE DO NOT HAVE (named before anything relies on a summary of them)
 
-1. **The Daily Telegraph's trial report of 15 September.** Only its leader is held.
+1. ~~The Daily Telegraph's trial report of 15 September.~~ HELD since 3 October 2026 (late): see NEW SOURCES below.
 2. **The other London dailies of 15 September**: Daily News, Standard, Morning Post, Daily Chronicle, Morning
    Advertiser. Their leaders survive only as the Guardian's extracts of 22 September. The Daily News says it expressed
    "doubts ... on Saturday last"; that issue is not held.
-3. **The juror's letter and the foreman's "card" as printed** (Daily Telegraph, about 17 September). We have the
-   Guardian's reprint of one letter and Clark Bell's report of a "card" by "the Foreman of the jury". See FINDINGS, 6.
-4. **The Times of about 17 or 18 September** carrying Savage's letter of the 15th and William Tallack's of the 17th.
-   Savage's survives in two reprints; Tallack's only as Clark Bell's extract.
+3. **The foreman's "card" as printed**, and Savage's reply to the juror as printed (Daily Telegraph, about 18 or 19
+   September). The Tottenham juror's letter itself is HELD since 3 October 2026 (Daily Telegraph, 17 September). See
+   FINDINGS, 6, and NEW SOURCES below.
+4. **William Tallack's letter**, dated 17 September, "published ... in the Times" (Clark Bell). Not found by Rik's
+   searches of the Times (3 October 2026). Savage's letter of the 15th is HELD since 3 October 2026 (Times,
+   17 September). Clark Bell drops the openings of the letters he extracts (checked against Wood's), so Tallack's
+   printed opening is unknown.
 5. **Savage, Journal of Mental Science, January 1884**, held only as Clark Bell's long extract.
 6. **The printed Old Bailey Sessions Papers page** for case 849. The website text has never been checked against it,
    and it carries at least one internal slip (Contradiction 95).
@@ -67,6 +70,58 @@ else for the trial day was found.
    if the prose uses the Times's own words for it (DECIDE 9).
 8. **Stephen, A History of the Criminal Law of England (1883)**, held only as quoted by the BMJ and Bucknill. Not
    needed for this chapter.
+
+## NEW SOURCES, 3 OCTOBER 2026 (late): THE TIMES AND TELEGRAPH IMAGES RIK FOUND
+
+Each transcribed from the image (one image check, recorded in its header). The images are still in
+`sources/images/Media-coverage/to-transcribe/`, and the headers point there; if they are moved, the headers move too.
+
+- **Daily Telegraph, 15 September, the trial report** (`transcribed/Daily_Telegraph_15_September_1883_Transcription.txt`).
+  Short. From the summing-up to the end it is the same text as the IPN and the Guardian of 22 September: agency
+  copy, one witness, not three. Age 25 (so the IPN's 25 is that copy's, Contradiction 97). It says nothing of what
+  William said after the verdict, so it adds no witness to Contradiction 93. It calls Savage "one medical gentleman".
+- **The Times, 15 September, the leader** (`transcribed/The_Times_15_Sep_leader_transcription.txt`). The Times's own
+  comment, approving the verdict. Press only. It gives the medical evidence as "an opinion ... that the prisoner when
+  he killed his children did not know what he was doing, and did not know that the penalty for the act was death",
+  the reverse of what its own court report, and the Old Bailey, give Savage as conceding. For the next chapter (the
+  press after the verdict), under the press rule; the reader will already hold the sworn version.
+- **Daily Telegraph, 17 September, two letters** (`transcribed/Daily_Telegraph_17_September_1883_Transcription.txt`):
+  the workmen's, signed William Graves, Foreman, dated 15 September ("we consider it a great hardship that we were not
+  allowed to put this evidence before the jury"), and the Tottenham juror's, now held as printed (Savage "examined on
+  the Thursday", "from twenty minutes to half an hour"; asked by Poland "if he would certify that the prisoner was
+  insane, he distinctly stated 'No'"). The juror's "your leading article of to-day" is the Telegraph leader of 15
+  September (held). Next chapter (linear rule: the letters are dated the 15th).
+- **The Times, 17 September, Savage's letter of the 15th** (`transcribed/The_Times_17_Sep_Savage_letter_transcription.txt`),
+  the original of the two reprints. "though the Judge ridiculed the importance of a second cousin on his father's side
+  being insane" is Savage's own word (corrections list, A: attribute it to him); "my personal interview of 15 to 30
+  minutes"; "The medical officer to the House of Detention told me he considered him to be suffering from
+  melancholia."
+- **The Times, 22 September, Dr William Sunderland's letter** (`transcribed/The_Times_22_Sep_Sunderland_letter_transcription.txt`).
+  NEW. One of the defence's own medical witnesses says the jury "evidently understood Dr. Savage's answer 'No,' to
+  Mr. Poland's question—'From your conversation with Gouldstone could you certify him to be insane' to imply that he
+  did not consider him to be insane at the time; whereas Dr. Savage's opinion was that he was insane", and that "The
+  hereditary tendency to insanity, though ridiculed in Court" matters. This bears directly on DECIDE 2: the line
+  proposed to end Chapter Fourteen is the answer whose meaning a witness disputed within the week. See DECIDE 15.
+- **The Times, 11 September, Graves's notice** (`transcribed/The_Times_11_Sep_Graves_notice_transcription.txt`). NEW.
+  Ten pounds "sent anonymously from Leamington for the defence of William Gouldstone", acknowledged 10 September.
+  Chapter Thirteen (approved) tells the money in order and does not have it. See DECIDE 16.
+- **The Times, 26 September** (`transcribed/The_Times_26_Sep_transcription.txt`): the respite to Monday 8 October
+  (agrees with the Guardian of 26 September), and a NEW letter signed Laurence Peel, a barrister's Lancaster Assizes
+  case before Baron Parke. NOT Tallack's. Reprieve chapter.
+- **The Times, 1, 2, 6, 11 and 12 October** (`transcribed/The_Times_Oct_*_transcription.txt`). Reprieve chapter: Orange
+  "entertains no doubt of his insanity" (1st, press only; the opening words hidden by the archive's label); the respite
+  "until further signification of Her Majesty's pleasure" after Clarke and Orange's report (2nd); the Home Office
+  letter of 3 October again, and visits "this week by his wife and his sister" (6th); the certificate of unsound mind
+  received "Yesterday morning" (Wednesday 10 October) and told to William by the Under Sheriff, Charles Gepp, "and
+  Gouldstone received it with deep gratitude" (11th; bears on Contradiction 80); Graves acknowledging £35 14s. 4d. (the
+  shillings uncertain), "insufficient to meet the bare expenses of the trial" (12th).
+- **The Times, 9, 10 and 14 August** (`transcribed/The_Times_9_Aug_transcription.txt`, `..._10_Aug_...`,
+  `..._14_Aug_...`), for chapters already drafted. The 9th is the wire dispatch (one witness with the others). The 10th
+  and 14th each carry points against the notes, listed in their headers and not yet entered anywhere (among them Ada's
+  "for the last 10 weeks" on 9 August, Contradiction 58; "Yes, do my dear." without the second comma, Contradiction 28;
+  Folkard's "I did it like a man too"; the funeral "fixed to take place at 3 o'clock"; Mrs Graves "at Hackney").
+- `The_Times_1883-09-15-2.jpg` is the whole of page 12, the court report already transcribed from
+  `The_Times_15_Sep.jpg`. Not transcribed again.
 
 None of these is needed to draft the trial day as proposed below. Items 1 and 2 would add witnesses to Contradictions
 93 and 99.
@@ -434,6 +489,20 @@ Kennard. "Elliott", as in Chapter Thirteen. "Bethlem" (Savage's own heading in t
   recommended: it is the chapter's own irony in the court's own words). Or "The Nature and Quality of the Act" (Day).
 - One chapter (if 1b): "The Form of Their Verdict".
 
+**DECIDE 15. Sunderland's letter and the end of Chapter Fourteen.** (Added 3 October 2026, late.) The proposed last
+line is Savage conceding that William knew he was killing the children and that the penalty was death. Within the
+week Sunderland, a defence witness, wrote that the jury misread Savage's "No" on certifying. The letter is dated
+after the trial, so by the linear rule its words wait for the next chapter but one. (a) Keep the ending; the letter
+arrives in its own chapter and recasts the line then (recommended: the reader holds the line as the jury did, which
+is the true position, and the later letter does the work). (b) End Chapter Fourteen earlier, before the cross-examination
+concessions, so the chapter does not close on a line the record later disputes. (c) End on the certifying answer
+itself ("from what I saw of him on Saturday I would not certify him as a lunatic", Old Bailey; the bare "No" is
+the juror's and Sunderland's report, not the record) rather than on the penalty line.
+
+**DECIDE 16. The Leamington ten pounds (Times, 11 September) and Chapter Thirteen.** Chapter Thirteen is approved and
+tells the money in order without it. (a) Add one sentence in date order (10 September, the day of the sessions);
+(b) leave Chapter Thirteen as it is. No recommendation: it is Rik's approved chapter.
+
 ---
 
 ## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (not yet entered)
@@ -448,7 +517,8 @@ Kennard. "Elliott", as in Chapter Thirteen. "Bethlem" (Savage's own heading in t
   11 August; coroner deposition). Trial: "I had not about this time or any time that week seen the prisoner the worse
   for drink" (Old Bailey); "She never saw him the worse for drink" (Times). Supersedes Contradiction 6, which
   attributes Ada's Old Bailey answer to Emma.
-- **97. William's age.** 26 (Old Bailey; Times; Essex Weekly News, image, where our transcription read 24); 25 (IPN).
+- **97. William's age.** 26 (Old Bailey; Times; Essex Weekly News, image, where our transcription read 24); 25 (IPN and
+  Daily Telegraph, one agency text).
   26 is right (birth certificate).
 - **98. The door line in Poland's opening.** "I have killed the children and I am happy now" (Poland, Times) against
   Ada at the same trial, "No, I am a happy man". The opening is counsel's; it matches Ada's witness statement of
