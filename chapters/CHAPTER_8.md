@@ -8,7 +8,7 @@ Out in St James's Street, William Cheeseman, police constable 86 N, had been on 
 
 "Good evening, policeman. I have done it. Now I am happy and am ready for the rope."
 
-He had nothing in his hands. He seemed excited, Cheeseman thought, but not with the excitement that comes from drink, and there was no appearance of drink about him. Cheeseman cautioned him that whatever he said might be used in evidence against him, and satisfied himself that the three children on the floor were dead. William put his coat and hat back on.
+He had nothing in his hands. He seemed excited, Cheeseman thought, but not with the excitement that comes from drink, and there was no appearance of drink about him. Cheeseman cautioned him. "What you say will be used in evidence against you." He satisfied himself that the three children on the floor were dead. William put his coat and hat back on.
 
 "Let me see my wife."
 
@@ -22,7 +22,7 @@ In the bedroom, Elizabeth herself had asked Ada to go and tell her husband that 
 
 And then: "You wished they were dead, and now they are."
 
-She made no answer to any of it. She was crying. She asked him whether he had any money, because she had the doctor to pay, and he said, "Yes, a little," and put his hand in his pocket and gave her all that was in it: a two-shilling piece, or it may have been a half-crown, a shilling, and two pennies. Then he leaned over the foot of the bed and kissed her, and said simply, "Good-bye", and the constable took him away.
+She made no answer to any of it. She was crying. "Have you any money?" she asked. She had the doctor to pay. He said, "Yes, a little," and put his hand in his pocket and gave her all that was in it: a two-shilling piece, or it may have been a half-crown, a shilling, and two pennies. Then he leaned over the foot of the bed and kissed her, and said simply, "Good-bye", and the constable took him away.
 
 Ada remained behind.
 

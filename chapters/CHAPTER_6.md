@@ -6,7 +6,7 @@ They left Frampton Park Road in September 1882, three years into their marriage,
 
 The landlord was Charles Clarke, a carpenter, who kept the ground floor with his wife Emma and let the rooms above. He and William had struck up the sort of friendship that asks little of either man. On a few Sunday mornings they walked together along the river, long stretches of it in silence, and if Clarke tried to start a conversation on the news of the day William had nothing to offer, more at home in some small question of boyish games than anything grown men were meant to discuss. Clarke kept rabbits behind the house, and William would kill one for him when asked, without fuss, a country skill that had survived the move to London. He had despatched a doe the week before the murders.
 
-Afterwards, Elizabeth would say that William had shown signs of madness for the last twelve months. Counted back from that August, it put the start barely a month after they moved in.
+In October the Times would report that his wife said he had shown signs of madness for the last twelve months. Counted back, it put the start barely a month after they moved in.
 
 What she described was not new. "During our five years married life," she wrote, "I frequently noticed that my husband was absent-minded and given to brooding. If he were asked a question he would not, no matter how simple it was, or however easy to answer, reply at once. He would think over it, and sometimes say something not concerning the question." Lately she had begun to find him sitting, thinking, and it was only afterwards that she decided what he must have been thinking about.
 

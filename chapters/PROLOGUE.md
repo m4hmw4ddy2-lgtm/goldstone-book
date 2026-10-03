@@ -6,7 +6,7 @@ A little later he came to the bedside and stood there without speaking. Elizabet
 
 Frederick, sixteen months old, was on the bed. William took him up and carried him into the kitchen, where Charles and Herbert were. The rooms were close together, but from Elizabeth's bed the kitchen was out of sight, and beyond the kitchen was the scullery. Ada remained with Elizabeth and the twins. There was still work to do; she had yet to wash the second baby.
 
-In the kitchen, when Ada next saw him, William was sitting on the fire guard, the three boys playing at his feet, turning and tying a piece of clothesline around and over his fingers. She asked whether he had had his tea, and when he said he had not, she told him it was ready. He did not answer.
+In the kitchen, when Ada next saw him, William was sitting on the fire guard, the three boys playing at his feet, turning and tying a piece of string around and over his fingers. She asked whether he had had his tea, and when he said he had not, she told him it was ready. He did not answer.
 
 Ada went back to the bedroom. Elizabeth had to be lifted while the bed was made. Some twenty minutes later, when William put his head in the doorway, she told him, "You can come in, Mr Gouldstone." At that he turned back towards the kitchen, mumbling something to himself which she could not understand. She suggested to Elizabeth that she might leave the room to give William an opportunity, if he wished, of speaking to her privately, and went downstairs. The older boys were no longer where she could see them.
 

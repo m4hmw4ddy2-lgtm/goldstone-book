@@ -34,6 +34,8 @@ Craggs asked for an adjournment.
 
 The prisoner was then removed from the dock.
 
+As Ada was about to leave the box, Lister told her she had given her evidence well, and that it was a painful position for her to be in.
+
 At half past three that afternoon Henry Gould began. He took them in order, starting with the twin who had died last, and opened the other twin at half past four. Then the three eldest. Of Herbert he wrote that the appearances were precisely similar to those he had fully described in Frederick's case; and of Charles the same, with the exception of the marks of the cord around his neck.
 
 ***

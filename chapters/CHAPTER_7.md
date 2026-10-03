@@ -10,7 +10,7 @@ He smiled at her. Nothing followed the smile: no word, no explanation for the tw
 
 How long he stayed like that before he followed her is the first thing in this account that cannot be fixed to a number. Sworn before a magistrate the day after it happened, Ada put it at nearer ten minutes. Giving evidence five weeks later at the Old Bailey, she put it at three or four. Both were given under oath. Neither was ever corrected. Somewhere in that gap William Gouldstone was in his own kitchen, with his two eldest sons playing on the floor, for some short, unmeasured stretch of time, and nobody living can say what he did with it. Below, in the garden, Emma Clarke was still hanging out washing to dry, in the last of the ordinary afternoon anyone in that house would have.
 
-When he came through, he went to Elizabeth's bedside and stood there without speaking. Ada was still in the room. Elizabeth asked how it was he was home so early.
+When he came through, he went to Elizabeth's bedside and stood there without speaking. Ada was still in the room. "How is it you are so early home tonight?" Elizabeth asked.
 
 "I left my situation whilst the manager went to dinner and came home."
 
@@ -26,13 +26,15 @@ She asked again.
 
 Frederick was on the bed beside her, sixteen months old, and without another word William lifted him and carried him along the passage to the kitchen, where his brothers were playing on the floor. Ada laid the first twin down beside its mother and went back through to the kitchen.
 
-William was sitting on the fire guard with his back to the grate. The fire was alight. Charles and Herbert and Frederick were on the floor in front of him, playing, and he had a piece of clothesline in his hands, turning it over in his fingers and tying it, watching his hands rather than the children. She asked whether he had had his tea, and he said, "No." It was ready, she told him. It was on the table and the tea was on the hob. He did not answer her. She went back and washed the second twin and laid that one down beside its mother too, and returned. The boys were still playing, and William was still on the fire guard, and she went on through to the scullery.
+William was sitting on the fire guard with his back to the grate. The fire was alight. Charles and Herbert and Frederick were on the floor in front of him, playing, and he had a piece of string in his hands, turning it over in his fingers and tying it, watching his hands rather than the children. She asked whether he had had his tea, and he said, "No." It was ready, she told him. It was on the table and the tea was on the hob. He did not answer her. She went back and washed the second twin and laid that one down beside its mother too, and returned. The boys were still playing, and William was still on the fire guard, and she went on through to the scullery.
 
 The perambulator had been moved. Underneath the cistern, where it usually stood, somebody had put a chair. The cistern ran the whole length of the room, fixed high on the wall, and to reach it you had to get up on a chair. She asked William who had put it there. He was within hearing, and he did not answer. It was Charles who answered her.
 
 "My daddy put it there."
 
 Ada went back to the bedroom, and left the boys in the kitchen with their father.
+
+"Now, I'll make your bed if you get out."
 
 There were about fourteen inches of water standing in the cistern, and ten inches of clearance between its rim and the ceiling. He held them under, and held them there, for as long as it took.
 
@@ -42,7 +44,7 @@ Drowning a conscious child is not quick. He holds his breath for as long as he c
 
 They were dressed, and their clothes came out of the cistern sodden through. There were no marks of violence on any of them. Nothing about the arms, nothing about the trunk, no bruising, nothing broken, nothing to say they had been struck or wrestled with. Whatever William had to do to keep them under the water, it did not take enough force to mark a child.
 
-The one exception was Charles, the eldest, the one who had answered Ada about the chair. Round his neck was an indentation about the width of a cord. The clothesline was still on him when Dr Twining, the first doctor there, reached the house, the noose in it lying loose against the skin, and Twining lifted it off and handed it to the constable. Gould was clear that it had never been drawn tight enough to suffocate anybody. It was not what killed Charles. Charles drowned, like his brothers.
+The one exception was Charles, the eldest, the one who had answered Ada about the chair. Round his neck was an indentation about the width of a cord. The string was still on him when Dr Twining, the first doctor there, reached the house, the noose in it lying loose against the skin, and Twining lifted it off and handed it to the constable. Gould was clear that it had never been drawn tight enough to suffocate anybody. It was not what killed Charles. Charles drowned, like his brothers.
 
 The two biggest were hard work, by William's own account. Frederick, sixteen months old and not able to do much about any of it, went quickly. He left all three of them in the water and went back into the kitchen.
 
@@ -52,7 +54,9 @@ When the bed was done, Elizabeth had to be helped back into it, and the two babi
 
 "You can come in, Mr Gouldstone."
 
-He said something, to himself rather than to her, and she could not make out a word of it. Then he turned and went back along the passage. Ada took it that he might be wanting to speak to his wife alone, and offered to leave the room a minute.
+He said something, to himself rather than to her, and she could not make out a word of it. Then he turned and went back along the passage.
+
+"Shall I leave the room a minute?" Ada said to Elizabeth. "Perhaps Mr Gouldstone wants to speak to you."
 
 "Yes, do, my dear."
 
@@ -62,7 +66,9 @@ She ran back up. The bedroom door was locked from the inside, and Elizabeth was 
 
 "Open the door. He is murdering my children."
 
-Ada could not shift it. She called for help over the banisters, two or three times, and Emma Clarke came running up from the garden. It was about half past five. The two of them put their weight against the door together and it did not give. They called through it to him to open it, and he did not answer. They were at that door about three minutes.
+Ada could not shift it. She leaned over the banisters and called, "Help! Help!" two or three times, and Emma Clarke came running up from the garden. It was about half past five. The two of them put their weight against the door together and it did not give. They called through it to him to open it, and he did not answer. They were at that door about three minutes. Emma heard Elizabeth inside.
+
+"He has killed my babies."
 
 Then he opened it himself.
 
@@ -78,7 +84,9 @@ He went out past Ada as she came in. He had nothing in his hands. Elizabeth was 
 
 "Come and look at my babies, and see if he has killed them."
 
-They were on the pillow where Ada had left them. Both were bleeding from the nose and the mouth, and one had a bruise over the eye. They were breathing. Ada took a small sheet and covered them over, so that their mother should not see them, and sent for a doctor. Elizabeth told her to go and see to the other three.
+They were on the pillow where Ada had left them. Both were bleeding from the nose and the mouth, and one had a bruise over the eye. They were breathing. Ada took a small sheet and covered them over, so that their mother should not see them, and sent for a doctor.
+
+"He says he has killed the other three children," Elizabeth said. "Go and see, will you?"
 
 As Ada came into the kitchen, William was coming in from the scullery with Frederick in his arms. The child's clothes were wringing wet. He bent and laid him on the floor, on his back.
 
