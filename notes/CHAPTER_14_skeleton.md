@@ -373,6 +373,16 @@ cap and the sentence.
 
 ## DECIDE POINTS
 
+**ALL DECIDED 3 October 2026 (Rik: "I accept your recommends on all decisions"): each as recommended below.** In short:
+two chapters, the break at the close of the evidence (1a); Chapter Fourteen ends on Savage's "I believe that he knew
+he was killing the children, and that the penalty for that act was death." (2a, kept against Sunderland, 15a); the
+day ends on the 8.12 train and the condemned cell, the Lancet letter opening the next chapter (3a); both accounts of
+his words after the verdict, named (4a); "once at the Old Bailey" held (5a); one sentence on who could speak (6b);
+Thomas's cross-examination and re-examination only (7a); Graves's and Bennett's answers as given, the trial as the
+unaccounted day's home (8a); the Act three times, attributed, no gloss (9a); the Times's direction (10a); readings
+attributed, one naming per passage (11); Poland's opening for its law only (12a); Kennard, Elliott, Bethlem (13);
+"Mere Fitting Up" and "The Form of Their Verdict" (14). DECIDE 16 replaced by 28 (live_lists.md).
+
 **DECIDE 1. One chapter or two, and where the break falls.**
 (a) **Two chapters, the break at the close of the evidence** (recommended). Chapter Fourteen ends on Savage conceding,
 under cross-examination, the two things the M'Naghten test turned on; Chapter Fifteen is the law applied to them. It
@@ -499,13 +509,13 @@ concessions, so the chapter does not close on a line the record later disputes. 
 itself ("from what I saw of him on Saturday I would not certify him as a lunatic", Old Bailey; the bare "No" is
 the juror's and Sunderland's report, not the record) rather than on the penalty line.
 
-**DECIDE 16. The Leamington ten pounds (Times, 11 September) and Chapter Thirteen.** Chapter Thirteen is approved and
+**DECIDE 16 (SUPERSEDED by DECIDE 28 in live_lists.md, 3 October 2026). The Leamington ten pounds (Times, 11 September) and Chapter Thirteen.** Chapter Thirteen is approved and
 tells the money in order without it. (a) Add one sentence in date order (10 September, the day of the sessions);
 (b) leave Chapter Thirteen as it is. No recommendation: it is Rik's approved chapter.
 
 ---
 
-## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (not yet entered)
+## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (ENTERED there 3 October 2026, with 102 to 112 from the Times and Telegraph images)
 - **93. After the verdict.** "The prisoner replied in the negative" (Times) against "The Prisoner: I am not guilty."
   (Essex Weekly News). Both images checked 3 October 2026. Not in the Old Bailey account.
 - **94. The Act at the trial: three moments.** Grain's opening (Essex Weekly News); Poland hands it to Day, who had not
@@ -537,7 +547,7 @@ tells the money in order without it. (a) Add one sentence in date order (10 Sept
 
 ---
 
-## CORRECTIONS FOUND IN THIS SWEEP (NOT YET APPLIED: for Rik's permission, then to be propagated per standing rule two)
+## CORRECTIONS FOUND IN THIS SWEEP (APPLIED 3 October 2026, Rik: "all that we have learned ... taken into account"; propagated by grep)
 A. MASTER_NOTES, "The trial — 14 September 1883": "Guilty on all five counts" is wrong (one indictment tried, for
    Charles). The same section's "ridiculed second cousin evidence; publicly questioned Savage's bona fides from the
    bench" are Savage's own claims (Lancet; Times letter) and should be attributed to him; the same two clauses stand

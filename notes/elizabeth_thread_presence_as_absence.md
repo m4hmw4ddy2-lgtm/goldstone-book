@@ -22,8 +22,12 @@ book's rule holds here as everywhere: no narratorial commentary. Show the record
 
 ## 2. Every word Elizabeth is recorded as saying, in the sworn record
 
-This is the complete list. It should be checked again before Part Three is drafted, but as of 22 September 2026 these are
-all of them, and every one is reported by somebody else.
+**NOT COMPLETE: corrected 3 October 2026.** The list below, kept as written on 22 September, misses at least six sworn
+lines, two of them already quoted in Chapter Seven. The full list, rebuilt that day from every sworn document and the
+Old Bailey account, follows the old one ("2a"). The paragraph after the old list ("Four of the first five are
+questions...") depended on its completeness and should not be used until it is rewritten against 2a.
+
+As of 22 September 2026, every one of these is reported by somebody else.
 
 1. "What makes you home so early?" — Ada, Old Bailey (15 September).
 2. "Did you tell them at the shop about my being confined?" — Ada's witness statement, 9 August. ("Did you tell them I was
@@ -45,6 +49,34 @@ her children, and they are about his work. The fifth is the only one of those fi
 information, and she is behind a door when she says it. The sixth, added later, is the only one spoken on an ordinary day.
 
 Press-tier only, logged at Contradiction 28 and used once in Chapter Seven: "Yes, do, my dear." Not sworn.
+
+### 2a. The list rebuilt, 3 October 2026 (sworn documents and the Old Bailey account, in the order of the evening)
+1. "How is it you are so early home tonight?" (Ada, coroner deposition, 10 August.) "What makes you home so early?"
+   (Ada, Old Bailey.) The witness statement of 9 August has it in reported speech.
+2. "Did you tell them at the shop about my being confined?" (Ada, witness statement.) "Did you tell them I was
+   confined?" (Old Bailey.)
+3. "Didn't you tell Mr. Graves?" (Ada, Old Bailey.)
+4. Through the locked door: "He is murdering my children!" (Ada, witness statement); "Open the door, he is murdering my
+   children." (Ada, coroner deposition; quoted in Chapter Seven); "Come in; he is murdering my children" (Ada, Old
+   Bailey); "He has killed my babies." (Emma Clarke, coroner deposition and Old Bailey).
+5. "Come and look at my babies and see if he has killed them." (Ada, coroner deposition; quoted in Chapter Seven.)
+6. "Oh, you wicked man, what have you done?" (Cheeseman, witness statement, coroner deposition and Old Bailey: to
+   William, when he came into the bedroom with the constable.)
+7. "Have you any money?" (Cheeseman, Old Bailey.) Ada's coroner deposition and Old Bailey evidence give it in reported
+   speech.
+8. At the inquest, 10 August, through Ada answering a juryman: "Never mind; I'll do what I can to support them." (Guardian,
+   18 August: a press report of sworn evidence.)
+And in press reports of Ada's sworn evidence, not in any sworn document: "Yes, do, my dear." (Contradiction 28); "Good
+God! he is murdering my children." (9 August); "He says he has killed the other three children. Go and see, will you?"
+(9 August, Times and Daily Telegraph); "Will you give me all the money you have? I have my doctor to pay" (inquest,
+Daily News and Evening News, 11 August).
+Through Emma at the inquest (press): "I have heard the mother say she wished the children dead" (below).
+Press, not sworn, and not her words but a report of them: "says that he has shown signs of madness for the last 12
+months" (Times, 1 October; Contradiction 104).
+**In the chapters, 3 October 2026 (Rik):** Chapter Seven now quotes 1 ("How is it you are so early home tonight?"), 4
+(Ada's "Open the door, he is murdering my children." and Emma's "He has killed my babies."), 5, and the press "He says
+he has killed the other three children ... Go and see, will you?" beside "Yes, do, my dear."; Chapter Eight quotes 6
+and 7 ("Have you any money?"). Chapter Six names the Times for the "twelve months".
 
 **Found 22 September 2026, and belonging to this list by inversion.** The one thing Elizabeth is recorded as having said
 about her children before the murders reaches the inquest through Emma Clarke, and it reaches it because **a juryman asked
@@ -104,9 +136,12 @@ and lived were both, under one body of law, unable to give evidence on oath. **B
 than it first looked, and the 1898 Act proves it.** That Act's proviso (h) preserves "any right of the person charged to
 make a statement without being sworn", a right it does not create, which means William already had it in 1883. He could
 have addressed the court. Unsworn, uncross-examined, and not as evidence, but he could have spoken, and the Old Bailey
-account does not record him speaking. Elizabeth had no such right, because she was not a party and was not in the
-building. **His silence was available to be broken and hers was not.** Check the newspaper trial reports of 15 September
-before writing this, in case the Proceedings simply omit a statement he did make.
+account does not record him speaking. Elizabeth had no such right, because she was not a party. (Corrected 3 October 2026: "and was not in the building"
+had no source, and her own statement says she saw him "once at the Old Bailey", undated: the 12th or the 14th.) **His
+silence was available to be broken and hers was not.** Checked against the newspaper reports of 15 September (3 October
+2026): no unsworn statement is reported. After the verdict the Times has him reply "in the negative" when asked why
+sentence should not be passed; the Essex Weekly News prints "The Prisoner: I am not guilty." (Contradiction 93). If the
+Essex reading stands, those three words are the only thing he said in court that day besides his plea.
 This belongs in the thread: her silence is not singular, it is half of a pair, and the other half is the man the whole
 proceeding was about.
 
@@ -157,7 +192,14 @@ to commit the crime through jealousy."
 The Morning Post's shorter version: he told her "it was no use further to screen her husband, as the jury had made up their
 minds on the subject and he would be hanged."
 
-Asked directly whether he had said these things, he did not deny them. Dover Express: "The Coroner: Then these observations
+The Times, 14 August (added 3 October 2026): "it was no use for her to screen her husband as she was doing, because the
+jury had made up their mind on the subject, they being determined he should not escape", and that "she had driven her
+husband to it through jealousy". Blythe in the Times: "whatever he said he thought he had said to soothe her". Lyle:
+"the question was whether they would not have to view the body of Mrs. Gouldstone." The letter was marked "Not
+private".
+
+Asked directly whether he had said these things, he did not deny them. (The Times: "he said he could not say he had
+not.") Dover Express: "The Coroner: Then these observations
 were not made by you? Mr. Blythe: Well, they might have been. I do not know." Morning Post, flatter still: "He was asked if
 he had used any of the observations spoken of and he admitted that he had."
 
@@ -384,3 +426,17 @@ from their birth till their death"; that he "never took any notice of the babies
 born and returning with "his eyes strange and wandering"; the doorway and the foreman; the House of Detention visits and
 "as happy as a child at play"; and the conclusion, "I am certain that he was insane." Before Part One quotes any further
 line, check it against this list and add it here.
+
+## 10. Added 3 October 2026, from the Times
+- **She visited him at Chelmsford, with his sister, in the first week of October** (Times, 6 October: "Gouldstone has
+  been visited this week by his wife and his sister"). Press only; the sister is not named. With the visit of Tuesday
+  18 September (her statement), at least two visits to Chelmsford.
+- **"The poor woman who has lost her five children, and whose husband and sole support is now taken from her"**: Graves's
+  notice, Times, 12 October. £35 14s. 4d. raised, "insufficient to meet the bare expenses of the trial", so "no
+  provision can be made" for her.
+- **"His wife, who is a very respectable young woman, says that he has shown signs of madness for the last 12 months"**
+  (Times, 1 October; copied by the BMJ, 6 October). The only source for "twelve months": not in her statement as held.
+  Chapter Six uses it as what she "would say"; for Rik (Contradiction 104).
+- **The reprieve came to her through other people, in three steps** (Contradiction 105): the indefinite respite of
+  Monday 1 October, the Home Office letter to the employers' solicitor of the 3rd, and the certificate of unsound mind,
+  told to William on the 10th. Nothing records how or when she was told.

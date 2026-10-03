@@ -8,7 +8,12 @@
 ---
 
 ## 1. DECISIONS WAITING FOR RIK
-- Chapter Fourteen (the trial), 3 October 2026: DECIDE 1 to 16 (15 and 16 added late, from the new Times and Telegraph images), proposed Contradictions 93 to 101, and corrections A to I to existing notes (not yet applied), all in notes/CHAPTER_14_skeleton.md. Nothing settled.
+- None as of 3 October 2026. Chapter Fourteen DECIDE 1 to 15 and the chapter decisions 17 to 30 were all accepted as
+  recommended (Rik: "I accept your recommends on all decisions"); 16 was replaced by 28; 23 ("Open the door.", optional)
+  was not used. Record: MASTER_NOTES, session of 3 October 2026. Next: Chapter Fourteen, drafted one movement at a
+  time, each shown before the next.
+- To carry into the reprieve chapter (DECIDE 30): the Times notice of 12 October, £35 14s. 4d., in our voice as
+  "thirty-five pounds fourteen shillings and fourpence"; Graves's "£36" and "£50" only inside his own words.
 
 ## 2. OPEN QUESTIONS
 ### Albert and his family (added 2 October 2026)
@@ -21,24 +26,29 @@
 ### The case, 1883
 - **The unaccounted day.** The Tuesday morning and afternoon and the Wednesday from early morning to 5.15pm
   (Contradiction 39). No chapter of its own.
-- Where he went "with the intention of drowning himself" (BMJ, 6 October, "it is believed", unattributed). The River
-  Lea is a guess.
+- Where he went "with the intention of drowning himself" (Times, 1 October, copied by the BMJ, 6 October; "it is
+  believed", unattributed, press only, one witness: Contradiction 104). The River Lea is a guess.
+- Who told the Times on 1 October what it printed (Orange's view, the great-uncle, "twelve months"): "[We understand]"
+  only; the opening words are hidden on the clip, and want a clean copy.
 - Where William was looking during the second kitchen visit: his hands (Old Bailey) or the children (coroner
   deposition). Decided for the prose (his hands, Chapter Seven), NOT resolved on the evidence.
 - Which kitchen visit the cord first appears in (Contradiction 27).
 - Ada's four sworn wordings of his reply at the door; Chapter Seven quotes only "I am a happy man" (Contradiction 1).
 - The hammer, when and where found (30); the first twin's death (31); how the boys lay (32); Ada's tea against "no
   provisions" (33).
-- Ada moving the chair: in the Daily Telegraph of 10 August and Western Times of 14 August only; unconfirmed.
+- Ada moving the chair: in the Daily Telegraph and Times of 10 August and Western Times of 14 August only (one reporter's text); unconfirmed. The Times adds Ada's "When I noticed the chair under the cistern, of course I did not think of anything of this sort." (111).
 - The newspaper cutting of "two recent murders" said to have been found on him (Guardian, 11 August, press only, 70).
 - "Defended by Mr. Forrest Fulton" (Guardian, 15 September) against Grain and Elliott at the trial (73).
-- Whether William made an unsworn statement at his trial. The Old Bailey account records none; check the press
-  reports of 15 September (see part_three_context_law_and_medicine.md).
+- ~~Whether William made an unsworn statement at his trial.~~ ANSWERED 3 October 2026, so far as the held reports go:
+  none reported (Times, Essex Weekly News, Guardian/IPN/Daily Telegraph copy). After the verdict, "replied in the
+  negative" (Times) or "The Prisoner: I am not guilty." (Essex Weekly News): Contradiction 93.
 - Whether any contemporary account notices Elizabeth's absence from the witness box. None found; Tuke notices Cole's
   wife's, which is context only.
 - Where the Spectator of 25 August got its claim that Cole had been reading about Walthamstow (57).
 - The Wandsworth chaplain's "a convict of the name of Gouldstone" at Cole's trial: a lead, not evidence (57).
-- The day the Sheriff and William were told of the respite: 3 or 10 October (80).
+- ~~The day the Sheriff and William were told of the respite: 3 or 10 October (80).~~ SETTLED 3 October 2026: the respite made indefinite Monday 1 October (Times, 2 October); the certificate received and William told Wednesday 10 October (Times, 11 October) (105).
+- Which of William's sisters visited him at Chelmsford with Elizabeth in the first week of October (Times, 6 October).
+- The cord: "white twine" (Times reporter, 9 August, the exhibit) or "clothes line" (Ada, 10 August) (102).
 - Whether Orange and Clarke's report survives (HO 144, if the file exists).
 - Grantham Robinson's "clear statement" (BMJ, 29 September): very likely his letter of 20 September; a separate
   submission is not ruled out.
@@ -50,16 +60,17 @@
 - Where the bodies lay: the sworn "this Mortuary" of 13 August against the 1893-94 OS "Mort." (Burial Board minutes).
 - Grave 1370A: confirm against the register; who paid; whether Robert Gouldstone (d. 1882) is in the same ground.
 - Mrs Millard, "who but a few weeks ago had two boys drowned" (Guardian, 18 August).
-- The funeral attendance: 1,500 (Dover Express) against "several hundred" (Morning Post) (Contradictions 7, 51).
+- The funeral attendance: 1,500 (Dover Express) against "several hundred" (Morning Post), with "over 1,000" in the Guardian and the Times (Contradictions 7, 51).
 - Whether Elizabeth received anything from the relief efforts other than Grantham Robinson's fund.
 - When and why Courtenay Place was demolished: present 1891, gone from the numbering by 1901.
 - Electoral registers (Essex Record Office) for room descriptions at the address.
 - "Site now a bus depot": unsourced; check before use.
-- The insane great-uncle: unidentified.
+- The great-uncle who "committed suicide": unidentified, and the claim is one press paragraph (Times, 1 October; 104).
+- Contradictions 93 to 112 (3 October 2026): open items in the timeline file.
 
-- Savage's letter to The Times ("I feel it my duty to write shortly about the case of William Gouldstone"), printed in
-  Clark Bell, Medico-Legal Journal, December 1884 (sources/pdfs/): not yet reconciled with the three Savage letters in
-  the timeline file.
+- ~~Savage's letter to The Times, not yet reconciled with the three Savage letters~~ RECONCILED 3 October 2026: it is the
+  second of the three, dated 15 September, printed 17 September (now held as printed:
+  transcribed/The_Times_17_Sep_Savage_letter_transcription.txt).
 - 8 Courtenay Place before the Clarkes: Joseph Wells at "8 Courtenay Terrace, Marsh Street" (1882 directory); whether
   he held the whole house, and how it passed to Charles Clarke.
 
@@ -128,15 +139,18 @@
 19. Queen's Road Cemetery (Walthamstow) burial registers — records held at Chingford Mount Cemetery, indexed on Ancestry under the keyword 'Queens'; grave 1370A: confirm the entry, who paid, and whether Robert Gouldstone (d. 1882) is in the same ground
 20. An earlier Ordnance Survey sheet of the cemetery (NLS), surveyed between 1872 and 1883 if one exists
 21. Roger Smith, Trial by Medicine: Insanity and Responsibility in Victorian Trials (1981) — for the legal-medical context and to confirm the spousal incompetence rule from a proper legal history rather than a law-review summary
-22. James Fitzjames Stephen, A History of the Criminal Law of England (1883) — for his actual formulation, which the BMJ of 22 September contrasts with Day's
+22. James Fitzjames Stephen, A History of the Criminal Law of England (1883; free on archive.org) — for his actual formulation, which the BMJ of 22 September contrasts with Day's
 23. Henry Maudsley, Responsibility in Mental Disease (1874)
-24. Trial of Lunatics Act 1883 — the statute itself, from legislation.gov.uk, to confirm assent date, commencement, and the exact wording of the new verdict
+24. Trial of Lunatics Act 1883 — the statute itself, as passed (the Public General Statutes, 1883, on HathiTrust or Google Books; legislation.gov.uk may show it as amended), to confirm assent date, commencement, and the exact wording of the new verdict
 25. HO 144 capital case file for Gouldstone — existence and reference unconfirmed (search Discovery; HO 144/155/A40379 is the wrong case). Would hold Orange's report and the reprieve correspondence
 26. Broadmoor case book D/H14/D2/1/1/4 (males admitted 1877-1884) — ANSWERED 29 September 2026: the volume is closed until 2053; William's own entry is on the same terms as his file (closed until January 2036) and can be included in the access request. Whether his entry has a photograph: not yet answered
 27. The criminal lunatic register from which sources/images/broadmoor-documents/'Broadmoor admisision register.jpg' comes — series and repository unknown, needed to cite it
 28. A period definition of "confusional insanity" (Savage, or the Journal of Mental Science), before Milne's 1935 deposition is quoted
-29. The London daily of Wednesday 19 September 1883 that first printed Elizabeth's statement
-30. Newspaper trial reports of 15 September 1883, to check whether William made an unsworn statement from the dock (the Old Bailey account records none)
+29. The London daily of Wednesday 19 September 1883 that first printed Elizabeth's statement. LEAD (3 October 2026): the Dundee Courier of 21 September prints its opening and closing under "The Daily Telegraph says:—", so very likely the Daily Telegraph of 19 September (British Newspaper Archive)
+30. ~~Newspaper trial reports of 15 September 1883~~ the Times and the Daily Telegraph OBTAINED 3 October 2026 (no unsworn statement reported). Still wanted for Contradictions 93 and 99: the Standard, Morning Post, Daily News and Daily Chronicle of 15 September
+35. The Daily Telegraph of about 18 or 19 September 1883: Savage's reply to "One of the Jury" (dated 17 September; held only via the Guardian and Clark Bell), and the foreman's "card" giving Day's direction (Clark Bell only)
+36. The Times of 1 October 1883, a clean copy: the opening words of the Orange paragraph are hidden on the clip by the archive's label
+37. The Old Bailey Sessions Papers printed page for case 849 (Old Bailey Online page image): the website text has never been checked against it
 31. Walthamstow directory, 1883 or 1884: independent confirmation of Charles Clarke's tenancy at 8 Courtenay Place
 32. A directory of about 1894 covering Walthamstow: Courtenay Place or Courtenay Road still in use? (demolition window)
 33. A Whitstable directory, late 1880s to 1890s: William James Madams's occupation and address
@@ -155,7 +169,17 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 - Rev. Vernham as 1883 vicar — he was Vicar of St James from 1893; the 1883 vicar was Grantham Robinson
 - "Sarah Crawley" as Edward Suckling's wife's surname — retracted, no source found
 - "He came home with a noose in his pocket" — no source supports this. PC Honey's cross-examination, previously cited as confirming it, describes the cord as found on Charles's body, after the fact, not before. A noose WAS tied in that cord and was lying loose round Charles's neck when it was removed, and Gould was clear it had never been tight enough to suffocate him. What is unsupported is that he brought it home already made.
-- "c.10 October" for the reprieve — superseded by the Home Office letter of 3 October 1883 (Contradiction 80); it was an inference from the Preston Chronicle's "Wednesday".
+- "c.10 October" for the reprieve DECISION — superseded by the Home Office letter of 3 October 1883 (Contradiction 80). NOTE 3 October 2026: 10 October IS the day the certificate of unsound mind was received and William told (Times, 11 October; Contradiction 105); the indefinite respite was 1 October.
+- "Independently corroborated" for the great-uncle's suicide, the "drowning himself" claim, Orange's opinion or Elizabeth's "twelve months" — one press paragraph, the Times of 1 October, copied by the BMJ and Penny Illustrated (104).
+- "Twelve months" as something in Elizabeth's statement — it is not in it (104).
+- "The morning of the murders" for the drowning claim — the source says "on the very day".
+- "Day ridiculed the second cousin evidence" / "questioned Savage's bona fides" in our voice — Savage's claims (and Sunderland's "ridiculed in Court"); attribute them.
+- "Guilty on all five counts" — one indictment was tried, for Charles.
+- "Bucknill's more precise version of Day's charge" — it is the Times's text (99).
+- "The Times does not mention the Trial of Lunatics Act" — it does, with Poland handing it up (94).
+- "Elizabeth was not in the building" at the trial — no source; she says she saw him "once at the Old Bailey".
+- Clark Bell's extracts as texts — he cuts and alters (Tallack's "qualification" printed "condemnation"); check against the originals.
+- "The clothesline was the earliest description of the exhibit" — the Times reporter's "white twine", a day earlier, is (102).
 - "52 years detained" — arithmetic error; actual span is 51 years from Broadmoor admission to death.
 - "when the manager went to dinner" as William's own words — the witness statement manuscript reads "whilst". Checked directly against images 0003–0004 on 20 September 2026. The coroner deposition's "when" is that clerk's indirect paraphrase, not William speaking, and the press versions are looser still.
 - "Ada's coroner deposition, the earliest sworn document" — it is not. See the third standing rule (project instructions).
@@ -224,7 +248,19 @@ The 9 August wire dispatch. Runs verbatim in the Western Daily Press, the Guardi
 
 The Spectator, 25 August 1883, on Cole ("Murders of the deliberate kind appear to breed each other"; Cole "had been reading the story of the Walthamstow case all the Sunday"). Not supported by any witness at Cole's trial. Left out of Chapter Thirteen (Rik, 3 October 2026: too thin). If used later, as what the Spectator printed, named and dated, and only after the wording is checked against the page image.
 
-Shared copy: several papers print one reporter's or one agency's text. The Daily Chronicle (13 Aug) and Dover Express (17 Aug) are one text for the Saturday hearing; the IPN and the Walthamstow Guardian (both 18 Aug) share copy for the same hearing; the Dover Express and the Guardian share copy for the Monday inquest and part of the funeral; the Bury Free Press (23 Aug) reprints The Times (20 Aug) word for word for the committal of 18 August; the IPN and the Guardian (both 25 Aug) share copy for the committal itself, and the Daily News of 20 August prints an abridged setting of the same copy for Cheeseman, Gould and the Wells/Batchelor exchange. Count shared copy as one witness, not several.
+The Times paragraph of 1 October 1883 (Orange "entertains no doubt of his insanity"; mother and aunt insane; the great-
+uncle's suicide; "it is believed that he went out with the intention of drowning himself"; "His wife ... says that he
+has shown signs of madness for the last 12 months"). Unattributed ("[We understand]"). Copied by the BMJ Medical News
+and the Penny Illustrated of 6 October. One witness, press only (Contradiction 104).
+
+The Times leader of 15 September 1883: approves the verdict; misstates the medical evidence (Savage "did not know that
+the penalty for the act was death"). Press only, for the chapter after the trial.
+
+Shared copy: several papers print one reporter's or one agency's text. ADDED 3 October 2026: the Times, the Daily
+Telegraph and the Western Times reports of 9 August (first Stratford hearing) are one reporter's text, the Times
+fullest; the Daily Telegraph's trial report of 15 September is the IPN/Guardian agency text of 22 September; the
+Times's own 9 August item is a fourth wording of the wire dispatch; the Times and Daily News of 6 October print the same
+Home Office letter; the BMJ and Penny Illustrated of 6 October copy the Times of 1 October. The Daily Chronicle (13 Aug) and Dover Express (17 Aug) are one text for the Saturday hearing; the IPN and the Walthamstow Guardian (both 18 Aug) share copy for the same hearing; the Dover Express and the Guardian share copy for the Monday inquest and part of the funeral; the Bury Free Press (23 Aug) reprints The Times (20 Aug) word for word for the committal of 18 August; the IPN and the Guardian (both 25 Aug) share copy for the committal itself, and the Daily News of 20 August prints an abridged setting of the same copy for Cheeseman, Gould and the Wells/Batchelor exchange. Count shared copy as one witness, not several.
 
 ## 7. FACTS FORMERLY FILED UNDER "DO NOT USE" IN MASTER_NOTES
 Rehomed 1 October 2026: the two 9 August press details are now in William's entry and Thomas's trial evidence in

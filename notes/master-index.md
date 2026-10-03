@@ -14,6 +14,25 @@ Each source is listed with:
 
 ---
 
+## ADDED 3 OCTOBER 2026: THE TIMES AND DAILY TELEGRAPH IMAGES
+Images in `sources/images/Media-coverage/to-transcribe/`; each transcription's header records its one image check.
+What they change: timeline file, "THE TIMES AND THE DAILY TELEGRAPH, UPLOADED BY RIK AND TRANSCRIBED 3 October 2026"
+(Contradictions 93 to 112).
+
+- **The Times, 9 August** — `transcribed/The_Times_9_Aug_transcription.txt`. "MURDER OF FOUR CHILDREN." The wire report in its own wording (age 43; "half-past 5 or 6"). Press only; count with the wire. Ch 8.
+- **The Times, 10 August** — `transcribed/The_Times_10_Aug_transcription.txt`. The first Stratford hearing, 9 August: Ada's evidence, the fullest text of the reporter's copy shared with the Telegraph and Western Times. Ada's question at the bedroom; the string "similar to the piece produced ... (a piece of white twine ...)"; the chair "of course I did not think of anything of this sort"; "and the prisoner was also in the kitchen"; two kisses; Lister to Ada as she left the box. Chs 7, 8, 10.
+- **The Times, 14 August** — `transcribed/The_Times_14_Aug_transcription.txt`. The resumed inquest and the funeral, its own report: Lyle's letter ("Not private"), Blythe "to soothe her", "could not say he had not"; Folkard; Gould; "Over 1,000"; Mrs Graves "at Hackney". Chs 10, 11.
+- **The Times, 11 September** — `transcribed/The_Times_11_Sep_Graves_notice_transcription.txt`. Graves's notice: ten pounds from Leamington for the defence. Ch 13.
+- **The Times, 15 September, leader** — `transcribed/The_Times_15_Sep_leader_transcription.txt`. Approves the verdict; misstates Savage. Press only. Ch 15 or after.
+- **The Daily Telegraph, 15 September, trial report** — `transcribed/Daily_Telegraph_15_September_1883_Transcription.txt`. Agency text shared with the IPN and Guardian of 22 September; age 25. Ch 14-15.
+- **The Daily Telegraph, 17 September** — `transcribed/Daily_Telegraph_17_September_1883_Transcription.txt`. The workmen's letter (Graves, 15 September) and the Tottenham juror's letter, as printed. After the trial.
+- **The Times, 17 September** — `transcribed/The_Times_17_Sep_Savage_letter_transcription.txt`. Savage's letter of 15 September, the original. After the trial.
+- **The Times, 19 September, Tallack** — `transcribed/The_Times_19_Sep_Tallack_letter_transcription.txt`. "THE LAW OF MURDER AND INSANITY." Above Wood's (already held). Reprieve chapter.
+- **The Times, 22 September** — `transcribed/The_Times_22_Sep_Sunderland_letter_transcription.txt`. Dr William Sunderland on Savage's "No" and the certificate. After the trial; Part Three context.
+- **The Times, 26 September** — `transcribed/The_Times_26_Sep_transcription.txt`. Respite to 8 October; Laurence Peel's letter.
+- **The Times, 1, 2, 6, 11, 12 October** — `transcribed/The_Times_Oct_1_transcription.txt` (the Orange paragraph, the original of the BMJ's), `..._Oct_2_...` (respite "until further signification"), `..._Oct_6_...` (Home Office letter; visit by his wife and sister), `..._Oct_11_...` (certified; told by Gepp, 10 October), `..._Oct_12_...` (Graves: £35 14s. 4d.). Reprieve chapter.
+- `The_Times_1883-09-15-2.jpg`: the whole of page 12, the court report already transcribed from `The_Times_15_Sep.jpg`.
+
 ## ADDED 1 OCTOBER 2026: THE TRANSCRIPTIONS NOT PREVIOUSLY INDEXED
 
 **Walthamstow and Leyton Guardian, 11 August 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_11_August_1883_Transcription.txt`
@@ -239,7 +258,7 @@ Book section: Part Three
 **Old Bailey Trial Account**
 `sources/trial-docs/Trial Account Old Bailey website.txt`
 Status: READ
-Key content: Full Old Bailey trial transcript, 14 September 1883. All testimony, cross-examination, judge's summing up, verdict and sentence. Confirms Charles Clarke (not James) as Emma's husband. Confirms William Hamilton present in the building. Confirms three older boys were born in Graves's house. Confirms Bennett Gouldstone also worked at Falkirk Ironworks. Confirms "grain" = Essex word for strangle (juror clarification). Full testimony of Skelton (lift rope incident), Westbrook, Kinnaird, Byford, Cakebread, John Clark.
+Key content: Full Old Bailey trial transcript, 14 September 1883. All testimony and cross-examination; NO summing-up (corrected 3 October 2026: it ends "GUILTY .— DEATH."; for the summing-up, the Act and the sentence see the Times of 15 September). Confirms Charles Clarke (not James) as Emma's husband. Confirms William Hamilton present in the building. Confirms three older boys were born in Graves's house. Confirms Bennett Gouldstone also worked at Falkirk Ironworks. Confirms "grain" = Essex word for strangle (juror clarification). Full testimony of Skelton (lift rope incident), Westbrook, Kinnaird, Byford, Cakebread, John Clark.
 Book section: Part Two, Part Three
 
 **Old Bailey Trial Account — James Cole, 15 October 1883 sessions (t18831015-964)**
@@ -424,7 +443,7 @@ Book section: Part Three
 **Daily Telegraph, 15 September 1883**
 `transcribed/Daily_Telegraph_15_Sep.txt`
 Status: READ — no dedicated index entry existed until 9 September 2026, confirmed during a full mining pass of `/transcribed`.
-Key content: Editorial following the guilty verdict, arguing for insanity. Cites the M'Naghten standard directly, calls for examination by "Dr. Maudsley or Dr. Bucknill." Contains a slightly different wording of William's words to Elizabeth — "You wished them to be dead, and now they are" — a variant worth noting alongside the fuller Old Bailey version already in the Key Quotes list, not a contradiction. States Graves "had known him for three years before that" — a specific duration claim distinct from, and shorter than, the "about five years"/"four and a half years" figures already established for William's total time at the works; not yet reconciled, low priority. Largely duplicative public-debate material otherwise.
+Key content: Editorial (the LEADER, not the trial report: for that see `transcribed/Daily_Telegraph_15_September_1883_Transcription.txt`, added 3 October 2026) following the guilty verdict, arguing for insanity. Cites the M'Naghten standard directly, calls for examination by "Dr. Maudsley or Dr. Bucknill." Its "You wished them to be dead, and now they are" is the leader's own paraphrase, not a report of evidence (corrected 3 October 2026); it also carries "I have had it on my mind for a long time", logged as press-only. States Graves "had known him for three years before that" — a specific duration claim distinct from, and shorter than, the "about five years"/"four and a half years" figures already established for William's total time at the works; not yet reconciled, low priority. Largely duplicative public-debate material otherwise.
 Book section: Part Three
 
 **The Times, 19 September 1883**
@@ -547,7 +566,7 @@ Book section: Part Three
 **BMJ — Medical News, 6 October 1883**
 `transcribed/BMJ_6_October_1883_Transcription.txt`
 Status: READ — full transcription complete
-Key content: MOST SIGNIFICANT PRESS PIECE. Dr Orange entertained no doubt of insanity. "It is believed that he went out with the intention of drowning himself on the very day that he murdered his children." Mother and aunt insane, great-uncle committed suicide. Elizabeth says twelve months of signs.
+Key content: CORRECTED 3 October 2026: a COPY of the Times paragraph of Monday 1 October (`transcribed/The_Times_Oct_1_transcription.txt`), press only, one witness (Contradiction 104). Dr Orange entertained no doubt of insanity. "It is believed that he went out with the intention of drowning himself on the very day that he murdered his children." Mother and aunt insane, great-uncle committed suicide. Elizabeth says twelve months of signs.
 Book section: Part One, Part Two, Part Three
 
 **BMJ — The Walthamstow Murder, 6 October 1883, pp.682-683**

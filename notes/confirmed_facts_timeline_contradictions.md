@@ -90,7 +90,7 @@
 | Was in lift when rope broke; said "Never mind, it goes to the bottom; it will only kill me out of the way" | Skelton, Old Bailey — c.January 1883 |
 | Told Savage he had seen heaven opened, heard voice of God, knew it was only dreaming — NOT given in court | Savage's Lancet letter |
 | Smiled at Ada but made no reply when she spoke to him on arrival | Ada Hamilton, coroner deposition — this detail in no other source |
-| Elizabeth: signs of madness for last 12 months — onset c.October 1882 | BMJ 6 Oct Medical News |
+| Elizabeth: signs of madness for last 12 months (press only: "His wife ... says"; NOT in her statement) | Times 1 Oct (original); BMJ 6 Oct Medical News (copy). See Contradiction 104 |
 | All workmates unanimously believed he was of unsound mind | Workmates' collective letter, Western Daily Press 18 Sep |
 | "The whole feeling of his fellow-workmen is that he is certainly insane" | Kinnaird, Old Bailey |
 
@@ -106,7 +106,7 @@
 | Maternal aunt Mrs Andrews: same condition, suicidal inclinations, ideas of ruin | Sunderland; Savage's Lancet letter |
 | Father's family: second cousin William Gouldstone confined **Brentford** Lunatic Asylum from 21 April 1880, died there after 16 months (corrected 26 July 2026 from erroneous "Brentwood" — primary Old Bailey transcript, verbatim, gives Brentford) | Thomas Gouldstone; Charles Gouldstone (cousin), Old Bailey |
 | Father's family: Thomas's father's sister wore a strait jacket for some years (corrected 8 September 2026 — source is **The Times, 15 September 1883**, not the Old Bailey Session Papers transcript, which omits this line) | Thomas Gouldstone, per The Times |
-| Great-uncle committed suicide | BMJ 6 Oct Medical News; Penny Illustrated 6 Oct — independently corroborated, likely same wire source |
+| Great-uncle committed suicide (press only, one witness) | Times 1 Oct (original); BMJ 6 Oct and Penny Illustrated 6 Oct copy it. NOT independent corroboration (Contradiction 104) |
 | BMJ: insanity "scourged his family for three generations" | BMJ 6 Oct, pp.682-683 |
 
 ---
@@ -120,7 +120,7 @@
 | Monday 6 Aug: Bank Holiday, not at work | Times 15 Sep |
 | Tuesday 7 Aug: absent from work (Graves); at home at noon and at tea time c.6pm (Ada). "Not at home" was Poland's opening speech only — corrected 22 Sep 2026, see Contradiction 39 | Graves, Old Bailey; Ada, coroner deposition; DT 11 Aug |
 | Wednesday 8 Aug: absent from work (Graves); brought Elizabeth her tea early (Elizabeth); Ada did not see him leave; no source places him anywhere until 5.15pm | Graves; Elizabeth's statement, Essex Weekly News 21 Sep; Ada, coroner deposition |
-| BMJ: believed he went out on 8 August intending to drown himself | BMJ 6 Oct Medical News |
+| Believed he went out on 8 August intending to drown himself (press only) | Times 1 Oct (original); BMJ 6 Oct (copy) |
 | Came home at approximately 5:15pm (usual time: 7:15-7:30pm) | Ada, multiple sources |
 | Cord/string present in his hands during the kitchen scene (second kitchen visit, not the first — see sequence below); origin unknown, no source says he arrived with it | Ada, multiple sources, wording varies (string/cord/clothes line — full tally in MASTER_NOTES.md) |
 | "I saw the noose on the string which was loose round the child's neck" — describes the cord as found on Charles's body, after the fact, not before | PC Honey, cross-examination, witness statement |
@@ -218,14 +218,14 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 ### THE TRIAL, 14 SEPTEMBER 1883
 
 - Court: Central Criminal Court (Old Bailey)
-- Judge: Mr Justice Day. Applied McNaughten Rules narrowly. Ridiculed second cousin evidence. Publicly questioned Savage's bona fides from the bench.
+- Judge: Mr Justice Day. Applied McNaughten Rules narrowly. "Ridiculed" the second-cousin evidence and questioned Savage's bona fides: BOTH ARE SAVAGE'S OWN CLAIMS (Lancet; Times letter, 17 Sep: "the Judge ridiculed the importance of a second cousin"), echoed by Sunderland (Times, 22 Sep: "though ridiculed in Court"). Attribute them; the reports of the trial do not say it. The Times does record Day stopping Savage from drawing the conclusion the jury had to draw (Chapter Fourteen skeleton, Findings 3). Corrected 3 Oct 2026.
 - Prosecution: Poland, Montagu Williams
 - Defence: Grain, Elliott
 - Key defence witnesses: Thomas Gouldstone, Robert Gouldstone, Emily Gouldstone, William Graves, Charles Cakebread, Bennett Gouldstone, John Clark, George Skelton, William Henry Westbrook, Howard John Kinnaird, Charles Gouldstone (cousin), John Byford (brother-in-law), Dr Sunderland, Dr Savage
 - Savage examined William for "between a quarter and half an hour" on 13 September, day before trial
 - What the court was not allowed to hear: William had told Savage he had seen heaven opened, heard the voice of God, but "he knew it was only dreaming"
 - Jury absent approximately 15 minutes
-- Verdict: GUILTY. Sentence: death.
+- Verdict: GUILTY (of the one indictment tried, for Charles). Sentence: death.
 
 ---
 
@@ -233,9 +233,11 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 
 - Examining doctors: **Dr Clarke of London** and **Dr Orange of Broadmoor** [Sunday Dispatch 30 Sep] — NOT Dr Gover as BMJ speculated
 - Six or seven hours' examination at Chelmsford [Sunday Dispatch 30 Sep]
-- Dr Orange "entertained no doubt of his insanity" [BMJ 6 Oct Medical News]
+- Dr Orange "entertains no doubt of his insanity" [Times 1 Oct, press only; copied by BMJ 6 Oct Medical News, "entertained"]
+- The examining doctors were "Dr. Clarke and Dr. Orange" [Times 2 Oct: a second source, with the Sunday Dispatch, against the BMJ's Gover]
+- Visited at Chelmsford "this week by his wife and his sister" [Times 6 Oct, press only; the sister not named]
 - Home Office retained depositions (ref. A31638) from 1883 until 2 December 1901 — returned to Central Criminal Court [Home Office Letter, trial-docs]
-- William received news of reprieve "with deep gratitude" [Preston Chronicle 13 Oct]
+- Told on Wednesday 10 October, by the Under Sheriff, Charles Gepp, that the capital sentence would not be carried out; "Gouldstone received it with deep gratitude" [Times 11 Oct; Preston Chronicle 13 Oct]
 - Died 19 January 1935, Broadmoor. 51 years detained (corrected 18 Sep 2026: admission 15 Oct 1883 to death is 51 years, not 52 — the "52" was the Evening Standard's own loose "years since conviction" figure, not a detention count). Age 78.
 
 ---
@@ -362,7 +364,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 15 Mar 1879 | William marries Elizabeth, St Luke's, Hackney. Both of 88 Frampton Park Road | Marriage certificate |
 | 1879-c.1882 | William and Elizabeth lodge with Graves; Charles (GRO M qtr 1880), Herbert (M qtr 1881) and Frederick William (J qtr 1882) born | Graves, Old Bailey; GRO index |
 | c. Sep 1882 | The Gouldstones move to 8 Courtenay Place, Walthamstow (counted back from Emma Clarke's "eleven months") | Emma Clarke, Old Bailey |
-| c. Oct 1882 | The change in William begins, on Elizabeth's own later account ("twelve months", her imprecise figure) | Elizabeth's statement (Essex Weekly News, 21 Sep 1883); BMJ 6 Oct |
+| c. Oct 1882 | The change in William begins, on a press report of what Elizabeth said ("His wife ... says that he has shown signs of madness for the last 12 months"). NOT in her statement as held (Essex Weekly News, Dundee Courier, Western Daily Press): corrected 3 Oct 2026 (Contradiction 104) | Times 1 Oct (original); BMJ 6 Oct (copy) |
 | 20 Dec 1882 | Robert Gouldstone, William's uncle, dies at Queens Road, Walthamstow | GRO death certificate, entry 432 |
 | c. Jan 1883 | Lift rope breaks at the Falkirk Ironworks; William's suicidal statement to Skelton | Skelton, Old Bailey |
 | 1 Jun 1883 | Ada Hamilton has "known prisoner since 1st June"; with her sworn "about ten weeks" in the house, the Hamiltons came to lodge on or about 1 June. Not "7 June" (Contradiction 58) | Ada, deposition 18 Aug (image 0011); Old Bailey |
@@ -375,7 +377,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 6 Aug (Mon) | Bank Holiday; not at work | Times 15 Sep |
 | 7 Aug (Tue) | Absent from work; at home at noon, when he seemed to Ada as if he had been crying, and at tea time, about six, "perfectly calm". "Did not remain at home" is Poland's speech, not evidence (Contradiction 39) | Graves; Ada (DT 11 Aug; coroner deposition) |
 | 8 Aug (Wed), early | Brings Elizabeth her tea, as every morning since the birth; Ada does not see him leave; absent from work; placed nowhere until 5.15pm | Elizabeth's statement; Ada; Graves |
-| 8 Aug, during the day | "It is believed that he went out with the intention of drowning himself" — unattributed in the source | BMJ 6 Oct, Medical News |
+| 8 Aug, during the day | "it is believed that he went out with the intention of drowning himself on the very day that he murdered his children": unattributed, press only | Times 1 Oct (original); BMJ 6 Oct, Medical News (copy) |
 | 8 Aug, c.5.15pm | William comes home, two hours early | Ada, coroner deposition |
 | c.5.15-5.40pm | The murders (sequence in Part One) | Ada; the confession; the pathology |
 | c.5.35-5.45pm | Emma Clarke calls the police in St James's Street; Twining arrives; Ada and Emma see the three boys in a row with William and Twining present (order: Contradiction 29) | Ada, witness statement; Emma Clarke; Cheeseman |
@@ -416,9 +418,12 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 22 Sep | BMJ's first article (pp.584-585); Savage's Lancet letter of 14 Sep published | BMJ; Lancet |
 | 26 Sep | Execution respited from 1 to 8 October, pending a medical inquiry | Guardian 26 Sep |
 | 30 Sep | Dr Clarke and Dr Orange have examined William (six or seven hours) | Sunday Dispatch 30 Sep |
-| 3 Oct (Wed) | Home Office letter advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Contradiction 80). Confirmed by Rik, 30 Sep 2026. The day the Sheriff was told ("Wednesday", Preston Chronicle) may be the 3rd or the 10th | Daily News 6 Oct |
-| 6 Oct | BMJ Medical News and editorial (pp.682-683); Penny Illustrated | BMJ; Penny Illustrated |
-| 13 Oct | Certified of unsound mind; to be removed to Broadmoor | Preston Chronicle 13 Oct |
+| 1 Oct (Mon) | The day first fixed for the execution. The Home Secretary signifies to the Sheriff that the sentence is respited "until further signification of Her Majesty's pleasure", after Clarke and Orange's report (Contradiction 105). The same morning the Times prints that Orange "entertains no doubt of his insanity" (press only) | Times 2 Oct; Times 1 Oct |
+| 3 Oct (Wed) | Home Office letter to the employers' solicitor advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Contradiction 80). Confirmed by Rik, 30 Sep 2026. The Preston Chronicle's "Wednesday" is the 10th, not the 3rd (Times 11 Oct; Contradiction 105) | Daily News 6 Oct; Times 6 Oct (same letter) |
+| 6 Oct | BMJ Medical News (a copy of the Times paragraph of 1 Oct) and editorial (pp.682-683); Penny Illustrated (same paragraph). Times: visited "this week by his wife and his sister" | BMJ; Penny Illustrated; Times 6 Oct |
+| 10 Oct (Wed) | The Sheriff receives the Home Office communication that William has been certified of unsound mind and is to go to Broadmoor; the Under Sheriff, Charles Gepp, tells him the capital sentence will not be carried out (Contradiction 105) | Times 11 Oct; Preston Chronicle 13 Oct |
+| 12 Oct | Graves acknowledges £35 14s. 4d. subscribed for the defence, "insufficient to meet the bare expenses of the trial", so no provision for "the poor woman". His letter of 11 Oct rounds it to £36 against £50 paid | Times 12 Oct; Guardian 20 Oct |
+| 13 Oct | (Superseded 3 Oct 2026: the certification was received on Wednesday 10 October; the Preston Chronicle of the 13th reports it) | Preston Chronicle 13 Oct |
 | 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct; 1935 inquest papers ("admitted here on 15 October 1883 from Chelmsford Prison") |
 | 18 Oct | Cole tried before Denman; convicted; later reprieved | Old Bailey t18831015-964 |
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
@@ -460,6 +465,69 @@ prose, and again if this table is more than a few weeks old when read (carried o
 
 ## PART THREE: OUTSTANDING CONTRADICTIONS
 
+### STATUS OF EVERY NUMBERED ENTRY (reviewed 3 October 2026, Rik: "we seem only ever to add to it")
+Read this table first. **SETTLED** means the documents decide it and the line given is now a fact; the entry below
+stays as the working. **DECIDED** means the evidence is still divided but Rik has chosen what the prose says.
+**OPEN** means neither. **PRESS** means a single press witness, usable only as press. Settled entries are not to be
+reopened without a new document.
+
+| No. | Status | The fact, or what is open |
+|---|---|---|
+| 1 | DECIDED | William's words at the door vary across sworn accounts; Chapter Seven gives Emma's "You can come in. It is all done.", then "I am not a wicked man. I am a happy man." and the cistern line. |
+| 2 | **SETTLED 3 Oct** | William took Frederick to the kitchen. Every source agrees, the coroner deposition included: "Wm Gouldstone then took this Child up" (image 0028; the transcription had "Mr"). There was never a contradiction. |
+| 3 | SETTLED / PRESS | Ada noticed the chair and asked who put it there (sworn). Her moving it back is one reporter's text (Telegraph, Times, Western Times, 10-14 Aug): press only. |
+| 4 | **SETTLED 3 Oct** | Two facts, not a conflict: Emma swore at the inquest that she had heard Elizabeth say she wished the children dead, when worried, to the children, not in earnest; Ada swore she never heard her say it. |
+| 5 | **SETTLED 3 Oct** | William said he had had an extra drop of drink; Cheeseman, Folkard, Wheatley and Ada (coroner deposition, "perfectly sober") observed none. Both are facts. |
+| 6 / 96 | OPEN | Emma's drink evidence: twice (inquest) against not that week (trial). |
+| 7 / 51 | DECIDED | Attendance: no number in our voice; any figure as a named paper's. |
+| 8 / 53 | **SETTLED 3 Oct** | Height 5ft 4in on every text that gives a figure (IPN, Guardian 11 Aug "not more than", Essex Weekly News, Times 10 Aug "about 5ft. 4in. or 5ft. 5in."); the Guardian's "5ft. 6in." of 22 Sep is a compositor's slip. Nobody's measurement; use lightly. Entry 8's "5ft 6in working figure" is withdrawn. |
+| 9 | **SETTLED 3 Oct** | Age at death 78 (born 10 Oct 1856, birth certificate; died 19 Jan 1935). |
+| 10, 12-14, 16-18, 23, 29 | SETTLED | As their headings say. |
+| 11 | OPEN (closed by Rik) | Thomas Stock's first wife; not pursued. |
+| 15 | SETTLED (held loosely) | Emily born 1830 (baptism 26 Dec 1830). |
+| 19 | OPEN | "Cock Inn", 1851. |
+| 20 | **SETTLED 3 Oct** | The second examining doctor was Dr Clarke: Sunday Dispatch 30 Sep and the Times 2 Oct ("Dr. Clarke and Dr. Orange"), both contemporary; the 1917 obituary's Gover is a conflation with Cole. |
+| 21 / 58 | SETTLED | Ada had known William since 1 June 1883 (sworn); the Daily News "three weeks" is one press figure. |
+| 22 | OPEN | Thursday (Emma, inquest) and Friday (Ada): two sightings, now complicated by 96. |
+| 24 | DECIDED | Three sworn versions of Charles's words; the prose uses "My daddy put it there." |
+| 25 | **SETTLED 3 Oct** | William's own words, the only sworn direct quotation: "I left my situation whilst the manager went to dinner and came home." (witness statement, manuscript). The rest are paraphrases. |
+| 26 | SETTLED | Elizabeth's second question, "Didn't you tell Mr. Graves?", Old Bailey; an addition, usable. |
+| 27 | DECIDED / OPEN | Prose: he watches his hands. Evidence on where he looked: open. |
+| 28, 34, 37, 38, 40, 56, 62-66, 71, 86 | DECIDED | As recorded in each. |
+| 30 | **SETTLED 3 Oct** | Nobody noticed the hammer until a constable asked; Ada found it after William had left the bedroom for the last time, behind the door near the dressing table, and gave it to Cheeseman. Open only: how Cheeseman, who left with William, received it. |
+| 31 | **SETTLED 3 Oct** | The first twin (struck at the back of the head) died in Ada's arms after Gould's first visit (about six) and before he returned shortly after eight. |
+| 32 | **SETTLED 3 Oct** | The boys lay in a row on their backs about the centre of the floor (Gould's deposition, agreeing with Ada on Frederick); "on their faces" (Old Bailey) is isolated. |
+| 33 | **SETTLED 3 Oct** | Not a contradiction: tea set out at five (Ada, sworn) and "no provisions of any kind" (Cheeseman, as the IPN reports his sworn answer) describe different things. |
+| 35 | SETTLED | The coins: a two-shilling piece or a half-crown, a shilling and two pennies (Cheeseman, who counted them); 3s. 2d. or 3s. 8d. Ada's "3s. 4d." cannot be made from those coins. |
+| 36, 39, 45, 46, 47, 48, 55, 57 (date), 59, 61, 68, 69, 74 | SETTLED | As recorded in each. |
+| 41 | SETTLED / OPEN | Charged about eight (two against one); the time he went into the cell is open. |
+| 42 / 52 | SETTLED (Rik) | The grave was ten feet deep. |
+| 43 | SETTLED | The 1935 papers are not evidence about 1883. |
+| 44 | SETTLED | The inquest resumed on the afternoon of Monday 13 August. (Board room or lodge: resolved 23 Sep, see that section.) |
+| 49 | DECIDED | The throat gesture: the papers given against each other (Chapter Ten). |
+| 50, 54, 73, 85, 87, 88, 92 | OPEN | As recorded. |
+| 60, 70 | PRESS | Twining "very ill"; the newspaper cutting. |
+| 67, 72, 75, 76, 77, 78, 79, 81-84 | RECORDS | Not contradictions; new facts, logged. |
+| 80 / 105 | **SETTLED 3 Oct** | Respite made indefinite Monday 1 Oct; Home Office letter to the solicitor Wednesday 3 Oct; certificate of unsound mind received and William told Wednesday 10 Oct. |
+| 89 | SETTLED | Elizabeth's age understated in every record after 1883. |
+| 90 | SETTLED | Albert entered the navy on 11 November 1901. |
+| 91 | PART SETTLED | Lily Alma Rose settled; the other dates want certificates. |
+| 93 | OPEN | After the verdict: "replied in the negative" (Times) or "I am not guilty." (Essex Weekly News). |
+| 94 | SETTLED | The Act was before the court three times: Grain's opening, Poland handing it up, Day's direction. |
+| 95 | **SETTLED 3 Oct** | Savage examined William on Thursday 13 September. |
+| 97 | **SETTLED 3 Oct** | William was 26 at the trial. |
+| 98 | SETTLED | The opening is counsel's wording; Ada's own evidence governs. |
+| 99 | OPEN (ranked) | Day's direction: the Times's text preferred (fullest; Clark Bell agrees); the others recorded. |
+| 100, 101 | OPEN | The plea on the Friday; when Thomas last saw William. |
+| 102 | DECIDED (Rik) / OPEN | Prose: "string". Evidence: "white twine" (the exhibit, Times reporter) or "clothes line" (Ada once, sworn), open. |
+| 103 | **SETTLED 3 Oct** | "He said nothing" in the kitchen is William. |
+| 104 | **SETTLED 3 Oct** | The 1 October paragraph is one press witness; "twelve months" is not in Elizabeth's statement. |
+| 106 | SETTLED for prose | One kiss, with "Good bye" (both sworn accounts); the Times copy's second kiss is press. |
+| 107, 108, 110 | LOGGED | Minor press differences; chapters follow their named papers. |
+| 109 | **SETTLED** | = Contradiction 45: 3.30 p.m. (deposition). The Times and Morning Post "3.40" is one press figure. |
+| 111 | RECORDS | New facts from the Times of 10 August. |
+| 112 | **SETTLED 3 Oct** | Compatible: "about five years" (Graves) and "four years and a half" (the workmen's letter). |
+
 ### 1. WILLIAM'S WORDS ON OPENING THE BEDROOM DOOR
 Multiple sworn versions:
 - **Ada's coroner deposition (10 Aug):** *"I am not a wicked man. I am a happy man."*
@@ -477,7 +545,9 @@ Multiple sworn versions:
 - **Ada's coroner deposition (10 Aug — earliest):** Elizabeth took Frederick
 - **Ada's formal witness statement and all other sources:** William took Frederick
 
-**Assessment:** Witness statement was sworn 9 August — actually earlier than the coroner deposition of 10 August. Both primary documents disagree. All subsequent testimony says William. Working assumption: William took Frederick. The coroner deposition discrepancy is real but isolated.
+**SETTLED 3 October 2026: there is no contradiction.** The coroner deposition, read from the image (0028, folio 27), says "She then had her little boy Frederick on the foot of the bed. Wm Gouldstone then took this Child up and took it into the Kitchen." "She" is Elizabeth holding him; William takes him. The transcription had "Mr Gouldstone", and this entry misread the first sentence. Every source agrees: William took Frederick. The original assessment follows, superseded.
+
+**Assessment (superseded):** Witness statement was sworn 9 August — actually earlier than the coroner deposition of 10 August. Both primary documents disagree. All subsequent testimony says William. Working assumption: William took Frederick. The coroner deposition discrepancy is real but isolated.
 
 ---
 
@@ -517,13 +587,22 @@ Two separate claims here, not to be conflated:
 - **Old Bailey transcript (trial, authoritative):** Emma — "I only saw him once the worse for drink; that was on the Friday after the babies were born." One occasion, not two, dated to the Friday rather than the Monday, but drink is still confirmed.
 - **Times, 15 Sep (trial-day newspaper summary):** "She never saw him the worse for drink." Directly contradicts both the inquest reports and the Old Bailey transcript itself.
 
-**Assessment:** The Old Bailey transcript is the authoritative source and confirms Emma did see William drunk once. The Times' trial-day account reads as a compression error by the paper, not a genuine reversal in Emma's own sworn evidence — but it should be flagged rather than silently resolved, since it's a real conflict between two accounts of the same hearing. Found 14 September 2026.
+**CORRECTED 3 October 2026 (Contradiction 96): the Old Bailey answer quoted above is ADA's, not Emma's.** It stands in
+Ada's examination ("I only saw him once the worse for drink; that was on the Friday after the babies were born, after he
+came home"). Emma at the Old Bailey: "I had not about this time or any time that week seen the prisoner the worse for
+drink", which the Times compresses to "She never saw him the worse for drink". So the Times is not in error against
+the Old Bailey: Emma's inquest evidence (twice) and her trial evidence (not that week) are the conflict. The original
+assessment below is superseded.
+
+**Assessment (superseded):** The Old Bailey transcript is the authoritative source and confirms Emma did see William drunk once. The Times' trial-day account reads as a compression error by the paper, not a genuine reversal in Emma's own sworn evidence — but it should be flagged rather than silently resolved, since it's a real conflict between two accounts of the same hearing. Found 14 September 2026.
 
 ---
 
 ### 7. FUNERAL ATTENDANCE
 - **Dover Express:** 1,500
 - **Morning Post:** "several hundred"
+- **Walthamstow and Leyton Guardian, 18 August:** "it is computed that over 1,000 persons were" present
+- **The Times, 14 August (added 3 October 2026):** "Over 1,000 persons were present at the funeral", stated outright
 
 **Assessment:** Irreconcilable. Neither confirmed. Both versions in play.
 
@@ -533,7 +612,7 @@ Two separate claims here, not to be conflated:
 - **IPN 18 Aug:** "not more than 5ft 4in"
 - **Essex Weekly News:** 5ft 6in (prison admission measurement)
 
-**Assessment:** Prison measurement more reliable. **5ft 6in is the working figure.**
+**Assessment (WITHDRAWN 3 October 2026; see 53 and the status table):** ~~Prison measurement more reliable. 5ft 6in is the working figure.~~ The Essex Weekly News reads 5ft 4in; the 5ft 6in is the Guardian's misprint of the same paragraph. 5ft 4in.
 
 ---
 
@@ -870,7 +949,7 @@ copy. Still one press witness; both page images checked. See the Guardian sectio
 
 ---
 
-### 28. "YES, DO, MY DEAR" — THE ONE PRESS-TIER QUOTATION IN CHAPTER SEVEN
+### 28. "YES, DO, MY DEAR", AND ADA'S QUESTION — THE TWO PRESS-TIER QUOTATIONS IN CHAPTER SEVEN
 Elizabeth's reply when Ada offered to leave the room, so that William could speak to her privately, appears in newspaper reports of the magistrates' hearing and nowhere else.
 
 - **Illustrated Police News, Daily Telegraph, Western Times** (all reporting Ada's sworn evidence at Stratford Petty Sessions), consistently: Ada, *"Shall I leave the room a minute; perhaps Mr Gouldstone wants to speak to you?"* — Elizabeth, *"Yes, do, my dear."*
@@ -883,6 +962,25 @@ Elizabeth's reply when Ada offered to leave the room, so that William could spea
 **Note, 21 September 2026 (late):** the new "press as press" rule (MASTER_NOTES, final session section) does not change this entry. That rule covers newspapers quoted AS newspapers, attributed in the prose. This line is different: a press report of sworn evidence used, unattributed, as dialogue inside a scene. Such lines stay logged here, one by one.
 
 It is kept because it is the last ordinary thing Elizabeth says before the attack, and because the offer it answers is itself important: leaving the room was ADA's suggestion, not William's request. The wire dispatch has this backwards, with William telling Ada to leave the house so he could discuss the doctor's fee with his wife. Nobody asked her to go.
+
+**Changed 3 October 2026 (Rik): Ada's question now quoted too.** Chapter Seven, Scene 6, had quoted Elizabeth's reply
+from the press report while paraphrasing the question it answers from the same report, the line before ("Ada took it
+that he might be wanting to speak to his wife alone, and offered to leave the room a minute"). Nothing recorded a
+reason for the difference. It now reads: "Shall I leave the room a minute?" Ada said to Elizabeth. "Perhaps Mr
+Gouldstone wants to speak to you." Same tier, same report, logged here with the reply: TWO press-tier lines in the
+chapter now, not one. The wording follows the Daily Telegraph of 10 August (capital "Perhaps"); the Times of 10 August
+(added 3 October 2026) has "Shall I leave the room a minute? perhaps Mr. Gouldstone wants to speak to you;" and "Yes,
+do my dear." The Telegraph, the Times and the Western Times print one reporter's text (the Times fullest), and the
+Walthamstow and Leyton Guardian of 11 August prints the same exchange: the word "consistently" above should not be read
+as independent corroboration. The Prologue keeps reported speech (the 20 September decision, unchanged).
+
+**Two more press-tier lines, 3 October 2026 (Rik, DECIDE 22 and 24): FOUR in Chapter Seven now.** (3) Elizabeth, after
+Ada has covered the babies: "He says he has killed the other three children," ... "Go and see, will you?" (Ada's
+evidence of 9 August, Times and Daily Telegraph, one reporter's text; Ada's coroner deposition has it in reported
+speech: "In consequence of Mrs Gouldstone asking me to see after the other 3 children"). (4) Ada, returning to the
+bedroom before the bed is remade: "Now, I'll make your bed if you get out." (Ada at the inquest, 10 August, Daily News
+and Evening News of 11 August, one reporter's text; no sworn document has it). "Open the door." (DECIDE 23) was NOT
+used. The chapter's sworn additions of the same day are logged in MASTER_NOTES (session of 3 October 2026).
 
 ---
 
@@ -1346,7 +1444,11 @@ of the transcript for the Act's wording finds nothing." It was mentioned. Waltha
 
 > "His lordship, in conclusion, explained to the jury that, by the provisions of a recent Act of Parliament,
 > if they found that the prisoner was insane at the time he committed the act, they would have to return a
-> special verdict finding that the prisoner did commit the offence, but that he was insane at the time."
+> special verdict stating that the prisoner did commit the offence, but that he was insane at the time."
+
+**Corrected 3 October 2026:** the image reads "stating", not "finding" (transcription corrected). And the Times of
+15 September DOES carry the direction, with the Act handed up by Poland to a judge who "was not previously aware" of
+it; Grain had cited it in opening (Essex Weekly News). See Contradiction 94.
 
 **The jury retired at twenty minutes past five and were absent about a quarter of an hour** (same report;
 the Daily Chronicle independently says "fifteen minutes' consideration"). So the new verdict was explained
@@ -1410,7 +1512,8 @@ reads as "in the family".
    but this was not brought out in evidence, that he had very bad dreams and had seen heaven opened and had
    heard the voice of God, but, he added, he knew it was only dreaming", the double hernia, and the extra
    drink taken to fit himself for the crime.
-2. **The Times, dated 15 September** (new, via the Guardian) — for the public, arguing for further
+2. **The Times, dated 15 September** (new, via the Guardian; the Times original, 17 September, now held and checked,
+   3 October 2026: `transcribed/The_Times_17_Sep_Savage_letter_transcription.txt`) — for the public, arguing for further
    investigation, and it reports that "**the Medical Officer to the House of Detention told me he
    considered him to be suffering from melancholia**". That is a second doctor's opinion, before Orange and
    Clarke, and it is new to the project.
@@ -1421,6 +1524,9 @@ reads as "in the family".
 Do not treat any of the three as the same letter.
 
 ### A JURYMAN FROM THE TRIAL WROTE TO THE PRESS
+**Now held as printed (3 October 2026): Daily Telegraph, 17 September, page 3** (`transcribed/Daily_Telegraph_17_September_1883_Transcription.txt`),
+where the Telegraph reads "distinctly stated 'No'" (the Guardian's reprint has "said") and the juror ends "in regard of
+your leading article of to-day" (the Telegraph leader of 15 September), which the Guardian drops.
 Signed "ONE OF THE JURY", Tottenham, 15 September, the day after the verdict. He explains what the jury
 took from Savage's evidence: that Savage, asked by Poland whether he would certify the prisoner insane,
 "distinctly said 'No'". The Daily News treats this letter as representing the view of the rest of the jury,
@@ -2966,6 +3072,10 @@ decided and communicated on Wednesday 3 October 1883.** The DO NOT USE entry "3 
 be withdrawn and replaced with the source. **CONFIRMED by Rik, 30 September 2026. DO NOT USE entry withdrawn.** Also new: the employers had a solicitor, who forwarded
 "the applications" (plural); unnamed.
 
+**REVISED 3 October 2026 (Contradiction 105).** The letter of 3 October stands. But the recommended reading above
+("decided and communicated on Wednesday 3 October") does not: the Times shows the respite made indefinite on Monday
+1 October, and the Sheriff's "Wednesday" was the 10th. See 105.
+
 ### 61. RESOLVED: THE SECOND MAGISTRATE ON 18 AUGUST WAS ARTHUR LISTER
 Daily News, 20 August, page 6: "Mr. Nathaniel Powell (the Chairman) and Mr. Arthur Lister were the magistrates."
 
@@ -3056,3 +3166,177 @@ Against her birth certificate (18 February 1855): 1879 marriage 24 (correct); 18
 - **Claude's first reading of the image, 2 October 2026:** 35, which would fit the naval record's false birth date (19 June 1886) exactly on census night, 19 June 1921. Withdrawn as a settled reading.
 - **The image, zoomed:** the second digit has a hooked top and a closed lower bowl. It is not the same form as the "6" in Lily's age on the same page. It could be a 5 or an 8; the closed bowl favours 8, the hooked top 5.
 **Assessment:** unresolved. Do not use the "35 on his false birthday" coincidence anywhere until the digit is settled; compare other 5s and 8s in Albert's own hand if any can be found (the form is in his hand: he signed it). True age on census night: 33 (turning 34 the next day).
+
+---
+
+## THE TIMES AND THE DAILY TELEGRAPH, UPLOADED BY RIK AND TRANSCRIBED 3 October 2026
+Sixteen images in `sources/images/Media-coverage/to-transcribe/`, each transcribed from the image (header records the
+one check): the Times of 9, 10 and 14 August, 11, 15 (leader), 17, 19 (Tallack), 22 and 26 September, 1, 2, 6, 11 and
+12 October; the Daily Telegraph of 15 and 17 September. Compared sentence by sentence against every report already
+held and against the sworn documents. Contradictions 93 to 101 were proposed in `notes/CHAPTER_14_skeleton.md` the
+same day and are entered here with the rest.
+
+**Shared copy, for the list in live_lists.md section 6:** the Times, the Daily Telegraph and the Western Times reports
+of the first Stratford hearing (9 August) are ONE reporter's text, the Times printing it most fully; the Daily
+Telegraph's trial report (15 September) is the same agency text as the IPN and the Guardian of 22 September from the
+summing-up on; the Times's 9 August item is a fourth wording of the wire dispatch (count it with the wire); the Times's
+inquest report of 14 August is its own (not the Morning Post's); the Times of 6 October prints the same Home Office
+letter as the Daily News; the paragraph of 1 October is the Times's, and the BMJ and Penny Illustrated of 6 October
+copy it.
+
+### 93. AFTER THE VERDICT
+"The prisoner replied in the negative" when asked why sentence should not be passed (Times, 15 September) against
+"The Prisoner: I am not guilty." (Essex Weekly News, 21 September). Both images checked 3 October 2026. Not in the Old
+Bailey account; the Daily Telegraph's agency report is silent. One moment summarised two ways, or two moments.
+Unresolved.
+
+### 94. THE TRIAL OF LUNATICS ACT AT THE TRIAL: THREE MOMENTS
+Grain cited it in his opening (Essex Weekly News); Poland handed it to Day, who "was not previously aware" of it, "as
+no notice had been given to him" (Times); Day's direction on the special verdict (Times; Guardian/IPN/Daily Telegraph
+agency copy, "stating that"). The Old Bailey account is silent. Supersedes part_three_context_law_and_medicine.md
+section 3 and the "RESOLVED" block above, where they say the Times does not mention it.
+
+### 95. SAVAGE'S INTERVIEW: THURSDAY OR SATURDAY
+Old Bailey "yesterday" and then "on Saturday"; Times "on Thursday" and "yesterday"; the juror "on the Thursday"
+(Daily Telegraph, 17 September). Thursday 13 September. The Old Bailey "Saturday" is a slip.
+
+### 96. EMMA CLARKE'S DRINK EVIDENCE: INQUEST AGAINST TRIAL
+Inquest: twice, the Bank Holiday and the Thursday after the birth (Daily Telegraph and Times, 11 August; coroner
+deposition). Trial: "I had not about this time or any time that week seen the prisoner the worse for drink" (Old
+Bailey); "She never saw him the worse for drink" (Times). Supersedes Contradiction 6, which gave Ada's Old Bailey answer
+to Emma (corrected there).
+
+### 97. WILLIAM'S AGE AT THE TRIAL
+26 (Old Bailey; Times; Essex Weekly News, image, where our transcription had read 24); 25 (IPN and Daily Telegraph,
+one agency text). 26 is right (birth certificate, 10 October 1856).
+
+### 98. THE DOOR LINE IN POLAND'S OPENING
+"I have killed the children and I am happy now" (Poland, Times; repeated in the Times leader) against Ada at the same
+trial, "No, I am a happy man". The opening is counsel's; it matches Ada's witness statement of 9 August more nearly
+than her own evidence that day.
+
+### 99. DAY'S DIRECTION, FOUR VERSIONS
+Times (and Bucknill, BMJ 15 March 1884, copying it word for word): knew "the nature and quality of the act ... and
+knew that he was doing wrong". Guardian/IPN/Daily Telegraph agency copy: not "sane or insane" but whether he knew
+"that he was killing his children, or that he was not doing wrong". Essex Weekly News: the nature and quality only.
+The foreman's card (Clark Bell only): sound mind before, knew "the nature of that deed and the penalty it involved",
+sound mind after. Clark Bell prefers the Times.
+
+### 100. THE PLEA ON THE FRIDAY
+IPN: "on being placed in the dock ... pleaded 'Not guilty' in a calm voice". Essex Weekly News: "who had previously
+pleaded 'Not Guilty'". Times: "The prisoner pleaded 'Not Guilty.'" The plea was taken on the Wednesday (Guardian,
+15 September). Whether it was repeated on the Friday, for the indictment for Charles, is not settled.
+
+### 101. WHEN THOMAS LAST SAW WILLIAM
+"Just after Christmas, at my place at Stamford Hill—I was living there then" (Old Bailey, re-examined) against "about
+eight weeks ago" (Times). A London address for Thomas in the winter of 1882-83 is not in dramatis_personae.md.
+
+### 102. THE CORD: "WHITE TWINE" OR "CLOTHES LINE"
+- **Ada, witness statement, 9 August (sworn):** "a piece of string".
+- **Ada at the first Stratford hearing, 9 August, as the Times reports her (10 August):** "He had a piece of string in
+  his hand. I have seen it since. It was similar to the piece produced now by Inspector Foulkard", and the reporter
+  describes the object in court: "(a piece of white twine such as is used by tradesmen to tie up small parcels)".
+- **Ada, coroner deposition, 10 August (sworn):** "a piece of clothes line ... The piece produced is either the same or
+  similar to it."
+- Later accounts: string, cord, twine (MASTER_NOTES, the cord note).
+**Assessment.** MASTER_NOTES chose "clothes line" as "the earliest description, checked against the physical exhibit
+itself". That premise is wrong: the earliest description of the exhibit is the Times reporter's, a day earlier, and
+it is "white twine"; Ada's own earliest sworn word is "string". The reporter's parenthesis is press, but it describes
+the object, not anyone's evidence. Ada swore "clothes line" once, with the object before her. Not resolvable; the
+"already there, a washhouse clothesline" inference in MASTER_NOTES loses its footing. **DECIDED 3 October 2026 (Rik,
+DECIDE 17): "string" in the Prologue and Chapter Seven** (Ada's own earliest sworn word, her Old Bailey word, and
+Cheeseman's, Gould's and Honey's; and consistent with the reporter's description of the exhibit). The evidence stays
+open as above.
+
+### 103. THE KITCHEN: "HE SAID NOTHING" IS WILLIAM
+Times, 10 August: "By this time a gentleman—a chemist—was there, and the prisoner was also in the kitchen. He said
+nothing, and no one spoke to him." The Daily Telegraph's copy drops "and the prisoner was also in the kitchen", which
+left "He said nothing" ambiguous. The Times settles that it is William. Chapter Eight already reads it so.
+
+### 104. THE PARAGRAPH OF 1 OCTOBER: ONE WITNESS, AND THE SOURCE OF "TWELVE MONTHS"
+The Times of Monday 1 October: "[We understand that D]r. Orange ... entertains no doubt of his insanity. His mother and
+aunt were both insane, and his great uncle committed suicide. He himself appears to have had a suicidal mania, and it
+is believed that he went out with the intention of drowning himself on the very day that he murdered his children.
+His wife, who is a very respectable young woman, says that he has shown signs of madness for the last 12 months."
+(The opening words are hidden on the clip by the archive's label.) The BMJ Medical News of 6 October ("It is
+understood that...") and the Penny Illustrated of 6 October print the same paragraph.
+**Assessment.** One witness, a newspaper's unattributed "we understand" and "it is believed". MASTER_NOTES's
+"independently corroborated twice" is wrong. "The morning of the murders" is not in it ("on the very day").
+**Elizabeth's "twelve months" exists only here.** It is not in her statement as held (Essex Weekly News; Dundee
+Courier; Western Daily Press), although the timeline row for c. October 1882 cited her statement (corrected). Chapter
+Six stated it as what Elizabeth would say, unattributed. **DECIDED 3 October 2026 (Rik, DECIDE 18): Chapter Six now
+names the paper:** "In October the Times would report that his wife said he had shown signs of madness for the last
+twelve months. Counted back, it put the start barely a month after they moved in."
+
+### 105. THE REPRIEVE: THREE DATES, NOT ONE
+- **Monday 1 October** (Times, 2 October, "yesterday"): the Home Secretary signified to the Sheriff "the Queen's command
+  that the execution of the sentence of death ... be respited until further signification of Her Majesty's pleasure",
+  "in consequence of the report made ... by Dr. Clarke and Dr. Orange, who last week had an interview with the convict".
+- **Wednesday 3 October**: the Home Office letter to the employers' solicitor (Daily News and Times, 6 October, one text).
+- **Wednesday 10 October** (Times, 11 October, "Yesterday morning"): the High Sheriff received word that William "had
+  been certified to be of unsound mind" and would go to Broadmoor, and that "it might be intimated to Gouldstone that
+  the capital sentence would not be carried out"; the Under Sheriff, Charles Gepp, told him "shortly after the receipt
+  of the letter, and Gouldstone received it with deep gratitude". This is the Preston Chronicle's "Wednesday".
+**Assessment.** Contradiction 80's recommended reading ("decided and communicated on 3 October") is superseded. The
+key dates in the project document (the letter of 3 October) are unaffected.
+
+### 106. THE KISS: ONCE OR TWICE
+Times, 10 August (Ada, 9 August): "While in the room with his wife, the prisoner kissed her and he said, 'All the
+children are dead now ...' He then kissed his wife." The Daily Telegraph's copy has the second kiss only. Ada's two
+sworn documents and Cheeseman at the Old Bailey have one, with "Good bye". Chapter Eight follows the sworn accounts.
+
+### 107. WHO READ LYLE'S LETTER
+"Mr. Lewis requested Dr. Lyle to read it. He did so" (Times, 14 August) against Lyle "desired should be read by Mr.
+Lewis. The doctor read" it (Morning Post). Chapter Eleven follows the Morning Post. Both end with Lyle reading it.
+
+### 108. THE FUNERAL BROUGHT FORWARD: "AT THE REQUEST" OR "WITH THE APPROVAL" OF THE MOURNERS
+Guardian, 18 August: "altered at the request of the mourners". Times, 14 August: "it was determined, with the approval
+of the mourners, to inter the children three hours earlier", "in order to prevent the assemblage of a large crowd".
+Chapter Eleven has "at the request of the mourners".
+
+### 109. GOULD'S POST-MORTEM: 3.30 OR 3.40
+Coroner deposition: 3.30 p.m. Times, 14 August: "3 40 p.m.". Press slip; the deposition governs. **Already settled at Contradiction 45**, where the Morning Post has the same "3.40": the Times and the Morning Post share this figure, one press witness.
+
+### 110. BLYTHE'S DEFENCE AT THE INQUEST: A SECOND VERSION
+Times, 14 August: "whatever he said he thought he had said to soothe her", and asked whether he had used the
+observations in Lyle's letter, "he said he could not say he had not". Lyle, on the same occasion: "the question was
+whether they would not have to view the body of Mrs. Gouldstone". The letter, in the Times's words: "it was no use for
+her to screen her husband as she was doing, because the jury had made up their mind on the subject, they being
+determined he should not escape", and "that she had driven her husband to it through jealousy"; the letter was
+marked "Not private". Compare the Guardian ("His visit was of a kindly nature") and the Morning Post (Chapters Ten and
+Eleven).
+
+### 111. NEW AT THE FIRST STRATFORD HEARING (Times, 10 August; one reporter's text with the Telegraph)
+- Ada "Examined by Mr. Wells, the clerk of the Court".
+- On the chair: "When I noticed the chair under the cistern, of course I did not think of anything of this sort."
+  Not in any other report.
+- "I did not hear the prisoner charged by the police."
+- When first apprehended he was charged "with assaulting the two infants".
+- Height "about 5ft. 4in. or 5ft. 5in."; the twins "unchristened or named".
+- Lister to Ada as she left the box: "she had given her evidence well, adding that it was a painful position for her
+  to be in."
+- "Shall I leave the room a minute? perhaps Mr. Gouldstone wants to speak to you;" and "Yes, do my dear." (Contradiction
+  28; now quoted in Chapter Seven).
+
+### 112. THE WORKMEN: "FOUR YEARS AND A HALF"
+The workmen's letter (Daily Telegraph, 17 September, dated 15 September): "the intimate daily intercourse we have had
+with him during the last four years and a half". Graves at the Old Bailey: "about five years ago". Compatible: Graves's
+figure is approximate, and c. Oct/Nov 1878 to August 1883 is nearer four years and nine months.
+
+### OTHER ITEMS FROM THE SAME PAGES (no contradiction)
+- **Elizabeth visited William at Chelmsford** in the first week of October, with his sister (Times, 6 October; the
+  sister not named). Press only.
+- **The Leamington ten pounds**: "WALTHAMSTOW MURDER.—Wm. Graves, for himself and fellow workmen, begs most gratefully
+  to ACKNOWLEDGE the RECEIPT of TEN POUNDS, sent anonymously from Leamington for the defence of William Gouldstone.—67,
+  Upper Thames-street, 10th Sept., 1883." (Times, 11 September, front page.)
+- **The total**: £35 14s. 4d. (the shillings confirmed by Graves's "£36" for the same total), "insufficient to meet the bare expenses of the trial", so "no
+  provision can be made for the poor woman who has lost her five children" (Times, 12 October). Agrees with Graves's
+  £36 of 11 October.
+- **Sunderland's letter** (Times, 22 September): the jury took Savage's "No" on certifying to mean he did not think
+  William insane, "whereas Dr. Savage's opinion was that he was insane"; certifying for the Lunacy Commissioners needs
+  "strong facts"; "he is not legally insane until some medical man has been witness of this massacre".
+- **Tallack's letter** (Times, 19 September): Clark Bell cut its first and last paragraphs and printed "virtual
+  condemnation" for the Times's "virtual qualification". Nothing quoted from Clark Bell is safe unchecked.
+- **Laurence Peel's letter** (Times, 26 September): a barrister's Lancaster Assizes case before Baron Parke; new name.
+- **The Times leader of 15 September**: approves the verdict; gives the medical evidence as saying William "did not
+  know that the penalty for the act was death", the reverse of its own court report. Press only.
