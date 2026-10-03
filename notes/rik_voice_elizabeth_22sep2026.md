@@ -61,7 +61,7 @@ may have been literally true rather than reportorial shorthand.
    blank — but the project's own position is stronger than that: William James Madams is "almost certainly"
    Albert's biological father. If the prose wants both, the honest form is the blank space itself rather
    than the phrase.
-   **[2 October 2026: the project's position is now "probably", not "almost certainly". The 1891 census
+   **[2 October 2026: the project's position is now "possibly", not "almost certainly" (Rik does not accept Madams's paternity as certain). The 1891 census
    calls Albert Madams's stepson, the 1901 census his son (Contradiction 88). "Father unknown" is closer to
    the record than this note allowed.]**
 4. **The daughter emigrated and the DNA came back.** Eliza Jane Madams left for New Zealand on 29 June
