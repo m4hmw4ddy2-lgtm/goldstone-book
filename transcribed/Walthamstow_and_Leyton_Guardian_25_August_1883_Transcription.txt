@@ -12,6 +12,11 @@ Transcription status: COMPLETE for items (1) to (4). Transcribed 30 September 20
 each doubtful reading checked at twice the size. Two printed readings that look like errors are kept as printed
 and flagged: "the late Mr. John Ansell, junr." and Honey's "At about ten o'clock". Spelling and punctuation as
 printed; line-end hyphens closed up.
+CHECKED 1 October 2026 against the image, cropped close (Chapter Thirteen, movement one): item (4), the sermon, from
+"The Vicar of St. Saviour's, preaching last Sunday evening" to "a going out of the Father's house." (column 2) and from "And, oh!
+what a terrible illustration" to "I will arise, and go to my Father." (column 3). Accurate as transcribed.
+CHECKED 1 October 2026 against the image, cropped close (Chapter Thirteen, movement two): item (1), the leader, in
+full, from "This sad occurrence" to "or of a very depraved mind." Accurate as transcribed.
 
 SHARED COPY. Item (2), the court report, is the same text as the Illustrated Police News of 25 August
 (transcribed/IPN_p2_Aug_25_1883_THE_TRAGEDY_AT_WALTHAMSTOW.txt), word for word except for the differences listed
