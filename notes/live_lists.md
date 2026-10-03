@@ -74,6 +74,12 @@
 - 8 Courtenay Place before the Clarkes: Joseph Wells at "8 Courtenay Terrace, Marsh Street" (1882 directory); whether
   he held the whole house, and how it passed to Charles Clarke.
 
+- (Added 4 October 2026, Rik.) When did Thomas move from "Village" (1861, "Blacksmith employing 3 men") to the White
+  House, Moor End (1871, "Blacksmith & Publican")? Thomas swore to "business troubles about 18 years ago" (c. 1865) and
+  that his wife tried to strangle herself "at that time". The 1862 Essex Post Office Directory (TheGenealogist, not yet
+  opened) and any 1866 or 1870 Essex directory (existence to confirm) would date the move. In the notes only, side by
+  side, no link drawn: Ruth died 27 December 1865; Ann buried 14 November 1866.
+
 ### Elizabeth and after 1883
 - Her age at death: certificate 47, birth certificate 51. Do not pick one in prose.
 - The origin of Albert's middle name, Jennet.

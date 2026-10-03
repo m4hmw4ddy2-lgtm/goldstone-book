@@ -1,5 +1,6 @@
 # CHAPTER FOURTEEN: SKELETON (the trial, Friday 14 September 1883)
-# STATUS, 4 October 2026: MOVEMENT ONE DRAFTED AND APPROVED (Rik), chapters/CHAPTER_14.md. Movements two to four to come.
+# STATUS, 4 October 2026: MOVEMENTS ONE AND TWO DRAFTED AND APPROVED (Rik), chapters/CHAPTER_14.md (held locally, not
+# uploaded until the chapter is finished). Movements three and four to come.
 # (Earlier status, 3 October 2026: proposed; all DECIDE points then accepted as recommended, see below.)
 # First proposed 3 October 2026, after a full source sweep for Friday 14 September and the days that report it.
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
@@ -602,3 +603,23 @@ Lancet, 22 September (whole letter; transcription agrees). Old Bailey: no image 
   Mr Grain" is the Times, a plain fact).
 - Found, not used: Emma at the trial, "when he came in I told him his wife had been confined, and that there were
   two—he looked strange when I told him so" (Old Bailey). Chapter Six has Ada telling him (IPN). Contradiction 113.
+
+## MOVEMENT TWO ASSEMBLED, 4 October 2026 (Rik: approved)
+- **Drafting rule for the rest of the chapter (Rik): "there is unnecessary compression throughout."** The first draft
+  packed several subjects into each paragraph and cut between our voice and the witness's. The approved version: one
+  subject to a paragraph; the witnesses quoted at length, in runs, in their own words; cross-examination and
+  re-examination each in a paragraph of their own; as few bridges in our voice as possible. About 1,600 words (first
+  draft 1,050). Apply to movements three and four.
+- Sources: Grain's opening and the delay, the Times (image checked from "that they were assembled" to Day's complaint);
+  the Act in Grain's opening, the Essex Weekly News; every witness, the Old Bailey account, now collated line by line
+  against the printed Sessions Paper (pp. 606-616; header of the file).
+- Thomas: one clause pointing back to Chapter Three (DECIDE 7); "William had been five years in the one place" cut
+  (Rik: "this one place" is unclear, and Emily gives the five years at the firm plainly); "always getting his living by
+  his daily labour" and "she was not taken up for it" quoted. Stamford Hill and "just after Christmas" left out
+  (Contradiction 101).
+- Sunderland's re-examination: the printed page reads "She is now continually restless", the woman unnamed; quoted as
+  printed, no name supplied.
+- Charles of Epping: quoted from "named William" (the page's "he had a son" may be the shorthand writer's third person).
+- Order: the Old Bailey calls Charles of Epping and Sunderland after the shop; the draft groups them with the family
+  and states no sequence between them.
+- Unattributed lines from press reports of sworn evidence: none.
