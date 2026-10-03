@@ -3,6 +3,9 @@ Newspaper/title if visible: THE WALTHAMSTOW & LEYTON GUARDIAN
 Date if visible: SATURDAY, SEPT. 22, 1883 (masthead line visible top left)
 Page/column/article if known: full page, seven columns. The Gouldstone material runs from the head of
 column 2 to the middle of column 5.
+CHECKED AGAINST THE IMAGE, 3 October 2026 (Chapter Fourteen skeleton): the summing-up, verdict and
+sentence passages only. Two corrections: "special verdict finding that" reads "stating that"; "to ask
+for mercy" reads "to seek for mercy". Nothing else in the report has been checked.
 Transcription scope: the Gouldstone material, columns 2 to 5. The rest of the page (Robbery at the Post
 Office in Wood-street, St Mary's Band of Hope, Wesleyan Methodist Christian Workers' Association,
 Hawthorne-road Primitive Methodist Chapel, Raid on a Base Coin Factory and the remaining local matter) is
@@ -37,14 +40,14 @@ the jury to the medical evidence and to the fact that it was admitted by one med
 no doubt that Gouldstone was quite aware when he killed his children that he was committing the crime of
 murder, and that death was the penalty for the crime. **His lordship, in conclusion, explained to the jury
 that, by the provisions of a recent Act of Parliament, if they found that the prisoner was insane at the
-time he committed the act, they would have to return a special verdict finding that the prisoner did commit
+time he committed the act, they would have to return a special verdict stating that the prisoner did commit
 the offence, but that he was insane at the time.**—The jury retired at twenty minutes past five o'clock to
 deliberate upon their verdict. After being absent about a quarter of an hour they returned, and found the
 prisoner guilty of wilful murder.—Mr. Justice Day having put on the black cap, addressed the prisoner, and
 said that he had been convicted upon overwhelming evidence of the crime of wilful murder, and the jury had
 no alternative to the course of finding him guilty of that offence. It was not his practice to make any
 observations that might add to the misery of a man in his position, and all he should say was to exhort him
-to ask for mercy from a quarter from which alone it could be obtained. His lordship, who was a good deal
+to seek for mercy from a quarter from which alone it could be obtained. His lordship, who was a good deal
 affected, then passed sentence of death in the usual form, and the prisoner, who presented a perfectly
 composed appearance, was removed from the bar.
 
