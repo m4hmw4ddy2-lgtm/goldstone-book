@@ -527,6 +527,7 @@ reopened without a new document.
 | 109 | **SETTLED** | = Contradiction 45: 3.30 p.m. (deposition). The Times and Morning Post "3.40" is one press figure. |
 | 111 | RECORDS | New facts from the Times of 10 August. |
 | 112 | **SETTLED 3 Oct** | Compatible: "about five years" (Graves) and "four years and a half" (the workmen's letter). |
+| 113 | OPEN | Who told William of the twins: Emma (Old Bailey) or Ada (IPN, Chapter Six). |
 
 ### 1. WILLIAM'S WORDS ON OPENING THE BEDROOM DOOR
 Multiple sworn versions:
@@ -3340,3 +3341,9 @@ figure is approximate, and c. Oct/Nov 1878 to August 1883 is nearer four years a
 - **Laurence Peel's letter** (Times, 26 September): a barrister's Lancaster Assizes case before Baron Parke; new name.
 - **The Times leader of 15 September**: approves the verdict; gives the medical evidence as saying William "did not
   know that the penalty for the act was death", the reverse of its own court report. Press only.
+
+### 113. WHO TOLD WILLIAM OF THE TWINS ON 1 AUGUST (logged 4 October 2026)
+Emma Clarke at the Old Bailey: "the prisoner was not at home then—when he came in I told him his wife had been
+confined, and that there were two—he looked strange when I told him so—he did not say anything". Chapter Six: "When
+Ada told him, he gave 'one look of anger', as the Illustrated Police News put it". Possibly both told him; possibly
+one. OPEN, for Rik (Chapter Six).

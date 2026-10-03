@@ -1,5 +1,6 @@
 # CHAPTER FOURTEEN: SKELETON (the trial, Friday 14 September 1883)
-# STATUS, 3 October 2026: PROPOSED. Nothing drafted. Every DECIDE point below is open until Rik rules on it.
+# STATUS, 4 October 2026: MOVEMENT ONE DRAFTED AND APPROVED (Rik), chapters/CHAPTER_14.md. Movements two to four to come.
+# (Earlier status, 3 October 2026: proposed; all DECIDE points then accepted as recommended, see below.)
 # First proposed 3 October 2026, after a full source sweep for Friday 14 September and the days that report it.
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
 # notes/CHAPTER_12_skeleton.md ("CHAPTER THIRTEEN ASSEMBLED"), notes/confirmed_facts_timeline_contradictions.md.
@@ -341,8 +342,9 @@ She is the absent witness at her children's trial, and the record shows it witho
 ### Chapter Fourteen: Friday morning to the close of the evidence
 **1. The bar and the Crown's case.** The dock and the jury sworn (the thumbs in the waistcoat, Essex Weekly News).
 One indictment of several, Charles's. Counsel. Poland's opening, used only for what it says about the law, in his
-words as the Times reports them: the presumption of sanity, the burden on the prisoner, "I shall be hung" and "I am
-ready for the rope" as proof that he knew. The Crown's witnesses as a sequence, one clause of old material each, then
+words as the Times reports them: the presumption of sanity, the burden on the prisoner, "I shall be hung, and I am
+ready for the rope." as proof that he knew (one quotation in the paper, Poland joining two sayings: image checked
+3 October 2026; the transcription had split and garbled it). The Crown's witnesses as a sequence, one clause of old material each, then
 what was new: Emma Clarke's first appearance before any court but the coroner's; Wheatley, cross-examined, "He said
 'preying,' not 'playing.'" Cheeseman re-examined: "I took possession of this hammer (produced) at the time—it is a
 common hammer."
@@ -585,3 +587,18 @@ The Times, 15 September (column three: summing-up from "for them to determine" t
 one/two, Ada's evidence at the door); Essex Weekly News, 21 September (the whole trial report); Walthamstow and Leyton
 Guardian, 22 September (the summing-up, verdict and sentence); IPN, 22 September (head and foot of the report);
 Lancet, 22 September (whole letter; transcription agrees). Old Bailey: no image held.
+
+## MOVEMENT ONE ASSEMBLED, 4 October 2026 (Rik: accepted)
+- Approved as drafted, with one revision: the witness-sequence paragraph rewritten to remove four "gave"s.
+- Accepted beyond the skeleton: Ada's cross-examination (Old Bailey: "absent, and far less cheerful"; the headache
+  Elizabeth told her of; the hand to the head), which carries Elizabeth's words through Ada; "named both the roads by
+  which he had come there" (pointing back to Chapter Twelve); "The Times printed 'playing' the next morning."
+- Poland's law quoted from the Times, image checked 4 October (3 October session): "I shall be hung, and I am ready
+  for the rope." is ONE quotation in the paper. The presumption of malice ("it was for the person charged to show that
+  he was not guilty") left without gloss: Day's "presumptive murder" carries it in Chapter Fifteen. If ever glossed,
+  verify Foster's Crown Law and Woolmington v DPP (1935) first.
+- The plea on the Friday (Contradiction 100) left out. Emma's trial drink answer set down as given (Contradiction 96).
+- Unattributed lines from press reports of sworn evidence: none (every spoken line is the Old Bailey account; "by
+  Mr Grain" is the Times, a plain fact).
+- Found, not used: Emma at the trial, "when he came in I told him his wife had been confined, and that there were
+  two—he looked strange when I told him so" (Old Bailey). Chapter Six has Ada telling him (IPN). Contradiction 113.
