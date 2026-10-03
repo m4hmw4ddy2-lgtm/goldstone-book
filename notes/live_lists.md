@@ -8,7 +8,7 @@
 ---
 
 ## 1. DECISIONS WAITING FOR RIK
-- None as of 1 October 2026 (DECIDE 10, Contradictions 34 and 71 all settled that day).
+- Chapter Fourteen (the trial), 3 October 2026: DECIDE 1 to 14, proposed Contradictions 93 to 101, and corrections A to I to existing notes (not yet applied), all in notes/CHAPTER_14_skeleton.md. Nothing settled.
 
 ## 2. OPEN QUESTIONS
 ### Albert and his family (added 2 October 2026)
