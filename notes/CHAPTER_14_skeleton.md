@@ -59,10 +59,10 @@ else for the trial day was found.
 3. **The foreman's "card" as printed**, and Savage's reply to the juror as printed (Daily Telegraph, about 18 or 19
    September). The Tottenham juror's letter itself is HELD since 3 October 2026 (Daily Telegraph, 17 September). See
    FINDINGS, 6, and NEW SOURCES below.
-4. **William Tallack's letter**, dated 17 September, "published ... in the Times" (Clark Bell). Not found by Rik's
-   searches of the Times (3 October 2026). Savage's letter of the 15th is HELD since 3 October 2026 (Times,
-   17 September). Clark Bell drops the openings of the letters he extracts (checked against Wood's), so Tallack's
-   printed opening is unknown.
+4. ~~William Tallack's letter.~~ HELD since 3 October 2026: the Times, 19 September, page 7, under "THE LAW OF
+   MURDER AND INSANITY.", above Wood's (`transcribed/The_Times_19_Sep_Tallack_letter_transcription.txt`). Clark Bell
+   cut its first and last paragraphs and printed "virtual condemnation of the law" where the Times reads "virtual
+   qualification". Savage's letter of the 15th is also HELD (Times, 17 September).
 5. **Savage, Journal of Mental Science, January 1884**, held only as Clark Bell's long extract.
 6. **The printed Old Bailey Sessions Papers page** for case 849. The website text has never been checked against it,
    and it carries at least one internal slip (Contradiction 95).
