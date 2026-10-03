@@ -2,7 +2,7 @@ Chapter Ten
 
 OF A KINDLY NATURE
 
-On the Thursday morning Sergeant Bryant went back to Courtenay Place for the twins. He went on instructions from Inspector Craggs, who had charge of the case. The doctor saw them first, and then Bryant took them away to the mortuary, where their three brothers had lain since the evening before. By the middle of the morning all five of the Gouldstone children were reunited.
+Sergeant Bryant went back to Courtenay Place for the twins on the Thursday morning. He went on instructions from Inspector Craggs, who had charge of the case. The doctor saw them first, and then Bryant took them away to the mortuary, where their three brothers had lain since the evening before. By the middle of the morning all five of the Gouldstone children were reunited.
 
 Their father was in the dock at Stratford.
 
@@ -96,7 +96,7 @@ Elizabeth was in the front room. What survives of the visit is the coroner's own
 
 ***
 
-On the Saturday morning a crowd stood at Maryland Point station waiting for a train that William was not on. Word had gone round that he would be brought there from the House of Detention. He came in to Stratford instead, on the main line, and nobody had ordered a cab.
+A crowd stood at Maryland Point station on the Saturday morning, waiting for a train that William was not on. Word had gone round that he would be brought there from the House of Detention. He came in to Stratford instead, on the main line, and nobody had ordered a cab.
 
 "By some thoughtlessness the police, instead of bringing Gouldstone from the station to the Court in a cab, made him walk the distance of about half a mile," wrote the Daily Chronicle, whose account of the day, printed on the Monday, is the fullest there is. "He was not at once recognised, but as soon as he was he was loudly hooted and yelled at until he was got into the court, and out of sight of the mob."
 
@@ -136,7 +136,7 @@ When they understood what had been done, they cut across to the station. The cab
 
 ***
 
-On the Saturday the Guardian printed a letter from the vicar of St Saviour's, dated the day after the murders. "I have just seen Mrs. Gouldstone. She is very weak and prostrate, utterly stunned, but most resigned. The family lived in two rooms wretchedly furnished, and I found no nourishment whatever in the house." He had supplied her immediate wants, and he asked the paper's readers for "a few pounds to provide present necessities".
+The Guardian that Saturday printed a letter from the vicar of St Saviour's, dated the day after the murders. "I have just seen Mrs. Gouldstone. She is very weak and prostrate, utterly stunned, but most resigned. The family lived in two rooms wretchedly furnished, and I found no nourishment whatever in the house." He had supplied her immediate wants, and he asked the paper's readers for "a few pounds to provide present necessities".
 
 People came to the house all that week to look at her. The Illustrated Police News told its readers what they were doing.
 
