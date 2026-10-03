@@ -1,0 +1,53 @@
+Chapter Thirteen
+
+SOME WAY OF BUSINESS
+
+The evening after the committal was a Sunday, and Grantham Robinson, the vicar of St Saviour's, preached on the parable of the Prodigal Son. The Walthamstow and Leyton Guardian printed the close of the sermon the following Saturday.
+
+It was about baptism. A child was taken into the Church in infancy, before its own will had come into action. "When a baby is baptized," he said, "it becomes 'a Member of Christ,' a 'Child of God,' and an 'Inheritor of the Kingdom of Heaven.' If it dies in infancy we are as sure of its salvation as if it had died after seventy years of unsullied sanctity." Sin, for a Christian, was "a going out of the Father's house."
+
+Then he turned to his own parish. "And, oh! what a terrible illustration of this truth our own parish has afforded during the past few days." On the Friday he had seen "the unhappy man, whose fearful deed has startled the country" at the House of Detention.
+
+William had told him, the vicar said, "quietly and soberly," that "had he not forsaken his God and his church, had he not gone out from his Father's house, he would not have been in his awful position." He had been a Sunday school boy and a member of the choir, and yet he had given up going to church. In his ten months in Walthamstow he had not once attended a place of worship. Now, the vicar said, he traced his misery and crime to his own carelessness and neglect.
+
+He ended with a prayer for him: that notwithstanding his apostasy he might even now know himself a child of God, "and amid the loneliness and misery of a prison life, and the prospect of an almost inevitable fate, he may yet humbly and sincerely say, 'I will arise, and go to my Father.'"
+
+The Morning Advertiser's report of the committal, printed on the Monday, ended its account of Miss Skinner's visit to his cell at Stratford with a line about what she wanted next. She "is now desirous of getting permission to again visit the prisoner, inasmuch as he seemed so grateful and touched by the visit of Saturday."
+
+The following Saturday, the Illustrated Police News put the case on its front page for the second week running.
+
+The week before, on the morning of the committal, the top of that front page had gone to "The Murder of a Family at Walthamstow." On the left was a drawing of the house, "No. 8 Courtenay Place", with a constable on the pavement outside and a few people standing, observing. On the right were five sketched portraits, below them the title "Witnesses in the Case": Inspector Craggs, Dr Gould, Mrs Hamilton the nurse, Mrs Clark the landlady, and one more, labelled only "A Witness". Between them, above "Terrible Tragedy.—Five Children Murdered", was a sketch of a bedroom. A man with a full beard, in shirtsleeves and a waistcoat, stood with one hand at the back of his head and a hammer in the other. Beside him a woman sat in the bed, her mouth open in horror, with two infants in her arms. Inside, the same issue gave notice to newsagents that the next number "will contain further Illustrations, with Portraits, Views, &c., of the shocking murder of five children at Walthamstow."
+
+The next edition kept the promise. In an oval in the middle of the page was "The Prisoner Gouldstone", his cheek resting on his hand, clean-shaven but for a moustache. On one side was a "View of the Mortuary where the Inquest was held", and on the other "The Jury Viewing the Bodies": men in hats at a trestle table, the small bodies laid out on it in a row. Elsewhere on the same page were a mother drowning her own child and a man at Ipswich cutting a child's throat.
+
+The Walthamstow and Leyton Guardian of the same Saturday, the issue that printed the vicar's sermon, began its own comment on the case with a letter that had been sent to the prisoner. It was signed "A Voice from the embryo English Revolution." The writer sympathised with him, and wrote that instead of seeing his children half-fed and neglected he had had the resolution to put them all out of their misery. After what the paper called a tirade against the Houses of Parliament, the letter ended: "May peace and tranquillity be with you until you are relieved of an existence in a world where cunning preys upon ignorance as wolves upon sheep." The paper thought its writer "a fit candidate for a lunatic asylum."
+
+On the prisoner himself it was less certain. "His demeanour since the dreadful occurrence," it wrote, "and especially the statements which he has made, go far to establish a belief in his insanity." Then it added that those statements, "were there no gleam of insanity in his eyes, prove him to be of weak intellect, or of a very depraved mind."
+
+Three days later the Club Minstrels gave a variety entertainment at the Workmen's Hall in Walthamstow "in aid of Mrs. Gouldstone, who, through the sad misfortune that has befallen her, has been left in a destitute condition." The hall was lent free of charge, and it was crowded. The programme was "minstrel songs and choruses, plantation dances, clog hornpipes, walk round, handbell ringing, and a comic sketch, entitled 'Shaving.'" In the first part "eleven of the coloured minstrels appeared." These were men in blackface. Everyone who took part gave their services for free, and the Guardian's report, printed the following Saturday, ended by praising them all: "they combined for a good object, and were successful."
+
+The leader in the same issue was about the money. "We are glad to find," it began, "that public benevolence is being stimulated and directed in a variety of ways and means for the relief of Mrs. Gouldstone." The vicar of St Saviour's had been "the first to extend a helping hand by opening a subscription." The Rev. T. Jackson, "who is ever zealous in a good cause," had collected for her at an open-air meeting. A week or two earlier the Daily News had reported a public meeting at Walthamstow to open another subscription, and given the name of a gentleman to receive the money. The Guardian was "not aware of any public meeting having been held, and we are generally well informed of matters of such importance." Whoever had been collecting should hand what they had to the vicar, "so that the public may have every assurance that Mrs. Gouldstone will reap the benefit of them."
+
+Of the minstrels it wrote that "on reflection it does seem a travesty of the shocking occurrence which, under no circumstances could be made an occasion for enjoyment." It allowed that it had been an act of kindness, and that "possibly the end justified the means, for charity it is said covers a multitude of sins." It wanted every effort concentrated in the vicar's fund, "so that a sufficient sum of money might be available to start her in some way of business."
+
+Four days later the vicar wrote to the Guardian again. He had found on inquiry, he said, that William "bore a most excellent character, that he had never absented himself a single day from his work, that he was a man of remarkable sobriety, and had always been a kind husband and father." He had on several occasions exhibited symptoms of insanity, "such as talking of his desire not to live and of committing suicide." The vicar would be happy to receive subscriptions "for the purposes named in the accompanying letter."
+
+The accompanying letter was dated the same day, from 67 Upper Thames Street, and William Graves had signed it "for Self and Fellow-Workmen." They had been collecting "to employ a good counsel for the purpose of proving, what we all believe, that Gouldstone was out of his mind when he committed the act. We are quite sure that he went out of his mind when his wife bore him twins." If the vicar would write to the papers, "something might be collected more than is required for the lawyers, to provide for the poor wife." They could see their way to £20 among themselves. "As he is to be tried next week, we hope you will not mind seeing to this at once." The paper printed both letters on the Saturday.
+
+By the week of the trial the workmen had presented a memorial expressing their belief in his insanity. They had raised the £20 among themselves for his legal assistance, and since it was not enough, an appeal was being made to the public.
+
+Before he was tried, Elizabeth went to see him three times at the House of Detention.
+
+The September sessions of the Central Criminal Court opened at the Old Bailey on Monday the tenth of September. Mr Commissioner Kerr sat for the Recorder and Sir Andrew Lusk for the Lord Mayor, with Sir Charles Whetham, Mr Alderman Nottage and Mr Sheriff Savory. There were four cases of murder.
+
+Before a prisoner could be tried, a grand jury had to find that there was a case for him to answer. It was a body of at least twelve men and not more than twenty-three, and it heard only the witnesses for the prosecution. If twelve of them agreed, they wrote "a true bill" on the back of the indictment, and the prisoner stood indicted. Only then was he brought into court to plead, and the question of his guilt went to a second jury of twelve, the petty jury, at his trial.
+
+The Guardian reported Kerr's charge to the grand jury. He did not know that any of the cases called for his direction on the law. The first of importance, which he might call a very painful case, was that of William Gouldstone, "who lived in Walthamstow, and who stood charged with the wilful murder of his five children." After the murder of the twins the prisoner had made some observations "which would induce them to hope that he was not aware of the consequences of his acts. That, however, was not a question for the Grand Jury to consider. If a crime had been committed it would be their duty to return a true bill, and leave the matter in the hands of the Petty Jury for examination."
+
+The next day the grand jury returned a true bill. "The trial will take place during the week," The Times told its readers the following morning. Mr Poland and Mr Montagu Williams were to prosecute for the Crown.
+
+On the Wednesday William was placed at the bar before Mr Justice Watkin Williams, to plead to several indictments charging him with the murder of his five children. He presented "a perfectly calm and composed demeanour," and pleaded not guilty "in a firm tone."
+
+Mr Elliott, for the prisoner, applied for the trial to be put off until Friday morning, because the witnesses for the defence could not attend before that day. Mr Poland said that, as counsel for the prosecution, he could not oppose it. The judge said the state of the business would make it necessary for a judge to attend specially to try the case, but that under the circumstances he was bound to agree.
+
+The trial was fixed for the Friday morning.
