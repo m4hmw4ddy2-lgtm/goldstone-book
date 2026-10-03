@@ -32,9 +32,7 @@ The perambulator had been moved. Underneath the cistern, where it usually stood,
 
 "My daddy put it there."
 
-Ada went back to the bedroom, and left the boys in the kitchen with their father.
-
-"Now, I'll make your bed if you get out."
+Ada went back to the bedroom, and left the boys in the kitchen with their father. "Now, I'll make your bed if you get out," she told Elizabeth.
 
 There were about fourteen inches of water standing in the cistern, and ten inches of clearance between its rim and the ceiling. He held them under, and held them there, for as long as it took.
 
@@ -66,23 +64,17 @@ She ran back up. The bedroom door was locked from the inside, and Elizabeth was 
 
 "Open the door. He is murdering my children."
 
-Ada could not shift it. She leaned over the banisters and called, "Help! Help!" two or three times, and Emma Clarke came running up from the garden. It was about half past five. The two of them put their weight against the door together and it did not give. They called through it to him to open it, and he did not answer. They were at that door about three minutes. Emma heard Elizabeth inside.
+Ada could not shift it. She leaned over the banisters and called, "Help! Help!" two or three times, and Emma Clarke came running up from the garden. It was about half past five. The two of them put their weight against the door together and it did not give. They called through it to him to open it, and he did not answer. They were at that door about three minutes. Emma heard Elizabeth inside. "He has killed my babies."
 
-"He has killed my babies."
+Then he opened it himself. "You can come in. It is all done."
 
-Then he opened it himself.
-
-"You can come in. It is all done."
-
-"Oh, you wicked man, what have you done?"
+"Oh, you wicked man, what have you done?" Ada said.
 
 "I am not a wicked man. I am a happy man."
 
 And then, to Elizabeth: "Your other three children are in the cistern."
 
-He went out past Ada as she came in. He had nothing in his hands. Elizabeth was standing at the foot of the bedstead.
-
-"Come and look at my babies, and see if he has killed them."
+He went out past Ada as she came in. He had nothing in his hands. Elizabeth was standing at the foot of the bedstead. "Come and look at my babies, and see if he has killed them."
 
 They were on the pillow where Ada had left them. Both were bleeding from the nose and the mouth, and one had a bruise over the eye. They were breathing. Ada took a small sheet and covered them over, so that their mother should not see them, and sent for a doctor.
 
