@@ -1,0 +1,38 @@
+Source image: sources/images/Media-coverage/to-transcribe/The Times Sept 22 1883.png (505 x 651)
+Newspaper/title if visible: not visible on the clip ("TO THE EDITOR OF THE TIMES"; the date is the filename's and
+the Times search result's, 22 September 1883)
+Date if visible: not visible on the clip
+Page/column/article if known: clip headed "THE CASE OF WILLIAM GOULDSTONE."
+Transcription scope: the whole letter.
+Transcription status: COMPLETE. Transcribed 3 October 2026 directly from the image. This counts as the one image
+check.
+
+NOTE: new to the project, 3 October 2026. The writer is Dr William Sunderland of Thaxted, who gave evidence for
+the defence at the trial (he had attended William's mother; see dramatis_personae.md). The letter is undated. Its
+account of Poland's question to Savage is the third version of that exchange (with the Old Bailey account and
+Savage's own letters); see the Chapter Fourteen skeleton.
+
+TRANSCRIPTION
+
+THE CASE OF WILLIAM GOULDSTONE.
+
+TO THE EDITOR OF THE TIMES.
+
+Sir,—As one of the medical witnesses in this late trial will you please allow me, in The Times, to say that the
+jury evidently understood Dr. Savage's answer "No," to Mr. Poland's question—"From your conversation with
+Gouldstone could you certify him to be insane" to imply that he did not consider him to be insane at the time;
+whereas Dr. Savage's opinion was that he was insane, but that from his interview with Gouldstone he would be
+unable to fill up the certificate required by the Lunacy Commissioners.
+
+"Certifying" a lunatic in accordance with these requirements is in most cases a difficult task, and properly. A
+medical man may have a strong opinion, but he must have strong facts to satisfy the Commissioners. Dr. Savage's
+opinion was firm, but his facts being meagre he could not "certify" to Gouldstone's insanity, therefore he most
+properly replied "No" to Mr. Poland's question. Gouldstone is as insane to the medical profession by his massacre
+of his five children as if he had sat in a corner for a month with a paper crown and called himself the Emperor
+of all the Russias; he is not legally insane until some medical man has been witness of this massacre, so it
+appears from the verdict. The hereditary tendency to insanity, though ridiculed in Court, has a most important
+bearing on the case and will no doubt receive its due consideration from the advisers of the Home Secretary.
+
+Truly yours,
+WM. SUNDERLAND.
+Thaxted, Essex.

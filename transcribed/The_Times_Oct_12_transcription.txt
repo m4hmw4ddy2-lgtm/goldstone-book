@@ -1,0 +1,25 @@
+Source image: sources/images/Media-coverage/to-transcribe/The Times Oct 12 1883.png
+Newspaper/title if visible: not visible on the clip; the date is the filename's and the Times search result's,
+12 October 1883
+Date if visible: not visible on the clip
+Page/column/article if known: a paid notice in the advertisement columns
+Transcription scope: the whole notice.
+Transcription status: COMPLETE except the opening words, which are covered by the archive's overlay label (an unrelated personal
+notice, "TOM to E.—There is a letter for you at the post-"), and with one uncertain figure. Transcribed 3 October
+2026 from the image, enlarged. This counts as the one image check. The clip is low resolution.
+
+NOTE: new to the project, 3 October 2026. UNCERTAIN: the shillings read "14s." but could be "1s."; the pounds (£35)
+and pence (4d.) are clear. The first words of the heading are hidden; only "...LDSTONE." shows. The words hidden
+between "Wm. Graves," and "...men" are supplied in square brackets from the Times notice of 11 September,
+not read here. Ends "67, Upper Thames-street, E.C." (the first letters of "Upper" are damaged).
+
+TRANSCRIPTION
+
+[...GOU]LDSTONE.—Wm. Graves, [for himself and fellow work]men, begs gratefully to ACKNOWLEDGE the RECEIPT of the
+SUM of £35 14s. 4d., remitted to the Rev. T. H. Grantham Robinson, Vicar of Walthamstow, for the defence of Wm.
+Gouldstone. This, the total amount subscribed, is insufficient to meet the bare expenses of the trial, and
+therefore no provision can be made for the poor woman who has lost her five children, and whose husband and sole
+support is now taken from her.
+
+Subscriptions are earnestly solicited, and will be thankfully received by the Rev. T. H. Grantham-Robinson, St.
+Saviour's Vicarage, Walthamstow; or by the above-named Wm. Graves, foreman, 67, Upper Thames-street, E.C.

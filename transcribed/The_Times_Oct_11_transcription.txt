@@ -1,0 +1,24 @@
+Source image: sources/images/Media-coverage/to-transcribe/The Times Oct 11 1883.png
+Newspaper/title if visible: not visible on the clip, but the running head "[...]Y, OCTOBER 11, 1883." shows at the top; the date is the filename's and the Times search result's,
+11 October 1883 (confirmed by the running head)
+Date if visible: not visible on the clip
+Page/column/article if known: clip headed "THE CONVICT GOULDSTONE."
+Transcription scope: the whole paragraph.
+Transcription status: COMPLETE. Transcribed 3 October 2026 from the image, enlarged twice. This counts as the one image check.
+
+NOTE: "Yesterday morning" is Wednesday 10 October. The Preston Chronicle of 13 October (held) has the same report
+("received on Wednesday morning"). This bears on Contradiction 80 (the day the Sheriff and William were told:
+3 or 10 October): on this paper's account, the certificate of unsound mind and the instruction to tell William
+that the capital sentence would not be carried out both arrived on 10 October, and the Under Sheriff, Charles
+Gepp, told him "shortly after the receipt of the letter".
+
+TRANSCRIPTION
+
+THE CONVICT GOULDSTONE.
+
+Yesterday morning the High Sheriff of Essex received a communication from the Home Office stating that the
+convict William Gouldstone, convicted of the murder of his five children at Walthamstow, had been certified to be
+of unsound mind, and that he will be removed to Broadmoor Criminal Lunatic Asylum as soon as the necessary
+documents can be completed. It was added that it might be intimated to Gouldstone that the capital sentence would
+not be carried out. This intimation was accordingly made to the convict by the Under Sheriff, Mr. Charles Gepp,
+shortly after the receipt of the letter, and Gouldstone received it with deep gratitude.

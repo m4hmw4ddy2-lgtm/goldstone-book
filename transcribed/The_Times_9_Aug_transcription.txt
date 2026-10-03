@@ -1,0 +1,40 @@
+Source image: sources/images/Media-coverage/to-transcribe/The_Times_1883-08-09.jpg (3061 x 4149), page 9
+Newspaper/title if visible: THE TIMES
+Date if visible: THURSDAY, AUGUST 9, 1883 (running head); page 9
+Page/column/article if known: sixth column, "MURDER OF FOUR CHILDREN.", between a shipping paragraph ("...anchored in
+safety.") and "A Cabinet Council was held yesterday"
+Transcription scope: the whole paragraph.
+Transcription status: COMPLETE. Transcribed 3 October 2026 directly from the image, every line read enlarged. This
+counts as the one image check.
+
+NOTE: the Times's version of the 9 August wire dispatch (the press-only first report: age 43, "Lower Thames
+street", Lea-bridge-road station, the nurse sent out, "Never mind, I am happy now, and she is a single woman").
+Its wording differs from the Telegraph text printed in the Western Daily Press and the Nottingham Guardian, but the
+facts and errors are the same: count it with the wire, as one witness (live_lists.md, section 6). Press as press
+only; nothing in it is evidence. "horrified" is italic in the original.
+
+TRANSCRIPTION
+
+MURDER OF FOUR CHILDREN.
+
+Last night, at about half-past 5 or 6 o'clock, a shocking crime was perpetrated at St. James's-street,
+Walthamstow, a father having drowned three of his children—Charles, aged 3½ years; Herbert, 2½ years; and
+Frederick, aged 16 months—and so seriously assaulted two others—twin boys only seven days old—that one of them died
+shortly afterwards, and the death of the second was hourly expected. It seems that at No. 8, Courtney-place-terrace,
+in a small courtway near St. James's-street Station, there resided a blacksmith named William Gouldstone, aged 43,
+who was employed by a firm in Lower Thames street, City. Last night week his wife was confined of twins, and she
+had a woman in the house to nurse her. About 6 o'clock last evening Gouldstone returned home, rather earlier than
+usual. He seemed in a very bad mood, and said to the nurse that he wanted her out of the house while he had a chat
+with his wife concerning the medical expenses of the confinement. The woman went out of the house, and just before
+going she heard the father ask for the boy Frederick. The woman was surprised a short time afterwards at seeing the
+cistern running over, and on going to it she was horrified to discover the dead bodies of three children in it. At
+the same moment she heard screaming in the room where Mrs. Gouldstone was in bed, and she knocked at the door, but
+was unable to gain entrance. She called for assistance, and the door was burst open. Then it was found that the
+enraged father, after drowning his three eldest children, had struck the twin babes at their mother's breast with
+a hammer. The police were at once sent for, and the man was taken into custody and conveyed to the Lea-bridge-road
+Police Station. When the nurse asked the prisoner what he was doing he said, "Never mind, I am happy now, and she
+is a single woman." No motive can be assigned for the murders, except one—viz., that the prisoner has on more than
+one occasion quarrelled, or rather grumbled, with his wife because she had children so quickly. The poor woman
+was, as has been already stated, only confined last week. Since that time the prisoner has not spoken to her. He
+is stated to be a most abstemious man, and has been in his present employ five or six years. He will be brought up
+at the Stratford Petty Sessions to-day.

@@ -1,0 +1,23 @@
+Source image: sources/images/Media-coverage/to-transcribe/The Times Oct 1 1883.png
+Newspaper/title if visible: not visible on the clip; the date is the filename's and the Times search result's,
+1 October 1883
+Date if visible: not visible on the clip
+Page/column/article if known: news paragraph
+Transcription scope: the whole paragraph.
+Transcription status: COMPLETE except the opening words, which are covered on the clip by the archive's own overlay label. Transcribed
+3 October 2026 from the image, enlarged twice. This counts as the one image check.
+
+NOTE: new to the project, 3 October 2026. The first visible letters are "...r. Orange". The overlay label reads "We
+understand that Dr. Orange, the medical"; that is the archive's machine reading of the hidden words, not checked
+against the print, and is given in square brackets. Press only: "His mother and aunt were both insane, and his
+great uncle committed suicide" and the rest are the paper's report of what is believed or said, not evidence.
+The wife's reported statement ("says that he has shown signs of madness for the last 12 months") is the paper's
+report, attributed; compare Elizabeth's own statement of 19 September.
+
+TRANSCRIPTION
+
+[We understand that D]r. Orange, the medical superintendent of Broadmoor, who was recently sent down to
+Chelmsford to see the convict Gouldstone, entertains no doubt of his insanity. His mother and aunt were both
+insane, and his great uncle committed suicide. He himself appears to have had a suicidal mania, and it is
+believed that he went out with the intention of drowning himself on the very day that he murdered his children.
+His wife, who is a very respectable young woman, says that he has shown signs of madness for the last 12 months.

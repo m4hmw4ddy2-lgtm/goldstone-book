@@ -1,0 +1,48 @@
+Source image: sources/images/Media-coverage/to-transcribe/Daily_Telegraph__Courier_Londo_15_September_1883_0002_Clip.jpg (4604 x 5396)
+Newspaper/title if visible: THE DAILY TELEGRAPH
+Date if visible: SATURDAY, SEPTEMBER 15, 1883 (running head); page 2
+Page/column/article if known: page 2, column headed "CENTRAL CRIMINAL COURT.—Sept. 14." (the fifth column from
+the left), the paragraph headed "THE WALTHAMSTOW MURDERS." The preceding Haycraft paragraph is given for context;
+the court report after Gouldstone (Graham, Mann and Pugh) is not transcribed.
+Transcription scope: the Gouldstone paragraph, complete.
+Transcription status: COMPLETE. Transcribed 3 October 2026 directly from the image, every line read at full
+resolution. This counts as the one image check (check-once rule).
+
+NOTE: this is the Telegraph's whole report of the trial. It is short, and from "Mr. Justice Day, in summing up"
+to the end it is the same text as the Illustrated Police News and the Walthamstow and Leyton Guardian of 22
+September (agency copy: one witness, not three). It gives the age as 25, as the IPN does.
+
+TRANSCRIPTION
+
+CENTRAL CRIMINAL COURT.—Sept. 14.
+
+(Before Mr. Justice DAY.)
+
+MANSLAUGHTER.—William Haycraft, 33, who pleaded guilty on Thursday to the manslaughter of his wife, was sentenced
+to eighteen months' imprisonment with hard labour.
+
+THE WALTHAMSTOW MURDERS.—William Gouldstone, 25, was put upon his trial for the wilful murder of his five
+children.—Mr. Poland and Mr. Montagu Williams prosecuted for the Public Prosecutor; and the prisoner was defended
+by Mr. Grain and Mr. G. Elliot.—The prisoner was indicted first for the murder of Charles Gouldstone, a child about
+four years of age.—Mr. Poland, in opening the case for the prosecution, dwelt on the painful circumstances of the
+crime. The evidence for the defence was mainly directed to showing that members of the prisoner's family had
+suffered from insanity, that Gouldstone's behaviour had at various times been peculiar, and that therefore it
+might be concluded that the accused had been of unsound mind when he murdered his children.—Mr. Justice Day, in
+summing up the case to the jury, observed that the point they had to decide—as there could be no doubt that the
+prisoner had destroyed the lives of his five children in the way stated—was not whether the prisoner was sane or
+insane, but whether at the time he committed the act he was in such a condition of mind as not to know that he was
+killing his children, or that he was not doing wrong. This had been solemnly decided by the judges many years ago
+to be the law, and he therefore informed them what the real question was that they had to decide. The learned
+judge then directed the attention of the jury to the medical evidence and to the fact that it was admitted by one
+medical gentleman that he had no doubt that Gouldstone was quite aware when he killed his children that he was
+committing the crime of murder, and that death was the penalty for the crime. His lordship, in conclusion,
+explained to the jury that, by the provisions of a recent Act of Parliament, if they found that the prisoner was
+insane at the time he committed the act, they would have to return a special verdict stating that the prisoner did
+commit the offence, but that he was insane at the time.—The jury retired at twenty minutes past five o'clock to
+deliberate upon their verdict. After being absent about a quarter of an hour they returned, and found the prisoner
+guilty of wilful murder.—Mr. Justice Day, having put on the black cap, addressed the prisoner, and said that he had
+been convicted upon overwhelming evidence of the crime of wilful murder, and the jury had no alternative to the
+course of finding him guilty of that offence. It was not his practice to make any observations that might add to
+the misery of a man in his position, and all he should say was to exhort him to seek for mercy from a quarter from
+which alone it could be obtained. His lordship, who was a good deal affected, then passed sentence of death in the
+usual form, and the prisoner, who presented a perfectly composed appearance, was removed from the bar.

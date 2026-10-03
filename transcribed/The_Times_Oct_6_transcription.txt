@@ -1,0 +1,25 @@
+Source image: sources/images/Media-coverage/to-transcribe/The Times Oct 6 1883.png
+Newspaper/title if visible: not visible on the clip; the date is the filename's and the Times search result's,
+6 October 1883
+Date if visible: not visible on the clip
+Page/column/article if known: clip headed "THE CONVICT GOULDSTONE."
+Transcription scope: the whole paragraph.
+Transcription status: COMPLETE. Transcribed 3 October 2026 from the image, enlarged twice. The first letter of the heading is covered by
+the archive's overlay label ("News in Brief"). This counts as the one image check.
+
+NOTE: the Home Office letter is the one already held from the Daily News of 6 October (Contradiction 80); this is a
+second printing of it. The last paragraph is new: the visits "this week" by his wife and his sister. Small capitals
+in the signature given in capitals.
+
+TRANSCRIPTION
+
+THE CONVICT GOULDSTONE.
+
+The solicitor of the convict Gouldstone's employers has received the following letter from the Home Office:—
+"Whitehall, Oct. 3, 1883,—Sir,—With reference to the applications forwarded by you in behalf of William
+Gouldstone, I am directed by the Secretary of State to acquaint you that, having caused special medical inquiry to
+be made as to the state of this man's mind, he has felt justified in advising Her Majesty to respite the capital
+sentence.—I am, Sir, your obedient servant, GODFREY LUSHINGTON."
+
+Gouldstone has been visited this week by his wife and his sister. It is expected that he will shortly be removed
+to Broadmoor Criminal Lunatic Asylum.

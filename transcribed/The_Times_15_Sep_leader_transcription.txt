@@ -1,0 +1,77 @@
+Source image: sources/images/Media-coverage/to-transcribe/The_Times_1883-09-15.jpg (3083 x 4156), page 9
+Newspaper/title if visible: THE TIMES
+Date if visible: SATURDAY, SEPTEMBER 15, 1883 (running head); page 9
+Page/column/article if known: the leader page. The Gouldstone leader is the last of the day's leaders: it begins
+at the foot of the fifth column ("WILLIAM GOULDSTONE, who was tried yesterday") and runs to the head of
+"COURT CIRCULAR" in the sixth.
+Transcription scope: the Gouldstone leader, complete.
+Transcription status: COMPLETE. Transcribed 3 October 2026 directly from the image, every line read enlarged,
+including the column break (foot of column five to head of column six). This counts as the one image check.
+
+NOTE: this is the Times's own comment on the verdict, distinct from its court report of the same day
+(transcribed/The_Times_15_Sep_transcription.txt, page 12). Names set in small capitals in the original are given
+in capitals. The Times repeats an opening quotation mark at the start of each line of a quotation; those
+line-start marks are omitted here. Press-as-press only: the leader's account of the medical evidence ("did not know that the penalty
+for the act was death") is the reverse of what its own court report gives Savage as saying.
+
+TRANSCRIPTION
+
+WILLIAM GOULDSTONE, who was tried yesterday at the Central Criminal Court for the wilful murder of his five
+children, has been found guilty of the crime with which he was charged. The facts of the case were in no dispute.
+They are set out very clearly in the opening address of the counsel for the prosecution, MR. POLAND, and they
+were proved beyond all doubt by the evidence called in its support. It was on Wednesday, August 8, that the
+terrible deeds were done. On that day WILLIAM GOULDSTONE came home in the evening at an earlier hour than usual,
+found his two eldest children playing in the kitchen, took his third child into the room with them, and then and
+there deliberately killed them all three by drowning them in the cistern. This done, he went up into the bed room
+with his wife, who had been just confined of twins, locked the door, and struck the two infants on the head with a
+hammer, fracturing their skulls, and inflicting injuries which proved fatal in the course of the following night.
+"I have killed the children," was his subsequent account of the matter, "and I am happy now." "Your other three
+children," he added, speaking to his wife, "are in the cistern." Nothing could exceed the cool deliberation with
+which the whole thing was planned and done and commented upon afterwards by the prisoner. "All the children," he
+said to his wife, "are dead now. I shall be hung, and you will be single." When the police came to apprehend him,
+he met them with the remark, "Good evening. I have done it; now I am happy and ready for the rope." On his way to
+the police-station he entered more fully into the details of the murders, explained how he had done them, and his
+reasons for what he had done. He had had five children, he said, within three years and a half, and he thought it
+was time to put a stop to it. His one regret seems to have been that he had not made sure of the two infants. He
+would have been better satisfied if he had killed them out of the way at once. His manner throughout was that of
+a man in his sober senses, perfectly aware of the nature of his acts, and of their certain consequences to
+himself. He said, indeed, that he had had "an extra drop of drink to accomplish the job," but he was not drunk,
+and could only have taken the liquor as a part of his plan, to give him nerve and make him ready for the
+atrocities he was contemplating. His method of procedure, too, had been carefully planned out. He had thought of
+using a revolver, but on second thoughts had rejected it, since it would have made too much noise. From first to
+last the murders were the work of a man who knew perfectly well what he was doing, who had formed a deliberate
+resolve of putting his children to death in order to get rid of them, and who carried his purpose into effect
+with a clear sense of what he was about at the time, and with a clear foresight of the after results to himself.
+Such was the story which MR. POLAND unfolded yesterday in his opening address, and which was borne out in every
+point by his witnesses.
+
+For the defence there was only one plea possible—that of the insanity of the prisoner. This plea was, of course,
+put forward, as it generally is when a crime of more than usual atrocity is on trial, and when the evidence for
+it is clear and conclusive. It was urged on WILLIAM GOULDSTONE'S behalf that he had been ordinarily a good
+husband, a kind father, and a well-conducted man, and that his deeds of murder could be explained only on the
+supposition that his mind had become unhinged and that he had ceased to be accountable for his acts. It was shown
+that there was insanity in his family, that he himself had been in a depressed state of mind and had declared
+repeatedly that he wished himself dead. Medical evidence was called and an opinion given that the prisoner when he
+killed his children did not know what he was doing, and did not know that the penalty for the act was death. All
+this evidence the jury have heard and have weighed and have set aside, and have not suffered their verdict to be
+in any way influenced by it. We do not see that with the facts of the case before them and with WILLIAM
+GOULDSTONE'S own words in disproof of the medical testimony, they could have come to any other conclusion.
+WILLIAM GOULDSTONE had become reckless about his own life. He was "ready for the rope," and setting no value upon
+his own existence, he cared the less about depriving his children of theirs. There was no sign of any delusion to
+which he was subject then or at any other time. His conduct was not that of an insane man; there was no sudden
+accession of violence; no notion present to his mind that had any tendency to rob him of his powers of judgment.
+Cool and collected throughout, he formed his murderous scheme with care and forethought, carried it deliberately
+into effect, and did not shrink at the prospect of the fate which he was aware it would entail upon him. If he
+had escaped on the plea of madness, the verdict of the jury would in effect have been that atrocious criminality
+is by itself proof of madness, and that everybody must be pronounced mad who does what his right-minded fellow
+creatures would turn away from with horror. On this theory no criminal could be held deserving of punishment. The
+greater his guilt the more clear and valid would be his excuse. The more deliberate his deed, the more evident
+must it be held that something must have been radically wrong with him, and that the wretched creature was a more
+proper object of pity than of any harsher feeling. In WILLIAM GOULDSTONE'S case, all this could have been pleaded
+with exceptional force, but the jury have taken a correct view of their duty and have not suffered themselves to
+be misled by it. Society, they have declared, must be protected against him and his like. We admit that he has
+acted after his kind; that he has done what his nature has led him to do, but he has given proof thereby that he
+is the type of man against whom our criminal code has been enacted and for whom the extreme penalty of the law is
+the appointed end. We will not refuse him our pity; no one could be more deserving of it; but we couple our pity
+with abhorrence, and we accept unhesitatingly the decision at which the jury have arrived, and the sentence by
+which it has been followed.
