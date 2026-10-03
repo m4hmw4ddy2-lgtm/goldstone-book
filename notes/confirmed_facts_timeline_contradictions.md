@@ -528,6 +528,7 @@ reopened without a new document.
 | 111 | RECORDS | New facts from the Times of 10 August. |
 | 112 | **SETTLED 3 Oct** | Compatible: "about five years" (Graves) and "four years and a half" (the workmen's letter). |
 | 113 | OPEN | Who told William of the twins: Emma (Old Bailey) or Ada (IPN, Chapter Six). |
+| 114 | SETTLED for prose | The asylum cousin was William (his father); Thomas's "Charles" on the printed page is a slip. |
 
 ### 1. WILLIAM'S WORDS ON OPENING THE BEDROOM DOOR
 Multiple sworn versions:
@@ -3199,7 +3200,7 @@ section 3 and the "RESOLVED" block above, where they say the Times does not ment
 
 ### 95. SAVAGE'S INTERVIEW: THURSDAY OR SATURDAY
 Old Bailey "yesterday" and then "on Saturday"; Times "on Thursday" and "yesterday"; the juror "on the Thursday"
-(Daily Telegraph, 17 September). Thursday 13 September. The Old Bailey "Saturday" is a slip.
+(Daily Telegraph, 17 September). Thursday 13 September. The Old Bailey "Saturday" is a slip. **Checked 4 October 2026 against the printed Sessions Paper (p. 616, image 188309100144.jpg): "on Saturday" is printed there, so the slip is the Sessions Paper's, not the website's.**
 
 ### 96. EMMA CLARKE'S DRINK EVIDENCE: INQUEST AGAINST TRIAL
 Inquest: twice, the Bank Holiday and the Thursday after the birth (Daily Telegraph and Times, 11 August; coroner
@@ -3347,3 +3348,12 @@ Emma Clarke at the Old Bailey: "the prisoner was not at home then—when he came
 confined, and that there were two—he looked strange when I told him so—he did not say anything". Chapter Six: "When
 Ada told him, he gave 'one look of anger', as the Illustrated Police News put it". Possibly both told him; possibly
 one. OPEN, for Rik (Chapter Six).
+
+### 114. THE SECOND COUSIN IN THE ASYLUM: CHARLES OR WILLIAM (logged 4 October 2026)
+Thomas at the Old Bailey, from the printed Sessions Paper (p. 611; the website text had dropped part of the line):
+"Charles Gouldstone, a second cousin to the prisoner, died in a madhouse—my father had a sister who wore a strait
+jacket for some years—I don't know whether she died mad or not." Charles Gouldstone of Epping, the same day: "he had a
+son named William, who had been a soldier, and who, about 21st April, 1880, was taken to the Brentford Lunatic Asylum"
+(p. 614). The Times has Thomas say "William Gouldstone, a second cousin of mine". The father's evidence governs: the
+soldier was William. Also new from the page: the strait jacket is in Thomas's sworn evidence, not only the Times's.
+SETTLED for prose (William).
