@@ -297,3 +297,21 @@ question for the consideration of this Court" and that evidence could be produce
 would "get the questions put through counsel at another place"; "The Bench having dissented". Five days earlier the
 coroner had told his jury that sanity "concerned another tribunal". Two tribunals in a week passed the question on.
 None of the exchange is in Gould's sworn deposition, which records his cross-examination as one line.
+
+---
+
+## The grand jury, for Chapter Thirteen's explanatory paragraph (3 October 2026)
+Rik asked for the terms in Chapter Thirteen's last movement (grand jury, true bill, petty jury) to be explained, as the
+three tribunals were in Chapter Ten. Paragraph added after "There were four cases of murder." What it rests on:
+- Blackstone, Commentaries on the Laws of England, Book IV, ch. 23 (1769; Avalon Project text,
+  https://avalon.law.yale.edu/18th_century/blackstone_bk4ch23.asp): sworn "to the amount of twelve at the least, and not
+  more than twenty three"; "to find a bill, there must at least twelve of the jury agree"; "they are only to hear evidence
+  on behalf of the prosecution"; they "endorse upon it, 'a true bill'... The indictment is then said to be found, and the
+  party stands indicted"; then "the whole petit jury, of twelve more, finding him guilty upon his trial."
+- "Men": no woman was eligible for jury service before the Sex Disqualification (Removal) Act 1919 (this file, "Juries
+  in 1883").
+- **CAVEAT, open:** Blackstone is 1769. Nothing known changes these points by 1883, but a source nearer the date
+  (Stephen, A History of the Criminal Law of England, 1883, already on live_lists.md section 4) should confirm them
+  before the chapter is treated as final.
+- In this case: Kerr's charge, true bill returned Tuesday 11 September (Guardian 15 Sep; Times 12 Sep), arraignment
+  Wednesday 12 September "to plead to several indictments" (Guardian 15 Sep).

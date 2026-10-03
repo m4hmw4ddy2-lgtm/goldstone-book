@@ -1208,3 +1208,10 @@ against its source before Rik decided.
 - **Not changed:** "Let me see my wife." in Ch 8 follows the Guardian and Daily News; only the Old Bailey account has a
   question mark.
 
+
+### 3 October 2026: Chapter Thirteen drafted and approved (Rik)
+`chapters/CHAPTER_13.md`, "SOME WAY OF BUSINESS", about 1,900 words, drafted movement by movement 1 to 3 October.
+Every decision: notes/CHAPTER_12_skeleton.md, "CHAPTER THIRTEEN ASSEMBLED". Headlines: Cole and the Spectator left out;
+the heaven letter withdrawn from the chapter (two letters, the heaven one unplaced); a grand-jury paragraph added
+(Blackstone, to confirm from Stephen); "local" for the minstrels withdrawn as unsourced; the IPN 18 August cover has five
+witness portraits. Next chapter: the trial (Chapter Fourteen), not yet planned.

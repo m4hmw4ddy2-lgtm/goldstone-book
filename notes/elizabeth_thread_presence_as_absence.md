@@ -341,7 +341,7 @@ later shows a moustache and no beard. Whether any later paper pictured her is un
 
 **She moves, once, in the four weeks before the trial.** "Since the occurrence I have seen my husband three times at
 the House of Detention" (her statement, Essex Weekly News, 21 September), and a letter from him there in which "he
-spoke of them as being in heaven". Undated. **Placed in Chapter Thirteen by Rik's linear rule (30 September 2026):
+spoke of them as being in heaven". Undated. **[CORRECTED 3 October 2026: her statement describes TWO letters, the heaven letter undated and unplaced and the other dated 15 September from Chelmsford "in the same strain"; the heaven letter is not placed at the House of Detention and is NOT in Chapter Thirteen. It waits for the statement's chapter. The visits are "since the occurrence", so 9 August to 14 September.]** **Placed in Chapter Thirteen by Rik's linear rule (30 September 2026):
 stated as fact, without quoting her statement's words about it**; "as happy as a child at play" waits for the
 statement's chapter.
 

@@ -1,4 +1,6 @@
 # CHAPTER TWELVE — SKELETON (also carries the plan for CHAPTER THIRTEEN)
+# STATUS, 3 October 2026: Chapter Thirteen DRAFTED IN FULL and approved by Rik, chapters/CHAPTER_13.md, about 1,900
+# words. See "CHAPTER THIRTEEN ASSEMBLED, 3 October 2026" at the foot of this file for every decision taken in drafting.
 # STATUS, 1 October 2026 (evening): Chapter Twelve DRAFTED IN FULL, all four movements approved by Rik and assembled
 # in chapters/CHAPTER_12.md, about 1,700 words. Chapter Thirteen is planned, nothing drafted. Every DECIDE
 # point is settled (DECIDE 10 settled 1 October 2026: Chapter Thirteen ends on the arraignment). Contradictions 57 to 61 were entered in the
@@ -51,7 +53,7 @@
    they happened, not where we learned of them.
    **Two consequences for drafting, flagged:**
    - **The visits are undated.** All that is known is "three times at the House of Detention" between the
-     committal and the trial, and one letter from him there. Linear placement means they sit inside the four
+     committal and the trial, and one letter from him there. **[CORRECTED 3 October 2026: the visits are "since the occurrence", 9 August to 14 September, and the heaven letter is not placed at the House of Detention; see CHAPTER THIRTEEN ASSEMBLED below.]** Linear placement means they sit inside the four
      weeks without a date, and the prose must not give them one or an order against the dated events.
    - **The source is her statement of 19 September, which is later.** Linear telling means the chapter can state
      the fact (she went; he wrote to her of the children as being in heaven) without quoting her statement's words
@@ -308,8 +310,8 @@ The second tribunal, and the first with a full sworn record. In the order of the
 ### 2. The four weeks: what the public was given
 Under the press rule, the papers as papers, named and dated, uncorrected.
 - **The IPN of 18 August** (on sale the day of the committal): its front page has the Walthamstow murder across
-  the top (the house, the bedroom engraving, "Witnesses in the Case": Inspector Craggs, Dr Gould, Mrs Hamilton the
-  Nurse, Mrs Clark the Landlady), the Lady Godiva procession at Coventry across the middle, and across the bottom
+  the top (the house, the bedroom engraving, "Witnesses in the Case": Inspector Craggs, Dr Gould, "A Witness" (unnamed),
+  Mrs Hamilton the Nurse, Mrs Clark the Landlady: five portraits, corrected 1 October 2026 from four), the Lady Godiva procession at Coventry across the middle, and across the bottom
   "Horrible Scene at an Execution — Durham", with a medallion portrait of Marwood, the executioner. Observable on
   the image; no gloss needed. (Marwood died early in September, before the trial: "Marwood, the late executioner",
   Essex Weekly News, 21 September. That belongs to the Chelmsford chapter.)
@@ -330,7 +332,7 @@ Under the press rule, the papers as papers, named and dated, uncorrected.
   expectation. The chapter can end here or on Elizabeth (DECIDE 7).
 
 ### 3. Elizabeth (if DECIDE 4 goes for it): the House of Detention
-Three visits, undated; the letter about heaven; nothing else. Short. Possibly the chapter's close.
+Three visits, undated; the letter about heaven [withdrawn 3 October 2026, see below]; nothing else. Short. Possibly the chapter's close.
 
 **Word estimate:** 2,200 to 2,800. Chapter Ten is 3,384 and was nearly split for length; this should not be.
 
@@ -681,3 +683,50 @@ whatever in the house") and the newspaper cutting of "two recent murders" said t
 (Contradictions 70 and 71). Both are press, usable as the Guardian's words. **1 October 2026 (Rik): the first letter is
 now in Chapter Ten (Contradiction 71); the money thread therefore begins there, with "a few pounds to provide present
 necessities".**
+
+---
+
+## CHAPTER THIRTEEN ASSEMBLED, 1 to 3 October 2026 (Rik)
+`chapters/CHAPTER_13.md`, about 1,900 words, four movements, approved by Rik 3 October 2026.
+
+**Shape as drafted.** (1) The sermon of Sunday 19 August with the Friday visit inside it as the vicar told it; the
+Morning Advertiser's line that Miss Skinner wished to visit again (no source says she did). (2) The IPN covers of 18
+and 25 August described from the page images, the newsagents' notice between them; the Guardian leader of 25 August
+(the "Voice from the embryo English Revolution" letter; "go far to establish a belief in his insanity"). (3) The
+money: the Club Minstrels (28 August), the leader of 1 September ("some way of business"), the vicar's letter and the
+workmen's (5 September, printed 8th), the memorial and the £20; then the visits line. (4) The sessions (10
+September), a paragraph explaining the grand jury, Kerr's charge, the true bill (11th), the arraignment (12th), ending
+"The trial was fixed for the Friday morning."
+
+**Decisions taken in drafting:**
+- **Cole and the Spectator left out of Chapter Thirteen** (Rik, 3 October 2026: "very thin indeed"). Supersedes
+  decision 2 above. His trial, reprieve and the Tuke pairing still go to the reprieve chapter.
+- **The heaven letter is NOT in Chapter Thirteen.** Her statement describes two letters: "In a letter I had from him he
+  spoke of them as being in heaven ... Here is a letter I have from him, dated the 15th, in the same strain". The dated
+  one is from Chelmsford and does not speak of the children in heaven; the heaven letter is undated and unplaced (it
+  could be from Chelmsford, 15 to 18 September). Earlier notes' "a letter from him there [the House of Detention]" was
+  our inference and is withdrawn. The letter goes to the statement's chapter.
+- **The visits' window is 9 August to 14 September**, not committal to trial ("Since the occurrence"). Prose: "Before
+  he was tried, Elizabeth went to see him three times at the House of Detention." Undated; no words of hers. "Once at
+  the Old Bailey" is left for the statement's chapter.
+- Left out: the Guardian's "daughter of the late Mr. John Ansell, junr." (Rik: no need to include a clearly erroneous
+  report); the Liverpool Mercury of 10 September; Forrest Fulton (Contradiction 73); any echo of "at another place".
+- The vicar's "never absented himself a single day" goes in uncorrected (press rule; Rik confirmed).
+- The sermon's baptism lines kept, including "If it dies in infancy..."; quoted whole with his Prayer Book phrases
+  nested in single quotation marks.
+- IPN covers: described, not characterised (no "sensational" in our voice). 18 August: five witness portraits (one
+  "A Witness", unnamed; notes corrected); the woman "with two infants in her arms" (Rik's reading of the image). 25
+  August: one sentence on the rest of the page, the two child-killing panels only.
+- Minstrels: "plantation dances" and "eleven of the coloured minstrels appeared" kept as printed and quoted; "These were
+  men in blackface" is ours. "Local" withdrawn: not in the report (it came from our transcriber's note).
+- The 1 September leader quoted where its words are used; no half-quoted paraphrase.
+- Date-formula tic removed: no sentence opens "On the [day], the [date]"; one "On the Wednesday" kept.
+- Grand-jury explainer added after "There were four cases of murder." (Rik), sourced to Blackstone, Book IV ch. 23;
+  CAVEAT: confirm from Stephen (1883). See part_three_context_law_and_medicine.md.
+- Kerr's "who lived in Walthamstow" quoted, so the tense is the paper's.
+- Outside feedback of 3 October reviewed point by point; no text changed. Its four-category test would have cut the
+  visits line, which is kept as the one thing Elizabeth does on her own account.
+
+**Image checks done for this chapter (recorded in each transcription header):** Guardian 25 August (sermon and leader),
+1 September (leader; Workmen's Hall), 8 September (both letters), 15 September (whole item, "in a firm tone"); Times 12
+September. IPN covers read from the images.

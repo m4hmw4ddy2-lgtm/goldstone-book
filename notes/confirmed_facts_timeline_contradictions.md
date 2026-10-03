@@ -2681,7 +2681,9 @@ between Gould and William, and dramatis_personae has been corrected. The rest of
   in court, while her intimate knowledge of his history would have been of the highest value to a medical
   commission." About Cole's wife, not Elizabeth. Logged in the Elizabeth thread file as context.
 - **The Police News pictured Elizabeth.** Cover of 18 August: a woman sitting up in bed, two infants on the coverlet,
-  a bearded man with a hammer. A week later its portrait of "The Prisoner Gouldstone" shows a moustache and no beard.
+  a bearded man with a hammer. (Its "Witnesses in the Case" panel has FIVE portraits: Craggs, Dr Gould, "A Witness",
+  unnamed, Mrs Hamilton the Nurse, Mrs Clark the Landlady. Checked against the image 1 October 2026; earlier notes
+  listed four.) A week later its portrait of "The Prisoner Gouldstone" shows a moustache and no beard.
   Whether later papers pictured her is unchecked.
 
 ### RECONCILED 30 September 2026 WITH A PARALLEL SESSION'S QUOTATION CHECK OF CHAPTERS EIGHT TO ELEVEN
