@@ -27,6 +27,11 @@ complaint; Thomas's examination from "the prisoner was born" and his cross-exami
 corrected: "witnesses after witness" -> "witness after witness"; "Bethlem Hospital" -> "Bethlehem Hospital" (Grain's
 opening; Savage's own evidence is printed "Bethlem" lower down, not checked); "the prisoner should become unhinged" ->
 "the prisoner's mind became unhinged".
+CHECKED AGAINST THE IMAGE, 4 October 2026 (Chapter Fourteen, movement four): Savage's evidence, from "Dr. Savage,
+the principal physician" (foot of column two) to "From what witness" (column three). Four misreadings corrected:
+"physician at the Bethlem Hospital" -> "physician of the Bethlehem Hospital"; "heard the fellow workmen" -> "heard his
+fellow workmen"; "liability to insanity in the prisoner" -> "in the offspring" (the Times agrees with the Old Bailey);
+"At Bethlem the last patient" -> "At Bethlehem the last patient".
 
 TRANSCRIPTION
 
@@ -97,13 +102,13 @@ Dr. Sunderland, a medical man practising at Thaxted, in Essex, spoke to having a
 
 Replying to Mr. Poland, witness said that neither the mother nor her sister had been certified as insane.
 
-Dr. Savage, the principal physician at the Bethlem Hospital, deposed that he had examined the prisoner, and from the examination alone he considered him rather weak in his mind, as was evidenced by slowness of appreciation of questions concerning the crime of which he was accused. When speaking about it he seemed not to appreciate in any way the gravity of the charge. Beyond that, from his personal examination witness could say nothing. He had heard the evidence of the prisoner being a fond husband and father and a quiet and steady workman, and details of the case, and he should think that his mind was unsound at the time the act was committed. He had heard the fellow workmen describe his wishing to be dead, and of his wanting to fall down the lift, and witness was of opinion that such symptoms were frequently present with persons of unsound mind.
+Dr. Savage, the principal physician of the Bethlehem Hospital, deposed that he had examined the prisoner, and from the examination alone he considered him rather weak in his mind, as was evidenced by slowness of appreciation of questions concerning the crime of which he was accused. When speaking about it he seemed not to appreciate in any way the gravity of the charge. Beyond that, from his personal examination witness could say nothing. He had heard the evidence of the prisoner being a fond husband and father and a quiet and steady workman, and details of the case, and he should think that his mind was unsound at the time the act was committed. He had heard his fellow workmen describe his wishing to be dead, and of his wanting to fall down the lift, and witness was of opinion that such symptoms were frequently present with persons of unsound mind.
 
 The witness was about to be asked what conclusion he arrived at after hearing the evidence of insanity on both the paternal and maternal side of the family, when
 
 Mr. Justice Day said it seemed to him that that was the question the jury had to decide. A doctor was entitled to give his medical evidence, but not to draw a conclusion which the jury had to draw.
 
-Dr. Savage, in answer to further questions, said the insanity on the mother’s side being proved, he thought there would be a great tendency for the prisoner to become insane, and that if insanity, even in a remote degree, was proved on the male side the liability to insanity in the prisoner would be increased to a considerable extent. At Bethlem the last patient who died without being removed to Broadmoor was a woman who had killed her whole family.
+Dr. Savage, in answer to further questions, said the insanity on the mother’s side being proved, he thought there would be a great tendency for the prisoner to become insane, and that if insanity, even in a remote degree, was proved on the male side the liability to insanity in the offspring would be increased to a considerable extent. At Bethlehem the last patient who died without being removed to Broadmoor was a woman who had killed her whole family.
 
 Replying to Mr. Poland, witness said he examined the prisoner on Thursday between a quarter and half an hour. He was called by the prisoner’s solicitor, and he knew he had to examine him as to the state of his mind. From his conversation alone there was nothing to show that he was otherwise than a sane man. From what witness saw of him yesterday he would not certify the prisoner to be a lunatic, and he would say that he was not actively suffering from any form of mental disease that he knew of. He could not, therefore, certify that he was a lunatic. His conversation with witness was that of a rational man, and he should say the prisoner knew that the penalty awarded by law for the crime of murder was death. When he said he thought the prisoner was of unsound mind at the time of the commission of the act he formed the opinion from what he heard in court and from his examination of him. He thought he knew the penalty of what he was doing at the time, and that he had killed the children knowing that the penalty was death.
 
