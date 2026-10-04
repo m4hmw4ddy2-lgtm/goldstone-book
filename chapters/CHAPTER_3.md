@@ -42,7 +42,7 @@ A juryman interrupted before the court could move on.
 
 Thomas did not pause for it. "I have taken a knife away from her several times during that time. She was going to make an end of herself, as far as I could see."
 
-Thomas could put a date on it, but how many times he never said, only "several." Ann, the sister whose wedding Emily had witnessed, Mrs Andrews now, at Thaxted, suffered the same, serious enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had died by suicide. And in 1880, a second cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
+Thomas could place it in time, but how many times he never said, only "several." Ann, the sister whose wedding Emily had witnessed, Mrs Andrews now, at Thaxted, suffered the same, serious enough to need a surgeon's ongoing care. His aunt had spent some years bound in a strait jacket. A great-uncle of William's had died by suicide. And in 1880, a second cousin, a soldier also named William, was taken to the Brentford asylum and never came out of it, dead within the year and a half.
 
 This was what Emily carried while she raised seven children, and what Thomas carried from his own side of the family, in the same house.
 
