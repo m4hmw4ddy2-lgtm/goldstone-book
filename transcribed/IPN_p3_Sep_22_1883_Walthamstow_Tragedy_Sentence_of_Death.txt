@@ -4,7 +4,15 @@ Date if visible: Not visible in cropped image
 Page/column/article if known: Page/column not visible; article headed “THE WALTHAMSTOW TRAGEDY.—SENTENCE OF DEATH.”
 Transcription scope: Visible article headed “THE WALTHAMSTOW TRAGEDY.—SENTENCE OF DEATH.”
 Transcription status: Complete
-CHECKED AGAINST THE IMAGE, 3 October 2026 (Chapter Fourteen skeleton): the head of the report ("twenty-five") and the foot (the direction, verdict and sentence). Agrees with the image. The middle has not been checked.
+CHECKED AGAINST THE IMAGE, 3 October 2026 (Chapter Fourteen skeleton): the head of the report ("twenty-five") and the foot (the direction, verdict and sentence). Agrees with the image. The middle has not been checked,
+except: CHECKED AGAINST THE IMAGE, 4 October 2026 (Chapter Fifteen, movement one): the close of Grain's speech, from
+"what sort of man the prisoner had been" to "give their verdict conscientiously", and Poland's reply from "Mr. Poland,
+replying on behalf of the Crown" to "whether the prisoner really knew what he was doing". Agrees with the image.
+NOTE (4 October 2026): for the two speeches this is the SAME TEXT as the Times of 15 September (Grain's closing almost
+word for word; Poland's last two sentences word for word), each paper cutting it differently: one witness, not two.
+The IPN keeps the middle of Poland's reply ("twenty-six years of age", "ridiculous to imagine", the revolver and the
+drink), which the Times omits; the Times keeps "a very dangerous precedent", which the IPN omits. From the summing-up
+on, the IPN is the agency text it shares with the Guardian and the Daily Telegraph.
 
 TRANSCRIPTION
 
