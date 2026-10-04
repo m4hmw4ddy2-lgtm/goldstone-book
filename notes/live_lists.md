@@ -109,6 +109,23 @@
 - The Cock Inn licensee William Piggott (1874) and the Piggott carpenters of 1891.
 
 ## 3. ACTIONS PENDING
+- (Added 4 October 2026, Rik, after an outside critique of Prologue to Chapter Fourteen.) REVISION SCHEDULE:
+  NOW (DONE 4 October 2026, Rik: all four applied, the optional one with John Ansell senior's death, Q3 1864, from
+  the GRO index): three breaches of standing rules: Chapter Four's invented "representative lives" ("a daughter going into
+  service in London and not coming home for Christmas ..."); Chapter Three's "what happens in a family at that age is
+  not forgotten"; Chapter One's Hillfoot House "survives today" (a present-day guidebook aside the 21 September pass
+  cut elsewhere). Optional: Chapter One's "Elizabeth would only ever have known him as he was that year" (the census
+  facts are sourced; her memory is inference; no death date for John Ansell Sr is held).
+  END OF PART THREE: the governing-test pass on Chapters Ten to Twelve (the three tribunals hear the same witnesses;
+  Chapter Ten, 3,482 words, is the longest chapter).
+  AFTER THE FULL DRAFT (not before: later parts may turn Part One detail into evidence): cut Part One by about 15%
+  under the test "does this deepen Elizabeth, William, the crime, or the world that produced them?" (Brewery House's
+  other households, the windmill, chapel and inns, Queensland and the lockout run long; the water supply and the straw
+  trade earn their place); compress the Gouldstone lineage to Joseph and Thomas, Edward and Robert to a clause (the
+  family tree carries them), keeping the forge passed father to son; a cadence pass ("It was X. It was Y.", "He did
+  not ...", short reversals at paragraph ends); a repetition check on Chapters Seven and Eight, cutting only repeats
+  that carry no disagreement and no new viewpoint. Keep the Prologue as it is; keep every point where sources
+  disagree; keep the author's presence scarce; keep the weight on Elizabeth.
 - (Added 4 October 2026, Rik; settled the same day.) BACK MATTER, in this order: (1) a family tree; (2) "People in
   This Story" (not "List of Characters", which sounds fictional); (3) notes, sources, acknowledgements. "People in
   This Story": selective, 15 to 25 people, grouped loosely (families / witnesses / officials / later family), one line

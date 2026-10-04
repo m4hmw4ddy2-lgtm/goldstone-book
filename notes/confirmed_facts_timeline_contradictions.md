@@ -356,6 +356,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 19 Jul 1856 | John Nathan Ansell buried (as "Nathan"), Wethersfield, age 22 | D/P 119/1/7 |
 | 11 Jul 1858 | George Ansell buried, Wethersfield, age 19 | D/P 119/1/7 |
 | 2 Nov 1861 | Emma Ansell buried, Wethersfield, age 21: the last of Jemima's eight Ansell children to die | D/P 119/1/7 |
+| Q3 1864 | John Ansell senior (Jemima's first father-in-law; 75 in 1851, 85 and blind in 1861, both in Jemima's household) dies, Braintree district, age 88. Elizabeth was nine | GRO death index, 1864 S quarter, Braintree 4a 225 (supplied by Rik, 4 Oct 2026) |
 | 27 Dec 1865 | Ruth Gouldstone (Joseph's wife, Thomas's mother) dies, Great Sampford, age 72 (registered 1 Jan 1866) | GRO death certificate, obtained 7 Sep 2026 |
 | 1871 | Elizabeth Stock, general servant, with Susan Newman, nursemaid (also b. Wethersfield), at 115 Albion Road, Stoke Newington, household of the solicitor George Horace David Chilton. The census gives them as 18 and 16; their birth and baptism dates make them the same age (Elizabeth 16) | 1871 census |
 | 25 Oct 1873 | Jemima Stock dies, Dog Chase, Wethersfield, age 61. Cause: neuralgia (6 weeks), congestion of the brain (3 weeks). Braintree is the registration district | GRO death certificate (checked 9 Sep 2026) |
