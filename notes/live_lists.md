@@ -112,7 +112,7 @@
 - (Added 4 October 2026, Rik; settled the same day.) BACK MATTER, in this order: (1) a family tree; (2) "People in
   This Story" (not "List of Characters", which sounds fictional); (3) notes, sources, acknowledgements. "People in
   This Story": selective, 15 to 25 people, grouped loosely (families / witnesses / officials / later family), one line
-  each, birth year only (or baptism year, or "c."), no death years. Draft: backmatter/PEOPLE_IN_THIS_STORY.md (one table per group: name, year, who). Family trees
+  each, birth year only (or baptism year, or "c."), no death years. Draft: backmatter/PEOPLE_IN_THIS_STORY.md (a list, not a table: name in bold with year, the description on the line below). Family trees
   drafted 4 October 2026: backmatter/family_tree_1_to_1883.svg and family_tree_2_elizabeths_later_family.svg;
   .png previews alongside; regenerate the SVGs with backmatter/make_family_trees.py, run from the repository root. Birth years only. Stephen 1944 and Robert George 1968
   from the GEDCOMs (sources/genealogy/).
