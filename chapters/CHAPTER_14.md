@@ -1,6 +1,6 @@
 Chapter Fourteen
 
-MERE FITTING UP
+WILLIAM, ARE YOU WELL?
 
 He was placed at the bar on the Friday morning, before Mr Justice Day, and while the jury were being sworn he stood with his thumbs in the sleeveholes of his waistcoat. He had "looked carelessly round the Court", the Essex Weekly News reported, and he "stood calmly".
 
