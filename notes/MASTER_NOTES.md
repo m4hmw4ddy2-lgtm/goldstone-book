@@ -1248,3 +1248,22 @@ witness portraits. Next chapter: the trial (Chapter Fourteen), not yet planned.
   - Chapter Ten: Lister's words to Ada as she left the box (27, Times, 10 August, a public scene stated as fact).
   - Chapter Thirteen: "twenty pounds" twice (29); the Leamington notice in the Times dated 10 September (28).
   - DECIDE 30 (the reprieve chapter's money) recorded for when it is drafted.
+
+---
+
+## SESSION, 4 October 2026: CHAPTER FOURTEEN DRAFTED AND APPROVED
+- `chapters/CHAPTER_14.md`, "MERE FITTING UP", about 2,700 words, four movements: the bar and the Crown's case; Grain's
+  opening and the family; the shop; Savage, ending on "I believe that he knew he was killing the children," Savage
+  said, "and that the penalty for that act was death." Every decision: notes/CHAPTER_14_skeleton.md.
+- **Two drafting rules from Rik, for Chapter Fifteen and after:** (1) no unnecessary compression: one subject to a
+  paragraph, witnesses at length in their own words, cross-examination in its own paragraph, few bridges in our voice;
+  (2) selection under the governing test: the reader already knows the murders, so evidence goes in only where it
+  bears on the question the court was deciding.
+- The Old Bailey website text collated line by line against the printed Sessions Paper (images
+  sources/images/old-bailey-images/, pp. 606-616): a dropped clause in Thomas's evidence restored (the strait jacket is
+  sworn; Contradiction 114), and some twenty slips corrected; "on Saturday" is the Sessions Paper's own (Contradiction
+  95). The Times of 15 September checked against the image for Poland's opening (one quotation, "I shall be hung, and
+  I am ready for the rope."), Grain's opening, the delay and Savage's evidence ("in the offspring", not "in the
+  prisoner").
+- Contradictions 113 (who told William of the twins) and 114 (the asylum cousin, Charles or William) logged.
+- Back matter settled (Rik): family tree; "People in This Story" (selective, birth years only); notes. See live_lists.md.

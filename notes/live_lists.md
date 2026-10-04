@@ -10,8 +10,8 @@
 ## 1. DECISIONS WAITING FOR RIK
 - None as of 3 October 2026. Chapter Fourteen DECIDE 1 to 15 and the chapter decisions 17 to 30 were all accepted as
   recommended (Rik: "I accept your recommends on all decisions"); 16 was replaced by 28; 23 ("Open the door.", optional)
-  was not used. Record: MASTER_NOTES, session of 3 October 2026. Next: Chapter Fourteen, drafted one movement at a
-  time, each shown before the next.
+  was not used. Record: MASTER_NOTES, session of 3 October 2026. Chapter Fourteen drafted and approved 4 October
+  2026. Next: Chapter Fifteen, "The Form of Their Verdict" (speeches, summing-up, verdict, sentence, the 8.12 train).
 - To carry into the reprieve chapter (DECIDE 30): the Times notice of 12 October, £35 14s. 4d., in our voice as
   "thirty-five pounds fourteen shillings and fourpence"; Graves's "£36" and "£50" only inside his own words.
 
@@ -109,6 +109,11 @@
 - The Cock Inn licensee William Piggott (1874) and the Piggott carpenters of 1891.
 
 ## 3. ACTIONS PENDING
+- (Added 4 October 2026, Rik; settled the same day.) BACK MATTER, in this order: (1) a family tree; (2) "People in
+  This Story" (not "List of Characters", which sounds fictional); (3) notes, sources, acknowledgements. "People in
+  This Story": selective, 15 to 25 people, grouped loosely (families / witnesses / officials / later family), one line
+  each, birth year only (or baptism year, or "c."), no death years. Draft: chapters/PEOPLE_IN_THIS_STORY.md (local, not
+  yet committed). Family tree: to plan (Jemima/Ansell/Stock/Gouldstone/Madams/Albert are the confusing joins).
 - **Vestry House** (vestry.house@walthamforest.gov.uk): Gouldstone and Grantham Robinson biography files; W28 St
   James's Street buildings file; rate books 1880-1900; Burial Board minutes; photographs of Courtenay Place;
   demolition date.

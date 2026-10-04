@@ -351,7 +351,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 30 Jan 1851 | Thomas Gouldstone marries Emily Willett | Marriage record |
 | 15 Mar 1851 | Sarah Stock née Newman (Thomas Stock's mother) buried, Finchingfield, age 86 | D/P 14/1/8, p.187 |
 | 16 Jun 1854 | Thomas Stock (widower) marries Jemima Ansell née Suckling (widow), Wethersfield, after banns; both sign with a mark | D/P 119/1/10 (witnesses Robert Suckling and Frederick Smee) |
-| 18 Feb 1855 | Elizabeth Stock born, "The Village", Wethersfield. Six Ansell half-siblings then living | GRO birth certificate |
+| 18 Feb 1855 | Elizabeth Stock born, "The Village", Wethersfield. Three Ansell half-siblings then living (John Nathan, George, Emma; corrected 4 Oct 2026 from "Six": five of the eight were buried 1844-47, rows above, and Chapter Two has "Three children remained") | GRO birth certificate |
 | 10 Oct 1856 | William Gouldstone born, Great Sampford | Full GRO birth certificate, obtained 10 Sep 2026 |
 | 19 Jul 1856 | John Nathan Ansell buried (as "Nathan"), Wethersfield, age 22 | D/P 119/1/7 |
 | 11 Jul 1858 | George Ansell buried, Wethersfield, age 19 | D/P 119/1/7 |

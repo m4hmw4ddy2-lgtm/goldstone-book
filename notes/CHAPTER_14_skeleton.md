@@ -1,6 +1,6 @@
 # CHAPTER FOURTEEN: SKELETON (the trial, Friday 14 September 1883)
-# STATUS, 4 October 2026: MOVEMENTS ONE AND TWO DRAFTED AND APPROVED (Rik), chapters/CHAPTER_14.md (held locally, not
-# uploaded until the chapter is finished). Movements three and four to come.
+# STATUS, 4 October 2026: CHAPTER FOURTEEN DRAFTED IN FULL AND APPROVED (Rik: "14 is good to go"), chapters/CHAPTER_14.md,
+# "MERE FITTING UP", about 2,700 words, four movements. Chapter Fifteen ("The Form of Their Verdict") next.
 # (Earlier status, 3 October 2026: proposed; all DECIDE points then accepted as recommended, see below.)
 # First proposed 3 October 2026, after a full source sweep for Friday 14 September and the days that report it.
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
@@ -256,7 +256,7 @@ None of these is needed to draft the trial day as proposed below. Items 1 and 2 
    in readiness when called": the arrangements for "witnesses, juries, and other persons" were "so exceedingly bad that
    they would not be allowed in any other large town". The delay was the defence's witnesses, the ones the trial had
    been put off two days to wait for (Chapter Thirteen).
-5. **Savage in the box, two lines not yet in the notes** (Times): "At Bethlem the last patient who died without being
+5. **Savage in the box, two lines not yet in the notes** (Times): "At Bethlehem the last patient who died without being
    removed to Broadmoor was a woman who had killed her whole family." And his evidence-in-chief, Old Bailey: "the
    insanity on the mother's side having been proved, I should say the prisoner has a very great tendency to become
    insane, and if insanity, however remote, were proved on the male side, it would considerably increase the
@@ -355,7 +355,7 @@ Sunderland in full.
 **3. The shop.** Graves; Cakebread; Bennett; John Clark (a workmate, no relation to the landlord: the prose must make
 that plain); Skelton and the lift; Westbrook ("it is mere fitting up, work which has been fitted before"); Kennard
 ("the whole feeling of his fellow-workmen is that he is certainly insane"); Byford.
-**4. Savage.** Examination; Day's intervention (Times); "At Bethlem the last patient..."; Poland's
+**4. Savage.** Examination; Day's intervention (Times); "At Bethlehem the last patient..."; Poland's
 cross-examination. **Ends on the last line of the evidence in the Old Bailey account**: "I believe that he knew he was
 killing the children, and that the penalty for that act was death." (DECIDE 2.)
 
@@ -623,3 +623,28 @@ Lancet, 22 September (whole letter; transcription agrees). Old Bailey: no image 
 - Order: the Old Bailey calls Charles of Epping and Sunderland after the shop; the draft groups them with the family
   and states no sequence between them.
 - Unattributed lines from press reports of sworn evidence: none.
+
+## THE SELECTION RULE, AND MOVEMENTS THREE AND FOUR, 4 October 2026 (Rik: approved)
+- **Rik, before movement four: "we now have enough courtroom/legal material that the coming Old Bailey chapter needs to
+  be especially selective ... It needs to show what changes when all of those facts are put before the petty jury under
+  the governing legal test."** Rule applied to all four movements: evidence earns its place if it bears on the jury's
+  question (did he know the nature and quality of the act; did he know it was wrong) or on the Act; the selection, not
+  a sentence of ours, shows that the defence proved despondency and heredity while the test asked about knowledge.
+  Movements one to three redrafted on it (about 4,000 words cut to about 2,100), keeping the texture rule of movement
+  two (fewer witnesses, each at length). Chapter Fifteen inherits the rule.
+- Cut on the rule: Emma's "examined before the Coroner" and her drink answer (Contradiction 96 untouched in prose);
+  Cheeseman and the hammer; Grain's appeal for calm; Thomas's re-examination; Robert's aunt on the chairs; Emily's
+  threats; most of Sunderland; Graves's lodgers (Chapter Five has them); Cakebread's train dates; Bennett's
+  examination-in-chief; Clark's cross-examination; Skelton's Salvation Army morning; Westbrook's examination except
+  "moroseness"; Byford's "fortnight before Bank Holiday".
+- Rik's line fixes: Robert's paragraph split (William / their mother / cross-examination); Graves on the Saturday
+  recast; Cakebread's "he has complained" paraphrased in the past; paragraph openings varied through the defence;
+  Byford moved into the family group so that movement three ends on Kennard.
+- "Out of the way": in the period, to kill, make away with (put out of the way). No gloss: Cakebread's "kill himself
+  right out without lingering afterwards" precedes Clark's and Skelton's uses. If ever glossed, in Chapter Nine.
+- Movement four (Savage): the Old Bailey account for the examination and cross-examination; the Times (image checked
+  4 October) for Day's words, "in answer to further questions", and the Bethlehem patient; "on the Thursday" from the
+  Times (Contradiction 95; the Sessions Paper's own "on Saturday" kept out of the quotation). Day's intervention is
+  given as what he said, not as "stopped" or "refused". Savage's long answer quoted whole (Rik: "leave the full quote").
+  The chapter ends on his last answer, split by "Savage said" so the speaker is plain.
+- Unattributed lines from press reports of sworn evidence in the whole chapter: none.
