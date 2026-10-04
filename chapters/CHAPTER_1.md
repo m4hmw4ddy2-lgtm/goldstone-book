@@ -12,7 +12,7 @@ Brewery House was the name for the whole of Thomas Raven's brewing works, and in
 
 The brewery was as new as Elizabeth was. It had been established in 1855, the year she was born.
 
-The house Raven himself lived in survives today, known as Hillfoot House: a handsome, double-fronted house of rendered brick, with a bay window rising the full two storeys on either side of its front door and a tall brick chimney at each end of the roof. Behind it, the windmill on the western edge of the village stood close enough for the sails to be visible from the yard, across flat, open ground with nothing standing in between. Mill and malt turned within sight of each other. Near the mill stood the Independent chapel, with a burial ground of its own. In front, the village green stretched between the house and the church beyond.
+Behind Raven's own house, the windmill on the western edge of the village stood close enough for the sails to be visible from the yard, across flat, open ground with nothing standing in between. Mill and malt turned within sight of each other. Near the mill stood the Independent chapel, with a burial ground of its own. In front, the village green stretched between the house and the church beyond.
 
 St Mary Magdalene had stood on the same ground for the better part of nine hundred years by the time Elizabeth was born. Some of it predated William the Conqueror; a scrap of Anglo-Saxon wall was still visible where the nave met its northwest corner. Her mother had been married there twice.
 
@@ -26,7 +26,7 @@ In 1861 the parish covered a little over four thousand acres and held something 
 
 John Ansell had not always been the guest, or the burden. Twenty years earlier he had been the head of his own household on Dog Chase: an established brewer with his son, also John, working the land, and that son's wife and their six small children living under his roof and within his good graces. The son's wife was Jemima. She would go on to marry Thomas Stock and become Elizabeth's mother, but not yet. Not for another thirteen years. The younger John Ansell died in April 1845, just thirty-two years old. What became of his father afterward is written plainly enough in the record, if nowhere else. By 1851 his own wife, Elizabeth, was gone too, dead that February. His trade had gone from the record with her. In that year's census he was recorded as an agricultural labourer and widower, living in his daughter-in-law's house, as she and her children had once lived in his. Ten years further on he was blind as well, the declining years of a fall that had begun a decade earlier, brewer to labourer to dependent.
 
-Elizabeth would only ever have known him as he was that year: old and sightless, a man who had once run a business and headed a household and had, by the time she could form any memory of him at all, nothing left but a place at his daughter-in-law's table. He was still grandfather to Jemima's Emma.
+In 1861, when Elizabeth was six, he was old and sightless, a man who had once run a business and headed a household and had nothing left but a place at his daughter-in-law's table. He died three years later, when she was nine. He was still grandfather to Jemima's Emma.
 
 She would have known Emma better. Twenty years old that April, working the straw the way half the village did, sharing whatever passed for ordinary days in their crowded house. The census called her a daughter-in-law. To Elizabeth she was a big sister, the one who still lived at home and always had.
 

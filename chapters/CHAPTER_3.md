@@ -46,4 +46,4 @@ Thomas could put a date on it, but how many times he never said, only "several."
 
 This was what Emily carried while she raised seven children, and what Thomas carried from his own side of the family, in the same house.
 
-In a household like this one, a boy of fourteen was very nearly a man, and what happens in a family at that age is not forgotten. This was the house William grew up in: the forge, the bar, his mother. Whatever he made of it, he carried it with him when he left.
+This was the house William grew up in: the forge, the bar, his mother.
