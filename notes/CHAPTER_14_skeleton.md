@@ -1,6 +1,6 @@
 # CHAPTER FOURTEEN: SKELETON (the trial, Friday 14 September 1883)
 # STATUS, 4 October 2026: CHAPTER FOURTEEN DRAFTED IN FULL AND APPROVED (Rik: "14 is good to go"), chapters/CHAPTER_14.md,
-# "MERE FITTING UP", about 2,700 words, four movements. Chapter Fifteen ("The Form of Their Verdict") next.
+# "WILLIAM, ARE YOU WELL?" (retitled 4 October 2026 from "Mere Fitting Up"; DECIDE 14 amended), about 2,700 words, four movements. Chapter Fifteen ("The Form of Their Verdict") next.
 # (Earlier status, 3 October 2026: proposed; all DECIDE points then accepted as recommended, see below.)
 # First proposed 3 October 2026, after a full source sweep for Friday 14 September and the days that report it.
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
@@ -384,7 +384,8 @@ his words after the verdict, named (4a); "once at the Old Bailey" held (5a); one
 Thomas's cross-examination and re-examination only (7a); Graves's and Bennett's answers as given, the trial as the
 unaccounted day's home (8a); the Act three times, attributed, no gloss (9a); the Times's direction (10a); readings
 attributed, one naming per passage (11); Poland's opening for its law only (12a); Kennard, Elliott, Bethlem (13);
-"Mere Fitting Up" and "The Form of Their Verdict" (14). DECIDE 16 replaced by 28 (live_lists.md).
+"Mere Fitting Up" and "The Form of Their Verdict" (14; Chapter Fourteen retitled "William, are you well?",
+4 October 2026: see DECIDE 14). DECIDE 16 replaced by 28 (live_lists.md).
 
 **DECIDE 1. One chapter or two, and where the break falls.**
 (a) **Two chapters, the break at the close of the evidence** (recommended). Chapter Fourteen ends on Savage conceding,
@@ -494,6 +495,11 @@ Kennard. "Elliott", as in Chapter Thirteen. "Bethlem" (Savage's own heading in t
 17 September letter and the Old Bailey)? Recommended Bethlem in our voice, the source's spelling inside quotations.
 
 **DECIDE 14. Titles.** All from the day's own record.
+- **AMENDED 4 October 2026 (Rik): Chapter Fourteen is "WILLIAM, ARE YOU WELL?"** (Graves, Old Bailey, 2 August: "William,
+  are you well, or have you got the toothache?"), chosen over "Mere Fitting Up" and "The Same Form of Insanity"
+  (Sunderland): the trial's question in the plainest words, from the man who had known him longest; the only line in
+  the chapter in which anyone speaks to William by name. The heading carries the question mark; "or have you got the
+  toothache?" stays in the text. The original recommendation follows, superseded:
 - Chapter Fourteen (if 1a): **"Mere Fitting Up"** (Westbrook: "it is mere fitting up, work which has been fitted
   before"; recommended: the firm's own measure of the man, said for the defence, and it does not reach for the
   verdict). Or "It Will Only Kill Me Out of the Way" (William to Skelton, at the broken lift). Or "Not in Readiness"

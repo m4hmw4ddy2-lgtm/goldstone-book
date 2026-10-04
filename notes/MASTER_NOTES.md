@@ -1252,7 +1252,7 @@ witness portraits. Next chapter: the trial (Chapter Fourteen), not yet planned.
 ---
 
 ## SESSION, 4 October 2026: CHAPTER FOURTEEN DRAFTED AND APPROVED
-- `chapters/CHAPTER_14.md`, "MERE FITTING UP", about 2,700 words, four movements: the bar and the Crown's case; Grain's
+- `chapters/CHAPTER_14.md`, "WILLIAM, ARE YOU WELL?" (retitled the same day from "Mere Fitting Up", Rik), about 2,700 words, four movements: the bar and the Crown's case; Grain's
   opening and the family; the shop; Savage, ending on "I believe that he knew he was killing the children," Savage
   said, "and that the penalty for that act was death." Every decision: notes/CHAPTER_14_skeleton.md.
 - **Two drafting rules from Rik, for Chapter Fifteen and after:** (1) no unnecessary compression: one subject to a
