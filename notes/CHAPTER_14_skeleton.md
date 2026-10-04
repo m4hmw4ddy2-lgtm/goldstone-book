@@ -361,7 +361,7 @@ killing the children, and that the penalty for that act was death." (DECIDE 2.)
 
 ### Chapter Fifteen: Friday afternoon to Friday night
 **1. The speeches.** Grain's closing ("short and simple, but heart-rending and awful"; "a sudden visitation of
-Providence"); Poland's reply ("if they were to consider the brutalities evidence of insanity, it would be a very
+Providence"); Poland's reply ("if they were to consider the brutality evidence of insanity, it would be a very
 dangerous precedent").
 **2. The summing-up.** Day on the law, in the Times's words (the nature and quality of the act; "knew that he was
 doing wrong"); "previous to the 8th of August no one would have said the prisoner was a man of unsound mind"; the Act,
