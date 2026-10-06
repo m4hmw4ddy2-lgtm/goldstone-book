@@ -4,7 +4,7 @@ THE LEDGER
 
 Elizabeth Stock was born on the eighteenth of February 1855. The registrar wrote her birthplace down as 'The Village, Weathersfield', and her father as Thomas Stock, agricultural labourer. Her mother's name went down in full: Jemima Stock, late Ansell, formerly Suckling.
 
-Nobody recorded what Elizabeth's childhood was like. No school report, no letters survive, not a line in her own words from before her own children were murdered. What survives is a census taker's ledger, a scattering of addresses, and the outline of a household already remade before she was old enough to understand it.
+Nobody recorded what Elizabeth's childhood was like. No school report, no letters survive, not a line in her own words. What survives is a census taker's ledger, a scattering of addresses, and the outline of a household already remade before she was old enough to understand it.
 
 In 1861, when Elizabeth was six, that ledger finds her at Brewery House, Wethersfield, with her parents Thomas and Jemima Stock. In the same household were Emma and John Ansell. John, eighty-five years old and blind, was recorded as 'father-in-law', though he shared no blood with Thomas Stock. He was the father of Jemima's first husband, sixteen years dead by then. Emma, twenty, a straw plaiter, was recorded as 'daughter-in-law', though she was Elizabeth's half-sister. The census had a word for what everyone in that house was to Thomas. It had none for what most of them were to each other.
 
