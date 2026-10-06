@@ -1,6 +1,6 @@
 Chapter Seven
 
-THE MURDERS
+So Early Home
 
 It was a quarter past five, two hours before he was expected, when Ada heard somebody in the kitchen. She was in the back bedroom with Elizabeth, who had not yet the strength to be up and about herself, and whoever it was moved without announcing themselves, so Ada left Elizabeth and went through. William was standing at the dresser. Not doing anything to it, not reaching for anything on it. Just standing.
 
