@@ -101,7 +101,7 @@ William Gouldstone is not Rik's ancestor. He is the reason Rik exists.
   ("thirty-five pounds fourteen shillings and fourpence", "twenty pounds"); a source's own figures inside quotation
   marks as printed (Graves's "£36" and "£50"). Never round a sum the record gives exactly.
 - Free indirect style for character interiority in Victorian sections
-- Rik's own voice only in Part Six and the four closing sentences of the Prologue
+- Rik's own voice only in Part Six and the closing paragraph of the Prologue (amended 6 October 2026, with the new Prologue)
 - Summerscale standard: primary sources breathe, Victorian world through concrete detail, narrator present but restrained
 - British English throughout
 
@@ -148,7 +148,19 @@ Images in `sources/images/death-certificates/` (file names such as `Sarah Ansell
 
 **Text: see `chapters/PROLOGUE.md`. That file is the only copy. Do not paste the prose into the notes. (The full-text mirror that stood here from 22 July was removed on 21 September 2026: it had already drifted from the chapter and risked old lines being restored from it. Older copies in `session-note-2026-06-28.md` and `session_updates_2026-07-08.md` are historical session records only.)**
 
-**Status: Settled, revised 21 September 2026.**
+**Status, 6 October 2026: REWRITTEN FROM SCRATCH BY RIK.** The Prologue no longer stages the evening of 8 August. It
+opens on Albert's birth certificate (Brook Street, 19 June 1887; the father's space blank), then the naval entry of
+November 1901 ("Heckenning Houzellon", a year older), the 1921 census (Germany again), the 1910 marriage register
+("William Goldstone, deceased, a commercial traveller"), and turns: "There really was a William ... He was in Broadmoor."
+It ends in Rik's voice: "I had begun with Albert Goldstone, my great-grandfather. I followed his mother backwards, and
+found William. Without whom I would not exist." Decisions, 6 October 2026 (Rik): it reveals Broadmoor and the
+fifty-one years before Part One, deliberately; "remained with him for the rest of his life" stands (family recollection,
+saved for later chapters); "He had supplied himself with a father" stands (defensible inference); "There really was a
+William" claims no identity with the register's William Goldstone; dates spelled out. Chapter One's "not a line in her
+own words" lost its "from before her own children were murdered" with it. Chapter Seven now has the quarter past five
+to itself. Everything below describes the OLD Prologue (21 September version, in git history) and is kept for the record.
+
+**Old status: Settled, revised 21 September 2026.**
 
 ### What changed, 21 September 2026, and why
 With Chapter 7 drafted and telling the whole evening in full, the Prologue was reviewed as a standalone opening and against Chapter 7.
