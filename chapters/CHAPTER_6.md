@@ -4,7 +4,7 @@ THE DETERIORATION
 
 They left Frampton Park Road in September 1882, three years into their marriage, for a terrace of thirteen bay-fronted cottages a few miles east, on a new development called Courtenay Place. The houses had gone up the year before, on streets that had not even existed when William and Elizabeth married. Tuppence covered the return fare on the workmen's train that had made the whole area possible. On twenty-five shillings a week, a whitesmith could live at the end of a line and still reach Upper Thames Street by half past seven. Number 8 stood near the station end, close enough that the platforms of St James's Street were the first thing visible from the front step. The sound of the steam trains was something the household simply lived within. Only once did William miss his train, the 6.04 from St James's Street to Liverpool Street, and that was a clock gone wrong rather than any fault of his own. His landlord would later say he was as good as a timepiece.
 
-The landlord was Charles Clarke, a carpenter, who kept the ground floor with his wife Emma and let the rooms above. He and William had struck up the sort of friendship that asks little of either man. On a few Sunday mornings they walked together along the river, long stretches of it in silence, and if Clarke tried to start a conversation on the news of the day William had nothing to offer, more at home in some small question of boyish games than anything grown men were meant to discuss. Clarke kept rabbits behind the house, and William would kill one for him when asked, without fuss, a country skill that had survived the move to London. He had despatched a doe the week before the murders.
+The landlord was Charles Clarke, a carpenter, who kept the ground floor with his wife Emma and let the rooms above. He and William had struck up the sort of friendship that asks little of either man. On a few Sunday mornings they walked together along the river, long stretches of it in silence, and if Clarke tried to start a conversation on the news of the day William had nothing to offer, more at home in some small question of boyish games than anything grown men were meant to discuss. Clarke kept rabbits behind the house, and William would kill one for him when asked, without fuss, a country skill that had survived the move to London.
 
 In October the Times would report that his wife said he had shown signs of madness for the last twelve months. Counted back, it put the start barely a month after they moved in.
 
@@ -26,6 +26,6 @@ Twice in the week after the twins were born, Ada came upon him sitting somewhere
 
 The following Monday was a Bank Holiday. Tuesday, so far as the household understood it, was a holiday too. With Elizabeth still not up from childbed, the house ran on whatever Ada could manage.
 
-It was only a day or two before the eighth that Clarke remarked to his own wife how fortunate they were in their lodgers.
+On one of those two days Clarke remarked to his own wife how fortunate they were in their lodgers.
 
 Wednesday the eighth of August began like any other since the twins were born. William got up early and brought Elizabeth her cup of tea, and then he went, so far as anyone in the house knew, to his work. Ada did not see him go. He was not expected back until half past seven.
