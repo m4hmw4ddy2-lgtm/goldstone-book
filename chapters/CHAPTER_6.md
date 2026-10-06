@@ -26,6 +26,6 @@ Twice in the week after the twins were born, Ada came upon him sitting somewhere
 
 The following Monday was a Bank Holiday. Tuesday, so far as the household understood it, was a holiday too. With Elizabeth still not up from childbed, the house ran on whatever Ada could manage.
 
-It was only a day or two before the end that Clarke remarked to his own wife how fortunate they were in their lodgers.
+It was only a day or two before the eighth that Clarke remarked to his own wife how fortunate they were in their lodgers.
 
 Wednesday the eighth of August began like any other since the twins were born. William got up early and brought Elizabeth her cup of tea, and then he went, so far as anyone in the house knew, to his work. Ada did not see him go. He was not expected back until half past seven.
