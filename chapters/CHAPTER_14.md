@@ -22,11 +22,11 @@ Wheatley's cross-examination was a single answer: "He said 'preying,' not 'playi
 
 The case for the prosecution was closed.
 
-Mr Grain opened for the defence. They were engaged, he told the jury, in "a very solemn and awful inquiry", and he would say at once what the defence was: that when William did what he was charged with, he was not in a sane state of mind, and so was not responsible. The prosecution's evidence alone showed it. How else could a kind and affectionate father, a good husband and a well-conducted, deserving man have killed his five children so barbarously, and in so short a time, three of them "playing at his knee" and the two infants at their mother's breast?
+Mr Grain opened for the defence. This was, he told the jury, "a very solemn and awful inquiry", and he put the defence in a sentence: William had not been in a sane state of mind when he did it, and so was not responsible. The Crown's own evidence was enough to show it. A "kind and affectionate father" and a good husband, he argued, could not have done such a thing to his children, and in so short a time, unless his mind had already given way.
 
-He would call witness after witness to prove insanity on both sides of the family, and Dr Savage of Bethlem, who would say that William had inherited a tendency to a weak mind. The prisoner's mind, he submitted, had become unhinged before he did it. Unless it had, he could not have done such a thing at all.
+Witness after witness, he promised, would prove "hereditary insanity" on both sides of the family, and Dr Savage of Bethlem would tell them that William had inherited a tendency to a weak mind.
 
-The Essex Weekly News had him go further, and speak of the verdict itself. He expected, he said, that the jury would find it their duty, under a new Act of Parliament, to say that William had committed the murders but had been insane at the time; and then he would be detained during Her Majesty's pleasure.
+The Essex Weekly News had him go further, and speak of the verdict. He believed the jury would find it their duty, under a new Act of Parliament, to say that William had committed the murders but was insane at the time, and that he would then be "detained during her Majesty's pleasure".
 
 When the defence began to call its witnesses, they were not ready. Mr Justice Day said that he was surprised to find the arrangements in the Central Criminal Court "of this great country" so bad that they would not be allowed in any other large town.
 
