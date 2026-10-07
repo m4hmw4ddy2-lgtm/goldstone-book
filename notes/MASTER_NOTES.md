@@ -1279,3 +1279,13 @@ witness portraits. Next chapter: the trial (Chapter Fourteen), not yet planned.
   prisoner").
 - Contradictions 113 (who told William of the twins) and 114 (the asylum cousin, Charles or William) logged.
 - Back matter settled (Rik): family tree; "People in This Story" (selective, birth years only); notes. See live_lists.md.
+
+## SESSION, 4 TO 7 OCTOBER 2026: CHAPTER FIFTEEN DRAFTED AND APPROVED; NEW PROLOGUE
+- `chapters/CHAPTER_15.md`, "THE FORM OF THEIR VERDICT", about 1,410 words (Rik, 7 October: "this is done"). Every
+  decision: notes/CHAPTER_14_skeleton.md, "CHAPTER FIFTEEN ASSEMBLED".
+- **New rule for reported speeches (Rik, 6 October 2026):** newspaper reports of speeches are summarised in our own
+  words, with at most a phrase or two quoted and the paper named once; never re-typed or quoted at length. Sworn
+  evidence is still quoted at length. Chapter Fourteen's speech passages to be revised on the Chapter Fifteen model.
+- The Prologue rewritten by Rik (6 October); Part One recast so it does not name the murders, the trial or the
+  defence; Chapter Seven retitled "So Early Home". See Part Two's status note.
+- Family trees redrawn for the printed page (backmatter/make_family_trees_print.py; *_print and *_inset files).

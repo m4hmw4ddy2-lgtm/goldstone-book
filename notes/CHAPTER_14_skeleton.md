@@ -654,3 +654,46 @@ Lancet, 22 September (whole letter; transcription agrees). Old Bailey: no image 
   given as what he said, not as "stopped" or "refused". Savage's long answer quoted whole (Rik: "leave the full quote").
   The chapter ends on his last answer, split by "Savage said" so the speaker is plain.
 - Unattributed lines from press reports of sworn evidence in the whole chapter: none.
+
+## CHAPTER FIFTEEN ASSEMBLED, 7 October 2026 (Rik: "this is done")
+`chapters/CHAPTER_15.md`, "THE FORM OF THEIR VERDICT", about 1,410 words, four movements, drafted 4 to 7 October 2026.
+- **REPORTED SPEECHES: THE METHOD (Rik, 6 October 2026; governs Chapter Fourteen's revision and every later chapter).**
+  Newspaper reports of speeches (counsel's, the judge's) are the reporter's third-person paraphrase, not the speaker's
+  words. Quoting long runs of them, or re-typing them without quotation marks, is lifting the paper's text (close
+  paraphrase is plagiarism by the standards of the genre, though 1883 copyright is long gone). So: summarise what each
+  speech put to the jury IN OUR OWN WORDS, under the governing test; quote only a short, telling phrase or two, credited
+  to the paper; name the paper once, as a plain fact, not as a running tag ("as the Times reported him" was a tic).
+  Words a paper prints as spoken in direct speech (Day's sentence; William's "I am ready for the rope") are quoted as
+  speech. Sworn evidence (Old Bailey account, depositions) is still quoted at length, as before.
+- **Order (Rik, 7 October 2026):** the paragraph on who could speak opens the chapter, at the close of the defence
+  evidence (DECIDE 6, placed as first planned), and names Elizabeth; it explains the rule (no prisoner sworn, "a form
+  of compulsion", Shoemaker; the 1898 Act fifteen years on; spouses neither for nor against, Bentley v Cooke, the
+  exceptions not reaching her children's killing; the right to speak unsworn, 1898 Act proviso (h)). After the verdict
+  the text runs straight from "The Prisoner: I am not guilty." to the black cap.
+- **Movement one (speeches):** Grain (Times); Poland (Times; the Essex Weekly News for "not whether prisoner was
+  sane"; the IPN for "ridiculous", the revolver and the drink). Times and IPN are one text for the speeches (live_lists,
+  section 6). Image checks of 4 October recorded in both headers; four Times misreadings corrected; "on April 8" is the
+  Times's own slip, paraphrased around.
+- **Movement two (summing-up):** the Times for the direction (DECIDE 10a, quoted: "knew the nature and quality ... then
+  he was guilty of wilful murder."), "previous to the 8th of August ...", the Act ("not previously aware"; "the former
+  and logical law"; Rik: "in that case a jury returned", not "the jury found him", which read as this jury); the Daily
+  Telegraph (agency copy, one witness with the Guardian and IPN) placed LAST, for "not whether the prisoner was sane or
+  insane", "solemnly decided by the judges", and Savage's admission (not in the Times). The agency's double negative
+  ("or that he was not doing wrong", Contradiction 99) paraphrased as "or that he was doing wrong". No gloss on the Act
+  (DECIDE 9a).
+- **Movement three (verdict):** twenty past five (agency copy, plain fact); about a quarter of an hour; the foreman
+  (Essex Weekly News); both accounts of his words after the verdict, named (DECIDE 4a); Day's sentence quoted whole
+  (direct speech, verified word for word against the Times transcription); "a good deal affected" credited to the
+  Telegraph. "In the usual form" kept: no held source gives the words; a period text is wanted (live_lists, source 38).
+  Rik's line fixes: "but apart from"; "described the judge as".
+- **Movement four (the night):** removed to the cells (Times "calm and undisturbed demeanour"; Essex Weekly News "quite
+  unconcerned"); the 8.12 train, a clerk from Gepp and Sons (name left out: "Thompson", Essex Weekly News, against
+  "Thomson", Guardian, one copy), two warders from Springfield Gaol; the cab; the dark tweed suit (worn on arrival: a
+  fact of that night); the condemned cell (DECIDE 3a). The shorn curls and prison dress ("since") wait for Chelmsford.
+  Essex Weekly News arrival checked against the image 7 October: "the accused" corrected to "the convict".
+- **Tics pass (7 October):** repeated attribution tags; "summed up" twice; "taken down" and "took him" twice; Sheriff of
+  Essex twice; "he" after a sentence about the judge; "what he was doing" and "when he killed his children" thinned;
+  "the prisoner" in our voice to "William" except where the law speaks generally.
+- Unattributed lines from press reports of sworn evidence: none.
+- **Next:** Chapter Fourteen's speech passages (Poland's opening, Grain's opening, Day's complaint, Day's words to
+  Savage) revised on this model; then the chapter after (Savage's Lancet letter of 14 September opens it).
