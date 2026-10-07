@@ -697,3 +697,12 @@ Lancet, 22 September (whole letter; transcription agrees). Old Bailey: no image 
 - Unattributed lines from press reports of sworn evidence: none.
 - **Next:** Chapter Fourteen's speech passages (Poland's opening, Grain's opening, Day's complaint, Day's words to
   Savage) revised on this model; then the chapter after (Savage's Lancet letter of 14 September opens it).
+
+## CHAPTER FOURTEEN REVISED ON THE CHAPTER FIFTEEN MODEL, 7 October 2026 (Rik: approved)
+- The reported-speech passages rewritten in our own words, short phrases quoted and credited: Poland's opening (three
+  paragraphs; "the real issues involved in the case"; William's "I shall be hung, and I am ready for the rope." kept as
+  one quotation, as speech), Grain's opening ("a very solemn and awful inquiry"; "playing at his knee"), the Essex Weekly
+  News on the new Act, Day's complaint ("of this great country"), Day's words to Savage (now summarised, "according to
+  the Times"), and the Bethlem patient (now in our voice, "Bethlem" per DECIDE 13). The Times named three times, not six;
+  "as the Times reported him" gone. Sworn evidence (Old Bailey) untouched. About 2,570 words (was about 2,700).
+

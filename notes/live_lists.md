@@ -8,8 +8,8 @@
 ---
 
 ## 1. DECISIONS WAITING FOR RIK
-- (7 October 2026) Chapter Fifteen DRAFTED AND APPROVED. Next: Chapter Fourteen's speech passages revised on the
-  Chapter Fifteen model (reported speeches in our own words; MASTER_NOTES, session of 4 to 7 October). Undecided: where
+- (7 October 2026) Chapter Fifteen DRAFTED AND APPROVED. Chapter Fourteen's speech passages revised on the
+  Chapter Fifteen model the same day (approved). Next: plan the chapter after (Savage's Lancet letter of 14 September opens it). Undecided: where
   the second family tree goes (head of Part Five proposed) and its title ("From Elizabeth to the author").
 - None as of 3 October 2026. Chapter Fourteen DECIDE 1 to 15 and the chapter decisions 17 to 30 were all accepted as
   recommended (Rik: "I accept your recommends on all decisions"); 16 was replaced by 28; 23 ("Open the door.", optional)
