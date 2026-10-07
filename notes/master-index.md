@@ -560,7 +560,7 @@ Book section: Part Three
 **BMJ — Medical News, 29 September 1883**
 `transcribed/BMJ_29_September_1883_Transcription.txt`
 Status: READ — full transcription complete
-Key content: Home Secretary intending to commute. References "the clear statement of the Vicar of the parish" — almost certainly **Rev. Thomas Harrison Grantham Robinson**, first Vicar of St Saviour's, Walthamstow (NOT Vernham — Vernham was Vicar from 1893; Robinson died March 1884). References Elizabeth's "touching narrative" to Home Secretary — not yet found. NOTE: BMJ names "Dr Gover" as the second examining doctor — this was wrong; Sunday Dispatch (30 Sep) confirms it was Dr Clarke of London.
+Key content: Home Secretary intending to commute. References "the clear statement of the Vicar of the parish" — almost certainly **Rev. Thomas Harrison Grantham Robinson**, first Vicar of St Saviour's, Walthamstow (NOT Vernham — Vernham was Vicar from 1893; Robinson died March 1884). References Elizabeth's "touching narrative" to Home Secretary — not yet found. NOTE: BMJ names "Dr. Gower" (as printed; almost certainly Gover) as the second examining doctor — this was wrong; Sunday Dispatch (30 Sep) confirms it was Dr Clarke of London.
 Book section: Part Three
 
 **BMJ — Medical News, 6 October 1883**

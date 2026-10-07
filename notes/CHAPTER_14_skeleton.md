@@ -225,7 +225,7 @@ None of these is needed to draft the trial day as proposed below. Items 1 and 2 
    "on Thursday" and "yesterday"; the juror, "on the Thursday". **Thursday 13 September.** "Saturday" is a slip in the
    website text or the Sessions Papers (Contradiction 95). Durations: "not more than a quarter or half an hour"
    (Old Bailey); "between a quarter and half an hour" (Times; BMJ 22 September); "twenty minutes to half-an-hour"
-   (juror); "fifteen to thirty minutes" and "twenty minutes or half an hour" (Savage's own letters); "a ten-minute
+   (juror); "fifteen to thirty minutes" and "twenty minutes or half an hour" (Savage's own letters); "a ten-minutes'
    examination" (BMJ 6 October). Use the Old Bailey's.
 8. **A juror and Savage argued in print within three days. CONFIRMED**: "One of the Jury", Tottenham, 15 September;
    Savage, Bethlehem Hospital, 17 September. Clark Bell heads Savage's reply "To the Editor of The Daily Telegraph",

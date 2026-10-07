@@ -416,7 +416,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 18 Sep (Tue) | Elizabeth sees William at Chelmsford | Her statement |
 | 19 Sep (Wed) | Elizabeth's statement first published, in a London daily not yet identified | Collation (elizabeth_statement_collation.md) |
 | 20 Sep | Grantham Robinson's public letter ("I firmly believe that he was not in his right mind") | Guardian 22 Sep |
-| 22 Sep | BMJ's first article (pp.584-585); Savage's Lancet letter of 14 Sep published | BMJ; Lancet |
+| 22 Sep | BMJ's first article (pp.583-585); Savage's Lancet letter of 14 Sep published | BMJ; Lancet |
 | 26 Sep | Execution respited from 1 to 8 October, pending a medical inquiry | Guardian 26 Sep |
 | 30 Sep | Dr Clarke and Dr Orange have examined William (six or seven hours) | Sunday Dispatch 30 Sep |
 | 1 Oct (Mon) | The day first fixed for the execution. The Home Secretary signifies to the Sheriff that the sentence is respited "until further signification of Her Majesty's pleasure", after Clarke and Orange's report (Contradiction 105). The same morning the Times prints that Orange "entertains no doubt of his insanity" (press only) | Times 2 Oct; Times 1 Oct |
