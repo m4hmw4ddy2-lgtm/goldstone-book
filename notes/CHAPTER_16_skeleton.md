@@ -27,19 +27,19 @@ Primary sources, 14 to 30 September, every file in full, each checked against li
 |---|---|---|---|
 | Lancet, Savage (`William_Gouldstone_Lancet_letter_transcription.txt`) | dated 14 Sep; printed 22 Sep | whole letter, 3 Oct | "ridiculed", "bona fides": Savage's claims, attribute (5) |
 | Times leader (`The_Times_15_Sep_leader_transcription.txt`) | 15 Sep | whole, 3 Oct | Press only; misstates the medical evidence (6) |
-| Daily Telegraph leader (`Daily_Telegraph_15_Sep.txt`) | 15 Sep | **no header; unknown** | "I have had it on my mind" press-only; the leader's "You wished them to be dead" is its paraphrase (corrections G, Ch 14) |
+| Daily Telegraph leader (`Daily_Telegraph_15_Sep.txt`) | 15 Sep | whole, 8 Oct (words agree; encoding repaired, header added) | "I have had it on my mind" press-only; the leader's "You wished them to be dead" is its paraphrase (corrections G, Ch 14) |
 | Daily Telegraph, workmen and juror (`Daily_Telegraph_17_September_1883_Transcription.txt`) | both dated 15 Sep; printed 17 Sep | whole, 3 Oct | Contradiction 112: "four years and a half", settled, compatible |
 | Times, Savage (`The_Times_17_Sep_Savage_letter_transcription.txt`) | dated 15 Sep; printed 17 Sep | whole, 3 Oct | "the Judge ridiculed": attribute to Savage (5) |
 | Times, Tallack (`The_Times_19_Sep_Tallack_letter_transcription.txt`) | dated 17 Sep; printed 19 Sep | whole, 3 Oct | Clark Bell's extract not to be used as text (5) |
-| Times, Wood (`The_Times_19_Sep_transcription.txt`) | dated 17 Sep; printed 19 Sep | **no record** | as above |
+| Times, Wood (`The_Times_19_Sep_transcription.txt`) | dated 17 Sep; printed 19 Sep | whole, 8 Oct ("recognized") | as above |
 | Times, the Law Times (`The_Times_21_Sep_transcription.txt`) | printed 21 Sep (Law Times date unknown) | two readings only, 9 Sep | none |
 | Times, Sunderland (`The_Times_22_Sep_Sunderland_letter_transcription.txt`) | **undated**; printed 22 Sep | whole, 3 Oct | "ridiculed in Court": his, attribute (5) |
-| Walthamstow and Leyton Guardian, 22 Sep (letters, press opinions, statement, Robinson, Chelmsford) | 22 Sep | summing-up only, 3 Oct | statement abridged: do not quote from it (collation); "5ft. 6in." a slip (8/53) |
+| Walthamstow and Leyton Guardian, 22 Sep (letters, press opinions, statement, Robinson, Chelmsford) | 22 Sep | summing-up 3 Oct; letters, Robinson, Tuesday paragraph 8 Oct (gap filled; Smith misattribution corrected) | statement abridged: do not quote from it (collation); "5ft. 6in." a slip (8/53) |
 | Guardian "26 Sep" (`Guardian_26_Sep.txt`) | 26 Sep | **paper and date not visible on clip** | see FINDINGS, 9 |
-| Walthamstow and Leyton Guardian, 29 Sep (the Law Times again) | 29 Sep | **no record** | same text as the Times of 21 Sep: one witness |
+| Walthamstow and Leyton Guardian, 29 Sep (the Law Times again) | 29 Sep | whole, 8 Oct; agrees | same text as the Times of 21 Sep: one witness |
 | Essex Weekly News, 21 Sep | 21 Sep | trial report 3 Oct; Chelmsford head 7 Oct; height line today (CORRECTIONS, A) | statement copy text (collation) |
 | Western Daily Press, 18 and 21 Sep | 18, 21 Sep | 21st: statement opening only, 1 Oct; 18th: **no record** | 18th = Savage summary + workmen's letter reprinted |
-| Dundee Courier, 21 Sep | 21 Sep | **no record** | Leeds Mercury's London correspondent; "The Daily Telegraph says" (live_lists 29) |
+| Dundee Courier, 21 Sep | 21 Sep | whole, 8 Oct; agrees | Leeds Mercury's London correspondent; "The Daily Telegraph says" (live_lists 29) |
 | Pall Mall Budget, 21 Sep | 21 Sep | **no record** | summary only; misreports Thomas |
 | BMJ, 22 Sep, pp. 583-585 | 22 Sep (leader page misdated "15th") | whole, 7 Oct, from Rik's screenshots (4 corrections) | its narrative of the crime is commentary ("She said she wished the children were dead": Contradiction 4) |
 | Daily News, 22 Sep (Central News) | 22 Sep | from image, 30 Sep | agency paragraph: one witness |
@@ -48,7 +48,7 @@ Primary sources, 14 to 30 September, every file in full, each checked against li
 | Glasgow Herald, 28 Sep | 28 Sep (filename only) | **no record; paper and date not visible** | press |
 | Kirkcudbrightshire Advertiser, 28 Sep | 28 Sep | **no record** | press |
 | BMJ, 29 Sep, pp. [639]-640 | 29 Sep | whole, 7 Oct, retranscribed from Rik's screenshot | prints "Dr. Gower"; Clarke examined, not he (20); see FINDINGS, 10 |
-| Sunday Dispatch, 30 Sep | 30 Sep | **"Needs review"** | "Dr Gover" in DO NOT USE: this is the Clarke source (Contradiction 20) |
+| Sunday Dispatch, 30 Sep | 30 Sep | whole, 8 Oct; prints "Dr. Orringe" (misprint) | "Dr Gover" in DO NOT USE: this is the Clarke source (Contradiction 20) |
 | For the shape only: Times 1, 2, 6, 11, 12 Oct; Daily News 6 and 16 Oct; Liverpool Daily Post 1 Oct; Preston Chronicle 13 Oct; Guardian 20 Oct | | Times items 3 Oct | Times 1 Oct: press only, one witness (104, section 6); reprieve three dates (105) |
 
 Not held, and named before anything leans on a summary of them: Savage's reply to the juror as printed (Daily
@@ -71,12 +71,13 @@ given anywhere); the Walthamstow petition; HO 144 (live_lists 25).
 - **Sun 16.** Chapel, the Rev. W. F. Lumley; Psalm 79, verse 12 (Essex Weekly News and Guardian: one copy).
 - **Mon 17.** The Telegraph prints the workmen and the juror; the Times prints Savage. Savage answers the juror
   ("Bethlehem Hospital, Sept. 17": Guardian reprint). Tallack and Wood write to the Times (both "Sept. 17"); "One who was
-  present at the trial" ("Sept. 17", paper unknown).
+  present at the trial" and "One who Commiserates with the Prisoner" (both "Sept. 17", papers unknown).
 - **Tue 18.** Elizabeth at Chelmsford with "his sister and aunt" (her statement). The High Sheriff, J. Oxley Parker,
   visits; the Guardian lists "his wife, mother, and sister" (Contradiction 115, proposed). The Western Daily Press
   summarises Savage and reprints the workmen.
 - **Wed 19.** Elizabeth's statement ("yesterday (Tuesday)"): written this day (Contradiction 116, proposed). The Times
-  prints Tallack and Wood. Edward Smith, "Walthamstow, Sept. 19" (paper unknown).
+  prints Tallack and Wood. Edward Smith, "Walthamstow, Sept. 19" (paper unknown; his is the "prima facie" letter,
+  with an invented speech for William: press only, see the Guardian transcription header, 8 October).
 - **Thu 20.** Grantham Robinson confirms "the truth of her statements", "I firmly believe that he was not in his right
   mind", "We are getting up a petition in Walthamstow, praying for a reprieve" (Guardian reprint, "Sept. 20th").
 - **Fri 21.** The Times prints the Law Times. Provincial reprints of the statement (Essex Weekly News, Western Daily
@@ -171,7 +172,7 @@ the dreams, Elizabeth, the vicar); (c) the test itself, argued in public (findin
   William's letter of the 15th; Tallack and Wood (one point each); Elizabeth's statement; Robinson and the petition; the
   Law Times (one point); Sunderland; the BMJ of the 22nd (one point: Stephen, and its call on Harcourt); the Guardian's
   count of the press (as the Guardian's); the Central News; the respite; the inquiry.
-- **Out:** Laurence Peel (a Lancaster case before M'Naghten); "One who was present at the trial" (repeats the others);
+- **Out:** "One who Commiserates with the Prisoner" (17th: repeats the others; its "1,000" workmen is wrong); Laurence Peel (a Lancaster case before M'Naghten); "One who was present at the trial" (repeats the others);
   Edward Smith (except possibly one line, DECIDE 8); the Pall Mall Budget (a summary; misreports Thomas); the Glasgow
   Herald (a rumour the BMJ states fuller); the Times leader's and Telegraph leader's errors of fact (the press rule of 3
   October: a paper plainly wrong on a point the reader knows need not be included).
@@ -359,7 +360,7 @@ Montagu Williams; convicted; examined on Harcourt's order; reprieved (Old Bailey
 Tuke stated as fact only (that the two cases were published together), his words held (recommended). (b) End on
 Broadmoor; Cole to a later chapter. (c) Leave Cole out of the book's main line.
 
-**DECIDE 17. Image checks before drafting** (check-once rule: quoted lines only, cropped close, recorded in each header).
+**DECIDE 17. Image checks before drafting** DONE 8 October 2026: all listed below checked, results in each header. (check-once rule: quoted lines only, cropped close, recorded in each header).
 Needed if quoted: the Daily Telegraph leader of 15th (no header at all); Wood; the Guardian of 22nd for Savage's reply,
 Robinson, and the other leaders; the Essex Weekly News for every statement line to be quoted and William's letter; the
 Dundee Courier; the Guardian of 29th; the Sunday Dispatch; the BMJ items are now checked (finding 10).
