@@ -3,6 +3,17 @@ Newspaper/title if visible: THE WALTHAMSTOW & LEYTON GUARDIAN
 Date if visible: SATURDAY, SEPT. 22, 1883 (masthead line visible top left)
 Page/column/article if known: full page, seven columns. The Gouldstone material runs from the head of
 column 2 to the middle of column 5.
+CHECKED AGAINST THE IMAGE, 8 October 2026 (Chapter Sixteen, DECIDE 17): the whole of THE LETTERS and Grantham
+Robinson's letter and the two paragraphs after it, every line. The passage formerly marked "GAP — NOT TRANSCRIBED"
+is now transcribed, and it CORRECTS AN ATTRIBUTION: the letter beginning "Will you allow me to suggest" is NOT Edward
+Smith's. It is complete in itself and signed "ONE WHO COMMISERATES WITH THE PRISONER.", "Sept. 17." Edward Smith's
+letter (Walthamstow, Sept. 19) is a separate letter beginning "SIR,—On a prima facie view", and it is HIS that
+continues "Could it be the wish of his wife (always supposing that she really expressed such a wish)". Smith's
+letter also prints, as William's words, "I did it, sir, and I did it like a man. I feel happy now. I know I shall
+swing for it; but the children are gone to glory, and my wife will be free. She wished them dead, and now she will be
+satisfied.": a letter-writer's composite, in no sworn source: PRESS ONLY, not William's words. One correction
+elsewhere: the juror "also declaring he believed" (not "declaring that he believed"). Savage's reply and Robinson's
+letter agree with the image.
 CHECKED AGAINST THE IMAGE, 3 October 2026 (Chapter Fourteen skeleton): the summing-up, verdict and
 sentence passages only. Two corrections: "special verdict finding that" reads "stating that"; "to ask
 for mercy" reads "to seek for mercy". Nothing else in the report has been checked.
@@ -324,9 +335,50 @@ the plea of insanity.—I am, yours truly,
                         ___________________
 
 "SIR,—Will you allow me to suggest that every effort should be made to obtain a remission of the sentence of
-this unfortunate man? Although the jury [GAP — NOT TRANSCRIBED: about fifteen lines at the foot of column 4
-and the head of column 5, where this letter argues from the absence of motive. The letter resumes below.]
-…it be the wish of his wife (always supposing that she really expressed such a wish) that the children were
+this unfortunate man? Although the jury do not seem to have been convinced of his insanity, yet I think there can be
+but little doubt that his mind had become so far deranged that for some few days previous to the dreadful tragedy he
+was not himself, and could not be held responsible for his actions. The narrow boundary between sanity and insanity
+is of so delicate and difficult a nature to define, that the doubt, if any, may well be conceded in the wretched
+culprit's favour. How frequently do sad cases come before the public of men of high character and position
+destroying themselves (which is self-murder), without any apparent previous indication of there being any symptoms
+of insanity, and yet the verdict in such cases is invariably "that the deceased, &c., &c., while of unsound mind." In
+the case at issue, the evidence goes to prove that this man had given unmistakable indications of an altered
+condition. He is described by the prosecution as being a sober and industrious man; then how came it that he did not
+join his fellow workmen in their annual excursion, and absented himself from his work for the three following days?
+Does it not suggest that he could neither enter into pleasure nor work; that he had, in fact, lost his
+self-possession, and become incapable of managing himself. If a cause is sought for, is it not forthcoming in the
+circumstance of his family having been suddenly increased from three to five (a serious matter to a man earning but
+25s. a week)? My own experience (though far differently situated to the prisoner) is that, with an ever-increasing
+family, involving me in expenses and bringing wants which I have been at my wits' end to know how to meet and
+supply, I have often felt the burden to be so heavy that at times mind and body have well-nigh failed, and I become
+a shipwreck—a derelict—a lunatic. I venture to assert that there are many others who could testify likewise. How
+much more, then, is it probable that this sudden event produced in the mind of the prisoner a foreboding of troubles
+and difficulties which he felt unable to contend with, and that these haunted his thoughts and tortured his mind
+until that frail and feeble faculty which we call reason quite gave way. The evidence goes to prove that since this
+event he had been different in his conduct and habits; whilst his mother and aunt, as well as other members of his
+family being of unsound mind is surely sufficient to account for the sudden derangement which resulted in so
+dreadful a crime. I therefore trust that all lawful means will be taken to obtain a remission of the sentence, and
+that foremost amongst them will be an urgent petition to the Home Secretary from the condemned man's fellow workmen,
+who, according to the evidence, are 1,000 in number, and generally entertained the opinion that the prisoner was
+insane.—I am, Sir, &c.,
+
+                                   "ONE WHO COMMISERATES WITH THE PRISONER.
+"Sept. 17."
+
+                        ___________________
+
+SIR,—On a prima facie view this case contains so many elements of horror, that, so far from seeking a defence for
+the criminal, one is apt to believe that such a monster should be torn to pieces by wild horses, and that too as
+speedily as possible. And yet after all would it not be well to ask why a man of quiet and inoffensive habits,
+strongly attached to his family, and avoiding the stimulus of drink, should decide calmly upon the advisability of so
+wholesale and terrible a slaughter, and should have recourse to liquor only as an additional aid to enable him to
+carry out his evidently reluctant but allotted task? Is not the ready answer to this,—he must have been mad. Let us
+see how far the facts of the case that have come before the public bear out this theory. "Yes," says the
+unfortunate creature, "I did it, sir, and I did it like a man. I feel happy now. I know I shall swing for it; but
+the children are gone to glory, and my wife will be free. She wished them dead, and now she will be satisfied."
+
+What could have induced this poor wretch to believe that he acted like a man in stringing his nerves to the murder
+of those he loved best on earth? Could it be the wish of his wife (always supposing that she really expressed such a wish) that the children were
 dead? Could it be the idea that his family was increasing too fast? Why, such reasons would be too trivial
 in the case of any ordinarily well-balanced mind. Is there a sane man breathing who would take up a hammer
 and destroy his newly-born offspring for such reasons as these? It could not be. There can be no doubt but
