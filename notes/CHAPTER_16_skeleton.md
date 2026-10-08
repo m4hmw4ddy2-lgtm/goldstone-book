@@ -214,7 +214,7 @@ She speaks, once, and the chapter is built so that it lands as a turn (section 6
   the foreman (her own account of the question Ada swore to); the visits and "as happy as a child at
   play"; Chelmsford ("You will take care of her, won't you?"; "I have broken God's commandment"); "he seems to have no
   notion of the enormity of killing the children"; the heaven letter in her one sentence; and the conclusion, "I am
-  certain that he was insane".
+  certain he was insane".
 - **Thursday 20th:** the vicar confirms her, "I may add that I have not seen his wife since her husband's conviction."
 - **Saturday 29th:** the BMJ's "the touching narrative of his wife" (if 1a, in the next chapter or as this one's last
   line of her: DECIDE 2).
@@ -380,7 +380,7 @@ Dundee Courier; the Guardian of 29th; the Sunday Dispatch; the BMJ items are now
   "of his punishment"; the two papers' "of the sentence" is their variant inside their own quotation marks (finding 10).
 
 ## CORRECTIONS FOUND (NOT APPLIED; for Rik)
-A. **Essex Weekly News, 21 September, transcription: "In height he stands 5ft. 6in." reads "5ft. 4in."** on the image
+A. APPLIED 8 October 2026 (transcription corrected, header records the check, the stale lines below fixed). Was: **Essex Weekly News, 21 September, transcription: "In height he stands 5ft. 6in." reads "5ft. 4in."** on the image
    (`sources/images/Media-coverage/Essex weekly News Sep 21 1883.png`, checked 7 October 2026, the Chelmsford paragraph
    from "night, having been brought down" to "would repeat it at the service in", every line). Also "O let the sorrowful"
    reads "Oh let". Contradiction 53 and the status table were right; the transcription was wrong. Stale beside it: the
@@ -437,4 +437,8 @@ G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respi
 4. **"On Tuesday last" / "yesterday".** The Essex Weekly News normalised "yesterday (Tuesday)" to "on Tuesday last" but
    kept "accompanied me yesterday". Quote as printed (both papers' readings in the notes).
 5. **Checking.** Every line of the statement to be image-checked against the Essex Weekly News page before drafting
-   (DECIDE 17), the whole text now, not only the quoted lines.
+   (DECIDE 17), the whole text now, not only the quoted lines. DONE 8 October 2026: statement and letter checked line by line; nineteen
+   corrections to our transcription (its header lists them), among them "I am certain he was insane" (no "that"),
+   "very easy to turn his attention" (no "ask him to"), "Happey", and her two reported sayings in single quotation marks.
+6. **"[I] have no doubt".** The last line of the column begins "have no doubt"; no "I" can be seen (the line is worn at
+   the foot of the scan); the Western Daily Press and the Guardian read "I have". Supply "[I]" in the quotation.

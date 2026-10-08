@@ -43,7 +43,7 @@
 | Fact | Source(s) |
 |---|---|
 | Age 26 at time of murders | Magistrates charge; multiple sources |
-| Height 5ft 6in | Essex Weekly News 21 Sep (prison admission record) |
+| Height 5ft 4in (corrected 8 Oct 2026: the image reads 4in; 5ft 6in was our transcription's error and the Guardian's misprint) | Essex Weekly News 21 Sep (Chelmsford paragraph, one copy with the Guardian) |
 | Build: stout | Essex Weekly News 21 Sep |
 | Complexion: fair | Essex Weekly News; Dover Express; DT 10 Aug |
 | Hair: light and curly — shorn at Chelmsford on arrival | Essex Weekly News 21 Sep |
@@ -613,7 +613,7 @@ assessment below is superseded.
 
 ### 8. WILLIAM'S HEIGHT
 - **IPN 18 Aug:** "not more than 5ft 4in"
-- **Essex Weekly News:** 5ft 6in (prison admission measurement)
+- **Essex Weekly News:** 5ft 4in (image, checked 8 October 2026; our transcription had read 6in)
 
 **Assessment (WITHDRAWN 3 October 2026; see 53 and the status table):** ~~Prison measurement more reliable. 5ft 6in is the working figure.~~ The Essex Weekly News reads 5ft 4in; the 5ft 6in is the Guardian's misprint of the same paragraph. 5ft 4in.
 

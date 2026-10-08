@@ -261,9 +261,9 @@ he had not many weeks to live"; the concertina and the children who "never tired
 "every morning from their birth till their death"; his going straight out of the house when the twins were born and
 returning after twelve with "his eyes strange and wandering"; and her own reasoning to the conclusion: "I never knew till
 very lately that there was any insanity in the family. Knowing that now, and looking back on all that has happened, I am
-certain that he was insane."
+certain he was insane." (Image-checked 8 October 2026: no "that".)
 
-The British Medical Journal, 29 September 1883: "no medical man can read the touching narrative of his wife and the clear
+The British Medical Journal, 29 September 1883: "no medical man can read the touching narrative of his wife, and the clear
 statement of the Vicar of the parish in which he lived without finding them in strong corroboration of the only theory that
 is consistent with the facts of the case as given in evidence."
 
@@ -427,7 +427,7 @@ spent lines below are quoted again there, in their place in her text. Limit two 
 "never tired listening"; "Nothing that he ever said or did ... gave me the least fear"; the cup of tea "every morning
 from their birth till their death"; that he "never took any notice of the babies"; his going out when the twins were
 born and returning with "his eyes strange and wandering"; the doorway and the foreman; the House of Detention visits and
-"as happy as a child at play"; and the conclusion, "I am certain that he was insane." Before Part One quotes any further
+"as happy as a child at play"; and the conclusion, "I am certain he was insane." Before Part One quotes any further
 line, check it against this list and add it here.
 
 ## 10. Added 3 October 2026, from the Times

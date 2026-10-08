@@ -119,7 +119,7 @@ Wednesday paper, or a Thursday reprint, a day later.
 ## WILLIAM'S LETTER OF 15 SEPTEMBER — A WARNING THAT STANDS
 
 The three papers print his letter with **different misspellings**, in exactly the places where the
-letter's apparent illiteracy shows. Essex Weekly News against Guardian: Dreadful/Dreadfull, Happy/Happey,
+letter's apparent illiteracy shows. Essex Weekly News against Guardian: Dreadful/Dreadfull, [Happy/Happey withdrawn 8 October 2026: the Essex Weekly News image also reads "Happey"; our transcription had normalised it],
 Recive/Receive, than/then, Belive/Believe, Chappeling/Chapeling, shell/shall. The Western Daily Press
 agrees with the Essex Weekly News on "shell" and with the Guardian on "Dreadfull", so it follows neither.
 
