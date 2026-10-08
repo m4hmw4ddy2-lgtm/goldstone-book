@@ -1,10 +1,12 @@
 # CHAPTER SIXTEEN: SKELETON (after the verdict: Friday night, 14 September 1883, onwards)
-# STATUS, 7 October 2026: PROPOSED. Nothing drafted. Every DECIDE point below is open.
+# STATUS, 7 October 2026: PLANNED. All DECIDE points ruled (Rik): every recommendation accepted EXCEPT DECIDE 3 (her
+# statement quoted IN FULL) and DECIDE 14 (Chapter Sixteen titled "AS HAPPY AS A CHILD AT PLAY"). See "DECISIONS,
+# 7 OCTOBER 2026" at the foot; its five sub-points accepted 8 October 2026. Nothing drafted. Next: image checks (DECIDE 17).
 # Fixed before planning: the chapter opens with Savage's Lancet letter, dated 14 September (CHAPTER_14_skeleton.md, DECIDE 3a).
 # Working rules as for Chapter Fifteen, with the reported-speech method (CHAPTER_14_skeleton.md, "CHAPTER FIFTEEN
 # ASSEMBLED"): speeches, leaders and letters summarised in our own words, a short phrase or two quoted, each paper
 # named once; sworn evidence quoted at length. Linear rule: a letter belongs to the day it is dated.
-# Contradictions 115 to 117 are PROPOSED at the foot of this file and have NOT been entered in the timeline file.
+# Contradictions 115 and 116 are PROPOSED (117 withdrawn) at the foot of this file and have NOT been entered in the timeline file.
 
 ## WHAT WAS READ FOR THIS SKELETON
 
@@ -397,3 +399,42 @@ F. master-index.md and the dates table: "Guardian 26 Sep" is not the Walthamstow
 G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respite paragraph as shared copy
    (finding 11); and the Essex Weekly News / Guardian Chelmsford paragraph (already noted in Contradiction 53, not in
    the list).
+
+---
+
+## DECISIONS, 7 OCTOBER 2026 (Rik: "accept all recs, except I think we should use Elizabeth's letter also in full")
+
+- **DECIDE 1a, 2a, 4a, 5a to 13a, 15a, 16a, 17: as recommended.** Two chapters, the break at the end of Saturday 22
+  September; Sixteen ends on the Central News (the medical inquiry), the execution date and the hangman just before it;
+  William's letter of the 15th quoted whole on its own date, the Essex Weekly News's spelling as printed; the heaven letter
+  only in her sentence; the two readings of Savage side by side on the 15th; the Lancet as recommended; the in/out lists
+  (Smith and the Kirkcudbrightshire Advertiser out, the Leeds Mercury's Court of Appeal in); the other leaders on the 22nd
+  as the Guardian's; the psalm as fact (after the psalter check), the paper's readings attributed; "his sister and aunt";
+  the vicar on the 20th; Sunderland on the 22nd; the Times of 1 October named once, the twelve months not repeated; Cole as
+  a coda after Broadmoor, Tuke as fact only; image checks of quoted lines before drafting.
+- **DECIDE 3: (c), CHANGED. Elizabeth's statement quoted IN FULL**, from the Essex Weekly News (the fullest of the three
+  reprints, named once). The reported-speech method does not apply to it. This supersedes, for this chapter only, limit
+  two of `notes/elizabeth_thread_presence_as_absence.md`, section 9: the lines Part One spent are quoted again here, in
+  their place in her text. (Part One's "burden", Chapter Five, follows the Western Daily Press; in the statement as a whole
+  the Essex Weekly News reads "burthen": see SUB-POINTS, 3.)
+- **DECIDE 14: Chapter Sixteen is "AS HAPPY AS A CHILD AT PLAY"** (Elizabeth, of William at each of her visits). Rik: the
+  contrast with his own children, actually happily at play only days before, "is horrific". Chapter Seventeen: "UNTIL
+  FURTHER SIGNIFICATION", as recommended. The title uses her line before the chapter reaches it; there is no contents
+  page (6 October 2026), so it gives nothing away.
+
+### SUB-POINTS ARISING FROM THE CHANGE TO DECIDE 3 (ALL ACCEPTED AS RECOMMENDED, Rik, 8 October 2026: "agreed on all")
+1. **William's letter appears twice.** It is quoted whole on the 15th (4a), and the statement as printed contains it
+   again ("Here is a letter I have from him, dated the 15th, in the same strain:—" and the whole letter). Recommended: in
+   the statement, keep her sentence introducing it and do not print the letter a second time, the one cut marked; the
+   reader has just had it. Alternatives: print it twice; or move the letter into the statement only (reverses 4a).
+2. **The paper's head.** The Essex Weekly News opens in its own third person ("Mrs. Gouldstone, who is exerting herself
+   to the utmost to save her unfortunate husband's life, writes to state her solemn belief that ... She says:—").
+   Recommended: our own sentence introducing her, the paper's words left out or quoted as the paper's; "in full" taken to
+   mean her words, from "During our five years married life" to "the most awful distress".
+3. **"Burthen".** The Essex Weekly News reads "burthen"; Chapter Five quotes "burden" (the Western Daily Press, by Rik's
+   decision of 1 October, because "burthen" reads as a typo). Recommended: "burden" here too, the one word from the
+   Western Daily Press, as in Chapter Five, recorded in the notes; otherwise the Essex Weekly News throughout.
+4. **"On Tuesday last" / "yesterday".** The Essex Weekly News normalised "yesterday (Tuesday)" to "on Tuesday last" but
+   kept "accompanied me yesterday". Quote as printed (both papers' readings in the notes).
+5. **Checking.** Every line of the statement to be image-checked against the Essex Weekly News page before drafting
+   (DECIDE 17), the whole text now, not only the quoted lines.

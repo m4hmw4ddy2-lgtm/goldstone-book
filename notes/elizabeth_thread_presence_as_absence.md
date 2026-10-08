@@ -324,7 +324,7 @@ The instruction is to show the absence, not to assert it. In practice:
 - **Chapter Eight already carries the first beat**: "Nobody who was in the house that night described under oath what
   Elizabeth went through." That sentence is the thread's opening. It should not be repeated in that form. Later chapters
   demonstrate the same thing rather than restating it.
-- **The statement is a turn, not a sample.** When Part Three reaches c.21 September, she should be allowed to run at
+- **The statement is a turn, not a sample.** When Part Three reaches 19 September (her writing day), she should be allowed to run at
   length, in her own words, with as little interruption as the chapter can bear. It is the first time in the book that she
   speaks for herself and it should read like it.
 - **Part Four inherits the thread inverted.** After the reprieve, the record loses her entirely for four years. The
@@ -419,6 +419,9 @@ liveliness and help about the house; lots of people manage on less; "not many we
 morning tea on the first of August and his going straight out when told of the twins, not back until gone midnight.
 ("There's my Charley" and "I have a very large family" in Chapter Six are not from the statement: Guardian of 18 August
 and the press of 11 August respectively.)
+
+**7 October 2026 (Rik): the statement is quoted IN FULL in Chapter Sixteen ("As Happy as a Child at Play"), so the
+spent lines below are quoted again there, in their place in her text. Limit two still governs Part One.**
 
 **Held back for the statement's chapter: everything else**, and in particular the concertina and the children who
 "never tired listening"; "Nothing that he ever said or did ... gave me the least fear"; the cup of tea "every morning
