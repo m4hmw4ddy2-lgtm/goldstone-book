@@ -47,7 +47,7 @@ the first four.
    and never tired listening to the concertina. If he seemed worried, amusing the children, at which he was
    very good, or a remark from me would at once change his mood. He was painfully aware of how easy it was
    for him to get worried, and he has often said to me that it was a good job he had not much to think of,
-   as if he had he believed it would turn his brain. Nothing that he ever said or did before the loss of
+   as if he had he believed it would turn his brain. Nothing that ever he said or did before the loss of
    the little ones gave me the least fear that he would take his own life or that of anyone else."
 4. **Her answer to his worry.** "But then lots of people manage on less, and we did very well, and when I
    put this before him he ceased to be moody and absent."
@@ -59,7 +59,7 @@ the first four.
    of tea, as he often did before, and did every morning from their birth till their death. The thing that
    struck me most was that during all this time he never took any notice of the babies. They were born
    about half-past ten, and he immediately went out of the house, and did not return till after 12. He then
-   came in the room to me, but did not speak. His appearance seemed changed, and his eyes were strange and
+   came into the room to me, but did not speak. His appearance seemed changed, and his eyes were strange and
    wandering. He came home early on the day he attacked the poor things, and I asked him if he had told his
    foreman about the twins, as he had lived with him once, and we looked upon him as one of our own family,
    but he said he had not."
@@ -73,6 +73,7 @@ Weekly News by name, not "her statement" generically.
 
 | Essex Weekly News | Western Daily Press | Guardian | Note |
 |---|---|---|---|
+| "Nothing that ever he said or did" (image, 9 Oct 2026) | "Nothing that he ever said or did" | (in the cut) | Word order. |
 | "five years married life" | "five years of married life" | "five years' married life" | Cosmetic. |
 | "latterly **he** had 25s." | "latterly **we** had 25s." | "latterly he had 25s." | Two to one for "he". |
 | "my last **babies**" | "my last **babes**" | "my last babies" | Two to one for "babies". |

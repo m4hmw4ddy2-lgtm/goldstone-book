@@ -424,7 +424,7 @@ and the press of 11 August respectively.)
 spent lines below are quoted again there, in their place in her text. Limit two still governs Part One.**
 
 **Held back for the statement's chapter: everything else**, and in particular the concertina and the children who
-"never tired listening"; "Nothing that he ever said or did ... gave me the least fear"; the cup of tea "every morning
+"never tired listening"; "Nothing that ever he said or did ... gave me the least fear"; the cup of tea "every morning
 from their birth till their death"; that he "never took any notice of the babies"; his going out when the twins were
 born and returning with "his eyes strange and wandering"; the doorway and the foreman; the House of Detention visits and
 "as happy as a child at play"; and the conclusion, "I am certain he was insane." Before Part One quotes any further

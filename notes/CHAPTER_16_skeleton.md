@@ -210,7 +210,7 @@ She speaks, once, and the chapter is built so that it lands as a turn (section 6
 - **Tuesday 18th:** she goes to Chelmsford. Who went with her (DECIDE 11).
 - **Wednesday 19th: the statement**, from the Essex Weekly News, named once. Section 9 governs: the spent lines (Chapters
   Five and Six) are not quoted again; the held-back lines are hers to run with here: the concertina and "never tired
-  listening"; "Nothing that he ever said or did ... gave me the least fear"; the cup of tea "every morning from their
+  listening"; "Nothing that ever he said or did ... gave me the least fear"; the cup of tea "every morning from their
   birth till their death"; "never took any notice of the babies"; "his eyes were strange and wandering"; the doorway and
   the foreman (her own account of the question Ada swore to); the visits and "as happy as a child at
   play"; Chelmsford ("You will take care of her, won't you?"; "I have broken God's commandment"); "he seems to have no
