@@ -443,3 +443,22 @@ G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respi
    "very easy to turn his attention" (no "ask him to"), "Happey", and her two reported sayings in single quotation marks.
 6. **"[I] have no doubt".** The last line of the column begins "have no doubt"; no "I" can be seen (the line is worn at
    the foot of the scan); the Western Daily Press and the Guardian read "I have". Supply "[I]" in the quotation.
+
+## DRAFTING, 8 TO 9 OCTOBER 2026 (held locally in chapters/CHAPTER_16.md until the chapter is approved)
+- **Movement one** (Friday night and Saturday): Lancet; Times leader, its misreading set directly against Savage's
+  sworn "I believe that he knew he was killing the children, and that the penalty for that act was death." (Rik's
+  option 2); Telegraph leader; the juror; the workmen; Savage to the Times; William's letter of the 15th, whole.
+- **Movement two** (Sunday and Monday): chapel and Psalm 79 (verified: Prayer Book, Day 16 Morning Prayer, verse 12);
+  the prison detail; Savage's reply to the juror; Tallack and Wood.
+- **Movement three** (Tuesday to Thursday): the visit; her statement in full (Essex Weekly News; "burden" from the
+  Western Daily Press; the letter's second printing replaced by a marked cut; "[I]" supplied); the vicar. ACCEPTED
+  (Rik, 9 October 2026).
+- **The method, as Rik corrected it (8-9 October): no borrowing.** Rik caught sentences that kept a source's own
+  shape with a word or two swapped ("coupled that pity with abhorrence"; "unless the verdict ... unqualified"; "told off
+  to watch him"; the vicar's letter clause by clause). Every summary sentence is now checked against its source for
+  borrowed structure as well as borrowed words before a movement is shown. Also: "went to the Times" for letters known
+  only by their date became "wrote to the Times"; "in a cell" cut (unsourced).
+- **Transcription found wrong while drafting (9 October): "Nothing that ever he said or did"** (not "that he ever").
+  A second full read of the statement found "He never complained, except" and "came into the room". All propagated.
+- Unattributed lines from press reports of sworn evidence: none.
+- Next: movement four (Friday 21 and Saturday 22), ending on the Central News (DECIDE 2a).
