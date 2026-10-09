@@ -457,4 +457,43 @@ in hand.
 
 **5. Photograph: unknown** until the file and notes are retrieved.
 
+---
+
+## Letter 7 — OUTBOUND, sent by Rik 9 October 2026
+
+The four census images resent with the slashes removed from their file names (items 2, 4, 6 and 11).
+Recorded from the draft; Rik reported it "sent" without changes noted.
+
+> Subject: Re: EF/E26F, William Gouldstone: census images resent
+>
+> Dear Emily,
+>
+> Thank you, and apologies for the trouble. I think I know what went wrong: those four were the only files
+> whose names contained a slash (from the census references, such as "RG 11/301"), which Windows cannot
+> handle. I have renamed them and attach them again:
+>
+> 2. 1881 census, 88 Frampton Park Road, Hackney (RG 11-301, folio 94, pages 47 and 48), two images
+> 4. 1891 census, 41 Harbour Street, Whitstable (RG 12-711, page 6)
+> 6. 1901 census, Middle Wall, Whitstable (RG 13-799, folio 59, page 25)
+> 11. 1921 census, 46 Edinburgh Road, Chatham (RG 15-04062, schedule 109)
+>
+> Thank you for asking for his medical notes to be considered as well, and for being clear about what may
+> come back. A brief summary would still be more than I have.
+>
+> On the place and year of birth: in my last email I was explaining the German birthplace and the 1886
+> birth year that Albert Goldstone, Elizabeth's son, gave in his own records, so that the documents would
+> not look inconsistent. I was not asking about William. But what William told Broadmoor about himself on
+> admission would interest me too, so if the question is already on the request, please do leave it there.
+>
+> Thank you also for explaining the position on the case book after 2036. That is very helpful to know.
+>
+> With best wishes,
+> Rik Ferguson
+> +48 500435104
+
+### WHAT TO WATCH FOR IN THE REPLY
+1. **Confirmation she can open the four images** and that the pack has gone to the County Archivist.
+2. **The Hospital's decision** on the patient file and the medical notes: what is released, and when.
+3. **Whether the request also asks what William gave Broadmoor** as his own birthplace and age on admission.
+4. **Record the reply here as Letter 8.**
 
