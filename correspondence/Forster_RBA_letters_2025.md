@@ -383,3 +383,78 @@ Verbatim:
 4. **Record the reply here as Letter 6**, and propagate any change to the access position to MASTER_NOTES
    under standing rule two.
 
+**ANSWERED 8 October 2026: see Letter 6.** Item 1 pending (four images to resend); item 2 answered, with a
+refinement; item 3 not yet.
+
+---
+
+## Letter 6: 8 October 2026, ref. EF/E26F (supplied by Rik 9 October 2026)
+
+Verbatim:
+
+> EF/E26F
+> 08 October 2026
+>
+> Dear Rik
+>
+> Thank you for your reply.
+>
+> Please could you send the following images through again? Unfortunately, I am unable to open them on my
+> computer.
+>
+> Image 2 parts 1 and 2
+> Image 4
+> Image 6
+> Image 11
+>
+> Once I can open them I can send this on to the County Archivist.
+>
+> I will certainly request that his medical notes be considered for release. It is possible that specifics
+> will not be given and it will only be a brief summary. I only say this as I do not want to get your hopes
+> up and end up disappointing you. I will also add your query about his place of birth and year of birth he
+> gave to the Hospital. With these records, I believe they could only ever go off of what the patient
+> themselves disclosed, rather than requesting birth certificates or other like files to verify this,
+> however it is possible I am wrong.
+>
+> You are correct that the patient's medical notes will be open in January 2036 along with his case file.
+> However, members of the public will not be able to view the entry themselves until the entire volume is
+> opened. Members of the public will, however, be able to request research and transcription of the notes
+> without need for proof of relation.
+>
+> Unfortunately, I will not know if his medical notes or patient file contain a photograph until they are
+> retrieved.
+>
+> I hope this has answered your queries. I look forward to hearing back from you.
+>
+> Kind regards
+> Emily
+> Archivist
+> Royal Berkshire Archive
+
+### WHAT LETTER 6 CHANGES (9 October 2026)
+
+**1. The four images she cannot open are the four census pages, and the cause is their file names.** Items 2
+(both parts), 4, 6 and 11 are the only files in the pack whose names contained a slash ("RG 11/301",
+"RG 12/711", "RG 13/799", "RG 15/04062"). A slash is not allowed in a Windows file name and is read as a
+folder separator inside a zip, so those files arrived broken. The other ten opened. Resend with the slashes
+replaced (e.g. "RG 11-301"). Once she can open them she will forward the pack to the County Archivist.
+
+**2. The request will include the medical notes (the case-book entry).** She warns that it may be only a
+brief summary.
+
+**3. "His place of birth and year of birth he gave to the Hospital".** She will add this as a query. Rik's
+email (Letter 5) explained Albert's false birth year and German birthplace; she appears to have read this
+as a question about what William gave Broadmoor. Her own view: the Hospital recorded what the patient
+disclosed and did not check certificates. Not a question Rik asked; harmless, and possibly useful (what
+William told Broadmoor about himself is a fair question in its own right). Rik to decide whether to
+clarify.
+
+**4. Access to the case-book entry, refined.** From January 2036 the notes are open with the case file, but
+the public cannot VIEW the entry until the whole volume opens (2053). From 2036, however, anyone can request
+**research and transcription** of the notes **without proof of relation**. So after January 2036 the
+case-book entry is reachable by anyone, by transcription; before then, only through the descent request now
+in hand.
+
+**5. Photograph: unknown** until the file and notes are retrieved.
+
+
