@@ -1,11 +1,37 @@
 # LIVE LISTS
 # Created 1 October 2026. THE SINGLE COPY of the project's open questions, pending actions, sources still to obtain,
-# DO NOT USE list and press-only list. The project instructions and MASTER_NOTES point here and no longer carry their
+# DO NOT USE list and press-only list, and (section 0) the only record of chapter status. The project instructions and MASTER_NOTES point here and no longer carry their
 # own copies. Update here; when an item is settled, strike it through with the date and the source, and move it to
 # the bottom of its section rather than deleting it, so a settled question is not reopened by accident.
 # Superseded copies, word for word: notes/archive/MASTER_NOTES_retired_sections_2026-10-01.md.
 
 ---
+
+## 0. WHERE THE BOOK STANDS (the ONLY record of chapter status; update it in the same session as any change)
+Created 9 October 2026, when chapter status was taken out of the project instructions. Plans and decisions are in the
+skeleton named for each chapter.
+
+| Chapter | Title | Status | Plan and decisions |
+|---|---|---|---|
+| Prologue | (untitled) | Rewritten by Rik, 6 Oct 2026 | MASTER_NOTES, Part Two status note, 6 Oct |
+| 1 | The Ledger | Drafted | MASTER_NOTES, Part One chapter architecture |
+| 2 | The Same Witness | Drafted | same |
+| 3 | The Forge | Drafted | same |
+| 4 | The Emptying | Drafted | same |
+| 5 | The Household | Drafted (revised 21 Sep) | same |
+| 6 | The Deterioration | Drafted | same |
+| 7 | So Early Home | Drafted and assembled (retitled 6 Oct) | MASTER_NOTES, Part Two |
+| 8 | Uncommonly Fine Children | Drafted in full | MASTER_NOTES, Part Two |
+| 9 | Gone to Glory | Drafted in full | MASTER_NOTES, Part Two |
+| 10 | Of a Kindly Nature | Drafted and settled | CHAPTER_10_skeleton.md |
+| 11 | The Time Appointed for the Funeral | Drafted and assembled | CHAPTER_10_skeleton.md |
+| 12 | At Another Place | Drafted in full and assembled | CHAPTER_12_skeleton.md |
+| 13 | Some Way of Business | Approved | CHAPTER_12_skeleton.md |
+| 14 | William, Are You Well? | Approved 4 Oct; revised on the reported-speech model, approved 7 Oct | CHAPTER_14_skeleton.md |
+| 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_14_skeleton.md |
+| 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
+| 17 | Until Further Signification | NEXT: to plan (outline, DECIDE 15-16, in CHAPTER_16_skeleton.md) | |
+| Parts Four to Six, Coda | | Not begun | MASTER_NOTES |
 
 ## 1. DECISIONS WAITING FOR RIK
 - (9 October 2026) Chapter Sixteen DRAFTED AND APPROVED: chapters/CHAPTER_16.md, "As Happy as a Child at Play".
