@@ -144,7 +144,7 @@
   demolition date.
 - **National Archives Discovery:** search "Gouldstone" within HO 144. A search under "Gouldstone" found only CRIM 1/19/2; still untried: "Goldstone", and browsing HO 144 by date (September-October 1883). If both fail, record the negative: not every capital case of the period has a surviving HO 144 file.
 - ~~**Royal Berkshire Archives:** register interest in the Broadmoor file~~ NOT POSSIBLE: the archive cannot notify anyone when the file opens (Forster, 29 September 2026). The file opens January 2036.
-- **Emily Forster, Royal Berkshire Archives:** descent evidence (fourteen documents) sent 2 October 2026, with the case-book and photograph questions (correspondence/Forster_RBA_letters_2025.md, Letter 5). Awaiting her reply and the County Archivist's request to the Hospital.
+- **Emily Forster, Royal Berkshire Archives:** descent evidence (fourteen documents) sent 2 October 2026 (Letter 5). Reply of 8 October (Letter 6): she cannot open items 2, 4, 6 and 11 (the census pages, whose file names contained slashes). NEXT: resend those four with the slashes removed from their names; she will then forward the pack to the County Archivist with a request for the medical notes as well.
 - **Wethersfield History Group:** reply awaited (July 2026) on John Ansell's 1841 trade and household. Record what it
   says and where it agrees or disagrees; do not fold it in silently.
 - ~~**"burden" or "burthen"**~~ DECIDED 1 October 2026 (Rik): Chapter Five keeps "burden", the Western Daily Press
@@ -179,7 +179,7 @@
 23. Henry Maudsley, Responsibility in Mental Disease (1874)
 24. Trial of Lunatics Act 1883 — the statute itself, as passed (the Public General Statutes, 1883, on HathiTrust or Google Books; legislation.gov.uk may show it as amended), to confirm assent date, commencement, and the exact wording of the new verdict
 25. HO 144 capital case file for Gouldstone — existence and reference unconfirmed (search Discovery; HO 144/155/A40379 is the wrong case). Would hold Orange's report and the reprieve correspondence
-26. Broadmoor case book D/H14/D2/1/1/4 (males admitted 1877-1884) — ANSWERED 29 September 2026: the volume is closed until 2053; William's own entry is on the same terms as his file (closed until January 2036) and can be included in the access request. Whether his entry has a photograph: not yet answered
+26. Broadmoor case book D/H14/D2/1/1/4 (males admitted 1877-1884) — ANSWERED 29 September 2026: the volume is closed until 2053; William's own entry is on the same terms as his file (closed until January 2036) and can be included in the access request. Refined 8 October 2026: from 2036 viewable only when the volume opens (2053), but transcription can be requested by anyone without proof of relation. Photograph: unknown until retrieved (Letter 6)
 27. The criminal lunatic register from which sources/images/broadmoor-documents/'Broadmoor admisision register.jpg' comes — series and repository unknown, needed to cite it
 28. A period definition of "confusional insanity" (Savage, or the Journal of Mental Science), before Milne's 1935 deposition is quoted
 29. The London daily of Wednesday 19 September 1883 that first printed Elizabeth's statement. LEAD (3 October 2026): the Dundee Courier of 21 September prints its opening and closing under "The Daily Telegraph says:—", so very likely the Daily Telegraph of 19 September (British Newspaper Archive)

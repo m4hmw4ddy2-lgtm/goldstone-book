@@ -1040,7 +1040,9 @@ September 2026 and nearly used to introduce an error.
   patients' progress 1877–1915, "a very few entries include photographs of patients". His medical notes
   only. Forster: he is "most likely to feature" in it. **The volume is closed until 2053** (Forster, 29
   September 2026); William's own entry is on the same terms as his file, closed until 2036, and can be
-  asked for in the same access request. See `correspondence/Forster_RBA_letters_2025.md`, Letter 4.
+  asked for in the same access request. Refined 8 October 2026 (Letter 6): from January 2036 the public
+  cannot VIEW the entry until the volume opens in 2053, but anyone may request research and transcription
+  of it, without proof of relation. See `correspondence/Forster_RBA_letters_2025.md`, Letters 4 and 6.
 - `COR/R1/7/3/1-4` — Case papers of William Gouldstone of Crowthorne, 21 January 1935. **No access
   conditions.** Obtained and now transcribed; see below.
 
@@ -1099,7 +1101,10 @@ separate request, "very unlikely". A researcher route also exists, without proof
 likely to be turned down". **For the Coda (Rik's call, not a drafting instruction):** the sentence about the
 "one key" held by five children is now false as a statement about access. The request that may yet reach the
 file runs through Elizabeth, and through Albert, who exists because of the murders. The descent pack and
-what is still missing are tabled in `correspondence/Forster_RBA_letters_2025.md`, Letter 4.
+what is still missing are tabled in `correspondence/Forster_RBA_letters_2025.md`, Letter 4. The pack was
+sent on 2 October 2026 (Letter 5); on 8 October Forster confirmed she will forward it to the County
+Archivist and ask for the medical notes too, once four census images are resent in a form she can open
+(Letter 6).
 
 ### THE 1935 INQUEST PAPERS — OBTAINED, AND NOW TRANSCRIBED (22 September 2026)
 The full case papers were already in the repository as
