@@ -1,7 +1,8 @@
 # CHAPTER SIXTEEN: SKELETON (after the verdict: Friday night, 14 September 1883, onwards)
-# STATUS, 7 October 2026: PLANNED. All DECIDE points ruled (Rik): every recommendation accepted EXCEPT DECIDE 3 (her
-# statement quoted IN FULL) and DECIDE 14 (Chapter Sixteen titled "AS HAPPY AS A CHILD AT PLAY"). See "DECISIONS,
-# 7 OCTOBER 2026" at the foot; its five sub-points accepted 8 October 2026. Nothing drafted. Next: image checks (DECIDE 17).
+# STATUS, 9 October 2026: CHAPTER SIXTEEN DRAFTED IN FULL AND APPROVED (Rik: "ok, approved"), chapters/CHAPTER_16.md,
+# "AS HAPPY AS A CHILD AT PLAY", about 3,490 words, four movements. Chapter Seventeen ("Until Further Signification")
+# next: outlined below, to be planned in its own pass.
+# (Earlier status, 7 October: planned; all DECIDE points ruled, all recommendations but DECIDE 3 and 14.)
 # Fixed before planning: the chapter opens with Savage's Lancet letter, dated 14 September (CHAPTER_14_skeleton.md, DECIDE 3a).
 # Working rules as for Chapter Fifteen, with the reported-speech method (CHAPTER_14_skeleton.md, "CHAPTER FIFTEEN
 # ASSEMBLED"): speeches, leaders and letters summarised in our own words, a short phrase or two quoted, each paper
@@ -462,3 +463,19 @@ G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respi
   A second full read of the statement found "He never complained, except" and "came into the room". All propagated.
 - Unattributed lines from press reports of sworn evidence: none.
 - Next: movement four (Friday 21 and Saturday 22), ending on the Central News (DECIDE 2a).
+- **Movement four** drafted 9 October 2026. The Court of Criminal Appeal Bill (Rik's reference): Hansard, Commons, 2
+  April 1883, "[Bill 9.] Second Reading", Sir Henry James, Attorney General, an appeal "as of right" in capital cases;
+  on 16 August Gladstone still hoped to bring it on but "cannot absolutely foresee the time". WITHDRAWN 21 August 1883 (Rik's references): on 20 August consideration "as amended" (after Grand Committee) was
+  deferred a day; on 21 August Gladstone said the Government "no longer cherished the hope of proceeding with the Bill",
+  since it could not pass the Lords that session; Order discharged, "Bill withdrawn". Prose: through committee,
+  withdrawn on 21 August. Hansard 20 Aug: https://hansard.parliament.uk/Commons/1883-08-20/debates/fa76866e-9e6a-4584-8956-6f65efc74309/CourtOfCriminalAppealBill
+  21 Aug: https://hansard.parliament.uk/Commons/1883-08-21/debates/0ba55c0c-7dfc-4ce8-833f-050ec761215c/Parliament—BusinessOfTheHouse—CourtOfCriminalAppealBill https://hansard.parliament.uk/Commons/1883-04-02/debates/1fb93e12-74e5-4653-a80b-f67a63c152b8/CourtOfCriminalAppealBill
+- **Density of the letters (Rik, 9 October 2026).** Each letter-writer keeps one job; any that repeats another's is
+  compressed. Savage (Lancet): what the jury did not hear. Juror: defence of the verdict. Workmen: lived knowledge against
+  courtroom exclusion. Tallack: the legal-medical critique. Wood: the motive theory. Applied: Savage's Times letter cut to
+  its new matter (fear of ruin, "to send them to heaven", the melancholia); the cousins and the certificate left to the
+  Lancet and the reply; the workmen shortened; the judge's obstruction cut from the reply to the juror (the Lancet has it).
+- Tics pass, 9 October: day-openings ("On the Sunday / Monday / Tuesday / Friday / Saturday") varied; "wrote", "wanted",
+  "thought", "told", "same", "plainly" thinned; runs of "It" broken; one lost attribution to Sunderland restored.
+- Title confirmed by Rik: "As Happy as a Child at Play" (from Elizabeth; not a procedural title).
+- **APPROVED 9 October 2026** (Rik). Unattributed lines from press reports of sworn evidence in the whole chapter: none.

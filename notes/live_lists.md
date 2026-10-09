@@ -8,9 +8,10 @@
 ---
 
 ## 1. DECISIONS WAITING FOR RIK
-- (7 October 2026, late) Chapter Sixteen PLANNED: notes/CHAPTER_16_skeleton.md, every DECIDE ruled (all recommendations
-  but two: Elizabeth's statement in full; title "As Happy as a Child at Play"). The five sub-points arising from the full
-  statement accepted 8 October 2026. Next: image checks of every quoted line (DECIDE 17), then movement one. Chapter Seventeen, "Until Further Signification", planned in outline there.
+- (9 October 2026) Chapter Sixteen DRAFTED AND APPROVED: chapters/CHAPTER_16.md, "As Happy as a Child at Play".
+  Next: plan Chapter Seventeen, "Until Further Signification" (the respite to Broadmoor; outline and DECIDE 15-16 in
+  notes/CHAPTER_16_skeleton.md). Still open from the Chapter Sixteen skeleton: Contradictions 115 and 116 to enter in the
+  timeline file; corrections B to G there (A applied).
 - (7 October 2026) Chapter Fifteen DRAFTED AND APPROVED. Chapter Fourteen's speech passages revised on the
   Chapter Fifteen model the same day (approved). Next: plan the chapter after (Savage's Lancet letter of 14 September opens it). Undecided: where
   the second family tree goes (head of Part Five proposed) and its title ("From Elizabeth to the author").

@@ -1294,3 +1294,21 @@ witness portraits. Next chapter: the trial (Chapter Fourteen), not yet planned.
 - The Prologue rewritten by Rik (6 October); Part One recast so it does not name the murders, the trial or the
   defence; Chapter Seven retitled "So Early Home". See Part Two's status note.
 - Family trees redrawn for the printed page (backmatter/make_family_trees_print.py; *_print and *_inset files).
+
+## SESSION, 7 TO 9 OCTOBER 2026: CHAPTER SIXTEEN PLANNED, DRAFTED AND APPROVED
+- `chapters/CHAPTER_16.md`, "AS HAPPY AS A CHILD AT PLAY", about 3,490 words, approved 9 October 2026 (Rik: "ok,
+  approved"). Friday 14 to Saturday 22 September 1883: the Lancet letter; the Times and Telegraph leaders; the juror,
+  the workmen, Savage twice more, Tallack and Wood; William's letter of the 15th, whole; Chelmsford; Elizabeth's statement
+  IN FULL (Essex Weekly News); the vicar; the Law Times; the Leeds Mercury and the withdrawn Court of Criminal Appeal
+  Bill (21 August 1883, Hansard); Sunderland; the BMJ; the Guardian's three and three; the execution fixed and the
+  hangman wanted; ends on the Central News, the medical inquiry. Every decision: notes/CHAPTER_16_skeleton.md.
+- **Rule reinforced (Rik, 8-9 October): no borrowing.** A summary must not keep a source's sentence shape with a word
+  or two changed; check every summary sentence against its source before showing a draft.
+- **Rule (Rik, 9 October): one job per letter-writer.** Where several letters argue the same side, each keeps only
+  what it alone contributes; compress the rest.
+- Sources checked against images for this chapter, with many corrections (each in its file's header): the four 1883
+  BMJ items (new screenshots from JSTOR, credited); the Essex Weekly News statement and letter (twice); the Telegraph
+  leader (encoding repaired); Wood; the Guardian of 22 September (a gap filled and a misattribution of two letters
+  corrected); Dundee Courier; Guardian 29 September; Sunday Dispatch ("Orringe").
+- Next: Chapter Seventeen, "Until Further Signification" (the respite to Broadmoor), outlined in the Chapter Sixteen
+  skeleton; needs its own planning pass.
