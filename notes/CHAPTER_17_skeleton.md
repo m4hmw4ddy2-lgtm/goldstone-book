@@ -479,3 +479,4 @@ only if a DECIDE point brings them in: the Kirkcudbrightshire Advertiser (DECIDE
   Elizabeth"; "a notice in Mr Graves's name". Chapter complete in draft; awaiting approval of the whole.
 - **APPROVED 10 October 2026** (Rik). Final tics pass: two day-openings recast ("The Home Office wrote on the Wednesday";
   "A notice ... that Friday"). Unattributed lines from press reports of sworn evidence in the whole chapter: none.
+- After approval, 10 October 2026: Rik edited movement one directly on GitHub: "At least one paper was against it." (we hold only one voice against; others may exist).
