@@ -403,7 +403,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 18 Aug (Sat) | Examination and committal, Court House, Great Eastern Road, Stratford, before Nathaniel Powell and Arthur Lister: six deponents; Ada cross-examined by Atkinson; Twining "very ill", not called; insanity questions to Gould refused; "I reserve my defence", on the form as the prisoner's statement and unsigned, though the IPN, Guardian and Daily News report that Atkinson said it; committed; Miss Skinner in the cell; taken by brougham to the Clerkenwell House of Detention (Contradiction 66) | Depositions and statement of the accused, 18 Aug; Times 20 Aug; Daily News 20 Aug; IPN and Guardian 25 Aug |
 | 19 Aug (Sun) | James Cole kills his son Thomas (3 years 8 months), Pridham Road, West Croydon; the child dies the next morning. Not "copycat" (Contradiction 57). The same evening, Grantham Robinson's sermon describing his Friday visit | Old Bailey t18831015-964; Guardian 25 Aug |
 | 20 Aug | Cole received into the Clerkenwell House of Detention | Old Bailey t18831015-964 (Treadwell) |
-| 25 Aug | Royal assent, Trial of Lunatics Act 1883 (TO VERIFY against the statute) | part_three_context_law_and_medicine.md |
+| 25 Aug | Royal assent, Trial of Lunatics Act 1883 (TO VERIFY against the statute; an American treatise of 1890 also gives "25th August, 1883", secondary only: live_lists 4, item 11) | part_three_context_law_and_medicine.md |
 | 28 Aug (Tue) | The Club Minstrels' benefit for Elizabeth, Workmen's Hall (Contradiction 76) | Guardian 1 Sep |
 | c. late Aug | William's sister Emily hears their mother threaten suicide, "about a fortnight or three weeks" before the trial; the attempts were "years ago" | Emily Gouldstone, Old Bailey (cross-examined and re-examined) |
 | 5 Sep | Grantham Robinson's letter to the Guardian, enclosing Graves's letter for himself and his fellow-workmen (Contradiction 75) | Guardian 8 Sep |
@@ -417,7 +417,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 19 Sep (Wed) | Elizabeth's statement first published, in a London daily not yet identified | Collation (elizabeth_statement_collation.md) |
 | 20 Sep | Grantham Robinson's public letter ("I firmly believe that he was not in his right mind") | Guardian 22 Sep |
 | 22 Sep | BMJ's first article (pp.583-585); Savage's Lancet letter of 14 Sep published | BMJ; Lancet |
-| 26 Sep | Execution respited from 1 to 8 October, pending a medical inquiry | Guardian 26 Sep |
+| 26 Sep (Wed) | Execution respited from 1 to 8 October, pending a medical inquiry (the Home Secretary's letter undated) | Times 26 Sep (image-checked); Manchester Guardian 26 Sep, p. 5 (identified 10 Oct 2026; not the Walthamstow and Leyton Guardian) |
 | 30 Sep | Dr Clarke and Dr Orange have examined William (six or seven hours) | Sunday Dispatch 30 Sep |
 | 1 Oct (Mon) | The day first fixed for the execution. The Home Secretary signifies to the Sheriff that the sentence is respited "until further signification of Her Majesty's pleasure", after Clarke and Orange's report (Contradiction 105). The same morning the Times prints that Orange "entertains no doubt of his insanity" (press only) | Times 2 Oct; Times 1 Oct |
 | 3 Oct (Wed) | Home Office letter to the employers' solicitor advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Contradiction 80). Confirmed by Rik, 30 Sep 2026. The Preston Chronicle's "Wednesday" is the 10th, not the 3rd (Times 11 Oct; Contradiction 105) | Daily News 6 Oct; Times 6 Oct (same letter) |
@@ -426,7 +426,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 12 Oct | Graves acknowledges £35 14s. 4d. subscribed for the defence, "insufficient to meet the bare expenses of the trial", so no provision for "the poor woman". His letter of 11 Oct rounds it to £36 against £50 paid | Times 12 Oct; Guardian 20 Oct |
 | 13 Oct | (Superseded 3 Oct 2026: the certification was received on Wednesday 10 October; the Preston Chronicle of the 13th reports it) | Preston Chronicle 13 Oct |
 | 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct; 1935 inquest papers ("admitted here on 15 October 1883 from Chelmsford Prison") |
-| 18 Oct | Cole tried before Denman; convicted; later reprieved | Old Bailey t18831015-964 |
+| 18 Oct (Thu) | Cole tried before Denman (Geoghegan assigned "at the request of" the judge); jury out about an hour and a half; guilty; death; later reprieved (date not held) | Times 19 Oct (date, judge; image-checked 9 Oct 2026); Old Bailey t18831015-964 (evidence; gives neither date nor judge) |
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
 | 3 Apr 1881 | Census: 88 Frampton Park Road, Hackney. William G. Stone, 24, blacksmith; Elizabeth, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19 | RG 11/301, folio 94, pp. 47-48 (image read 2 Oct 2026) |
 | 1883-1887 | Elizabeth disappears from the documentary record | — |
@@ -3066,7 +3066,7 @@ words:** lawyers first, "the poor wife" from any surplus; on 11 October, £36 ag
   GODFREY LUSHINGTON.'"
 - **Preston Chronicle, Saturday 13 October:** the High Sheriff received the Home Office communication "on Wednesday
   morning". 3 October and 10 October were both Wednesdays.
-- **Guardian, 26 September:** execution respited from 1 to 8 October pending the inquiry.
+- **Manchester Guardian, 26 September** (identified 10 October 2026; formerly "Guardian"): execution respited from 1 to 8 October pending the inquiry.
 **Assessment.** The Home Office decision is dated Wednesday 3 October 1883 on a letter printed verbatim. The 18
 September correction was right on the evidence then held ("3 October" had no source); it now has one. The Preston
 Chronicle's "Wednesday" is most naturally the same Wednesday (the Sheriff's letter and the solicitor's the same day),

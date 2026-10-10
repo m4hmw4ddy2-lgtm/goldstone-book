@@ -264,7 +264,7 @@ Book section: Part Two, Part Three
 **Old Bailey Trial Account — James Cole, 15 October 1883 sessions (t18831015-964)**
 `transcribed/OldBailey_t18831015-964_James_Cole.txt`
 Status: READ, 30 September 2026. Website text pasted by Rik; not checked against the printed page.
-Key content: Cole's killing of his son Thomas, Sunday 19 August 1883, West Croydon; trial 18 October before Denman; Poland and Montagu Williams prosecuting; guilty, death. No witness mentions Walthamstow. Held at Clerkenwell House of Detention from 20 August. One question about "a convict of the name of Gouldstone" to the Wandsworth chaplain. See Contradiction 57.
+Key content: Cole's killing of his son Thomas, Sunday 19 August 1883, West Croydon; trial 18 October before Denman (date and judge: Times 19 Oct, `transcribed/The_Times_Oct_19_Cole_transcription.txt`, not the Old Bailey text); Poland and Montagu Williams prosecuting; guilty, death. No witness mentions Walthamstow. Held at Clerkenwell House of Detention from 20 August. One question about "a convict of the name of Gouldstone" to the Wandsworth chaplain. See Contradiction 57.
 Book section: Part Three (reprieve chapter; Chapter Thirteen only via the Spectator)
 
 ---
@@ -488,7 +488,7 @@ Status: READ
 Key content: Trial summary. Numerous applications to High Sheriff of Essex from persons wanting to act as hangman.
 Book section: Part Three
 
-**Guardian, 26 September 1883**
+**Manchester Guardian, 26 September 1883, p. 5** (identified 10 October 2026 from Rik's Newspapers.com clipping; not the Walthamstow and Leyton Guardian)
 `transcribed/Guardian_26_Sep.txt`
 Status: READ
 Key content: Execution respited until 8 October. "The respite is probably tantamount to a remission of the capital sentence."

@@ -145,7 +145,7 @@ given anywhere); the Walthamstow petition; HO 144 (live_lists 25).
    impulse"; the BMJ Stephen's formulation and "eminent medical men"; Sunderland "the advisers of the Home Secretary". By
    the 22nd the Central News says the Home Secretary is about to order a medical inquiry. This is the chapter's governing
    test (see THE SELECTION RULE, below).
-9. **"Guardian, 26 September" is not the Walthamstow and Leyton Guardian.** That paper was a Saturday weekly; 26
+9. **"Guardian, 26 September" is not the Walthamstow and Leyton Guardian.** [IDENTIFIED 10 October 2026: the Manchester Guardian, p. 5.] That paper was a Saturday weekly; 26
    September 1883 was a Wednesday. The clip shows neither title nor date. Probably the (Manchester) Guardian; to confirm.
    The dates table and master-index cite it as "Guardian 26 Sep", which readers of the notes will take for the local paper.
 10. **The BMJ pages, now held (Rik's screenshots, 7 October 2026; all four items retranscribed or collated).** The 29
@@ -354,7 +354,7 @@ in Chapter Six); "it is believed that he went out with the intention of drowning
 Times's, no gloss (recommended: the only account, of any kind, of an intention that day; the reader knows the Tuesday and
 Wednesday are unaccounted for). (b) Orange's line only. (c) Leave it out.
 
-**DECIDE 16 (Chapter Seventeen). Cole and Tuke.** Rik placed them in the reprieve chapter (30 September). Cole's trial
+**DECIDE 16 (Chapter Seventeen). Cole and Tuke.** [REVERSED 9 October 2026 (Rik): "Eliminate Cole, this is not his story." Cole is out of Chapter Seventeen and the main line; see CHAPTER_17_skeleton.md.] Rik placed them in the reprieve chapter (30 September). Cole's trial
 is 18 October, after Broadmoor; Tuke's pairing is January 1884 (Journal of Mental Science, via Clark Bell: a later
 document, and not quotable as text from Bell). (a) Cole as a short coda after Broadmoor: the same prosecutors, Poland and
 Montagu Williams; convicted; examined on Harcourt's order; reprieved (Old Bailey t18831015-964; reprieve date to source).
@@ -397,7 +397,7 @@ C. `notes/elizabeth_thread_presence_as_absence.md`, section 6: "When Part Three 
 D. Timeline, the Robinson entry: "her statement on 20 September" against the heading's 19th (Contradiction 116).
 E. Project instructions, Chapter Fifteen's "Still to plan": "Elizabeth's statement (with the heaven letter ...)": the
    letter quoted is the one dated 15 September; the heaven letter is known only from her sentence (finding 5).
-F. master-index.md and the dates table: "Guardian 26 Sep" is not the Walthamstow and Leyton Guardian (finding 9).
+F. APPLIED 10 October 2026: identified as the Manchester Guardian, 26 Sep, p. 5 (Rik's Newspapers.com clipping); dates table, master-index and the transcription header corrected. Was: master-index.md and the dates table: "Guardian 26 Sep" is not the Walthamstow and Leyton Guardian (finding 9).
 G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respite paragraph as shared copy
    (finding 11); and the Essex Weekly News / Guardian Chelmsford paragraph (already noted in Contradiction 53, not in
    the list).
@@ -479,3 +479,10 @@ G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respi
   "thought", "told", "same", "plainly" thinned; runs of "It" broken; one lost attribution to Sunderland restored.
 - Title confirmed by Rik: "As Happy as a Child at Play" (from Elizabeth; not a procedural title).
 - **APPROVED 9 October 2026** (Rik). Unattributed lines from press reports of sworn evidence in the whole chapter: none.
+
+## AFTER APPROVAL (10 October 2026, for Rik; NOT APPLIED)
+- The Nottingham Evening Post, Monday 17 September 1883, p. 2 (Rik's upload): Harcourt sent the whole pile of
+  applications for Marwood's post to the City authorities, "it was necessary to remove them from Whitehall in a cab";
+  the choice nominally the Sheriff of Essex's, in practice the Sheriffs of London and Middlesex's; "if executed at
+  all". Bears on the chapter's hangman paragraph (movement four). Image-checked; press only. Add, or leave the
+  approved text as it is?
