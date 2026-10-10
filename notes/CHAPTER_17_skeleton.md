@@ -3,7 +3,9 @@
 # is out of the chapter and out of the book's main line. The chapter ends on Broadmoor. DECIDE 8 and 9 withdrawn.
 # Cole material stays in the notes (Contradiction 57; the Times of 19 October transcription) for Part Six or the
 # endnotes only.
-# STATUS, 10 October 2026: PLANNED. ALL DECIDE POINTS RULED (Rik: "all other decides, I accept the recommendation"):
+# STATUS, 10 October 2026: DRAFTED IN FULL AND APPROVED (Rik: "approved"), chapters/CHAPTER_17.md, about 870 words,
+# three movements, ending on Broadmoor; closes Part Three.
+# (Earlier, same day: PLANNED. ALL DECIDE POINTS RULED (Rik: "all other decides, I accept the recommendation"):
 # see DECISIONS at the foot. Next: drafting, movement one first (after any outstanding image checks of quoted lines).
 # Fixed before planning: Chapter Sixteen ends on the Central News of Saturday 22 September (the Home Secretary "is
 # about to cause a medical inquiry"). Title ruled 7 October (CHAPTER_16_skeleton.md, DECIDE 14).
@@ -428,3 +430,52 @@ only if a DECIDE point brings them in: the Kirkcudbrightshire Advertiser (DECIDE
 - **Image checks for drafting:** every line to be quoted is now checked (headers record each), the Kirkcudbrightshire
   Advertiser included.
 
+## DRAFTING (held locally in chapters/CHAPTER_17.md until the chapter is approved)
+- **Movement one** (26 to 30 September), drafted 10 October 2026, about 400 words. Sources: Times 26 Sep (named once;
+  "the substance of his letter"); Manchester Guardian 26 Sep (one phrase); Kirkcudbrightshire Advertiser 28 Sep
+  ("agitators", "humanitarians"; "half-a-dozen" left out, its argument given without numbers); BMJ 29 Sep ("the dire
+  compulsion of disease"; "the touching narrative of his wife, and the clear statement of the vicar of the parish in
+  which he lived"); Sunday Dispatch 30 Sep (the doctors named in our voice, "Orringe" not quoted; the chaplain not
+  named again). The doctors' visit stated as a fact of that week; the Dispatch's details on the Sunday.
+  NO BORROWING pass done: five sentences reshaped (the Kirkcudbrightshire's "voice", "dream", "insane, or eccentric";
+  the BMJ's "terms ... made public"; the Dispatch's "During the week ... visited by several of his relatives").
+  Unattributed lines from press reports of sworn evidence: none.
+- **Movement one REWRITTEN 10 October 2026** (Rik: "Feels like you are appropriating newspaper language again"). The
+  first draft followed each source's own order and phrasing, sentence by sentence ("addressed a letter ... signifying
+  the Queen's command"; "hundreds and thousands of other fathers"; "intends to commute"; "his mental state at the time";
+  "at the request of the Home Secretary ... direct to Sir William Harcourt"; "diligent attention"). Rewritten from the
+  facts outward, in our order: each source kept to its one job (the Kirkcudbrightshire: fairness; the BMJ: the
+  doctors' brief and the wife's narrative; the Dispatch: the doctors, the hours, the visits). "The dire compulsion of
+  disease", the eccentric-relations point and the Sheriff's name dropped. About 300 words.
+- **Movement one ACCEPTED 10 October 2026** (Rik: "ok"), after his line edits: the Home Secretary named in full at the
+  opening; the respite anchored to the day the Times printed it (the letter undated); "doctors would be sent to
+  examine his mind"; "One paper was against it." restored; the BMJ paragraph made the journal's argument, not fact
+  ("It had heard"; "it argued, should be"; "pointed to"); the doctors' visit revealed through the Sunday Dispatch
+  ("had in fact come and gone"); "William's family" for the ambiguous "His family".
+
+- **Movement two** (1 to 6 October), drafted 10 October 2026, about 400 words. Sources: Times 1 Oct (15a: Orange's
+  "entertains no doubt of his insanity", quoted from "Dr. Orange" on; family history as the paper's; the drowning
+  line quoted, no gloss; the twelve months not repeated); Liverpool Daily Post 1 Oct (the either/or); Times 2 Oct
+  ("until further signification of Her Majesty's pleasure"); Lushington's letter whole on the 3rd (Times text,
+  image-checked; signature only); Times 6 Oct (the visit, quoted; "expected ... Broadmoor" left for movement three);
+  BMJ 6 Oct ("for the crime of being afflicted with a terrible disease"; "the rich murderer ... gallows").
+  NO BORROWING pass: the BMJ's "But for ... would have atoned by this time with his life" sentence replaced by an
+  open quotation; "had no time for" (our characterisation of the Post) cut; "The same paper" (ambiguous) named.
+  Unattributed lines from press reports of sworn evidence: none. Em-dashes only inside the quoted letter.
+- Movement two, 10 October (Rik, of Lushington's letter: "NOT TO ELIZABETH!"): one sentence added after the letter,
+  "Nothing records how, or indeed if, Elizabeth was officially informed." (Rik's wording; William himself was told only on 10 Oct, after the visit the Times reports, so she cannot have heard it from him that week unless he knew unofficially) (thread section 10; Contradiction 105). This spends the chapter's one
+  rationed reminder of what cannot be known, here rather than in Part Four; the Times's visit line follows it.
+- **Movement two APPROVED 10 October 2026** (Rik: "approved"), with his edits: the restated execution date cut; "the
+  great-uncle", "his mother and his aunt" (established facts); "Nothing records how, or indeed if, Elizabeth was
+  officially informed." after Lushington's letter.
+- **Movement three** (10 to 15 October), drafted 10 October 2026, about 250 words. Sources: Times 11 Oct (named once;
+  "received it with deep gratitude"; Preston Chronicle the same copy, not used); Graves's letter dated 11 Oct
+  (Walthamstow and Leyton Guardian 20 Oct, image-checked: "her mad husband", "utter destitution", £50 and £36 inside
+  his words, "nothing to give to the wife"); the Times notice of 12 Oct (the sum in our voice, DECIDE 30a); the removal
+  of 15 Oct as plain fact (DECIDE 7a; Guardian 20 Oct and Daily News 16 Oct not quoted; admission from the 1935 papers
+  and the register, stated as fact). Ends on Broadmoor. Pronoun pass: "he" and "him" after the High Sheriff named.
+  Unattributed lines from press reports of sworn evidence: none.
+- **Movement three ACCEPTED 10 October 2026** (Rik: "ok"), with his edits: "Mr Graves"; "not about William but about
+  Elizabeth"; "a notice in Mr Graves's name". Chapter complete in draft; awaiting approval of the whole.
+- **APPROVED 10 October 2026** (Rik). Final tics pass: two day-openings recast ("The Home Office wrote on the Wednesday";
+  "A notice ... that Friday"). Unattributed lines from press reports of sworn evidence in the whole chapter: none.

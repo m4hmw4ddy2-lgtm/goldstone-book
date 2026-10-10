@@ -30,10 +30,15 @@ skeleton named for each chapter.
 | 14 | William, Are You Well? | Approved 4 Oct; revised on the reported-speech model, approved 7 Oct | CHAPTER_14_skeleton.md |
 | 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_14_skeleton.md |
 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
-| 17 | Until Further Signification | Planned 10 Oct 2026; all DECIDE points ruled (Cole out); NEXT: draft | CHAPTER_17_skeleton.md |
-| Parts Four to Six, Coda | | Not begun | MASTER_NOTES |
+| 17 | Until Further Signification | Approved 10 Oct 2026 (about 870 words; closes Part Three) | CHAPTER_17_skeleton.md |
+| Part Four | Elizabeth | NEXT: to plan | |
+| Parts Four (after its opening) to Six, Coda | | Not begun | MASTER_NOTES |
 
 ## 1. DECISIONS WAITING FOR RIK
+- (10 October 2026) Chapter Seventeen DRAFTED AND APPROVED: chapters/CHAPTER_17.md, "Until Further Signification",
+  ending on Broadmoor; Part Three closed. Next: plan Part Four (Elizabeth), starting from the absence after 15 October
+  (thread file, section 6). Still open: Chapter Sixteen and the Nottingham Evening Post (17 Sep), below; Contradictions
+  115 and 116 to enter; Chapter Seventeen corrections I, K, L, M.
 - (10 October 2026) For Rik, Chapter Sixteen (approved): the Nottingham Evening Post of MONDAY 17 SEPTEMBER (Rik's upload)
   has the hangman's applications sent by Harcourt to the City "in a cab", and "if executed at all". Add to Ch 16's
   hangman paragraph, or leave? Not applied. See transcribed/Nottingham_Evening_Post_17_Sep_1883_transcription.txt.
