@@ -1,9 +1,15 @@
 Source image: Guardian_26_Sep.jpg
-Newspaper/title if visible: [not visible]
-Date if visible: [not visible]
+Newspaper/title if visible: [not visible on the clip] IDENTIFIED 10 October 2026: The (Manchester) Guardian
+Date if visible: [not visible on the clip] Wednesday 26 September 1883, page 5 (identified 10 October 2026)
 Page/column/article if known: Short notice concerning Gouldstone
 Transcription scope: Visible text region
 Transcription status: Complete
+CHECKED AGAINST THE IMAGE, 9 October 2026, every line. Agrees. Neither title nor date is on the clip; a web search
+for the paragraph's wording found nothing. Not the Walthamstow and Leyton Guardian (a Saturday weekly; 26 September 1883 was a Wednesday).
+IDENTIFIED 10 October 2026 from Rik's Newspapers.com clipping ("The Guardian", 1883, Sept 26, Page 5; the site files the
+Manchester Guardian under "London"). The page thumbnail's running head is too small to read, but its word shapes fit
+"THE MANCHESTER GUARDIAN, WEDNESDAY, SEPTEMBER 26". Name it in prose as the Manchester Guardian. The site's OCR
+("GOLDSTONE", "his children", "Sth") is not the text: the clip reads "GOULDSTONE", "his five children", "8th".
 
 TRANSCRIPTION
 

@@ -1,0 +1,32 @@
+Source image: sources/images/Media-coverage/to-transcribe/Nottingham_Evening_Post_17_September_1883_0002_Clip.jpg
+Newspaper/title if visible: not on the clip; the Nottingham Evening Post, from Rik's filename (uploaded 10 October 2026)
+Date if visible: not on the clip; Monday 17 September 1883, page 2, from the filename
+Page/column/article if known: one paragraph
+Transcription scope: the whole clip.
+Transcription status: COMPLETE. Transcribed 10 October 2026 directly from the image, every line. This counts as the
+one image check. Spelling as printed.
+
+NOTES:
+1. DATED MONDAY 17 SEPTEMBER, NINE DAYS BEFORE THE RESPITE. "If executed at all" is the paper's own doubt on the
+   Monday after the trial, the day the workmen's and juror's letters and Savage's appeared. It belongs to CHAPTER
+   SIXTEEN (approved 9 October), not Seventeen.
+2. New: the applications for Marwood's post went to the Home Secretary, and Harcourt sent the whole pile to the City
+   authorities, "it was necessary to remove them from Whitehall in a cab"; the choice nominally the Sheriff of
+   Essex's, in practice the Sheriffs of London and Middlesex's. Chapter Sixteen says men had written "to the gaol and
+   to the High Sheriff" (Essex Weekly News, 21 Sep): compatible, not a contradiction.
+3. "A meeting of the General Purposes Committee of the Court of Aldermen was held yesterday": in a Monday evening
+   paper, Sunday 16 September, unless the paragraph is copied from a paper of another day (likely; an agency or
+   London item). Not to be dated from it.
+4. "at at all": the page's doubled word across a line break. Press only.
+
+TRANSCRIPTION
+
+The whole of the applications made to the Home Secretary for the post of hangman, have been forwarded by order of
+Sir William Harcourt, to the authorities of the city of London, who will take the initiative in appointing the
+executioner in successor to Marwood. As Gouldstone, the Walthamstow murderer, will be executed in Essex, if executed
+at at all, the selection of hangman will nominally rest with the sheriff of that county; but the sheriffs of London
+and Middlesex have been consulted, and the person appointed will, in the first instance, as a matter of fact, be
+nominated by them, and this is the reason why the applications received at the Home Office have been sent to the
+city. They form an immense pile, and it was necessary to remove them from Whitehall in a cab. A meeting of the
+General Purposes Committee of the Court of Aldermen was held yesterday preparatory to steps being taken in the
+matter, and it is expected that the name of the new functionary will be known in a few days.

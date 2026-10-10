@@ -4,6 +4,7 @@ Date if visible: not visible; Monday 1 October 1883, per the file name ("Oct_118
 Page/column/article if known: one paragraph, headed "COMMUTATION OF GOULDSTONE'S SENTENCE."
 Transcription scope: the whole clip
 Transcription status: COMPLETE. Transcribed 30 September 2026 from the image. Spelling and punctuation as printed.
+CHECKED AGAINST THE IMAGE, 9 October 2026, every line. Agrees (the page's "4o examine" is a broken "to").
 
 TRANSCRIPTION
 
@@ -23,7 +24,7 @@ TRANSCRIBER'S NOTES
 0. The same text as transcribed/Communtation in newspaper.txt (untitled, undated clipping): this Post page identifies it.
 
 1. Date from the file name only; the clip shows no date. Monday 1 October 1883 was the original date fixed for the
-   execution, before the respite to 8 October (Guardian, 26 September).
+   execution, before the respite to 8 October (Times and Manchester Guardian, 26 September).
 2. The BMJ passage it quotes is the BMJ of 29 September (transcribed/BMJ_29_September_1883_Transcription.txt), which
    reads "a modification of his punishment", not "of the sentence". The Post's quotation marks enclose its own
    variant. Quote the BMJ from the BMJ.

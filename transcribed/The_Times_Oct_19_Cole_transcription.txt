@@ -1,0 +1,151 @@
+Source image: sources/images/Media-coverage/to-transcribe/The Times Oct 19 1883 p8.jpg (whole page, 2896 x 3904; supplied by Rik, 9 October 2026)
+Newspaper/title if visible: THE TIMES (running head)
+Date if visible: FRIDAY, OCTOBER 19, 1883 (running head); page 8
+Page/column/article if known: first column, from the head of the page: "CENTRAL CRIMINAL COURT, Oct. 18. (Before MR. JUSTICE DENMAN.)", the trial of James Cole, ending "to carry out the sentence." (the next case, Joseph Ward, a carman, follows in the same column).
+Transcription scope: the Cole report, complete.
+Transcription status: COMPLETE. Transcribed 9 October 2026 directly from the image, every line read in enlarged
+overlapping crops. This counts as the one image check. Small capitals rendered as capitals; "Guilty" and
+"post-mortem" are italic on the page. "grevious" as printed.
+
+NOTES (9 October 2026, Chapter Seventeen sweep):
+1. SETTLES THE DATE AND THE JUDGE: tried Thursday 18 October 1883, before Mr Justice Denman. Until now both rested on
+   Clark Bell (December 1884) only; the Old Bailey website text gives neither (CHAPTER_17_skeleton.md, finding 1,
+   correction H).
+2. THE JOURNAL OF MENTAL SCIENCE ACCOUNT (as Clark Bell prints it, Medico-Legal Journal, Dec 1884, pp. 349-351) IS THIS
+   REPORT, cut and lightly reworded ("The plea of insanity was set up"; "the new Act regarding the treatment of
+   persons alleged to be insane" against the Times's "the trial of persons"; Bell's "Beare:" for "making"). Shared
+   copy: one witness, the Times the original.
+3. Geoghegan defended "at the request of Mr. Justice Denman": counsel assigned by the court. Not in the Old Bailey text.
+4. The jury were out "about an hour and a half" (William's jury, about a quarter of an hour: Chapter Fifteen).
+5. Geoghegan offered the jury manslaughter as the alternative; Poland put the choice as "a violent, drunken man" or
+   "an insane person and a fit subject for the Broadmoor Lunatic Asylum"; Denman told them it was necessary that the
+   insanity "should be proved affirmatively".
+6. The sentence: Denman's address is given in direct speech, but "The Judge then sentenced the prisoner to death in the
+   usual manner": the formal words are NOT printed. Live_lists 4, item 38 is not satisfied by this report. Handed
+   to the Sheriff of Surrey.
+7. Asked whether he had anything to say, Cole "replied in the negative": the same formula the Times used of William
+   on 14 September (Contradiction 93).
+8. Gouldstone is not named in this report (the Wandsworth chaplain's answer is in the Old Bailey text only).
+
+TRANSCRIPTION
+
+CENTRAL CRIMINAL COURT, Oct. 18.
+
+(Before MR. JUSTICE DENMAN.)
+
+James Cole, 37, labourer, was indicted for the wilful murder of Thomas Cole. Mr. Poland and Mr. Montagu Williams
+conducted the prosecution; Mr. Geoghegan, at the request of Mr. Justice Denman, appeared for the defence.
+
+In opening the case, Mr. POLAND said the matter was undoubtedly a very serious one, and would require careful
+investigation at the hands of the jury. The prisoner was a brickmaker and labourer, and in August last he was living
+with his wife at Croydon. Their two children, Richard Cole a lad of 14, and Thomas Cole three years and eight months
+old, the latter of whom was the subject of the indictment, also lived with them. The prisoner had been out of work
+for some time, and the family were in great poverty. The wife gained her living by mending chairs, being assisted by
+the boy Richard. Upon the day in question Richard Cole went out at about 12 o'clock in the day, and did not return
+until 7 in the evening. He found his father and mother quarrelling, the prisoner complaining that he had been kept
+all day without food, although at that time there was food on the table. Some time afterwards the wife went to bed,
+but the prisoner continued using bad language, and at 9 o'clock she got up and left the house. A little while after
+that the prisoner told Richard to call his mother, and he left the house to do so. When he returned he saw the
+prisoner holding the child Thomas by the feet. The wife took the child away from him, and laid it upon the bed, and
+went out again. Shortly afterwards Richard saw the prisoner holding the child by the leg, and knocking the head
+against the floor. The mother came in and caught the prisoner round the neck. The child was lying on the floor, and
+she lifted it up. A man named Gilbert, who had heard the cries for help went to the house, and according to his
+statement saw the prisoner take the child by the leg and swing its head against the wall. The child was very
+seriously injured, and lay upon the floor bleeding and senseless. The witness Gilbert tried to detain the prisoner,
+but he broke away. As the prisoner ran away he met a man named Knight, and said to him, "I have murdered my child."
+The prisoner was detained by Knight until a policeman arrived, and was afterwards charged with causing the child's
+death. A doctor was called, and found the child unconscious, with numerous marks of violence about its body, and
+signs of dust, as though it had been dragged about the floor. The child died on the following morning, and the
+post-mortem examination showed that, although the skull was not fractured, death was caused by the violent
+concussion of knocking the head against the floor or wall. The defence which would be raised on the prisoner's
+behalf was one of insanity, but he (Mr. Poland) would call the surgeon of the prison, where the prisoner had been
+confined awaiting his trial, and several warders who had seen him daily, who would say that he had exhibited no signs
+of unsoundness of mind, but, on the contrary, had conducted himself in every respect as a sane rational individual.
+
+A number of witnesses were called in support of this statement, and it was elicited from the boy Richard that, upon
+the night in question the prisoner complained that his wife had hidden people under the floor and in the cupboard to
+try to poison him. The prisoner seemed also to have used threats towards his wife, having apparently entertained
+feelings of jealousy towards her, but it was stated that she was a respectable hardworking woman.
+
+The surgeon and chief warder of Clerkenwell House of Detention were examined for the purpose of showing that the
+prisoner had displayed no symptoms of insanity, but had conducted himself in accordance with the prison regulations.
+On one occasion he became violent, and was removed to a padded cell, but it was stated that it did not arise from
+unsoundness of mind.
+
+For the defence, a brother of the prisoner was examined, and stated that some members of the family had been subject
+to fits.
+
+Dr. Jackson, one of the Aldermen of Croydon, stated that he had examined the prisoner and had conversations with
+him. He was quite certain that he was a typical lunatic with dangerous delusions. In cross-examination, witness said
+the prisoner seemed to understand the questions put to him, and gave perfectly rational answers. He told him that he
+had thought he was being poisoned, that his wife had set men on to him, that he used to shriek out, and wake up at
+night, thinking that people were murdering him. The prisoner acknowledged that he drank occasionally, and that he had
+been many times in prison for violence. The prisoner said that he found that a little drink made him lose his senses.
+What the prisoner told him corroborated what he had heard from the neighbours. The prisoner knew perfectly well that
+he was on his trial for murder. When witness asked him how he could have treated the child so cruelly, he made no
+answer.
+
+In reply to MR. JUSTICE DENMAN, the witness said he did not question the prisoner as to whether or not he committed
+the murder.
+
+In re-examination by Mr. GEOGHEGAN, witness said he believed that the prisoner was of such a state of mind that no
+parish doctor ought to allow him at large, as he was dangerous.
+
+Mr. GEOGHEGAN addressed the Court for the defence, arguing that there had been no motive for the commission of the
+crime, but that there were strong antecedent probabilities that the prisoner was so unsound in his mind at the time,
+that he did not know the nature and quality of the act he was committing. In support of his argument, the learned
+counsel reminded the jury of the delusions which the prisoner was shown to have entertained as to an attempt being
+made to poison him, and other matters which had no foundation. The very fiendish nature of the crime showed that it
+must have been perpetrated while the prisoner was overwhelmed by a paroxysm of insanity, which rendered him
+incapable of restraining, or of knowing, the nature and gravity of his actions. If, on the other hand, the evidence
+did not show to the satisfaction of the jury that the prisoner was insane, it would be open to them to convict the
+prisoner of the minor offence of manslaughter.
+
+Mr. POLAND, replying on the part of the prosecution, commented upon the fact that previous to the commission of the
+crime the prisoner was never shown to have committed a single act of insanity, or even eccentricity. No companion or
+neighbour had been called to show that the prisoner had conducted himself otherwise than as a perfectly sane and
+rational person. On the other hand, the gaol officials, who had seen the prisoner every day since, were of opinion
+that there was not the slightest symptom of insanity about him, although it might be true that he was given to
+occasional fits of rage. Moreover, the learned counsel argued, the statements of the prisoner as to his belief that
+attempts had been made to poison him would not be sufficient for any medical man to certify that he was insane, and
+thus necessitate his confinement in a lunatic asylum. The jury must take the whole of the circumstances into
+consideration, and it was for them to say whether the prisoner was a violent, drunken man, or whether he was an
+insane person and a fit subject for the Broadmoor Lunatic Asylum.
+
+MR. JUSTICE DENMAN, in summing-up, said that it was an appalling case in all its facts and details, whatever view the
+jury might take of it. One thing was perfectly clear—namely, that the prisoner caused the death by swinging the
+child by the legs and knocking its head against the wall. With regard to the question of manslaughter, although the
+jury were not prevented by law from returning such a verdict, could they, in point of common sense, assuming the
+prisoner to be a man in whose case insanity could not be established, come to the conclusion that the act was not
+done so as to constitute murder? If the prisoner intended to do grevious bodily harm to the child, and it died from
+his violence, he would be guilty of murder. With reference to the defence of insanity which had been raised, his
+Lordship said that when such defences were put forward, it was necessary that the insanity should be proved
+affirmatively. The law as laid down by the House of Lords was that every man was supposed to be responsible for his
+acts until the contrary was proved, and it must be shown that he was suffering under such a state of mental disease
+as not to know the nature and quality of the act he was committing, or that it was wrong. The learned Judge referred
+to the new Act which had been passed regarding the trial of persons who were alleged to be insane, and said that he
+observed that last session a learned colleague expressed dissatisfaction with the new enactment, in which he was not
+inclined to disagree, the new Act not altering the law as to insanity as it previously stood, but only making a
+difference in the formal verdict.
+
+The jury retired to consider their verdict, and after an absence of about an hour and a half, returned into court
+finding the prisoner Guilty.
+
+The prisoner, in answer to the usual question whether he had anything to say why sentence of death should not be
+passed upon him, replied in the negative.
+
+Silence was formally proclaimed, and
+
+MR. JUSTICE DENMAN, having assumed the black cap, proceeded to pass sentence of death. He said,—James Cole, you have
+been found guilty of the crime of wilful murder. An attempt has been made by the very learned and very able counsel
+who has defended you, with the assistance of one witness, who had obviously formed a strong opinion in favour of the
+theory which he had entertained—namely, that you were not responsible for your actions in what you did—to make out
+that you were irresponsible. That attempt has failed, and I must express my opinion that, according to the law of
+England, it has rightly failed. Although it was, I think, established in evidence that you had been suffering from
+delusions, I cannot entertain a doubt that on the occasion on which you violently caused the death of your child,
+you knew you were doing wrong, and knew that you acted contrary to the law of this country, and that you did it under
+the influence of passion, which had got possession of your mind, from want of sufficient control, the result being
+that the poor child came by a sudden and savage death. I do not wish to say a word to add to the misery you must
+experience, but I will confine myself to the simple duty which devolves upon me, of passing upon you the sentence of
+the law. The Judge then sentenced the prisoner to death in the usual manner, directing him to be handed over to the
+Sheriff of Surrey to carry out the sentence.
