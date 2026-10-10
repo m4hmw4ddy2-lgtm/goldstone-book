@@ -1,0 +1,53 @@
+LAMBETH WORKHOUSE: REGISTER OF BIRTHS, 1887, pages 95 and 96 (one opening), entries 103 to 119
+Images: sources/images/birth-certificates/Lambeth Workhouse Birth 1.png (left page, viewer "95 of 471")
+        sources/images/birth-certificates/Lambeth Workhouse Birth 2.png (right page, viewer "96 of 471")
+Repository and reference of the original volume: NOT RECORDED in the repo (very probably LMA, Lambeth Board of
+Guardians; to confirm and cite).
+
+IMAGE CHECK (check-once rule): 10 October 2026, Chapter Eighteen planning session. The whole opening read from both
+images, every column of every line, with the legitimacy column enlarged on both pages (it is split by the gutter: the
+left page shows the opening letters, the right page the rest; both halves compared line by line) and the parents'
+and baptismal-name columns enlarged. Readings marked [?] are uncertain and are NOT to be quoted without a better image.
+The mothers' surnames other than Elizabeth's are read for the count only, not for prose.
+
+Printed headings across the opening: "REGISTER OF BIRTHS" (left) / "IN LAMBETH WORKHOUSE." (right).
+Columns: No. | Date of Birth, 18[87] | Whether Male or Female | Name of Parents or Mother | Whether Legitimate or
+Illegitimate | When Baptized | In what Name Baptized | Remarks | Registrar's Initials.
+A tick stands at the left of every entry in the parents' column. "When Baptized" is BLANK FOR EVERY ENTRY on the
+opening, not only Albert's: the "In what Name Baptized" column carries the child's given names throughout.
+
+No.  Date        Sex     Parents or Mother                                    Legit.   Name             Remarks                    Init.
+103  June 18     Female  Annie Taylor                                         Illeg.   Alice Maud       -                          G.H.
+104  June 19     Female  Mary Pratt                                           Illeg.   Alice Mary       -                          G.H.
+105  June 19     Male    Elizabeth Goldston                                   Illeg.   Albert Jennet    -                          G.H.
+106  June 24     Male    Kate Curd [time written beside the date; not read]   Illeg.   Henry  } Twins   -                          G.H.
+107  June 24     Male    Kate Curd [time written beside the date; not read]   Illeg.   Edward }         -                          G.H.
+108  June 24     Female  Elizabeth Roper                                      Illeg.   Alice Maud       -                          G.H.
+109  June 24     Male    Dean & Mary Brown formerly Frostick [?]              Legit.   Dean             Coachman                   G.H.
+110  June 25     Male    Constance Amy Setterfield                            Illeg.   Charles William  -                          G.H.
+111  June 27     Female  Jeffery [?] William & Annie St[...] formerly Ma[...] Legit.   Annie            Boiler-maker               G.H.
+112  June 29     Female  Annie Freeman                                        Illeg.   Alice            -                          G.H.
+113  July 2      Male    Annie Measore [?]                                    Illeg.   Frederick Ernest -                          G.H.
+114  July 2      Male    Rosina [?] Chandler                                  Illeg.   (ruled line)     Stillborn                  (none)
+115  July 2      Female  George & Ellen Prosser formerly Cooper               Legit.   Annie            Carpenter                  G.H.
+116  July 4      Male    Alfred & Ellen Porter formerly Heirons [?]           Legit.   (ruled line)     Fitter [?] & Millwright [?]; Stillborn  (none)
+117  July 4      Male    Annie & Frank Edwell [?] formerly Ullmann [?]        Legit.   Frank            Labourer                   G.H.
+118  July 4      Male    William Henry & Mary Ann Ca[...] formerly Collins    Legit.   (ruled line)     Boiler Maker; Stillborn    (none)
+119  July 8      Male    Martha Cooke                                         Illeg.   Herbert Edward   -                          G.H.
+
+COUNT (made from the images, 10 October 2026): 17 entries, Saturday 18 June to Friday 8 July 1887 (16 mothers; 106
+and 107 are twins). ILLEGITIMATE 11 (103, 104, 105, 106, 107, 108, 110, 112, 113, 114, 119); LEGITIMATE 6 (109, 111,
+115, 116, 117, 118). STILLBORN 3 (114, illegitimate; 116 and 118, legitimate): name column ruled through, no
+registrar's initials. Entry 110 is the least certain of the legitimacy readings (the split falls inside the word);
+read "Illegitimate" from the two tall loops on the right-hand page, against 109's single capital L, and it agrees with
+the form of the line (mother's name only, no remark). If 110 were wrong the count would be 10 and 7.
+
+THE FORM OF THE LINES (observed, not explained): every legitimate entry gives both parents, the mother's former
+surname ("formerly ...") and, in Remarks, a trade (Coachman, Boiler-maker, Carpenter, Labourer, Boiler Maker, and
+one uncertain). Every illegitimate entry gives the mother's name only, no former surname and no remark, except
+114's "Stillborn". Albert's line (105) has that form.
+
+Two births on 19 June, both entered illegitimate: 104 (Mary Pratt; a girl, Alice Mary) and 105 (Albert).
+
+NOT IN THIS REGISTER: no informant, no address, no time of birth for 105, no age or occupation for any mother, no
+date of registration. The register's entry number (105) is not the civil register's (113, on the GRO certificate).

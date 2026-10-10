@@ -1,0 +1,43 @@
+"WHITSTABLE. POLICE CASES." FOLKESTONE CHRONICLE, SATURDAY 13 APRIL 1901, PAGE 7
+Image: sources/images/Media-coverage/Folkestone_Chronicle_13_April_1901_0007_Clip.jpg
+Paper, date and page: Rik, 10 October 2026.
+
+IMAGE CHECK (check-once rule): 10 October 2026. The whole Albert Goldstone item checked word by word against the image,
+both parts enlarged (it runs from the foot of column 2 to the head of column 3). The Carl Anderson item that follows
+read but not checked word by word. Every word of the Goldstone item is certain except the mark after "Mr. Bray"
+(a semicolon or a speck; read as a comma in sense).
+
+Text, verbatim (the source's punctuation; "ult." = March 1901, "inst." = April 1901):
+"POLICE CASES. — At St. Augustine's Petty Sessions on Saturday, Albert Goldstone, aged 14, was charged on remand with
+stealing a pair of sea boots, value 10s., the property of Alfred Baker on the 28th ult. Prosecutor, an able seaman on
+board the Christabel, deposed that the vessel was laden with coal, and prisoner was employed as basket boy in the work
+of unloading. Witness last saw the boots on the 23rd ult. in the forecastle and missed them on the 29th. John James
+Pout, boot-maker, of 46, Harbour-street, Whitstable, stated that on the 28th ult. prisoner brought the boots to his
+shop and asked him to put pieces on the bottom. He said they were his own boots, they having been given to him, but
+witness told him they were more suitable for his father than for him. On the 30th ult. prisoner came back and said
+his father wanted 3s. for them and witness purchased them for that amount. He admitted they were worth more than
+that. P.C. Lampkin deposed to arresting prisoner on the 1st inst. when he said the boots were at Mr. Pout's. On going
+there Mrs. Pout handed him the boots. Prisoner pleaded guilty. Mr. Bray[;] the police court missionary, offered to
+get the boy on a training ship, and the Bench adjourned the case for a week to see what he could do in the matter.
+Supt. Jacobs asked the Bench to disallow Pout his expenses as he did not go the police about the boots in the first
+instance. There had lately been many small thefts in Whitstable and the police had been unable to trace the articles
+stolen. The Bench disallowed Pout's expenses and expressed the opinion that he was very fortunate to get off so
+lightly."
+(The last "he" is Pout: the sentence is about his expenses.)
+
+DATES (weekdays by calendar computation, 10 October 2026):
+Sat 23 March 1901, boots last seen | Thu 28 March, boots taken to Pout's | Fri 29 March, missed | Sat 30 March, sold
+to Pout for 3s. | Sun 31 March, CENSUS NIGHT (Albert at Middle Wall, "son", harbour labourer, entered 15) | Mon 1
+April, arrested by P.C. Lampkin | first hearing and remand: date not given | Sat 6 April, St Augustine's Petty
+Sessions ("on Saturday"): pleaded guilty; adjourned a week | Sat 13 April, the adjourned hearing due; report printed.
+
+WHAT IT GIVES: Albert, under the name Goldstone (not Madams), aged 14 by the paper (13 in fact), working as a basket
+boy unloading a coal vessel; the first words in the record attributed to him, at second hand through Pout ("they
+were his own boots ... given to him"; "his father wanted 3s."); a police court missionary's offer to get him on a
+training ship.
+WHAT IT DOES NOT GIVE: the outcome. Nothing here says the Bench sent him to a training ship. HMS Impregnable, where he
+entered on 11 November 1901, was a boys' training ship; the connection is INFERENCE until the adjourned hearing of
+13 April is found. "His father" is the boy's word as Pout reported it: who was meant is not said (Madams is the
+obvious reading; not for prose as fact).
+Press as press: one paper; the Whitstable Times (6 and 13 April 1901) and the Kentish Gazette probably carried the
+same sessions; if found, check for shared copy (live_lists 6).

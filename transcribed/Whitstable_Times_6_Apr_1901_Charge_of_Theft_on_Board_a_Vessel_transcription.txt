@@ -1,0 +1,34 @@
+"CHARGE OF THEFT ON BOARD A VESSEL." WHITSTABLE TIMES AND HERNE BAY HERALD, SATURDAY 6 APRIL 1901
+Image: sources/images/Media-coverage/Whitstable_Times_and_Herne_Bay_06_April_1901_0005_Clip.jpg
+Paper and date: Rik, 10 October 2026. Page not recorded.
+
+IMAGE CHECK (check-once rule): 10 October 2026. Whole item checked word by word against the image; every word certain.
+
+Text, verbatim (the source's punctuation; its dashes kept as printed):
+"CHARGE OF THEFT ON BOARD A VESSEL.—At the County Magistrates' Office, Canterbury, on Tuesday last, Albert Goldstone,
+a boy 14 years of age, was charged with stealing a pair of sea boots, value 10s., from the brigantine Christabelle,
+lying in Whitstable Harbour, on the 28th ult., the property of Alfred Baker.—The prosecutor gave evidence identifying
+the boots produced as his property. He left them in the forecastle of the vessel on the previous Friday week, and
+when he went for them a week afterwards they were gone.—John Pout, shoemaker, of Harbour Street, deposed that
+prisoner brought the boots to him one day last week to be repaired. The next day he came again, and offered the
+boots for sale, and witness bought them for 3s.—Corporal Lambkin proved the arrest and stated that when told the
+charge prisoner admitted having stolen the boots and sold them.—Remanded to the Petty Sessions on Saturday."
+
+DATE: "Tuesday last" before Saturday 6 April 1901 = Tuesday 2 April 1901 (calendar computation): the FIRST hearing,
+at the County Magistrates' Office, Canterbury, the day after the arrest (Monday 1 April, Folkestone Chronicle).
+"Remanded to the Petty Sessions on Saturday" = Saturday 6 April (Folkestone Chronicle, 13 April 1901).
+"The previous Friday week" = Friday 22 March; "a week afterwards" = about Friday 29 March.
+
+AGAINST THE FOLKESTONE CHRONICLE OF 13 APRIL (the next hearing; different reporter, different text: NOT shared copy):
+- The vessel: "the brigantine Christabelle, lying in Whitstable Harbour" here; "the Christabel" there. The name is
+  uncertain; the type ("brigantine") and place are given here only.
+- When last seen: "the previous Friday week" (22 March) here; "the 23rd ult." there.
+- Pout: "the next day he came again" here; "on the 28th ... On the 30th" there. Two different days of sale.
+- The policeman: "Corporal Lambkin" here; "P.C. Lampkin" there.
+- What the boy said on arrest: "admitted having stolen the boots and sold them" here; "said the boots were at Mr.
+  Pout's" there. Compatible, not the same.
+- NOTHING HERE ABOUT "HIS FATHER": the "his own boots ... given to him" and "his father wanted 3s." are in the
+  Folkestone Chronicle's report of the 6 April hearing only. One paper.
+Proposed Contradiction (not entered; next free number after 116): the vessel's name, the dates of last sighting and
+of sale, and the officer's rank and spelling, between the two reports. Any prose uses only what both agree on, or
+names the paper.
