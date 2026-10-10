@@ -1,0 +1,32 @@
+DEATH CERTIFICATE (GRO CERTIFIED COPY): WILLIAM MADAMS, 23 NOVEMBER 1901, KENT COUNTY LUNATIC ASYLUM, CHARTHAM
+Image: sources/images/death-certificates/William Madams Death Cert 1901.jpg
+GRO certified copy dated 10 December 2018, DYE 332813, application 9730889-15.
+Transcription created 10 October 2026 (Chapter Nineteen skeleton); none existed before.
+
+IMAGE CHECK (check-once rule): 10 October 2026. The whole entry checked column by column, both halves enlarged from
+the full-resolution image. Uncertain readings marked [?].
+
+Registration District: BRIDGE. 1901 Death in the Sub-district of Chartham in the Counties of Kent and Canterbury.
+
+No.: 382
+1 When and where died: "Twenty third November 1901 Kent County Lunatic Asylum Chartham R D"
+2 Name and surname: "William Madams"
+3 Sex: "Male"
+4 Age: "42 years"
+5 Occupation: "a Labourer from Whitstable"
+6 Cause of death: "General Paralysis of the Insane about 3 months" / a short word below, read "P[?].M[?]."
+  [?: perhaps post mortem; NOT for prose unless confirmed] / "Certified by J. C. FitzGerald M.D."
+7 Signature, description and residence of informant: "Norman H Sibley Resident Clerk & Steward Kent County Asylum
+  Chartham"
+8 When registered: "Twenty seventh November 1901"
+9 Signature of registrar: "[?] Hawley-Croft [?] Registrar" (reading uncertain)
+
+READINGS NOTED:
+- Weekdays (calendar computation): died Saturday 23 November; registered Wednesday 27 November 1901.
+- Nobody of his family is the informant; the asylum's clerk and steward is.
+- Age 42: against the 1891 census (30) and the 1901 census (39), the three ages do not agree with one another or with
+  the "born 1 May 1860" carried in dramatis_personae.md (source of that date not recorded). Not for prose.
+- "about 3 months": the certificate's duration for the disease as certified. The admission date (4 September 1901,
+  MH 94/37) is held only as an index entry (notes/archive/session-addendum-2026-06-25.md; Ancestry tree citation),
+  image not in the repo.
+- "Chartham", not "Chatham" (live_lists 5). The Ancestry GEDCOM's "Admission to Chatham Asylum" is that error.

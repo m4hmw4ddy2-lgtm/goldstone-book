@@ -1,0 +1,33 @@
+BIRTH CERTIFICATE (GRO CERTIFIED COPY): ELIZA JANE MADAMS, 16 SEPTEMBER 1891, WHITSTABLE
+Image: sources/images/birth-certificates/1891 Eliza Jane Madams Birth Cerificate.jpg
+GRO certified copy dated 21 October 2013, BXCF 974137, application 5224415-1.
+Transcription created 10 October 2026 (Chapter Nineteen skeleton); none existed before.
+
+IMAGE CHECK (check-once rule): 10 October 2026. The whole entry checked column by column, columns 1-2 and 5-7
+enlarged from the full-resolution image. Every word certain except the margin note (below).
+
+Registration District: BLEAN. 1891 Birth in the Sub-district of Whitstable in the County of Kent.
+
+Margin (left of the entry): "Four" / "E.J." [meaning not known; not for prose]
+No.: 177
+1 When and where born: "Sixteenth [Oct struck through] September 1891 Harbour Place Whitstable U.S.D."
+  (The clerk first wrote "Oct", struck it through, and wrote "September". Nothing to make of it.)
+2 Name, if any: "Eliza Jane"
+3 Sex: "Girl"
+4 Name and surname of father: "William Madams"
+5 Name, surname and maiden surname of mother: "Elizabeth Madams late Goldstone formerly Stock"
+6 Occupation of father: "General Labourer"
+7 Signature, description and residence of informant: "E. Madams Mother Harbour Place Whitstable"
+8 When registered: "Twenty ninth October 1891"
+9 Signature of registrar: "Edwin Johnson Registrar"
+10 Name entered after registration: (blank; struck through)
+
+READINGS NOTED:
+- Elizabeth is the informant. The copy is in the copying clerk's hand, so whether she signed or made a mark cannot be
+  told (no "X the mark of" appears on the copy, but a certified copy need not reproduce one; nothing to be made of
+  it either way).
+- Weekdays (calendar computation): born Wednesday 16 September; registered Thursday 29 October 1891, forty-three
+  days later. The legal period for registration is general knowledge outside the repo: NOT for prose.
+- "Goldstone", with the e, here; "Goldston" on Albert's certificate (1887). Spellings carry no meaning (Rik). The
+  maiden surname "Stock" is given here and NOT on Albert's certificate (CHAPTER_18_skeleton.md, finding 5, DECIDE D).
+- The same registrar, Edwin Johnson, registered her death in 1906.

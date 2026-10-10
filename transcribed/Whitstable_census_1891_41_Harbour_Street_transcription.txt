@@ -1,0 +1,26 @@
+1891 CENSUS, WHITSTABLE, PAGE 6: SCHEDULE 39, 41 HARBOUR STREET (the Madams household)
+Image: sources/images/census-stuff/Whitstable Census 1891.png
+Reference: RG 12/711, folio 20 (folio from the website index; not visible on the image), page 6.
+Transcription created 10 October 2026 (Chapter Nineteen skeleton); none existed before.
+
+IMAGE CHECK (check-once rule): 10 October 2026. Schedule 39 checked line by line and column by column, enlarged
+(crop at about 2x). The neighbouring schedules (37-38, 40-45) read for context only, not checked word by word.
+
+Page heading: Administrative County of Kent; Civil Parish of Whitstable; Town of Whitstable; Rural Sanitary District
+of Blean; Parliamentary Division of St Augustine; Ecclesiastical Parish of Whitstable. Page 6.
+
+Schedule 39 | 41 do [Harbour St] | houses inhabited: 1 | rooms occupied if fewer than five: 2
+- William Madams | Head | M | 3[0] (the second figure is crossed by the enumerator's tally stroke; read 30) | General
+  Labourer (also crossed by a tally stroke) | col. 14, "Neither Employer nor Employed": x | born do do [Kent,
+  Whitstable]
+- Elizabeth do | Wife | M | 34 (female column) | (no occupation) | born Essex Weathersfield [sic; enlarged 4x: "Weathersfield", the county struck through by the tally stroke]
+- Albert Goldstone | Stepson | (no condition) | 3 | born London Lambeth
+- Lillian Madams | Daur | (no condition) | 11 mo (female column) | born Kent Whitstable
+
+READINGS NOTED:
+- "Stepson": certain.
+- "2" rooms: certain.
+- The x in column 14 ("Neither Employer nor Employed") against a general labourer: the enumerator's mark as it
+  stands (the MyHeritage index reads it the same way). Nothing to make of it.
+- "Lillian" (two l's) here; "Lilian" on her mother's death certificate (1906). Spellings carry no meaning (Rik).
+- The street heading for the run is "39 Harbour St" at schedule 37; schedule 39 is "41 do".

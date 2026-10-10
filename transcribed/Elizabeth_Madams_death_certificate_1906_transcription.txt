@@ -1,0 +1,27 @@
+DEATH ENTRY: ELIZABETH MADAMS, 29 JUNE 1906, BEACH ALLEY, WHITSTABLE
+Image: sources/images/death-certificates/Elizabeth Madams Death Cert.jpg (a crop of the entry with its column
+headings cut at the top and the head of the next entry, No. 100, visible below; not ours)
+Transcription created 10 October 2026 (Chapter Nineteen skeleton); none existed before. Earlier reading: dramatis
+(9 September 2026).
+
+IMAGE CHECK (check-once rule): 10 October 2026. The whole entry checked column by column; every word certain.
+
+No.: 99
+1 When and where died: "Twentyninth June 1906 Beach Alley Whitstable U.D."
+2 Name and surname: "Elizabeth Madams"
+3 Sex: "Female"
+4 Age: "47 years"
+5 Rank or profession: "Widow of William Madams. General labourer."
+6 Cause of death: "Syphilis 2 years Certified by Jno. W. Hayward M.R.C.S."
+7 Signature, description and residence of informant: "Lilian Madams Daughter present at death Beach Alley
+  Whitstable"
+8 When registered: "Second July 1906"
+9 Signature of registrar: "Edwin Johnson Registrar"
+
+READINGS NOTED:
+- Weekdays (calendar computation): died Friday 29 June; registered Monday 2 July 1906.
+- Age 47 (true 51): Contradiction 89. Not to be picked in prose (live_lists 2).
+- "Widow of William Madams": no marriage has been found (dramatis). The certificate's words, given as its words.
+- The same registrar, Edwin Johnson, took Eliza Jane's registration from Elizabeth in 1891.
+- Lilian was sixteen (born April 1890 by the 1891 census's "11 mo"; the exact date 7 April 1890 is from the family
+  tree, not a certificate).

@@ -1,0 +1,33 @@
+1901 CENSUS, WHITSTABLE URBAN, PAGE 25: SCHEDULE 155, MIDDLE WALL (the Madams household)
+Image: sources/images/census-stuff/Whitstable Census 1901.png
+Reference: RG 13/799, folio 59, page 25.
+Transcription created 10 October 2026 (Chapter Nineteen skeleton); none existed before.
+
+IMAGE CHECK (check-once rule): 10 October 2026. Schedule 155 checked line by line and column by column, enlarged
+(crop at about 2x). The house numbers of schedules 153-158 and the page total box read and checked. Other
+schedules read for context only.
+
+Page heading: Administrative County of Kent; Civil Parish of Whitstable Urban; Ecclesiastical Parish of Whitstable
+All Saints; Urban District of Whitstable; Parliamentary Division: Eastern Div[ision] of Kent; Town of Whitstable.
+Page 25 (folio stamp 59).
+
+House numbers on the page: 153 "48 Middle Wall"; 154 "50 Midd Wall"; 155 [number written over, illegible; between
+50 and 52] "do do"; 156 "52 do do"; 157 "54 do do"; 158 "56 do do". So schedule 155 stands between 50 and 52.
+Leave unnumbered in prose.
+
+Schedule 155 | houses inhabited: 1
+- William Madams | Head | M | 39 | Harbour Labourer | Worker | born do do [Kent, Whitstable]
+- Elizabeth do | Wife | M | 43 (female column) | (none) | born Essex Weatherfield [sic; the ending uncertain: "Weatherfield" or "Weatherfeild"; not "Weathersfield" as in 1891]
+- Albert do | Son | S | 15 | Harbour Labourer | Worker | born [a word struck through, illegible] London
+- Lillian Madams | daur | (none) | 10 (female column) | born Kent Whitstable (surname written out in full, not "do")
+- Eliza do | do [daur] | 9 (female column) | born do do
+
+PAGE TOTAL BOX: "Total of Schedules of Houses and of Tenements with less than Five Rooms": 6. Six schedules are on
+the page (153-158), so every household on it, the Madams household included, had fewer than five rooms. The exact
+number of rooms is not given in column 7.
+
+READINGS NOTED:
+- The surname is "Madams" (William; Lillian written in full); Elizabeth and Albert are "do". The notes' "Maddams"
+  (dramatis; Contradiction 88) is not the image's reading.
+- "Son": certain. Age 15 (he was 13).
+- The 1891 "Stepson" and this "Son": Contradiction 88.
