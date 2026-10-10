@@ -31,10 +31,19 @@ skeleton named for each chapter.
 | 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_14_skeleton.md |
 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
 | 17 | Until Further Signification | Approved 10 Oct 2026 (about 870 words; closes Part Three) | CHAPTER_17_skeleton.md |
-| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Next: Chapter Eighteen skeleton | PART_FOUR_plan.md |
+| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen skeleton PROPOSED 10 Oct 2026 (DECIDE A to H for Rik) | PART_FOUR_plan.md; CHAPTER_18_skeleton.md |
 | Parts Four (after its opening) to Six, Coda | | Not begun | MASTER_NOTES |
 
 ## 1. DECISIONS WAITING FOR RIK
+- (10 October 2026) NEW SOURCE, Elizabeth: drunk and disorderly, Whitstable, 1 April 1901, the day of Albert's arrest;
+  fined 2 April (Canterbury Journal, 6 April 1901). As "Elizabeth Goldstone". PART_FOUR_plan.md finding 12; thread
+  file section 11. For the Chapter Nineteen skeleton.
+- (10 October 2026) NEW SOURCE for Chapter Nineteen: Albert's sea-boots case, March-April 1901 (Folkestone Chronicle,
+  13 April 1901, p. 7). Recorded in PART_FOUR_plan.md (spine; finding 11), the dates table and dramatis. To rule in the
+  Chapter Nineteen skeleton; the outcome is wanted first (section 4, item 44).
+- (10 October 2026) Chapter Eighteen SKELETON PROPOSED: notes/CHAPTER_18_skeleton.md. DECIDE A to H for Rik (A: is
+  Lambeth a chapter at about 400 to 650 words). Register opening counted from the images: 17 entries, 11 illegitimate,
+  3 stillborn. Corrections C1 to C5 there, not applied.
 - (10 October 2026) Chapter Seventeen DRAFTED AND APPROVED: chapters/CHAPTER_17.md, "Until Further Signification",
   ending on Broadmoor; Part Three closed. Part Four plan RULED the same day (PART_FOUR_plan.md). Still open:
   Contradictions 115 and 116 to enter; Chapter Seventeen corrections I, K, L, M; Part Four corrections P2, P4-P6.
@@ -202,8 +211,17 @@ skeleton named for each chapter.
 9. BMJ on Cole/Thornton Heath murder: Vol 2, 1883, pp.829 and pp.880
 10. GRO certificate: William death 1935 (the five children's certificates are not needed: the death index, S qtr 1883 West Ham 4a 102, gives what the book uses, including the twins as "Male")
 11. Newspaper reach of the case in America and Australia: collect paper, date and form for each (Trove; Chronicling America); Aberdeen Journal 11 Aug 1883 already located ADDED 10 October 2026 (Rik's lead): [Anon.], The Suggestion of Insanity in Criminal Cases and the Trial of the Collateral Issue (Philadelphia: T. & J. W. Johnson, 1890; preface May 1890; NLM 66410220R, read as archive.org OCR text): the preface names "the respective murder trials of Gouldstone and Cole in England, in 1883", with Guiteau, as having "directed the widest public attention" to the change from common-law practice. No citation, no details. Evidence of the case's reach in American legal writing by 1890; a later document, for Part Six or the endnotes only.
-12. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01
-13. 1881 and 1891 census for 2 John Street, Hercules Buildings, Lambeth
+12. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (when admitted, from where, on whose order; discharge)
+13. 1881 and 1891 census for 2 John Street, Hercules Buildings, Lambeth. NOTE 10 October 2026: Rik appears to have looked these up already (his own turns in ChatGPT-archive/chatgpt-book-proposal-feedback.txt, about lines 11878-11915: 1881 Henry Smith household; 1891 Esther Hooper, and Charles and Mary Giggs). Images and references wanted only if the chapter uses them (CHAPTER_18_skeleton.md)
+46. (Added 10 October 2026, Chapter Nineteen.) The School Board's legal proceedings against Albert Madams's parents for irregular attendance (ordered 21 June 1898, Whitstable Times 25 June 1898): whether taken, against whom, and the result (Whitstable Times and petty sessions reports, July to September 1898). ADDED 10 October 2026: a LATER round is found: cases heard Saturday 29 July 1899, a fine of 5s. "in resp[ect] of ... Albert Madams" (Canterbury Journal, 19 August 1899). Wanted: the court's own report of 29 July 1899 (Whitstable Times, 5 August 1899), which may name the parent who answered
+48. (Added 10 October 2026, Chapter Nineteen.) The 1896 attendance summons against William Madams (Herne Bay Press, 2 May 1896): the hearing's date and court, the adjourned hearing a fortnight later (Whitstable Times, May 1896), and any fuller report of what the mother said
+47. (Added 10 October 2026, Chapter Nineteen.) Elizabeth's charge, drunk and disorderly, County Police Court, Tuesday 2 April 1901: the court register (Kent History and Library Centre) and any second report (Whitstable Times, Kentish Gazette, 6 April 1901), for the name she was charged under, whether she was present, and the bench
+44. ~~The adjourned hearing of Albert Goldstone's sea-boots case, 13 April 1901~~ FOUND 10 October 2026 (Rik): Herne Bay Press, 20 April 1901: bound over; J. Bray "having got the boy on the training-ship Warspite". First hearing FOUND 10 October 2026: Tuesday 2 April 1901, Canterbury (Whitstable Times, 6 April 1901). Still wanted, lower priority: the Whitstable Times of 13 and 20 April 1901 (its own reports of the 6 and 13 April hearings; any detail of his family in court)
+45. (Added 10 October 2026, Chapter Nineteen / Part Five; HIGH.) The training ship Warspite, 1901: what it was and where it lay (a source, not general knowledge); its register of boys entered, April to November 1901, if it survives (it may give his birthplace, parents and address seven months before the naval "Germany"), and his discharge from it to HMS Impregnable. Repository to confirm (the Warspite's managing body's records; National Maritime Museum a first enquiry)
+43. (Added 10 October 2026, Part Five.) Albert Goldstone and Chatham municipal elections: the clip is the Chatham, Rochester and Brompton Observer, 19 October 1934 (Rik; page not recorded): Labour candidate, Christ Church ward, against Mrs F. M. Freeman, elections 1 November 1934. RESULT FOUND 10 October 2026 (Observer, 2 November 1934, p. 7): lost, 505 to 832. 1933 FOUND 10 October 2026 (Observer, 3 November 1933): Luton ward, lost by 35. Still wanted: any attempt before 1933 (the Observer's results pages, November 1919-1932); any later contest (November 1935-1938 and 1945-1949) and whether he was ever elected, or co-opted (council minutes, Medway Archives); whether he was ever elected (Chatham council minutes or the Chatham, Rochester and Gillingham News / Chatham Observer results lists, Medway Archives)
+40. (Added 10 October 2026, Chapter Eighteen.) GRO online birth index, Q2 1887, Lambeth: "Goldston, Albert Jennet": is the mother's maiden-name field blank? (The certificate gives no maiden surname.)
+41. (Added 10 October 2026.) A naming order for John Street / Newnham Terrace (LCC, or Survey of London vol. 23, 1951); the reference of the Lambeth workhouse register of births (pp. 95-96 held as images); the 1891 census of the Brook Street infirmary's resident staff, for S. Frost
+42. (Added 10 October 2026.) West Ham Union relief records from October 1883 (Walthamstow lay in the union): the only plausible place for a record of Elizabeth between 1883 and 1887. Repository to confirm
 14. ~~Albert Goldstone marriage certificate (GRO, Q1 1910, Medway)~~ OBTAINED 2 October 2026 (5 March 1910, St Mark's, New Brompton); sources/images/marriage-certificates/
 15. Great Eastern Railway working timetables 1883
 16. Walthamstow Guardian: its July 1883 issues (Mrs Millard) and a clean scan of column 6 of 18 August (Grantham Robinson's letter of 10 August, partly illegible under a fold)
@@ -316,6 +334,8 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 - ChatGPT-archive transcript passages — never a source; every quotation must be checked against the repository
 - Bondeson, Victorian Murders (2017) — a retelling of the IPN, not an independent source
 - Conley, Certain Other Countries (2007), pp. 182-183, on Gouldstone: "he stopped speaking to her" (the 9 August wire dispatch's error), the twins only "severely wounded", and a quotation spliced from two separate remarks. Her notes are unreliable (two cited Times items do not exist, Rik checked 10 October 2026); her text is not a source (transcribed/Conley_2007_Certain_Other_Countries_Gouldstone_notes.txt)
+- "The court sent Albert to a training ship" / "sentenced": he was BOUND OVER to come up for judgment when called upon, and the police court missionary, J. Bray, got him on the training ship Warspite (Herne Bay Press, 20 April 1901). Also "the Warspite was HMS Impregnable" or "went straight from the court to the Navy": the route from the Warspite (April) to Impregnable (11 November 1901) is not documented (live_lists 4, item 45)
+- Any characterisation of Elizabeth's drinking ("a drinker", "drank", "alcoholic") beyond the one charge of 1 April 1901 (Canterbury Journal, 6 April 1901), and any link from it to her death or to Madams's illness. The paper's "state of intoxication" and "very drunk" stay quoted and attributed
 - "born Germany" for Albert — his own 1901 enlistment lie; he was born in Lambeth
 
 ## 6. NOT EVIDENCE — USABLE ONLY AS PRESS (under the press rule, project instructions)

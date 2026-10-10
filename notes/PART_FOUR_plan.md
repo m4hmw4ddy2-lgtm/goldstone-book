@@ -38,8 +38,34 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
 - 7 Apr 1890: Lilian Florence Isabel Madams born, Whitstable (birth record; certificate not in repo).
 - 5 Apr 1891: census, 41 Harbour Street, two rooms; Albert "Stepson".
 - 16 Sep 1891: Eliza Jane born, Harbour Place; **Elizabeth registers her herself, 29 October**.
+- Before 2 May 1896 (date not given; Herne Bay Press, 2 May 1896; ADDED 10 October 2026, Rik): "William Madams was
+  similarly summoned in respect to his son aged eight" for irregular attendance; "The mother of the child pleaded
+  poverty as the cause"; adjourned a fortnight. The first time Elizabeth is recorded speaking (reported, not quoted)
+  since 1883, and in court. See FINDING 13.
 - 17 May 1898 (Tuesday before the 21st): the School Board orders a final warning to Albert's parents.
+- 21 Jun 1898 (Tuesday; Whitstable Times, 25 June 1898; ADDED 10 October 2026, Rik): the Board orders "Legal
+  proceedings ... for irregular attendance against the parents of ... Albert Madams". Whether taken, and the result:
+  not held.
+- 21 Feb 1899 (Tuesday; Canterbury Journal, 25 Feb 1899, p. 8; ADDED 10 October 2026, Rik): at the Baptist Chapel Band
+  of Hope's winter treat, "Albert Madams" proposes the vote of thanks to Miss Walker for the sweets, nuts and oranges.
+  TOWN NOT ON THE CLIP: confirm it is Whitstable before use.
+- 29 Jul 1899 (Saturday): attendance cases heard; "a fine of 5s. was inflicted in each case in resp[ect] of ...
+  Albert Madams" (School Board, Tuesday 15 August 1899; Canterbury Journal, 19 Aug 1899; ADDED 10 October 2026, Rik).
+  On whom, and in which court: not given.
 - 31 Mar 1901: census, Middle Wall; Albert "son", a harbour labourer at thirteen (entered as 15).
+- 23-30 Mar 1901 (ADDED 10 October 2026, Rik; Folkestone Chronicle, 13 April 1901, p. 7; transcribed/Folkestone_Chronicle_13_Apr_1901_Whitstable_police_cases_transcription.txt):
+  "Albert Goldstone, aged 14", basket boy unloading the coal vessel Christabel, takes an able seaman's sea boots
+  (value 10s.) to John James Pout, bootmaker, 46 Harbour Street, on the 28th, saying they were his own; on the 30th
+  says "his father wanted 3s." for them, and Pout buys them. Census night is the 31st. Arrested Monday 1 April.
+  THE SAME DAY, Elizabeth ("Elizabeth Goldstone, of Middle Wall") at the police station; locked up; Tuesday 2 April,
+  County Police Court: drunk and disorderly, fined 5s. and 10s. 3d. costs (Canterbury Journal, 6 April 1901;
+  ADDED 10 October 2026, Rik; see FINDING 12). Albert
+  (P.C. Lampkin); Tuesday 2 April, County Magistrates' Office, Canterbury: charged; "admitted having stolen the boots
+  and sold them" (Corporal "Lambkin"); remanded (Whitstable Times, 6 April 1901; vessel "the brigantine Christabelle,
+  lying in Whitstable Harbour"; the reports differ on dates and names: see its transcription); Saturday 6 April, St Augustine's Petty Sessions: pleads guilty; Mr Bray, police court
+  missionary, offers "to get the boy on a training ship"; adjourned a week. Sat 13 April 1901, adjourned hearing: "bound over to come up for judgment when called upon,
+  Mr. J.Bray,the police-court missionary,having got the boy on the training-ship Warspite" (Herne Bay Press, 20
+  April 1901; transcribed/Herne_Bay_Press_20_Apr_1901_Youthful_Offender_transcription.txt). See FINDING 11.
 - 4 Sep 1901: Madams admitted to Chartham (MH 94/37).
 - 11 Nov 1901: Albert joins the Navy (Part Five; Contradiction 90).
 - 23 Nov 1901: Madams dies at Chartham.
@@ -104,6 +130,43 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
    - Madams's admission date, 4 September 1901 (MH 94/37: image not in the repo).
 10. **The "four missing years" are three years and eight months:** from the last 1883 record (12 October) to Albert's
    birth (19 June 1887). The book's phrase is the notes' shorthand; the prose should give dates, not a count.
+
+11. **(Added 10 October 2026.) The boots, March-April 1901.** The census of 31 March is taken between the theft
+   (28th) and the arrest (1 April). It gives him as Madams's "son", a harbour labourer; the court, a week later,
+   gives him as "Albert Goldstone", basket boy. The first words in the whole record attributed to Albert are here,
+   at second hand: the boots were "his own", "given to him"; "his father wanted 3s." The police court missionary's
+   training-ship offer stands seven months before HMS Impregnable. OUTCOME FOUND 10 October 2026 (Herne Bay Press,
+   20 April 1901): on 13 April he was bound over to come up for judgment when called upon, Bray "having got the boy on
+   the training-ship Warspite". So: the court did not sentence him; the missionary placed him; the ship was the
+   Warspite, not the Impregnable. The path from the Warspite (April) to HMS Impregnable (11 November) is NOT yet
+   documented, nor what the Warspite was (general knowledge; to source). If the Warspite's register survives it may
+   record his birthplace and parents in April 1901, seven months before the naval record's "Germany". Bears on Chapter
+   Nineteen (it is Whitstable, and Elizabeth's household) and on DECIDE 5 (the enlistment): new DECIDE for the Chapter
+   Nineteen skeleton. Nothing records Elizabeth in the case.
+
+12. **(Added 10 October 2026.) Elizabeth in the record, April 1901.** Canterbury Journal, 6 April 1901: "Elizabeth
+   Goldstone, of Middle Wall", charged at the County Police Court on Tuesday 2 April with being drunk and disorderly
+   at Whitstable on Monday 1 April, the day of Albert's arrest. The paper: "when she heard that he had been locked up
+   she went in a state of intoxication, to the police station and created a disturbance"; refused to go; "the police
+   locked her up also". Fined five shillings and ten shillings and threepence costs. CONSEQUENCES FOR THE PLAN:
+   (a) Finding 1 needs qualifying: the 1891 registration remains the only document in which she SPEAKS for herself
+   (her own informant's description); this is a second in which she ACTS, and the first since 1883 in which anyone
+   describes her (a newspaper, in the register of Part Three). [Qualified 10 October 2026 by finding 13: she is in
+   court, unnamed and speaking (reported), in 1896.] (b) Her name: "Goldstone", two days after the census
+   gave her as Madams's wife. Not a spelling variant: a DECIDE for the Chapter Nineteen skeleton, with "Late Goldstone
+   Formerly Stock" (1891). (c) The thread: in 1883 men described her; in 1901 a court reporter does, once, and in a
+   very different register. Attributed, never narrated as ours; her state is the paper's. (d) Mother and son were
+   before the bench the same Tuesday (probable: the papers name the court differently). (e) DO NOT USE: any
+   characterisation of her drinking beyond this one charge (live_lists 5).
+
+13. **(Added 10 October 2026.) The mother pleads poverty, 1896.** Herne Bay Press, 2 May 1896: William Madams
+   summoned "in respect to his son aged eight" (Albert's age; Madams's own children were girls); "The mother of the
+   child pleaded poverty as the cause"; adjourned a fortnight. (a) Elizabeth unnamed, "the mother of the child", but
+   present and speaking before a bench: reported speech only, no words of hers. (b) "His son", five years after the
+   census's "Stepson" (Contradiction 88 gains a third reading, 1896). (c) This corrects finding 12's "the first since
+   1883 in which anyone describes her": 1896 records her in court five years earlier, though it does not describe
+   her. (d) The Castles' shoes and "6/6 in three weeks" belong to the Castles: not to be carried over. (e) With 1898
+   and 1899, the attendance cases now run 1896, 1898, 1899: three rounds.
 
 ## WHERE THE NATURAL BREAKS ARE
 The Part has two places and one silence: the silence (1883-1887), Lambeth (one day in June 1887, from three

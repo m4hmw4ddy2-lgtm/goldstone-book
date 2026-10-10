@@ -443,3 +443,23 @@ line, check it against this list and add it here.
 - **The reprieve came to her through other people, in three steps** (Contradiction 105): the indefinite respite of
   Monday 1 October, the Home Office letter to the employers' solicitor of the 3rd, and the certificate of unsound mind,
   told to William on the 10th. Nothing records how or when she was told.
+
+## 11. Added 10 October 2026: Part Four, her first appearances in the record since 1883 (beyond certificates and censuses)
+- **Herne Bay Press, 2 May 1896** (transcribed/Herne_Bay_Press_2_May_1896_School_Board_Summonses_transcription.txt):
+  William Madams summoned "in respect to his son aged eight" for irregular attendance; "The mother of the child
+  pleaded poverty as the cause". Unnamed; in court; her plea reported, not quoted. The thread inverted again: she
+  speaks, before a bench, thirteen years after she was never called to give evidence about her own children (sections 2
+  and 3), and the paper does not give her name. (That echo is for the reader to find; no sentence of ours points at it.) Section 2: no addition.
+- **Canterbury Journal, 6 April 1901** (transcribed/Canterbury_Journal_6_Apr_1901_Elizabeth_Goldstone_drunk_and_disorderly_transcription.txt):
+  "Elizabeth Goldstone, of Middle Wall", charged at the County Police Court on Tuesday 2 April 1901 with being drunk
+  and disorderly at Whitstable on Monday 1 April, the day her son was arrested for stealing a pair of sea boots. "When
+  she heard that he had been locked up she went in a state of intoxication, to the police station and created a
+  disturbance. She was requested to go away, which she refused to do, and as she was very drunk the police locked her
+  up also." Fined 5s. and 10s. 3d. costs.
+- For the thread (section 6, "the same absence, without even the men describing her"): this is the one
+  description found so far (1896 records her, but does not describe her). After seventeen years in which no one describes her, a court paragraph does, and in a register far
+  from "the poor woman" of 1883. Set down plainly, the paper named, nothing added. No words of hers are recorded.
+- She goes to the police station for her son. That is the paper's sequence ("when she heard ... she went"), quoted,
+  not a motive of ours.
+- Section 2 (every word she is recorded as saying): no addition.
+
