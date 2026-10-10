@@ -1,0 +1,44 @@
+Source: Carolyn A. Conley, Certain Other Countries: Homicide, Gender, and National Identity in Late Nineteenth-Century
+England, Ireland, Scotland, and Wales (Columbus: Ohio State University Press, 2007), ch. 6 "Children", pp. 182-183,
+notes 82-86 (p. 233). PDF: sources/pdfs/project_muse_28029-full.pdf (Rik, 10 October 2026). Searched in full for
+Gouldstone, Goldstone, Walthamstow, Cole, Broadmoor, Harcourt, Denman: Gouldstone appears ONLY on pp. 182-183.
+STATUS: modern secondary. Not evidence. Her endnotes are NOT reliable either: two checked by Rik (n. 83, n. 86's
+6 November) point to items that do not exist. Research notes, not a transcription; short quotations only.
+
+WHAT SHE SAYS (pp. 182-183), and her notes
+- Among fathers who blamed childbirth: William Gouldstone "felt his wife had been having children too quickly. When
+  she gave birth to twins, he stopped speaking to her. A week later he killed their three young children and severely
+  wounded the twins" (n. 82: the Times, 9 August 1883, 9f).
+- Quotes him to the police as one speech: "I have done it like a man. . . . I thought it was getting too hot with five
+  kids within three and a half years and I thought it was time to put a stop to it." (n. 82)
+- The coworkers' fund and "We are quite sure he went out of his mind when his wife bore him twins" (n. 83: the
+  Times, 6 September 1883, 5f).
+- Grain's speech ("well-conducted ..."; "There was no evidence of want ..."; "unhinged") (n. 84: the Times, 15
+  September 1883, 12a-c).
+- The Times leader, which she reads as accepting that he was "driven by nature": "We admit that he has acted after
+  his kind ..." (n. 85: the Times, 15 September 1883, 9e-f).
+- Her argument: "It is striking that Gouldstone felt that his action was that of a man ... fatherhood included the
+  power of life and death." Her interpretation; not ours.
+
+CHECKED AGAINST OUR RECORD (10 October 2026)
+1. "he stopped speaking to her": the 9 August wire dispatch's claim (live_lists 6: "he had not spoken to his wife
+   since her confinement"), against the coroner deposition (he came to see her every night) and her statement (the
+   cup of tea every morning from the twins' birth). Conley takes it from the Times's first report. NOT TO BE USED.
+2. "severely wounded the twins": true of the first report only; both twins died (the first that evening, the second
+   before dawn). Her account never says so.
+3. The quotation is SPLICED: "I thought it was getting too hot ..." was said on the way to the station; "I did it like
+   a man (too)" at the station, to Folkard (IPN 25 Aug; Times 14 Aug). Her "I have done it like a man" and "five kids
+   within three and a half years" are not the wording of the sworn record ("I have had five kids in three years and a
+   half": Cheeseman, IPN 25 Aug).
+4. The Times leader misquoted: Conley "he has given to proof hereby"; the Times "he has given proof thereby"
+   (transcribed/The_Times_15_Sep_leader_transcription.txt, image-checked).
+5. CHECKED BY RIK, 10 October 2026: THE ITEM DOES NOT EXIST. Conley's note 83 is wrong. Was: n. 83 puts Graves's appeal ("We are quite sure he went out of his mind when his wife bore him twins") in
+   the Times of 6 September 1883, p. 5, col. f. We hold it only from the Walthamstow and Leyton Guardian of 8 September
+   (dated 5 September). A Times printing would be a second witness. Not held: to obtain if wanted.
+6. CHECKED BY RIK, 10 October 2026: the Times of 6 November 1883, p. 6e, DOES NOT carry it; the note is wrong, and
+   my inference that it gave Cole's reprieve is withdrawn. Cole's reprieve date remains unknown. Was: COLE (notes only; Cole is out of the book's main line, Rik 9 October): her next paragraph, a "London labourer" who
+   killed his three-year-old son "while in a drunken rage", "shammed madness", a crowd shouting "Hang him!", convicted,
+   "later found insane and transferred to Broadmoor after the death sentence was commuted" (n. 86: the Times, 21
+   August, 10c; 27 August, 10d; 19 October, 8a; 6 November, 6e, 1883). The 19 October citation is Cole's trial (held).
+   So the Times of 6 November 1883, p. 6, col. e, very probably reports Cole's reprieve and removal to Broadmoor: the
+   date not held anywhere in the notes. For the notes only.
