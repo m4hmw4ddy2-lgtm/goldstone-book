@@ -27,6 +27,20 @@
   route through descent from Elizabeth.
   Recorded: `correspondence/Forster_RBA_letters_2025.md`.
 
+### Friends who supplied documents behind academic logins
+- **Hester Parr.** University friend of Rik's; supplied documents that needed an academic login. 10 October 2026:
+  the Journal of Mental Science, January 1884 (vol. 29), Savage's "The Case of Gouldstone" (pp. 534-539) and "Notes
+  and News" (pp. 603-607), from Cambridge Core. Recorded: `sources/pdfs/JMS_Jan_1884_*`; live_lists 4, item 7.
+- **Sophie Clapp.** University friend of Rik's; supplied documents that needed an academic login. July 2025: a set
+  of BMJ PDFs, by their file names (Rik's screenshot, 10 October 2026): "VolumeInformation-1883", "Weatherly-
+  DiscussionLawRelation..." [title cut off], "Bucknill-LectureRelationMadnes..." [cut off], "PublicLifeAssurance-
+  1883", "Nicolson-WilliamOrangeCB-1917..." (the 1917 obituary of Orange), and at least three
+  "WalthamstowMurder-1883" files (the BMJ's 1883 pieces on the case). The PDFs themselves are NOT in the repo; the
+  four BMJ transcriptions were checked on 7 October 2026 against JSTOR page images (credited to JSTOR under
+  Institutions), and say they were first made from OCR in June 2026, so Sophie's copies very probably lie behind
+  them. *Rik: add the PDFs to sources/pdfs/ if they are to be cited.*
+  *Both private individuals: ask before printing, and how they want to be named.*
+
 ### Friends of Queen's Road Cemetery (Facebook group), September 2026
 All three are third-party recollection or leads, not documents. Credit them for the help, whatever the
 documents later show.
@@ -91,6 +105,7 @@ documents later show.
 - **Walthamstow Historical Society**: enquiry drafted, same file.
 - **Hackney Archives**: enquiry noted, same file.
 - **David and Malcolm Ainsley** (sons of great-aunt Rene): not yet contacted.
+- **National Maritime Museum, Caird Library** (Marine Society archive, MSY, on loan from the Marine Society & Sea Cadets): enquiry sent by Rik, 10 October 2026, for Albert's entry on the training ship Warspite, April 1901 (live_lists 4, item 45; text in correspondence/Caird_Library_Warspite_enquiry_2026-10-10.md). If they help, the credit line may need the Marine Society & Sea Cadets as the owner.
 
 ## For Rik to decide
 - Whether, and how, to acknowledge research and drafting assistance from AI tools (Claude; the earlier ChatGPT work in `ChatGPT-archive/`). Some publishers now ask authors to disclose this.
