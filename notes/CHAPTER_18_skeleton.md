@@ -1,5 +1,6 @@
 # CHAPTER EIGHTEEN: SKELETON ("ILLEGITIMATE": Lambeth, 12 October 1883 to 20 June 1887)
-# STATUS, 10 October 2026: PROPOSED. DECIDE A to H below for Rik. No prose.
+# STATUS, 10 October 2026: PLANNED. ALL DECIDE POINTS RULED (Rik): A, B, C, D, F, G, H as recommended; E option (b),
+# the address given once. See DECISIONS at the foot. Next: draft, one movement. No prose yet.
 # Part Four plan ruled 10 October 2026 (notes/PART_FOUR_plan.md, all recommendations accepted): two chapters; open on
 # the register page of 19 June 1887 with nothing before it; the Prologue not retold; nothing in prose without a
 # source in the repo (so no relieving officers, trained nurses, Newnham Terrace, hotel, or Frost's "trade"); the
@@ -113,8 +114,8 @@ Four (plan, thread section) begin here with the plainest: no "formerly".
    opening as a whole, by its counts (DECIDE B): seventeen children from the eighteenth of June to the eighth of July,
    eleven entered illegitimate, three stillborn; how the two kinds of line are written (DECIDE C). No comment.
 3. **The registration, Monday.** Entry 113, Lambeth Church 2nd. The informant, "S. Frost", "Present at the birth",
-   of the infirmary. George Hearson, Registrar. What the Prologue gave (the address, the blank father's column) is
-   not given again (DECIDE E). End on the registration (DECIDE F).
+   of the infirmary. George Hearson, Registrar. The address given once, as the certificate gives it (DECIDE E, ruled
+   option b); the blank father's column not retold. End on the registration (DECIDE F).
 
 ## DECIDE POINTS
 
@@ -185,3 +186,18 @@ C5. master-index.md, line 649: "S. Frost (NOT S Frost as in earlier notes ...)" 
 ## GENERAL KNOWLEDGE TO VERIFY BEFORE PROSE
 - Weekdays: done (calendar computation, 10 October 2026): 19 June 1887 Sunday; 20 June Monday.
 - Nothing else is planned.
+
+## DECISIONS, 10 OCTOBER 2026 (Rik: "as recommended, except E where I chose option (b)")
+- A (a): Chapter Eighteen stands, short, about 400 to 650 words.
+- B (a): Albert's line in full; the line above (Mary Pratt; a girl, Alice Mary; "Illegitimate"; the same day) named;
+  the rest of the opening by count only (17 entries, 18 June to 8 July; 11 illegitimate; 3 stillborn).
+- C (a): one plain sentence on the form of the lines, no comment.
+- D (a): the missing maiden surname not remarked in Chapter Eighteen.
+- E (b): THE ADDRESS GIVEN ONCE, as the certificate gives it ("2 John Street, Hercules buildings, Lambeth"), as the
+  only place her own life in Lambeth touches the record. The blank father's column is still not retold. Nothing about
+  the street beyond the certificate's words (Newnham Terrace, the hotel, "half a mile" stay out: plan DECIDE 4).
+- F (a): ends on the registration: the informant's "Present at the birth" and George Hearson, Registrar.
+- G (a): "Sunday" for 19 June 1887 may be used if a sentence needs it; the Golden Jubilee stays out.
+- H (a): one movement, shown whole.
+- Corrections C1 to C5: not yet ruled; not applied.
+

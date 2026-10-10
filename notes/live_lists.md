@@ -31,7 +31,7 @@ skeleton named for each chapter.
 | 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_14_skeleton.md |
 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
 | 17 | Until Further Signification | Approved 10 Oct 2026 (about 870 words; closes Part Three) | CHAPTER_17_skeleton.md |
-| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen skeleton PROPOSED 10 Oct 2026 (DECIDE A to H for Rik) | PART_FOUR_plan.md; CHAPTER_18_skeleton.md |
+| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen PLANNED 10 Oct 2026: DECIDE A-H ruled (E option b; rest as recommended). Next: draft Chapter Eighteen, one movement | PART_FOUR_plan.md; CHAPTER_18_skeleton.md |
 | Parts Four (after its opening) to Six, Coda | | Not begun | MASTER_NOTES |
 
 ## 1. DECISIONS WAITING FOR RIK
@@ -41,8 +41,9 @@ skeleton named for each chapter.
 - (10 October 2026) NEW SOURCE for Chapter Nineteen: Albert's sea-boots case, March-April 1901 (Folkestone Chronicle,
   13 April 1901, p. 7). Recorded in PART_FOUR_plan.md (spine; finding 11), the dates table and dramatis. To rule in the
   Chapter Nineteen skeleton; the outcome is wanted first (section 4, item 44).
-- (10 October 2026) Chapter Eighteen SKELETON PROPOSED: notes/CHAPTER_18_skeleton.md. DECIDE A to H for Rik (A: is
-  Lambeth a chapter at about 400 to 650 words). Register opening counted from the images: 17 entries, 11 illegitimate,
+- (10 October 2026) Chapter Eighteen PLANNED: DECIDE A to H RULED (Rik: all as recommended except E, option b: the
+  address given once). Next: draft, one movement. Still open: corrections C1 to C5 (CHAPTER_18_skeleton.md).
+- (10 October 2026, superseded the same day) Chapter Eighteen SKELETON PROPOSED: notes/CHAPTER_18_skeleton.md. Register opening counted from the images: 17 entries, 11 illegitimate,
   3 stillborn. Corrections C1 to C5 there, not applied.
 - (10 October 2026) Chapter Seventeen DRAFTED AND APPROVED: chapters/CHAPTER_17.md, "Until Further Signification",
   ending on Broadmoor; Part Three closed. Part Four plan RULED the same day (PART_FOUR_plan.md). Still open:
