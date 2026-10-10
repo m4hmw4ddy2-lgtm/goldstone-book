@@ -1,0 +1,23 @@
+CHATHAM MUNICIPAL ELECTION RESULTS, 1 NOVEMBER 1934. CHATHAM, ROCHESTER AND BROMPTON OBSERVER, FRIDAY 2 NOVEMBER 1934, PAGE 7
+Image: sources/images/Media-coverage/Chatham_Rochester_and_Brompton_02_November_1934_0007_Clip.jpg
+Paper, date and page: Rik, 10 October 2026.
+
+IMAGE CHECK (check-once rule): 10 October 2026. The whole clip read from the image, every figure. Arithmetic checked:
+832 + 505 = 1,337 (= "Polled"); 832 - 505 = 327 (the majority as printed); 754 - 676 = 78.
+
+Text, as printed (the asterisk marks the sitting member, by the paper's convention on this page; key not on the clip):
+Chatham
+LUTON WARD.
+ROSENBERG, GEO. A. (Co-op) ........ 754
+*Harris, Franklin Osborne (C.) ..... 676
+Majority ...... 78
+Number of voters 3,649. Polled, 1,440.
+CHRIST CHURCH WARD.
+*FREEMAN, FRANCES M. (C.) ........ 832
+Goldstone, Albert (Lab.) ........... 505
+327
+Number of voters, 3,545. Polled, 1,337.
+
+WHAT IT GIVES: Albert Goldstone, Labour, lost Christ Church ward to the sitting Conservative, Frances M. Freeman,
+by 505 votes to 832 (38 per cent of the votes cast; 1,337 of 3,545 electors voted). With the Observer of 19 October
+1934 ("hitherto been unsuccessful in his attempts"), he had now stood at least twice and lost every time held.
