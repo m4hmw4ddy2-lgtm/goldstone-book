@@ -544,7 +544,7 @@ Four articles constitute the BMJ's complete coverage of the case, September-Octo
 ## PART SIX: ELIZABETH — THE FOUR MISSING YEARS
 
 ### Albert's birth — confirmed from primary source
-**Albert Jennet Goldstone** born 19 June 1887, Workhouse Infirmary, Brook Street, Lambeth. Registered 20 June 1887 by **J Frost** (infirmary staff member — almost certainly a trained nurse; the Brook Street infirmary trained its own staff), present at the birth.
+**Albert Jennet Goldstone** born 19 June 1887, Workhouse Infirmary, Brook Street, Lambeth. Registered 20 June 1887 by **S. Frost** (infirmary staff member — almost certainly a trained nurse; the Brook Street infirmary trained its own staff), present at the birth.
 
 Elizabeth's address at the time of the birth: **2 John Street, Hercules Buildings, Lambeth.**
 

@@ -480,7 +480,8 @@ G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respi
 - Title confirmed by Rik: "As Happy as a Child at Play" (from Elizabeth; not a procedural title).
 - **APPROVED 9 October 2026** (Rik). Unattributed lines from press reports of sworn evidence in the whole chapter: none.
 
-## AFTER APPROVAL (10 October 2026, for Rik; NOT APPLIED)
+## AFTER APPROVAL (10 October 2026; CLOSED: Rik, 10 October, "leave it". The approved text stands; the cab is about
+## Marwood's successor, not William, and the chapter already carries the doubt.)
 - The Nottingham Evening Post, Monday 17 September 1883, p. 2 (Rik's upload): Harcourt sent the whole pile of
   applications for Marwood's post to the City authorities, "it was necessary to remove them from Whitehall in a cab";
   the choice nominally the Sheriff of Essex's, in practice the Sheriffs of London and Middlesex's; "if executed at

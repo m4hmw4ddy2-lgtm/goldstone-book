@@ -31,17 +31,15 @@ skeleton named for each chapter.
 | 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_14_skeleton.md |
 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
 | 17 | Until Further Signification | Approved 10 Oct 2026 (about 870 words; closes Part Three) | CHAPTER_17_skeleton.md |
-| Part Four | Elizabeth | NEXT: to plan | |
+| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Next: Chapter Eighteen skeleton | PART_FOUR_plan.md |
 | Parts Four (after its opening) to Six, Coda | | Not begun | MASTER_NOTES |
 
 ## 1. DECISIONS WAITING FOR RIK
 - (10 October 2026) Chapter Seventeen DRAFTED AND APPROVED: chapters/CHAPTER_17.md, "Until Further Signification",
-  ending on Broadmoor; Part Three closed. Next: plan Part Four (Elizabeth), starting from the absence after 15 October
-  (thread file, section 6). Still open: Chapter Sixteen and the Nottingham Evening Post (17 Sep), below; Contradictions
-  115 and 116 to enter; Chapter Seventeen corrections I, K, L, M.
-- (10 October 2026) For Rik, Chapter Sixteen (approved): the Nottingham Evening Post of MONDAY 17 SEPTEMBER (Rik's upload)
-  has the hangman's applications sent by Harcourt to the City "in a cab", and "if executed at all". Add to Ch 16's
-  hangman paragraph, or leave? Not applied. See transcribed/Nottingham_Evening_Post_17_Sep_1883_transcription.txt.
+  ending on Broadmoor; Part Three closed. Part Four plan RULED the same day (PART_FOUR_plan.md). Still open:
+  Contradictions 115 and 116 to enter; Chapter Seventeen corrections I, K, L, M; Part Four corrections P2, P4-P6.
+- (10 October 2026) CLOSED: the Nottingham Evening Post of 17 September (the cab of hangman's applications) is not added
+  to Chapter Sixteen (Rik, "leave it"). Press only; transcribed/Nottingham_Evening_Post_17_Sep_1883_transcription.txt.
 - (10 October 2026) Chapter Seventeen PLANNED: all DECIDE points ruled as recommended (Cole out, 9 Oct). Next: draft,
   movement one. Item 38 stays OPEN (Rik, 10 Oct: "we may still discover it").
 - (9 October 2026) Chapter Seventeen SKELETON PROPOSED: notes/CHAPTER_17_skeleton.md. DECIDE 1 to 11 for Rik
@@ -128,7 +126,7 @@ skeleton named for each chapter.
 ### Elizabeth and after 1883
 - Her age at death: certificate 47, birth certificate 51. Do not pick one in prose.
 - The origin of Albert's middle name, Jennet.
-- J Frost: full name and role at the Brook Street infirmary (1891 census of staff).
+- S. Frost: full name and role at the Brook Street infirmary (1891 census of staff).
 - Who else lived at 2 John Street, Hercules Buildings, in 1881, 1887 and 1891.
 - Albert's 1930 SS Orbita record: from a ChatGPT-archive summary only; verify against a shipping list.
 

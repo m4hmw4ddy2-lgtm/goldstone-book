@@ -248,7 +248,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 - Legally Mrs Gouldstone until William's death in 1935
 - Disappears from the record August 1883 to June 1887
 - **Albert Jennet Goldstone born 19 June 1887, Workhouse Infirmary, Brook Street, Lambeth**
-- Registered 20 June 1887 by J Frost (infirmary staff member, almost certainly a trained nurse), present at the birth
+- Registered 20 June 1887 by S. Frost (infirmary staff member, almost certainly a trained nurse), present at the birth
 - Elizabeth's address at time of birth: **2 John Street, Hercules Buildings, Lambeth** — renamed Newnham Terrace in 1893 when John Street, Short Street, and Hercules Terrace were merged; site now the Park Plaza Hotel Waterloo
 - Elizabeth was **not a workhouse inmate** — she had her own address and came to the infirmary as a pauper patient through the relieving officer system to deliver
 - The infirmary on Brook Street (now Brook Drive) was approximately half a mile from Elizabeth's address at John Street
@@ -430,7 +430,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
 | 3 Apr 1881 | Census: 88 Frampton Park Road, Hackney. William G. Stone, 24, blacksmith; Elizabeth, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19 | RG 11/301, folio 94, pp. 47-48 (image read 2 Oct 2026) |
 | 1883-1887 | Elizabeth disappears from the documentary record | — |
-| 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by J Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
+| 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by S. Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
 | c.1888 | Elizabeth and William Madams begin living together, Whitstable | Census; project notes |
 | 7 Apr 1890 | Lilian Florence Isabel Madams born, Whitstable | Birth record |
 | 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
@@ -1027,7 +1027,7 @@ Ada's Old Bailey evidence (14 September 1883) carries a third beat in the bedsid
 8. What was Grantham Robinson's statement to the Home Secretary? Does it survive in HO 144?
 9. Electoral registers at Essex Record Office for room descriptions at the address
 10. Origin of Albert's middle name Jennet — no family precedent found anywhere in the record
-11. J Frost — full name and role at Brook Street infirmary not yet established
+11. S. Frost — full name and role at Brook Street infirmary not yet established
 12. What word was crossed out in the coroner deposition before "near to the cistern"? Cosmetic, low priority — doesn't affect the established sequence.
 13. Great Eastern Railway timetables 1883 — 6.04am and evening services from St James's Street
 14. What became of Eliza, Sarah, and Alfred Ansell (Jemima's children by her first marriage) after the 1841 census? Unaccounted for by 1851 — not confirmed dead or traced elsewhere.

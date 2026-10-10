@@ -646,9 +646,9 @@ CORRECTION FROM PREVIOUS VERSION: Witnesses were Thomas and Emily Goldstone, not
 **Lambeth Workhouse Birth Certificate — Albert**
 `sources/images/birth-certificates/Lambeth Workhouse Birth 1.png`
 Status: READ
-Key content: Albert Jennet Goldstone, born 19 June 1887, Workhouse Infirmary Brook Street, Lambeth. Mother: Elizabeth Goldston, 2 John Street Hercules Buildings Lambeth. Father: blank. Informant: **J Frost** (NOT S Frost as in earlier notes — the certificate reads J Frost), present at birth, workhouse infirmary Brook Street Lambeth. Registered 20 June.
+Key content: Albert Jennet Goldstone, born 19 June 1887, Workhouse Infirmary Brook Street, Lambeth. Mother: Elizabeth Goldston, 2 John Street Hercules Buildings Lambeth. Father: blank. Informant: **S. Frost** (NOT S Frost as in earlier notes — the certificate reads S. Frost), present at birth, workhouse infirmary Brook Street Lambeth. Registered 20 June.
 Book section: Part Four
-CORRECTIONS FROM PREVIOUS VERSION: Informant is J Frost, not S Frost. Elizabeth's address (2 John Street) is her residence, not the infirmary address. The infirmary address is "Workhouse Infirmary Brook Street." She was not a workhouse inmate.
+CORRECTIONS FROM PREVIOUS VERSION: [REVERSED 10 October 2026, Rik: the informant is S. Frost; the earlier "correction" to S. Frost was wrong.] Elizabeth's address (2 John Street) is her residence, not the infirmary address. The infirmary address is "Workhouse Infirmary Brook Street." She was not a workhouse inmate.
 
 **Albert's birth, GRO certified copy (added 2 October 2026)**
 `sources/images/birth-certificates/Birth Cert Albert Goldstone 1887.jpeg`
