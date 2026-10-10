@@ -1,0 +1,31 @@
+BIRTH ENTRY: LILIAN FLORENCE ISABEL MADAMS, 7 APRIL 1890, BEACH ALLEY, WHITSTABLE
+Image: sources/images/birth-certificates/Lilliam Madams Birth Cert.jpg (uploaded by Rik, 10 October 2026; GRO copy,
+cropped to the entry: the district heading and column headings are not on the crop; the foot of the entry above,
+"...R.S.D." [?], is visible at the top)
+Transcription created 10 October 2026.
+
+IMAGE CHECK (check-once rule): 10 October 2026. The whole entry checked column by column, both halves at full
+resolution. Every word certain.
+
+No.: 398
+1 When and where born: "Seventh April 1890 Beach Alley Whitstable U.S.D."
+2 Name, if any: "Lilian Florence Isabel"
+3 Sex: "Girl"
+4 Name and surname of father: "William Madams"
+5 Name, surname and maiden surname of mother: "Elizabeth Madams late Goldstone formerly Stock"
+6 Occupation of father: "General Labourer"
+7 Signature, description and residence of informant: "E. Madams Mother Beach Alley Whitstable"
+8 When registered: "Nineteenth May 1890"
+9 Signature of registrar: "Edwin Johnson Registrar"
+10 Name entered after registration: (blank)
+
+READINGS NOTED:
+- Weekdays (calendar computation): born Monday 7 April 1890; registered Monday 19 May 1890.
+- BEACH ALLEY: Lilian was born there, and Elizabeth gave it as her own residence, in April-May 1890. She died there
+  on 29 June 1906 (death certificate). The first and last addresses of hers in Whitstable are the same alley.
+- ELIZABETH IS THE INFORMANT, and gives the same description of herself as on Eliza Jane's certificate seventeen
+  months later: "Elizabeth Madams late Goldstone formerly Stock". The October 1891 registration is therefore the
+  SECOND such document, not the only one (PART_FOUR_plan.md finding 1 and the Chapter Nineteen skeleton to be
+  corrected).
+- This is now the first document of Elizabeth in Whitstable (before: the census of 5 April 1891).
+- Same registrar (Edwin Johnson) as in 1891 and 1906.
