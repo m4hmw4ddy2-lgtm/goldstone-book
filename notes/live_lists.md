@@ -31,7 +31,7 @@ skeleton named for each chapter.
 | 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_14_skeleton.md |
 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
 | 17 | Until Further Signification | Approved 10 Oct 2026 (about 870 words; closes Part Three) | CHAPTER_17_skeleton.md |
-| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen PLANNED 10 Oct 2026: DECIDE A-H ruled (E option b; rest as recommended). Next: draft Chapter Eighteen, one movement | PART_FOUR_plan.md; CHAPTER_18_skeleton.md |
+| Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen PLANNED 10 Oct 2026: DECIDE A-H ruled (E option b; rest as recommended). APPROVED 10 Oct 2026 (one movement, about 300 words; Rik: "it's a chapter"). Next: Chapter Nineteen skeleton (Whitstable; PART_FOUR_plan.md findings 11-13 and today's sources) | PART_FOUR_plan.md; CHAPTER_18_skeleton.md |
 | Parts Four (after its opening) to Six, Coda | | Not begun | MASTER_NOTES |
 
 ## 1. DECISIONS WAITING FOR RIK
@@ -41,6 +41,9 @@ skeleton named for each chapter.
 - (10 October 2026) NEW SOURCE for Chapter Nineteen: Albert's sea-boots case, March-April 1901 (Folkestone Chronicle,
   13 April 1901, p. 7). Recorded in PART_FOUR_plan.md (spine; finding 11), the dates table and dramatis. To rule in the
   Chapter Nineteen skeleton; the outcome is wanted first (section 4, item 44).
+- (10 October 2026) Chapter Eighteen DRAFTED AND APPROVED: chapters/CHAPTER_18.md, "Illegitimate". Revised at draft (Rik):
+  an opening sentence on the gap (Part Four DECIDE 2 to c); ends on the informant (DECIDE F revised). Next: plan
+  Chapter Nineteen. Still open: Chapter Eighteen corrections C1 to C5.
 - (10 October 2026) Chapter Eighteen PLANNED: DECIDE A to H RULED (Rik: all as recommended except E, option b: the
   address given once). Next: draft, one movement. Still open: corrections C1 to C5 (CHAPTER_18_skeleton.md).
 - (10 October 2026, superseded the same day) Chapter Eighteen SKELETON PROPOSED: notes/CHAPTER_18_skeleton.md. Register opening counted from the images: 17 entries, 11 illegitimate,
@@ -160,6 +163,7 @@ skeleton named for each chapter.
 - The second set of OS parish-boundary letters (R/D) near Moor End, Great Sampford.
 - "Benjamin Gouldstone, shoe maker" (1874 directory): relationship unknown.
 - The Cock Inn licensee William Piggott (1874) and the Piggott carpenters of 1891.
+- ~~(Added 10 October 2026, Rik's find.) Is the "Eliza Stock", 15, domestic servant, tried at the Chelmsford Adjourned Sessions on 16 February 1869 (TNA HO 140/5; victim Alfred Snow) our Elizabeth? Index transcript only. Charge, verdict, sentence and residence unknown. Age does not fit exactly (Elizabeth was 13 years 363 days). See dramatis, Elizabeth.~~ CLOSED 10 October 2026 (Rik): "Lots of Eliza Stock competition, ignore." Not pursued; not ours unless new evidence ties it to her.
 
 ## 3. ACTIONS PENDING
 - (Added 4 October 2026, Rik, after an outside critique of Prologue to Chapter Fourteen.) REVISION SCHEDULE:
@@ -215,6 +219,7 @@ skeleton named for each chapter.
 12. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (when admitted, from where, on whose order; discharge)
 13. 1881 and 1891 census for 2 John Street, Hercules Buildings, Lambeth. NOTE 10 October 2026: Rik appears to have looked these up already (his own turns in ChatGPT-archive/chatgpt-book-proposal-feedback.txt, about lines 11878-11915: 1881 Henry Smith household; 1891 Esther Hooper, and Charles and Mary Giggs). Images and references wanted only if the chapter uses them (CHAPTER_18_skeleton.md)
 46. (Added 10 October 2026, Chapter Nineteen.) The School Board's legal proceedings against Albert Madams's parents for irregular attendance (ordered 21 June 1898, Whitstable Times 25 June 1898): whether taken, against whom, and the result (Whitstable Times and petty sessions reports, July to September 1898). ADDED 10 October 2026: a LATER round is found: cases heard Saturday 29 July 1899, a fine of 5s. "in resp[ect] of ... Albert Madams" (Canterbury Journal, 19 August 1899). Wanted: the court's own report of 29 July 1899 (Whitstable Times, 5 August 1899), which may name the parent who answered
+49. ~~(Added 10 October 2026, Part One; identity first.) Eliza Stock, Chelmsford Adjourned Sessions, 16 February 1869: the calendar page itself (TNA HO 140/5: it should give the charge, the verdict and sentence, and perhaps the degree of instruction); the Chelmsford Chronicle and Essex Standard reports of the sessions (about 19-20 February 1869), for her parish, employer and Alfred Snow's place; any prison register entry (Springfield Gaol). ROUTES (10 October 2026): (1) the HO 140/5 page image on Findmypast, if the record has one (the printed calendar usually gives trade, degree of instruction, committing magistrate, offence, verdict, sentence); (2) newspapers, searching "Alfred Snow" (easier than "Stock") in February 1869; (3) Essex Record Office, Quarter Sessions records for the Adjourned Sessions of February 1869 (indictment, any depositions; series to confirm in the ERO catalogue); (4) Alfred Snow in the 1861 and 1871 censuses: if he lived in or near Wethersfield or Finchingfield, the identification is close to settled~~ CLOSED 10 October 2026 (Rik: too many Eliza Stocks; ignore).
 48. (Added 10 October 2026, Chapter Nineteen.) The 1896 attendance summons against William Madams (Herne Bay Press, 2 May 1896): the hearing's date and court, the adjourned hearing a fortnight later (Whitstable Times, May 1896), and any fuller report of what the mother said
 47. (Added 10 October 2026, Chapter Nineteen.) Elizabeth's charge, drunk and disorderly, County Police Court, Tuesday 2 April 1901: the court register (Kent History and Library Centre) and any second report (Whitstable Times, Kentish Gazette, 6 April 1901), for the name she was charged under, whether she was present, and the bench
 44. ~~The adjourned hearing of Albert Goldstone's sea-boots case, 13 April 1901~~ FOUND 10 October 2026 (Rik): Herne Bay Press, 20 April 1901: bound over; J. Bray "having got the boy on the training-ship Warspite". First hearing FOUND 10 October 2026: Tuesday 2 April 1901, Canterbury (Whitstable Times, 6 April 1901). Still wanted, lower priority: the Whitstable Times of 13 and 20 April 1901 (its own reports of the 6 and 13 April hearings; any detail of his family in court)
@@ -337,6 +342,7 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 - Conley, Certain Other Countries (2007), pp. 182-183, on Gouldstone: "he stopped speaking to her" (the 9 August wire dispatch's error), the twins only "severely wounded", and a quotation spliced from two separate remarks. Her notes are unreliable (two cited Times items do not exist, Rik checked 10 October 2026); her text is not a source (transcribed/Conley_2007_Certain_Other_Countries_Gouldstone_notes.txt)
 - "The court sent Albert to a training ship" / "sentenced": he was BOUND OVER to come up for judgment when called upon, and the police court missionary, J. Bray, got him on the training ship Warspite (Herne Bay Press, 20 April 1901). Also "the Warspite was HMS Impregnable" or "went straight from the court to the Navy": the route from the Warspite (April) to Impregnable (11 November 1901) is not documented (live_lists 4, item 45)
 - Any characterisation of Elizabeth's drinking ("a drinker", "drank", "alcoholic") beyond the one charge of 1 April 1901 (Canterbury Journal, 6 April 1901), and any link from it to her death or to Madams's illness. The paper's "state of intoxication" and "very drunk" stay quoted and attributed
+- The Chelmsford Adjourned Sessions case of "Eliza Stock", 16 February 1869 (HO 140/5; theft from Alfred Snow at Great Dunmow), as Elizabeth's, in any form. Not even "may have been". Lead CLOSED 10 October 2026 (Rik): many namesakes; ages 15 and 17 against her 13
 - "born Germany" for Albert — his own 1901 enlistment lie; he was born in Lambeth
 
 ## 6. NOT EVIDENCE — USABLE ONLY AS PRESS (under the press rule, project instructions)

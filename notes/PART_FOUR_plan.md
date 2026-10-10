@@ -215,7 +215,7 @@ the clerk's choice and carry no meaning, so the Prologue stands and the prose ma
 document, and the silence before each). (b) One chapter, 1883 to 1906, about 2,500 words. (c) Three: the silence and
 Lambeth; Whitstable to 1898; 1901 and the deaths.
 
-**DECIDE 2. How Part Four opens.** (a) **On the birth register's page, 19 June 1887, with nothing before it**: the
+**DECIDE 2. How Part Four opens.** [REVISED 10 October 2026, Rik, at draft: one sentence giving the gap before the register (option c); see CHAPTER_18_skeleton.md, DRAFTING.] (a) **On the birth register's page, 19 June 1887, with nothing before it**: the
 gap shown by the dates alone (recommended: the thread's instruction to show, not assert). (b) On the last 1883 record
 (Graves's "stands alone in utter destitution") and then the cut to 1887. Against: Chapter Seventeen has just used it.
 (c) One sentence giving the gap (the single rationed reminder). Against: Chapter Seventeen has just spent one.

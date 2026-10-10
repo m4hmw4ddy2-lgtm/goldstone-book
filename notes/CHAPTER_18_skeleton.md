@@ -1,5 +1,6 @@
 # CHAPTER EIGHTEEN: SKELETON ("ILLEGITIMATE": Lambeth, 12 October 1883 to 20 June 1887)
-# STATUS, 10 October 2026: PLANNED. ALL DECIDE POINTS RULED (Rik): A, B, C, D, F, G, H as recommended; E option (b),
+# STATUS, 10 October 2026: DRAFTED AND APPROVED (Rik: "approved. it's a chapter"), chapters/CHAPTER_18.md, about
+# 300 words, one movement; DECIDE A confirmed (a chapter, not an overture). Earlier the same day: PLANNED. ALL DECIDE POINTS RULED (Rik): A, B, C, D, F, G, H as recommended; E option (b),
 # the address given once. See DECISIONS at the foot. Next: draft, one movement. No prose yet.
 # Part Four plan ruled 10 October 2026 (notes/PART_FOUR_plan.md, all recommendations accepted): two chapters; open on
 # the register page of 19 June 1887 with nothing before it; the Prologue not retold; nothing in prose without a
@@ -200,4 +201,18 @@ C5. master-index.md, line 649: "S. Frost (NOT S Frost as in earlier notes ...)" 
 - G (a): "Sunday" for 19 June 1887 may be used if a sentence needs it; the Golden Jubilee stays out.
 - H (a): one movement, shown whole.
 - Corrections C1 to C5: not yet ruled; not applied.
+
+## DRAFTING (held locally in chapters/CHAPTER_18.md until the chapter is approved)
+- 10 October 2026: drafted, one movement, about 310 words (under the 400-650 estimate: the selection under B to F
+  left no more). Every quoted line is from the two documents, both image-checked today (header above). No press
+  lines; no unattributed lines. General knowledge used: the weekday (Sunday), recorded above. The address given
+  once (E b). Frost given no pronoun. No interior state for Elizabeth. Shown to Rik; awaiting approval.- 10 October 2026, Rik's revision: an opening sentence added before the register, "After the October of 1883, the
+  record holds nothing of Elizabeth until a Sunday in June 1887." This REVERSES Part Four plan DECIDE 2 (a) ("nothing
+  before" the register) in favour of (c), one sentence giving the gap, and spends the chapter's single rationed
+  reminder of the missing record (justified: here the missing record is the point). Worded in the record's terms
+  (not "disappeared"), dates not a count. A closing line ("Then the record loses her again") was offered and NOT
+  taken (Rik: option a): DECIDE F stands, the chapter ends on George Hearson. Verified against the repo sweep: no
+  document names her between October 1883 and 19 June 1887.- 10 October 2026, Rik's edits: "The book" -> "The register"; the catalogue of column headings cut to the span of
+  the columns and the legitimacy column only. Mary Pratt kept (Rik). The Frost/Hearson ending kept.- 10 October 2026, Rik: the closing line on George Hearson cut. DECIDE F revised: the chapter now ends on the
+  informant's column ("S. Frost", "Present at the birth", the infirmary as Frost's residence).
 
