@@ -426,6 +426,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 12 Oct | Graves acknowledges £35 14s. 4d. subscribed for the defence, "insufficient to meet the bare expenses of the trial", so no provision for "the poor woman". His letter of 11 Oct rounds it to £36 against £50 paid | Times 12 Oct; Guardian 20 Oct |
 | 13 Oct | (Superseded 3 Oct 2026: the certification was received on Wednesday 10 October; the Preston Chronicle of the 13th reports it) | Preston Chronicle 13 Oct |
 | 15 Oct (Mon) | Leaves Chelmsford by the 7.45am train to Liverpool Street, with warders Lanham and Parker; admitted to Broadmoor the same day | Graves, Guardian 20 Oct; Daily News 16 Oct; 1935 inquest papers ("admitted here on 15 October 1883 from Chelmsford Prison") |
+| 24 Oct (Wed) | Savage to read a paper, "The Gouldstone Murder, in its relation to the Plea of Insanity in Criminal Cases", to the South London District Branch of the BMA, Governors' Court Room, St Thomas's Hospital, 8.30pm (announced; whether given, and its report, not yet held: the BMJ index has the branch meeting, papers and a "resolution regarding criminals suspected of insanity" at vol. 2, 1883, p. 942) | BMJ 20 Oct 1883, p. 784 (sources/pdfs/PublicLifeAssurance-1883.pdf; image read 10 Oct 2026) |
 | 18 Oct (Thu) | Cole tried before Denman (Geoghegan assigned "at the request of" the judge); jury out about an hour and a half; guilty; death; later reprieved (date not held) | Times 19 Oct (date, judge; image-checked 9 Oct 2026); Old Bailey t18831015-964 (evidence; gives neither date nor judge) |
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
 | 3 Apr 1881 | Census: 88 Frampton Park Road, Hackney. William G. Stone, 24, blacksmith; Elizabeth, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19 | RG 11/301, folio 94, pp. 47-48 (image read 2 Oct 2026) |
@@ -495,7 +496,7 @@ reopened without a new document.
 | 11 | OPEN (closed by Rik) | Thomas Stock's first wife; not pursued. |
 | 15 | SETTLED (held loosely) | Emily born 1830 (baptism 26 Dec 1830). |
 | 19 | OPEN | "Cock Inn", 1851. |
-| 20 | **SETTLED 3 Oct** | The second examining doctor was Dr Clarke: Sunday Dispatch 30 Sep and the Times 2 Oct ("Dr. Clarke and Dr. Orange"), both contemporary; the 1917 obituary's Gover is a conflation with Cole. |
+| 20 | **SETTLED 3 Oct** | The second examining doctor was Dr Clarke: Sunday Dispatch 30 Sep and the Times 2 Oct ("Dr. Clarke and Dr. Orange"), both contemporary; the 1917 obituary's Gover is a conflation with Cole. ADDED 10 Oct 2026: the obituary is now in the repo (sources/pdfs/Nicolson-WilliamOrangeCB-1917.pdf; BMJ 13 Jan 1917, pp. 67-69, by "Dav. Nicolson", Orange's deputy from 1876 and successor); image read: "Here Drs. Orange and Gover found distinct evidence of insanity." The same page names "Dr. Gover, the Medical Inspector of Prisons" among the candidates for Broadmoor in 1870. Written thirty-three years after the event. Settlement unchanged. |
 | 21 / 58 | SETTLED | Ada had known William since 1 June 1883 (sworn); the Daily News "three weeks" is one press figure. |
 | 22 | OPEN | Thursday (Emma, inquest) and Friday (Ada): two sightings, now complicated by 96. |
 | 24 | DECIDED | Three sworn versions of Charles's words; the prose uses "My daddy put it there." |

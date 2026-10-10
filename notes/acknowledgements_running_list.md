@@ -31,14 +31,14 @@
 - **Hester Parr.** University friend of Rik's; supplied documents that needed an academic login. 10 October 2026:
   the Journal of Mental Science, January 1884 (vol. 29), Savage's "The Case of Gouldstone" (pp. 534-539) and "Notes
   and News" (pp. 603-607), from Cambridge Core. Recorded: `sources/pdfs/JMS_Jan_1884_*`; live_lists 4, item 7.
-- **Sophie Clapp.** University friend of Rik's; supplied documents that needed an academic login. July 2025: a set
-  of BMJ PDFs, by their file names (Rik's screenshot, 10 October 2026): "VolumeInformation-1883", "Weatherly-
-  DiscussionLawRelation..." [title cut off], "Bucknill-LectureRelationMadnes..." [cut off], "PublicLifeAssurance-
-  1883", "Nicolson-WilliamOrangeCB-1917..." (the 1917 obituary of Orange), and at least three
-  "WalthamstowMurder-1883" files (the BMJ's 1883 pieces on the case). The PDFs themselves are NOT in the repo; the
-  four BMJ transcriptions were checked on 7 October 2026 against JSTOR page images (credited to JSTOR under
-  Institutions), and say they were first made from OCR in June 2026, so Sophie's copies very probably lie behind
-  them. *Rik: add the PDFs to sources/pdfs/ if they are to be cited.*
+- **Sophie Clapp.** University friend of Rik's; supplied documents that needed an academic login. July 2025 (JSTOR
+  download stamps, 12 July 2025): from the British Medical Journal, via JSTOR, "The Walthamstow Murder" (22 and 29
+  September and 6 October 1883, pp. 583-585, 639-640, 682-683); "The Public and Life-Assurance" page (20 October 1883,
+  p. 784, which carries the notice of Savage's paper on the case); Bucknill's "A Lecture on the Relation of Madness to
+  Crime" (15 March 1884); Nicolson's obituary of William Orange (13 January 1917); "A Discussion on the Law in
+  Relation to the Criminal Responsibility of the Insane" (Weatherly and others, 18 August 1894); and the index to
+  vol. 2 for 1883. Recorded: sources/pdfs/ (added by Rik, 10 October 2026). *JSTOR's terms ask that JSTOR be
+  credited (see Institutions).*
   *Both private individuals: ask before printing, and how they want to be named.*
 
 ### Friends of Queen's Road Cemetery (Facebook group), September 2026

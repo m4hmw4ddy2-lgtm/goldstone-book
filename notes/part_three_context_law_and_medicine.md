@@ -321,3 +321,14 @@ three tribunals were in Chapter Ten. Paragraph added after "There were four case
   before the chapter is treated as final.
 - In this case: Kerr's charge, true bill returned Tuesday 11 September (Guardian 15 Sep; Times 12 Sep), arraignment
   Wednesday 12 September "to plead to several indictments" (Guardian 15 Sep).
+
+## Added 10 October 2026: the case remembered in 1894 (Sophie Clapp's BMJ set, sources/pdfs/)
+- **BMJ, 18 August 1894, pp. 349-353, "A Discussion on the Law in Relation to the Criminal Responsibility of the
+  Insane"** (BMA annual meeting, Bristol, Section of Psychology; opened by Lionel A. Weatherly; speakers include
+  Mercier, Bateman, Hart, Savage and Batty Tuke): in the opening paper (speaker to confirm against the page),
+  Gouldstone is set against Mr Justice Field's practice: "Mr. Justice Day, in the case of Gouldstone, allowed the
+  fellow-workmen of the prisoner to state their belief in his insanity; allowed evidence of the insanity not only of
+  the prisoner himself, but of his mother and sister, of his aunt, and of a second cousin once removed." Eleven years
+  on, the case stands in the profession's memory as an instance of a judge's latitude with insanity evidence. "His
+  mother and sister" is the 1894 writer's (the trial evidence was of his mother and his aunt; his sister was a
+  witness). Read from the OCR text only; check against the page before any use. Later document: Part Six or endnote.
