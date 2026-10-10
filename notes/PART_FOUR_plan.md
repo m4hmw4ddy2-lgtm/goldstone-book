@@ -73,7 +73,7 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
 - (19 Jan 1935: William dies at Broadmoor; she never knew.)
 
 ## FINDINGS FROM TODAY'S READING
-1. **Elizabeth acts in the record, once, in her own name.** On Eliza Jane's certificate the informant is "E. Madams,
+1. **[CORRECTED 10 October 2026: TWICE, not once. Lilian's certificate (registered 19 May 1890, informant "E. Madams, Mother", Beach Alley) carries the same self-description seventeen months earlier. See CHAPTER_19_skeleton.md, LILIAN'S CERTIFICATE.]** **Elizabeth acts in the record, once, in her own name.** On Eliza Jane's certificate the informant is "E. Madams,
    Mother": she registered the birth herself and gave her own history as "Elizabeth Madams late Goldstone formerly
    Stock". After 1883, the only document in which she speaks for herself. Whether she signed or made a mark cannot be
    told from a certified copy (the registrar's hand). This is the Part's turn, as the statement was Part Three's.

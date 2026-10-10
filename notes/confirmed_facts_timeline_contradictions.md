@@ -433,9 +433,10 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 1883-1887 | Elizabeth disappears from the documentary record | — |
 | 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by S. Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
 | c.1888 | Elizabeth and William Madams begin living together, Whitstable | Census; project notes |
-| 7 Apr 1890 | Lilian Florence Isabel Madams born, Whitstable | Birth record |
+| 7 Apr 1890 | Lilian Florence Isabel Madams born, BEACH ALLEY, Whitstable; registered Mon 19 May 1890 by "E. Madams, Mother, Beach Alley", the mother as "Elizabeth Madams late Goldstone formerly Stock"; father William Madams, General Labourer | GRO birth entry No. 398 (sources/images/birth-certificates/Lilliam Madams Birth Cert.jpg; image checked 10 Oct 2026); baptism register No. 832 gives the same date |
 | 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
 | 16 Sep 1891 | Eliza Jane Madams born, Whitstable | Birth record |
+| 17 Oct 1891 | Lilian (No. 832) and Eliza Jane (No. 833) baptised the same day: parents "William & Elizabeth" Madams, Whitstable, father "Coal Porter" | Baptism register (unidentified; images read 10 Oct 2026) |
 | Apr 1896 (before 2 May) | William Madams summoned for irregular school attendance "in respect to his son aged eight" [Albert]; "The mother of the child pleaded poverty as the cause"; adjourned a fortnight | Herne Bay Press, 2 May 1896 (image checked 10 Oct 2026) |
 | 21 May 1898 | Albert named as Albert Madams in a Whitstable Times school-attendance warning | Whitstable Times |
 | 21 Jun 1898 | Whitstable and Seasalter School Board orders legal proceedings for irregular attendance against the parents of "Albert Madams" | Whitstable Times, 25 Jun 1898 (image checked 10 Oct 2026) |

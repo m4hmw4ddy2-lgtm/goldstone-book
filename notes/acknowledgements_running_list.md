@@ -105,6 +105,7 @@ documents later show.
 - **Walthamstow Historical Society**: enquiry drafted, same file.
 - **Hackney Archives**: enquiry noted, same file.
 - **David and Malcolm Ainsley** (sons of great-aunt Rene): not yet contacted.
+- **Kent History and Library Centre (Kent Archives)**: enquiry sent by Rik, 10 October 2026, for the Chartham asylum's records of William Madams (admission register, reception order, case book), 1901 (correspondence/Kent_Archives_Madams_Chartham_enquiry_2026-10-10.md). Repository to confirm from their reply.
 - **National Maritime Museum, Caird Library** (Marine Society archive, MSY, on loan from the Marine Society & Sea Cadets): enquiry sent by Rik, 10 October 2026, for Albert's entry on the training ship Warspite, April 1901 (live_lists 4, item 45; text in correspondence/Caird_Library_Warspite_enquiry_2026-10-10.md). If they help, the credit line may need the Marine Society & Sea Cadets as the owner.
 
 ## For Rik to decide
