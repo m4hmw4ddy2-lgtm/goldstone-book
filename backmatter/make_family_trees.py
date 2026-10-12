@@ -88,7 +88,8 @@ u.node(495,Q1,[("Albert Jennet Goldstone","name"),("b. 1887","date"),("m. 1910 C
 # Madams
 # "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_19_skeleton.md, settled 1)
 u.node(1000,Q0,[("William James Madams","name"),("b. 1860","date")])
-u.double(720,910,Q0-5); u.line(815,Q0-3,815,Q1-55)
+u.line(720,Q0-5,910,Q0-5);  # single line: no marriage to Madams found (Rik, 12 October 2026); double = marriage
+u.line(815,Q0-3,815,Q1-55)
 mx=[750,950]
 kids(u,mx,Q1-55,Q1-22)
 u.node(750,Q1,[("Lilian Florence Isabel","name"),("b. 1890","date")])

@@ -192,7 +192,7 @@ c.setTitle("From Elizabeth to the author")
 p = Page(c)
 p.text(50, 4, "From Elizabeth to the author", "R", TITLE)
 
-# Top: Elizabeth, the unnamed father (dashed) and William James Madams (double line)
+# Top: Elizabeth, the unnamed father (dashed) and William James Madams (single line: no marriage found; Rik, 12 October 2026)
 EY = 16
 p.text(50, EY, "Elizabeth Stock", "B", NAME)
 p.text(50, EY + 3.2, "b. 1855", "R", DATE, grey=True)
@@ -203,7 +203,7 @@ p.line(25.5, EY - 1.1, 38.5, EY - 1.1, dash=True)
 SX = 32
 p.line(SX, EY - 1.1, SX, 40.6)
 MX = 85
-p.double(61.5, 68.5, EY - 1.1)
+p.line(61.5, EY - 1.1, 68.5, EY - 1.1)
 # "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_19_skeleton.md, settled 1)
 p.person(MX, EY, "William James Madams", "b. 1860")
 p.line(65, EY - 0.65, 65, 26.5)
