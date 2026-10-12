@@ -708,3 +708,17 @@ Lancet, 22 September (whole letter; transcription agrees). Old Bailey: no image 
   the Times"), and the Bethlem patient (now in our voice, "Bethlem" per DECIDE 13). The Times named three times, not six;
   "as the Times reported him" gone. Sworn evidence (Old Bailey) untouched. About 2,570 words (was about 2,700).
 
+
+## CHAPTER FIFTEEN REVISED, 12 OCTOBER 2026 (Rik: "Apply all")
+One sentence added to the paragraph on why neither William nor Elizabeth gave evidence: "It had a few exceptions, and
+one was new that year: since the first of January, a wife could give evidence against her husband in proceedings to
+protect her own property. None of them reached the killing of her children."
+GENERAL KNOWLEDGE, CHECKED AND RECORDED BEFORE USE (as the writing rules require): Married Women's Property Act 1882
+(45 & 46 Vict. c. 75), as enacted, legislation.gov.uk, read 12 October 2026. s. 25: commencement "the first of January
+one thousand eight hundred and eighty-three". s. 12: in proceedings under the section (a married woman's remedies for
+the protection and security of her separate property, civil and criminal), "a husband or wife shall be competent to
+give evidence against each other ... any statute or rule of law to the contrary notwithstanding". Fuller note:
+part_three_context_law_and_medicine.md, the section of 12 October 2026. Source of the idea: an outside review, checked
+point by point the same day.
+Also the same day, Chapter Three (Rik): the great-uncle sentence cut (press only, Times 1 October; Contradiction 104);
+"His aunt" made "Thomas's own aunt" (Thomas: "my father had a sister who wore a strait jacket").
