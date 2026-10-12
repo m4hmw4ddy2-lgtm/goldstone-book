@@ -26,7 +26,7 @@ On the fourteenth of April 1874, at Witham station, some two hundred working peo
 
 The men who stayed fared no better that summer. The same union called its members out for higher wages, and the farmers locked them out in return. The dispute reached Halstead, the next market town over from Finchingfield: close enough that men from these villages would have known people caught up in it. By June the union was paying strike pay to 339 men across Essex. By the tenth of August the money had run out, and the men went back to work on the farmers' own terms.
 
-Elizabeth Stock was not on that train. By 1874 she had been in service in London since at least 1871, one of the thousands who left the way almost everyone actually left: unphotographed, unreported, a servant among servants in somebody else's home.
+Elizabeth Stock was not on that train. She had gone into service in London by 1871, one of the thousands who left the way almost everyone actually left: unphotographed, unreported, a servant among servants in somebody else's home.
 
 William Gouldstone left later, and more of his leaving survives.
 
