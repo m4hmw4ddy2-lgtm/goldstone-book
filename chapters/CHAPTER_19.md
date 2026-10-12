@@ -4,7 +4,7 @@ LATE GOLDSTONE FORMERLY STOCK
 
 A girl was born in Beach Alley, Whitstable, on Monday the seventh of April 1890, and named Lilian Florence Isabel. Her birth was registered on the nineteenth of May.
 
-The informant was the child's mother. The registry entry gives her as "E. Madams", "Mother", of Beach Alley, and the father as William Madams, general labourer. In the mother's column she is "Elizabeth Madams late Goldstone formerly Stock".
+The informant was the child's mother. The register entry gives her as "E. Madams", "Mother", of Beach Alley, and the father as William Madams, general labourer. In the mother's column she is "Elizabeth Madams late Goldstone formerly Stock".
 
 Three years after Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father.
 
