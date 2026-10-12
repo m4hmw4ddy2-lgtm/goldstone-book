@@ -27,7 +27,7 @@ Part Three (1883):
 - `Full text of "Archbold's Pleading and evidence ... .html`: Archbold, 17th ed., 1871, archive.org OCR; searched 10 October for the death-sentence form (live_lists 4, item 38).
 
 Part One (closed lead):
-- `Eliza_Stock_1869_Adjourned_Sessions_press_transcription.txt`: CLOSED, not Elizabeth (live_lists 5).
+- `Eliza_Stock_1869_Adjourned_Sessions_press_transcription.txt`: CLOSED: identification unestablished; not pursued (Rik, 10 October 2026: many namesakes; live_lists 5).
 
 Part Four (Whitstable, 1890 to 1906):
 - `Lilian_Madams_birth_certificate_1890_transcription.txt`: GRO entry No. 398; born 7 April 1890, Beach Alley; informant "E. Madams, Mother".

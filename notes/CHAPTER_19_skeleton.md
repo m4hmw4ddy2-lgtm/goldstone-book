@@ -1,5 +1,8 @@
 # CHAPTER NINETEEN: SKELETON ("LATE GOLDSTONE FORMERLY STOCK": Whitstable, 7 April 1890 to 29 June 1906)
-# STATUS, updated 11 October 2026 (the header had not followed the later rulings of 10 October): DECIDE A to O ALL
+# STATUS, 12 October 2026: CHAPTER APPROVED (chapters/CHAPTER_19.md; DRAFTING log at the foot). Two checks outstanding on
+# the approved text: the Warspite sentences (Caird Library) and "the training ship Impregnable" (live_lists 4, item 58).
+# The header lines below are kept as they stood on 11 October and are SUPERSEDED where they speak of drafting.
+# (11 October 2026:) DECIDE A to O ALL
 # RULED (Rik; DECISIONS and the two follow-up sections at the foot, which govern where they differ from the body).
 # A: open on Lilian's birth at Beach Alley and her mother's registration of it (19 May 1890); the certificate is held.
 # H: the admission date, 4 September 1901, may be used (MH 94/37, read by Rik on Ancestry; no saved copy needed).
@@ -564,3 +567,4 @@ Warspite (Caird Library). Each movement shown before the next.
   years' "), kept out. Still open: the Warspite sentences (Caird Library), and the Impregnable "training ship" check
   (1901 Navy List). Status in live_lists 0.
 - 12 October 2026, after approval, Rik: "registry entry" -> "register entry".
+- 12 October 2026: external repo review answered: header updated; the Impregnable check entered centrally (live_lists 4, item 58).

@@ -556,8 +556,11 @@ reopened without a new document.
 | 109 | **SETTLED** | = Contradiction 45: 3.30 p.m. (deposition). The Times and Morning Post "3.40" is one press figure. |
 | 111 | RECORDS | New facts from the Times of 10 August. |
 | 112 | **SETTLED 3 Oct** | Compatible: "about five years" (Graves) and "four years and a half" (the workmen's letter). |
-| 113 | OPEN | Who told William of the twins: Emma (Old Bailey) or Ada (IPN, Chapter Six). |
+| 113 | RULED for prose 12 Oct; OPEN on the evidence | Prose: Chapter Six follows Elizabeth's statement ("he immediately went out of the house"), no messenger named. Evidence, all kept: Emma (Old Bailey, "when he came in I told him"), the IPN's "nurse" (and "one look of anger"), Elizabeth's statement. |
 | 114 | SETTLED for prose | The asylum cousin was William (his father); Thomas's "Charles" on the printed page is a slip. |
+| 115 | OPEN on the evidence; RULED for prose 7 Oct | Who went with Elizabeth to Chelmsford on 18 September: "his sister and aunt" (her statement) or "wife, mother, and sister" (Guardian, 22 Sep). Chapter Sixteen follows her statement. |
+| 116 | OPEN | Her statement written Wednesday 19 September; first printed 19 or 20 September. Placement unaffected (her writing day). |
+| 117 | SETTLED for prose 10 Oct | The sea boots: Whitstable Times and Folkestone Chronicle differ in detail; compatible on substance. Chapter Nineteen uses the Folkestone Chronicle only. |
 
 ### 1. WILLIAM'S WORDS ON OPENING THE BEDROOM DOOR
 Multiple sworn versions:
