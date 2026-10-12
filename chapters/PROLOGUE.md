@@ -18,4 +18,4 @@ He was in Broadmoor.
 
 William Gouldstone had been there since the fifteenth of October 1883. He would remain there until his death, more than fifty-one years later. The reason lay in what had happened at 8 Courtenay Place in Walthamstow on the evening of Wednesday the eighth of August 1883.
 
-I had begun with Albert Goldstone, my great-grandfather. I followed his mother backwards, and found William. Without whom I would not exist.
+I had begun with Albert Goldstone, my great-grandfather. I followed his mother backwards, and found the real William. Without whom I would not exist.
