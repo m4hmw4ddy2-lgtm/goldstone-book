@@ -1,6 +1,7 @@
 # Goldstone Book — Master Source Index
 *Brought up to date 1 October 2026: the 21 transcriptions missing from this index are now listed in the section "ADDED 1 OCTOBER 2026" directly below, so every file in transcribed/ has an entry. Older entries were not re-checked in this pass and their "Status" lines may predate later corrections; each transcription's own header is the authority for what has been checked against its image (CHECK ONCE rule).*
-*Last updated: 15 July 2026 (second pass — Great Sampford trade directory and Historic England listings added)*
+*Last updated: 11 October 2026 (section "ADDED 11 OCTOBER 2026" below: 32 transcriptions made 7 to 10 October and not previously indexed). The 1 October note above, "every file in transcribed/ has an entry", was true on 1 October and had stopped being true; it is true again as of 11 October. Older "last updated" line: 15 July 2026 (second pass, Great Sampford trade directory and Historic England listings).*
+*Entries are pointers. Each transcription's own header is the authority for its source, check and status.*
 
 ---
 
@@ -13,6 +14,43 @@ Each source is listed with:
 - **Book section:** which part(s) of the narrative it serves
 
 ---
+
+## ADDED 11 OCTOBER 2026: TRANSCRIPTIONS OF 7 TO 10 OCTOBER NOT PREVIOUSLY INDEXED
+All in `transcribed/`; every one records its own image check in its header.
+
+Part Three (1883):
+- `Nottingham_Evening_Post_17_Sep_1883_transcription.txt`: the hangman's applications. Press only; not used in Chapter Sixteen (Rik, 10 Oct: "leave it").
+- `Sheffield_Daily_Telegraph_28_Sep_1883_transcription.txt`: reports a commutation that never happened. Press only (Chapter Seventeen skeleton).
+- `Wigan_Observer_28_Sep_1883_transcription.txt`: the respite paragraph, shared copy with the Manchester Guardian of 26 September (live_lists 6).
+- `The_Times_Oct_2_transcription.txt`, `The_Times_Oct_6_transcription.txt`, `The_Times_Oct_11_transcription.txt`, `The_Times_Oct_12_transcription.txt`: the respite made indefinite; the Chelmsford visit and the Home Office letter of 3 October; the certification of 10 October (shared copy with the Preston Chronicle of 13 October); Graves's notice of the defence fund. Chapter Seventeen.
+- `Conley_2007_Certain_Other_Countries_Gouldstone_notes.txt`: modern secondary; errors listed; not a source (live_lists 5).
+- `Full text of "Archbold's Pleading and evidence ... .html`: Archbold, 17th ed., 1871, archive.org OCR; searched 10 October for the death-sentence form (live_lists 4, item 38).
+
+Part One (closed lead):
+- `Eliza_Stock_1869_Adjourned_Sessions_press_transcription.txt`: CLOSED, not Elizabeth (live_lists 5).
+
+Part Four (Whitstable, 1890 to 1906):
+- `Lilian_Madams_birth_certificate_1890_transcription.txt`: GRO entry No. 398; born 7 April 1890, Beach Alley; informant "E. Madams, Mother".
+- `Lilian_Madams_baptism_1891_transcription.txt` and `Eliza_Jane_Madams_baptism_1891_transcription.txt`: Nos. 832 and 833, 17 October 1891; register unidentified (dates only usable).
+- `Whitstable_census_1891_41_Harbour_Street_transcription.txt`: RG 12/711, schedule 39; Albert "Stepson".
+- `Eliza_Jane_Madams_birth_certificate_1891_transcription.txt`: GRO entry No. 177; Harbour Place; informant "E. Madams, Mother".
+- `Herne_Bay_Press_2_May_1896_School_Board_Summonses_transcription.txt`: "his son aged eight"; "The mother of the child pleaded poverty".
+- `Whitstable_Times_25_Jun_1898_School_Board_transcription.txt`; `Canterbury_Journal_19_Aug_1899_School_Board_transcription.txt`: attendance proceedings; the 5s. fine.
+- `Canterbury_Journal_25_Feb_1899_Band_of_Hope_transcription.txt`: "Albert Madams"; town not on the clip.
+- `Whitstable_census_1901_Middle_Wall_transcription.txt`: RG 13/799, schedule 155; Albert "Son".
+- `Whitstable_Times_6_Apr_1901_Charge_of_Theft_on_Board_a_Vessel_transcription.txt`; `Folkestone_Chronicle_13_Apr_1901_Whitstable_police_cases_transcription.txt`; `Herne_Bay_Press_20_Apr_1901_Youthful_Offender_transcription.txt`: the sea boots, three hearings (Contradiction 117); bound over; the Warspite.
+- `Canterbury_Journal_6_Apr_1901_Elizabeth_Goldstone_drunk_and_disorderly_transcription.txt`: Elizabeth, 1-2 April 1901.
+- `William_Madams_death_certificate_1901_transcription.txt`: 23 November 1901, Chartham; "General Paralysis of the Insane about 3 months".
+- `Elizabeth_Madams_death_certificate_1906_transcription.txt`: 29 June 1906, Beach Alley; "Syphilis 2 years"; informant Lilian.
+
+Part Five (Albert at Chatham):
+- `Chatham_Observer_27_Oct_1933_Luton_ward_nominations_transcription.txt`; `Chatham_Observer_3_Nov_1933_Luton_ward_result_transcription.txt`; `Chatham_Observer_7_Sep_1934_Preparations_for_the_November_Fray_transcription.txt`; `Chatham_Observer_19_Oct_1934_Albert_Goldstone_candidate_transcription.txt`; `Chatham_Observer_2_Nov_1934_Christ_Church_ward_result_transcription.txt`: two municipal contests, both lost.
+- `Chatham_Observer_6_Apr_1945_Five_Bags_of_Coal_transcription.txt`: Albert and "Mrs. Clara Irene Goldstone" as witnesses.
+
+---
+
+## DNA COMPARISON FILES (indexed 11-12 October 2026)
+- `sources/genealogy/chromato_AncestryDNA_vs_SteveAncestryDNA.csv` and `sources/genealogy/chromato_AncestryDNA_vs_MaryAncestryDNA.csv`: per-chromosome comparisons from a third-party tool; the first kit in each is NOT NAMED in the files; totals 1,012.6 cM (Steve) and 848.7 cM (Mary), the tool's own labels "1C (avg 850)". Rik, 12 October 2026: Steve (Stephen Albert John Ferguson) is his full uncle. The tool's totals are not Ancestry's own figures and are not evidence of any relationship by themselves. Mary: Rik's maternal grandmother (Rik, 12 October 2026). Both totals come out at roughly half the expected figure for the known relationship (grandparent, Shared cM Project v4: average 1,754 cM, range 984 to 2,462; uncle 1,741, range 1,201 to 2,282), so the tool undercounts consistently, or the unnamed first kit is not Rik's. Neither file is evidence about any relationship; use the testing companies' own figures. SETTLED 12 October 2026 (Rik's screenshot of his own match list, "Close family"): Mary Ethell, Grandmother, 1,790 cM, mother's side; Stephen Albert John Ferguson, Uncle, 1,739 cM, father's side. Both squarely in range (grandparent average 1,754; uncle average 1,741). The comparison files' totals are the tool's undercount.
 
 ## ADDED 3 OCTOBER 2026: THE TIMES AND DAILY TELEGRAPH IMAGES
 Images in `sources/images/Media-coverage/to-transcribe/`; each transcription's header records its one image check.
@@ -240,7 +278,7 @@ Book section: Part Two
 **Committal Document**
 `sources/trial-docs/Coroner Depositions/Commital/Commital.txt`
 Status: READ
-Key content: MISFILED under Coroner Depositions. This is the magistrates' Statement of the accused, form N, under s. 18 of 11 & 12 Vict. c. 42, 18 August 1883: "I reserve my defence", unsigned by William, signed by Nath. Powell J.P. The same folder holds image 0026, the depositions docket ("Cen. Criminal Court Sept 10th 1883", Home Office stamp 17 SEP 1883). Corrected 30 September 2026.
+Key content: MISFILED under Coroner Depositions. This is the magistrates' Statement of the accused, form N, under s. 18 of 11 & 12 Vict. c. 42, 18 August 1883: "I reserve my defence", unsigned by William, signed by Nath. Powell J.P. The same folder holds image 0026, the depositions docket ("Cen. Criminal Court Sept 10th 1883", Home Office stamp 17 SEP 1883). Corrected 30 September 2026. LEFT IN PLACE (Rik, 12 October 2026): moving the folder would break paths cited throughout the notes; this entry is the record of the misfiling.
 Book section: Part Three (Chapter Twelve)
 
 **Magisterial Examination, Stratford**
@@ -383,7 +421,7 @@ Key content: Synthesised account. No new material.
 Book section: Part Two
 
 **IPN — Transcription (18 August 1883)**
-`transcribed/IPN%20p2%20Aug%2018%201883_transcription.txt`
+`transcribed/IPN p2 Aug 18 1883_transcription.txt`
 Status: READ
 Key content: Full IPN account. William described as son of country farrier from Saffron Walden area, amateur musician (cornet, flute, wind instruments), abstemious, reserved. Building: "a smart two-storeyed house with a bay-windowed parlour." "One of the first of its row." "Parallel with St James's Street Railway Station." "Has only been built two years." Full narrative of the evening. **Additional detail confirmed 9 September 2026 on a direct re-read against the image, not previously flagged separately**: "the young couple had been married four years and a half" as of August 1883 — an independent press confirmation of the March 1879 marriage date, arrived at by a completely different route than the certificate itself. At his Saturday re-examination, "he was visited by two of his brothers" in the court cells — consistent with several Gouldstone brothers already documented as present or testifying at various points in the case. Commute detail: "only on one occasion did he miss his train, the 6.4 a.m. from St. James's-street to Liverpool-street," attributed to a faulty clock — his landlord "said he was as good as a timepiece." Texture on his relationship with landlord Charles Clark: Sunday morning walks together along the river, entering a public house together only once; William's rural origins were apparently first suspected through his skill killing rabbits Clark kept. **A third independent confirmation of the "gentleman (a chemist)" detail** already added to Dr Twining's own entry. **Confirms "Inspector Craggs" by name directly** — eighth independent source for this name across the whole corpus.
 Book section: Part One, Part Two
@@ -413,7 +451,7 @@ Key content: Post-verdict IPN coverage. Consistent with other accounts.
 Book section: Part Three
 
 **Ad for next IPN issue**
-`transcribed/Ad%20for%20next%20IPN%20issue.txt`
+`transcribed/Ad for next IPN issue.txt`
 Status: READ
 Key content: IPN advertisement for the issue covering the Gouldstone case. "Shocking murder of five children."
 Book section: Background
@@ -517,7 +555,7 @@ Book section: Part Three
 ### 2.3 October 1883 — Reprieve and Broadmoor
 
 **Commutation notice**
-`transcribed/Communtation%20in%20newspaper.txt`
+`transcribed/Communtation in newspaper.txt`
 Status: READ
 Key content: "He is either a murderer of the worst type or an irresponsible lunatic." The NEWSPAPER (identified 30 September 2026 as the Liverpool Daily Post, 1 October) arguing, against the BMJ, that penal servitude would be wrong and he should go to a criminal lunatic asylum.
 Book section: Part Three
@@ -590,9 +628,9 @@ Book section: Coda
 ### 2.6 Background and Reference
 
 **Bayly book (Ragged Homes and How to Mend Them, 1860)**
-`transcribed/Bayly_book.txt`
-Status: READ
-Key content: Background colour on working-class London poverty in the Victorian period. Reference material for Parts One and Four. NOTE: no connection to the case — this is Mary Bayly's book, not "Mrs Bayly's Refuge" which was an earlier erroneous identification. The correct refuge is Mrs Pelly's (St Agatha's, Stratford).
+`transcribed/Bayly_book.txt` (no longer in the repo)
+Status: RETIRED, 12 October 2026 (Rik: proved irrelevant). Not to be re-uploaded or used. Entry kept so the name is not mistaken for a lost source.
+Key content: Background colour on working-class London poverty in the Victorian period. [Superseded: not used for any part.] NOTE: no connection to the case — this is Mary Bayly's book, not "Mrs Bayly's Refuge" which was an earlier erroneous identification. The correct refuge is Mrs Pelly's (St Agatha's, Stratford).
 Book section: Background reference
 
 ---
@@ -628,7 +666,7 @@ Book section: Part Five
 **Albert Madams Attendance Warning**
 `sources/images/albert-goldstone/Albert_Madams_attendance_warning.pdf`
 Status: READ (image-based)
-Key content: Whitstable Times 21 May 1898 — Albert named as Albert Madams in school attendance warning. Last document before the name change.
+Key content: Whitstable Times 21 May 1898 — Albert named as Albert Madams in school attendance warning. ("Last document before the name change", carried here, is wrong: "Albert Madams" recurs in 1899, and the 1901 census enters him as "do" [Madams] two days before the court calls him Goldstone. Corrected 11 October 2026.)
 Book section: Part Five
 
 ---
@@ -643,17 +681,21 @@ Key content: William Gouldstone (22, Iron Worker) married Elizabeth Stock (24, S
 Book section: Part One
 CORRECTION FROM PREVIOUS VERSION: Witnesses were Thomas and Emily Goldstone, not "James Goldstone."
 
-**Lambeth Workhouse Birth Certificate — Albert**
-`sources/images/birth-certificates/Lambeth Workhouse Birth 1.png`
+**Lambeth Workhouse, Register of Births, 1887, pp. 95-96: Albert (entry 105)**
+`sources/images/birth-certificates/Lambeth Workhouse Birth 1.png` (left page) and `Lambeth Workhouse Birth 2.png` (right page)
+Transcription: `transcribed/Lambeth_Workhouse_Register_of_Births_1887_pp95-96_transcription.txt` (whole opening image-checked 10 October 2026)
 Status: READ
-Key content: Albert Jennet Goldstone, born 19 June 1887, Workhouse Infirmary Brook Street, Lambeth. Mother: Elizabeth Goldston, 2 John Street Hercules Buildings Lambeth. Father: blank. Informant: **S. Frost** (NOT S Frost as in earlier notes — the certificate reads S. Frost), present at birth, workhouse infirmary Brook Street Lambeth. Registered 20 June.
-Book section: Part Four
-CORRECTIONS FROM PREVIOUS VERSION: [REVERSED 10 October 2026, Rik: the informant is S. Frost; the earlier "correction" to S. Frost was wrong.] Elizabeth's address (2 John Street) is her residence, not the infirmary address. The infirmary address is "Workhouse Infirmary Brook Street." She was not a workhouse inmate.
+Key content: the workhouse's own register, NOT a birth certificate. Entry **105**: "June 19"; Male; "Elizabeth Goldston"; "Illegitimate"; "When Baptized" blank (blank for every entry on the opening); "In what Name Baptized": "Albert Jennet"; registrar's initials "G.H." The opening holds 17 entries, 18 June to 8 July 1887 (11 illegitimate, 3 stillborn). The register gives NO address, informant, place of birth or date of registration: those are on the civil entry below. Repository and reference of the volume not recorded (very probably LMA, Lambeth Board of Guardians; live_lists 4, item 41).
+Book section: Part Four (Chapter Eighteen opens on this page)
+CORRECTED 11 October 2026: this entry was headed "Lambeth Workhouse Birth Certificate" and gave the civil register's content (address, informant, registration date) as if from these images. Those details are entry 113 of the civil register, on the GRO copy below. The earlier S. Frost note is moved there.
 
-**Albert's birth, GRO certified copy (added 2 October 2026)**
+**Albert's birth, civil registration (entry 113), GRO certified copy (added 2 October 2026)**
 `sources/images/birth-certificates/Birth Cert Albert Goldstone 1887.jpeg`
-Status: READ 2 October 2026
-Key content: the same entry as the Lambeth Workhouse images above (Lambeth Church 2nd sub-district, No. 113), as a GRO certified copy issued 7 January 2013. For the Broadmoor descent evidence.
+Transcription: `transcribed/Albert_Goldstone_birth_certificate_1887_transcription.txt` (whole entry image-checked 10 October 2026)
+Status: READ 2 October 2026; checked 10 October 2026
+Key content: Lambeth registration district, Lambeth Church 2nd sub-district, entry **113**. Born 19 June 1887, Workhouse Infirmary, Brook Street; "Albert Jennet"; Boy; father's name and occupation blank; mother "Elizabeth Goldston of 2 John Street Hercules buildings Lambeth" (no maiden surname); informant **S. Frost**, "Present at the birth", Workhouse Infirmary, Brook Street, Lambeth; registered 20 June 1887; George Hearson, Registrar. GRO certified copy issued 7 January 2013. For the Broadmoor descent evidence.
+CORRECTED 11 October 2026: this entry called it "the same entry as the Lambeth Workhouse images above (... No. 113)". It is the same birth, a different record: the workhouse register numbers it 105, the civil register 113 (CHAPTER_18_skeleton.md, finding 8).
+Earlier notes kept: [REVERSED 10 October 2026, Rik: the informant is S. Frost; an earlier "correction" away from S. Frost was wrong.] Elizabeth's address (2 John Street) is her residence, not the infirmary's. ("Not a workhouse inmate", once added here, is TO VERIFY: PART_FOUR_plan.md, finding 9.)
 
 **Albert Goldstone and "Rennie" [?] Setterington, marriage, 5 March 1910**
 `sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg`
@@ -728,9 +770,9 @@ Book section: Part Three
 **ACTION: Read next session**
 
 **1921 Broadmoor Census**
-`sources/images/census-stuff/1921 census Broadmoor.jpg`
+`sources/images/broadmoor-documents/1921 census Broadmoor.jpg` (the duplicate in census-stuff/ deleted by Rik, 12 October 2026)
 Status: UNREAD
-Key content: William listed in Broadmoor census — 38 years into his detention.
+Key content: William listed in Broadmoor census — 37 years into his detention (admitted 15 October 1883; census night 19 June 1921; corrected 12 October 2026 from "38").
 Book section: Part Three
 **ACTION: Read next session**
 
@@ -932,7 +974,7 @@ Book section: Part One
 7. Jade Shepherd, "One of the Best Fathers until He Went Out of His Mind" (Journal of Victorian Culture, 2013)
 
 **Medium priority:**
-8. GRO certificates: five murdered children (birth and death), William death 1935, Elizabeth death July 1906 Blean
+8. GRO certificates: five murdered children (birth and death), William death 1935 (Elizabeth's death certificate OBTAINED 9 September 2026: 29 June 1906, Beach Alley, Whitstable; corrected 11 October 2026 from "July 1906 Blean", the registration month and district)
 9. Lambeth Workhouse Infirmary admission records June 1887: LMA LABG/174/01 (probably won't show Elizabeth — she was not a resident inmate — but worth checking)
 10. 1881 and 1891 census for 2 John Street, Hercules Buildings, Lambeth (FindMyPast)
 11. ~~Albert Goldstone marriage certificate~~ OBTAINED 2 October 2026; see Section 4

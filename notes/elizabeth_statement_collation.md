@@ -112,7 +112,9 @@ transcriptions. Where a variant looks substantive, go to the image before drawin
 - A paper writing "yesterday (Tuesday)" was published on **Wednesday 19 September 1883**.
 
 **Conclusion: the statement was given on or just before Wednesday 19 September and first published that
-day, in a London daily not yet identified.** The note logged on 22 September giving Thursday 20 September
+day, in a London daily not yet identified.** [REVISED 11 October 2026: written Wednesday 19th; first printed 19th or
+20th (timeline file, Contradiction 116). "Yesterday (Tuesday)" dates the writing, not the printing; a morning daily
+would print it on the 20th.] The note logged on 22 September giving Thursday 20 September
 as first publication is superseded; it rested on Grantham Robinson's "I have just read Mrs. Gouldstone's
 letter in your paper this morning" in a letter dated the 20th, which is satisfied by his having read a
 Wednesday paper, or a Thursday reprint, a day later.
@@ -131,7 +133,7 @@ about his literacy on how the words are spelled. What all three agree on is the 
 and the rhythm, which are the things that carry it.
 
 ## WHAT TO DO NEXT
-1. **Find the London daily of Wednesday 19 September 1883** that first printed the statement. That is the
+1. **Find the London daily of Wednesday 19 or Thursday 20 September 1883** that first printed the statement (Contradiction 116). That is the
    copy text. The Daily News is the leading candidate: it had been following the case closely, had
    expressed doubts about the verdict "on Saturday last", and devoted a leader to the letters. The Daily
    Telegraph and the Morning Post are the other two that argued for further inquiry.

@@ -239,10 +239,11 @@ See the timeline file, "Contradiction 50 SUPERSEDED". Foxwell belongs in this fi
 the inquest into her children's deaths, in her absence, a juror proposed that she had brought the conversation on
 herself.
 
-### (d) The statement, first published Wednesday 19 September — she speaks, once, and it counts
+### (d) The statement, written Wednesday 19 September (first printed 19 or 20: Contradiction 116) — she speaks, once, and it counts
 **Date and text settled as far as they can be, 23 September 2026.** She saw William at Chelmsford on Tuesday
-18 September. Two of the three surviving reprints keep "yesterday (Tuesday)", so the original was a London daily of
-**Wednesday 19 September**, not yet identified. **Three reprints survive and all three are abridged differently:** Essex
+18 September. Two of the three surviving reprints keep "yesterday (Tuesday)", so she wrote it on
+**Wednesday 19 September**; the original, not yet identified, was printed on the 19th or the 20th (Contradiction 116,
+revised 11 October 2026). **Three reprints survive and all three are abridged differently:** Essex
 Weekly News, 21 September, about 1,300 words and the fullest; Western Daily Press, 21 September, about 1,075, marking its
 one cut with an ellipsis; Walthamstow and Leyton Guardian, 22 September, about 800, marking nothing. **Quote from the
 Essex Weekly News and cite it by name.** The passage carrying the morning tea, his eyes "strange and wandering", and her
@@ -463,3 +464,10 @@ line, check it against this list and add it here.
   not a motive of ours.
 - Section 2 (every word she is recorded as saying): no addition.
 
+
+## HER STORY: A STANDING RULE (Rik, 12 October 2026)
+Where Elizabeth's own account of her own life conflicts with another witness's, the prose follows her, and the other
+account stays in the notes as evidence. Precedent: Chapter Six and Contradiction 113. It decides between accounts of
+events; it does not override a document on a matter of record (a date, an age, a certificate entry), and it gives no
+licence for any thought, motive or feeling the record does not give. Also in the project instructions (Rik to paste
+the revised text of 12 October 2026).

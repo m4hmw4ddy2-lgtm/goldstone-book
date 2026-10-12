@@ -1,6 +1,13 @@
-# CHAPTER NINETEEN: SKELETON ("LATE GOLDSTONE FORMERLY STOCK": Whitstable, April 1891 to 29 June 1906)
-# STATUS, 10 October 2026: DECIDE A to M RULED (Rik; see DECISIONS at the foot). Three items wait on sources before
-# drafting: Lilian's certificate (A), a source for the Warspite (F), Madams's admission (H). No prose.
+# CHAPTER NINETEEN: SKELETON ("LATE GOLDSTONE FORMERLY STOCK": Whitstable, 7 April 1890 to 29 June 1906)
+# STATUS, updated 11 October 2026 (the header had not followed the later rulings of 10 October): DECIDE A to O ALL
+# RULED (Rik; DECISIONS and the two follow-up sections at the foot, which govern where they differ from the body).
+# A: open on Lilian's birth at Beach Alley and her mother's registration of it (19 May 1890); the certificate is held.
+# H: the admission date, 4 September 1901, may be used (MH 94/37, read by Rik on Ancestry; no saved copy needed).
+# J: the same-disease sentence may be drafted without the two papers in the repo (Rik: "we have the origin").
+# ONE ITEM STILL WAITS before drafting: a source for the Warspite (F (c); Caird Library enquiry sent 10 October
+# 2026). Kent Archives' reply is optional. No prose.
+# The SHAPE, FINDINGS and DAYS below were written before Lilian's certificate arrived; movement one as revised is
+# under LILIAN'S CERTIFICATE at the foot.
 # Part Four plan ruled 10 October 2026 (PART_FOUR_plan.md): title; the 1891 registration is the turn; DECIDE 5 (the
 # enlistment, one plain sentence in date order, the Germany lie held for Part Five); DECIDE 6 (her death in two
 # sentences at most, cause as the certificate gives it); DECIDE 8 (Part Four ends on her death); the spellings
@@ -276,7 +283,7 @@ death", both informants' columns: the record's echo, not a planted one, and left
 **DECIDE M. Movements.** (a) **Three, as above, each shown before the next** (recommended). (b) Two: 1891; 1896 to
 1906.
 
-## PROPOSED CONTRADICTION (not entered; 115 and 116 are still to be entered from the Chapter Sixteen skeleton)
+## PROPOSED CONTRADICTION (117 ENTERED 11 October 2026, with 115 and 116; the 1896 reading added to Contradiction 88)
 117. THE SEA BOOTS: TWO REPORTS. Whitstable Times, 6 April 1901 (first hearing) against Folkestone Chronicle, 13 April
      1901 (second hearing): vessel "the brigantine Christabelle" / "the Christabel"; boots last seen "the previous
      Friday week" (22 March) / "the 23rd ult."; sale "the next day" / "On the 30th ult." (two days after the 28th);
@@ -286,23 +293,23 @@ death", both informants' columns: the record's echo, not a planted one, and left
 Contradiction 88: add the 1896 reading ("his son aged eight", Herne Bay Press, 2 May 1896; a reporter's wording of a
 summons in Madams's name).
 
-## CORRECTIONS FOUND (NOT APPLIED; for Rik)
-E1. dramatis (Elizabeth, census run) and Contradiction 88: "Maddams" for 1901: the image reads "Madams" (William;
+## CORRECTIONS FOUND (status on each item, 11 October 2026; unmarked = open)
+E1. APPLIED 11 October 2026. Was: dramatis (Elizabeth, census run) and Contradiction 88: "Maddams" for 1901: the image reads "Madams" (William;
     Lillian written in full); Elizabeth and Albert are "do".
-E2. "c. 1888" with Madams: MASTER_NOTES 567; timeline file 257 and 434 ("Census; project notes"); dramatis (Elizabeth;
+E2. APPLIED 11 October 2026 (every notes file and both tree generators; trees regenerated). Was: "c. 1888" with Madams: MASTER_NOTES 567; timeline file 257 and 434 ("Census; project notes"); dramatis (Elizabeth;
     Madams, "Cohabited ... from approximately 1888"); PART_FOUR_plan.md spine. Source is an unsourced tree estimate.
     Withdraw everywhere (grep "1888" before closing).
-E3. Timeline 435, Lilian's birth "Birth record": no certificate; the date is the family tree's (1939 Register
+E3. APPLIED (the row now cites the GRO birth entry, held 10 October 2026). Was: Timeline 435, Lilian's birth "Birth record": no certificate; the date is the family tree's (1939 Register
     citation). Say so.
-E4. Timeline 449 and 451: the death on 23 November is sourced to the GRO death certificate (now transcribed), not MH
+E4. APPLIED 11 October 2026. Was: Timeline 449 and 451: the death on 23 November is sourced to the GRO death certificate (now transcribed), not MH
     94/37; the admission row to "MH 94/37 index (Ancestry), image not held".
-E5. Folkestone Chronicle transcription, DATES: "first hearing and remand: date not given": now Tuesday 2 April 1901,
+E5. APPLIED 11 October 2026. Was: Folkestone Chronicle transcription, DATES: "first hearing and remand: date not given": now Tuesday 2 April 1901,
     County Magistrates' Office, Canterbury (Whitstable Times, 6 April 1901). Cross-reference only.
-E6. dramatis (Elizabeth, census run): "Wethersfield on all three" normalises the enumerators' "Weathersfield" (1891)
+E6. APPLIED 11 October 2026. Was: dramatis (Elizabeth, census run): "Wethersfield on all three" normalises the enumerators' "Weathersfield" (1891)
     and "Weatherfield" [?] (1901). The place is the same; the readings should be recorded as written.
-E7. dramatis (Madams): "1901 census at 50 Middle Wall" (already P5): the page shows 50 is schedule 154 (William Potts),
+E7. APPLIED 11 October 2026. Was: dramatis (Madams): "1901 census at 50 Middle Wall" (already P5): the page shows 50 is schedule 154 (William Potts),
     and 155 stands between 50 and 52, number illegible.
-E8. dramatis (Madams): "Born 1 May 1860": source not recorded; his ages on three documents disagree (30, 39, 42).
+E8. APPLIED 11 October 2026 (the date is the MyHeritage tree's, citing censuses only). Was: dramatis (Madams): "Born 1 May 1860": source not recorded; his ages on three documents disagree (30, 39, 42).
 
 ## SOURCES WORTH OBTAINING (to add to live_lists 4)
 - **Lilian's birth certificate (GRO, Q2 1890, Blean)**: the first possible document of Elizabeth in Whitstable, and
@@ -320,7 +327,7 @@ E8. dramatis (Madams): "Born 1 May 1860": source not recorded; his ages on three
   School Board's attendance proceedings were: none planned for prose. If any sentence needs one, source it first.
 
 ## DECISIONS, 10 OCTOBER 2026 (Rik)
-- A: "Lillian's certificate?" READ AS: the opening waits on Lilian's birth certificate (GRO, Q2 1890, Blean; live_lists
+- A [SUPERSEDED: resolved, then reopened and ruled (a) open on Lilian's birth; see the foot]: "Lillian's certificate?" READ AS: the opening waits on Lilian's birth certificate (GRO, Q2 1890, Blean; live_lists
   4, item 50). If it is in hand before drafting, the chapter may open on her birth, the first document of Elizabeth in
   Whitstable (option c), its informant to be seen; if not, (a), the 1891 census page with nothing before it. Rik to
   order the certificate. TO CONFIRM this reading with Rik.
@@ -338,8 +345,9 @@ E8. dramatis (Madams): "Born 1 May 1860": source not recorded; his ages on three
 - G (a): none of her ages in prose.
 - H (c): Madams's admission waits for the record itself. MH 94/37 is the Lunacy Commission's register of admissions,
   digitised on Ancestry (Rik to save the image); the asylum's own admission register and case book, if they survive,
-  are with the Kent archives (repository and reference TO CONFIRM; enquiry drafted 10 October 2026,
+  are with the Kent archives (repository and reference TO CONFIRM; enquiry drafted and SENT by Rik 10 October 2026,
   correspondence/Kent_Archives_Madams_Chartham_enquiry_2026-10-10.md). Until then, no admission date in prose.
+  [SUPERSEDED later on 10 October 2026: the date may be used; see LILIAN'S CERTIFICATE, RULINGS, H.]
 - I (a): the father's column, "William Madams", given plainly with the rest of the entry.
 - J REVISED (Rik): AT HER DEATH, THE PROSE MAKES CLEAR THAT BOTH DIED OF THE SAME DISEASE. His cause in its place
   (November 1901, "General Paralysis of the Insane"); hers at her death ("Syphilis"), with one plain sentence that
@@ -399,7 +407,8 @@ E8. dramatis (Madams): "Born 1 May 1860": source not recorded; his ages on three
   Kent. This is Ancestry's index of the register, read by Rik; the register image ("View image") not yet saved. The
   death date agrees with the certificate. RECOMMENDATION: save the image to sources/images/death-certificates/ (or a
   new asylum folder); once held, the admission date may enter prose. The Kent Archives enquiry (reception order, case
-  book) is then optional: Rik to decide whether to send it.
+  book) is then optional: Rik to decide whether to send it. [SUPERSEDED later on 10 October 2026: Rik verified the
+  image on Ancestry and ruled the date usable without a saved copy (RULINGS, H, below); the Kent enquiry was sent.]
 - BAPTISMS (Rik, 10 October 2026): No. 833 is Eliza Jane, baptised the same day as Lilian, Saturday 17 October
   1891 (transcribed/Eliza_Jane_Madams_baptism_1891_transcription.txt). For movement one, in date order: the census
   (5 April); Eliza Jane's birth at Harbour Place (16 September); both daughters baptised on one day, parents entered
@@ -449,3 +458,7 @@ mother's registration of it (19 May 1890), then the 1891 census; N (a), "Elizabe
 Stock" quoted in full at the 1890 registration only, the 1891 one said to use the same words; O (a), Beach Alley named
 at the birth and at the death, nothing between. Still waiting before drafting: a source for the Warspite (Caird
 Library reply), and Kent Archives' reply (optional; not needed for drafting).
+
+## RULING, 12 OCTOBER 2026 (Rik)
+Draft movements one and three now; movement two (the bench, the boots, the Warspite) waits for a source for the
+Warspite (Caird Library). Each movement shown before the next.

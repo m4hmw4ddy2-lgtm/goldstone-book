@@ -256,7 +256,7 @@ https://first100years.org.uk/abolishing-juries-of-matrons/
 ## The three tribunals, verified for the Chapter Ten explanatory paragraph (24 September 2026)
 Rik asked for a short paragraph, placed at the head of Chapter Ten's movement two, explaining the process to
 the reader before the book moves between the magistrates, the inquest and the Old Bailey. Draft at
-`chapters/CHAPTER_10_INSERT_process.md`. What each claim in it rests on:
+`chapters/CHAPTER_10_INSERT_process.md` [temporary drafting file, never in the repo; whatever of it was kept is in chapters/CHAPTER_10.md (noted 11 October 2026)]. What each claim in it rests on:
 
 - **Why an Essex case went to the Old Bailey.** The Central Criminal Court Act 1834, section II, gave the new
   court jurisdiction over "all Treasons, Murders, Felonies, and Misdemeanors" committed in the City, Middlesex

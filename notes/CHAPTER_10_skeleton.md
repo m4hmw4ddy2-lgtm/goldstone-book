@@ -313,7 +313,7 @@ newspapers.
 
 ## Movement three drafted, 23 September 2026
 
-About 990 words, `chapters/CHAPTER_10_DRAFT_movement3.md`, untracked.
+About 990 words, `chapters/CHAPTER_10_DRAFT_movement3.md`, untracked. [temporary drafting file, never in the repo; its text was assembled into chapters/CHAPTER_10.md (noted 11 October 2026)]
 
 Told as the Daily Chronicle's report, per the decision of 22 September, named and dated at
 the head of the movement, and reordered into chronological sequence: the Chronicle prints
@@ -365,7 +365,7 @@ instruction for the whole second half of the book.
 
 **Chapter Eleven: Monday the thirteenth.** The old movements five and six, renumbered as Chapter
 Eleven's movements one and two, and to be drafted as `chapters/CHAPTER_11_DRAFT_movement1.md` and
-`..._movement2.md`. One day, one place: five coffins of stained elm at noon, the same cemetery at
+`..._movement2.md` [temporary drafting file, never in the repo; its text was assembled into chapters/CHAPTER_11.md (noted 11 October 2026)]. One day, one place: five coffins of stained elm at noon, the same cemetery at
 three o'clock, and the grave being filled in outside while the jury returns wilful murder. About
 2,500 words.
 

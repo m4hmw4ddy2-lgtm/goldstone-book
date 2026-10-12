@@ -10,13 +10,11 @@
 - **Linda Neaves, and her late sister Sue (Susan Neaves).** Oral history, including the Edam cheese story and
   the Chatham ropery foreman detail. Recorded: `notes/dramatis_personae.md` (Doris May Goldstone's entry);
   project memory. *Sue's name needs Linda's wishes before it is printed.*
-- **Kasia Ferguson.** Took a MyHeritage DNA test for the project. Recorded: project memory. *Rik to decide
-  whether this belongs under help with the research or in a personal note.*
 
 ### DNA matches and descendants
 - **Bronwyn Joule**, descendant of Eliza Jane Madams (emigrated to New Zealand, 1927). The MyHeritage match,
-  found 10 September 2026, that confirms the Stock/Gouldstone/Madams chain genetically. Recorded:
-  `notes/rik_voice_elizabeth_22sep2026.md`. *Contact status to confirm; letter drafted.*
+  found 10 September 2026, that, with the documents, proves Elizabeth's identity across Stock, Gouldstone and Madams (77.6 cM; dramatis, Eliza Jane Madams). Recorded:
+  `notes/rik_voice_elizabeth_22sep2026.md`. *Contact: Rik wrote to her about October 2025 (Rik, 12 October 2026: "a year ago"); no reply. That letter called William's sentence "commuted to life in Broadmoor" (he was respited, certified insane and sent to Broadmoor). (12 October 2026: one question for her, if contacted: does she have DNA matches related to her through the Madams family only? See dramatis, Eliza Jane Madams.)*
 - **Charlotte** (Ancestry contact). Letter drafted, status unknown. *Hold until she has replied and helped.*
 
 ### Archivists
@@ -109,6 +107,6 @@ documents later show.
 - **National Maritime Museum, Caird Library** (Marine Society archive, MSY, on loan from the Marine Society & Sea Cadets): enquiry sent by Rik, 10 October 2026, for Albert's entry on the training ship Warspite, April 1901 (live_lists 4, item 45; text in correspondence/Caird_Library_Warspite_enquiry_2026-10-10.md). If they help, the credit line may need the Marine Society & Sea Cadets as the owner.
 
 ## For Rik to decide
-- Whether, and how, to acknowledge research and drafting assistance from AI tools (Claude; the earlier ChatGPT work in `ChatGPT-archive/`). Some publishers now ask authors to disclose this.
+- ~~Whether, and how, to acknowledge research and drafting assistance from AI tools.~~ DECIDED 12 October 2026 (Rik): not disclosed in the acknowledgements. (Kasia's DNA test: not relevant to the book, entry removed the same day.)
 - Speakers Corner or any agent or publisher, once there is one.
 - Anyone who read drafts.

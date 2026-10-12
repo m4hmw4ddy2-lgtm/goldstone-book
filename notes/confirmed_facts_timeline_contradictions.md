@@ -244,18 +244,36 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 
 ### ELIZABETH STOCK — AFTER THE MURDERS
 
-- Could not divorce William — he was alive in Broadmoor; insanity not straightforward grounds for divorce in Victorian England
-- Legally Mrs Gouldstone until William's death in 1935
-- Disappears from the record August 1883 to June 1887
+- No divorce found (the divorce court's records, TNA J 77, are not recorded as searched: live_lists 4, item 56). That
+  she COULD not divorce him is general legal knowledge, not yet sourced in the repo: a wife's petition under the
+  Matrimonial Causes Act 1857 needed his adultery with an aggravating ground, and insanity became a ground only in
+  1937 (TO VERIFY from the statutes before prose). (Revised 11 October 2026 from "Could not divorce William ...
+  insanity not straightforward grounds", stated as fact.)
+- Legally Mrs Gouldstone for the rest of her life (no divorce found). She died first, on 29 June 1906; William died
+  on 19 January 1935. (Corrected 11 October 2026 from "until William's death in 1935", which ran her marriage
+  twenty-nine years past her own death.)
+- No document names her from 12 October 1883 (Graves's notice in the Times; her last appearance in the 1883 record) to
+  19 June 1887 (Albert's birth). (Corrected 11 October 2026 from "August 1883 to June 1887": she is in the record
+  through September and October 1883, in her statement, the Chelmsford visit and Graves's notices. PART_FOUR_plan.md,
+  finding 10; CHAPTER_17_skeleton.md, finding 7.)
 - **Albert Jennet Goldstone born 19 June 1887, Workhouse Infirmary, Brook Street, Lambeth**
-- Registered 20 June 1887 by S. Frost (infirmary staff member, almost certainly a trained nurse), present at the birth
-- Elizabeth's address at time of birth: **2 John Street, Hercules Buildings, Lambeth** — renamed Newnham Terrace in 1893 when John Street, Short Street, and Hercules Terrace were merged; site now the Park Plaza Hotel Waterloo
-- Elizabeth was **not a workhouse inmate** — she had her own address and came to the infirmary as a pauper patient through the relieving officer system to deliver
-- The infirmary on Brook Street (now Brook Drive) was approximately half a mile from Elizabeth's address at John Street
-- Elizabeth registered herself as **Elizabeth Goldston** (a version of Gouldstone — her married name; spelling variation is registrar's, not significant in itself; the significant fact is she used her married name, not Stock)
+- Registered 20 June 1887; informant "S. Frost, Present at the birth", residence the infirmary. That Frost was on the
+  infirmary's staff is inference from that residence; "trained nurse" has no source (Chapter Eighteen correction C3).
+- Elizabeth's address at time of birth: **2 John Street, Hercules Buildings, Lambeth** — renamed Newnham Terrace in 1893 when John Street, Short Street, and Hercules Terrace were merged; site now the Park Plaza Hotel Waterloo [TO VERIFY: no source in the repo; PART_FOUR_plan.md, finding 9; Chapter Eighteen correction C2. Not for prose.]
+- Elizabeth was **not a workhouse inmate** — she had her own address and came to the infirmary as a pauper patient through the relieving officer system to deliver [TO VERIFY: no source in the repo; PART_FOUR_plan.md, finding 9; Chapter Eighteen correction C2. Not for prose.]
+- The infirmary on Brook Street (now Brook Drive) was approximately half a mile from Elizabeth's address at John Street [TO VERIFY: no source in the repo; PART_FOUR_plan.md, finding 9; Chapter Eighteen correction C2. Not for prose.]
+- The mother is entered as **Elizabeth Goldston** (a version of Gouldstone, her married name, not Stock; the spelling
+  means nothing). Elizabeth did NOT register the birth: the informant was S. Frost, and who supplied the name is not
+  recorded. (Corrected 11 October 2026 from "Elizabeth registered herself as ..." and "she used her married name".)
 - Albert's middle name Jennet: origin unknown, no family precedent found in Gouldstone, Stock, or Suckling lines (Sarah, Edward Suckling's wife's own surname is itself unconfirmed — see genealogy corrections below) — open question
-- Cohabited with William James Madams in Whitstable from approximately 1888
-- Died July 1906, aged 51. Registered Blean district, Kent — NOT a confirmed specific place of death (the district covers several parishes near Canterbury; see Contradiction 12)
+- With William James Madams in Whitstable by 7 April 1890, when Lilian was born at Beach Alley (GRO birth entry No. 398):
+  the first document placing her there. "From approximately 1888", carried here until 11 October 2026, is WITHDRAWN:
+  an Ancestry tree estimate with no source (CHAPTER_19_skeleton.md, settled 1; correction E2).
+- Died 29 June 1906, Beach Alley, Whitstable; registered 2 July 1906 (GRO death certificate;
+  transcribed/Elizabeth_Madams_death_certificate_1906_transcription.txt). Age on the certificate 47; 51 by her birth
+  certificate (Contradiction 89). (Corrected 11 October 2026 from "Died July 1906, aged 51. Registered Blean district,
+  Kent, NOT a confirmed specific place of death", superseded since the certificate was read on 9 September 2026; July
+  was the registration month, Blean the district. Contradiction 12.)
 
 ---
 
@@ -414,7 +432,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 14 Sep, 8.12pm | Taken to Chelmsford Prison | Essex Weekly News 21 Sep |
 | 15 Sep | William's letter from Chelmsford | Essex Weekly News; Western Daily Press 21 Sep |
 | 18 Sep (Tue) | Elizabeth sees William at Chelmsford | Her statement |
-| 19 Sep (Wed) | Elizabeth's statement first published, in a London daily not yet identified | Collation (elizabeth_statement_collation.md) |
+| 19 Sep (Wed) | Elizabeth writes her statement ("yesterday (Tuesday)"); first printed 19 or 20 September, in a London daily not yet identified (Contradiction 116; corrected 11 Oct 2026 from "first published" on the 19th) | Collation (elizabeth_statement_collation.md); Contradiction 116 |
 | 20 Sep | Grantham Robinson's public letter ("I firmly believe that he was not in his right mind") | Guardian 22 Sep |
 | 22 Sep | BMJ's first article (pp.583-585); Savage's Lancet letter of 14 Sep published | BMJ; Lancet |
 | 26 Sep (Wed) | Execution respited from 1 to 8 October, pending a medical inquiry (the Home Secretary's letter undated) | Times 26 Sep (image-checked); Manchester Guardian 26 Sep, p. 5 (identified 10 Oct 2026; not the Walthamstow and Leyton Guardian) |
@@ -430,12 +448,12 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 18 Oct (Thu) | Cole tried before Denman (Geoghegan assigned "at the request of" the judge); jury out about an hour and a half; guilty; death; later reprieved (date not held) | Times 19 Oct (date, judge; image-checked 9 Oct 2026); Old Bailey t18831015-964 (evidence; gives neither date nor judge) |
 | 21 Mar 1884 | Rev. T. H. Grantham Robinson dies, age 46 | Obituary, Church Bells |
 | 3 Apr 1881 | Census: 88 Frampton Park Road, Hackney. William G. Stone, 24, blacksmith; Elizabeth, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19 | RG 11/301, folio 94, pp. 47-48 (image read 2 Oct 2026) |
-| 1883-1887 | Elizabeth disappears from the documentary record | — |
+| 12 Oct 1883 to 19 Jun 1887 | No document names Elizabeth: from her last appearance in the 1883 record (Graves's notice, Times 12 Oct) to Albert's birth (corrected 11 Oct 2026 from "1883-1887 ... disappears") | PART_FOUR_plan.md, finding 10 |
 | 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by S. Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
-| c.1888 | Elizabeth and William Madams begin living together, Whitstable | Census; project notes |
+| ~~c.1888~~ | ~~Elizabeth and William Madams begin living together, Whitstable~~ WITHDRAWN 10 Oct 2026 (applied here 11 Oct): an unsourced Ancestry tree estimate ("MARR Abt. 1888"); no census supports it. The first document of her in Whitstable is Lilian's birth, 7 Apr 1890 | CHAPTER_19_skeleton.md, settled 1; correction E2 |
 | 7 Apr 1890 | Lilian Florence Isabel Madams born, BEACH ALLEY, Whitstable; registered Mon 19 May 1890 by "E. Madams, Mother, Beach Alley", the mother as "Elizabeth Madams late Goldstone formerly Stock"; father William Madams, General Labourer | GRO birth entry No. 398 (sources/images/birth-certificates/Lilliam Madams Birth Cert.jpg; image checked 10 Oct 2026); baptism register No. 832 gives the same date |
 | 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
-| 16 Sep 1891 | Eliza Jane Madams born, Whitstable | Birth record |
+| 16 Sep 1891 | Eliza Jane Madams born, Harbour Place, Whitstable; registered Thu 29 Oct 1891 by "E. Madams, Mother" | GRO birth entry No. 177 (transcribed/Eliza_Jane_Madams_birth_certificate_1891_transcription.txt; image checked 10 Oct 2026) |
 | 17 Oct 1891 | Lilian (No. 832) and Eliza Jane (No. 833) baptised the same day: parents "William & Elizabeth" Madams, Whitstable, father "Coal Porter" | Baptism register (unidentified; images read 10 Oct 2026) |
 | Apr 1896 (before 2 May) | William Madams summoned for irregular school attendance "in respect to his son aged eight" [Albert]; "The mother of the child pleaded poverty as the cause"; adjourned a fortnight | Herne Bay Press, 2 May 1896 (image checked 10 Oct 2026) |
 | 21 May 1898 | Albert named as Albert Madams in a Whitstable Times school-attendance warning | Whitstable Times |
@@ -443,14 +461,14 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 21 Feb 1899 | "Albert Madams" proposes a vote of thanks at the Baptist Chapel Band of Hope winter treat (town heading not on the clip: Whitstable TO CONFIRM) | Canterbury Journal, 25 Feb 1899, p. 8 (image checked 10 Oct 2026) |
 | Q3 1899 | Thomas Gouldstone dies, Saffron Walden district, age 77 (probate calendar: 21 Aug 1899) | GRO index; National Probate Calendar |
 | 29 Jul 1899 | School attendance cases heard: fine of 5s. in respect of Albert Madams (on whom not stated) | Canterbury Journal, 19 Aug 1899 (School Board of 15 Aug; image checked 10 Oct 2026) |
-| 31 Mar 1901 | Census: Middle Wall, Whitstable (number "do" under 50). William Madams, 39, harbour labourer; Elizabeth, 43, born Wethersfield; Albert, **son**, 15 (true 13), harbour labourer; Lilian, 10; Eliza, 9 | RG 13/799, folio 59, p. 25, schedule 155 (image read 2 Oct 2026) |
+| 31 Mar 1901 | Census: Middle Wall, Whitstable (schedule 155; house number written over, between 50 and 52). William Madams, 39, harbour labourer; Elizabeth, 43, born Wethersfield; Albert, **son**, 15 (true 13), harbour labourer; Lilian, 10; Eliza, 9 | RG 13/799, folio 59, p. 25, schedule 155 (image read 2 Oct 2026) |
 | 28 Mar-6 Apr 1901 | "Albert Goldstone, aged 14", basket boy on the coal vessel Christabel, sells an able seaman's sea boots (value 10s.) to a Harbour Street bootmaker for 3s. (28-30 Mar); arrested 1 Apr; St Augustine's Petty Sessions, Sat 6 Apr: pleads guilty; police court missionary offers a training ship; adjourned a week | Folkestone Chronicle, 13 Apr 1901, p. 7 (image checked 10 Oct 2026) |
 | 1-2 Apr 1901 | Elizabeth, as "Elizabeth Goldstone, of Middle Wall", at the police station on the day of Albert's arrest; locked up; Tuesday 2 April, County Police Court: drunk and disorderly at Whitstable on the 1st; fined 5s. and 10s. 3d. costs | Canterbury Journal, 6 Apr 1901 (image checked 10 Oct 2026) |
 | 2 Apr 1901 | First hearing, County Magistrates' Office, Canterbury: Albert Goldstone, 14, charged with stealing sea boots from "the brigantine Christabelle, lying in Whitstable Harbour"; on arrest "admitted having stolen the boots and sold them"; remanded to the Petty Sessions, Saturday 6 April | Whitstable Times, 6 Apr 1901 (image checked 10 Oct 2026). Differs from the Folkestone Chronicle on the vessel's name, two dates and the officer: proposed Contradiction, not entered |
 | 13 Apr 1901 | Adjourned hearing, St Augustine's Petty Sessions: Albert Goldstone bound over to come up for judgment when called upon; J. Bray, police court missionary, "having got the boy on the training-ship Warspite" | Herne Bay Press, 20 Apr 1901 (image checked 10 Oct 2026) |
-| 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 |
+| 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 (Ancestry index and register image, read by Rik 10 Oct 2026; image not saved; may be used, CHAPTER_19_skeleton.md, H) |
 | 11 Nov 1901 | Albert joins HMS Impregnable as Boy 2nd Class, as Albert Goldstone, born 19 June 1886 at "Heckenning Houzellon", Germany; twelve days before William Madams dies at Chartham (corrected 2 Oct 2026 from "19 Jun 1901", see Contradiction 90) | ADM 188/383, no. 218159 (image read 2 Oct 2026) |
-| 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | TNA MH 94/37 |
+| 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | GRO death certificate (transcribed/William_Madams_death_certificate_1901_transcription.txt; correction E4, applied 11 Oct 2026); the MH 94/37 index agrees |
 | 2 Dec 1901 | Home Office returns the depositions (ref. A31638) to the Central Criminal Court | Home Office letter, trial-docs |
 | 19 Jun 1904 | Albert's twelve-year continuous-service engagement begins, at "18" by his false birth year (year partly under an ink blot; the final 4 is legible) | ADM 188/383 |
 | 29 Jun 1906 | Elizabeth (by then using the name Madams) dies, Beach Alley, Whitstable; certificate age 47 against a birth date that makes her 51 (unresolved; do not pick one in prose). Blean is the registration district | GRO death certificate (checked 9 Sep 2026) |
@@ -802,7 +820,7 @@ Honey sets out to FETCH Twining and finds him already at the house. That only wo
 
 **Status: resolved. The gentleman is Twining.** The prose may name him.
 
-**CORRECTION TO THE TIMINGS ABOVE, 21 September 2026 (late). The identification stands; the minute-by-minute sequence does not.** The sequence above puts Twining's arrival (c.5.45) and Ada's sighting (c.5.47) AFTER the arrest. Ada's own witness statement, sworn 9 August and checked against the manuscript (image 0008), gives the opposite order: "When I went into the kitchen again I saw all three children lying all in a row on the ground... A Gentleman was present, a Chemist. The prisoner was present. I didn't hear him say anything. A Police Officer came and he took the prisoner into custody." The DT (10 Aug) and IPN (18 Aug) reports of the same evidence agree ("with a gentleman (a chemist) leaning over them... I saw a police-constable come afterwards"); the Old Bailey has William "standing there" when she comes back and the policeman arriving after; Emma Clarke saw the row and then saw William apprehended. Only the coroner deposition puts her kitchen visit after the removal, and that reads as a second look ("somebody came and felt their pulses"). The statement in withdrawn error 2 below, that "her own coroner deposition has her returning to the kitchen only after ten minutes with Elizabeth", is also wrong: the coroner deposition gives no duration; "ten minutes" is the witness statement's and "a quarter of an hour" the Old Bailey's. Revised sequence: c.5.35 Ada finds the twins and sends for a doctor, Emma runs down for the police; Ada stays with Elizabeth ten to fifteen minutes; Twining arrives; Ada and Emma go into the kitchen: the row, William standing, Twining leaning over the boys, nobody speaking; Ada returns to Elizabeth; c.5.40–5.45 Cheeseman arrives, the arrest, the bedroom, William removed; c.5.50–6.00 Honey arrives, having gone to fetch a man already there, and receives the cord; after 6, Folkard and Gould. Twining was therefore at the house before Cheeseman, which makes an earlier summons even more necessary and strengthens, rather than weakens, the identification.
+**CORRECTION TO THE TIMINGS ABOVE, 21 September 2026 (late). The identification stands; the minute-by-minute sequence does not.** The sequence above puts Twining's arrival (c.5.45) and Ada's sighting (c.5.47) AFTER the arrest. Ada's own witness statement, sworn 9 August and checked against the manuscript (image 0008), gives the opposite order: "When I went into the kitchen again I saw all three children lying all in a row on the ground... A Gentleman was present, a Chemist. The prisoner was present. I didn't hear him say anything. A Police Officer came and he took the prisoner into custody." The DT (10 Aug) and IPN (18 Aug) reports of the same evidence agree ("with a gentleman (a chemist) leaning over them... I saw a police-constable come afterwards"); the Old Bailey has William "standing there" when she comes back and the policeman arriving after; Emma Clarke saw the row and then saw William apprehended. Only the coroner deposition puts her kitchen visit after the removal, and that reads as a second look ("somebody came and felt their pulses"). The statement in withdrawn error 2 below, that "her own coroner deposition has her returning to the kitchen only after ten minutes with Elizabeth", is also wrong: the coroner deposition gives no duration; "ten minutes" is the witness statement's and "a quarter of an hour" the Old Bailey's. Revised sequence: c.5.35 Ada finds the twins and sends for a doctor, Emma runs down for the police; Ada stays with Elizabeth ten to fifteen minutes; Twining arrives; Ada and Emma go into the kitchen: the row, William standing, Twining leaning over the boys, nobody speaking; Ada returns to Elizabeth; c.5.40–5.45 Cheeseman arrives, the arrest, the bedroom, William removed; c.5.50–6.00 Honey arrives, having gone to fetch a man already there, and receives the cord; after 6, Folkard and Gould. [NOTE, 11 October 2026: the ORDER above is what the sworn accounts support; the CLOCK TIMES do not all fit together. Ten to fifteen minutes after c.5.35 is c.5.45 to 5.50, after the c.5.40 to 5.45 given for Cheeseman and the arrest, yet the kitchen visit comes before the arrest. The times are witness estimates ("ten minutes", "a quarter of an hour") and the reconstruction's own; at least one is too long or too early. Keep the sequence; give no reconstructed clock time in prose; quote a witness's estimate as that witness's.] Twining was therefore at the house before Cheeseman, which makes an earlier summons even more necessary and strengthens, rather than weakens, the identification.
 
 **Two withdrawn errors, kept for the record.**
 1. Logged first as "Twining CANNOT have been the gentleman, ruled out on chronology", reasoning that Honey had not yet gone to fetch him at ten to six. Unsound: Honey going for him at ten to six shows only that Honey did not know he was already there.
@@ -1486,8 +1504,8 @@ name, dated 20 September 1883, reprinted by the Guardian on the 22nd:
 
 **Assessment, and it is an inference, not a proof.** The BMJ of 29 September pairs "the touching narrative
 of his wife" with "the clear statement of the Vicar of the parish in which he lived". Both of those
-documents were in the public press in the week before the BMJ wrote: her statement on 20 September and his
-letter on the 20th. A medical weekly telling its readers that "no medical man can read" two documents is
+documents were in the public press in the week before the BMJ wrote: her statement (written 19 September, first
+printed 19 or 20 September: Contradiction 116) and his letter on the 20th. A medical weekly telling its readers that "no medical man can read" two documents is
 most naturally describing documents its readers could read. **If that is right, neither document is a lost
 Home Office paper**, and the project's standing description of Elizabeth's "fuller narrative to the Home
 Secretary" as the most valuable undiscovered document in the archive rests on a reading of the BMJ that
@@ -1496,7 +1514,7 @@ Elizabeth may well have written separately to Harcourt. But the simpler reading 
 side and the open question should be reframed rather than left as it stands. **Also new: a reprieve
 petition was got up in Walthamstow.** No copy is in the archive.
 
-### ELIZABETH'S STATEMENT — FIRST PUBLICATION IS WEDNESDAY 19 SEPTEMBER (heading corrected 1 October 2026; it read "Thursday 20 September", which the text below supersedes)
+### ELIZABETH'S STATEMENT — WRITTEN WEDNESDAY 19 SEPTEMBER; FIRST PRINTED 19 OR 20 SEPTEMBER (heading corrected again 11 October 2026: it read "FIRST PUBLICATION IS WEDNESDAY 19 SEPTEMBER". "Yesterday (Tuesday)" dates her WRITING, not the printing; a London morning daily would print it on the 20th, which Robinson's "this morning" fits plainly. Contradiction 116. The argument below for the 19th as the publication day does not follow.)
 The project dates it "published c.21 September" from the Essex Weekly News. **Settled as far as it can be,
 23 September 2026, after a third reprint was found in the repository.** She saw William at Chelmsford on
 Tuesday 18 September. Two of the three reprints keep "yesterday (Tuesday)" — the Western Daily Press of
@@ -3153,10 +3171,11 @@ A straight contradiction between two reports of the same cross-examination. Neit
 
 ### 88. ALBERT: "STEPSON" IN 1891, "SON" IN 1901 (logged 2 October 2026)
 - **1891 census**, 41 Harbour Street, Whitstable (RG 12/711, schedule 39): "Albert Goldstone", relation to head **Stepson**, 3.
-- **1901 census**, Middle Wall, Whitstable (RG 13/799, schedule 155): "Albert do" [Maddams], relation to head **Son**, 15.
+- **1901 census**, Middle Wall, Whitstable (RG 13/799, schedule 155): "Albert do" [Madams], relation to head **Son**, 15.
+- **1896 (added 11 October 2026 from CHAPTER_19_skeleton.md):** "William Madams was similarly summoned in respect to his son aged eight" (Herne Bay Press, 2 May 1896): a reporter's wording of a summons in Madams's name, not a document of the household's own. A third reading, between the two censuses.
 - **Birth certificate, 1887:** father's column blank. **Lambeth Workhouse register:** "Illegitimate".
 - **1901 is not neutral either:** the same entry gives his age as 15 when he was 13.
-**Assessment:** neither census settles paternity. "Stepson" fits a child born before the couple lived together and carrying another surname, whoever the father was; "son" fits a household that had stopped making the distinction. The DNA match with Bronwyn Joule cannot separate the two either (Elizabeth is common to both readings). What IS settled, by dates and not by any of these documents: Albert is not William Gouldstone's son. The project's old phrase "almost certainly the biological son of William James Madams" is withdrawn in favour of "possibly" (Rik, 2 October 2026: he does not accept Madams's paternity as certain, and the causal chain stands whoever the father was). In prose, the 1891 and 1901 entries may be set side by side without comment.
+**Assessment:** neither census settles paternity. "Stepson" fits a child born before the couple lived together and carrying another surname, whoever the father was; "son" fits a household that had stopped making the distinction. The DNA match with Bronwyn Joule cannot separate the two either (Elizabeth is common to both readings). [12 October 2026: the amount, 77.6 cM, leans weakly towards half-siblings, i.e. away from Madams as Albert's father; inference only, not decisive: dramatis, Eliza Jane Madams. Rik matches no one else with a Madams link, and has no shared matches with Bronwyn (12 Oct): evidence against Madams only if Bronwyn has Madams-only matches, which only she can see; see there.] What IS settled, by dates and not by any of these documents: Albert is not William Gouldstone's son. The project's old phrase "almost certainly the biological son of William James Madams" is withdrawn in favour of "possibly" (Rik, 2 October 2026: he does not accept Madams's paternity as certain, and the causal chain stands whoever the father was). In prose, the 1891 and 1901 entries may be set side by side without comment.
 
 ### 89. ELIZABETH'S AGE: CORRECT BEFORE 1883, UNDERSTATED AFTER (logged 2 October 2026)
 Against her birth certificate (18 February 1855): 1879 marriage 24 (correct); 1881 census 26 (correct; the website index reads "28", the image reads 26); 1891 census 34 (true 36); 1901 census 43 (true 46); 1906 death certificate 47 (true 51).
@@ -3359,6 +3378,8 @@ Emma Clarke at the Old Bailey: "the prisoner was not at home then—when he came
 confined, and that there were two—he looked strange when I told him so—he did not say anything". Chapter Six: "When
 Ada told him, he gave 'one look of anger', as the Illustrated Police News put it". Possibly both told him; possibly
 one. OPEN, for Rik (Chapter Six).
+RULED 12 October 2026 (Rik), revised the same day: FOLLOW ELIZABETH'S STATEMENT ("this is her story"). Chapter Six now has no messenger: "He went straight out of the house, and did not come back until after twelve." The IPN's "nurse" and "one look of anger" (shared copy with the Guardian of 18 August, one press witness) are out of the prose; Emma's sworn telling stays in the notes. (An Emma-based wording was proposed first and not used.)
+A THIRD ACCOUNT, noted the same day: Elizabeth's statement (Essex Weekly News, 21 September): "They were born about half-past ten, and he immediately went out of the house, and did not return till after 12." Emma: "the prisoner was not at home then—when he came in I told him". Was he in the house at the birth (Elizabeth's "immediately went out") or out already (Emma's "not at home then")? Both agree he was out until after midnight and silent when he came in. Not resolved; the prose should not need to choose.
 
 ### 114. THE SECOND COUSIN IN THE ASYLUM: CHARLES OR WILLIAM (logged 4 October 2026)
 Thomas at the Old Bailey, from the printed Sessions Paper (p. 611; the website text had dropped part of the line):
@@ -3368,3 +3389,34 @@ son named William, who had been a soldier, and who, about 21st April, 1880, was 
 (p. 614). The Times has Thomas say "William Gouldstone, a second cousin of mine". The father's evidence governs: the
 soldier was William. Also new from the page: the strait jacket is in Thomas's sworn evidence, not only the Times's.
 SETTLED for prose (William).
+
+---
+
+## CONTRADICTIONS 115 TO 117, ENTERED 11 OCTOBER 2026 (from the Chapter Sixteen and Chapter Nineteen skeletons)
+Numbering note: the Chapter Sixteen skeleton also used "117" for a BMJ reading ("of his punishment" or "of the
+sentence"), WITHDRAWN 7 October 2026 and never entered. The number 117 here is the Chapter Nineteen proposal.
+
+### 115. TUESDAY 18 SEPTEMBER: WHO VISITED WILLIAM AT CHELMSFORD (proposed 7 October 2026, CHAPTER_16_skeleton.md)
+- **Her statement** (Essex Weekly News, Western Daily Press, Guardian): "His sister and aunt accompanied me yesterday".
+- **Guardian, 22 September, unsigned paragraph:** "visited on Tuesday by the High Sheriff ... and also by his wife,
+  mother, and sister".
+**Assessment:** mother or aunt. Neither sister is named. Chapter Sixteen follows her statement ("his sister and aunt";
+DECIDE ruled 7 October 2026). OPEN on the evidence.
+
+### 116. ELIZABETH'S STATEMENT: FIRST PRINTED WEDNESDAY 19 OR THURSDAY 20 SEPTEMBER (proposed 7 October 2026)
+- "Yesterday (Tuesday)" in two of the three reprints dates her WRITING to Wednesday 19 September.
+- A London morning daily would print it on Thursday 20th, which Robinson's "in your paper this morning", in a letter
+  dated the 20th, fits plainly; an evening paper of the 19th remains possible. The Dundee Courier of the 21st prints it
+  under "The Daily Telegraph says:—" (live_lists 4, item 29), a morning paper.
+- The collation file and the old heading of the statement section above argued that "a paper writing 'yesterday
+  (Tuesday)' was published on Wednesday": that does not follow.
+**Assessment:** written Wednesday 19 September; first printed 19 or 20 September. OPEN until the original is found.
+Placement in the prose is unaffected: the statement belongs to the nineteenth, her writing day.
+
+### 117. THE SEA BOOTS: TWO REPORTS (proposed 10 October 2026, CHAPTER_19_skeleton.md)
+Whitstable Times, 6 April 1901 (first hearing) against Folkestone Chronicle, 13 April 1901 (second hearing): vessel
+"the brigantine Christabelle" / "the Christabel"; boots last seen "the previous Friday week" (22 March) / "the 23rd
+ult."; sale "the next day" / "On the 30th ult." (two days after the 28th); "Corporal Lambkin" / "P.C. Lampkin"; on
+arrest "admitted having stolen the boots and sold them" / "said the boots were at Mr. Pout's".
+**Assessment:** two reporters, two hearings; compatible on the substance. Prose uses one paper, named (Chapter
+Nineteen DECIDE C: the Folkestone Chronicle).

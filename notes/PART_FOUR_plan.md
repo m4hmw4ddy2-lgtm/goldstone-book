@@ -1,6 +1,8 @@
 # PART FOUR: "ELIZABETH". PLAN (part level), proposed and RULED 10 October 2026
 # Covers: 15 October 1883 (Broadmoor) to 29 June 1906 (her death, Whitstable). Plan only; no prose.
 # Chapter skeletons (CHAPTER_18_skeleton.md etc.) follow from this once Rik rules on the DECIDE points below.
+# [STATUS, 11 October 2026: ruled 10 October; Chapter Eighteen approved; Chapter Nineteen planned, waiting on the
+# Warspite source. Current status: live_lists.md, section 0 only.]
 # Working rules as for Part Three; the thread file (notes/elizabeth_thread_presence_as_absence.md) governs,
 # especially section 6: "After the reprieve, the record loses her entirely for four years. The documented woman
 # becomes an undocumented one."
@@ -16,7 +18,7 @@ Primary documents, every one opened and read from its image today (10 October 20
 | Document | Repo path | Read today: what it gives |
 |---|---|---|
 | Albert's birth certificate (GRO copy) | sources/images/birth-certificates/Birth Cert Albert Goldstone 1887.jpeg | No. 113; 19 June 1887, Workhouse Infirmary, Brook Street; "Albert Jennet"; Boy; father blank; mother "Elizabeth Goldston, of 2 John Street, Hercules buildings, Lambeth"; informant "[S/I/J]. Frost, Present at the birth, Workhouse Infirmary, Brook Street, Lambeth"; registered 20 June; George Hearson, Registrar |
-| Register of Births in Lambeth Workhouse, pp. 95-96 | .../Lambeth Workhouse Birth 1.png, 2.png | No. 105; June 19; Male; "Elizabeth Goldston"; Illegitimate; "When Baptized" blank; "In what Name Baptized": "Albert Jennet"; G.H. 17 births on the page (18 June to 8 July), many of them entered illegitimate (count to be made from the image before prose) |
+| Register of Births in Lambeth Workhouse, pp. 95-96 | .../Lambeth Workhouse Birth 1.png, 2.png | No. 105; June 19; Male; "Elizabeth Goldston"; Illegitimate; "When Baptized" blank; "In what Name Baptized": "Albert Jennet"; G.H. 17 births on the page (18 June to 8 July), many of them entered illegitimate (count to be made from the image before prose) [COUNTED 10 October 2026: 11 of 17 illegitimate, 3 stillborn; correction C4] |
 | 1891 census, 41 Harbour Street, Whitstable | .../census-stuff/Whitstable Census 1891.png | Schedule 39; **2 rooms**; William Madams, head, M, [30], general labourer, b. Whitstable; Elizabeth, wife, M, 34, b. Essex, Wethersfield; Albert Goldstone, **Stepson**, 3, b. London, Lambeth; Lillian Madams, daur, 11 months |
 | Eliza Jane's birth certificate (GRO copy) | .../birth-certificates/1891 Eliza Jane Madams Birth Cerificate.jpg | No. 177; 16 September 1891, **Harbour Place**, Whitstable U.S.D.; father **William Madams**, General Labourer; mother "Elizabeth Madams late Goldstone formerly Stock"; **informant "E. Madams, Mother, Harbour Place, Whitstable"**; registered 29 October 1891; Edwin Johnson |
 | Whitstable Times, 21 May 1898, p. 8 | .../albert-goldstone/Albert_Madams_attendance_warning.pdf | School Board: final warnings for irregular attendance "to be served on the parents of" several children, among them "Albert Madams" |
@@ -33,8 +35,9 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
 - 15 Oct 1883 to 19 June 1887: **nothing**. No document of any kind names her.
 - c. September 1886: Albert conceived (arithmetic from the birth; not a document).
 - 19 June 1887: Albert born, Lambeth; registered 20 June.
-- c. 1888: with William James Madams in Whitstable (MASTER_NOTES; the source for "c. 1888" is NOT stated in the notes:
-  TO SOURCE before prose. The first document placing her in Whitstable is Lilian's birth, 7 April 1890).
+- ~~c. 1888: with William James Madams in Whitstable (MASTER_NOTES; the source for "c. 1888" is NOT stated in the notes:
+  TO SOURCE before prose. The first document placing her in Whitstable is Lilian's birth, 7 April 1890).~~ WITHDRAWN
+  10 October 2026: an unsourced Ancestry tree estimate (CHAPTER_19_skeleton.md, settled 1).
 - 7 Apr 1890: Lilian Florence Isabel Madams born, Whitstable (birth record; certificate not in repo).
 - 5 Apr 1891: census, 41 Harbour Street, two rooms; Albert "Stepson".
 - 16 Sep 1891: Eliza Jane born, Harbour Place; **Elizabeth registers her herself, 29 October**.
@@ -126,7 +129,8 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
      her address and the place of birth.
    - "John Street ... renamed Newnham Terrace in 1893"; "site now the Park Plaza Hotel Waterloo"; the half mile to
      Brook Street. Source not recorded.
-   - "Cohabited with William Madams from approximately 1888". Source not recorded.
+   - "Cohabited with William Madams from approximately 1888". Source not recorded. WITHDRAWN 10 October 2026
+     (CHAPTER_19_skeleton.md, settled 1).
    - Madams's admission date, 4 September 1901 (MH 94/37: image not in the repo).
 10. **The "four missing years" are three years and eight months:** from the last 1883 record (12 October) to Albert's
    birth (19 June 1887). The book's phrase is the notes' shorthand; the prose should give dates, not a count.
@@ -185,7 +189,8 @@ the blank father's column), so Part Four must go to the documents again for what
 3. Ends on Lambeth (or on the next document, 1890).
 Estimate: 700 to 1,200 words.
 
-### Chapter Nineteen (Whitstable): 1888 (to source) to 29 June 1906
+### Chapter Nineteen (Whitstable): ~~1888 (to source)~~ 7 April 1890 to 29 June 1906 [corrected 11 October 2026: "c. 1888"
+### withdrawn; Lilian's birth at Beach Alley is the first Whitstable document]
 1. Whitstable: Lilian (1890); the 1891 census (Harbour Street, two rooms, "Stepson").
 2. **The turn: Eliza Jane's registration, 29 October 1891, Elizabeth as informant, "late Goldstone formerly Stock".**
    (MASTER_NOTES: echo of Jemima's "late Ansell, formerly Suckling", Chapter One; let the reader make it.)
@@ -250,20 +255,21 @@ itself: "Elizabeth" stands.
 **DECIDE 8. Where Part Four ends.** (a) **On her death, 1906** (recommended; Rik, 10 October). (b) On Madams's death,
 1901, her death in Part Five.
 
-## CORRECTIONS FOUND (not applied; for Rik)
+## CORRECTIONS FOUND (status on each item, 11 October 2026; unmarked = open)
 P1. [NOT APPLIED, Rik 10 Oct: spellings carry no meaning] Prologue: "His mother was recorded as Elizabeth Goldstone" reads "Goldston" on the certificate and the register.
-P2. dramatis (Albert): "the baptism column is blank": only "When Baptized" is; "In what Name Baptized" has "Albert
+P2. APPLIED 11 October 2026. Was: dramatis (Albert): "the baptism column is blank": only "When Baptized" is; "In what Name Baptized" has "Albert
     Jennet".
 P3. APPLIED 10 October 2026: "S. Frost" (Rik) in every notes file outside the archives.
-P4. dramatis (Elizabeth; Madams): add Eliza Jane's informant ("E. Madams, Mother") and "Harbour Place".
-P5. dramatis (Madams): "1901 census at 50 Middle Wall": the image shows schedule 155's number written over, between
+P4. APPLIED 11 October 2026 (Elizabeth's and Eliza Jane's entries). Was: dramatis (Elizabeth; Madams): add Eliza Jane's informant ("E. Madams, Mother") and "Harbour Place".
+P5. APPLIED 11 October 2026. Was: dramatis (Madams): "1901 census at 50 Middle Wall": the image shows schedule 155's number written over, between
     "50" and "52" (the timeline file's "'do' under 50" is nearer); leave unnumbered in prose.
-P6. MASTER_NOTES heads this material "PART SIX: ELIZABETH — THE FOUR MISSING YEARS": it is Part Four's.
+P6. APPLIED 11 October 2026 (a note at the head of MASTER_NOTES: its PART headings are file sections). Was: MASTER_NOTES heads this material "PART SIX: ELIZABETH — THE FOUR MISSING YEARS": it is Part Four's.
 
 ## SOURCES TO OBTAIN, FOR THIS PART (add to live_lists 4)
-- Lilian Madams's birth certificate (1890): the first document placing Elizabeth in Whitstable.
-- The source of "with Madams from c. 1888".
-- MH 94/37 entry image (Madams's admission, 4 September 1901).
+- ~~Lilian Madams's birth certificate (1890): the first document placing Elizabeth in Whitstable.~~ OBTAINED 10 October 2026.
+- ~~The source of "with Madams from c. 1888".~~ ANSWERED 10 October 2026: none; withdrawn.
+- ~~MH 94/37 entry image (Madams's admission, 4 September 1901).~~ Read by Rik on Ancestry, 10 October 2026; may be used
+  without a saved copy (CHAPTER_19_skeleton.md, H).
 - Kent County Asylum, Chartham: case book entry for William Madams (Kent History and Library Centre), if it survives.
 - A Whitstable directory, 1890s: Harbour Street / Harbour Place; Beach Alley (live_lists 4, item 33).
 - Lambeth: LMA LABG/174/01 (item 12); census for 2 John Street (item 13).

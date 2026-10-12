@@ -54,6 +54,10 @@ may have been literally true rather than reportorial shorthand.
    have been infected long before he met her, and Elizabeth has four undocumented years, 1883 to 1887.
    State only that both died of the same disease after thirteen years together. This is a note about the
    ordering of two clauses, not about whether the fact is true.
+   **[11 October 2026: "thirteen years together" rested on the withdrawn "c. 1888"; the documents show them together
+   from April 1890 to his death in November 1901. The undocumented stretch runs from 12 October 1883 to 19 June 1887.
+   Chapter Nineteen DECIDE J now has the prose say plainly that both died of the same disease, never who gave it to
+   whom.]**
 2. **She did not die alone.** The informant on the certificate is Lilian Madams, her daughter, "present at
    death", same address, Beach Alley, Whitstable. The paragraph ends in isolation, and this one detail in
    the record cuts against it. Worth knowing before deciding whether to use it.
@@ -68,6 +72,9 @@ may have been literally true rather than reportorial shorthand.
    1927. Her descendant Bronwyn Joule is the MyHeritage match, found 10 September 2026, that proves the
    Stock/Gouldstone/Madams identity chain genetically rather than documentarily. The woman whose history
    was buried and reinvented is the one the DNA confirms.
+   **[12 October 2026, ruled with Rik: PROVEN, by the DNA and the documents together. The match (77.6 cM) shows Albert
+   and Eliza Jane had the same mother; her own "late Goldstone formerly Stock" shows the mother was Elizabeth Stock. It
+   cannot show whether they also shared a father. See dramatis, Eliza Jane Madams.]**
 
 ## Two typos, flagged and deliberately not fixed in the text above
 

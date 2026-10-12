@@ -359,13 +359,13 @@ exact sum lost.
 None new. Finding 1 is a sourcing error in the notes, not a conflict between sources (CORRECTION H). Contradictions
 115 and 116 (CHAPTER_16_skeleton.md) are still to be entered.
 
-## CORRECTIONS FOUND (NOT APPLIED; for Rik)
+## CORRECTIONS FOUND (status on each item, 11 October 2026; unmarked = open)
 H. **APPLIED 9 October 2026** (timeline row, dramatis entry and master-index now cite the Times of 19 October;
    live_lists item 38 annotated). Was: **Cole's date and judge.** Timeline dates table, row "18 Oct | Cole tried before Denman; convicted; later
    reprieved", cites "Old Bailey t18831015-964"; dramatis_personae.md, Cole's entry, the same. The held Old Bailey text
    has neither the day nor the judge; both are Clark Bell's (Medico-Legal Journal, December 1884, p. 349). Add Bell to
    the citation, and "contemporary confirmation wanted" until a London daily of 19 October is held.
-I. **`transcribed/BMJ_6_October_1883_Transcription.txt`, old notes (KEY DETAILS 1, 3, 5)**: "He came home with a piece
+I. **APPLIED 11 October 2026** (withdrawal notice and inline markers in both files). Was: **`transcribed/BMJ_6_October_1883_Transcription.txt`, old notes (KEY DETAILS 1, 3, 5)**: "He came home with a piece
    of cord in his pocket", the cord "brought for himself" (against the DO NOT USE noose entry, and MASTER_NOTES's own
    correction of 18 September); "Elizabeth is the source ... the narrative she gave to the Home Office"; "The BMJ's
    characterisation of Elizabeth" (it is the Times's, copied). The header says to read them with the 3 October finding,
@@ -373,9 +373,9 @@ I. **`transcribed/BMJ_6_October_1883_Transcription.txt`, old notes (KEY DETAILS 
    `BMJ_6_October_1883_pp682-683_Transcription.txt`, old note 6: "Savage's ten-minute examination" (finding 11).
 J. **APPLIED 10 October 2026.** Was: **Timeline dates table, 26 Sep row**, cites only "Guardian 26 Sep" (unidentified). Add the Times of 26 September
    (image-checked, named).
-K. **live_lists.md, section 6**: add the Times 11 Oct / Preston Chronicle 13 Oct paragraph as shared copy (one
+K. **APPLIED 10 October 2026** (section 6 already lists the pair). Was: **live_lists.md, section 6**: add the Times 11 Oct / Preston Chronicle 13 Oct paragraph as shared copy (one
    witness). (The Penny Illustrated's copy of the Times of 1 October is already listed there.)
-L. **live_lists.md, section 4 (sources to obtain)**: add the Essex Weekly News (or another Chelmsford paper) for 28
+L. **APPLIED 11 October 2026** (item 57). Was: **live_lists.md, section 4 (sources to obtain)**: add the Essex Weekly News (or another Chelmsford paper) for 28
    September to 19 October; the Walthamstow and Leyton Guardian of 6 and 13 October; a London daily of 19 October on
    Cole (fold into item 38).
 M. Old Bailey t18831015-964: the chief warder gives Cole's violence in prison as "15th September" and then "30th

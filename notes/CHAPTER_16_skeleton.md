@@ -1,7 +1,8 @@
 # CHAPTER SIXTEEN: SKELETON (after the verdict: Friday night, 14 September 1883, onwards)
 # STATUS, 9 October 2026: CHAPTER SIXTEEN DRAFTED IN FULL AND APPROVED (Rik: "ok, approved"), chapters/CHAPTER_16.md,
 # "AS HAPPY AS A CHILD AT PLAY", about 3,490 words, four movements. Chapter Seventeen ("Until Further Signification")
-# next: outlined below, to be planned in its own pass.
+# next: outlined below, to be planned in its own pass [DONE: CHAPTER_17_skeleton.md; Chapter Seventeen approved
+# 10 October 2026. Current status: live_lists.md, section 0].
 # (Earlier status, 7 October: planned; all DECIDE points ruled, all recommendations but DECIDE 3 and 14.)
 # Fixed before planning: the chapter opens with Savage's Lancet letter, dated 14 September (CHAPTER_14_skeleton.md, DECIDE 3a).
 # Working rules as for Chapter Fifteen, with the reported-speech method (CHAPTER_14_skeleton.md, "CHAPTER FIFTEEN
@@ -368,7 +369,7 @@ Dundee Courier; the Guardian of 29th; the Sunday Dispatch; the BMJ items are now
 
 ---
 
-## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (NOT YET ENTERED)
+## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (115 and 116 ENTERED 11 October 2026)
 - **115. Tuesday 18 September: who visited.** "His sister and aunt accompanied me yesterday" (her statement: Essex Weekly
   News, Western Daily Press, Guardian) against "visited on Tuesday by the High Sheriff ... and also by his wife, mother,
   and sister" (Guardian 22 Sep, unsigned paragraph). Mother or aunt. Neither sister is named.
@@ -381,7 +382,7 @@ Dundee Courier; the Guardian of 29th; the Sunday Dispatch; the BMJ items are now
 - ~~117. The BMJ of 29 September: "of his punishment" or "of the sentence".~~ WITHDRAWN 7 October 2026: the page reads
   "of his punishment"; the two papers' "of the sentence" is their variant inside their own quotation marks (finding 10).
 
-## CORRECTIONS FOUND (NOT APPLIED; for Rik)
+## CORRECTIONS FOUND (status on each item, 11 October 2026; unmarked = open)
 A. APPLIED 8 October 2026 (transcription corrected, header records the check, the stale lines below fixed). Was: **Essex Weekly News, 21 September, transcription: "In height he stands 5ft. 6in." reads "5ft. 4in."** on the image
    (`sources/images/Media-coverage/Essex weekly News Sep 21 1883.png`, checked 7 October 2026, the Chelmsford paragraph
    from "night, having been brought down" to "would repeat it at the service in", every line). Also "O let the sorrowful"
@@ -392,13 +393,13 @@ A. APPLIED 8 October 2026 (transcription corrected, header records the check, th
 B. APPLIED 7 October 2026 (the file is retranscribed and its old notes flagged). Was: `transcribed/BMJ_29_September_1883_Transcription.txt`, KEY DETAILS: "responsible for William for the next fifty-two
    years" (DO NOT USE twice over); "THE VICAR'S STATEMENT ... HAS NOT BEEN FOUND" (superseded: Robinson's letter of 20
    September, Guardian 22nd); Gover as the probable examiner (Clarke: Contradiction 20).
-C. `notes/elizabeth_thread_presence_as_absence.md`, section 6: "When Part Three reaches c.21 September" should read
+C. APPLIED (section 6 now reads "19 September (her writing day)"). Was: `notes/elizabeth_thread_presence_as_absence.md`, section 6: "When Part Three reaches c.21 September" should read
    the nineteenth (her writing day; Contradiction 116).
-D. Timeline, the Robinson entry: "her statement on 20 September" against the heading's 19th (Contradiction 116).
-E. Project instructions, Chapter Fifteen's "Still to plan": "Elizabeth's statement (with the heaven letter ...)": the
+D. APPLIED 11 October 2026. Was: Timeline, the Robinson entry: "her statement on 20 September" against the heading's 19th (Contradiction 116).
+E. NO LONGER APPLIES (checked 12 October 2026): the project instructions lost their chapter-status section on 9 October, and they now name "William's letter of 15 September and Elizabeth's statement" correctly. Was: Project instructions, Chapter Fifteen's "Still to plan": "Elizabeth's statement (with the heaven letter ...)": the
    letter quoted is the one dated 15 September; the heaven letter is known only from her sentence (finding 5).
 F. APPLIED 10 October 2026: identified as the Manchester Guardian, 26 Sep, p. 5 (Rik's Newspapers.com clipping); dates table, master-index and the transcription header corrected. Was: master-index.md and the dates table: "Guardian 26 Sep" is not the Walthamstow and Leyton Guardian (finding 9).
-G. live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respite paragraph as shared copy
+G. APPLIED 11 October 2026. Was: live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respite paragraph as shared copy
    (finding 11); and the Essex Weekly News / Guardian Chelmsford paragraph (already noted in Contradiction 53, not in
    the list).
 

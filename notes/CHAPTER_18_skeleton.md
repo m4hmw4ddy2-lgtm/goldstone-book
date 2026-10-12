@@ -1,7 +1,8 @@
 # CHAPTER EIGHTEEN: SKELETON ("ILLEGITIMATE": Lambeth, 12 October 1883 to 20 June 1887)
 # STATUS, 10 October 2026: DRAFTED AND APPROVED (Rik: "approved. it's a chapter"), chapters/CHAPTER_18.md, about
 # 300 words, one movement; DECIDE A confirmed (a chapter, not an overture). Earlier the same day: PLANNED. ALL DECIDE POINTS RULED (Rik): A, B, C, D, F, G, H as recommended; E option (b),
-# the address given once. See DECISIONS at the foot. Next: draft, one movement. No prose yet.
+# the address given once. See DECISIONS at the foot. Next: draft, one movement. No prose yet. [Superseded by the
+# status line above: drafted and approved the same day.]
 # Part Four plan ruled 10 October 2026 (notes/PART_FOUR_plan.md, all recommendations accepted): two chapters; open on
 # the register page of 19 June 1887 with nothing before it; the Prologue not retold; nothing in prose without a
 # source in the repo (so no relieving officers, trained nurses, Newnham Terrace, hotel, or Frost's "trade"); the
@@ -156,7 +157,7 @@ Jubilee celebrations of that week are general knowledge with no source in the re
 **DECIDE H. Movements.** (a) **One movement, shown whole** (recommended at this length). (b) Two: the page; the
 registration.
 
-## CORRECTIONS FOUND (NOT APPLIED; for Rik)
+## CORRECTIONS FOUND (C1 to C5 APPLIED 11 October 2026)
 C1. dramatis (Albert): "the baptism column is blank": only "When Baptized" is, and it is blank for all 17 entries on
     the opening (extends P2 in PART_FOUR_plan.md).
 C2. dramatis (Albert): "(now Park Plaza Hotel Waterloo)" stated as fact; timeline file 252-254 and MASTER_NOTES 551-556
@@ -200,7 +201,7 @@ C5. master-index.md, line 649: "S. Frost (NOT S Frost as in earlier notes ...)" 
 - F (a): ends on the registration: the informant's "Present at the birth" and George Hearson, Registrar.
 - G (a): "Sunday" for 19 June 1887 may be used if a sentence needs it; the Golden Jubilee stays out.
 - H (a): one movement, shown whole.
-- Corrections C1 to C5: not yet ruled; not applied.
+- Corrections C1 to C5: APPLIED 11 October 2026 (notes only; no prose touched).
 
 ## DRAFTING (held locally in chapters/CHAPTER_18.md until the chapter is approved)
 - 10 October 2026: drafted, one movement, about 310 words (under the 400-650 estimate: the selection under B to F

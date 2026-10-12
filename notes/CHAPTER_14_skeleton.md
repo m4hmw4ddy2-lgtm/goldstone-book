@@ -1,11 +1,13 @@
 # CHAPTER FOURTEEN: SKELETON (the trial, Friday 14 September 1883)
 # STATUS, 4 October 2026: CHAPTER FOURTEEN DRAFTED IN FULL AND APPROVED (Rik: "14 is good to go"), chapters/CHAPTER_14.md,
-# "WILLIAM, ARE YOU WELL?" (retitled 4 October 2026 from "Mere Fitting Up"; DECIDE 14 amended), about 2,700 words, four movements. Chapter Fifteen ("The Form of Their Verdict") next.
+# "WILLIAM, ARE YOU WELL?" (retitled 4 October 2026 from "Mere Fitting Up"; DECIDE 14 amended), about 2,700 words, four movements. Chapter Fifteen ("The Form of Their Verdict") next [DONE: approved 7 October 2026; speech
+# passages of this chapter revised on its model the same day, approved. Current status: live_lists.md, section 0].
 # (Earlier status, 3 October 2026: proposed; all DECIDE points then accepted as recommended, see below.)
 # First proposed 3 October 2026, after a full source sweep for Friday 14 September and the days that report it.
 # Companion files: notes/elizabeth_thread_presence_as_absence.md, notes/part_three_context_law_and_medicine.md,
 # notes/CHAPTER_12_skeleton.md ("CHAPTER THIRTEEN ASSEMBLED"), notes/confirmed_facts_timeline_contradictions.md.
 # Contradictions 93 to 101 are PROPOSED at the foot of this file and have NOT been entered in the timeline file.
+# [11 October 2026: they HAVE been entered; 93 to 112 are in the timeline file.]
 
 ## WHAT WAS READ FOR THIS SKELETON
 
@@ -43,7 +45,7 @@ Every source for the trial day, in full:
   full: his account of the trial (taken, he says, from the Times), Savage's Times and Telegraph letters, the
   foreman's "card", Tallack's and Wood's letters, Savage's Journal of Mental Science review (January 1884), and
   Tuke on Gouldstone and Cole.
-- **Bucknill, BMJ 15 March 1884** (`sources/images/BMJ Lecture 1-4.png`, read from the images): quotes Day's charge.
+- **Bucknill, BMJ 15 March 1884** (`sources/images/BMJ Lecture 1.png` to `BMJ Lecture 4.png`, read from the images): quotes Day's charge.
 - Also read for the days after: Times 19 and 21 September (Wood; the Law Times), Guardian 29 September (the Law
   Times again), Daily News 22 September, Guardian 26 September, Glasgow Herald and Kirkcudbrightshire Advertiser
   28 September, Sunday Dispatch 30 September.
