@@ -1294,7 +1294,7 @@ witness portraits. Next chapter: the trial (Chapter Fourteen), not yet planned.
   I am ready for the rope."), Grain's opening, the delay and Savage's evidence ("in the offspring", not "in the
   prisoner").
 - Contradictions 113 (who told William of the twins) and 114 (the asylum cousin, Charles or William) logged.
-- Back matter settled (Rik): family tree; "People in This Story" (selective, birth years only); notes. See live_lists.md.
+- Back matter settled (Rik): family tree; "People in This Story" (selective, birth years only); notes. See live_lists.md. [12 October 2026 (Rik): the first tree stands at the front, before the Prologue, and the second before Part Four; neither is back matter. live_lists.md, section 0.]
 
 ## SESSION, 4 TO 7 OCTOBER 2026: CHAPTER FIFTEEN DRAFTED AND APPROVED; NEW PROLOGUE
 - `chapters/CHAPTER_15.md`, "THE FORM OF THEIR VERDICT", about 1,410 words (Rik, 7 October: "this is done"). Every

@@ -480,3 +480,7 @@ only if a DECIDE point brings them in: the Kirkcudbrightshire Advertiser (DECIDE
 - **APPROVED 10 October 2026** (Rik). Final tics pass: two day-openings recast ("The Home Office wrote on the Wednesday";
   "A notice ... that Friday"). Unattributed lines from press reports of sworn evidence in the whole chapter: none.
 - After approval, 10 October 2026: Rik edited movement one directly on GitHub: "At least one paper was against it." (we hold only one voice against; others may exist).
+
+## PLACEMENT OF THE SECOND FAMILY TREE (Rik, 12 October 2026)
+"From Elizabeth to the author" stands at the end of this chapter, after its last line and before the title page of
+Part Four. Nothing in the chapter text changes. (live_lists.md, section 0, PLACEMENT.)

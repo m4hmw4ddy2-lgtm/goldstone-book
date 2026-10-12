@@ -34,7 +34,7 @@ skeleton named for each chapter.
 | Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen PLANNED 10 Oct 2026: DECIDE A-H ruled (E option b; rest as recommended). APPROVED 10 Oct 2026 (one movement, about 300 words; Rik: "it's a chapter"). Chapter Nineteen PLANNED 10 Oct 2026 (CHAPTER_19_skeleton.md): DECIDE A-O ALL RULED 10 Oct 2026 (A reopened and ruled: open on Lilian's birth at Beach Alley, 1890); earlier: DECIDE A-M ruled (A (a) resolved; F option c, H option c, J and L revised). Beach Alley located (modern map held). Before drafting: the Warspite source only (Caird Library enquiry sent 10 Oct). No longer required (Rik, 10 Oct): the MH 94 image (H: date usable, read by Rik) and the J papers in the repo ("we have the origin") | PART_FOUR_plan.md; CHAPTER_18_skeleton.md; CHAPTER_19_skeleton.md |
 | Parts Four (after its opening) to Six, Coda | | Not begun | MASTER_NOTES |
 
-PLACEMENT, ruled 12 October 2026: the second family tree ("From Elizabeth to the author") stands at the head of Part Five; the first stays in the back matter.
+PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second family tree ("From Elizabeth to the author") stands at the end of Chapter Seventeen, before the title page of Part Four, so that the reader has it just before meeting Part Four's people, as with the first tree. (First ruling, superseded: the head of Part Five.) The first tree ("Two families, to 1883") stands at the front of the book, before the Prologue (Rik, 12 October 2026: "so the reader knows it is there from the outset"; the notes had said back matter). Each tree stands where its people are about to appear.
 
 ## 1. DECISIONS WAITING FOR RIK
 - (10 October 2026) Chapter Nineteen DECIDE A to O ALL RULED (CHAPTER_19_skeleton.md, DECISIONS and the foot). SETTLED
@@ -80,7 +80,8 @@ PLACEMENT, ruled 12 October 2026: the second family tree ("From Elizabeth to the
 - (7 October 2026) Chapter Fifteen DRAFTED AND APPROVED. Chapter Fourteen's speech passages revised on the
   Chapter Fifteen model the same day (approved). Next: plan the chapter after (Savage's Lancet letter of 14 September opens it) (DONE: Chapter Sixteen, approved 9 Oct). ~~Undecided: where
   the second family tree goes (head of Part Five proposed) and its title ("From Elizabeth to the author").~~ RULED 12 October
-  2026 (Rik): at the head of Part Five; title "From Elizabeth to the author". The first tree stays in the back matter.
+  2026 (Rik): title "From Elizabeth to the author"; placed at the end of Chapter Seventeen, before Part Four's title page
+  (revised the same day from the head of Part Five; section 0, PLACEMENT).
 - None as of 3 October 2026. Chapter Fourteen DECIDE 1 to 15 and the chapter decisions 17 to 30 were all accepted as
   recommended (Rik: "I accept your recommends on all decisions"); 16 was replaced by 28; 23 ("Open the door.", optional)
   was not used. Record: MASTER_NOTES, session of 3 October 2026. Chapter Fourteen drafted and approved 4 October
@@ -200,7 +201,10 @@ PLACEMENT, ruled 12 October 2026: the second family tree ("From Elizabeth to the
   not ...", short reversals at paragraph ends); a repetition check on Chapters Seven and Eight, cutting only repeats
   that carry no disagreement and no new viewpoint. Keep the Prologue as it is; keep every point where sources
   disagree; keep the author's presence scarce; keep the weight on Elizabeth.
-- (Added 4 October 2026, Rik; settled the same day.) BACK MATTER, in this order: (1) a family tree; (2) "People in
+- (Added 4 October 2026, Rik; settled the same day.) [12 October 2026 (Rik): the first family tree is NOT back matter:
+  it stands at the front of the book, before the Prologue, "so the reader knows it is there from the outset". The
+  notes had recorded it as back matter since 4 October; corrected on Rik's word. The back matter is now "People in This
+  Story", then notes, sources, acknowledgements.] BACK MATTER, in this order: (1) a family tree; (2) "People in
   This Story" (not "List of Characters", which sounds fictional); (3) notes, sources, acknowledgements. "People in
   This Story": selective, 15 to 25 people, grouped loosely (families / witnesses / officials / later family), one line
   each, birth year only (or baptism year, or "c."), no death years. Draft: backmatter/PEOPLE_IN_THIS_STORY.md (a list, not a table: name in bold with year, the description on the line below). Family trees
