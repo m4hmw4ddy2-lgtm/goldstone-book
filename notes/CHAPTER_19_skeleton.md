@@ -513,3 +513,53 @@ Warspite (Caird Library). Each movement shown before the next.
   record; not for prose or notes).
 - 12 October 2026: chapter sent to Rik for upload ("gimme the files"), with the Warspite placeholder still in brackets.
   Status in live_lists 0.
+- 12 October 2026, Rik's revision of the 1891 paragraphs taken verbatim ("the family"; "just seventeen months after her
+  sister" (7 April 1890 to 16 September 1891: checked); "baptised together one month later ... in the baptism book";
+  "the year before"). A doubled space removed; the pasted text was repeated twice and is used once.
+- 12 October 2026, Rik ("summoned by whom?"): now "the School Board at Whitstable summoned William Madams". Source: the
+  item's heading, "WHITSTABLE: SCHOOL BOARD SUMMONSES." (Herne Bay Press, 2 May 1896). The court is not named there.
+- 12 October 2026, Rik: "the same terms as the one before it" pointed at the Castles' case, which the chapter leaves
+  out. Now "The bench adjourned it for a fortnight to see whether his attendance improved." (the paper: dealt with "on
+  the same conditions as the previous one", i.e. adjourned a fortnight to see if the child attended more regularly).
+- 12 October 2026, Rik: verb restored, "and in June it ordered legal proceedings against them".
+- 12 October 2026, Rik: too many paragraph and sentence openings on "In [year]" in the 1896-99 paragraphs. Recast
+  with the dates moved inside the sentences; "ordered" kept for 1898 (the paper's word; whether proceedings were taken
+  is not known); "a year after that" (June 1898 to July 1899) does not imply the 1899 fine came from the 1898 order.
+- 12 October 2026, Rik: "at work" led straight into "his case". Bridge added: "Within a few weeks he was in court,
+  charged with stealing a pair of sea boots" (Folkestone Chronicle, 13 April 1901: "charged on remand with stealing a
+  pair of sea boots"; arrested 1 April, first hearing 2 April).
+- 12 October 2026, Rik: the turn to the boots' owner marked, "But the boots belonged to Alfred Baker" ("But", not
+  "However": voice gate).
+- 12 October 2026, Rik queried the arrest sentence (day opening; "who told him" unclear). Now: "A constable arrested
+  him the next day, Monday the first of April. Albert told the constable the boots were at Mr Pout's, and there Mrs
+  Pout handed them over." (Folkestone Chronicle: P.C. Lampkin arrested him on the 1st, "when he said the boots were at
+  Mr. Pout's. On going there Mrs. Pout handed him the boots.") No question reconstructed.
+- 12 October 2026, Rik: "We already knew the boots were there" (Pout had bought them). The boots-at-Pout's clause cut;
+  the arrest sentence joined to the opening of the Canterbury Journal paragraph.
+- 12 October 2026, Rik: the charge named at the arrest, "on a charge of stealing them" (Folkestone Chronicle: "charged
+  ... with stealing a pair of sea boots, value 10s., the property of Alfred Baker"; arrested 1 April by P.C. Lampkin).
+- 12 October 2026, Rik: "enlisted"; and Impregnable was a training ship, so the sentence should not read as if he chose
+  her. Now: "Albert enlisted in the Royal Navy on the eleventh of November, as Albert Goldstone, and was entered as a boy
+  second class on the training ship Impregnable." "Choosing to revert to his birth name" NOT taken: he was already
+  "Albert Goldstone" in court in April 1901 (and in 1891); his birth entry reads "Albert Jennet", "Goldston"; and
+  "choosing" is a motive (Part Five examines what he told the Navy). GENERAL KNOWLEDGE TO RECORD: Impregnable as the
+  boys' training ship at Devonport in 1901 (the naval record gives "Impregnable" as his first ship, Boy 2nd Class,
+  from 11 Nov 01; the Ancestry tree has "TS Impregnable, Devonport"). To confirm from a period source (Navy List, 1901)
+  before the chapter is final.
+- 12 October 2026, Rik's full revised text taken verbatim (attachment), with only: curly quotation marks made straight to
+  match the manuscript; a doubled full stop removed. It takes: FitzGerald cut and Madams's informant shortened ("the
+  death was registered by the asylum's clerk"); the death paragraph reordered, Lilian's paragraph last with "Widow of
+  William Madams" as her words; the arrest as its own paragraph with the charge quoted from the Folkestone Chronicle
+  ("with stealing a pair of sea boots, value 10s., the property of Alfred Baker": checked against the transcription);
+  "Albert was now his 'Son'". Flagged to Rik: "charges" (plural) in the Canterbury Journal sentence, where there was
+  one charge; the charge given twice (bridge sentence and arrest paragraph).
+- 12 October 2026, Rik's tiny edit taken: "The reports in both years call him \"Albert Madams\"" (stray apostrophe after
+  "years" removed). Heading kept in the manuscript's form ("Chapter Nineteen" / "LATE GOLDSTONE FORMERLY STOCK"), as
+  Chapter Eighteen.
+- 12 October 2026, Rik: "through the charge that was laid against her" (singular). The charge given twice (bridge and
+  arrest paragraph): left as it is unless Rik rules otherwise.
+- 12 October 2026, Rik: bridge trimmed ("Within a few weeks he was in court, and the Folkestone Chronicle's report...");
+  the charge is now given once, quoted, in the arrest paragraph.
+- 12 October 2026: APPROVED (Rik: "Final"). Rik's final copy matches the manuscript except one stray apostrophe ("both
+  years' "), kept out. Still open: the Warspite sentences (Caird Library), and the Impregnable "training ship" check
+  (1901 Navy List). Status in live_lists 0.
