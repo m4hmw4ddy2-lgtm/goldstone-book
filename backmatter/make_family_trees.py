@@ -77,7 +77,7 @@ t.out("backmatter/family_tree_1_to_1883.svg","Two families, to 1883")
 
 # ---------------- TREE 2 ----------------
 u=SVG(1300,900)
-u.text(650,42,"Elizabeth’s later family",24)
+u.text(650,42,"From Elizabeth to the author",24)  # title ruled 12 October 2026 (Rik); tree placed at the head of Part Five
 Q0,Q1,Q2,Q3,Q4=110,280,450,620,790
 u.node(650,Q0,[("Elizabeth Stock","name"),("b. 1855","date"),("married William Gouldstone, 1879","note")],bold=True)
 # unnamed father
@@ -86,7 +86,8 @@ u.line(410,Q0-5,580,Q0-5,dash=True)
 u.line(495,Q0-5,495,Q1-22)
 u.node(495,Q1,[("Albert Jennet Goldstone","name"),("b. 1887","date"),("m. 1910 Clarie Irene Setterington, b. 1889","note")],bold=True)
 # Madams
-u.node(1000,Q0,[("William James Madams","name"),("b. 1860","date"),("together from c.1888","note")])
+# "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_19_skeleton.md, settled 1)
+u.node(1000,Q0,[("William James Madams","name"),("b. 1860","date")])
 u.double(720,910,Q0-5); u.line(815,Q0-3,815,Q1-55)
 mx=[750,950]
 kids(u,mx,Q1-55,Q1-22)
@@ -107,4 +108,4 @@ u.node(700,Q3,[("Stephen Albert John","name"),("b. 1944","date")])
 u.line(500,Q3+40,500,Q4-55); kids(u,[400,600],Q4-55,Q4-22)
 u.node(400,Q4,[("Robert George Ferguson","name"),("b. 1968","date")])
 u.node(600,Q4,[("Richard David Ferguson","name"),("b. 1970","date")],bold=True)
-u.out("backmatter/family_tree_2_elizabeths_later_family.svg","Elizabeth's later family")
+u.out("backmatter/family_tree_2_elizabeths_later_family.svg","From Elizabeth to the author")
