@@ -332,3 +332,52 @@ three tribunals were in Chapter Ten. Paragraph added after "There were four case
   on, the case stands in the profession's memory as an instance of a judge's latitude with insanity evidence. "His
   mother and sister" is the 1894 writer's (the trial evidence was of his mother and his aunt; his sister was a
   witness). Read from the OCR text only; check against the page before any use. Later document: Part Six or endnote.
+
+---
+
+## Added 12 October 2026: an outside review (the "Human Traces" frame), checked point by point
+Rik pasted an outside review proposing that the book let the history of law, psychiatry and women's legal status
+"sit underneath the narrative and occasionally break the surface". Its central frame (law against medicine) is this
+file's section 1, already sourced. What it adds, and what it gets wrong:
+
+**ADDED, VERIFIED (legislation.gov.uk, the Act as enacted, read 12 October 2026):** the Married Women's Property Act
+1882 came into force on 1 January 1883 (s. 25), seven months before the murders. s. 1(1): a married woman may hold
+property "in the same manner as if she were a feme sole". s. 12: in proceedings to protect a wife's separate property,
+"a husband or wife shall be competent to give evidence against each other ... any statute or rule of law to the
+contrary notwithstanding". So in 1883 Elizabeth could have been sworn against William had the case been about her
+property; on the murder of her children she could not be sworn at all (section "Why William never gave evidence",
+above). The 1898 Act's Schedule carries the same s. 12 forward. FOR THE PROSE: a fact, not a lecture; it earns a
+place only where the book is already at her silence (the governing test), stated once, without comment.
+
+**ADDED, AN OBSERVATION FOR PART FOUR OR SIX (inference, not for prose as argument):** the reprieve is what kept her
+married. Had William hanged, she would have been a widow and free to marry; reprieved and in Broadmoor, he lived
+until 1935, and no divorce was open to her on the ground of his insanity (TO VERIFY from the 1857 Act; no divorce
+search recorded, live_lists 4, item 56). Hence "late Goldstone", never "widow", until the 1906 certificate called her
+the widow of a man she had not married.
+
+**ADDED, A FRAME FOR PART SIX (Rik's voice only):** three generations and the record. The state produced an archive
+around William's mind (doctors, judges, journals, Broadmoor for fifty-one years); it barely recorded Elizabeth; Albert
+wrote an invented self into its forms (the Germany birthplace, from 1901 to 1939) and it recorded the fiction.
+Elsewhere in the book this is shown by the documents' order, never stated.
+
+**CORRECTIONS TO THE REVIEW, so they do not enter the notes as fact:**
+- "His conviction that he had somehow made everyone 'happy'": he said HE was happy ("I am a happy man now"; "I have
+  done it now I am happy"), and that Elizabeth would be "single again". Not that he had made everyone happy.
+- "The great-uncle's suicide" as part of the family history: one press paragraph, the Times of 1 October, copied by
+  the BMJ (live_lists 5 and 6; Contradiction 104). Not evidence.
+- "His mother's depressive illness": the sworn words are "despondency" and the threats and attempts (Thomas
+  Gouldstone; Sunderland). "Melancholia" is the House of Detention medical officer's word, through Savage's letter to
+  the Times of 15 September. No modern label in prose.
+- "The Home Secretary receives petitions about him": a petition was "got up" in Walthamstow (Grantham Robinson,
+  Guardian 22 September); whether it, or any other, reached the Home Office is not held (HO 144 file not found).
+- "Broadmoor ... the first state institution specifically for criminal lunatics": true for England only, and to be
+  checked before any "first" enters prose (the Central Criminal Lunatic Asylum at Dundrum, Ireland, is generally dated
+  1850; NOT VERIFIED here). Broadmoor's first patients: 27 May 1863 (women), 27 February 1864 (men) (Wikipedia; TO
+  VERIFY from a primary or Broadmoor history before use).
+- The review's vocabulary list ("moral insanity", "irresistible impulse" and the rest): "irresistible impulse" IS in
+  the record about this case (the Law Times, reprinted in the Guardian of 29 September); "moral insanity" is NOT in
+  any held source about William, so it is not put into the case's mouth. Its list of modern diagnoses (major
+  depression with psychotic features and so on) is exactly what the prose must never do.
+- Its citations are web links to secondary sources and a novelist's interview; none is a source for the book. The
+  model for the book stays Summerscale; "Human Traces" is useful only as a measure of how much context the material
+  could carry, and the review itself says to use it sparingly.
