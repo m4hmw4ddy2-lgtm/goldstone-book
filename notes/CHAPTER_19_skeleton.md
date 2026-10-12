@@ -563,3 +563,4 @@ Warspite (Caird Library). Each movement shown before the next.
 - 12 October 2026: APPROVED (Rik: "Final"). Rik's final copy matches the manuscript except one stray apostrophe ("both
   years' "), kept out. Still open: the Warspite sentences (Caird Library), and the Impregnable "training ship" check
   (1901 Navy List). Status in live_lists 0.
+- 12 October 2026, after approval, Rik: "registry entry" -> "register entry".
