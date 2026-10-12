@@ -462,3 +462,54 @@ Library reply), and Kent Archives' reply (optional; not needed for drafting).
 ## RULING, 12 OCTOBER 2026 (Rik)
 Draft movements one and three now; movement two (the bench, the boots, the Warspite) waits for a source for the
 Warspite (Caird Library). Each movement shown before the next.
+
+## DRAFTING (held locally in chapters/CHAPTER_19.md until the chapter is approved)
+- 10 October 2026: movement one drafted (Lilian's birth at Beach Alley, 1890, to Eliza Jane's registration, October
+  1891), about 240 words. Sources, every one image-checked: Lilian's birth entry No. 398; 1891 census sch. 39; Eliza
+  Jane's birth entry No. 177; baptism entries Nos. 832-833 (dates and entries only, no church or place). No press; no
+  unattributed lines. General knowledge: weekdays only. N (a): the self-description quoted once (1890), the second
+  registration "the same words". O (a): Beach Alley named at the birth. G: no age of Elizabeth's.
+- 12 October 2026: re-shown to Rik on the fresh clone, unchanged, for approval before movement three.
+- 12 October 2026, Rik: the opening is hard and jarring; add a one-line explanation after the second paragraph for
+  the reader. Added: "The mother was Elizabeth, three years after Lambeth, now on the Kent coast and using the surname
+  of William Madams, the child's father." Sources: the certificate (her name as given; Madams as father); Chapter
+  Eighteen (Lambeth, June 1887). "Kent coast": general knowledge (Whitstable's location), plain. No motive given for
+  the surname; no statement of her legal status.
+- 12 October 2026, Rik: the last paragraph confused the informant's signature with the mother's column. Rewritten so
+  the two columns are named: informant "E. Madams", "Mother"; the mother's column "the same words" as May 1890.
+- 12 October 2026, Rik's own revision of movement one (taken verbatim): "A girl", "in Beach Alley", "registry entry";
+  the orienting line "now on the Kent coast and using the surname of the child's father"; at the census, "William
+  Madams and Elizabeth were living as husband and wife" (the marriage question then left to the documents: Rik); the
+  closing "the same three surnames". Treated as movement one settled.
+- 12 October 2026: movement three drafted, about 160 words, after a marker for movement two. Sources: Madams's
+  admission, 4 September 1901 (TNA MH 94/37, read by Rik on Ancestry; H); Albert's naval entry, 11 November 1901,
+  Boy 2nd Class, Impregnable (ADM 188/383; Contradiction 90; Part Four DECIDE 5, one plain sentence, Germany held for
+  Part Five); Madams's death certificate (image-checked 10 October); Elizabeth's death entry (image-checked 10
+  October). J: Stoddart, JMS 1901 (opinion in 1901); Noguchi and Moore, J Exp Med 1913 (proof); Rik's ruling that
+  the fact may be used. General knowledge: Chartham "near Canterbury"; weekdays. No age of hers (G). Ends on Lilian,
+  "present at the death" (K). Beach Alley named, not located (O; DECIDE 6's two-sentence limit). "Widow of William
+  Madams" included: Part Four DECIDE 6 (a) did not take it; to confirm with Rik.
+- 12 October 2026, Rik: "draft the piece in between with what we know". Movement two drafted (about 470 words), the
+  Warspite left as a bracketed placeholder (F (c)). Sources and rulings: Herne Bay Press 2 May 1896 (Madams case only;
+  D (a)); School Board 1898-99 in one paragraph of fact (Whitstable Times 21 May and 25 June 1898; Canterbury Journal
+  19 August 1899), "Albert Madams" as printed; the boots from the Folkestone Chronicle of 13 April 1901 only, named once
+  (C (a); Whitstable Times left out); the 1901 census (sch. 155); the Canterbury Journal of 6 April 1901 quoted whole to
+  "locked her up also", the fine in our words (5s. and 10s. 3d.); the Herne Bay Press of 20 April 1901 for the outcome.
+  Names as the documents give them, no comment (B (a)); "his son aged eight" and "Son" in place (E (a)); no age of hers
+  (G). Unattributed press lines: none (every press quotation named). Not checked word by word: the Whitstable Times of
+  21 May 1898 (used for a fact, not quoted). Paragraph openings with a day ("On the Monday", "On the thirteenth"):
+  two, flagged.
+- 12 October 2026, Rik, on F and the Warspite-Impregnable link: the bar is "not documented yet", not permanent. The
+  Warspite sentences say what the Marine Society's register says. If it records his discharge or transfer to the Navy
+  (or that he was entered for it, or signed terms), the link goes in, in the register's words; if not, the two ships
+  stand side by side with nothing joining them. DO NOT USE item amended to match (live_lists 5).
+- 12 October 2026, Rik ("agree to all three"), after an outside review: (1) orienting line now "Three years after
+  Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father." and the Board sentence "In the
+  reports of 1898 and 1899 he is \"Albert Madams\"." (the papers are named in the 1898-99 sentence's sources only, as
+  before: Whitstable Times 21 May and 25 June 1898; Canterbury Journal 19 August 1899); (2) "Widow of William Madams"
+  KEPT at her death (Part Four DECIDE 6 extended); (3) four sentences at her death accepted (DECIDE 6's two-sentence
+  limit superseded by J and K). Not taken from the review: "one after the other in the register" (it would put
+  "register" twice in a row), and its framing of a "descent" and of Albert "absorbed" into the household (not in the
+  record; not for prose or notes).
+- 12 October 2026: chapter sent to Rik for upload ("gimme the files"), with the Warspite placeholder still in brackets.
+  Status in live_lists 0.
