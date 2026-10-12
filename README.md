@@ -41,15 +41,16 @@ are approved; drafts are held locally until then).
 
 | Part | Chapters |
 |---|---|
+| Front | the first family tree, "Two families, to 1883" |
 | Prologue | `PROLOGUE.md` |
 | One, Before | 1 to 6 |
 | Two, The Evening | 7 to 9 |
 | Three, The Reckoning | 10 to 17 |
-| Four, Elizabeth | 18 and 19 |
-| Five, Albert | not begun; opens with the second family tree |
+| Four, Elizabeth | 18 and 19 (the second family tree stands before its title page, after Chapter 17) |
+| Five, Albert | not begun |
 | Six, The Researcher; Coda | not begun |
 
-Back matter, in this order: the first family tree, "People in This Story", notes, sources, acknowledgements.
+The two family trees stand in the text: the first, "Two families, to 1883", at the front of the book before the Prologue; the second, "From Elizabeth to the author", after Chapter 17, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
 `backmatter/` holds the list and both family trees. The trees have two generators, `make_family_trees.py` (SVG
 previews) and `make_family_trees_print.py` (print PDFs, B-format); any change goes into both, run from the repository
 root, and every export is regenerated.
