@@ -41,11 +41,25 @@ Published shortly before the formal reprieve [corrected 1 October 2026: publishe
 
 KEY DETAILS FOR THE BOOK — MAJOR NEW MATERIAL
 
+*** WITHDRAWN, 11 October 2026 (Chapter Seventeen correction I). The June 2026 commentary below is kept for the
+*** record only. It is NOT current and is NOT to be used. In particular:
+***  - Every link between the cord and William's own death ("He came home with a piece of cord in his pocket"; the cord
+***    "brought for himself"; the chair "intended for himself") is invented: no source supports it (MASTER_NOTES, note on
+***    the cord, 18 September 2026; live_lists 5, DO NOT USE, the noose entry).
+***  - "He went out to drown himself" and "William left the house ... intending to drown himself" state as fact what the
+***    paragraph reports as "it is believed": the Times of 1 October, unattributed, copied here; one witness, press only
+***    (Contradiction 104; live_lists 5 and 6). "On the very day", not "the morning".
+***  - "Entirely new", "well-sourced inference" and "independently" are wrong for the same reason.
+***  - "Elizabeth is the source" of the "twelve months" and "The BMJ's characterisation of Elizabeth": not shown; the
+***    words are the Times's, copied; "twelve months" is not in her statement (live_lists 5).
+***  - The reprieve dates and Orange's "52 years" inside it are already corrected in place.
+*** The current reading of this paragraph is in the timeline file, Contradiction 104, and live_lists 6.
+
 1. HE WENT OUT TO DROWN HIMSELF.
 "It is believed that he went out with the intention of drowning himself on the very day that he murdered his children."
-This is entirely new — not in any witness statement, trial testimony, or previous press coverage found to date. William left the house on 8 August 1883 intending to drown himself. He failed. He came home with a piece of cord in his pocket.
+[WITHDRAWN 11 Oct 2026: see the notice above.] This is entirely new — not in any witness statement, trial testimony, or previous press coverage found to date. William left the house on 8 August 1883 intending to drown himself. He failed. He came home with a piece of cord in his pocket.
 
-IMPLICATIONS:
+IMPLICATIONS [ALL WITHDRAWN 11 Oct 2026: see the notice above]:
 - The cistern was already in his mind as an instrument of death before he came home — or he had intended to use a river, pond, or other water source.
 - The chair placed under the cistern may have been intended for himself before it became the means of reaching the children.
 - He came home having failed to die. He came home to his five children.
@@ -70,13 +84,13 @@ ACTION REQUIRED: National Archives, Kew, HO 144 series (Home Office registered p
 - Predates the pregnancy with the twins (Elizabeth would have conceived around November 1882).
 - Predates any financial pressure from an additional child.
 - The twins were not the cause of William's deterioration. They were the trigger for something already long established.
-- Elizabeth is the source — this is part of the narrative she gave to the Home Office or press, referred to in the 29 September BMJ as "the touching narrative of his wife."
+- [WITHDRAWN 11 Oct 2026: not shown; the Times's words, copied.] Elizabeth is the source — this is part of the narrative she gave to the Home Office or press, referred to in the 29 September BMJ as "the touching narrative of his wife."
 
 4. DR ORANGE AT CHELMSFORD.
 Dr Orange, Medical Superintendent of Broadmoor, was sent to Chelmsford Prison to examine Gouldstone after the death sentence. He entertained no doubt of his insanity. This examination directly preceded and almost certainly caused the reprieve. CORRECTED 22 September 2026: this note previously gave the reprieve as 3 October 1883, a date that appears in no primary source in the archive (best-supported reading c.10 October); and said Orange "will be responsible for William for the next 52 years", which is wrong twice over. William was detained 51 years and three months, and Orange was Superintendent of Broadmoor only until 1886. **SUPERSEDED 1 October 2026: the reprieve date is 3 October 1883 after all, now on a primary document: the Home Office letter "Whitehall, Oct. 3, 1883", printed in the Daily News of 6 October (Contradiction 80; confirmed by Rik 30 September 2026). The 22 September correction was right that no source was then in the archive; "c.10 October" is withdrawn.**
 
 5. ELIZABETH — "A VERY RESPECTABLE YOUNG WOMAN."
-The BMJ's characterisation of Elizabeth. She has been in contact with the Home Office or the press or both since the trial. Her account is shaping the medical and public response. She is not a passive figure in the aftermath.
+[WITHDRAWN 11 Oct 2026: the Times's words, copied by the BMJ.] The BMJ's characterisation of Elizabeth. She has been in contact with the Home Office or the press or both since the trial. Her account is shaping the medical and public response. She is not a passive figure in the aftermath.
 
 ---
 
@@ -85,5 +99,5 @@ NEW OPEN QUESTIONS ADDED:
 - National Archives HO 144: Home Office registered papers for the Gouldstone capital case. Does Orange's examination report survive? Does Elizabeth's full narrative survive in the Home Office papers?
 - The aunt who was insane: which aunt, on which side of the family? Not identified in trial testimony. May be in the Home Office papers or in the Essex parish records.
 - The great-uncle who committed suicide: which great-uncle? Same question.
-- Did William go to a specific location on 8 August intending to drown himself? If so, where? The cord in his pocket — was it brought for himself or for the children?
+- Did William go to a specific location on 8 August intending to drown himself? If so, where? [The cord question is WITHDRAWN 11 Oct 2026: no source puts a cord in his pocket.]
 
