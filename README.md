@@ -36,7 +36,7 @@ Where the project instructions and the notes disagree on a fact or a status, the
 
 ## The manuscript
 
-`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_18.md` (later chapters are added as they
+`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_19.md` (later chapters are added as they
 are approved; drafts are held locally until then).
 
 | Part | Chapters |
