@@ -299,7 +299,7 @@ on 2 October 2026; the project instructions are outside the repository and need 
 
 ### NEXT
 1. ~~Gather the four certificates not in the repository.~~ Done 2 October 2026.
-2. Reply to Emily: will assemble the descent evidence and send it for forwarding to the County Archivist;
+2. ~~Reply to Emily~~ DONE 2 October 2026 (Letter 5): will assemble the descent evidence and send it for forwarding to the County Archivist;
    ask whether William's case-book entry is requestable from January 2036 even though the volume stays
    closed to 2053; ask again whether his entry carries a photograph.
 
@@ -438,6 +438,7 @@ Verbatim:
 "RG 12/711", "RG 13/799", "RG 15/04062"). A slash is not allowed in a Windows file name and is read as a
 folder separator inside a zip, so those files arrived broken. The other ten opened. Resend with the slashes
 replaced (e.g. "RG 11-301"). Once she can open them she will forward the pack to the County Archivist.
+[DONE: resent by Rik, 9 October 2026, Letter 7 below.]
 
 **2. The request will include the medical notes (the case-book entry).** She warns that it may be only a
 brief summary.
@@ -447,7 +448,7 @@ email (Letter 5) explained Albert's false birth year and German birthplace; she 
 as a question about what William gave Broadmoor. Her own view: the Hospital recorded what the patient
 disclosed and did not check certificates. Not a question Rik asked; harmless, and possibly useful (what
 William told Broadmoor about himself is a fair question in its own right). Rik to decide whether to
-clarify.
+clarify. DECIDED: let it stand (Rik, 12 October 2026; it already stood in his reply).
 
 **4. Access to the case-book entry, refined.** From January 2036 the notes are open with the case file, but
 the public cannot VIEW the entry until the whole volume opens (2053). From 2036, however, anyone can request

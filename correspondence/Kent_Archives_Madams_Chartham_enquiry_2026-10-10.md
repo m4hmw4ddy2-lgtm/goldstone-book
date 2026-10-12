@@ -1,6 +1,5 @@
-# Kent History and Library Centre: William Madams, Kent County Lunatic Asylum, Chartham, 1901 (DRAFT)
-Drafted 10 October 2026. SENT by Rik, 10 October 2026 (address as on the Kent Archives website; text as drafted unless Rik edited it). Awaiting reply. Address: Rik to take from the Kent Archives website (not
-guessed here). Purpose: CHAPTER_19_skeleton.md, DECIDE H; live_lists 4, item 52.
+# Kent History and Library Centre: William Madams, Kent County Lunatic Asylum, Chartham, 1901 (SENT)
+Drafted 10 October 2026. SENT by Rik, 10 October 2026 (address as on the Kent Archives website; text as drafted unless Rik edited it). Awaiting reply. Optional for drafting: the admission date is already usable (CHAPTER_19_skeleton.md, H). Purpose: CHAPTER_19_skeleton.md, DECIDE H; live_lists 4, item 52.
 The repository for the asylum's records is TO CONFIRM: the old A2A catalogue code for St Augustine's Hospital is
 "2006-mht3" (asylumprojects.org), which suggests a Kent hospital-records series; the email asks.
 

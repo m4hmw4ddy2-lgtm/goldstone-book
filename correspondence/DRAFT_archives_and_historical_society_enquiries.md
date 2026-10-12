@@ -1,4 +1,7 @@
 # Two further enquiry drafts, 23 September 2026
+# STATUS, 11 October 2026: NOT RECORDED AS SENT (acknowledgements list: "enquiry drafted"; Rik to confirm). If they
+# are sent, revise first: the Walthamstow and Leyton Guardian of 11 August 1883 was OBTAINED 30 September 2026 (BNA)
+# and should come out of the newspaper request.
 Companion to the cemeteries enquiry. Both written to be sent as they stand.
 
 ---
