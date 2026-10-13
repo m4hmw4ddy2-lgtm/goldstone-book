@@ -1,5 +1,5 @@
 # PART FIVE: "ALBERT". PLAN (part level), PROPOSED 13 October 2026, for Rik to rule
-# Covers: 11 November 1901 (HMS Impregnable) to June 1962 (Albert's death, Chatham). Plan only; no prose.
+# Covers: 11 November 1901 (HMS Impregnable) to 1962 (Albert's death, Chatham). Plan only; no prose.
 # REVISED 13 October 2026, the same day, after Rik's repo changes: Brian Ronald Albert Goldstone (1932-1937) added
 # (finding 14, DECIDE 14); Contradiction numbers moved to 119-122 (118 is now the warrants' conviction date); sources
 # renumbered 60-68 (59 is Brian's certificates); Chapter Nineteen's hand-over now reads "entered". The Broadmoor
@@ -30,7 +30,7 @@ Primary documents, opened today (13 October 2026) unless marked:
 | Naval service sheet, ADM 188/383, no. 218159 | sources/images/albert-goldstone/Albert Goldstone Naval Record.pdf; transcription transcribed/Albert_Goldstone_Service_Record_Full_Transcription.md (the authority) | Read in full from the transcription; page rendered at 300 dpi and the cells listed under FINDING 1 checked against the image today (recorded in the transcription's header) |
 | Campaign medal roll, ADM 171/103, p. 131 | NOT IN REPO (Rik's screenshot of 12 October; transcription Appendix A) | GOLDSTONE, Albert, P.O., 218159; St V B; issued S. Read from the transcription only |
 | Applications for War Badges register | NOT IN REPO (Rik's IMG_0040.jpeg; transcription Appendix B) | "Gladstone A.", 218159, P.O., badge 36842, issued 28.2.19. Read from the transcription only. The Ancestry tree cites ADM 171/180 for it |
-| Marriage, 5 March 1910, St Mark's, New Brompton | sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg | No. 322; Albert Goldstone, **22**, bachelor, A.B. Seaman, New Brompton; "Rennie" Setterington, 22, spinster, New Brompton; fathers "William Goldstone, deceased", Commercial Traveller, and George William Setterington, deceased, labourer; parish church, after banns; witnesses Thomas Knowles [?], Ethel Cooper; William He[?]rington, assistant curate |
+| Marriage, 5 March 1910, St Mark's, New Brompton | sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg | No. 322; Albert Goldstone, **22**, bachelor, Able Seaman, New Brompton; "Rennie" Setterington, 22, spinster, New Brompton; fathers "William Goldstone, deceased", Commercial Traveller, and George William Setterington, deceased, labourer; parish church, after banns; witnesses Thomas Knowles, Ethel Cooper; William Hetherington, assistant curate |
 | "1911 Census.png" | sources/images/census-stuff/1911 Census.png | **NOT Albert.** Schedule 9: Emily Willett Gouldstone, head, 76, widow, nine children born alive, six living, three dead; her daughter Emily, 59; Great Sampford; three rooms. See FINDING 4 |
 | Vera's birth, 1 March 1921 | sources/images/birth-certificates/Birth Cert Vera Goldstone 1921.jpeg | 46 Edinburgh Road; father Albert Goldstone, "Seaman Yard Craft H.M.D. Ex. R.N."; informant "C. I. Goldstone, mother"; registered 7 April 1921 |
 | 1921 census, RG 15/04062, schedule 109 | sources/images/census-stuff/Goldstone Family 1921 Census.jpg | As the dates table; six rooms; Alma Rose Setterington a general servant at the Twilight Maternity Home, Junction Road, Gillingham; signed by Albert. Age 35 or 38 still unresolved (Contradiction 92) |
@@ -98,7 +98,7 @@ saved: marked GK.)
 - 28 Mar 1942: Vera marries George William Ferguson; Albert a witness.
 - **21 Apr 1943: Michael George Ferguson born**, 42 Magpie Hall Road.
 - Feb-Mar 1945: secretary of the Luton Working Men's Club; gives evidence at Chatham, 28 Mar.
-- Jun 1962: Albert dies, Chatham (GRO index only).
+- Jun 1962: Albert dies, Chatham district (GRO index, Jun qtr, age 76, 5b 350; buried June 1962, Rik). See RULINGS, DECIDE 12.
 - (31 May 1970: Rik born. Part Six.)
 
 ## FINDINGS FROM TODAY'S READING
@@ -261,7 +261,7 @@ Estimate: 1,000 to 1,500 words.
 4. "Invalided / Org Heart Disease", 26 March 1919; the badge, the K.C., the three medals (DECIDE 8).
 Estimate: 900 to 1,400 words.
 
-### Chapter Twenty-Two: 1919 to June 1962
+### Chapter Twenty-Two: 1919 to 1962
 1. Chatham: Vera's birth certificate ("Ex. R.N."); the 1921 household (not its birthplace again); Doris.
 2. The Orbita, 1930 (one sentence or none).
 3. The elections, 1933 and 1934; his words (FINDING 11).
@@ -269,7 +269,7 @@ Estimate: 900 to 1,400 words.
 5. Brian: born 1932 (in its place, between the Orbita and the elections), dead 15 May 1937, from the certificate
    (DECIDE 14).
 6. 1939; Vera's marriage, Albert a witness; Michael's birth, 1943; the club, 1945 (DECIDE 11).
-7. His death, June 1962, from the certificate once held (DECIDE 12).
+7. His death, 1962, from the certificate once held (DECIDE 12).
 Estimate: 1,500 to 2,400 words.
 
 ## THE ELIZABETH THREAD IN PART FIVE
@@ -298,7 +298,7 @@ Estimate: 1,500 to 2,400 words.
 
 ## DECIDE POINTS
 
-**DECIDE 1. The span, and the hand-over to Part Six.** (a) **11 November 1901 to Albert's death, June 1962; Michael's
+**DECIDE 1. The span, and the hand-over to Part Six.** (a) **11 November 1901 to Albert's death, 1962; Michael's
 birth (1943) stays in Part Five in its date order as a plain line; Part Six opens with Rik** (recommended: Part Five is
 Albert's life, and the chain's next link is recorded in it). (b) End at William's death, 1935, with Albert's later
 years in Part Six. Against: Part Six is Rik's voice, and 1935 to 1962 is still Albert's record. (c) End at Michael's
@@ -367,7 +367,7 @@ the birthplace); the Orbita in one sentence; the two elections with his words; 1
 witness; Michael's birth; the 1945 club evidence in one or two sentences. Out: the Observer of 19 October and 7
 September 1934 (they repeat the others), Alma Rose's employer** (recommended). (b) Elections and family events only.
 
-**DECIDE 12. How Part Five ends.** (a) **On his death, June 1962, from the certificate (to obtain): place, age as
+**DECIDE 12. How Part Five ends.** (a) **On his death, 1962, from the certificate (to obtain): place, age as
 recorded, cause, informant. The age will show which birth year the family gave** (recommended; the certificate may
 itself be the ending). (b) On the GRO index alone. Against: the index gives no informant, no cause. (c) On William's
 death, 1935, with 1962 in Part Six.
@@ -397,6 +397,9 @@ stands.
      Lil and Doris), "absolute rubbish" (Rene), and "Steve ... uncovered the German link". FINDING 9.
 122. WILLIAM IN 1935, "a married man" (Milne, on oath) against "Widower" (the typed slip). Assessment: both recorded; no
      document shows how Broadmoor learned of her death, if it did.
+123. ALBERT'S AGE AT DEATH (added 13 October 2026; revised the same day): 76 (GRO death index, Jun qtr 1962) against
+     his birth certificate (19 June 1887: 74 or 75 in June 1962). It fits the naval 1886 only if he died on or after 19
+     June. Assessment: open until the certificate is held (day of death, informant, the age as written).
 
 ## CORRECTIONS FOUND (not applied; for Rik. Each, when applied, to be grepped across the repo)
 Q1. Dates table "1918 | German High Seas Fleet surrenders; Albert present | Naval record" and dramatis "Present at
@@ -437,3 +440,69 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
 - The form of an English marriage register in 1910 (columns), before any sentence on what it did not ask.
 - The Warspite register (item 45, unchanged): if it gives his stated birthplace in April 1901, Part Five opens
   differently.
+
+## RULINGS (Rik, 13 October 2026). These govern where they differ from the body above.
+- **DECIDE 1: (a).** Span 11 November 1901 to Albert's death, 1962. Michael's birth (1943) stays in Part Five in
+  its date order as a plain line; Part Six opens with Rik.
+- **DECIDE 2: (a).** Three chapters: 1901-1910, 1910-1919, 1919-1962.
+- **DECIDE 3: (a).** Part Five opens on the occupation line: "Labourer" struck through, "Farm Labourer" written beneath.
+  (b) rejected (Lion three days after Madams's death is a juxtaposition that points). IF the Caird Library reply
+  shows the route from the Warspite to Impregnable, its words are not spent twice: Chapter Nineteen's gap says what the
+  Warspite was and where she lay; Part Five opens on the discharge or transfer, in the register's own words (d).
+- **DECIDE 6: (d), a new option.** The Jupiter entry given by its own dates, 12 March 1906 to 4 August 1907, as the
+  sheet has it, and nothing said of Elizabeth there. (a) rejected: "unbroken" claims more than a service sheet holds
+  (it records postings, not leave), and "on the day she died ..." is a pointing sentence. Rik adds: "We will find a
+  way to include a single line callback." The callback is to be found, not yet placed or worded; it must not
+  claim anything the sheet does not hold.
+- **DECIDE 7: (a).** William's death in Chapter Twenty-Two, in date order, from the inquest papers (the hour, the
+  infirmary, "Widower. Blacksmith.", Milne's struck "Goldstone"); nothing joining it to Albert. The Evening Standard of
+  21 January 1935 gives its one line, quoted and attributed to the paper, named and dated ("had been described as an
+  ideal patient. He worked in the various wards."); the paragraph's errors ("found guilty", "52 years", "80 years of
+  age") are left out, not corrected. Milne's "confusional insanity" stays out until live_lists 4, item 28 is sourced.
+- **DECIDE 4: (a).** Neither the Germany birthplace nor 1886 given again in our voice; a later document carrying either
+  is named and the matching detail left to the reader; the 1911 census only if its image is held, then once.
+- **DECIDE 5: (a).** The marriage in its place from the register, with what the Prologue did not use; the father column
+  not quoted again; nothing on the form's having no mother's column unless the form is checked (live_lists 4, item 67).
+  Nothing from the register enters prose until it is transcribed and checked word by word. The first witness reads
+  **Thomas Knowles**: visually checked by Rik, 13 October 2026 (the "[?]" removed from the plan, the Chapter Twenty
+  skeleton, the dates table and master-index the same day).
+- **DECIDE 8: (a), AMENDED (Rik).** Albert is to be given life and vitality: "he lived a very full one". Where the
+  sheet has him borne on a ship, that ship's documented actions during the dates of his posting may be given as his
+  ("It's not like the ship would swing by his house once a week to see if he was up for a jaunt!"). Two conditions
+  carried from the standing rules: each ship event is sourced and saved before use (live_lists 4, item 63; the brief,
+  item 4); and the sheet's own entry must run across the event's date with no break (the sheet does break entries,
+  e.g. Majestic 20 December 1904 to 4 January 1905; Jupiter 4 to 8 August 1907). Still no interior states or motives.
+  The plan's "Out" list (Victory, Firequeen, Australia and New Zealand, the gunnery sub-ratings) is REOPENED: each
+  chapter skeleton selects again under this ruling.
+- **DECIDE 9: the image is held.** Rik, 13 October 2026: sources/images/census-stuff/Albert Goldstone 1911 census.jpg
+  (uploaded the same day). Transcribed and image-checked: transcribed/Albert_Goldstone_1911_census_HMS_Dominion_
+  transcription.md. NEW FINDING: age 24 on 2 April 1911 fits the naval 1886, not 1887; so finding 3's run of the
+  false year is 1901 sheet, 1904 engagement, **1911 census**, 1930 Orbita, 1939 Register; the 1910 register alone gives
+  his true age. FOUR PAGES now held (Rik, the same evening): the cover gives the ship's place that night, Glengariff Harbour,
+  Ireland (2nd Division, Home Fleet; Captain Morgan Singer; 769 on board). Under (a), the entry may be given once,
+  as a plain fact (Germany, married, aboard Dominion in Glengariff Harbour), in Chapter Twenty-One; Emily Willett Gouldstone's schedule stays out of Part Five. (a) awaits Rik's confirmation.
+- **DECIDE 10: (a).** All family memory to Part Six, in Rik's voice.
+- **DECIDE 11: (a).**
+- **DECIDE 12: open.** Rik asked which certificate: Albert's own death certificate (GRO, Jun qtr 1962, vol. 5b, p. 350;
+  live_lists 4, item 60). NOT HELD. Rik supplied the index entry, 13 October 2026 (Ancestry, England and Wales death
+  index): "Albert Goldstone", death age 76, "Birth Date abt 1886", "Registration Date Apr 1962", quarter
+  Apr-May-Jun, Chatham district, Kent, vol. 5b, p. 350. CORRECTION, the same day: "Apr 1962" is Ancestry's label for
+  the April-June QUARTER, not a month of registration (Claude first read it as the month and wrongly "corrected" the
+  notes to "registered April"; reverted). Rik: Albert was buried in June 1962, so June is the death month (burial
+  source to record: Findagrave 224968938 or the cemetery register, live_lists 4, item 66). AGE: 76 fits the naval
+  19 June 1886 if he died on or after 19 June 1962 (75 before it); by his true 19 June 1887 he was 74 or 75. So the
+  index's 76 carries the Navy's year, or is a year over it if he died before the 19th. "abt 1886" is Ancestry's
+  subtraction, not a record. The certificate gives the day, the age as written and the informant; until then nothing
+  on this in prose. Proposed Contradiction 123 (not entered).
+- **DECIDE 14: (a).** Brian in Chapter Twenty-Two in date order, from the certificate; nothing joining his death to
+  William's; Vera's words to Part Six, with the attribution above.
+- **DECIDE 13: titles chapter by chapter, each settled when its chapter is complete** (Rik). "Farm Labourer" stays a
+  working title until then.
+- **"NEVER DIVORCED" (Rik, 13 October 2026):** no divorce and no marriage of Elizabeth to Madams has been found in any
+  available index, after searching; "never divorced" may stand. live_lists 4, item 56 settled.
+- **DECIDE 9: (a)** (Rik, 13 October 2026, given as "11 a" directly after the question on 9; 11 was already (a)).
+  Albert's row once, as a plain fact, in Chapter Twenty-One; Emily Willett Gouldstone's schedule out of Part Five.
+- **DECIDE 12: (a).** Part Five ends on Albert's death certificate (live_lists 4, item 60: to order before Chapter
+  Twenty-Two is drafted). It also gives the day of death and so settles the index's age 76 (proposed Contradiction 123).
+- ALL PLAN DECIDE POINTS RULED, 13 October 2026. Then the Chapter Twenty skeleton is redone where these rulings differ (DECIDE 6
+  changes movement two and THE ELIZABETH THREAD HERE) and Rik rules A to H.

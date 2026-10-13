@@ -700,7 +700,7 @@ Earlier notes kept: [REVERSED 10 October 2026, Rik: the informant is S. Frost; a
 **Albert Goldstone and "Rennie" [?] Setterington, marriage, 5 March 1910**
 `sources/images/marriage-certificates/Marriage Cert Albert Goldstone - Rene Setterington 1910.jpeg`
 Status: READ 2 October 2026
-Key content: St Mark's Church, New Brompton. Albert 22, bachelor, Able Seaman; father "William Goldstone, deceased", Commercial Traveller (William Gouldstone was alive in Broadmoor). Bride 22 (birth date makes her 20), father George William Setterington, deceased, labourer. Witnesses Thomas Knowles [?], Ethel Cooper.
+Key content: St Mark's Church, New Brompton. Albert 22, bachelor, Able Seaman; father "William Goldstone, deceased", Commercial Traveller (William Gouldstone was alive in Broadmoor). Bride 22 (birth date makes her 20), father George William Setterington, deceased, labourer. Witnesses Thomas Knowles, Ethel Cooper.
 Book section: Part Five
 
 **Vera Georgina Goldstone, birth, 1 March 1921**
@@ -740,6 +740,13 @@ Status: READ 2 October 2026
 Reference: RG 15/04062, RD 47 (Medway), RS 1 (Rochester & Chatham), ED 37, schedule 109; 46 Edinburgh Road, Chatham, Christchurch ward. Findmypast transcribes the birthplace "Hickening Howyllon" and the age 38
 Key content: Albert Goldstone, head, 35 or 38 (Contradiction 92), born "Hickening Howzllon" [?], Germany, "Resident", English, seaman yard craft, Chatham Dockyard; Clarie Irene, wife, 34, born Kingston on Thames; Lily Alma Rose, 7 years 6 months; Clarie Irene, 2 years 8 months; Vera Georgina, 3 months; Alma Rose Setterington, sister-in-law, 32, general servant, Twilight Maternity Home, Junction Road, Gillingham. Signed by Albert.
 Book section: Part Five; descent evidence (the same invented birthplace as the naval record, with Vera in the household)
+
+**1911 census, HMS Dominion (Albert Goldstone)**
+`sources/images/census-stuff/Albert Goldstone 1911 census.jpg` (page 11); with `... Cover Sheet.jpg` (page i), `... p2.jpg` (page ii, totals), `... Cover Sheet p3 senior officers.jpg` (page 1)
+Status: READ 13 October 2026 (row 22 image-checked; transcribed/Albert_Goldstone_1911_census_HMS_Dominion_transcription.md)
+Reference: RG 14/34971, p. 11 (Ancestry index; not on the image)
+Key content: "List of Officers, Crew, and Royal Marines on Board at midnight on Sunday, April 2nd, 1911"; row 22, Albert Goldstone, 24, Married, aB, [Executive], born "Hukening, Honyllon, Germany". Age 24 fits the naval 1886. Cover: battleship, 1st class; Captain Morgan Singer; 2nd Division Home Fleet; at midnight in Glengariff Harbour, Ireland; 769 on board
+Book section: Part Five, Chapter Twenty-One (PART_FIVE_plan.md, DECIDE 9). NOT to be confused with `1911 Census.png`, which is Emily Willett Gouldstone's schedule at Great Sampford (PART_FIVE_plan.md, finding 4)
 
 **1939 Register, 33A Connaught Road, Chatham**
 `sources/images/census-stuff/Goldstone Family 1939 Register.png`

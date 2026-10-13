@@ -546,7 +546,7 @@ All four sisters were, properly speaking, Rik's great-aunts (Vera being the exce
 
 **Albert → Vera Georgina Goldstone (b. 1 March 1921; married George William Ferguson, b. 1920, who is NOT a generation in the line: corrected 2 October 2026) → Michael George Ferguson (b. 21 April 1943, 42 Magpie Hall Road, Chatham, per his birth certificate; d. 1996, pancreatic cancer — confirmed directly by Rik, 6 September 2026) → Richard David Ferguson (b. 31 May 1970, All Saints Hospital, Chatham, per his birth certificate; mother Eileen Adele Ferguson, née Ethell).** Rik's elder brother: **Robert George Ferguson**, born 7 November 1968 (MyHeritage GEDCOM only; added 4 October 2026 for the back-matter tree).
 
-Died June 1962, Chatham. Germany lie maintained to the end.
+Died June 1962, Chatham district (GRO index, Jun qtr, 5b 350, age 76; buried June 1962, Rik). Germany lie maintained to the end.
 
 ---
 
