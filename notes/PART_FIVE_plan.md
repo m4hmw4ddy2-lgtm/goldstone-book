@@ -109,9 +109,9 @@ saved: marked GK.)
    (transcription), not 28 Dec. The second badge loss reads "D1. 31.5.17" (transcription), not 3.5.17. Tyne: the
    letter before ".B.31" is a looped capital that is neither clearly I nor P (T is possible; Tyne was a depot ship for
    torpedo boats: GK, not a reading); left as [?].B.31. The ship's-book numbers were NOT checked. ALSO, not in either:
-   the "P.C." annotation reads six digits, "38485[3/8]" (last digit overwritten), not "38483", and its date "26/2/19"
-   or "28/2/19"; the upper-right annotation reads "N.P. 1391/02", not "139/02"; the first age is overwritten (15 to
-   16, or 16). None of these goes into prose (the briefing's own advice on P.C. stands).
+   the "P.C." annotation reads "384833" (six digits; Rik's reading), not "38483", and its date "26/2/19" or
+   "28/2/19"; the upper-right annotation reads "N.P. 1391/02", not "139/02"; the first age is 16, a loopy script, not
+   overwritten (Rik). None of these goes into prose (the briefing's own advice on P.C. stands).
 
 2. **The three spells in cells fit three breaks or turns in the service rows exactly** (inference, NOT for prose):
    Majestic stops on 20 December 1904 and resumes on 4 January 1905, fourteen days, and the conduct class drops on
@@ -413,7 +413,7 @@ Q7. Dates table "Nov 1917 ... Naval record" and "1918": the sheet gives the post
     history's (Newbolt). Source column to say so.
 Q8. Dramatis (Vera): "The Germany lie passed to Vera as fact. She passed it to Mick. Mick passed it to Rik as family
     history.": against Rik's own earlier account and Linda's letter (FINDING 9). For Rik.
-Q9. Transcription Appendix B and N5: P.C. number six digits, "38485[3/8]"; date 26 or 28/2/19; N4 "N.P. 1391/02".
+Q9. [APPLIED 13 October 2026] Transcription N4 and N5: P.C. "384833" (Rik); date 26 or 28/2/19; N4 "N.P. 1391/02"; first age 16.
     Recorded in the transcription's header today; the body not changed.
 Q10. [APPLIED by Rik, 13 October 2026] transcribed/Brian_Goldstone_death_certificate_1937_transcription.txt: its header's image name ("Brian Goldstone
     Death Cert 1937.jpg") does not match the file in the repo ("Death Cert Brian Ronald Albert Goldstone.jpg").
