@@ -573,3 +573,9 @@ Warspite (Caird Library). Each movement shown before the next.
   Hamoaze), with the ship histories (Wikipedia, HMS Impregnable (1810); rootsweb ship index). No 1901 Navy List seen: the
   Internet Archive "Admiralty (Great Britain) publications" collection is said to hold the run, but it could not be
   opened this session; NLS holds only 1913-21 and 1939-45, HathiTrust only three 1913 issues. live_lists 4, item 58 closed.
+- 13 October 2026, Rik: "enlisted" -> "entered" (Rik's edit, uploaded). Basis: the naval record has two dates. Entry,
+  11 Nov 1901 (ships column: Impregnable, "Boy 2 cl", "11 Nov 01"); the C.S. engagement, "19 June [190]4 - 12 Years",
+  which coincides with the change to "Ord." on Prince George, "19 June 04" (his stated eighteenth birthday on the 1886
+  birth year he gave). That a boy's twelve-year engagement ran from his eighteenth birthday is GENERAL KNOWLEDGE, NOT YET
+  SOURCED: not in Chapter 19; to be sourced before Part Five uses it. No years added to the 11 and 23 November dates
+  (Rik: "No need to add years"; 1901 is set by the 4 September paragraph).
