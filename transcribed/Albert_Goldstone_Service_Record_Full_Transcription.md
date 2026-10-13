@@ -2,21 +2,21 @@
 
 Transcribed for Rik Ferguson, 13 October 2026. Updated with Rik's supplied corrections the same day.
 
-**IMAGE CHECK (check-once rule), 13 October 2026 (Claude, from the repository PDF, page 2, cropped and enlarged), the cells where this transcription and the briefing disagree:**
+**IMAGE CHECK (check-once rule), 13 October 2026 (Rik, by eye, against the original; header first recorded as Claude's, corrected on Rik's word the same day), the cells where this transcription and the briefing disagree:**
 - Discharge cause: reads **"Invalided" / "Org Heart Disease"** (organic heart disease). Corrected below from "Ong Heart [Riseart?]". It does NOT read "V.D. Heart".
 - Stamp at the foot of the discharge column: **"TRACED WAR GRATUITY BY No. 41"**: confirmed.
 - Sub-rating S.G.: **14.10.13 to 31.8.18**: confirmed. The cancelled line below reads "Act G.L.2" with "26.12.16" [day partly uncertain].
 - Remarks: **"Passed profly P.O. 20-10-16"**: confirmed.
-The rest of this transcription was not re-checked by Claude; it stands as Rik supplied and corrected it.
+The rest of this transcription was not re-checked in that round; it stands as Rik supplied and corrected it.
 
 **SECOND IMAGE CHECK, 13 October 2026 (Claude, Part Five planning; page 2 rendered at 300 dpi, each cell cropped and enlarged).** The cells where the briefing differs from this transcription, and three others:
 - Class for Conduct (section 9): **this transcription confirmed**: "2nd 21.12.04 / 1st 4.7.05" and "2nd 2.3.06 / 1st 12.3.07". The briefing's "3rd", "4.12.04" and "12.5.07" are wrong.
 - Majestic, first entry (section 4, sequence 7): closes **"20 Dec"** [04]: confirmed. The briefing's 28 December is wrong.
 - Badges (section 6), the second D1: **"31.5.17"**: confirmed. The briefing's 3.5.17 is wrong.
 - Tyne (sequence 25): the letter before ".B.31" is a looped capital, neither clearly I nor P (T possible). Read as **"[?].B.31"**; both "I.B.31" and "P.B.31" are uncertain.
-- N5: the number reads **six digits, "38485[3/8]"** (last digit overwritten), not "38483"; the date beneath reads **"26/2/19" or "28/2/19"** (second digit uncertain).
-- N4: reads **"N.P. 1391/02"**, not "139/02".
-- Age, first entry: the digit is overwritten (15 to 16, or 16). Height: "5-0[2/½]".
+- N5: the number has **six digits**, not five: **"384833"** (Rik's reading, 13 October 2026; Claude's crop had "38485[3/8]"). The date beneath reads **"26/2/19" or "28/2/19"** (second digit uncertain).
+- N4: reads **"N.P. 1391/02"**, not "139/02" (confirmed by Rik, 13 October 2026).
+- Age, first entry: **16**, not overwritten: a very loopy script (Rik, 13 October 2026). Height: "5-0[2/½]".
 NOT checked: the ship's-book numbers in "List and No." (the briefing's readings differ in several); the clothing gratuity sums; Remarks entries 1, 5 and 7. The body below has not been altered; these readings stand over it.
 
 **Original:** The National Archives, **ADM 188/383**, official number **218159**, image reference **122**. [Service-record PDF](https://github.com/m4hmw4ddy2-lgtm/goldstone-book/blob/main/sources/images/albert-goldstone/Albert%20Goldstone%20Naval%20Record.pdf).
@@ -229,13 +229,13 @@ The original spelling **Gladstone** is retained. The matching official number id
 | N1 | 218159; 218159 | Two number impressions at the head of Albert's entry: one upper left, the other above the name near the centre. Neither is inside a labelled data column. |
 | N2 | ~~Portsmouth~~<br>Chatham [to W.B.?] | Across the upper-left/centre identification area, above the name. Portsmouth is crossed out; Chatham is written below it, with a connecting annotation whose final letters are unclear. |
 | N3 | W [W-shaped mark; small additional mark above] | Above the central 218159 impression, close to the top edge. |
-| N4 | [N.P.?] 139/02<br>[large P-shaped mark] | Upper right of Albert's identification area, above/right of the Date of Birth entry. The large mark sits above the small numbered annotation. |
-| N5 | P.C. 38483<br>28/2/19 | Immediately beneath the surname Goldstone, in the top identification area, above the horizontal rule beginning the engagement/physical-description block. No printed column heading belongs to this annotation. |
+| N4 | N.P. 1391/02<br>[large P-shaped mark] | Upper right of Albert's identification area, above/right of the Date of Birth entry. The large mark sits above the small numbered annotation. |
+| N5 | P.C. 384833<br>[26/28]/2/19 | Immediately beneath the surname Goldstone, in the top identification area, above the horizontal rule beginning the engagement/physical-description block. No printed column heading belongs to this annotation. |
 | N6 | [tick/check mark] | Near the beginning of the upper physical-description/age area. It is a mark, not a word or date. |
 | N7 | [large check/cancellation strokes] | Across the final discharge/war-gratuity area and the war-gratuity notation in Remarks. Their wording, if any, cannot be recovered. |
 | N8 | [black ink blot] | Across most of the engagement year, after 19 June and before the surviving final 4. It is an obstruction, not transcribed text. |
 | N9 | [black ink blot and overwritten figures] | Around the certificate/reference entries in the right side of Remarks. The visible fragments are recorded in section 11. |
 
-**Transcription notes:** The meaning of **P.C.** is not supplied by the page; it is left unexpanded. Its number **38483** is separate from the badge number **36842** in Appendix B. Blank spaces, ruling and ordinary connecting pen strokes are not words. No text from the neighbouring man's record, and no later biographical corrections, have been inserted into Albert's original entries.
+**Transcription notes:** The meaning of **P.C.** is not supplied by the page; it is left unexpanded. Its number **384833** is separate from the badge number **36842** in Appendix B. Blank spaces, ruling and ordinary connecting pen strokes are not words. No text from the neighbouring man's record, and no later biographical corrections, have been inserted into Albert's original entries.
 
 **Source scope:** This transcription covers all visible content belonging to Albert on the supplied service-record page, including cancelled writing, printed stamps and administrative annotations. Portions masked by ink, cropping or overwritten handwriting are explicitly marked. The two award-register appendices reproduce only his own row in each separate source.
