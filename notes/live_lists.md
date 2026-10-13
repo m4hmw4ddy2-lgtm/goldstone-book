@@ -35,7 +35,7 @@ skeleton named for each chapter.
 | Part Five | Albert | PLAN PROPOSED 13 Oct 2026 (PART_FOUR_plan.md form): span 11 Nov 1901 to Albert's death, June 1962; three chapters proposed, 20 "Farm Labourer" (1901-1910), 21 "Invalided" (1910-1919), 22 "I Shall Live to Fight Again" (1919-1962). DECIDE 1 to 14 for Rik (14: Brian, 1932-1937, added after Rik's repo changes the same day). Chapter Twenty skeleton PROPOSED the same day on the plan's recommendations (void where Rik rules otherwise). Next: Rik rules the plan's DECIDE points. | PART_FIVE_plan.md; CHAPTER_20_skeleton.md |
 | Part Six, Coda | | Not begun | MASTER_NOTES |
 
-PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second family tree ("From Elizabeth to the author") stands at the end of Chapter Seventeen, before the title page of Part Four, so that the reader has it just before meeting Part Four's people, as with the first tree. (First ruling, superseded: the head of Part Five.) The first tree ("Two families, to 1883") stands at the front of the book, before the Prologue (Rik, 12 October 2026: "so the reader knows it is there from the outset"; the notes had said back matter). Each tree stands where its people are about to appear.
+PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second family tree ("From Elizabeth to the author") stands at the end of Chapter Seventeen, before the title page of Part Four, so that the reader has it just before meeting Part Four's people, as with the first tree. (First ruling, superseded: the head of Part Five.) The first tree ("Two families, to 1883") stands after the Prologue, before the title page of Part One (Rik, 13 October 2026; superseded: "at the front of the book, before the Prologue", Rik, 12 October 2026, "so the reader knows it is there from the outset"; the notes had said back matter before that). Each tree stands where its people are about to appear.
 
 ## 1. DECISIONS WAITING FOR RIK
 - (13 October 2026) PART FIVE PLAN PROPOSED: notes/PART_FIVE_plan.md. DECIDE 1 to 14 (span, chapters, opening,
@@ -212,7 +212,7 @@ PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second fami
 - (Added 4 October 2026, Rik; settled the same day.) [12 October 2026 (Rik): the first family tree is NOT back matter:
   it stands at the front of the book, before the Prologue, "so the reader knows it is there from the outset". The
   notes had recorded it as back matter since 4 October; corrected on Rik's word. The back matter is now "People in This
-  Story", then notes, sources, acknowledgements.] BACK MATTER, in this order: (1) a family tree; (2) "People in
+  Story", then notes, sources, acknowledgements. REVISED 13 October 2026 (Rik, on seeing the assembled PDF: "I prefer the current position of tree 1"): the first tree stands AFTER the Prologue and before Part One's title page.] BACK MATTER, in this order: (1) a family tree; (2) "People in
   This Story" (not "List of Characters", which sounds fictional); (3) notes, sources, acknowledgements. "People in
   This Story": selective, 15 to 25 people, grouped loosely (families / witnesses / officials / later family), one line
   each, birth year only (or baptism year, or "c."), no death years. Draft: backmatter/PEOPLE_IN_THIS_STORY.md (a list, not a table: name in bold with year, the description on the line below). Family trees

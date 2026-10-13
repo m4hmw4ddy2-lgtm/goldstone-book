@@ -593,7 +593,7 @@ Albert's daughter. Rik's paternal grandmother. Born 1 March 1921, Chatham. The G
 | Dr Clarke "of London" | Second examining doctor at Chelmsford alongside Orange | Full name unknown |
 | William's great-uncle | Committed suicide (press only, one witness: Times 1 Oct 1883, copied by the BMJ and Penny Illustrated 6 Oct) | Identity unknown |
 | "Cousin Gouldstone in Mash Street" | Referenced in William's Chelmsford letter | Identity unknown |
-| Mrs Graves | William Graves's wife; present at funeral | No first name in any source |
+| Mrs Graves | William Graves's wife; present at funeral | **Martha**: the wife in his household at the 1871, 1881 and 1891 censuses (MASTER_NOTES, William Graves's census run; his first wife Harriet was alive in 1861). "No first name in any source", carried here until 13 October 2026, was stale. Whether the press's "Mrs Graves" at the funeral is Martha is an inference from the 1881 and 1891 censuses (she was his wife either side of 1883) |
 | The 1883 Vicar of St James, Walthamstow | Made statement to Home Secretary per BMJ 29 Sep | Almost certainly Grantham Robinson — confirmed |
 | Joseph Gouldstone | Thomas's father; William's paternal grandfather | **Resolved 15 July 2026**: baptised 1793, blacksmith, Great Sampford and Little Sampford, buried 1876 St Michael's Great Sampford. See full entry above. |
 | Ruth Gouldstone | Thomas's mother; William's paternal grandmother | **Resolved 15 July 2026**, with an open contradiction: birthplace given as Broomfield (1851) or Bedford (1861), unreconciled. Buried 1866, St Michael's Great Sampford. See full entry above. |
