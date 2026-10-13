@@ -1,5 +1,6 @@
 DEATH CERTIFICATE (GRO, ENTRY STRIP ONLY): BRIAN RONALD ALBERT GOLDSTONE, 15 MAY 1937, ST BARTHOLOMEW'S HOSPITAL, ROCHESTER
-Image: sources/images/death-certificates/Brian Goldstone Death Cert 1937.jpg
+Image: sources/images/death-certificates/Death Cert Brian Ronald Albert Goldstone.jpg (Rik's upload, 3490 x 425; the
+check below was first made on a smaller copy of the same strip and re-checked on this one, 13 October 2026)
 Supplied by Rik, 13 October 2026, as a crop of the entry line only: the certificate's heading (registration district,
 sub-district, county), certificate number and issue details are NOT in the image. GRO death index: 1937 June quarter,
 Medway, 2A 992 (dramatis_personae.md, Albert Jennet Goldstone).
