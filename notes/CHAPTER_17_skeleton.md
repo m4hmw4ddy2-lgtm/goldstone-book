@@ -484,3 +484,22 @@ only if a DECIDE point brings them in: the Kirkcudbrightshire Advertiser (DECIDE
 ## PLACEMENT OF THE SECOND FAMILY TREE (Rik, 12 October 2026)
 "From Elizabeth to the author" stands at the end of this chapter, after its last line and before the title page of
 Part Four. Nothing in the chapter text changes. (live_lists.md, section 0, PLACEMENT.)
+
+## REOPENED FOR ONE PARAGRAPH, 13 OCTOBER 2026 (the Broadmoor warrants)
+New source: the Home Office removal and reception warrants, both "Given at Whitehall the 8th day of October 1883",
+"(sd) W. V. Harcourt", office number A 31638 (sources/images/broadmoor-documents/; transcribed/
+Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; archive and reference to be supplied by Rik).
+- DECIDE (13 October 2026): (a) leave the approved chapter; (b) add the warrants on Monday the eighth, the day to which
+  the hanging had been put back (Times 26 Sep), under the linear rule. RULED (b) (Rik: "yes, b").
+- Drafted 13 October 2026: one paragraph, between the BMJ of 6 October and "William was told on Wednesday the tenth".
+  Quoted: "until he shall be lawfully removed or discharged" (reception warrant, printed form with "he" in manuscript;
+  image-checked 13 Oct). "Filled up and authenticated" in our voice, from the removal warrant's printed clause
+  (image-checked 13 Oct). Unattributed lines from press reports of sworn evidence: none.
+- Why the next paragraph still stands: the Times of 11 October has removal "as soon as the necessary documents can be
+  completed" ("once the papers were ready"). Harcourt's warrants were signed on the 8th; what remained was the
+  certificate the removal warrant orders the prison to send with him. The new paragraph names it, so the two agree.
+- Not used in prose: the conviction date in both warrants, "the 10th day of September" (the opening day of the
+  Sessions, Old Bailey t18830910-849; the trial was Friday 14th); the Act cited for the certification, 27 & 28 Vict.
+  c. 29, s. 2 (wording not yet read from the page image).
+- 13 October 2026: Rik added the paragraph to chapters/CHAPTER_17.md himself (as drafted; curly quotation marks round
+  the quoted phrase, where the rest of the chapter has straight ones). Chapter approved as amended.
