@@ -1,0 +1,29 @@
+DEATH CERTIFICATE (GRO, ENTRY STRIP ONLY): BRIAN RONALD ALBERT GOLDSTONE, 15 MAY 1937, ST BARTHOLOMEW'S HOSPITAL, ROCHESTER
+Image: sources/images/death-certificates/Brian Goldstone Death Cert 1937.jpg
+Supplied by Rik, 13 October 2026, as a crop of the entry line only: the certificate's heading (registration district,
+sub-district, county), certificate number and issue details are NOT in the image. GRO death index: 1937 June quarter,
+Medway, 2A 992 (dramatis_personae.md, Albert Jennet Goldstone).
+Transcription created 13 October 2026; none existed before.
+
+IMAGE CHECK (check-once rule): 13 October 2026 (Claude). The whole entry checked column by column, in three enlarged
+crops from the supplied image. Uncertain readings marked [?].
+
+No.: 168
+1 When and where died: "Fifteenth May 1937 Saint Bartholomews Hospital Rochester U D"
+2 Name and surname: "Brian Ronald Albert Goldstone"
+3 Sex: "Male"
+4 Age: "4 years"
+5 Occupation: "of 33a Connaught Road Chatham U D Son of Albert Goldstone Rigger H.M.D."
+6 Cause of death: "1 (a) Tuberculous meningitis certified by [P? R?]. O'Brien M B"
+7 Signature, description and residence of informant: "C. I. Goldstone mother Present at the death 33a Connaught Road Chatham"
+8 When registered: "Eighteenth May 1937"
+9 Signature of registrar: "B. E. J. Billinghurst Registrar"
+
+NOTES
+- "U D" is written after both Rochester and Chatham as it stands in the image; read as written, not expanded.
+- "H.M.D.": as written. Its expansion (His Majesty's Dockyard) is not given on the certificate; Chatham Dockyard is
+  where Albert worked after the Navy (dramatis_personae.md), but the expansion is ours and not to be quoted as the record's.
+- The doctor's initial is a single letter followed by a stroke, before "O'Brien": P or R, not settled.
+- "(a)": the bracketed letter is small and could be read as (o); "1 (a)" is the printed-form convention for the
+  immediate cause, and is the reading taken.
+- 33a Connaught Road is the address on the 1939 Register (dramatis_personae.md).
