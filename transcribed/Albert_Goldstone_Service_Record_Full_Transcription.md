@@ -9,6 +9,16 @@ Transcribed for Rik Ferguson, 13 October 2026. Updated with Rik's supplied corre
 - Remarks: **"Passed profly P.O. 20-10-16"**: confirmed.
 The rest of this transcription was not re-checked by Claude; it stands as Rik supplied and corrected it.
 
+**SECOND IMAGE CHECK, 13 October 2026 (Claude, Part Five planning; page 2 rendered at 300 dpi, each cell cropped and enlarged).** The cells where the briefing differs from this transcription, and three others:
+- Class for Conduct (section 9): **this transcription confirmed**: "2nd 21.12.04 / 1st 4.7.05" and "2nd 2.3.06 / 1st 12.3.07". The briefing's "3rd", "4.12.04" and "12.5.07" are wrong.
+- Majestic, first entry (section 4, sequence 7): closes **"20 Dec"** [04]: confirmed. The briefing's 28 December is wrong.
+- Badges (section 6), the second D1: **"31.5.17"**: confirmed. The briefing's 3.5.17 is wrong.
+- Tyne (sequence 25): the letter before ".B.31" is a looped capital, neither clearly I nor P (T possible). Read as **"[?].B.31"**; both "I.B.31" and "P.B.31" are uncertain.
+- N5: the number reads **six digits, "38485[3/8]"** (last digit overwritten), not "38483"; the date beneath reads **"26/2/19" or "28/2/19"** (second digit uncertain).
+- N4: reads **"N.P. 1391/02"**, not "139/02".
+- Age, first entry: the digit is overwritten (15 to 16, or 16). Height: "5-0[2/½]".
+NOT checked: the ship's-book numbers in "List and No." (the briefing's readings differ in several); the clothing gratuity sums; Remarks entries 1, 5 and 7. The body below has not been altered; these readings stand over it.
+
 **Original:** The National Archives, **ADM 188/383**, official number **218159**, image reference **122**. [Service-record PDF](https://github.com/m4hmw4ddy2-lgtm/goldstone-book/blob/main/sources/images/albert-goldstone/Albert%20Goldstone%20Naval%20Record.pdf).
 
 This document follows the original printed fields and columns. The central section contains parallel vertical lists: ships and service dates, sub-ratings, badges, character assessments, and discharge/punishment entries. Each is transcribed under its own heading in source order. The original has no horizontal rules linking every item across these lists. Their separate tables retain the original column membership. The lower **Class for Conduct**, **Clothing and Bedding Gratuities**, and **Remarks** blocks follow. Annotations outside those fields appear in the position notes at the bottom.
