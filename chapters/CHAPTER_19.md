@@ -36,7 +36,7 @@ On the thirteenth, the Herne Bay Press reported, the boy was "bound over to come
 
 On the fourth of September 1901 William Madams was admitted to the Kent County Lunatic Asylum at Chartham, near Canterbury.
 
-Albert enlisted in the Royal Navy on the eleventh of November, as Albert Goldstone, and was entered as a boy second class on the training ship Impregnable.
+Albert entered the Royal Navy on the eleventh of November, as Albert Goldstone, and was entered as a boy second class on the training ship Impregnable.
 
 Madams died in the asylum on Saturday the twenty-third of November, aged forty-two. His death certificate gives the cause as "General Paralysis of the Insane about 3 months", and the death was registered by the asylum's clerk.
 
