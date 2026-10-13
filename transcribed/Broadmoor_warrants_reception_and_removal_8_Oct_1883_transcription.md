@@ -140,8 +140,15 @@ concern.                                                [ms.] (sd) W. V. Harcour
    Orange's report, and word of the certificate reaching the Sheriff only on 10 October. The warrants are consistent
    with the certificate having been in Harcourt's hands by 1 October (the report and the certificate may be one
    paper); they do not date the certificate. INFERENCE, not fact.
-5. The certification is made "under the provisions of the 27th & 28th Vic: Cap. 29" (the Criminal Lunatics Act 1864,
-   by its regnal citation; its terms are general knowledge, TO VERIFY before use).
+5. The certification is made "under the provisions of the 27th & 28th Vic: Cap. 29": the Act of 23 June 1864 amending
+   3 & 4 Vict. c. 54 on insane prisoners (legislation.gov.uk, ukpga_18640029_en.pdf, read 13 October 2026 through a
+   summarising fetch, NOT against the page image). Section 2, latter part: where it appears to a Secretary of State that
+   a prisoner under sentence of death is insane, he is to appoint two or more registered physicians or surgeons to
+   inquire; if they find him insane they certify it in writing to him, and on that certificate he directs by warrant
+   under his hand removal to an asylum. The Act says nothing of a respite. This matches the record: Harcourt sent
+   Clarke and Orange, they reported, and the removal warrant is the warrant "under his Hand". (The 1869 Act,
+   32 & 33 Vict. c. 78, also checked 13 October: it concerns criminal lunatics whose terms of punishment have expired,
+   and does not bear on William.) Quote nothing from the Act until its page image has been read.
 6. A week between warrant and journey: signed 8 October, executed 15 October (the 7.45 from Chelmsford).
 7. The removal warrant orders a Schedule A certificate to travel with him, to be transcribed into Broadmoor's General
    Register. That certificate is not among these images; the Broadmoor admission register entry already held may be
