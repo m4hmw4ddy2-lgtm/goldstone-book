@@ -3,7 +3,9 @@
 SOURCE: six page images, sources/images/broadmoor-documents/
 - "William Gouldstone Removal Warrant p1.jpg", "p2.jpg", "p3.jpg"
 - "William Gouldstone Reception Warrant p1.jpg", "p2.jpg", "p3.jpg"
-Uploaded by Rik, 13 October 2026. ARCHIVE AND REFERENCE NOT YET RECORDED (ask Rik): the pages are office copies
+Uploaded by Rik, 13 October 2026. ARCHIVE AND REFERENCE: The National Archives, Kew, HO 145/3 (Home Office: Criminal
+Lunacy Warrant and Entry Books), images from Ancestry, "England & Wales, Criminal Lunacy Warrant and Entry Books,
+1882-1898" (citation supplied by Rik, 13 October 2026). The pages are office copies
 ("Copy" at head; signature given as "(sd) W. V. Harcourt") bound in an alphabetically tabbed volume, folio 78.
 Printed forms B "(250 3|82-H & S 1785)" (removal) and B "(250 2|82-H & S 1784)" (reception). Office number on both:
 "A 31638".
