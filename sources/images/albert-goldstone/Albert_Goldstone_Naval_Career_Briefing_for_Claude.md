@@ -1,11 +1,6 @@
 # Albert Goldstone: naval career and service-record transcription
 
-> **WARNING, 13 October 2026 (Claude, after checking the service-record image): this briefing is SUPERSEDED wherever it differs from `transcribed/Albert_Goldstone_Service_Record_Full_Transcription.md`, which is the authority for the record's text.** Checked against the image and found WRONG here:
-> - **"V.D. Heart" / "valvular disease of the heart": the record reads "Org Heart Disease" (organic heart disease).** Never use "V.D." for Albert's discharge: in a book about syphilis it would be read as venereal disease.
-> - Sub-rating S.G. "[1.4.10?] to 31.8.11": the record reads 14.10.13 to 31.8.18.
-> - "Passed profly P.O. [27?]-10-14": the record reads 20-10-16.
-> - "[EXCL.?] WAR GRATUITY": the stamp reads "TRACED WAR GRATUITY BY No. 41".
-> Other figures differ between the two documents and were NOT re-checked (list and ship's-book numbers for Impregnable, Agincourt, Jupiter, Shannon, Dominion, Crescent, Courageous and Pembroke 1916; Majestic's first closing date, 20 or 28 December 1904; badge D1, 31.5.17 or 3.5.17; the Class for Conduct block; Tyne "(I.B.31)" or "(P.B.31)"). Follow the transcription, or check the image, before any of them is used. The briefing's research questions, ship-history sources and cautions (the P.C. annotation; Victory's centenary; the 1918 surrender) remain useful.
+> Four readings corrected in place, 13 October 2026, against the service-record image (Claude): the discharge cause, the S.G. dates, the professional P.O. date and the gratuity stamp. Elsewhere, where this briefing and `transcribed/Albert_Goldstone_Service_Record_Full_Transcription.md` differ, follow the transcription or check the image.
 
 
 Briefing for Claude, prepared for Rik Ferguson. Revised 13 October 2026 after a field-by-field inspection of the original service sheet, the campaign medal roll and the newly supplied War Badges register.
@@ -68,7 +63,7 @@ During Albert's Pioneer posting she was **HMS Pioneer**, a Royal Navy ship on th
 
 Albert returned to **Pembroke I from 26 February to 26 October 1913**, then entered **Tyne on 27 October 1913**. The ship entry includes **“(P.B.31)”**. His service continued through the opening years of the First World War, and he became **Leading Seaman on 1 July 1916**. He moved to **Pembroke I on 28 July**, remaining until **3 November 1916**. That Pembroke posting was missing from the supplied timeline. [S1]
 
-The sheet records his **Petty Officer educational examination on 3 December 1912** and a **professional PO qualification dated 27 October 1914**, with the day marked for checking in the transcription. These qualifications preceded his eventual acting promotion. The sub-ratings also record **S.G.** and later **Acting G.L. II**, indicating gunnery training. These are specialist qualifications, distinct from his substantive rating. [S1, S27, S28]
+The sheet records his **Petty Officer educational examination on 3 December 1912** and a **professional PO qualification dated 20 October 1916**. These qualifications preceded his eventual acting promotion. The sub-ratings also record **S.G.** and later **Acting G.L. II**, indicating gunnery training. These are specialist qualifications, distinct from his substantive rating. [S1, S27, S28]
 
 His daughter **Lily Alma Rose Goldstone** was born on **14 December 1913**, according to the family documents. “Lilian Alma Irene” in the earlier timeline is an incorrect name. [S21-S23]
 
@@ -86,7 +81,7 @@ After **Pembroke I, 1 January-26 February 1918**, Albert entered **Alexander on 
 
 He became **Acting Petty Officer on 1 September 1918**. The sheet's wording is **“P.O. (act)”**. His daughter **Clarie Irene Goldstone** was born on **21 October 1918**, according to the 1939 Register, during his Alexander posting. [S1, S23]
 
-He returned to **Pembroke I on 17 January 1919**, and was **invalided on 26 March 1919**, aged 31. The record gives **“V.D. Heart”**, valvular disease of the heart. It records the condition, not its origin. [S1]
+He returned to **Pembroke I on 17 January 1919**, and was **invalided on 26 March 1919**, aged 31. The record gives **“Org Heart Disease”**, organic heart disease. It records the condition, not its origin. [S1]
 
 ## 3. Character, ability, discipline and medals
 
@@ -113,7 +108,7 @@ The annotation reads **“P.C. 38483 / 28/2/19”**. It is handwritten directly 
 
 The existence of naval protection certificates is documented; its application to Albert's annotation is an inference. The pension-certificate interpretation is also an inference, not a verified definition. [S30, S31]
 
-Neither the position under his name nor the February 1919 date establishes the type of document. Do not invent an explanation for the clerk's choice of position. The annotation does not establish that **28 February was the day Albert physically left Pembroke or returned to civilian life**. His recorded final posting ran from **17 January to 26 March 1919** and ended with **“Invalided - V.D. Heart”**, rather than an entry labelled demobilisation. Medical invaliding does not by itself rule out a protection certificate. [S1]
+Neither the position under his name nor the February 1919 date establishes the type of document. Do not invent an explanation for the clerk's choice of position. The annotation does not establish that **28 February was the day Albert physically left Pembroke or returned to civilian life**. His recorded final posting ran from **17 January to 26 March 1919** and ended with **“Invalided - Org Heart Disease”**, rather than an entry labelled demobilisation. Medical invaliding does not by itself rule out a protection certificate. [S1]
 
 **Keep the two numbers separate:** P.C. **38483**, meaning unconfirmed; Silver War Badge **36842**, issued **28 February 1919**, independently confirmed by its register. The shared date does not identify the P.C. document or prove the two administrative processes were the same. [S1, S29]
 
@@ -227,11 +222,11 @@ Printed headings: **Sub-ratings / Rating / From / To**.
 
 | Entry | Rating as written | From | To | Treatment |
 |---|---|---|---|---|
-| 1 | S.G. | [1.4.10?] | 31.8.11 | First date's spacing/figures need confirmation; not securely read as 14 December 1910 |
-| 2 | ~~[Act. G.L.2?]~~ | ~~[26.12.16?]~~ | Blank | Crossed-out entry; wording/date difficult under cancellation stroke |
+| 1 | S.G. | 14.10.13 | 31.8.18 | Image-checked 13 October 2026 |
+| 2 | ~~Act G.L.2~~ | ~~26.12.16~~ | Blank | Crossed-out entry; image-checked 13 October 2026 |
 | 3 | Acting G.L. II | 1-11-17 | Blank | Acting written above/alongside abbreviation |
 
-**S.G.** means Seaman Gunner; **G.L. II** means Gun Layer, second class. These are gunnery qualifications rather than the Boy/Ordinary/Able/Leading/Petty Officer rating sequence. The first date and cancelled line are kept as proposed readings, not promoted into settled biographical facts. [S27, S28]
+**S.G.** means Seaman Gunner; **G.L. II** means Gun Layer, second class. These are gunnery qualifications rather than the Boy/Ordinary/Able/Leading/Petty Officer rating sequence. The S.G. dates and the cancelled line were checked against the image on 13 October 2026. [S27, S28]
 
 ### F. Badges
 
@@ -303,7 +298,7 @@ Cells 10 d[ays]
 3 days Cells
 
 Invalided
-V.D. Heart [final word extended/partly overwritten]
+Org Heart Disease
 ```
 
 The first punishment is beside the Majestic portion, and the two shorter punishments beside the Jupiter portion. No offence or separate punishment date is stated in this column. Their durations are clear; dates must not be manufactured from nearby annual character dates.
@@ -311,7 +306,7 @@ The first punishment is beside the Majestic portion, and the two shorter punishm
 At the bottom is the stamp:
 
 ```text
-[EXCL.?] WAR GRATUITY BY No. 41
+TRACED WAR GRATUITY BY No. 41
 ```
 
 The initial stamped word is indistinct. Retain it as a transcription uncertainty rather than deriving an amount or eligibility decision from it.
@@ -359,7 +354,7 @@ Lower left handwritten remark:
 Upper right handwritten remark:
 
 ```text
-Passed profly P.O. [27?]-10-14
+Passed profly P.O. 20-10-16
 ```
 
 “Profly” is the abbreviated professional qualification. The month and year are clear. The proposed day is 27; comparison with the source or a cleaner scan is advised before using the exact day in final prose.
