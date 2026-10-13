@@ -488,7 +488,7 @@ Part Four. Nothing in the chapter text changes. (live_lists.md, section 0, PLACE
 ## REOPENED FOR ONE PARAGRAPH, 13 OCTOBER 2026 (the Broadmoor warrants)
 New source: the Home Office removal and reception warrants, both "Given at Whitehall the 8th day of October 1883",
 "(sd) W. V. Harcourt", office number A 31638 (sources/images/broadmoor-documents/; transcribed/
-Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; archive and reference to be supplied by Rik).
+Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; TNA HO 145/3, via Ancestry).
 - DECIDE (13 October 2026): (a) leave the approved chapter; (b) add the warrants on Monday the eighth, the day to which
   the hanging had been put back (Times 26 Sep), under the linear rule. RULED (b) (Rik: "yes, b").
 - Drafted 13 October 2026: one paragraph, between the BMJ of 6 October and "William was told on Wednesday the tenth".

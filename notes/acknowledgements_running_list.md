@@ -80,14 +80,24 @@ documents later show.
 - **Essex Record Office**: parish registers and deeds (Great Sampford, Thaxted, Wethersfield, Walthamstow).
 - **General Register Office**: birth, marriage and death certificates and indexes.
 - **Old Bailey Proceedings Online**: the trial account.
-- **British Newspaper Archive** and the **MyHeritage** newspaper collection: the 1883 press coverage.
+- **British Newspaper Archive**: the 1883 press coverage (with MyHeritage's newspaper collection, below).
 - **JSTOR** (Early Journal Content): the British Medical Journal of 22 and 29 September and 6 October 1883, page
   images from which the four BMJ transcriptions were checked or remade, 7 October 2026. JSTOR's terms (section 3,
   clause 2.1) ask that JSTOR be acknowledged as the source of Early Journal Content. Recorded: the headers of
   `transcribed/BMJ_*_1883_*.txt`.
 - **National Library of Scotland** map collections: the Ordnance Survey six-inch sheets (London III.SE, Essex
   LXV.SW).
-- **Ancestry**, **FamilySearch** and **FreeCEN**: census and parish indexes.
+- **Ancestry** (Rik, 13 October 2026: to be acknowledged in its own right): census and parish indexes; record
+  collections from The National Archives, including HO 145/3 (the Broadmoor warrants, 8 October 1883) and MH 94 (the
+  Lunacy Patients Admission Registers, William Madams, 1901); AncestryDNA, including the comparisons with Mary and
+  Steve (sources/genealogy/chromato_*.csv); the Ancestry family tree (sources/genealogy/Ancestry Tree.ged).
+  Check Ancestry's terms for the credit line.
+- **MyHeritage** (Rik, 13 October 2026: to be acknowledged in its own right): the newspaper collection, for the 1883
+  press coverage; DNA matching, including the match with Bronwyn Joule (found 10 September 2026; above, under DNA
+  matches); the MyHeritage family tree (sources/genealogy/MyHeritage Tree.ged). Check MyHeritage's terms for the
+  credit line.
+- **FamilySearch** and **FreeCEN**: census and parish indexes.
+- **The National Archives, Kew**: HO 145/3, the Home Office warrants of 8 October 1883 for William's removal to and reception into Broadmoor (images via Ancestry; added 13 October 2026; transcribed/Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md). Check TNA's and Ancestry's terms for the credit line.
 - **Met Office** Daily Weather Reports (digitised), with the transcription by Craig and Hawkins (2024), if
   weather data is used in the finished text.
 - **Parks & Gardens** register and **Hidden London**: the cemetery buildings.
