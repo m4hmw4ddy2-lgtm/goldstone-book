@@ -32,11 +32,17 @@ skeleton named for each chapter.
 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026 | CHAPTER_16_skeleton.md |
 | 17 | Until Further Signification | Approved 10 Oct 2026 (about 870 words; closes Part Three). Amended 13 Oct 2026: one paragraph added on the Broadmoor warrants of 8 Oct (Rik ruled (b); added to the chapter by Rik the same day) | CHAPTER_17_skeleton.md |
 | Part Four | Elizabeth | Part plan ruled 10 Oct 2026: two chapters, 18 "Illegitimate" (Lambeth), 19 "Late Goldstone Formerly Stock" (Whitstable, to her death). Chapter Eighteen PLANNED 10 Oct 2026: DECIDE A-H ruled (E option b; rest as recommended). APPROVED 10 Oct 2026 (one movement, about 300 words; Rik: "it's a chapter"). Chapter Nineteen PLANNED 10 Oct 2026 (CHAPTER_19_skeleton.md): DECIDE A-O ALL RULED 10 Oct 2026 (A reopened and ruled: open on Lilian's birth at Beach Alley, 1890); earlier: DECIDE A-M ruled (A (a) resolved; F option c, H option c, J and L revised). Beach Alley located (modern map held). Before drafting: the Warspite source only (Caird Library enquiry sent 10 Oct). No longer required (Rik, 10 Oct): the MH 94 image (H: date usable, read by Rik) and the J papers in the repo ("we have the origin") CHAPTER NINETEEN APPROVED 12 Oct 2026 (Rik: "Final"; read through and revised line by line the same day, about 1,000 words). Earlier the same day: DRAFTED IN FULL AND SENT (Rik: "gimme the files"; about 1,000 words, three movements), with ONE bracketed gap: the Warspite (one or two sentences, from the Caird Library reply; F (c)). ONE CHECK OUTSTANDING on the approved text (a recorded gap, not a reopening): the Warspite sentences. ("The training ship Impregnable" SETTLED 13 Oct 2026, Rik; section 4, item 58.) Next: that; then Part Five. | PART_FOUR_plan.md; CHAPTER_18_skeleton.md; CHAPTER_19_skeleton.md |
-| Parts Five and Six, Coda | | Not begun | MASTER_NOTES |
+| Part Five | Albert | PLAN PROPOSED 13 Oct 2026 (PART_FOUR_plan.md form): span 11 Nov 1901 to Albert's death, June 1962; three chapters proposed, 20 "Farm Labourer" (1901-1910), 21 "Invalided" (1910-1919), 22 "I Shall Live to Fight Again" (1919-1962). DECIDE 1 to 14 for Rik (14: Brian, 1932-1937, added after Rik's repo changes the same day). Chapter Twenty skeleton PROPOSED the same day on the plan's recommendations (void where Rik rules otherwise). Next: Rik rules the plan's DECIDE points. | PART_FIVE_plan.md; CHAPTER_20_skeleton.md |
+| Part Six, Coda | | Not begun | MASTER_NOTES |
 
 PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second family tree ("From Elizabeth to the author") stands at the end of Chapter Seventeen, before the title page of Part Four, so that the reader has it just before meeting Part Four's people, as with the first tree. (First ruling, superseded: the head of Part Five.) The first tree ("Two families, to 1883") stands at the front of the book, before the Prologue (Rik, 12 October 2026: "so the reader knows it is there from the outset"; the notes had said back matter). Each tree stands where its people are about to appear.
 
 ## 1. DECISIONS WAITING FOR RIK
+- (13 October 2026) PART FIVE PLAN PROPOSED: notes/PART_FIVE_plan.md. DECIDE 1 to 14 (span, chapters, opening,
+  the Germany birthplace and 1886, the 1910 marriage, her death in his record, William's death in 1935, the Navy
+  selected, the 1911 census, family memory to Part Six, Chatham selected, the ending, titles, Brian). Proposed
+  Contradictions 119 to 122 and corrections Q1 to Q9 there, NOT applied (Q1, the High Seas Fleet, is plainly wrong:
+  apply when ruled, grepping the repo). Chapter Twenty skeleton proposed on the recommendations.
 - (10 October 2026) Chapter Nineteen DECIDE A to O ALL RULED (CHAPTER_19_skeleton.md, DECISIONS and the foot). SETTLED
   the same day: A ruled, open on Lilian's birth at Beach Alley (certificate held); J, the same-disease sentence (never
   who gave it to whom), sources found and accepted without copies in the repo; L, Beach Alley located (modern map); H,
@@ -92,7 +98,9 @@ PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second fami
 ## 2. OPEN QUESTIONS
 ### Albert and his family (added 2 October 2026)
 - "Heckenning Houzellon", Germany: Albert's stated birthplace (naval record, 1921 census). A real place, a garbling of one, or invented?
-- Census references still to record: the 1939 Register (RG 101 piece); the 1891 folio (index says 20, not visible on the image).
+- Census references still to record: the 1939 Register (RG 101 piece) [13 October 2026: RG 101/1692A by the Ancestry tree; confirm from the record]; the 1891 folio (index says 20, not visible on the image).
+- (13 October 2026) Was the family's story of Albert's birth Germany or France? Linda Neaves's letter (Lil and Doris: France; Rene: "absolute rubbish"; Steve found the German link) against dramatis's "The Germany lie passed to Vera as fact". PART_FIVE_plan.md, finding 9. For Rik.
+- (13 October 2026) The Chatham Goldstones (Frederick, b. c.1854 Islington; his daughter Amy married David Ethell, 1911): any connection to Albert or the Gouldstones? Not shown. Namesake trap for Part Five; a question for Part Six if anywhere (PART_FIVE_plan.md, finding 12).
 - Where Vera was at the 1939 Register (not in her parents' household at 33A Connaught Road).
 - Albert's age on the 1921 census, 35 or 38: Contradiction 92.
 - Clarie junior's and Doris's birth dates, Clarie senior's age: Contradiction 91.
@@ -159,7 +167,7 @@ PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second fami
 - The origin of Albert's middle name, Jennet.
 - S. Frost: full name and role at the Brook Street infirmary (1891 census of staff).
 - Who else lived at 2 John Street, Hercules Buildings, in 1881, 1887 and 1891.
-- Albert's 1930 SS Orbita record: from a ChatGPT-archive summary only; verify against a shipping list.
+- ~~Albert's 1930 SS Orbita record: from a ChatGPT-archive summary only; verify against a shipping list.~~ ANSWERED 13 October 2026: the inward list is held (sources/images/albert-goldstone/Albert Goldstone Travel.jpg; BT 26/927 by the Ancestry tree): embarked Bermuda, landed Plymouth 14 July 1930, 46 Edinburgh Rd., second class, "Rigger", 44 (PART_FIVE_plan.md, finding 6).
 
 ### The family before 1883
 - ~~**Emma Ansell's age in 1851**~~ DECIDED 1 October 2026 (Rik): Chapter Two says ten. The census wrote eight; the
@@ -283,6 +291,15 @@ PLACEMENT, ruled 12 October 2026 and REVISED the same day (Rik): the second fami
 
 59. (Added 13 October 2026, Part Five.) GRO certificates for Brian Ronald Albert Goldstone. DEATH CERTIFICATE OBTAINED 13 October 2026 (entry strip; died 15 May 1937, St Bartholomew's Hospital, Rochester, tuberculous meningitis; "Son of Albert Goldstone"; transcribed/Brian_Goldstone_death_certificate_1937_transcription.txt). Still wanted: (a) the full death certificate image, for the registration district and sub-district in its heading; (b) the birth certificate (1932 Sep quarter, Medway, 2A 1314), for date, address and informant. Then, if wanted: his burial (Chatham; cemetery register or grave), and any local press notice. See dramatis_personae.md, Albert Jennet Goldstone.
 58. ~~(Added 12 October 2026, Chapter Nineteen.) The Navy List for 1901 (or another period source): that HMS Impregnable was the boys' training ship at Devonport when Albert was entered on 11 November 1901. Chapter Nineteen says "the training ship Impregnable" (approved 12 October); the naval record gives only "Impregnable", Boy 2nd Class.~~ SETTLED 13 October 2026 (Rik), on his own research against the naval record and Historic England; no Navy List needed (CHAPTER_19_skeleton.md, DRAFTING log).
+60. (Added 13 October 2026, Part Five; HIGH.) Albert's death certificate: GRO, Jun qtr 1962, vol. 5b, p. 350 (index via the Ancestry tree). Part Five's ending (PART_FIVE_plan.md, DECIDE 12): place, age as recorded (which birth year), cause, informant.
+61. (Added 13 October 2026, Part Five.) 1911 census, HMS Dominion, RG 14/34971, p. 11 (Ancestry index: "Hukening Honyllon, Germany", married): the image. NOTE: the repo's sources/images/census-stuff/1911 Census.png is Emily Willett Gouldstone's schedule, not Albert's.
+62. (Added 13 October 2026, Part Five.) Into the repo: the medal roll image (ADM 171/103, p. 131; Rik's screenshot of 12 October) and the War Badges register image (IMG_0040.jpeg), with the register's reference (ADM 171/180 by the Ancestry tree) and folio.
+63. (Added 13 October 2026, Part Five.) For any ship event used in prose, a contemporary or official source saved to the repo: Prince George rammed by Hannibal, October 1903 (Papers Past reports, briefing [S8]); Newbolt, Naval Operations V (1931), Heligoland Bight, 17 November 1917; London Gazette despatches on North Russia (Alexander).
+64. (Added 13 October 2026, Part Five.) Why Albert was in Bermuda in July 1930 (the Admiralty dockyard? Chatham Dockyard records); Chatham Dockyard employment records generally ("Seaman Yard Craft", 1921; "ship rigger", 1933 and 1939; the ropery foreman story).
+65. (Added 13 October 2026, Part Five.) Linda Neaves's letter as she sent it (pasted by Rik into the ChatGPT archive, chatgpt-book-proposal-feedback.txt, about line 10155), into correspondence/, with her permission.
+66. (Added 13 October 2026, Part Five.) Albert's burial: Findagrave memorial 224968938 (Ancestry tree); the cemetery's register entry.
+67. (Added 13 October 2026, Part Five.) The printed form of an English marriage register in 1910: whether it had any column for a mother, before any sentence relies on it (PART_FIVE_plan.md, finding 13).
+68. (Added 13 October 2026, Part Five.) For William's death in Part Five (DECIDE 7): item 28 ("confusional insanity") before Milne is quoted.
 57. (Added 11 October 2026, from CHAPTER_17_skeleton.md, correction L.) For the respite weeks: the Essex Weekly News (or another Chelmsford paper), 28 September to 19 October 1883; the Walthamstow and Leyton Guardian of 6 and 13 October 1883. (A London daily of 19 October on Cole: folded into item 38; Cole is out of the main line.)
 56. (Added 11 October 2026, coherence review.) TNA J 77 (divorce court files) and its index, 1883-1906, under Gouldstone/Goldstone: to confirm that no divorce petition was filed, before any "never divorced" or "could not divorce" stands as fact.
 
@@ -376,6 +393,13 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 - Any characterisation of Elizabeth's drinking ("a drinker", "drank", "alcoholic") beyond the one charge of 1 April 1901 (Canterbury Journal, 6 April 1901), and any link from it to her death or to Madams's illness. The paper's "state of intoxication" and "very drunk" stay quoted and attributed
 - The Chelmsford Adjourned Sessions case of "Eliza Stock", 16 February 1869 (HO 140/5; theft from Alfred Snow at Great Dunmow), as Elizabeth's, in any form. Not even "may have been". Lead CLOSED 10 October 2026 (Rik): many namesakes; ages 15 and 17 against her 13
 - "born Germany" for Albert — his own 1901 enlistment lie; he was born in Lambeth
+- "Present at the surrender of the German High Seas Fleet" for Albert (dates table, dramatis, Ancestry ship note): he left Courageous on 31 December 1917 and was in Alexander, North Russia, from 27 February 1918 (ADM 188/383). Added 13 October 2026 (PART_FIVE_plan.md, finding 5)
+- "Rochonberg, Germany" as Albert's recorded birthplace, and "enlisted 19 June 1901 at 18": ChatGPT-archive misreadings of the service sheet
+- Albert "chose", "reclaimed" or "decided on" the name Goldstone, the birthplace or the year: motives; the documents record only the entries (Rik, 13 October 2026)
+- The Chatham Goldstones (Frederick, Amy) or the medal roll's other Albert Goldstone (S.P.O., 310716) as Albert's kin: namesakes, no connection shown
+- The cells punishments dated or explained (PART_FIVE_plan.md, finding 2): the sheet gives durations and positions only
+- The five dots on Albert's left hand as "five murdered half-siblings" IN THE NARRATOR'S VOICE (dramatis): speculation; the sheet gives "5 dots & ring on left hand" and nothing more. ALLOWED in Rik's own voice, framed as his own wondering, as the close of Part Six (Rik, 13 October 2026) (Rik, 13 October 2026; PART_FIVE_plan.md, finding 16, which holds his draft line, left hand as corrected)
+- "Chatham Borough Councillor" for Albert, as fact: family memory only; he lost in 1933 and 1934 (Observer), and no election is found (item 43)
 
 ## 6. NOT EVIDENCE — USABLE ONLY AS PRESS (under the press rule, project instructions)
 Devon_Evening_Express_Aug_9_1883.txt — confirmed fabricated as an account of events. Has William holding the hammer at the door (contradicts Ada's sworn "nothing in his hands") and has the boys' bodies found submerged rather than on the kitchen floor; also Frederick "laughed at him", "kissed and caressed", and the second twin dead at eleven. Never a source of fact. May be quoted as what one paper printed. It is a separate, more lurid text from the wire dispatch below, and the IPN of 18 August reprints its closing paragraph.
