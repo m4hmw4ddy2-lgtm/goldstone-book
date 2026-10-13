@@ -2,6 +2,13 @@
 
 Transcribed for Rik Ferguson, 13 October 2026. Updated with Rik's supplied corrections the same day.
 
+**IMAGE CHECK (check-once rule), 13 October 2026 (Claude, from the repository PDF, page 2, cropped and enlarged), the cells where this transcription and the briefing disagree:**
+- Discharge cause: reads **"Invalided" / "Org Heart Disease"** (organic heart disease). Corrected below from "Ong Heart [Riseart?]". It does NOT read "V.D. Heart".
+- Stamp at the foot of the discharge column: **"TRACED WAR GRATUITY BY No. 41"**: confirmed.
+- Sub-rating S.G.: **14.10.13 to 31.8.18**: confirmed. The cancelled line below reads "Act G.L.2" with "26.12.16" [day partly uncertain].
+- Remarks: **"Passed profly P.O. 20-10-16"**: confirmed.
+The rest of this transcription was not re-checked by Claude; it stands as Rik supplied and corrected it.
+
 **Original:** The National Archives, **ADM 188/383**, official number **218159**, image reference **122**. [Service-record PDF](https://github.com/m4hmw4ddy2-lgtm/goldstone-book/blob/main/sources/images/albert-goldstone/Albert%20Goldstone%20Naval%20Record.pdf).
 
 This document follows the original printed fields and columns. The central section contains parallel vertical lists: ships and service dates, sub-ratings, badges, character assessments, and discharge/punishment entries. Each is transcribed under its own heading in source order. The original has no horizontal rules linking every item across these lists. Their separate tables retain the original column membership. The lower **Class for Conduct**, **Clothing and Bedding Gratuities**, and **Remarks** blocks follow. Annotations outside those fields appear in the position notes at the bottom.
@@ -144,7 +151,7 @@ Original location: the main grid's rightmost column belonging to Albert's entry.
 | 1 | Cells 14 days | Beside the Majestic portion of the service list |
 | 2 | Cells 10 d[ays] | Beside the first Jupiter service entry |
 | 3 | 3 days Cells | Below the preceding cells entry, beside the following Jupiter portion |
-| 4 | Invalided<br>Ong Heart [Riseart?] | Bottom of the column, beside the closing Pembroke entry dated 26 Mar 19 |
+| 4 | Invalided<br>Org Heart Disease [image-checked 13 Oct 2026] | Bottom of the column, beside the closing Pembroke entry dated 26 Mar 19 |
 | 5 | TRACED WAR GRATUITY BY No. 41 | Stamp at the foot of the column, below/alongside the discharge writing |
 
 No separate date or offence is written against the cells annotations in this column. The position descriptions are editorial, not text in the original.
