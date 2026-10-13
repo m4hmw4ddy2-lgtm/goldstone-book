@@ -1,6 +1,7 @@
 # Albert Goldstone: naval career and service-record transcription
 
-> Four readings corrected in place, 13 October 2026, against the service-record image (Claude): the discharge cause, the S.G. dates, the professional P.O. date and the gratuity stamp. Elsewhere, where this briefing and `transcribed/Albert_Goldstone_Service_Record_Full_Transcription.md` differ, follow the transcription or check the image.
+> Four readings corrected in place, 13 October 2026, against the service-record image (Rik, by eye): the discharge cause, the S.G. dates, the professional P.O. date and the gratuity stamp. Elsewhere, where this briefing and `transcribed/Albert_Goldstone_Service_Record_Full_Transcription.md` differ, follow the transcription or check the image.
+> Corrected again 13 October 2026 (Rik): the P.C. number is **3848333** (six digits), not 384833; its date is 26 or 28 February 1919 (not settled); the upper-right annotation is **N.P. 1391/02**; the first age is **16**. Class for Conduct, Majestic's first closing date and the second badge loss: follow the transcription (image-checked).
 
 
 Briefing for Claude, prepared for Rik Ferguson. Revised 13 October 2026 after a field-by-field inspection of the original service sheet, the campaign medal roll and the newly supplied War Badges register.
@@ -97,22 +98,22 @@ The service sheet contains a **K.C.** stamp with **“ISSUED 17/4/19”**, consi
 
 ### The P.C. annotation: recorded fact and possible meanings
 
-The annotation reads **“P.C. 38483 / 28/2/19”**. It is handwritten directly beneath Albert's name in the top identification section, above the horizontal line separating that section from the engagement and physical-description fields. It is **outside the labelled service, badge and remarks columns**. [S1]
+The annotation reads **“P.C. 384833 / 28/2/19”**. It is handwritten directly beneath Albert's name in the top identification section, above the horizontal line separating that section from the engagement and physical-description fields. It is **outside the labelled service, badge and remarks columns**. [S1]
 
 **Its expansion is unconfirmed. Protection Certificate and Pension Certificate are both plausible; the available evidence does not reliably favour either.**
 
 | Interpretation | Why it remains plausible | What is still missing |
 |---|---|---|
-| Protection Certificate | Royal Navy men received protection and identity certificates after the Armistice. A surviving naval certificate and an Admiralty parliamentary answer establish this practice. | Evidence that P.C. on this particular service sheet denotes such a certificate, and that 38483 is its serial number. |
+| Protection Certificate | Royal Navy men received protection and identity certificates after the Armistice. A surviving naval certificate and an Admiralty parliamentary answer establish this practice. | Evidence that P.C. on this particular service sheet denotes such a certificate, and that 384833 is its serial number. |
 | Pension Certificate | A pension-related document is plausible in the context of Albert's medical invaliding. | A period-specific naval abbreviation key, the certificate, or a matching pension record establishing that expansion and number. |
 
 The existence of naval protection certificates is documented; its application to Albert's annotation is an inference. The pension-certificate interpretation is also an inference, not a verified definition. [S30, S31]
 
 Neither the position under his name nor the February 1919 date establishes the type of document. Do not invent an explanation for the clerk's choice of position. The annotation does not establish that **28 February was the day Albert physically left Pembroke or returned to civilian life**. His recorded final posting ran from **17 January to 26 March 1919** and ended with **“Invalided - Org Heart Disease”**, rather than an entry labelled demobilisation. Medical invaliding does not by itself rule out a protection certificate. [S1]
 
-**Keep the two numbers separate:** P.C. **38483**, meaning unconfirmed; Silver War Badge **36842**, issued **28 February 1919**, independently confirmed by its register. The shared date does not identify the P.C. document or prove the two administrative processes were the same. [S1, S29]
+**Keep the two numbers separate:** P.C. **384833**, meaning unconfirmed; Silver War Badge **36842**, issued **28 February 1919**, independently confirmed by its register. The shared date does not identify the P.C. document or prove the two administrative processes were the same. [S1, S29]
 
-Preferred research-note wording: **“P.C. 38483, dated 28 February 1919; meaning unconfirmed. Protection Certificate and Pension Certificate remain possible interpretations.”** Omit the unexplained abbreviation from narrative prose unless the uncertainty itself matters to the story.
+Preferred research-note wording: **“P.C. 384833, dated 28 February 1919; meaning unconfirmed. Protection Certificate and Pension Certificate remain possible interpretations.”** Omit the unexplained abbreviation from narrative prose unless the uncertainty itself matters to the story.
 
 ## 4. Specific outstanding research
 
@@ -120,7 +121,7 @@ These are discrete questions, not doubts about the career as a whole.
 
 1. **Exact joining locations:** establish the ships' positions on the joining dates before specifying Ferrol for Prince George, Gibraltar for Majestic, Portland for Shannon or Dominion, Sydney for Pioneer or Drake, or Archangel for Alexander. Powerful's posting date is not itself an arrival date in New Zealand.
 2. **Tyne (P.B.31):** identify the attachment and when it applied. The annotation is legible; the date of that attachment is not separately supplied.
-3. **P.C. annotation:** identify the separate “P.C. 38483” reference through a contemporary naval key or matching document. **Protection Certificate and Pension Certificate remain plausible, with neither established nor preferred.** The Silver War Badge itself is settled: number **36842**, issued **28 February 1919**. Obtain the full archive reference for the supplied War Badges register image for the final manuscript citation.
+3. **P.C. annotation:** identify the separate “P.C. 384833” reference through a contemporary naval key or matching document. **Protection Certificate and Pension Certificate remain plausible, with neither established nor preferred.** The Silver War Badge itself is settled: number **36842**, issued **28 February 1919**. Obtain the full archive reference for the supplied War Badges register image for the final manuscript citation.
 4. **A few handwritten details:** obtain a cleaner scan or check the source for the initials tattoo, altered ages and initial height, parts of the sub-rating dates, one examination day and administrative numbers. These are flagged at the relevant cells below.
 5. **Original family entries:** recheck the 1911 census and the marriage/1921 census images when preparing final source notes; the present career work relies on the project's prior readings for those entries. The 1939 Register was inspected directly.
 
@@ -151,9 +152,9 @@ Image Reference: 122
 | Official number, centre | 218159 |
 | Above centre number | W [or W-shaped mark; small additional mark above] |
 | Division/port annotation | ~~Portsmouth~~; Chatham [to W.B.?; connecting annotation unclear] |
-| Upper right annotation | [N.P.?] 139/02 [with large P-shaped mark above] |
+| Upper right annotation | N.P. 1391/02 [with large P-shaped mark above] |
 | Name, in full | Albert Goldstone |
-| Below surname | P.C. 38483 / 28/2/19 [expansion unconfirmed; Protection Certificate or Pension Certificate are possibilities, not established readings] |
+| Below surname | P.C. 384833 / 28/2/19 [expansion unconfirmed; Protection Certificate or Pension Certificate are possibilities, not established readings] |
 | Date of Birth | 19 June 1886 |
 | Place of Birth | [Heckeninghowzllon?], Germany [whole place-name reading uncertain; preserve original image for comparison] |
 | Occupation, original | ~~labourer~~ |
@@ -421,7 +422,7 @@ The archive series/piece and a folio or page number are not visible in the suppl
 
 Write the career as an established sequence, using British English and connected paragraphs. The service sheet and medal roll establish the personal facts. Integrate the collision, New Zealand visit, Heligoland Bight action and North Russian operations as events occurring during his service in the relevant ships. Do not append generic absence caveats to each event. Do not invent a battle station, dialogue or eyewitness detail.
 
-Use the original source references for manuscript notes. Keep transcription uncertainties in research notes unless they affect a statement in the text. Distinguish seaman rating, specialist sub-rating, educational/professional qualification, character, ability, conduct class, good-conduct badges and campaign medals. State the Silver War Badge award confidently from its own register: **36842, issued 28 February 1919**, under “Gladstone A.”, **218159**. Keep **P.C. 38483** separate and unexpanded: **Protection Certificate and Pension Certificate are both possible, with neither verified or preferred**. Do not turn its date into a physical departure date, describe a pension award as established, or restore the unsupported November 1918 surrender claim. The remaining research questions are listed in section 4, and need not be repeated throughout the narrative.
+Use the original source references for manuscript notes. Keep transcription uncertainties in research notes unless they affect a statement in the text. Distinguish seaman rating, specialist sub-rating, educational/professional qualification, character, ability, conduct class, good-conduct badges and campaign medals. State the Silver War Badge award confidently from its own register: **36842, issued 28 February 1919**, under “Gladstone A.”, **218159**. Keep **P.C. 384833** separate and unexpanded: **Protection Certificate and Pension Certificate are both possible, with neither verified or preferred**. Do not turn its date into a physical departure date, describe a pension award as established, or restore the unsupported November 1918 surrender claim. The remaining research questions are listed in section 4, and need not be repeated throughout the narrative.
 
 
 ## References
