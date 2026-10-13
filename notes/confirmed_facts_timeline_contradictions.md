@@ -440,6 +440,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 1 Oct (Mon) | The day first fixed for the execution. The Home Secretary signifies to the Sheriff that the sentence is respited "until further signification of Her Majesty's pleasure", after Clarke and Orange's report (Contradiction 105). The same morning the Times prints that Orange "entertains no doubt of his insanity" (press only) | Times 2 Oct; Times 1 Oct |
 | 3 Oct (Wed) | Home Office letter to the employers' solicitor advising the respite of the capital sentence, "Whitehall, Oct. 3, 1883" (Contradiction 80). Confirmed by Rik, 30 Sep 2026. The Preston Chronicle's "Wednesday" is the 10th, not the 3rd (Times 11 Oct; Contradiction 105) | Daily News 6 Oct; Times 6 Oct (same letter) |
 | 6 Oct | BMJ Medical News (a copy of the Times paragraph of 1 Oct) and editorial (pp.682-683); Penny Illustrated (same paragraph). Times: visited "this week by his wife and his sister" | BMJ; Penny Illustrated; Times 6 Oct |
+| 8 Oct (Mon) | The day to which the execution had been respited. Harcourt signs at Whitehall the warrant for William's removal from H.M. Prison, Chelmsford, to Broadmoor (to the Governor, with a certificate "duly filled up, and authenticated" to go with him) and the warrant for his reception (to the Superintendent, to keep him "until he shall be lawfully removed or discharged"). Both recite certification under 27 & 28 Vict. c. 29 "and thereupon" respite "until further signification of Her Majesty's Pleasure" (Contradictions 105, 118) | Removal and reception warrants, office copies, "(sd) W. V. Harcourt", A 31638, folio 78 (sources/images/broadmoor-documents/; transcribed/Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; handwriting image-checked 13 Oct 2026; archive reference not yet recorded) |
 | 10 Oct (Wed) | The Sheriff receives the Home Office communication that William has been certified of unsound mind and is to go to Broadmoor; the Under Sheriff, Charles Gepp, tells him the capital sentence will not be carried out (Contradiction 105) | Times 11 Oct; Preston Chronicle 13 Oct |
 | 12 Oct | Graves acknowledges £35 14s. 4d. subscribed for the defence, "insufficient to meet the bare expenses of the trial", so no provision for "the poor woman". His letter of 11 Oct rounds it to £36 against £50 paid | Times 12 Oct; Guardian 20 Oct |
 | 13 Oct | (Superseded 3 Oct 2026: the certification was received on Wednesday 10 October; the Preston Chronicle of the 13th reports it) | Preston Chronicle 13 Oct |
@@ -3314,6 +3315,16 @@ twelve months. Counted back, it put the start barely a month after they moved in
   of the letter, and Gouldstone received it with deep gratitude". This is the Preston Chronicle's "Wednesday".
 **Assessment.** Contradiction 80's recommended reading ("decided and communicated on 3 October") is superseded. The
 key dates in the project document (the letter of 3 October) are unaffected.
+**Added 13 October 2026 (the Broadmoor warrants of 8 October).** Both warrants recite that William "was duly certified to
+me under the provisions of the 27th & 28th Vic: Cap. 29. to be of unsound mind and thereupon the execution of the
+Sentence of Death was respited until further signification of Her Majesty's Pleasure" (removal warrant). Section 2 of
+that Act (read 13 October through a summarising fetch, not yet against the page image) has the Secretary of State
+appoint two or more physicians or surgeons to inquire into a condemned prisoner's insanity; they certify in writing to
+him, and on that certificate he orders removal by warrant under his hand. INFERENCE, not fact: Clarke and Orange were
+the two appointed, and their "report" of 1 October (Times, 2 October) was the certificate, so that William was
+certified before the indefinite respite of 1 October, not on or about the 10th. The warrants do not date the
+certificate. The 10 October entry stands as the day the Sheriff was told, not the day of certification. Chapter
+Seventeen says only "certified of unsound mind" on the 10th, as news received, and needs no change.
 
 ### 106. THE KISS: ONCE OR TWICE
 Times, 10 August (Ada, 9 August): "While in the room with his wife, the prisoner kissed her and he said, 'All the
@@ -3423,3 +3434,12 @@ ult."; sale "the next day" / "On the 30th ult." (two days after the 28th); "Corp
 arrest "admitted having stolen the boots and sold them" / "said the boots were at Mr. Pout's".
 **Assessment:** two reporters, two hearings; compatible on the substance. Prose uses one paper, named (Chapter
 Nineteen DECIDE C: the Folkestone Chronicle).
+
+### 118. THE CONVICTION DATE IN THE BROADMOOR WARRANTS: "THE 10TH DAY OF SEPTEMBER" (logged 13 October 2026)
+Both warrants of 8 October 1883 (removal and reception) recite that William "was at the Central Criminal Court on the
+10th. day of September 1883 convicted of Murder and sentenced to Death" (image-checked 13 October 2026; the figure is
+"10th" in both, not "14th"). He was tried, convicted and sentenced on Friday 14 September (Old Bailey; Times
+15 September). The September Sessions opened on Monday 10 September (Chapter Thirteen), and his Old Bailey reference is
+t18830910-849, the Sessions' own date.
+**Assessment:** the Home Office clerk wrote the date of the Sessions, not the day of the trial. Not a conflict with the
+trial date, which stands. Do not use the warrants' date in prose.
