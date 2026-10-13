@@ -1,5 +1,13 @@
 # Albert Goldstone: naval career and service-record transcription
 
+> **WARNING, 13 October 2026 (Claude, after checking the service-record image): this briefing is SUPERSEDED wherever it differs from `transcribed/Albert_Goldstone_Service_Record_Full_Transcription.md`, which is the authority for the record's text.** Checked against the image and found WRONG here:
+> - **"V.D. Heart" / "valvular disease of the heart": the record reads "Org Heart Disease" (organic heart disease).** Never use "V.D." for Albert's discharge: in a book about syphilis it would be read as venereal disease.
+> - Sub-rating S.G. "[1.4.10?] to 31.8.11": the record reads 14.10.13 to 31.8.18.
+> - "Passed profly P.O. [27?]-10-14": the record reads 20-10-16.
+> - "[EXCL.?] WAR GRATUITY": the stamp reads "TRACED WAR GRATUITY BY No. 41".
+> Other figures differ between the two documents and were NOT re-checked (list and ship's-book numbers for Impregnable, Agincourt, Jupiter, Shannon, Dominion, Crescent, Courageous and Pembroke 1916; Majestic's first closing date, 20 or 28 December 1904; badge D1, 31.5.17 or 3.5.17; the Class for Conduct block; Tyne "(I.B.31)" or "(P.B.31)"). Follow the transcription, or check the image, before any of them is used. The briefing's research questions, ship-history sources and cautions (the P.C. annotation; Victory's centenary; the 1918 surrender) remain useful.
+
+
 Briefing for Claude, prepared for Rik Ferguson. Revised 13 October 2026 after a field-by-field inspection of the original service sheet, the campaign medal roll and the newly supplied War Badges register.
 
 ## How to use this briefing
