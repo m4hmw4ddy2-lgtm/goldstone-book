@@ -73,14 +73,14 @@ saved: marked GK.)
 - 1911-1913: Crescent; Powerful (16 Sep to 16 Dec 1911; GK: New Zealand visit); Pioneer; Drake. 4 Dec 1911: first
   good conduct badge. 3 Dec 1912: passed educationally for Petty Officer. "(1) Over 6 yrs. 1-12-12" (meaning to
   establish).
-- 27 Oct 1913: Tyne ([T/P/I?].B.31). 14 Oct 1913: Seaman Gunner. 13 Jan 1914: second badge.
+- 27 Oct 1913: Tyne (T.B.31: read by Rik, 13 Oct 2026, with RMG "TB 31"). 14 Oct 1913: Seaman Gunner. 13 Jan 1914: second badge.
 - **14 Dec 1913: Lily Alma Rose born** (1939 Register).
 - [4 Aug 1914, war: GK.] 15 Oct 1914: one badge taken away (D1); restored 15 Apr 1915.
 - 1 Jul 1916: Leading Seaman. 28 Jul 1916: Pembroke I. 20 Oct 1916: passed professionally for P.O.
 - 4 Nov 1916 to 31 Dec 1917: Courageous. 31 May 1917: one badge taken away; restored 31 May 1918. 1 Nov 1917: Acting
   Gun Layer 2nd Class. (GK: Second Battle of Heligoland Bight, 17 November 1917; Newbolt, Naval Operations V.)
 - 1 Jan 1918: Pembroke I. 27 Feb 1918: Alexander (GK: an icebreaker in North Russia; London Gazette despatches). 1 Sep
-  1918: Petty Officer (acting). **21 Oct 1918: Clarie Irene junior born** (1939 Register).
+  1918: Petty Officer, "P.O. (ns)" (re-read 13 Oct 2026; NOT "acting"). **21 Oct 1918: Clarie Irene junior born** (1939 Register).
 - 17 Jan 1919: Pembroke I. 28 Feb 1919: Silver War Badge no. 36842. **26 Mar 1919: "Invalided / Org Heart Disease".**
   17 Apr 1919: K.C. issued. Medals: 1914-15 Star, British War Medal, Victory Medal.
 - **1 Mar 1921: Vera born**, 46 Edinburgh Road; father "Seaman Yard Craft H.M.D. Ex. R.N.".
@@ -108,15 +108,15 @@ saved: marked GK.)
    1st 12.3.07); the briefing's "3rd", "4.12.04" and "12.5.07" are wrong. Majestic's first entry closes "20 Dec"
    (transcription), not 28 Dec. The second badge loss reads "D1. 31.5.17" (transcription), not 3.5.17. Tyne: the
    letter before ".B.31" is a looped capital that is neither clearly I nor P (T is possible; Tyne was a depot ship for
-   torpedo boats: GK, not a reading); left as [?].B.31. The ship's-book numbers were NOT checked. ALSO, not in either:
+   torpedo boats: GK, not a reading); left as [?].B.31 [SETTLED 13 October 2026: "T.B.31", Rik, with RMG]. The ship's-book numbers were NOT checked. ALSO, not in either:
    the "P.C." annotation reads "384833" (six digits; Rik's reading), not "38483", and its date "26/2/19" or
    "28/2/19"; the upper-right annotation reads "N.P. 1391/02", not "139/02"; the first age is 16, a loopy script, not
    overwritten (Rik). None of these goes into prose (the briefing's own advice on P.C. stands).
 
 2. **The three spells in cells fit three breaks or turns in the service rows exactly** (inference, NOT for prose):
    Majestic stops on 20 December 1904 and resumes on 4 January 1905, fourteen days, and the conduct class drops on
-   21 December; the conduct class drops on 2 March 1906 and the Jupiter entry is closed on 11 March and reopened on the
-   12th, ten days; Jupiter stops on 4 August 1907 and resumes on the 8th, three days. The sheet never dates or explains
+   21 December; the conduct class drops on 2 March 1906 and the Jupiter entry is closed on 1 March and reopened on the
+   12th, ten days ("1 Mch 06": corrected 13 October 2026 from "11 March", image re-read on RMG's reading); Jupiter stops on 4 August 1907 and resumes on the 8th, three days. The sheet never dates or explains
    a punishment. Prose may say what the sheet says (three spells, fourteen, ten and three days, beside those ships; the
    class for conduct lowered twice and restored), not when or why.
 
@@ -257,7 +257,7 @@ Estimate: 1,000 to 1,500 words.
 1. Dominion; the 1911 census at sea (only if the image is held; DECIDE 9); Australia, briefly or not at all.
 2. The qualifications (educational 1912; Seaman Gunner 1913; Tyne); Lily's birth.
 3. The war: the badges lost and restored (plain, no reason); Leading Seaman; Courageous and Heligoland Bight; Alexander
-   and North Russia; acting Petty Officer; Clarie's birth.
+   and North Russia; Petty Officer ("P.O. (ns)"); Clarie's birth.
 4. "Invalided / Org Heart Disease", 26 March 1919; the badge, the K.C., the three medals (DECIDE 8).
 Estimate: 900 to 1,400 words.
 
