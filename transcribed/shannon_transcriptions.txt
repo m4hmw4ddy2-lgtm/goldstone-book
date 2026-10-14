@@ -1,0 +1,48 @@
+HMS SHANNON — NEWSPAPER TRANSCRIPTIONS
+Repository source folder: sources/images/Media-coverage/shannon
+
+Transcription method: direct reading of the repository source images.
+Policy: original wording, spelling and punctuation preserved where legible. Line-break hyphenation has been silently joined where it is clearly typographical. Square brackets indicate uncertainty or editorial information. Every non-.gitkeep source file in the folder is accounted for below.
+
+============================================================
+SOURCE: Chatham_Rochester_and_Brompton_21_March_1908_0008_Clip.jpg
+PUBLICATION: Chatham, Rochester and Brompton newspaper
+DATE: 21 March 1908
+STATUS: COMPLETE
+============================================================
+
+The Shannon, armoured cruiser, was taken into dock on Monday to be finally prepared for sea before joining the Fifth Cruiser Squadron.
+
+============================================================
+SOURCE: Sheerness_Guardian_and_East_Ke_14_March_1908_0006_Clip.jpg
+PUBLICATION: Sheerness Guardian and East Kent Advertiser
+DATE: 14 March 1908
+STATUS: COMPLETE
+============================================================
+
+[Preceding fragment: “Atlantic Fleet.”]
+
+On Wednesday H.M.S. Shannon was commissioned at Chatham for the Fifth Cruiser Squadron, where she will fly the flag of Rear-Admiral Callaghan, having taken the place of the Leviathan, which becomes flagship in the Devonport Cruiser Division of the Home Fleet. The Shannon, which has cost over £1,400,000 (the estimated figure being 1,345,385) was laid down at Chatham on 2nd January, 1905, has a designed speed of 23 knots and carries four 9.2in. and ten 7.5 in. guns, and 16 small quick firing pieces. A sister ship to the Warrior, Minotaur, and Defence, she has a foot more beam than the latter two ships, and two feet more than the Warrior, which is also 10 feet shorter than the other three vessels of the class—490 feet. The Shannon has the advantage of one foot in draught over the Minotaur and Defence, and of two feet over the Warrior, her nominal figure being 25ft. The quartette are homogeneous in armament on their principal batteries, the Warrior carries nine more quick firing guns than the other three ships.
+
+============================================================
+SOURCE: West_Lothian_Courier_20_March_1908_0008_Clip.jpg
+PUBLICATION: West Lothian Courier
+DATE: 20 March 1908
+STATUS: COMPLETE
+============================================================
+
+THE NAVAL MANŒUVRES OF 1908 IN THE NORTH SEA.—So far as at present is definitely known the extensive and sweeping manoeuvres to be carried out this year in the North Sea will occupy well into the autumn. In a fortnight a representation of Britain’s naval power will be in evidence in the Forth, and the latest programme sent out by the Commander-in-Chief indicates that the gunnery’s tests of the Nore Division and the Fifth cruiser squadron, of which H.M.S. Shannon is flagship, will be carried out at the Nore during the month of May. On the conclusion of these the Fifth Cruiser Squadron will proceed to Queensferry, which will be its headquarters for the greater part of the summer months. Further extensive exercises will be engaged in in June and July, and again the Nore battleships will be based on Queensferry for the remainder of the summer months, except during such periods as may be required for battle practice, which both the Nore battleships and the Fifth Cruiser Squadron will carry out in August in the neighbourhood of the Moray Firth.
+
+============================================================
+SOURCE: Western_Mail_11_March_1908_0005_Clip.jpg
+PUBLICATION: Western Mail
+DATE: 11 March 1908
+STATUS: COMPLETE
+============================================================
+
+H.M.S. SHANNON.
+
+NEW AND MOST POWERFUL
+CRUISER IN COMMISSION.
+
+The new armoured cruiser Shannon, built at Chatham Dockyard, was on Tuesday commissioned by Captain J. A. Fergusson for service in the Fifth Cruiser Squadron with the Home Fleet at the Nore as flagship of Rear-Admiral Callaghan. The Shannon is the largest and most powerful cruiser in commission, and will take the place of the armoured cruiser Leviathan.

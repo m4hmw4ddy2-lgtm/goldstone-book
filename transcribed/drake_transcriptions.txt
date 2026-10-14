@@ -1,0 +1,406 @@
+NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik (outside the session) and supplied
+14 October 2026. Check each line to be quoted against its image before use: the same batch's Evening Irish Times
+transcription (jupiter_transcriptions.txt) was found seriously wrong in places.
+NOTE: Lyttelton Times, 12 July 1912, page 8, was listed as an "EMPTY SOURCE FILE": it is not empty. Read in full by
+Claude, 14 October 2026: it does not name Drake (entry below). The rest of this file is NOT checked.
+
+HMS DRAKE — NEWSPAPER TRANSCRIPTIONS
+Repository source folder: sources/images/Media-coverage/drake
+
+Transcription method: direct reading of the repository source images.
+Policy: original wording, spelling and punctuation preserved where legible. Line-break hyphenation has been silently joined where it is clearly typographical. Square brackets indicate uncertainty or editorial information. Every non-.gitkeep source file in the folder is accounted for below.
+
+============================================================
+SOURCE: Ceylon_Independent_13_August_1912_0003_Clip.jpg
+PUBLICATION: Ceylon Independent
+DATE: 13 August 1912
+STATUS: COMPLETE
+============================================================
+
+THE TERRA NOVA.
+
+London, July 8.
+
+Commander Evans, of H.M.S. “Drake,” will leave England shortly to rejoin the Terra Nova, one of Captain Scott’s exploring ships.
+
+============================================================
+SOURCE: Ceylon_Observer_30_January_1913_0006_Clip.jpg
+PUBLICATION: Ceylon Observer
+DATE: 30 January 1913
+STATUS: COMPLETE TO THE LIMIT OF LEGIBILITY
+============================================================
+
+NAVAL CHANGES IN AUSTRALIA.
+
+H.M.S. “Drake” Goes Home: in Colombo Today.
+
+Big changes in the naval life of Sydney and of the Commonwealth generally will take place this year. It will witness, perhaps, the most crucial stage in the ambitious scheme of naval defence under the direct control of the Commonwealth. One by one, the present vessels on the Australian Station are being withdrawn to make room for new and more powerful ones. Towards the end of last year the cruisers “Prometheus” and “Pegasus” passed through Colombo having been withdrawn from the Australian Station. Today there is another, the “Drake,” which arrived this morning from Australia.
+
+A SHIP TO BE PROUD OF.
+
+The “Drake” will be replaced by the Commonwealth first class Dreadnought cruiser “Australia.” She will be a fighting ship that Australians may well feel proud of. She will be one of the most efficient vessels of her sort afloat and could blow a boat of the type of H.M.S. “Drake” out of the water so far as size and equipment go.
+
+H.M.S. “Drake” bade good-bye to Australia on the 14th inst. and, after a smooth and uneventful voyage, put into Colombo Harbour at 9-30 this morning flying
+
+THE HOMEWARD BOUND PENNANT.
+
+Very great heat was experienced during the run from Fremantle and several stokers fainted. Most of the men working below had a trying time: their general health was far from satisfactory. There are nearly 150 Australian recruits on board, including officers, seamen and stokers. They are a happy lot enthusiastic in their Australian love for the water.
+
+“CROSSING THE LINE” CEREMONY.
+
+The most interesting event on board was what is known as the “crossing the line” ceremony, a procedure generally adopted for initiation of recruits. One of the senior officers represented Father Neptune. Each recruit had to pay him toll and take in return a prescription for a pill or some other medicine. He had then to be subjected to all kinds of treatment such as being douched with paint, coal, etc., and finally ducked. There was no means of evading it, for a small party known as “bears” would even hunt them out. This ceremony caused great merriment and kept officers and men in the best of spirits, recruit being a bit the worse.
+
+ADMIRAL KING HALL REMAINS IN AUSTRALIA.
+
+Admiral King Hall, who remained in Australia has temporarily hoisted his flag on the “Cambrian,” pending arrival of the new flagship. Capt. Brewer commands the “Drake” a stalwart well-set up officer, whose weather-beaten features showed long service at sea. It is just a year today since the “Drake” reached Australian waters. Most on board were sorry to lose sight of the South.
+
+THE TRIP OF THE ‘AUSTRALIA’.
+
+The Dreadnought cruiser “Australia”—the new Flagship—will leave England probably about July going via the Cape at the Colony’s request. Before the “Duke” left Fremantle many had deserted the ship, some not being recovered yet. However no inconvenience was caused.
+
+THE NEW OFFICERS.
+
+[The clipping names new officers and refers to sport after working hours: football, hockey, fencing and boxing. The final sentence is partially obscured.]
+
+The “Drake” one night quite out of sight and intercepted several of her wireless messages which treated chiefly of the Balkan War and home matters.
+
+============================================================
+SOURCE: Ceylon_Observer_30_January_1913_0026_Clip.jpg
+PUBLICATION: Ceylon Observer
+DATE: 30 January 1913
+STATUS: COMPLETE
+============================================================
+
+DEPARTURE OF H.M.S. “DRAKE.”
+
+H.M.S. “Drake,” late flagship of the Australian Station, resumed her voyage to Europe yesterday.
+
+============================================================
+SOURCE: Lyttelton_Times_01_January_1913_0009_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 1 January 1913
+STATUS: COMPLETE
+============================================================
+
+THE SOUTH PACIFIC.
+
+THE IMPERIAL BASE.
+
+United Press Association—By Electric Telegraph—Copyright.
+
+SYDNEY, December 31.
+
+New Year’s Day will see the last Imperial flagship doing duty in Sydney Harbour, as H.M.S. Drake will then depart for Britain, and the Commonwealth cruiser Australia will replace her as soon as possible.
+
+The “Herald” says that some misapprehension apparently exists as to Auckland replacing Sydney as the Imperial base in the Southern Pacific. As a matter of fact, although such a change has been suggested, no determination has been reached by the Admiralty as to making Auckland the new base.
+
+It is expected in naval circles that, if New Zealand elects not to join the Commonwealth naval defence, the dominion will have its own local fleet, but Sydney will continue to maintain her present status and more as a naval base.
+
+============================================================
+SOURCE: Lyttelton_Times_02_January_1913_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 2 January 1913
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA.
+
+United Press Association—By Electric Telegraph—Copyright.
+
+SYDNEY, January 1.
+
+SOLAR OBSERVATORY.
+
+Miss Proctor states that she found the New Zealanders keen on astronomy. Probably their energy would lead to an Australasian solar observatory being established there.
+
+SPEAKER WILLIS.
+
+Mr Willis, Speaker of the Legislative Assembly, is a passenger for New Zealand by the Wimmera.
+
+THE FLEET.
+
+H.M.S. Drake has sailed for England.
+
+============================================================
+SOURCE: Lyttelton_Times_03_December_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 3 December 1912
+STATUS: COMPLETE
+============================================================
+
+H.M.S. Drake, the flagship of Admiral King-Hall, arrived at Wellington from Picton yesterday, and will remain there till the end of the week.
+
+============================================================
+SOURCE: Lyttelton_Times_06_July_1912_0009_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 6 July 1912
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA.
+
+United Press Association—By Electric Telegraph—Copyright.
+
+H.M.S. DRAKE.
+
+SYDNEY, July 5.
+
+H.M.S. Drake, with the Admiral aboard, has sailed for a six weeks’ cruise among the islands.
+
+============================================================
+SOURCE: Lyttelton_Times_12_December_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 12 December 1912
+STATUS: COMPLETE
+============================================================
+
+WELLINGTON, December 11.
+Arrived, 7 a.m., Maori, from Lyttelton; 11.20 a.m., Manuka, from Lyttelton.
+Sailed, 5.5 p.m., H.M.S. Drake, for Sydney, via Milford Sound; 8.5 p.m., Maori, for Lyttelton.
+
+============================================================
+SOURCE: Lyttelton_Times_12_July_1912_0007_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 12 July 1912
+STATUS: COMPLETE TO THE LIMIT OF LEGIBILITY
+============================================================
+
+IN THE SUB-ANTARCTIC.
+
+WINTER CRUISE OF THE AURORA.
+
+VISIT TO THE SOUTHERN ISLANDS.
+
+(By EDGAR R. WAITE, F.L.S., Curator Canterbury Museum.)
+
+(Published by Special Arrangement with the Mawson Expedition.)
+
+Yesterday an old Dundee whaler, the Aurora, entered Lyttelton Harbour, thus completing a two months’ cruise in Eastern Sub-Antarctic waters. The Aurora is the vessel secured by Dr Mawson for service in the Antarctic, whence she will return in November next for the purpose of bringing home the party of the Australasian Antarctic Expedition under Dr Mawson, Captain J. K. Davis being in command. Instead of allowing the vessel to remain idle in Australia during the winter months, it was decided to conduct a cruise in the Sub-Antarctic, and the writer was selected to act as biological officer in charge. With him were associated Mr R. Primmer, representing the Government Cinematograph Company, and Mr Haynes, taxidermist, of the Canterbury Museum.
+
+A SLOW MAIL BOAT.
+
+The vessel left Sydney on May 17, and after coaling at Port Kembla, proceeded south, when the visitors on board discovered that the steaming qualities of the vessel were not extraordinary, excepting in the matter of slowness; against a head wind we were making about 2½ knots per hour. The vessel passing at night signalled “Aren’t you in distress?” but, whether in irony or genuine concern, we did not know. This message was rather hard upon a mail steamer, for we carried his Majesty’s letters to Macquarie Island, for which the Australian Government paid the sum of sevenpence.
+
+LOOKING FOR ISLANDS.
+
+When Bass Strait was safely weathered a course was set for the 140th meridian, our objective being reached on May 27. One of the objects of the cruise was to ascertain if the reported Royal Company Islands really exist. Captain Davis had previously sailed over the position shown on the charts, but having since obtained further data showing a somewhat different position he very thoroughly explored the neighbourhood. For four days we zig-zagged over the position in tempestuous seas and of June 4 headed for Macquarie Island. We had hoped against hope for weather sufficiently fine to enable us to put the trawl over, but not a single sufficiently calm day favoured us; in fact, the whole tale of the cruise may be summed up in gales of wind and big seas, fully justifying the expression “Roaring Forties and Shrieking Fifties.” On days when the sea was somewhat less tumultuous, attempts were made to ascertain the depth of the water by means of sounding, and some useful records were made. Considerable property was lost, however, including some divers and sinkers dashed off by the waves before the apparatus could be lowered beneath their influence, and 2000 feet of sounding wire also went to the bottom in an unorthodox manner. The freezing gale of the cruise was experienced on June 7, the day before we effected a landing on Macquarie Island.
+
+MACQUARIE ISLAND.
+
+Here we found the five men constituting the island party and two men engaged under Mr Hatch, well and comfortable. The Macquarie Island station is under the charge of Mr G. F. Ainsworth, whose special province is that of meteorology, and some of the work is done in connection with the wireless station, for the supplies information daily, sent to the Government meteorologists at Melbourne, Wellington, and Hobart. Mr A. J. Sawyer, wireless operator, says that the station is in frequent communication with the Government station at Suva, Fiji, Fremantle, and H.M.S. Drake, the Australian flagship, and all ships sending messages in Australasian waters. Official messages and the received from and sent to the Hotel Australia station in Sydney, while the messages forwarded from the New Agency station at Penarth Hills, New South Wales, are received in the ordinary course of transmission. These latter items form the “Macquarie Island Daily News,” which is read with great interest by the sojourners. The ship’s company also learned of foreign events which had transpired since leaving port. The never constant gale sometimes interfered with the installation, and in the excessive dampness with the instruments, so that Mr Charles A. Sandell, the engineer, enjoys no sinecure. The aerials have been blown down twice, and the severe frost freezes the water used in connection with the petrol engine. Great trouble was experienced in obtaining solid foundations for the plant, owing to the peaty and porous nature of the soil. Messrs Harold Hamilton and Leslie R. Blake are the naturalists of the party, the former being biological and Mr Blake acting as geologist and surveyor.
+
+[The remainder of the article concerns the Macquarie Island expedition and wildlife and contains no further clear reference to Drake.]
+
+============================================================
+SOURCE: Lyttelton_Times_12_July_1912_0008_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 12 July 1912 (page 8)
+STATUS: READ IN FULL BY CLAUDE, 14 October 2026; NOT TRANSCRIBED (no reference to Drake). Not empty: a full page,
+2330 x 6055 px, four columns.
+============================================================
+
+[Contents, column by column. Columns 1 and 2 continue Edgar R. Waite's "IN THE SUB-ANTARCTIC" from page 7 (sea
+elephants; "THE ANIMALS' WAYS"; "THE PENGUINS"; "NEW ZEALAND BIRDS"; "TO THE AUCKLAND ISLANDS"; "FAUNA OF THE
+AUCKLANDS"; "PORT ROSS"; "ENDERBY ISLAND"), ending: "On the 6th inst. the vessel's head was set northwards, and on
+the 10th we stood off Port Chalmers". Column 2 then "ACCIDENTS AND FATALITIES" (Auckland and Nelson, July 11; local
+items). Columns 3 and 4: "THE AURORA. ARRIVAL AT LYTTELTON. A SUB-ANTARCTIC CRUISE. DESCRIPTION OF THE VESSEL." (she
+arrived "a few minutes after noon" yesterday [11 July]; "Like her sister ship the Terra Nova, the Aurora was built in
+1876 by Messrs Stephen Bros., Dundee"); "CAPTAIN DAVIS INTERVIEWED. THE MACQUARIE WIRELESS STATION."; "SCIENTIFIC
+INVESTIGATIONS. THE AURORA'S CRUISE. COLLECTIONS FOR THE MUSEUM."; "HEAVY WEATHER."; "MOVING PICTURES."; "PERSONAL."
+(arrivals and departures by the Maori); two short items (police dogs at Nottingham; the skeleton of Flying Fox).
+DRAKE: NOT NAMED on this page. The wireless station's range is given as Suva, Pennant Hills, Sydney, Melbourne and
+Hobart, and "a large number of passing steamers". The only Drake mention in Waite's article is on page 7 (the clip
+above, 0007). If a passage is wanted, it can be transcribed in full on request.]
+
+============================================================
+SOURCE: Lyttelton_Times_14_December_1912_0011_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 14 December 1912
+STATUS: COMPLETE
+============================================================
+
+Information has been received that H.M.S. Drake, which has been detailed to be in Lyttelton for the naval and military tournament at Christmas, will arrive on Tuesday.
+
+============================================================
+SOURCE: Lyttelton_Times_23_December_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 23 December 1912
+STATUS: COMPLETE
+============================================================
+
+A Press Association telegram from Dunedin says that Captain Drummond, of H.M.S. Cambrian, was welcomed to Port Chalmers on Saturday morning by the Mayor (Mr D. A. De Maus), who expressed the pleasure of the people of Otago at having the warship present in the harbour. In responding, Captain Drummond, after returning thanks, said the present stay would be a brief one, as the ship was leaving next Friday, in order to call at the Bluff, en route to relieve H.M.S. Drake at Hobart on January 4, as that vessel is to proceed to England.
+
+============================================================
+SOURCE: Lyttelton_Times_24_July_1912_0012_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 24 July 1912
+STATUS: COMPLETE
+============================================================
+
+THE FLAGSHIP.
+
+[PER PRESS ASSOCIATION.]
+AUCKLAND, July 23.
+
+H.M.S. Drake, flagship of the Australasian squadron, is due at Auckland to-morrow morning from Suva. It is probable that the vessel will remain in port only a few days, and during that time Vice-Admiral Sir George King-Hall will take the opportunity of inspecting proposed sites for the naval establishment here.
+
+============================================================
+SOURCE: Lyttelton_Times_25_July_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 25 July 1912
+STATUS: COMPLETE
+============================================================
+
+TELEGRAPH NOTICE BOARD.
+AUCKLAND, July 24.
+Arrived, 6.15 a.m., H.M.S. Drake, from Suva.
+
+============================================================
+SOURCE: Lyttelton_Times_25_July_1912_0008_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 25 July 1912
+STATUS: COMPLETE
+============================================================
+
+THE FLAGSHIP.
+
+ARRIVAL AT AUCKLAND.
+
+[PER PRESS ASSOCIATION.]
+AUCKLAND, July 24.
+
+The new flagship of the Australian Squadron, H.M.S. Drake, with Vice-Admiral Sir George King-Hall on board, arrived from Suva this morning. The visit of the Admiral on this occasion is purely an official one in connection with the approaching removal of the naval base from Sydney to Auckland. When Captain Rolleston was in Auckland some time ago, he inspected the sites of buildings that will be necessary for housing stores, etc., and the Admiral has come across to make a final inspection before matters are submitted to the Admiralty. Temporary accommodation has also to be arranged for the stores, as the permanent buildings will not be erected in time, and to meet this want the Auckland Harbour Board has placed a large shed at the disposal of the Admiralty, a courtesy which is much appreciated by the authorities. It was thought in some quarters that there would be need for an Admiralty House, but it is not probable that such will be the case. The fleet to be stationed here will in reality be a detachment of the China Squadron. Although its distance from headquarters will practically make a separate fleet of it, still it is more than likely that it will be in command of the senior officer, whose headquarters will be his own ship. When the new order of things comes into force next April there will be no ship of the Drake’s size in these waters, so that more than usual interest attaches to her present visit.
+
+The crew of the flagship is now busy getting into form for big gun-firing, which takes place at Jervis Bay, south of Sydney, towards the end of next month. There is keen rivalry between the ships on the various stations, and the ships of the Australasian Squadron have on more than one occasion well maintained the reputations of these waters.
+
+The Drake will remain in the Waitemata until Monday next.
+
+============================================================
+SOURCE: Lyttelton_Times_28_November_1912_0007_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 28 November 1912
+STATUS: COMPLETE TO THE LIMIT OF LEGIBILITY
+============================================================
+
+NAVAL POLICY.
+
+POSITION OF THE DOMINION.
+
+IMPORTANT SPEECHES.
+
+VIEWS OF ADMIRAL KING-HALL.
+
+CO-OPERATION WITH AUSTRALIA URGED.
+
+MR MASSEY’S STATEMENT.
+
+[PER PRESS ASSOCIATION.]
+AUCKLAND, Nov. 27.
+
+Admiral Sir George King-Hall was entertained at luncheon to-day by the Auckland Harbour Board in honour of his visit to Auckland for the last time in H.M.S. Drake, which will leave for Home in January next. Among other fleet officers present were Commander Norton, of H.M.S. Drake, and Captain L. Hunt-Ward, of H.M.S. Torch. Included among the guests at the table of the chairman (Mr J. H. Gunson) were the Prime Minister (the Hon W. F. Massey) and the Mayor (Mr C. J. Parr).
+
+In proposing the toast of “The British Navy,” the chairman expressed gratification at having honoured with the presence of the Admiral of the station. A similar function had not occurred since 1888, when the Board entertained Admiral Fairfax at the opening of the Calliope Dock.
+
+In responding to the toast, the Admiral began: “I very much appreciate the compliment that you have shown me in entertaining me to lunch. I shall lose with no regret that this year is just also last year my visits to New Zealand with my flag hoisted at the whole squadron, which included a fortnight’s stay at Auckland and corresponding visits to other ports, have been curtailed and cancelled owing to the exigencies of the service. Last year it was owing to the Admiralty decision for the Powerful must go to Colombo to meet the Drake and this year because I have lately received orders that the Drake has to be in England by the middle of February. Other changes are taken place on the station, the Challenger being Home and the Encounter being turned over to the Commonwealth. I have been asked: Is Auckland to be a naval base? There can be no doubt that it must be a secondary base in the future, whatever the future naval policy of the dominion may be. What is to be the future policy? Is it to be the same as in the past? Has the international situation so changed during the last year or so that it may be necessary to reconsider the whole question? We start with the great fact that there is one King, one Empire, and that there must be in war and also in peace as to training, discipline, etc., one great Imperial fleet, composed of the different divisions provided by the self-governing colonies and controlled by them in peace and placed at the disposal of the British Government in war by consent of the respective Governments. Is it conceivable that this consent will ever be withheld to such strong, so affectionate, so lasting, the one and other are prepared to spend their last shilling and last drop of blood in standing by one another for the defence of the Empire. And then, gentlemen, is it possible for—shall we say—the Commonwealth and the dominion to stand aside, at any rate for the next thirty years, if ever? Why, if they did so, it would mean to them loss of independence and national existence. It is absolutely impossible for Commonwealth to stand alone in defending itself, but to support the Old Country, and this they will always do, for they know that the Empire stands for freedom, liberty and justice, and the bonds binding us irrevocably to each other, though very light, are as strong as these-tempered steel. I believe in union, and I am now giving only my own personal opinion, that we shall have the Pacific fleet comprising divisions from the dominions whose shores are washed by that ocean, and I see no reason why, after national would not be made by the dominion joining forces and co-operating with the Commonwealth, forming a Royal Australasian Navy. There are no insuperable difficulties in the way that cannot be overcome by a very little tact and statesmanship. There is no necessity at utter into details, but we must be all up and doing. New Zealand has been always ready to help, and I am sure, if necessary, will do more. New Zealand is saturated with naval and also Imperial spirit, and always has been an ardent supporter of naval power. We at Home pay over £1 a head for naval defence. The Commonwealth pays 10s and the dominion 6s, but, as I stated at the Lord Mayor’s dinner at Melbourne, New Zealand was strong naval force a proposition is necessary, and there lies the crux of the whole question, and there I will leave the question, as I cannot take up your time any longer. I will add only that I think the question of building a Dreadnought does big enough to take the largest men-of-war and merchant vessels will soon have to be considered this very progressive, active Harbour Board, who have done so much and are doing so much for the port of Auckland, which has now taken its place amongst the foremost ports of the southern hemisphere, and is a very different place from what I remember it some forty years ago. I have read the annual report for this year and congratulate you all on the steady progress and prosperity of the port. I also thank you for your hospitality, and am only sorry that this may be my last visit to Auckland.”
+
+[The remainder reports remarks by the Mayor and Prime Minister about New Zealand’s naval policy. The print is dense and contains no further clear movement of Drake.]
+
+============================================================
+SOURCE: Lyttelton_Times_30_July_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 30 July 1912
+STATUS: COMPLETE
+============================================================
+
+TELEGRAPH NOTICE BOARD.
+AUCKLAND, July 29.
+Arrived, 12.55 p.m., Maheno, from Sydney.
+Sailed, 3.10 p.m., Zealandia, for London; 3.10 p.m., H.M.S. Drake, for Sydney.
+
+============================================================
+SOURCE: Lyttelton_Times_30_November_1912_0011_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 30 November 1912
+STATUS: COMPLETE
+============================================================
+
+H.M.S. Drake, the flagship of the Australasian Squadron, is expected at Wellington to-day from Auckland. The warship will thence proceed to Picton and Milford Sound. Private information received yesterday stated that Admiral Sir King-Hall will leave Wellington on Monday or Tuesday in H.M.S. Cambrian for Lyttelton, and after paying a visit to Captain Scott’s Antarctic expedition ship Terra Nova will spend a few days’ holiday at one of the South Canterbury rivers.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_19_February_1913_0012_Clip-2.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 19 February 1913
+STATUS: COMPLETE
+============================================================
+
+[Continuation of preceding article.]
+
+“To make,” he replied. Commander Hardy’s engagement was terminated by arrangement between the Commonwealth Government and the Admiralty. He was engaged for three years, not for six months as I have been wrongly represented as saying. When Commander Hardy was lent by the British Admiralty to the Australian Government, gratification was expressed that the services of an excellent officer had been secured for the important work of training recruits for the fleet unit. His engagement with the Commonwealth was for three years, but before six months of his term had expired he has vacated his position. It is stated that Commander Hardy determined on resignation because of the attitude adopted by the Naval Board towards his work as the officer in charge of the naval depot at Williamstown. Recommendations to which he attached great importance were, it is stated, refused adoption by the Board, and the commander, feeling it was useless to continue the struggle, asked for permission to return to the Imperial service.
+
+A most encouraging phase of the naval enterprise of the Commonwealth is the fact that the recruits offering are much in excess of those wanted, and the fear that Australian boys would not display the same Viking dash as their forefathers in the British Isles has been amply disproved. The well-known love of the Australians for the water, whether as yachtsmen, oarsmen, or swimmers, has now an outlet leading to higher things in the service of the country.
+
+The Minister for Defence was asked on Saturday what he thought of the recently-expressed intention of the New South Wales Government to place imported timber in the Commonwealth warships being built at Cockatoo Island. “Personally,” he said, “I know nothing of the intention to disregard Australian wood. However, the New South Wales Government is in the position of a contractor and it rests with that Ministry to say what wood shall be used. Our duty is to supervise and see that whatever is put into the ships is sound. The difficulty my department has experienced regarding Australian timber is not that it is unsuitable, but that it is not properly seasoned. It is not stocked in sufficiently large quantities.”
+
+After arrival in England from Australia, the cruiser Drake will proceed to Portsmouth from Devonport as soon as possible. On arrival at Portsmouth the Drake will be reduced to nucleus crew, and the ratings thus set free will go on leave at once. The nucleus crew will pay off the ship, which will be recommissioned with a reduced nucleus crew at Portsmouth for service in the Sixth Cruiser squadron as a tender to the Good Hope. The Drake was commissioned at Portsmouth on November 30th, 1911. The flag of Admiral Sir G. F. King-Hall, which was struck in the Drake on her departure from Sydney, is now flying in the cruiser Cambrian.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_19_February_1913_0012_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 19 February 1913
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA.
+
+THE “PASSING” OF THE FLAGSHIP:
+HEARTY FAREWELL.
+
+RETIREMENT OF COMMANDER HARDY.
+
+IMPORTED TIMBER FOR AUSTRALIAN SHIPS.
+
+Sydney, January 6th.
+
+On Wednesday morning the flagship H.M.S. Drake bade farewell to Sydney Harbour and steamed out on her homeward voyage. Her departure, occurring as it did on a day when everyone was out holiday-making, attracted much more attention than might have been the case on an ordinary week-day.
+
+Thousands of sightseers thronged the foreshores in the vicinity of Farm Cove. No extraordinary spectacular display was, of course, anticipated in the mere departure of the Drake, but the large crowd which turned out to witness it recognized that the event constituted an important change in Australia’s naval affairs.
+
+At 9.30 a.m. Admiral Sir George F. King-Hall left the steps at Admiralty House to go on board the Drake. At the same time the admiral’s flag fluttered down the flagstaff at Kirribilli. Lady King-Hall (who took passage to Hobart in the Drake) had gone on board earlier, and by the time the admiral arrived preparations were being made to get the flagship under way. At ten minutes past ten the Drake slipped her moorings, and moved off on the homeward journey. The flagship’s band struck up, and the crowd on the shore cheered lustily and waved farewell to those on board. The deck and rigging of the Drake presented an animated appearance as the seamen returned the hearty cheers from their comrades in the Psyche and Pyramus. Amidst the strains of “Home, sweet home,” “Auld lang syne,” and “The girl I left behind me,” the Drake shaped her course for the Heads. She will proceed to Hobart, where the admiral will leave her and fly his flag in the Cambrian.
+
+She takes home with her a draft of officers and men for the Australia and Sydney respectively. The draft includes Dr. E. Darby, who will be the medical officer of H.M.A.S. Sydney; Assistant-Paymaster Jackson, for H.M.A.S. Australia; and about 140 men.
+
+The Drake will pay off at Portsmouth, and will recommission with a reduced nucleus crew for service in the Sixth Cruiser squadron.
+
+The Minister for Defence was asked recently why Commander G. C. Hardy, R.N., had retired from the service of the Commonwealth. “I have no statement [continues in companion clipping].”
+
+============================================================
+SOURCE: Surrey_Advertiser_07_December_1912_0012_Clip.jpg
+PUBLICATION: Surrey Advertiser
+DATE: 7 December 1912
+STATUS: COMPLETE
+============================================================
+
+UNDESIGNED COINCIDENCES.
+TO THE EDITOR.
+
+Sir,—The London newspapers this week announce the birth in Sydney, Australia, on Trafalgar Day (21st October, 1912), of John Collingwood Manisty, first son of Mr. and Mrs. Eldon Manisty. I venture to mention the somewhat curious coincidence.
+
+Mr. Eldon Manisty is very closely related to Admiral Cuthbert Lord Collingwood (both Northumberland families), who, on the 21st October, 1805, took command of the British Fleet, in Trafalgar Bay, on the death of Admiral Horatio Lord Nelson.
+
+Manisty, R.N., was born at Tynemouth, Northumberland, in 1876, within a few hundred yards of the monument of his illustrious relative, Admiral Lord Collingwood. (The monument was erected just 100 years ago, 1812), his first son being born in Australia on Trafalgar Day, 1912, and is named John Collingwood Manisty. Mr. Eldon Manisty is a member of the Board of administration of the Royal Australian Navy (corresponding with the post of Junior Lord of the Admiralty in the Royal British Navy), and still holds the rank of Fleet Paymaster in the R.N., and in conjunction with his office, as member of the Navy Board of the Australian Navy, is also Acting Naval Secretary to that Board.
+
+In the course of six months, about July, 1913, it is expected that the Royal Australian Navy will be a self-governing service, of course, under the Imperial Service in case of war. H.M.S. Drake, now the flagship on the Australian station, will probably be the last to act officially as such, and is now under orders for the return home.
+
+Mr. Eldon Manisty is the eldest son of Mr. H. Clayton Manisty, who has resided for several years in Surrey.—Yours, etc.,
+H. CLAYTON MANISTY.
+
+============================================================
+SOURCE: Western_Evening_Herald_21_February_1913_0003_Clip.jpg
+PUBLICATION: Western Evening Herald
+DATE: 21 February 1913
+STATUS: COMPLETE
+============================================================
+
+H.M.S. DRAKE.
+
+H.M.S. Drake, late flagship on the Australian station, arrived at Plymouth this morning, and after disembarking some Canadian naval ratings, proceeded to Portsmouth to pay off.

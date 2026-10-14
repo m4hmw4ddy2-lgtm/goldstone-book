@@ -1,0 +1,442 @@
+NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik (outside the session) and supplied
+14 October 2026. Check each line to be quoted against its image before use: the same batch's Evening Irish Times
+transcription (jupiter_transcriptions.txt) was found seriously wrong in places.
+NOTE: Lloyd's Weekly Newspaper, 10 December 1911, was listed as an "EMPTY SOURCE FILE": it is not empty. Transcribed
+and checked word by word in full by Claude, 14 October 2026 (below). The rest of this file is NOT checked.
+
+HMS POWERFUL — NEWSPAPER TRANSCRIPTIONS
+Repository source folder: sources/images/Media-coverage/powerful
+
+Transcription method: direct reading of the repository source images.
+Policy: original wording, spelling and punctuation preserved where legible. Line-break hyphenation has been silently joined where it is clearly typographical. Square brackets indicate uncertainty or editorial information. Every non-.gitkeep source file in the folder is accounted for below.
+
+============================================================
+SOURCE: Lloyds_List_07_December_1911_0007_Clip.jpg
+PUBLICATION: Lloyd’s List
+DATE: 7 December 1911
+STATUS: COMPLETE
+============================================================
+
+LYTTELTON Dec 6 arr
+HMS Powerful
+
+============================================================
+SOURCE: Lloyds_List_13_November_1911_0011_Clip.jpg
+PUBLICATION: Lloyd’s List
+DATE: 13 November 1911
+STATUS: COMPLETE
+============================================================
+
+MELBOURNE Nov 11 sld
+HMS Powerful
+HMS Encounter
+
+============================================================
+SOURCE: Lloyds_List_15_November_1911_0007_Clip.jpg
+PUBLICATION: Lloyd’s List
+DATE: 15 November 1911
+STATUS: COMPLETE
+============================================================
+
+SYDNEY—NSW arrived
+Nov 13
+Boveric (s), Newcastle
+Crillon, Besidon, La Pallice
+Nov 13
+Clan Macnaughton (s) Port Pirie
+HMS Powerful
+HMS Encounter
+by cable Nov. 10
+
+============================================================
+SOURCE: Lloyds_List_17_November_1911_0005_Clip.jpg
+PUBLICATION: Lloyd’s List
+DATE: 17 November 1911
+STATUS: COMPLETE
+============================================================
+
+SYDNEY Nov 16 sld
+HMS Encounter
+HMS Prometheus
+HMS Pegasus
+last three for China
+HMS Powerful, Auckland
+
+============================================================
+SOURCE: Lloyds_List_17_October_1911_0011_Clip.jpg
+PUBLICATION: Lloyd’s List
+DATE: 17 October 1911
+STATUS: COMPLETE
+============================================================
+
+MELBOURNE Oct 14 arr
+HMS Powerful
+HMS Encounter
+
+============================================================
+SOURCE: Lloyds_Weekly_Newspaper_10_December_1911_0018_Clip.jpg
+PUBLICATION: Lloyd's Weekly Newspaper
+DATE: 10 December 1911
+STATUS: COMPLETE. Transcribed by Claude from the image, 14 October 2026, and checked word by word in full (two columns,
+each cut into six slices). The heading is cut by the clip at the left: "[...] NAVAL & / [...]Y NOTES. / [...]
+Correspondents." The clip opens mid-paragraph. A drawing (a sailor standing; a man seated) heads the second column.
+============================================================
+
+[...] NAVAL &
+[...]Y NOTES.
+[...] Correspondents.
+
+Steele and Lieut. W. Stainforth, will be promoted to the honorary rank of captain, on completing ten years in the rank of quartermaster. Both these officers are holders of the distinguished conduct medal.
+
+In a farewell order, Colonel Frewen expresses appreciation of the work of the permanent staff of the Royal East Kent Yeomanry, and compliments all ranks on their efficiency. Although the regiment is at present about sixty below establishment, he looks forward with confidence to its being brought up to full strength during the ensuing summer.
+
+CHATHAM.
+
+Mrs. Ommanney, wife of Admiral Superintendent R. N. Ommanney, R.N., on Friday presented the prizes gained by the apprentices at the Chatham Dockyard School in their examinations.
+
+Mr. H. Cartwright Reid, M.I.C.E., Superintending Civil Engineer of Works Department, Chatham Dockyard, who is taking up a similar appointment at Rosyth, was the guest of the members of the Director of Works Department at the Sun Hotel on Monday. Since Mr. Reid has been at Chatham he has become extremely popular. The speakers included Rear-Admiral R. N. Ommanney, who referred in glowing terms to the excellent work which Mr. Reid had carried out at Chatham.
+
+Captain J. M. de Robeck will be succeeded as captain of boys' training establishments, on Dec. 21, by Captain Edmund R. Pears, of the battleship Agamemnon.
+
+Mr. C. J. W. Hopkins, assistant constructor at Chatham Dockyard, has been appointed to the Admiralty.
+
+The value of the lectures given to the members of the Dockyard Engineering Association has been proved over and over again. Through the lectures on turbines the workmen have been better qualified to deal with the reblading and refitting of the turbines in several torpedo boats and destroyers, and as this work has been carried out in a satisfactory manner the Admiralty have decided that the lifting and examination of steam turbines in the Indomitable shall be executed in Chatham Dockyard. This will provide employment for a considerable number of workmen. Had it not been for the efforts made by the Association to prepare the members for the work, backed up by the officers of the yard, it is probable that much of this work would never have come to the dockyard.
+
+Mr. W. Meadows, chargeman of riggers at Hongkong, has been appointed inspector of riggers at Chatham Dockyard.
+
+Miss Barnardiston, sister of Major Barnardiston, has been presented with a handsome pearl and diamond brooch, in recognition of her services for twelve years past as lady almoner of the S.M.E. Benevolent Fund, an appointment she is relinquishing on leaving the district.
+
+Lieut.-Colonel J. M. Burt, R.G.A., has been posted to the Eastern Coast Defences for duty at Harwich.
+
+DEVONPORT.
+
+Eight seamen and a bugler, under Petty Officer O'Connell, from the Royal Naval Barracks, acted as bearers at the funeral of Mr. James Joseph Nicholls, a naval veteran with considerable war service, and for many years a rigger in the dockyard. He was ninety-one years of age. Mr. W. J. Bawden, of the Plymouth Veterans' Association, carried the veterans' flag, which was taken to Windsor on the occasion of the Coronation, in front of the coffin.
+
+Intimation has been received at Plymouth of the death, in China, of Engineer-Commander E. J. Campbell whilst serving in H.M.S. Kent. He entered the service through the old Royal Naval Engineering College at Devonport, and had held his present rank since 1908. At Devonport he was a most popular officer and a very keen sportsman.
+
+The work of repairing the damage sustained by the cruiser Cornwall is to be carried out night and day at Devonport. Orders have been received from the Admiralty that the vessel must be ready to proceed to sea by Jan. 7 with another batch of cadets from the naval colleges.
+
+West Country men are doing remarkably well in the Service regattas this year. The cruiser Powerful, which is returning to Devonport to take the place of the old training ship Impregnable, at the annual regatta of the Aus- [column ends; continued at the foot of the drawing in the next column] tralian Squadron carried off nine first and seven second prizes, H.M.S. Encounter coming next with four firsts and three seconds, the Cambrian having two firsts and three seconds, and the Prometheus two first prizes.
+
+Work on the new battleship Centurion, recently launched, is being pushed forward at record rate, and already the eighteen water-tube boilers have been placed in position. Nearly 2,000 men are engaged in work about the huge hull, which is now ready to be placed in the dry dock for the armour plating to be fixed.
+
+Special instructions have been given for the officers engaged in the new cruiser Lion during her trials to obtain data in reference to the effect of escaping fumes from the funnels at the fire control stations and navigating bridge. In previous vessels of the Dreadnought class serious complaints have been made of this, officers and men having been rendered incapable of duty through noxious fumes when the wind was in certain directions.
+
+The new armoured cruiser Active, which has been constructed at Pembroke, is to be commissioned there at the end of this month with a crew drawn from Devonport. She will then take the place of the scout Adventure in the Second Destroyer Flotilla, Commander Trewly, of that vessel, being transferred to the Active.
+
+The Northampton Regiment, now stationed at Devonport, have been notified that Sergeant-Major H. W. Walker has had a commission conferred upon him in the 3rd Battalion, of which he will act as quartermaster, in place of Captain D. Taylor, who has retired. The new lieutenant has had eighteen years' service in the ranks.
+
+Mr. Pellowe having retired, Mr. A. E. Morgan has been promoted to civil engineer at the dockyard.
+
+SHEERNESS.
+
+The Naval airmen at Eastchurch have put in a lot of flying work since resuming their studies in airmanship. Following on the experiments in landing and rising from the waters of the Medway, Lieut. Samson and Captain Gerrard took a long flight into Kent one day in the week with the intention of reaching Salisbury Plain. Inland fogs were so thick that they passed over Maidstone without seeing the town, and after landing at Five Oak Green, near Tunbridge Wells, they thought it better to return to the aerodrome, where they landed safely after an absence of some five hours.
+
+Mr. R. Iverme, chief boatswain, who has held the post of master rigger at this Yard since September, 1909, is leaving to succeed Lieut. W. Gray on the staff of the captain superintendent of contract-built ships for the Tyne district.
+
+In the competition for the President's Cup of the local golf club, the final round lay between the Navy and Army, represented by Lieut. A. R. Banks, of the torpedo-gunboat Jason, and Lieut. Fisher, R.E. Lieut. Banks won by two up and one to play.
+
+COLCHESTER.
+
+By their victory of seven goals to one over the Gordon Highlanders, the invincible Durham Light Infantry have strengthened their lead in the Military League. The 20th Hussars are second in the table. The D.L.I.'s are still in the Army Cup, and the 20th Hussars are as yet unbeaten in the Cavalry Cup.
+
+The 2nd West Yorkshire Regiment at Colchester is due to reach Malta on Jan. 18, to relieve the 2nd Devonshires. The 1st Battalion of the West Yorks leaves Bombay this week, and on the way will call at Malta to land 300 men to be transferred to the 2nd Battalion when it arrives there.
+
+Gunner Waghorn, from the Torpedo School ship Vernon, has been appointed to the destroyer Grasshopper, of the First Flotilla at Harwich; and Lieut. de la Poer has been appointed to the command of the Ness, of the Third Flotilla.
+
+[NOTE, Claude: the item that matters is Powerful "returning to Devonport to take the place of the old training ship
+Impregnable": Albert's first ship (1901) is to be replaced by the ship he is in (from 16 September 1911). The paper's
+words only; its regatta was the Australian Squadron's (date not given). "Lion" here is the new battle-cruiser of 1910,
+not the training ship of Albert's boyhood.]
+
+============================================================
+SOURCE: Lyttelton_Times_04_December_1911_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 4 December 1911
+STATUS: COMPLETE
+============================================================
+
+H.M.S. Powerful, the flagship of the Australasian squadron, is to leave Wellington to-morrow for Lyttelton, and is due on Wednesday morning. The cruiser, which carries the flag of Vice-Admiral Sir George King-Hall, will remain in port until Friday, and then proceed to Sydney and Hobart.
+
+============================================================
+SOURCE: Lyttelton_Times_05_December_1911_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 5 December 1911
+STATUS: COMPLETE
+============================================================
+
+H.M.S. Powerful, the flagship of the Australasian Squadron, will arrive in Lyttelton from Wellington this morning. The cruiser, which has as her commander-in-chief Vice-Admiral Sir George King-Hall, K.C.B., C.V.O., will remain in Lyttelton until Friday, when she will proceed to Sydney. The Harbour Board will send out its tug Lyttelton to meet the Admiral and offer him all the facilities of the port. Officers on the Powerful include:—The captain, E. F. Bruen; commander, R. A. Norton; lieutenants, R. J. N. Watson, A. L. Snagge, R. N. S. Hill, W. Dasent, G. B. Harrison, A. S. Douglas, J. Brooke, F. G. Glossop, G. E. Matthews, R. O. Bell-Salter and G. L. Davidson; engineer-commander, A. R. Rolle; chaplain, the Rev G. Robinson; fleet-surgeon, V. G. Thorpe; staff-surgeons, J. O’Hea and W. K. D. Breton.
+
+============================================================
+SOURCE: Lyttelton_Times_06_December_1911_0013_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 6 December 1911
+STATUS: COMPLETE
+============================================================
+
+VISIT OF THE ADMIRAL.
+
+H.M.S. Powerful, the flagship of the Australasian Squadron, which left Wellington on Monday afternoon arrived in Lyttelton yesterday morning, and anchored off Camp Bay at half-past nine, where she was met by the Lyttelton Harbour Board’s tug Lyttelton, with the harbourmaster, Captain A. H. Thorpe, on board. At half-past ten an official visit was paid to his Excellency Vice-Admiral G. F. King-Hall, C.V.O., K.C.B., by the Mayor of Christchurch, Mr J. J. Dougall, Mr H. R. Smith, town clerk, and the Mayor of Lyttelton (Mr M. J. Miller), together with the town clerk (Mr L. A. Stringer). Mr M. J. Miller also represented the chairman, Mr Hugo Friedlander, and Mr G. Laurenson on behalf of the Harbour Board. Official calls were also made by Captain Pilkington, Officer Commanding the Lyttelton Division, Royal New Zealand Artillery (Permanent Force), and by Lieutenant H. H. L. Pennell, R.N., of the Terra Nova. After exchanging courtesies the party returned to the port. In the afternoon his Excellency the Admiral came ashore, and was met on arrival by a guard of honour under Captain Pilkington. He then paid a short visit to Captain Scott’s Antarctic expedition ship Terra Nova, and was much interested in the welfare of the expedition. During his short stay he will also inspect the site for the new Seamen’s Institute which is to be erected at Lyttelton, the foundation-stone of which is to be laid by the Governor on Saturday next.
+
+The flagship is to leave Lyttelton for Sydney early on Thursday morning, where she is to coal and take in a quantity of stores. She is to leave Sydney on December 19, and on her way to England will call at Hobart and Fremantle and Colombo. At the latter port she will meet H.M.S. Drake, the new flagship for the Australasian station, and will then proceed via Suez Canal to Portsmouth, where she will be dismantled and turned into a training-ship.
+
+H.M.S. Drake, the new flagship, will arrive in Hobart in February. She is similar in size to the Powerful, but is more modern. Her complement consists of 900 men, and her armament is two 9.2in guns, sixteen 6in guns, twelve 12-pounders, five 3-pounders, two machine-guns and two torpedo tubes.
+
+============================================================
+SOURCE: Lyttelton_Times_20_November_1911_0007_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 20 November 1911
+STATUS: COMPLETE
+============================================================
+
+To-day H.M.S. Powerful, flagship of the Australasian Squadron, accompanied by the second-class cruiser Encounter, will arrive at Auckland from Sydney. The warships will remain there until November 28, when they leave for Wellington and Lyttelton. The Powerful, Encounter and Pioneer are due at Lyttelton on December 5, and are expected to stay for three days.
+
+============================================================
+SOURCE: Lyttelton_Times_21_November_1911_0006_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 21 November 1911
+STATUS: COMPLETE
+============================================================
+
+An Auckland Press Association message says that H.M.S. Powerful, with the new admiral of the station (Vice-Admiral King-Hall) arrived from Sydney yesterday morning. H.M.S. Powerful will leave Auckland for Wellington on Monday. She will leave Wellington for Lyttelton on December 5, and will leave Lyttelton for Sydney on December 8. The Encounter is due at Lyttelton to-day, and will leave Lyttelton on Monday for Akaroa, Timaru, Dunedin and Bluff, and will leave Bluff on December 17 for Hobart. The admiral will make his headquarters at Hobart for the next three months.
+
+============================================================
+SOURCE: Lyttelton_Times_23_September_1911_0008_Clip.jpg
+PUBLICATION: Lyttelton Times
+DATE: 23 September 1911
+STATUS: COMPLETE
+============================================================
+
+H.M.S. Powerful, flagship of the Australian Squadron, is at present at Jervis Bay, New South Wales. The Encounter is at Brisbane, and the Challenger is refitting at Garden Island, Sydney Harbour. H.M. ships Cambrian, Pyramus, Pioneer and Psyche are each bringing out men from training at Colombo from H.M. ships Gibraltar and Crescent. H.M. ships Torch and Prometheus are in the New Hebrides group. H.M.S. Sealark is surveying in the Solomon Islands, and H.M.S. Fantome is at Broome, West Australia.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_01_November_1911_0011_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 1 November 1911
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA STATION.
+
+FLAGSHIP AND ENCOUNTER IN JERVIS BAY.
+
+COMMONWEALTH DESTROYERS.
+
+GOVERNOR-GENERAL’S LEVEE.
+
+(FROM OUR OWN CORRESPONDENT.)
+September 26th.
+
+H.M.S. Powerful was to have gone to Jervis Bay last Wednesday to carry out gunnery and torpedo exercises, but her programme was subsequently altered, and she left yesterday. The Encounter was in Jervis Bay, but was recalled owing to the Powerful’s change of movements. She accompanied the flagship yesterday.
+
+On Saturday, the destroyers which entered Sydney with the Australian flag at the ensign staff, hoisted the White Ensign at the ensign staff, and the Australian flag at the jackstaff. The Parramatta remains in Sydney; the Yarra accompanied the flagship to Jervis Bay. The three ships will return to Sydney on Friday, remaining until October 10th.
+
+The Challenger is still alongside Garden Island, refitting.
+
+Lord Denman, the new Governor-General, held his first levee in Sydney at the Federal Government House on Monday. About 400 representative citizens, officials, and naval and military officers attended the function, which was a very brilliant one. A smart detachment from the Royal Australian Artillery, with band, acted as guard of honour. His Excellency wore a strikingly handsome uniform, betokening the Commander-in-Chief of the Commonwealth. His Orders were the Grand Cross of St. Michael and St. George, and the Victorian decoration, K.C.V.O.
+
+The Commander-in-Chief and Lady King Hall gave a dance at Admiralty House on Tuesday. The guests were conveyed across by boats from Man-of-war Steps, and the grounds at Admiralty House were illuminated with many coloured electric lights, tastefully arranged among masses of wisteria and other sweet-smelling flowers, while the hall was decorated with tall palms and ferns. The band of the flagship contributed an excellent programme of music.
+
+The cost of the Duntroon Royal Military College to date is £34,233. The land and buildings are held under lease, the annual rental being £750. About £4,000 has been expended in furnishing and equipping the college. Accommodation has been provided for the instruction of the first 43 cadets, and quarters have been provided for a married staff. The total expenditure on the college from the Defence Department votes to the end of August amounts to £16,597. The present staff totals 36 persons, who receive an aggregate pay of £10,108 per annum, the computation being based on the present rates.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_06_December_1911_0013_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 6 December 1911
+STATUS: COMPLETE FOR CLIPPED COLUMN
+============================================================
+
+DECEMBER 6, 1911.
+
+The Navy.
+
+The Prince George, battleship, arrived at Devonport on Friday morning.
+
+The Goldfinch, destroyer, arrived at Devonport on Friday from Portland.
+
+The Queen and Venerable, battleships, left Gibraltar on Monday for England.
+
+Rear-Admiral H. W. Savory has succeeded Rear-Admiral R. L. Groome as Director of Transports.
+
+The Furious, cruiser, which has been carrying out wireless experiments in the Mediterranean, returned to Portsmouth on Thursday.
+
+A draft of fifty boys from Shotley Training Establishment arrived at Chatham on December 2nd to join the battleship Lord Nelson.
+
+A Greenwich Hospital pension of £25 a year has been granted to Mr. James Strong, carpenter, vacant by the death of Mr. James Pennicott, carpenter, on November 3rd.
+
+The Hampshire, cruiser, will replace the Aboukir on the Mediterranean Station, instead of the Roxburgh, doing so. The Hampshire will leave for Malta on December 9th.
+
+The Inflexible, battle-cruiser, left Sheerness last week for Rathmullen, where she will hoist the flag of Rear-Admiral L. F. Bayly, commanding the First Cruiser squadron.
+
+Paymaster-in-Chief Isaac B. Moorman has been granted a Greenwich Hospital pension of £50 a year in the vacancy caused by the death of Paymaster-in-Chief James N. Robinson on November 2nd.
+
+Vice-Admiral R. C. Prothero, C.B., M.V.O., has been granted a naval pension of £100 per annum in the vacancy created by the resignation of Vice-Admiral Sir Bouverie F. Clark, K.C.B., on September 30th.
+
+The Blanche, cruiser, which has had her annual refit, will leave Chatham to-day (Wednesday) for Sheerness to complete preparations for rejoining the First Destroyer flotilla. The Blanche leaves Sheerness on December 8th.
+
+The Doris, cruiser, which has been relieved by the Weymouth in the Atlantic fleet, will pay off at Devonport to-day, and recommission on the following day for service in the Third Division of the Home Fleet at Devonport.
+
+The Drake, cruiser, which has had an extensive refit, was commissioned at Portsmouth on November 30th to relieve the Powerful as flagship on the Australia Station. On her arrival home the Powerful is to be paid off at Devonport.
+
+Capt. R. J. Prendergast on Friday succeeded Capt. H. H. Torlesse as superintendent of Sheerness Dockyard. Capt. Torlesse, owing to illness, was unable to see the officers of the dockyard to say “good-bye,” but in a farewell memorandum he thanked them collectively for their cordial support.
+
+Capt. Alfred E. Grant, lately commanding the battleship Lord Nelson, on Monday assumed the duties of Superintendent of Pembroke Dockyard, in succession to Capt. G. H. B. Mundy, who relinquishes the post on completing his three years’ appointment. Capt. Mundy is fifth on the list for promotion to flag rank.
+
+No. 97 yard craft a new steam mooring lighter, built for service at Sheerness by Messrs. Forrest and Co., of Wyvenhoe, was delivered at Sheerness on Saturday. The lighter has been built and fitted at the cost of £12,016, and will be used in putting down the moorings for the new Mexiwey floating dock in Saltpan Reach.
+
+Owing to the pressure of work in the constructive manager’s drawing-office at Devonport Dockyard, an application was made to the Admiralty last week for permission to temporarily increase the staff. In reply the Admiralty have approved of the staff being increased by ten for a period of six months, the additions being drawn from shipwrights in the various gangs, who will commence work to-morrow as assistant-draughtsmen.
+
+Lieut.-Commander F. G. C. Coates vacated the command of the Jason, torpedo-gunboat, at Sheerness on Monday to take command of the Sandfly, ocean-going destroyer, which will be joined to-day (Wednesday) at Wallsend-on-Tyne by the crew of the Foxhound, and after carrying out her acceptance trial will proceed to Portsmouth to commission as tender to the Venus for service in the Seventh Destroyer flotilla. The Jason is to go into dockyard hands at Sheerness for her boilers to be retubed, for which she will be paid off on December 8th.
+
+At a meeting held at Portsmouth in connection with the newly-formed society for the protection of the mutual interests of British stewards, messmen, and cooks of H.M. Navy, Mr. Burroughs, Admiralty chef, H.M.S. Enchantress, was elected as president, subject to his acceptance. Mr. Hobbins was elected vice-president, and Messrs. W. J. Manser and W. G. Johns treasurer and general secretary. It was decided that the society should be named “The Amalgamated Association of Stewards, Messmen, and Cooks of H.M. Navy in the British Isles,” with headquarters at Portsmouth and branches at sister ports.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_06_September_1911_0011_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 6 September 1911
+STATUS: COMPLETE TO THE LIMIT OF LEGIBILITY
+============================================================
+
+AUSTRALIA STATION.
+
+FLAGSHIP’S ISLAND CRUISE.
+
+DRILLSHIPS’ DEPARTURE FOR COLOMBO.
+
+(FROM OUR OWN CORRESPONDENT.)
+SYDNEY, August 2nd.
+
+The Powerful, flagship of Vice-Admiral G. F. King Hall, returned to Sydney last night from a cruise of one month’s duration in the islands, during which she visited Norfolk Island, Suva (Fiji), and Vila, New Hebrides. At Vila the Commander-in-Chief transferred his flag to the Prometheus for a day or two, and made a tour of inspection of the various islands of the group.
+
+The New Hebrides are perfect spots from almost every point of view. The vegetation is glorious, the climate good, the scenery magnificent, and the natives friendly. The only thing which spoils their prosperity is that they belong to no one—or, rather, that they serve two masters. The islands, which were originally discovered by a Spaniard, became colonized almost equally by English and French. As the whites became more numerous there were quarrels over the ownership of the best land, and trouble arose, for there was no court of appeal. There were too many Frenchmen and too many Englishmen in the New Hebrides for one nation or the other to take possession; so five years ago there was a convention in London, and the Condominium was proclaimed, which placed the islands under the joint control of England and France. There were to be an English and French Resident in the islands, and the court of appeal was to be a mixed tribunal, consisting of an English judge, a French judge, and a Spanish judge, who would be president. Señor Don Alonzo y Zabala Conde de Buena Esperanza, the Spanish judge appointed by the King of Spain, took up his duties some six months ago.
+
+While at Suva the Commander-in-Chief was accorded a welcome by the Fijian chiefs of the group, who were all assembled at Suva in conference. After extending to him the honour of the ceremonial mixing of the Kava, their native drink, which is prepared from the tangona root with much ceremony and chanting, a most impressive Meki-meki, or war-dance, was gone through.
+
+H.M.S. Torch is still at Suva, and H.M.S. Challenger passed through Fiji a week ago on her return from her cruise in American waters. She will go to New Zealand before her return to Sydney.
+
+The Cambrian, Pioneer, Pyramus, and Psyche left to-day for Colombo, via the North of Australia. They were to have left two days ago, but their departure was delayed; they will call at Singapore instead of Java, owing to an outbreak of plague in that island.
+
+The Powerful will probably leave for Brisbane on Saturday, remaining there a week, and will then return to Sydney to be docked.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_13_December_1911_0011_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 13 December 1911
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA.
+
+PART OF SQUADRON AT MELBOURNE.
+
+NAVAL ENGINEER OFFICERS.
+
+CADET ENROLMENTS.
+
+(FROM OUR OWN CORRESPONDENT.)
+November 7th.
+
+H.M.S. Powerful, Encounter, Psyche, and Prometheus are still at Melbourne—not a large gathering, considering that this is “Cup Week,” the most important social function of the year. During race week officers and men have been seen on the course in large numbers.
+
+At Sydney the Challenger and Cambrian are refitting. The Challenger will leave in a day or two for a cruise south, afterwards going to Tasmania.
+
+During the week the Pyramus will be paid off and placed in reserve, in place of the Pegasus, which will be recommissioned from the reserve with the officers and men of the Pyramus.
+
+The destroyers Yarra and Parramatta are still at Melbourne.
+
+The Naval Board is making a genuine effort to obtain engineering officers in Australia. With the establishment of the Naval College at Port Hacking difficulties will be removed. A large scientific equipment is to be provided for the college, which will be expected to train as many officers as the navy will require. The difficulty lies in the transitional stage. Ten years’ training is required to turn out an efficient naval officer, and before the first supplies are available from the college engineers will have to be found for the fleet unit. A conference of professors from Australian Universities has been meeting in Melbourne, at the request of the Board, to see what can be done at the University engineering schools for naval training. It is hoped that by adding to the courses at the Universities many young engineers will be trained for the navy, and that fewer officers will have to be borrowed from the Admiralty.
+
+Out of the 154,247 lads registered in training areas throughout Australia, under the new defence scheme, 6,644 have been exempted from training, because of physical unfitness, and 50,623 because of inaccessibility of residence. The total number liable for training as senior cadets is 94,330, and the number actually in training is 90,315. The registration of the junior cadets is far from finished.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_18_October_1911_0011_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 18 October 1911
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA STATION.
+
+SENIOR NAVAL CADETS’ TRAINING.
+
+MANNING THE COMMONWEALTH NAVY.
+
+MILITARY APPOINTMENTS.
+
+(FROM OUR OWN CORRESPONDENT.)
+September 12th.
+
+The collier Koromiko arrived from New Zealand on Monday, and the Powerful began coaling at 11 a.m., taking in 1,700 tons by midnight. H.M.S. Challenger is alongside Garden Island, where she will remain for some time refitting. The Encounter has finished her refit, and a steam trial on Thursday proved successful. She leaves Sydney to-morrow on a fortnight’s cruise.
+
+The flagship will go to Jervis Bay to-morrow week, the 20th, and will return to Sydney on the 27th. While at Jervis Bay she will be preparing for battle practice, which takes place next month at Melbourne.
+
+The Prometheus will return to Sydney about the end of this month, leaving the Torch as senior officer, New Hebrides.
+
+The Fantome is surveying in the Buccaneer Archipelago, and the Sealark in the Solomon Islands. The latter will leave Cairns early next month.
+
+Altogether 3,230 senior cadets on the naval side have been enrolled up to date. It has been decided that up to 15 years of age boys shall be trained in common subjects. Afterwards they will be divided into three sections, viz., seamen and stokers, signalmen and telegraphists, and artisans. Instruction is to be given in signalling (by semaphore, morse, and telegraph), boat drill under sail and oar, infantry drill, rifle exercise, field gun drill, and gun drill on board ship. Rifles and equipment are being provided for the full strength. The department expects to have its training staff at full strength by the middle of October.
+
+For some time past the Navy-office has been preparing data for the guidance of the Minister for Defence in connection with the manning of the Australian Navy. Senator Pearce stated recently that it was the desire of the Ministry to get Australians into the service as far as possible. It was obvious, however, that many of the skilled ratings must be obtained by “borrowing” from the Royal Naval Reserve, and application had been made to the Admiralty for a considerable number of men to fill the more technical sections of the service. Although the Admiralty have expressed complete willingness to assist the Commonwealth in its naval expansion, it is understood that they are not keen on supplying men to greater extent than may be found absolutely necessary. This attitude is likely to confine their recommendations to the provision of those ratings which cannot be filled by Australians, at any rate in the earliest stages of naval development in the Commonwealth, and consequently the aim of recruiting as far as possible in the Commonwealth will be more easily achieved.
+
+It is not expected that there will be any shortage in the number of technical ratings offering, for the Admiralty will not place any obstacles in the way of the Commonwealth’s plans, and the higher wages to be earned in the Australian service will induce sufficient applicants to come forward.
+
+The numbers to be recruited in Australia and to be obtained in England will be roughly those recommended in the proposals of Admiral Henderson, whose suggestions provide for 818 Australian recruits and 1,679 “borrowed” officers and men from England to make up the complement for the fleet unit. The ratings required from England will comprise:—Commissioned officers, 98; subordinate officers, 12; warrant officers, 74; chief and petty officers, 406; leading ratings, 305; other ratings, 768; total, 1,623. The report contains suggestions for the method of recruiting, which, it is believed, will enable the requirements of the Commonwealth to be supplied without undue interference with the active personnel of the Royal Navy.
+
+Overtures have been made by the Federal Government to the State authorities for the transfer of Cockatoo Island, with its naval works, docks, and Dockyard, to the Commonwealth.
+
+It is understood that the Minister for Defence, on the advice of the Inspector-General, contemplates establishing three positions in the military service, which will be filled by the three commandants in Queensland, South Australia, and Victoria, who have been recently retired under the direction of the Minister. Col. J. S. Lister, who retires from the post of State Commandant of Queensland, where he receives £800 a year, is to be given the position of Inspector of Equipment; Col. J. H. A. Lee, State Commandant of South Australia, who receives £700 a year, is to be made Chief Inspector of Ordnance and Machinery. Each of the new positions, it is stated, is rated at £300 per annum. Col. Lister is 61 years of age, Col. Lee 58, and Col. Stanley 60.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_20_September_1911_0012_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 20 September 1911
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA STATION.
+
+POWERFUL BACK FROM BRISBANE.
+
+JAPANESE SHIPS TO VISIT AUSTRALIA.
+
+CADETS ON STRIKE.
+
+(FROM OUR OWN CORRESPONDENT.)
+Sydney, 15th August.
+
+H.M.S. Powerful returned to Sydney yesterday from Moreton Bay. The Powerful was only there for five days, the “show week.” Many events were crowded into the period—the agricultural show itself, the races, receptions, dances, &c.
+
+On Wednesday the invincible football team of the Powerful defeated a Queensland team, selected by the Queensland Association. The naval team has already achieved an extraordinary reputation all over Australia, and thousands were attracted to the Botanic Gardens to witness the game. The winners were unquestionably the better team in every branch of the game, and also had the advantage of having played together more than their opponents, but the game was distinctly good, and the interest was well sustained. The result was four goals to two, the goal-kickers for the Powerful being Baxter (3) and Keating; and for the Queensland team, Thompson and Adkins. Mr J. W. Kendall refereed, and the teams were:—H.M.S. Powerful—Horton; Turner and McEwen; Smith (captain), Doherty, and England; Grogan, Keating, Chandler, Baxter, and Self. Queensland—A. Thompson; A. McGowan (captain) and T. Hanback; J. McKay, A. Govan, and T. Campbell; D. Halls, G. Barnes, G. Law, A. Thompson, and B. Adkins.
+
+============================================================
+SOURCE: Naval__Military_Record_and_Roy_22_November_1911_0012_Clip.jpg
+PUBLICATION: Naval & Military Record and Royal Dockyards Gazette
+DATE: 22 November 1911
+STATUS: COMPLETE
+============================================================
+
+AUSTRALIA.
+
+SQUADRON PREPARING FOR BATTLE PRACTICE.
+
+DATES OF REFITS.
+
+(FROM OUR OWN CORRESPONDENT.)
+October 8th.
+
+On Wednesday last the Powerful and Encounter, accompanied by the Commonwealth destroyers Yarra and Parramatta (which are still temporarily attached to the squadron for training), left Sydney for Port Phillip. On Wednesday and Thursday nights the destroyers carried out night attacks on the cruisers, the latter being manned and armed to resist destroyer attack, all lights being darkened on board. The heavy weather prevented the destroyers from achieving any success. On arrival at Melbourne H.M.S. Cambrian was met, having arrived the previous day from Adelaide, on her way from Colombo after recommissioning. She is to remain at Melbourne for the present to assist in the battle practice, though she will not actually fire, as she has only just recommissioned. The only ships to fire will be the Powerful, Encounter, and Prometheus, as the Psyche and Pioneer will not arrive as early as was expected. The actual battle practice takes place next Wednesday.
+
+============================================================
+SOURCE: Times_of_Ceylon_27_November_1911_0008_Clip.jpg
+PUBLICATION: Times of Ceylon
+DATE: 27 November 1911
+STATUS: COMPLETE
+============================================================
+
+FOREIGN AND GENERAL NEWS.
+
+(From Australian Papers.)
+
+AUSTRALIAN NAVAL STATION.
+
+LONDON, November 13th.—H.M. armoured cruiser “Drake” (14,100 tons) will, in January next, succeed H.M.S. “Powerful” as flagship on the Australian Station. The crew of the “Powerful” will be transferred to the Drake.

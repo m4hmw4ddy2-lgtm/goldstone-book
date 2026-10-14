@@ -1,0 +1,33 @@
+NOTE (14 October 2026, Claude): "Known source-file problems" 1 and 2 below are WRONG: both images are present in the
+repository and full (Lyttelton_Times_12_July_1912_0008_Clip.jpg, 2330 x 6055 px; Lloyds_Weekly_Newspaper_10_December_
+1911_0018_Clip.jpg, 1312 x 3686 px). Lloyd's Weekly now TRANSCRIBED and checked in full (powerful_transcriptions.txt); the Lyttelton Times page READ in
+full: no reference to Drake (drake_transcriptions.txt). Check status: see each file's header.
+
+NAVAL MEDIA TRANSCRIPTION INDEX
+Goldstone Book
+
+Folders covered exhaustively in this pass:
+
+shannon — 4 source images — all accounted for
+jupiter — 13 source images — all accounted for
+powerful — 20 source image entries — all accounted for
+pioneer — 19 source images — all accounted for
+drake — 22 source image entries — all accounted for
+tb31 — 1 source image — accounted for
+prince-george-ferrol — 11 source images — all accounted for
+
+TOTAL SOURCE ENTRIES ACCOUNTED FOR: 90
+
+Known source-file problems:
+1. sources/images/Media-coverage/drake/Lyttelton_Times_12_July_1912_0008_Clip.jpg
+   Repository object exists but contains zero image bytes. Marked EMPTY SOURCE FILE in drake_transcriptions.txt.
+
+2. sources/images/Media-coverage/powerful/Lloyds_Weekly_Newspaper_10_December_1911_0018_Clip.jpg
+   Repository object exists but contains zero image bytes. Marked EMPTY SOURCE FILE in powerful_transcriptions.txt.
+
+Transcription conventions:
+- Original wording, spelling and punctuation preserved where legible.
+- Newspaper line-break hyphenation silently joined where plainly typographical.
+- [illegible] marks text that cannot be read reliably.
+- Longer degraded passages are explicitly described rather than guessed.
+- Each transcription file follows repository filename order and accounts for every non-.gitkeep file in its source folder.
