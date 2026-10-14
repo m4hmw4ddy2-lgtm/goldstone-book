@@ -17,6 +17,11 @@ The rest of this transcription was not re-checked in that round; it stands as Ri
 - N5: the number has **six digits**, not five: **"384833"** (Rik's reading, 13 October 2026; Claude's crop had "38485[3/8]"). The date beneath reads **"26/2/19" or "28/2/19"** (second digit uncertain).
 - N4: reads **"N.P. 1391/02"**, not "139/02" (confirmed by Rik, 13 October 2026).
 - Age, first entry: **16**, not overwritten: a very loopy script (Rik, 13 October 2026). Height: "5-0[2/½]".
+**THIRD IMAGE CHECK, 13 October 2026 (Claude), on comparison with the RMG "Lives at Sea" transcription (transcribed/RMG_Royal_Navy_Records_WW1_Albert_Goldstone_218159.md):**
+- Jupiter, first entry (sequence 11), closes **"1 Mch 06"**, NOT "11 March 06" (corrected in the body below; RMG reads the same). With the next entry opening on 12 March, the gap is 2 to 11 March, ten days, beside "Cells 10 d[ays]", and the conduct class drops on 2.3.06.
+- Majestic, first entry, closes **"20 Dec 04"** (re-confirmed; RMG's "26th December 1904" is wrong).
+- Tyne: RMG reads "Tyne (TB 31)". The looped capital is consistent with a T; the reading T.B. 31 (a torpedo boat numbered 31, borne on Tyne's books) is now the likelier, with RMG's concurrence. READ AS **"T.B.31"** by Rik, 13 October 2026 (body corrected).
+- Alexander, rating (sequence 31): reads **"P.O. (ns)"** (Rik's suggestion on RMG's "Petty Officer (New Series)"; crop enlarged four times: an open "n" and a long "s"), NOT "P.O. (as)" (this transcription) or "P.O. (act)" (the briefing). Nothing on the sheet says "acting". What "N.S." meant is general knowledge, not yet sourced.
 NOT checked: the ship's-book numbers in "List and No." (the briefing's readings differ in several); the clothing gratuity sums; Remarks entries 1, 5 and 7. The body below has not been altered; these readings stand over it.
 
 **Original:** The National Archives, **ADM 188/383**, official number **218159**, image reference **122**. [Service-record PDF](https://github.com/m4hmw4ddy2-lgtm/goldstone-book/blob/main/sources/images/albert-goldstone/Albert%20Goldstone%20Naval%20Record.pdf).
@@ -72,7 +77,7 @@ Original columns in the following table: **Ships, &c., served in; List and No.; 
 | 8 | " | " / " | " | 4 Jan 05 | 28 Feb 05 |
 | 9 | Firequeen I | 15<sup>a</sup> / 1237 | " | 1 March 05 | 31 March 05 |
 | 10 | Victory | " / " | " | 1 Apl 05 | 14 Aug 05 |
-| 11 | Jupiter | 5 / 172 | " | 15 Aug 05 | 11 March 06 |
+| 11 | Jupiter | 5 / 172 | " | 15 Aug 05 | 1 March 06 |
 | 12 | " | 3<sup>II</sup> / " | " | 12 March 06 | 4 Aug 07 |
 | 13 | " | " / " | " | 8 Aug 07 | [blank] |
 | 14 | " | " / " | A.B. | 1 Jan 08 | 3 Feb 08 |
@@ -86,13 +91,13 @@ Original columns in the following table: **Ships, &c., served in; List and No.; 
 | 22 | Pioneer | 5<sup>2</sup> / 36 | " | 17 Dec 11 | 23 May 12 |
 | 23 | Drake | " / 358 | " (1) | 24 May 12 | 25 Feb 13 |
 | 24 | Pembroke I | 15<sup>II</sup> / 4192 | - | 26 Feb 13 | 26 Oct 13 |
-| 25 | Tyne (I.B.31) | 12 / 19 over 2 / 35 | " | 27 Oct 13 | [blank] |
+| 25 | Tyne (T.B.31) | 12 / 19 over 2 / 35 | " | 27 Oct 13 | [blank] |
 | 26 | " | " / " | Ldg Smn | 1 July 16 | 27 July 16 |
 | 27 | Pembroke I | 15<sup>I</sup> / 6969 | " | 28 July 16 | 3 Nov 16 |
 | 28 | Courageous | 5<sup>II</sup> / 295 | " | 4 Nov 16 | 31 Dec 17 |
 | 29 | Pembroke I | 15<sup>a / I over 2 /</sup> / [8543; overwritten 8577] | " | 1 Jan 18 | 26 Feb 18 |
 | 30 | Alexander | 5<sup>II</sup> / 26 | " | 27 Feb 18 | [blank] |
-| 31 | " | " / " | P.O. (as) | 1 Sept 18 | [blank] |
+| 31 | " | " / " | P.O. (ns) | 1 Sept 18 | [blank] |
 | 32 | " | 5<sup>I</sup> / 5 | " | [blank] | [blank] |
 | 33 | Pembroke I | [W4?] / 3108 | " | 17 Jan 19 | 26 Mar 19 |
 
