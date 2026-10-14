@@ -62,7 +62,7 @@ During Albert's Pioneer posting she was **HMS Pioneer**, a Royal Navy ship on th
 
 ### Tyne, qualifications and Leading Seaman, 1913-1916
 
-Albert returned to **Pembroke I from 26 February to 26 October 1913**, then entered **Tyne on 27 October 1913**. The ship entry includes **“(P.B.31)”**. His service continued through the opening years of the First World War, and he became **Leading Seaman on 1 July 1916**. He moved to **Pembroke I on 28 July**, remaining until **3 November 1916**. That Pembroke posting was missing from the supplied timeline. [S1]
+Albert returned to **Pembroke I from 26 February to 26 October 1913**, then entered **Tyne on 27 October 1913**. The ship entry includes **“(T.B.31)” [corrected 13 Oct 2026, Rik]**. His service continued through the opening years of the First World War, and he became **Leading Seaman on 1 July 1916**. He moved to **Pembroke I on 28 July**, remaining until **3 November 1916**. That Pembroke posting was missing from the supplied timeline. [S1]
 
 The sheet records his **Petty Officer educational examination on 3 December 1912** and a **professional PO qualification dated 20 October 1916**. These qualifications preceded his eventual acting promotion. The sub-ratings also record **S.G.** and later **Acting G.L. II**, indicating gunnery training. These are specialist qualifications, distinct from his substantive rating. [S1, S27, S28]
 
@@ -80,7 +80,7 @@ His sub-rating entry records **Acting G.L. II from 1 November 1917**, shortly be
 
 After **Pembroke I, 1 January-26 February 1918**, Albert entered **Alexander on 27 February**. The icebreaker operated in North Russia, between Murmansk and Archangel. Official despatches describe her arrival at Murmansk on **1 April 1918**, sailing with food ships on **17 April**, and presence at Archangel in July, when her captain averted a hostile confrontation. Albert was serving in Alexander during these operations. [S1, S18, S19]
 
-He became **Acting Petty Officer on 1 September 1918**. The sheet's wording is **“P.O. (act)”**. His daughter **Clarie Irene Goldstone** was born on **21 October 1918**, according to the 1939 Register, during his Alexander posting. [S1, S23]
+He became **Petty Officer on 1 September 1918**. The sheet's wording is **“P.O. (ns)”** [corrected 13 Oct 2026 from “P.O. (act)” and “Acting”: image re-read; RMG “Petty Officer (New Series)”]. His daughter **Clarie Irene Goldstone** was born on **21 October 1918**, according to the 1939 Register, during his Alexander posting. [S1, S23]
 
 He returned to **Pembroke I on 17 January 1919**, and was **invalided on 26 March 1919**, aged 31. The record gives **“Org Heart Disease”**, organic heart disease. It records the condition, not its origin. [S1]
 
@@ -90,7 +90,7 @@ The sheet records an improving pattern of character assessments, from **Good** i
 
 The medal roll identifies **GOLDSTONE, Albert, P.O., 218159** and records **St, V, B**, issued **S**. The National Archives' key identifies these as the **1914-15 Star, Victory Medal and British War Medal**, issued to **Self**, Albert himself. His documented campaign group is therefore **the 1914-15 Star, British War Medal and Victory Medal**. The column order in the roll is not a wearing-order instruction, and the page gives no issue date. [S2, S24, S25]
 
-The medal roll abbreviates his rating as **P.O.**; the service sheet specifies **Acting Petty Officer**. Use the full service-sheet description for his September 1918 advancement.
+The medal roll abbreviates his rating as **P.O.**; the service sheet gives **P.O. (ns)** [corrected 13 Oct 2026 from Acting Petty Officer]. Use the full service-sheet description for his September 1918 advancement.
 
 **His Silver War Badge is now confirmed by the Applications for War Badges register:** “Gladstone A.”, official number **218159**, rating **P.O.**, badge number **36842**, issued **28 February 1919**. The matching official number establishes his identity despite the misspelling. The date is in the “Badge Issued” column, not merely an application date. [S29]
 
@@ -120,7 +120,7 @@ Preferred research-note wording: **“P.C. 384833, dated 28 February 1919; meani
 These are discrete questions, not doubts about the career as a whole.
 
 1. **Exact joining locations:** establish the ships' positions on the joining dates before specifying Ferrol for Prince George, Gibraltar for Majestic, Portland for Shannon or Dominion, Sydney for Pioneer or Drake, or Archangel for Alexander. Powerful's posting date is not itself an arrival date in New Zealand.
-2. **Tyne (P.B.31):** identify the attachment and when it applied. The annotation is legible; the date of that attachment is not separately supplied.
+2. **Tyne (T.B.31) [corrected 13 Oct 2026 from P.B.31, Rik]:** identify the attachment and when it applied. The annotation is legible; the date of that attachment is not separately supplied.
 3. **P.C. annotation:** identify the separate “P.C. 384833” reference through a contemporary naval key or matching document. **Protection Certificate and Pension Certificate remain plausible, with neither established nor preferred.** The Silver War Badge itself is settled: number **36842**, issued **28 February 1919**. Obtain the full archive reference for the supplied War Badges register image for the final manuscript citation.
 4. **A few handwritten details:** obtain a cleaner scan or check the source for the initials tattoo, altered ages and initial height, parts of the sub-rating dates, one examination day and administrative numbers. These are flagged at the relevant cells below.
 5. **Original family entries:** recheck the 1911 census and the marriage/1921 census images when preparing final source notes; the present career work relies on the project's prior readings for those entries. The 1939 Register was inspected directly.
@@ -192,7 +192,7 @@ The two components in “List and No.” are shown as **list / number**. Supersc
 | 8 | Ditto | Ditto | Ditto | 4 Jan 1905 | 28 Feb 1905 | |
 | 9 | Firequeen I | 15(a) / 1237 | Ditto | 1 March 1905 | 31 March 1905 | |
 | 10 | Victory | Ditto | Ditto | **1 April 1905** | 14 Aug 1905 | |
-| 11 | Jupiter | 5 / 172 | Ditto | 15 Aug 1905 | **11 March 1906** | |
+| 11 | Jupiter | 5 / 172 | Ditto | 15 Aug 1905 | **1 March 1906** [corrected 13 Oct 2026 from 11 March: image re-read, RMG agrees] | |
 | 12 | Ditto | 5(2) / ditto | Ditto | **12 March 1906** | 4 Aug 1907 | List change entered |
 | 13 | Ditto | Ditto | Ditto | 8 Aug 1907 | Blank | |
 | 14 | Ditto | Ditto | A.B. | 1 Jan 1908 | 3 Feb 1908 | |
@@ -206,13 +206,13 @@ The two components in “List and No.” are shown as **list / number**. Supersc
 | 22 | Pioneer | 5(2) / 36 | Ditto | 17 Dec 1911 | **23 May 1912** | |
 | 23 | Drake | Ditto list / 358 | Ditto | **24 May 1912** | 25 Feb 1913 | Footnote marker (1) beside row |
 | 24 | Pembroke I | 15(a) / 4192 | Ditto [dash] | 26 Feb 1913 | 26 Oct 1913 | |
-| 25 | Tyne (P.B.31) | 12 / [19 above; 35 below, with 2 amendment?] | Ditto | 27 Oct 1913 | Blank | Multiple small administrative digits |
+| 25 | Tyne (T.B.31) [corrected 13 Oct 2026 from P.B.31, Rik] | 12 / [19 above; 35 below, with 2 amendment?] | Ditto | 27 Oct 1913 | Blank | Multiple small administrative digits |
 | 26 | Ditto | Ditto | Ldg Smn [Leading Seaman] | 1 July 1916 | 27 July 1916 | |
 | 27 | Pembroke I | 15(a) / 6999 | Ditto | 28 July 1916 | 3 Nov 1916 | |
 | 28 | Courageous | 5(III) / 205 | Ditto | 4 Nov 1916 | 31 Dec 1917 | |
 | 29 | Pembroke I | 15(a) / [2839?; overwritten, 201 above] | Ditto | 1 Jan 1918 | 26 Feb 1918 | Number obscured by amendment |
 | 30 | Alexander | 5(II) / 26 | Ditto | 27 Feb 1918 | Blank | |
-| 31 | Ditto | 5(2) / 5 [with ditto/amended marks above] | P.O. (act) | 1 Sept 1918 | Blank | Acting rating explicit |
+| 31 | Ditto | 5(2) / 5 [with ditto/amended marks above] | P.O. (ns) [corrected 13 Oct 2026] | 1 Sept 1918 | Blank | Acting rating explicit |
 | 32 | Pembroke I | [N4?] / 2108 | Ditto | 17 Jan 1919 | **26 March 1919** | Final character/discharge entries below |
 
 Blank closing dates are left blank as in the sheet; the readable chronology can derive the preceding day from the following start where appropriate. The six-day gap between the two Majestic entries and the three-day gap between Jupiter entries are preserved.
