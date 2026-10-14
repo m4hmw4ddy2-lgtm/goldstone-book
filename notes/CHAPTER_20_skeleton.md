@@ -276,12 +276,12 @@ would enter prose must still be checked against the page itself before drafting.
 - SHANNON, 10 Mar 1908 to 28 Feb 1910: commissioned 19 March 1908 (Burt, "Minotaur: Before the Battlecruiser",
   Warship 42, 1987, p. 92); flagship of the 5th Cruiser Squadron, Home Fleet; from April 1909 in the 2nd Cruiser
   Squadron; flagship of her squadron from 1 March 1910 (naval-history.net agrees: 3.08-Shannon [F]). HIS ENTRY OPENS
-  NINE DAYS BEFORE SHE COMMISSIONED: he was in her from her fitting out. (Her collision with Prince George, 5 December
+  NINE DAYS BEFORE SHE COMMISSIONED: he was in her from her fitting out. [WRONG: corrected 14 October 2026 from the press; she commissioned on 10 March 1908, the day his entry opens. See RIK'S PRESS CLIPS, Shannon.] (Her collision with Prince George, 5 December
   1907, was before his time.) No event found for 1908-1910.
 
 ### What this gives the chapter, plainly
 One event (the collision) and four arrivals or departures that coincide with a ship's commissioning or paying off
-(Prince George/Majestic, July 1904; Jupiter, August 1905 and February 1908; Shannon, March 1908). The record shows
+(Prince George/Majestic, July 1904; Jupiter, August 1905 and February 1908; Shannon, March 1908). [14 Oct 2026: Shannon's commissioning was 10 March, the day his entry opens (press).] The record shows
 him going where the Navy sent new crews; it does not show why. For "life", the collision and the Channel Fleet are the
 material; the rest is fleets and harbours. Victory, Firequeen and Pembroke add places, not events.
 
@@ -375,3 +375,222 @@ before it enters prose (the image could not be opened from here).
 - Beresford's memoir passage, read in full.
 - [FOUND 13 October 2026: Navy Lists of July 1903 (Lion, Agincourt) and April 1905 (Victory, Firequeen), above. Images to check before prose.]
 - The 1888 broadside, or the 1901 boys' entry regulations (B). [Navy List July 1903, Greenwich Hospital School rule found: above.]
+
+### RIK'S SHIP RESEARCH, 14 October 2026 (taken in and graded)
+WHAT IT IS: a research sweep Rik brought into the session as a pasted text, ship by ship against the sheet's dates,
+with site names given as its sources (Historic England, olddevonport.uk, Wikipedia, worldnavalships.com, Sea Your
+History, Chatham Historic Dockyard Trust, RMG, Lyttelton Museum, seapower.navy.gov.au, AWM, naval-history.net). By its
+form an AI-assisted summary, and it already holds this project's own notes (the census's "769 on board"), so it is not
+an independent check of them. GRADE: LEAD throughout. Nothing in it enters prose on its own word; each claim goes back
+to the source it names, or a better one, and is graded there. Nothing to transcribe or image-check: it is not a document.
+
+CHECKED IN THIS SESSION (14 October 2026), for this chapter's ships only:
+- JUPITER, aim-correction trials: CONFIRMED AS A CATALOGUE ENTRY (OFFICIAL/REFERENCE). RMG, HTN/116/B (Hamilton
+  papers), "Memoranda on official subjects collected by Hamilton ...", 1902-1917; its description includes reports by
+  A. H. Pollen on the aim correction trials on HMS Jupiter, 1905-06 (and Ariadne, 1907-08). Read through a tool that
+  summarises (rmg.co.uk/collections/archive/rmgc-object-551015); the catalogue text to be read on the page before any
+  sentence relies on it. The catalogue puts trials on Jupiter in 1905-06; it does not date them inside those years.
+  To place them inside Albert's entries, the reports themselves (Caird Library, HTN/116/B) are needed. LEAD for I.
+- VICTORY = THE PORTSMOUTH BARRACKS: SECONDARY, with a citation. Wikipedia, HMS Nelson (shore establishment): the
+  barracks opened in 1903 and were commissioned as HMS Victory (cited to the Naval Dockyards Society's 2015
+  characterisation report). CONFLICT, not resolved: Mackworth's record (ADM 196/45, via the Hood Association) has
+  "Firequeen for R.N. Barracks" from 3 September 1904 to 7 November 1905, and the April 1905 Navy List gives Victory as
+  the old first rate flying the Commander-in-Chief's flag. WHAT THE SHEET ITSELF SHOWS (new, from the transcription):
+  Firequeen I and Victory carry the SAME list and book number, "15a / 1237" (Victory's cell is ditto on ditto). He kept
+  one ship's-book number across 31 March to 1 April 1905: one set of books under a changed name, not two ships.
+  INFERENCE, NOT FOR PROSE: on 1 April 1905 the books he was borne on changed name from Firequeen I to Victory; both
+  are very probably the barracks. For prose: "Portsmouth", and the names as the sheet gives them (F (a)).
+- PRINCE GEORGE: Wikipedia's wording CONFIRMED as Wikipedia's, cited to Burt p. 163: "in heavy seas"; hole on the
+  starboard quarter; Ferrol, "steering with her engines and with her sternwalk awash"; sailed 24 October. "Heavy seas"
+  is Burt's (via Wikipedia); Vanner (from Beresford) has night manoeuvres without lights. Not in conflict, but neither
+  is yet read in its own source. The contemporary press (C) remains the witness wanted.
+- SHANNON AND PRINCE GEORGE: DATE IN CONFLICT, NEW AND MATERIAL. Wikipedia's text has the collision at Portsmouth on 5
+  December 1907 (cited to Preston, Conway's 1906-1921, p. 7), but its own footnote says Conway's dates it to DECEMBER
+  1909. Shannon was built at Chatham and commissioned 19 March 1908 (above), so a collision AT PORTSMOUTH in 1907, while
+  she was fitting out, is doubtful on its face. IF DECEMBER 1909, it falls inside Albert's Shannon entry (10 March 1908
+  to 28 February 1910, no break). WANTED: the contemporary press of December 1907 and December 1909 (Times; Portsmouth
+  Evening News; Papers Past cables). Until then, out, and the research's "his old ship had already collided with his
+  future one" stands unproven.
+- LION, the olddevonport.uk details (moored stern to stern, masts and spars kept for work aloft, the brig Liberty
+  attached, the establishment closed 1904): NOT CHECKABLE. The site is closed (its home page says so). The details
+  need another source: the Plymouth museum photograph (1905, "now abandoned") and the April 1905 Navy List ("late
+  Training Ship for Boys") agree with a closure by 1905, nothing more. Lion's launch year (1847, as the research gives
+  it) to source if used.
+- AGINCOURT: as already above (Portsmouth Evening News, 25 March 1904; Ballard; July 1903 Navy List). Nothing new.
+- MAJESTIC: the Atlantic Fleet from 1 January 1905 (Burt, above). Nothing new for his months.
+
+ERRORS AND CAUTIONS IN THE RESEARCH (against the sheet and the notes):
+1. Alexander: "Acting Petty Officer" is wrong: the sheet reads "P.O. (ns)" (standing rule). Chapter Twenty-One.
+2. Jupiter's break: given as "4-7 Aug 1907"; the sheet closes the entry on 4 August and reopens it on the 8th, so the
+   days off the books are 5 to 7 August (three days; plan finding 2).
+3. The three cells spells: the research treats the Majestic break as a holiday not to fill ("an invented Christmas").
+   The plan's finding 2 already holds that the breaks match the cells exactly (inference, NOT for prose). The DECIDE 8
+   condition makes these breaks matter: no ship event inside 21 December 1904 to 3 January 1905, 2 to 11 March 1906, or
+   5 to 7 August 1907 may be given as his.
+4. Tyne: treated as a depot ship. The sheet reads "Tyne (T.B.31)": he was borne on Tyne's books for torpedo boat 31.
+   Material for Chapter Twenty-One: TB 31 to source (Navy List 1913-16; her flotilla and station).
+5. Alexander: "the former Russian icebreaker Sviatogor/Alexander Nevsky ... captured" conflates two ships and is to be
+   sourced from the despatches before any sentence uses it (Chapter Twenty-One).
+6. Drake as "Australia Station flagship", and the dated AWM photographs: to check (Chapter Twenty-One).
+7. Powerful: the sheet's entry opens 16 September 1911 while the ship was in Australian waters; a man drafted out may
+   have been borne on her books on passage. The DECIDE 8 condition (entry running across the date) is met for the New
+   Zealand tour of November-December 1911, but whether he had reached her by then is worth one check (how and when
+   drafts went out). Chapter Twenty-One. The Terra Nova at Lyttelton: Papers Past (Lyttelton Times, The Press) is the
+   witness to get.
+8. Interpretive framings ("Nelson's Navy", "nearly sunk underneath him", "medically finished", "while his wife was
+   elsewhere", "Bantry Bay" for the census's "Glengariff Harbour") are the research's, not the record's: none to be
+   carried into prose. Dreadnought making Jupiter "obsolescent" is general knowledge plus interpretation: out unless
+   Rik selects it and it is sourced, and then without the gloss.
+
+### RIK'S PRESS CLIPS, 14 October 2026 (taken in, image-checked, graded)
+Rik supplied 90 clips in sources/images/Media-coverage/ (subfolders prince-george-ferrol, jupiter, shannon, powerful,
+pioneer, drake, tb31) with his transcriptions, now in transcribed/ (one file per folder, *_transcriptions.txt, and albert-naval-transcription-index.txt).
+CHECKS (each recorded in its file's header): the three folders for this chapter checked against the images, 14 October
+2026 (Claude): prince-george-ferrol and shannon WORD BY WORD IN FULL; jupiter in full except the long Naval & Military
+Record of 31 Aug 1905 and the first half of the Evening Irish Times of 4 Apr 1906. Most errors were small (punctuation,
+a printer's spelling silently corrected). TWO WERE MATERIAL: the Western Evening Herald's "towed there" (the paper prints
+"here"); and the Evening Irish Times of 4 April 1906, whose Jupiter paragraph was wrongly transcribed ("must not be
+used" for "now are to hand"; "80lb" for "500lb"; the second half called illegible when it is not): RE-TRANSCRIBED from
+the image. The four Chapter Twenty-One folders are NOT checked. The index's two "empty source files" are NOT empty.
+GRADE: PRIMARY (contemporary press), used AS PRESS under the press rule: named, dated, quoted or summarised; never as
+unattributed fact where papers disagree. Official texts printed in the press (the Admiral's telegram) are the best
+witnesses here.
+
+#### Prince George, the collision (C). His entry runs 9 Sep 1903 to 19 Jun 1904 with no break: DECIDE 8 condition MET.
+SETTLED BY THE PRESS (several independent witnesses agree):
+- The night: Saturday 17 October 1903. The Admiral's own telegram, dated 18 October (London Evening Standard, 20 Oct;
+  Western Evening Herald, 19 Oct): "Hannibal having collided with Prince George during turning movement on the night
+  of the 17th October ... aft submerged torpedo flat of Prince George filled with water. No damage to Hannibal. ...
+  No one hurt." (Herald's setting: "turning movements"; "the Prince George is filled with water".)
+- The fleet without lights, manoeuvring off Finisterre (Central News; Madrid correspondent; Reuter): agreed.
+- Ferrol: the fleet entered on Sunday the 18th (Madrid correspondent, Standard); eight battleships and three cruisers
+  (Reuter, Pall Mall Gazette).
+- Portsmouth: arrived Monday 26 October, escorted by "Sutley" [Sutlej] (Western Times 27 Oct; Daily Express 27 Oct).
+- Captain Campbell court-martialled and acquitted (both 27 Oct). The First Lord assembled the crew and gave them the
+  King's message on "the calmness and courage they displayed after the collision" (Southern Daily Mail, 3 Nov 1903:
+  "this afternoon", i.e. Tuesday 3 November, if the paper is an evening one: TO CONFIRM before the day is given).
+CONFLICTS (record; prose follows none of them as fact):
+- PORT OR STARBOARD: every contemporary paper says PORT (side or quarter); Burt (via Wikipedia) says starboard. The
+  press, several witnesses, is preferred; the side need not enter prose at all.
+- THE HOUR: "ten o'clock" (Western Times 27 Oct, from "those on board"); Vanner/Beresford "about 9.30"; Reuter
+  (Southern Echo, 19 Oct) "early yesterday morning", wrong against the Admiral. Prose: "the night of the seventeenth".
+- BEACHED OR AFLOAT: Reuter (19 Oct) "has been beached"; the Leeds Mercury correspondent and Central News (20 Oct)
+  "repaired afloat", beaching only a last resort; the Western Times of 27 Oct, from those aboard: beached, a dam built
+  by "the whole Fleet's carpenters" for "nearly a week", towed off on Friday [23 Oct] and found water-tight. The latest,
+  fullest account (Western Times 27 Oct) is the one to quote if any; attributed.
+- UNDER HER OWN POWER: Madrid correspondent (19 Oct) "being towed here, being unable to use her own steam or engines";
+  Burt "steering with her engines". Unresolved; leave out.
+- "Copper dam" (Western Times) against Beresford's "coffer-dam" (via Vanner): the paper's word, if quoted, as printed.
+WHAT IT CAN CARRY IN PROSE (for selection): the night and the fleet without lights; the Admiral's telegram quoted (an
+official text, the strongest witness, ending "No one hurt."); Ferrol; Portsmouth on the 26th; the King's message to
+the ship's company. Nothing of Albert's station, act or feeling. The Western Times's "narrowest escape" line is an
+unnamed speaker in a paper: quotable only as what the paper printed.
+
+#### Jupiter. Entries: 15 Aug 1905 to 1 Mar 1906; [off the books 2 to 11 Mar 1906]; 12 Mar 1906 to 4 Aug 1907; [5 to
+#### 7 Aug 1907]; 8 Aug 1907 to 3 Feb 1908.
+- 15 AUGUST 1905: "recommissioned at Chatham yesterday by Captain H. A. Warreu [Warren], late of the Hannibal, for
+  service in the Channel Fleet, in which she is to replace the battleship Revenge" (Morning Advertiser, 16 Aug 1905);
+  "refitted at a cost of £60,000, was manned at Chatham yesterday" (North Star, 16 Aug 1905). Two separate wordings.
+  His entry opens on that day: the press puts him at Chatham on the day the ship was manned.
+- Late Aug 1905: ran into the brigantine Caroline, of Marstal, which put in at Dover (Lloyd's List, 26 Aug 1905:
+  "previously reported"). The date of the collision is NOT in the clip: the earlier report is wanted before use.
+- Left Chatham for Sheerness about 4 Sep, then Portsmouth to join the Reserve Division "until her crew is completed"
+  (Western Morning News 2 Sep; Naval & Military Record 14 Sep 1905).
+- AIM CORRECTOR TRIALS: to Spithead on Tuesday [21 Nov 1905] "in order to carry out 'aim corrector' trials"
+  (Portsmouth Times, 25 Nov 1905); "having been at Spithead for some time in order to carry out aiming director trials,
+  returned into harbour on Tuesday" [19 Dec 1905] (Portsmouth Times, 23 Dec 1905). With RMG HTN/116/B (Pollen's reports
+  on "aim correction trials on HMS Jupiter 1905-06"), this places the trials inside his first entry. STRONG.
+- Berehaven, January 1906: "A sailor named Corke was killed on Friday [26 Jan] on board the battleship Jupiter, at
+  Berehaven, through being jammed by a large block" (Stamford Mercury, 2 Feb 1906); she sailed Saturday 27 Jan for
+  Portsmouth, arrived Sunday, with trials of North Country bituminous coal (Evening Irish Times, 30 Jan 1906). Inside
+  his first entry. A death aboard: Rik's ruling whether it goes in at all (it would be the only other man named).
+- Berehaven, late March 1906 (the Morning Post via the Evening Irish Times, 4 Apr 1906: "last week"): Channel Fleet
+  mining exercises; "An E M mine-field was laid by the Jupiter"; eighteen counter-mines fired; "the surface was strewn
+  with fish killed or stunned by the concussion". Inside his second entry (from 12 March) if "last week" means the
+  week before the Post's date, which is not in the clip: TO CONFIRM (the Morning Post itself).
+- Off Portland, late May 1906 (Birmingham Daily Post, 5 June: "last week"): Jupiter and Ocean took on ammunition at sea
+  from the steamship John Sanderson's pinnaces. Inside his second entry.
+- OUT: Frederick George Chant, able seaman of Jupiter, drunk at Gillingham (Chatham paper, 26 Aug 1905): another man.
+- THE CALLBACK (plan DECIDE 6 (d)): the latest dated event in hand before 29 June 1906 is the ammunition trial at the
+  end of May. No event found for June-July 1906. Recommendation: no callback in this chapter from the ship's doings
+  (a ship event set beside her death would point).
+
+#### Shannon. Entry 10 Mar 1908 to 28 Feb 1910, no break.
+- COMMISSIONING: "was on Tuesday [10 March] commissioned by Captain J. A. Fergusson for service in the Fifth Cruiser
+  Squadron with the Home Fleet at the Nore as flagship of Rear-admiral Callaghan. The Shannon is the largest and most
+  powerful cruiser in commission" (Western Mail, 11 Mar 1908). The Sheerness Guardian (14 Mar) says "On Wednesday" [11
+  March]. His sheet opens on 10 March, with the Western Mail.
+  CORRECTION TO THIS SKELETON (above, I, Shannon, and "What this gives the chapter"): "commissioned 19 March 1908
+  (Burt)" and "HIS ENTRY OPENS NINE DAYS BEFORE SHE COMMISSIONED" are WRONG against the press: she commissioned on 10
+  (or 11) March, at Chatham, and his entry opens on the day. Burt's 19 March (Warship 42) is perhaps her readiness
+  for sea; the Chatham paper of 21 March has her "taken into dock on Monday [16 March] to be finally prepared for sea".
+  Not propagated to other files yet: grep found the claim only in this skeleton.
+- Laid down at Chatham 2 January 1905; cost "over £1,400,000" (Sheerness Guardian, 14 Mar 1908).
+- The 1908 PROGRAMME (West Lothian Courier, 20 Mar 1908): gunlayers' tests at the Nore in May, then Queensferry as the
+  squadron's headquarters for most of the summer; battle practice in August near the Moray Firth. A PLAN printed in
+  advance, not a record of what was done: a lead only (Rik's ruling on 8 needs the event, not the intention).
+- THE SHANNON-PRINCE GEORGE COLLISION: none of the clips carry it. Still 1907 or 1909 (Wikipedia against Conway's).
+
+#### For Chapter Twenty-One (NOT checked; leads noted now so they are not lost)
+- HOW HE REACHED AUSTRALIA: Lyttelton Times, 23 Sep 1911: Cambrian, Pyramus, Pioneer and Psyche "are each bringing out
+  men from training at Colombo from H.M. ships Gibraltar and Crescent". His sheet: Crescent 8 Aug to 15 Sep 1911, then
+  Powerful from 16 Sep. A lead to the route (and the answer to finding 7 of the research's grading above); to check.
+- TB 31: a letter from "H.M. Torpedo Boat 31", 26 October 1914, signed by an officer, thanking the Mayoress of Exeter
+  for warm clothing: "what winter in the North Sea means to those serving in torpedo craft" (Western Times, 29 Oct
+  1914). His entry (Tyne, T.B.31) runs from 27 Oct 1913 to the rating change of 1 July 1916.
+- Powerful: Melbourne in Cup Week, November 1911; Auckland 20 Nov; Wellington; Lyttelton 5 Dec, the Admiral's visit to
+  the Terra Nova (Lyttelton Times, 6 Dec 1911); "The crew of the 'Powerful' will be transferred to the Drake" (Times
+  of Ceylon, 27 Nov 1911).
+- Pioneer: the Himitangi search from Lyttelton, 5 to 8 March 1912; Timaru, Bluff, the Sounds.
+- Drake: left Sydney 1 January 1913 to "Home, sweet home" (Naval & Military Record, 19 Feb 1913); Colombo 30 Jan;
+  Plymouth 21 Feb 1913 (Western Evening Herald); his entry ends 25 Feb.
+- (Added 14 October 2026, from the "empty" Lloyd's Weekly clip, now transcribed and checked.) Lloyd's Weekly
+  Newspaper, 10 December 1911: "The cruiser Powerful, which is returning to Devonport to take the place of the old
+  training ship Impregnable". The ship Albert was then in was to replace his first ship. For Chapter Twenty-One;
+  a juxtaposition that may point: Rik to rule.
+
+### RIK'S CONSOLIDATED NOTE, 14 October 2026 (now notes/albert_naval_research.md, revised the same evening with these corrections applied)
+GRADE: a research summary (LEAD), like the first. Its findings for this chapter agree with the checked press above,
+EXCEPT where the transcriptions it was written from were wrong. Corrections against the image-checked texts:
+1. Its section 13 (two "empty" files; the Jupiter coal phrase "[illegible]") is superseded: both files are full and
+   read; the coal phrase reads "previously mentioned" (Evening Irish Times, 30 Jan 1906).
+2. Jupiter mines (section 7): rest on the corrected Evening Irish Times text (500lb counter-mines, two lines of nine;
+   "now are to hand"), not the supplied one.
+3. Shannon (section 8): "gunlayer's tests", not "gunnery tests"; the summer programme is a plan printed in advance,
+   not an event (see above); the Sheerness Guardian has her commissioned on the Wednesday [11 March], the Western Mail
+   on the Tuesday [10th]: the 10th agrees with the sheet but the papers differ.
+4. Prince George (section 6): every paper has the PORT side; the note does not say which (good). Burt's starboard is
+   the outlier.
+5. Section 14, item 8: "C night patrol with TB32 and TB35" should read TB32 and TB31 (TB35's log is the source; its
+   own table, section 4, has it right).
+NEW AND UNSOURCED IN THE REPO (Chapter Twenty-One): the TB35 and TB36 log entries (section 4) are volunteer
+transcriptions of ADM 53 logs (Old Weather / naval-history.net): a transcription of a primary, not seen here. Before
+use: save each page's URL and text to the repo, and grade it. The pre-war "8th Destroyer Flotilla at Chatham" needs its
+source named. ADM 53/24983 (Prince George, 8 Oct 1903 to 14 Jul 1904): Discovery reference as given, not checked here.
+CAUTION FOR CHAPTER TWENTY-ONE (DECIDE 8's condition): Powerful's October 1911 night attacks. His sheet has him on
+Powerful's books from 16 September 1911, but the Lyttelton Times of 23 September 1911 has drillships "bringing out men
+from training at Colombo from H.M. ships Gibraltar and Crescent", and the Naval & Military Record (22 Nov 1911, from
+8 Oct) says Psyche and Pioneer "will not arrive as early as was expected". If he came out in one of them he may have
+been borne on Powerful's books while still on passage, and not aboard her for the night attacks. Borne is not always
+aboard. To settle before any Powerful event is given as his.
+- ALEXANDER (Rik's three links, 14 October 2026; for Chapter Twenty-One). His entry: 27 Feb 1918, rated P.O. (ns)
+  1 Sep 1918, a further line with no dates, then Pembroke I from 17 Jan 1919. All three are SECONDARY and largely ONE
+  WITNESS: Wikipedia cites historicalrfa.org for most of its sentences.
+  (1) historicalrfa.org, "Requisitioned Auxiliary - Alexander" (no sources cited): laid down June 1916, Armstrong
+      Whitworth, Walker-on-Tyne, yard no. 905; launched 23 December 1916 as ST ALEXANDRE NEVSKY; "seized before
+      completion" June 1917; commissioned as HMS ALEXANDER September 1917; 10 July 1918 "came face to face with the
+      heavily-armed SVIATOGOR on the North Dvina River at Archangel, but conflict was avoided"; returned to the Russian
+      Government 1921; renamed LENIN 1923.
+  (2) Lloyd's Register Foundation heritage blog: built "under LR's special survey" at High Walker, launched 23 December
+      1916; supervised by Yevgeny Zamyatin; NAMES PRIMARY DOCUMENTS in the LR archive: the First Entry report (surveyor
+      T. S. Shute; master M. Nicolaieff), the machinery report (T. Field), the shipyard's plans for no. 905 dated 3 May
+      1916. Says "handed over to Russia in 1919" and renamed Lenin by 1921.
+  (3) Wikipedia, "Lenin (1916 icebreaker)": completed June 1917; requisitioned and commissioned September 1917
+      (historicalrfa); "handed over to White Russian forces when the British withdrew in October 1919" (attributed to
+      historicalrfa, which says 1921: the two disagree). Tyne Built Ships for the laying down.
+  WHAT THIS SETTLES: the earlier research's "Sviatogor/Alexander Nevsky" is two ships, as suspected: Alexander was
+  the St Alexandre Nevsky; Sviatogor was another icebreaker (later Krasin), and the two met at Archangel. NOT
+  "captured after revolution": seized before completion at the builders (June 1917), a Russian order on the Tyne.
+  FOR PROSE (DECIDE 8): 10 July 1918 falls inside his entry with no break; usable only from a contemporary or official
+  source (the North Russia despatches; ADM 53; the press). The handover date (1919 or 1921) is after he left her and
+  need not be settled for the book. The LR documents are primary for the ship's building, not for 1918.

@@ -15,6 +15,10 @@ Each source is listed with:
 
 ---
 
+## ADDED 14 OCTOBER 2026: ALBERT'S NAVY (PART FIVE)
+- **Research note** — `notes/albert_naval_research.md`. Ship by ship against the service sheet: what each posting's sources hold, the Kew list, cautions ("borne is not always aboard"; the sheet's breaks). A lead, not a source; the Chapter Twenty skeleton governs where they differ.
+- **Naval press transcriptions** — `transcribed/prince_george_ferrol_transcriptions.txt`, `jupiter_transcriptions.txt`, `shannon_transcriptions.txt`, `powerful_transcriptions.txt`, `pioneer_transcriptions.txt`, `drake_transcriptions.txt`, `tb31_transcriptions.txt`; index `transcribed/albert-naval-transcription-index.txt`. Images in `sources/images/Media-coverage/` (subfolders of the same names). Image checks in each file's header: Prince George and Shannon in full; Jupiter nearly in full; the rest for Chapter Twenty-One, mostly unchecked.
+
 ## ADDED 11 OCTOBER 2026: TRANSCRIPTIONS OF 7 TO 10 OCTOBER NOT PREVIOUSLY INDEXED
 All in `transcribed/`; every one records its own image check in its header.
 
