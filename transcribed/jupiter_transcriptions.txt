@@ -1,3 +1,14 @@
+IMAGE CHECK (check-once rule), 14 October 2026 (Claude): CHECKED WORD BY WORD IN FULL: Morning Advertiser 16 Aug 1905;
+North Star 16 Aug 1905; Chatham, Rochester and Brompton 26 Aug 1905; Lloyd's List 26 Aug 1905; Western Morning News
+2 Sep 1905; Naval & Military Record 14 Sep 1905; Portsmouth Times 25 Nov and 23 Dec 1905; Evening Irish Times
+30 Jan 1906; Stamford Mercury 2 Feb 1906; Birmingham Daily Post 5 June 1906. PARTLY CHECKED: Naval & Military Record
+31 Aug 1905 (the closing lists only: "Sheldrake", "Rother" corrected; the rest NOT checked); Evening Irish Times
+4 Apr 1906 (the reserve and coaling paragraphs' last lines and the Morning Post paragraph, which is RE-TRANSCRIBED;
+its first half NOT checked). The supplied Evening Irish Times 4 Apr transcription was SERIOUSLY WRONG in the Jupiter
+paragraph (see the note under it) and in the coaling paragraph ("took place at Devonport one day last week"; "coal
+'bagging' lighter"; "45 years"): nothing else in that clip to be quoted without checking. Transcribed by Rik (outside
+the session) and supplied 14 October 2026.
+
 HMS JUPITER — NEWSPAPER TRANSCRIPTIONS
 Repository source folder: sources/images/Media-coverage/jupiter
 
@@ -43,22 +54,22 @@ Brigadier-General O. D. Fanshawe has returned from leave of absence, and resumed
 
 Major H. O’Donnell, 2nd Battalion West Yorkshire Regiment, will give a second lecture on Garrison Institutes, Belfast, to-morrow, at 6.30 p.m., on the subject of “The Study of Military History,” illustrated by examples from the late Russo-Japanese War. All officers of the Belfast Garrison who are not on duty have been ordered to attend.
 
-From April 1 alterations take effect in the conditions of service in the Royal Fleet Reserve, Class B. The modifications affect the following classes:—(1) All continuous service men and Marines who may enrol in Class B of the Reserve after that date; (2) special service seamen and stokers who enter the Royal Navy after that date. No man will be allowed to re-enrol for further service in the Reserve after completing 20 years’ combined service in the Fleet and Reserve. Men in Class B will receive a gratuity of £50 in full discharge of all claims on discharge from the Reserve on completing 20 years’ combined service in Fleet and Reserve; but no man will receive the gratuity on being released from liability for active service until he reaches the age of 40 years. Men may, however, be retained up to a maximum age of 42 years in order to complete 20 years’ qualifying service towards gratuity, but discharge will be compulsory at that age whether they have completed the necessary qualifying service for a gratuity or not. Subject to the discretion of the Admiralty men serving and eligible for pension under existing conditions will have the option either of receiving a pension at the age of 55 years or, as an alternative, of receiving on the foregoing conditions a gratuity of £50 in lieu of pension with release from all liability for active service. No man, however, will receive this gratuity, or be released from liability for active service until he reaches the age of 40.
+From April 1 alterations take effect in the conditions of service in the Royal Fleet Reserve, Class B. The modifications affect the following classes:—(1) All continuous service men and Marines who may enrol in Class B of the Reserve after that date; (2) special service seamen and stokers who enter the Royal Navy after that date. No man will be allowed to re-enrol for further service in the Reserve after completing 20 years’ combined service in the Fleet and Reserve. Men in Class B will receive a gratuity of £50 in full discharge of all claims on discharge from the Reserve on completing 20 years’ combined service in Fleet and Reserve; but no man will receive the gratuity on being released from liability for active service until he reaches the age of 40 years. Men may, however, be retained up to a maximum age of 45 years in order to complete 20 years’ qualifying service towards gratuity, but discharge will be compulsory at that age whether they have completed the necessary qualifying service for a gratuity or not. Subject to the discretion of the Admiralty men serving and eligible for pension under existing conditions will have the option either of receiving a pension at the age of 55 years or, as an alternative, of receiving on the foregoing conditions a gratuity of £50 in lieu of pension with release from all liability for active service. No man, however, will receive this gratuity, or be released from liability for active service until he reaches the age of 40.
 
-The first of a series of experiments with a new type of coaling craft—a hopper—is at present one day this week. The vessel, which is specially described as a “monster” lighter, is owned by the Thames Ironworks Company, and the tests are being made before it is accepted by the Admiralty. It is claimed that in smooth water warships can be coaled from one of these crafts at the rate of 254 tons per hour, which is a considerably higher rate than by other systems. The trials are being conducted under the personal superintendence of Mr. Cameron, the inventor, and are being watched by representatives of the Admiralty. The vessel experimented with on Thursday was the cruiser Europe, and with the machinery working at less than half speed the quantity of coal dealt with was over 100 tons per hour.
+The first of a series of experiments with a new type of coaling craft—a hopper—took place at Devonport one day last week. The vessel, which is officially described as a coal “bagging” lighter, is owned by the Thames Ironworks Company, and the tests are being made before it is accepted by the Admiralty. It is claimed that in smooth water warships can be coaled from one of these crafts at the rate of 254 tons per hour, which is a considerably higher rate than by other systems. The trials are being conducted under the personal superintendence of Mr. Cameron, the inventor, and are being watched by representatives of the Admiralty. The vessel experimented with on Thursday was the cruiser Europe, and with the machinery working at less than half speed the quantity of coal dealt with was over 100 tons per hour.
 
-The Morning Post says that particulars of some important mining operations carried out by the vessels of the Channel Fleet at Berehaven last week must not be used. Four tons of gun-cotton were exploded, and the experiments, it is understood, again have demonstrated conclusively the great value of the mine as a weapon of warfare. The operations extended over several days, the crews of the various ships being exercised first in the laying of E M mine-fields, and particularly in the location and recovery of mines, the position of which was unknown. After these operations had been carried out the mines were taken on board the Ocean and Triumph to be prepared for firing. An E M mine-field was laid by the Jupiter, and on the following morning eighteen 80lb counter-mines were laid. These were in two lines, one being in such line. When all was ready the counter-mines were fired, and the concussion [lower portion of clipping becomes difficult to read].
+The Morning Post says that particulars of some important mining operations carried out by the vessels of the Channel Fleet at Berehaven last week now are to hand. Four tons of gun-cotton were exploded, and the experiments, it is understood, again have demonstrated conclusively the great value of the mine as a weapon of warfare. The operations extended over several days, the crews of the various ships being exercised first in the laying of E M mine-fields, and particularly in the location and recovery of mines, the position of which was unknown. After these operations had been carried out the mines were taken on board the Ocean and Triumph to be prepared for firing. An E M mine-field was laid by the Jupiter, and on the following morning eighteen 500lb counter-mines were laid. These were in two lines, nine mines in each line. When all was ready the counter-mines were fired, and the concussion discharged the mine-field that it was desired to clear. There was a tremendous explosion, and an enormous body of water shot high into the air. When the waters were again settled for a great distance round the scene of the explosion the surface was strewn with fish killed or stunned by the concussion. The period from the time of slipping the battery boat until the firing of the mines was some seconds short of five minutes, which is considered by the authorities as a very creditable performance,especially in view of the fact that in case of warfare the work would probably have to be effected under fire. The results of the experiments are said to be eminently satisfactory, and from this it may [clip ends]
 
-[The remainder of the clipping is too degraded for a reliable verbatim transcription. No further clearly legible reference to Jupiter is visible.]
+[14 Oct 2026, Claude: this paragraph RE-TRANSCRIBED from the image. The version supplied read "must not be used" for "now are to hand", "80lb" for "500lb", "one being in such line" for "nine mines in each line", and called the rest illegible; it is legible to the clip's foot. Ships' names are in italic in the original.]
 
 ============================================================
 SOURCE: Evening_Irish_Times_30_January_1906_0006_Clip.jpg
 PUBLICATION: Evening Irish Times
 DATE: 30 January 1906
-STATUS: PARTIAL — ONE WORD/PHRASE ILLEGIBLE
+STATUS: COMPLETE (corrected 14 Oct 2026)
 ============================================================
 
-The Jupiter, battleship, Captain H. A. Warren, which left Berehaven for Spithead on Saturday, and arrived on Sunday, has been carrying out further trials of the [illegible] North Country bituminous coal, for which purpose some of her furnaces were specially altered before leaving Portsmouth.
+The Jupiter, battleship, Cagtain [sic] H. A. Warren, which left Berehaven for Spithead on Saturday, and arrived on Sunday, has been carrying out further trials of the previously mentioned North Country bituminous coal, for which purpose some of her furnaces were specially altered before leaving Portsmouth.
 
 ============================================================
 SOURCE: Lloyds_List_26_August_1905_0010_Clip.jpg
@@ -67,7 +78,7 @@ DATE: 26 August 1905
 STATUS: COMPLETE
 ============================================================
 
-CAROLINE.—Dover, Aug. 26, 9 58 a.m.—The cargo of deals and battens of the brigantine Caroline, of Marstal, previously reported as putting in here after being run into by H.M.S. Jupiter, has been reshipped in the three-masted schooner Forældres Minde, which vessel sailed this morning for Binic.
+CAROLINE.—Dover, Aug. 26, 9 58 a.m.—The cargo of deals and battens of the brigantine Caroline, of Marstal, previously reported as putting in here after being run into by H.M.S. Jupiter, has been reshipped in the three-masted schooner Foraeldres Minde, which vessel sailed this morning for Binic.
 
 ============================================================
 SOURCE: Morning_Advertiser_16_August_1905_0007_Clip.jpg
@@ -76,7 +87,7 @@ DATE: 16 August 1905
 STATUS: COMPLETE
 ============================================================
 
-After having had an expensive refit the battleship Jupiter was recommissioned at Chatham yesterday by Captain H. A. Warren, late of the Hannibal, for service in the Channel Fleet, in which she is to replace the battleship Revenge. The Jupiter is to be transferred to the Portsmouth command for manning and refitting purposes.
+After having had an expensive refit the battleship Jupiter was recommissioned at Chatham yesterday by Captain H. A. Warreu [sic], late of the Hannibal, for service in the Channel Fleet, in which she is to replace the battleship Revenge. The Jupiter is to be transferred to the Portsmouth command for manning and refitting purposes.
 
 ============================================================
 SOURCE: Naval__Military_Record_and_Roy_14_September_1905_0013_Clip.jpg
@@ -116,13 +127,13 @@ It is expected that the cruiser Black Prince, which is being built by the Thames
 
 Commissioned ships in port:—Pembroke, Acheron, Slaney, Trent; Albion, Illustrious, battleships; Dryad and Hearty.
 
-Ships in commission with nucleus crews:—Royal Oak, battleship; Aboukir, first class cruiser; Ocean and Jupiter, battleships; Devonshire, first class cruiser; Amphitrite, first class cruiser; Pioneer, third class cruiser; Wear, Sturgeon, Spitfire, Welland, Hunter, Haughty, Sunfish, Charger, Salmon, Hasty, Cheerful, Hardy, Ranger, Dasher, Gala, Starfish, Ure, Rocher, Snapper, torpedo-boat destroyers; torpedo-boats 65, 66, 67, 71, 76, and 77.
+Ships in commission with nucleus crews:—Royal Oak, battleship; Aboukir, first class cruiser; Ocean and Jupiter, battleships; Devonshire, first class cruiser; Amphitrite, first class cruiser; Pioneer, third class cruiser; Wear, Sturgeon, Spitfire, Welland, Hunter, Haughty, Sunfish, Charger, Salmon, Hasty, Cheerful, Hardy, Ranger, Dasher, Gala, Starfish, Ure, Rother, Snapper, torpedo-boat destroyers; torpedo-boats 65, 66, 67, 71, 76, and 77.
 
 Special Reserve:—Camperdown and Rodney.
 
 Dockyard Reserve:—Edinburgh, Tenedos, Skate, Pylades, and Seamew.
 
-Other vessels:—Shieldrake, Champion, and Onyx.
+Other vessels:—Sheldrake, Champion, and Onyx.
 
 Building:—Shannon, first class cruiser.
 

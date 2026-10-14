@@ -1,3 +1,17 @@
+IMAGE CHECK (check-once rule), 14 October 2026 (Claude): ALL ELEVEN CLIPS CHECKED WORD BY WORD IN FULL against
+sources/images/Media-coverage/prince-george-ferrol/, each clip cut into slices and enlarged. Twelve corrections made in
+the text below: Morning Leader (Hannibal "1895" as printed; "206 [or 208]"; "armored" twice; "Messers."; "twin-screw");
+Western Evening Herald ("towed here", not "there"; "Ferrol:" before the official message); Western Times 27 Oct
+("There however,"; "court- marial [sic]"; "Lam[b]ton", blotted); Liverpool Evening Express (no comma after
+"impracticable"). London Evening Standard: "the damage" in the Admiral's telegram is faded but certain. Italic ship
+names (Pall Mall Gazette) not marked. Transcribed by Rik (outside the session; method not recorded) and supplied
+14 October 2026.
+SHARED COPY: one Reuter text from Ferrol, 19 Oct ("suffered great damage ... some dock abroad"), runs in the London
+Evening Standard, Pall Mall Gazette, Western Evening Herald and Western Times (20 Oct): ONE witness. One Madrid
+correspondent's text (Howe; "An immense multitude") in the Morning Leader and Western Evening Herald: ONE witness. One
+Central News Corunna telegram in the Liverpool Evening Express and London Evening Standard: ONE witness. The Admiral's
+telegram of 18 Oct (Standard; Herald): the same official text in two settings.
+
 HMS PRINCE GEORGE — FERROL COLLISION NEWSPAPER TRANSCRIPTIONS
 Repository source folder: sources/images/Media-coverage/prince-george-ferrol
 
@@ -62,7 +76,7 @@ The collision between the Prince George and the Hannibal occurred on the night o
 
 9 30 p.m.
 
-At the last moment the Vice-Admiral commanding the Channel Fleet at Ferrol has resolved to attempt to have the repairs required in the battleship Prince George effected while she is afloat, instead of beaching her. If this should prove to be impracticable, the vessel will be beached as a last resource. It is confirmed that the torpedo and propeller sections of the ship are filled with water to such an extent that the prow of the vessel is submerged seven feet below the water line.
+At the last moment the Vice-Admiral commanding the Channel Fleet at Ferrol has resolved to attempt to have the repairs required in the battleship Prince George effected while she is afloat, instead of beaching her. If this should prove to be impracticable the vessel will be beached as a last resource. It is confirmed that the torpedo and propeller sections of the ship are filled with water to such an extent that the prow of the vessel is submerged seven feet below the water line.
 
 ============================================================
 SOURCE: London_Evening_Standard_20_October_1903_0005_Clip.jpg
@@ -145,17 +159,17 @@ Lloyd’s agent at Ferrol telegraphed last evening as follows:—
 
 THE TWO BATTLESHIPS.
 
-The first-class battleship Hannibal was built at Pembroke, and was launched on 28 April, 1896. She is of 14,900 tons displacement, and is of 10,000 indicated horse power on natural draught, with a speed of 16.5 knots. Her engines were built by Messrs. Harland and Wolff.
+The first-class battleship Hannibal was built at Pembroke, and was launched on 28 April, 1895 [sic]. She is of 14,900 tons displacement, and is of 10,000 indicated horse power on natural draught, with a speed of 16.5 knots. Her engines were built by Messrs. Harland and Wolff.
 
-She is 413 ft. length over all, with a beam of 75ft., and a mean draught of 27ft. 6in. She is provided with a belt of Harveyed steel for a length of 220ft., and 16ft. in breadth, its thickness being nine inches. The vessels of this class contain 150 compartments and 208 watertight doors.
+She is 413 ft. length over all, with a beam of 75ft., and a mean draught of 27ft. 6in. She is provided with a belt of Harveyed steel for a length of 220ft., and 16ft. in breadth, its thickness being nine inches. The vessels of this class contain 150 compartments and 206 [or 208] watertight doors.
 
 The armament consists of four 12in. 46-ton (wire-wound breechloading guns); 12 six-inch quick-firing guns in casemates; 16 12-pounder quick-firers and two 12-pounder boat guns, besides Maxims and other small guns. The ship’s crew consists of some 750 officers and men, all told.
 
-The first-class battleship Prince George was laid down at Portsmouth in 1894, and was launched in August, 1895. She is of the same class, generally speaking, as the Hannibal, having a displacement of 14,900 tons, and being similarly armoured and equipped in the matter of guns.
+The first-class battleship Prince George was laid down at Portsmouth in 1894, and was launched in August, 1895. She is of the same class, generally speaking, as the Hannibal, having a displacement of 14,900 tons, and being similarly armored and equipped in the matter of guns.
 
-Her engines were built by Messrs. Humphrys and Tennant. At her trial, drawing a mean 25½ft., she steamed with natural draught 16.52 knots per hour, the indicated horse power of her engines being 10,464. Drawing 25ft., she did, with forced draught, 18.3 knots, with an indicated horse power of 12,253.
+Her engines were built by Messers. Humphrys and Tennant. At her trial, drawing a mean 25½ft., she steamed with natural draught 16.52 knots per hour, the indicated horse power of her engines being 10,464. Drawing 25ft., she did, with forced draught, 18.3 knots, with an indicated horse power of 12,253.
 
-Like the Hannibal, the Prince George is twin screw, with hooded barbettes heavily armoured, and she is fitted with two funnels abreast, and two military masts, each with two fighting tops.
+Like the Hannibal, the Prince George is twin-screw, with hooded barbettes heavily armored, and she is fitted with two funnels abreast, and two military masts, each with two fighting tops.
 
 ============================================================
 SOURCE: Pall_Mall_Gazette_19_October_1903_0007_Clip.jpg
@@ -249,7 +263,7 @@ A Large Hole
 
 beneath her water-line, and that nine feet of water are reported on board.
 
-She is being towed there, being unable to use her own steam or engines.
+She is being towed here, being unable to use her own steam or engines.
 
 The cruiser Prometheus arrived first for the purpose of ascertaining the buoys which mark the entrance to the port.
 
@@ -267,7 +281,7 @@ The British squadron, consisting of eight battleships and three cruisers, will r
 
 Official Message.
 
-The following message has been received at the Admiralty, under date October 18, from the Vice-Admiral commanding the Channel Fleet at Ferrol:—
+The following message has been received at the Admiralty, under date October 18, from the Vice-Admiral commanding the Channel Fleet at Ferrol:
 
 “I have put into Ferrol with the Channel Fleet on account of the Hannibal having collided with the Prince George during turning movements on the night of October 17, considering it desirable to proceed to Ferrol to ascertain the full extent of the damage, as aft submerged torpedo flat of the Prince George is filled with water.
 
@@ -309,6 +323,6 @@ His Majesty’s battleship Prince George, which was recently in collision with t
 
 The Prince George was third of the line, and her opposite number in the division was the Hannibal, which crashed into the battleship’s side. Remarkable coolness was exhibited by those on board; collision quarters were sounded, the crew rushed below to close the remaining water tight compartments, and the Hannibal, whose engines were reversed at the moment of the collision, stood by with the Hogue, ready to render assistance. The manoeuvres were at once stopped, and orders issued for the ship to light up. Within ten minutes Lord Charles Beresford was on board and ordered the ship to proceed to Ferrol.
 
-Meanwhile Commander Nicholson, the ship’s carpenter, and other officers rushed below, and assisted in getting out the collision mats. It was found that the ship’s side was ripped from the upper deck to the keel, the worst part being below the water line. “It was the narrowest escape that could have been possible, though we didn’t realise it at the time,” said one. It was a beautifully fine night, and the 80 mile trip to Ferrol was safely accomplished. There, however, it was found that the ship was making water so rapidly that her pumps and the Hogue’s were insufficient to reduce it, and orders were given for her to be beached. The beach was eminently unsuited for this risky operation, but it was successfully accomplished, and then the whole Fleet’s carpenters worked for nearly a week constructing a copper dam on the inside of the ship. On Friday she was towed off by other ships of the Fleet, and found water-tight.
+Meanwhile Commander Nicholson, the ship’s carpenter, and other officers rushed below, and assisted in getting out the collision mats. It was found that the ship’s side was ripped from the upper deck to the keel, the worst part being below the water line. “It was the narrowest escape that could have been possible, though we didn’t realise it at the time,” said one. It was a beautifully fine night, and the 80 mile trip to Ferrol was safely accomplished. There however, it was found that the ship was making water so rapidly that her pumps and the Hogue’s were insufficient to reduce it, and orders were given for her to be beached. The beach was eminently unsuited for this risky operation, but it was successfully accomplished, and then the whole Fleet’s carpenters worked for nearly a week constructing a copper dam on the inside of the ship. On Friday she was towed off by other ships of the Fleet, and found water-tight.
 
-A Court of Inquiry decided that Captain Campbell, of the Prince George, should be immediately tried by court-martial. After sitting for two days, under the presidency of Rear-Admiral Hon. Hedworth Lambton, the Court acquitted him. It is probable that another court-martial will be held in a few days for the trial of the captain of the Hannibal.
+A Court of Inquiry decided that Captain Campbell, of the Prince George, should be immediately tried by court-martial. After sitting for two days, under the presidency of Rear-Admiral Hon. Hedworth Lam[b]ton, the Court acquitted him. It is probable that another court- marial [sic] will be held in a few days for the trial of the captain of the Hannibal.
