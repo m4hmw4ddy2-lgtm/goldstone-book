@@ -809,3 +809,4 @@ Provisional: to be reviewed once the movements are drafted.
   manoeuvring without lights", Morning Leader / Western Evening Herald, 19 Oct 1903). Rik: "No One Hurt" is odd for
   the years in which Elizabeth dies. The chapter is now DRAFTED IN FULL, all decisions ruled; awaiting Rik's approval.
 - 15 October 2026: CHAPTER TWENTY APPROVED (Rik: "gimme the final"). Sent for upload with the changed notes. The Lloyd's List manoeuvres clips: Rik's own uploads (0010, part one; 0011, the page, higher resolution) replace the session's copies; references renamed.
+- 15 October 2026 (Rik, after approval): "Her new captain, H. A. Warren, came from the Hannibal, the battleship that had rammed the Prince George two years before." NOTE: at the collision the Hannibal's captain was George A. Giffard (Pall Mall Gazette, 19 Oct 1903); Warren is "late of the Hannibal" (Morning Advertiser, 16 Aug 1905), i.e. after Giffard. The sentence does not claim Warren was in command that night.
