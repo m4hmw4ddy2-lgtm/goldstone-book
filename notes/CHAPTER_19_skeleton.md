@@ -579,3 +579,8 @@ Warspite (Caird Library). Each movement shown before the next.
   birth year he gave). That a boy's twelve-year engagement ran from his eighteenth birthday is GENERAL KNOWLEDGE, NOT YET
   SOURCED: not in Chapter 19; to be sourced before Part Five uses it. No years added to the 11 and 23 November dates
   (Rik: "No need to add years"; 1901 is set by the 4 September paragraph).
+
+- 15 October 2026 (Rik): two period leads for the Warspite gap, from Juzda Smith (2021), nn. 121-122: "The Training
+  Ship Warspite", Navy League Journal 9 (1904), p. 221; and the Departmental Committee on the Supply and Training of
+  British Boy Seamen for the Mercantile Marine, Minutes of Evidence (HMSO, 1908), p. 401. Recorded in live_lists 4,
+  item 45. The Caird Library reply is still awaited.

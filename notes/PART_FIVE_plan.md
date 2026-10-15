@@ -117,7 +117,7 @@ saved: marked GK.)
    Majestic stops on 20 December 1904 and resumes on 4 January 1905, fourteen days, and the conduct class drops on
    21 December; the conduct class drops on 2 March 1906 and the Jupiter entry is closed on 1 March and reopened on the
    12th, ten days ("1 Mch 06": corrected 13 October 2026 from "11 March", image re-read on RMG's reading); Jupiter stops on 4 August 1907 and resumes on the 8th, three days. The sheet never dates or explains
-   a punishment. Prose may say what the sheet says (three spells, fourteen, ten and three days, beside those ships; the
+   a punishment. [14 October 2026: a rival reading for the Majestic break: the Channel Fleet came home for Christmas leave on 15 December 1904 (the Echo, 15 Dec 1904). CHAPTER_20_skeleton.md.] Prose may say what the sheet says (three spells, fourteen, ten and three days, beside those ships; the
    class for conduct lowered twice and restored), not when or why.
 
 3. **The 1910 marriage gives his true age.** "22" on 5 March 1910 fits his birth in June 1887; by the naval 1886 he
@@ -506,3 +506,16 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
   Twenty-Two is drafted). It also gives the day of death and so settles the index's age 76 (proposed Contradiction 123).
 - ALL PLAN DECIDE POINTS RULED, 13 October 2026. Then the Chapter Twenty skeleton is redone where these rulings differ (DECIDE 6
   changes movement two and THE ELIZABETH THREAD HERE) and Rik rules A to H.
+- **DECIDE 3: REVISED (Rik, 14 October 2026).** Part Five no longer opens on the occupation line. It opens on Albert
+  himself ("Albert Goldstone was fourteen."), with "Labourer" struck through and "Farm Labourer" folded into the
+  first movement as a detail (Rik: "We use the record, but we are no longer defined by it"). The Caird Library
+  route (d) is unaffected: if the Warspite record shows the route to Impregnable, it is placed then.
+- **DECIDE 6 (d): THE CALLBACK FOUND (Rik, 14 October 2026).** Not a line about Elizabeth: a paragraph on Jupiter at sea in the Channel Fleet manoeuvres, 27 June to 2 July 1906 (Lloyd's List, 5 and 6 July 1906), in its date order in Chapter Twenty, movement two. Nothing said of her; the reader holds 29 June from Chapter Nineteen.
+- **DECIDE 4: REVISED (Rik, 15 October 2026).** Part Five's first sentence states the false year's effect once, in our
+  voice: "In 1901 Albert Goldstone was fourteen, though the Royal Navy had him down as a year older". Nothing more on
+  it in Chapter Twenty (the engagement sentence is plain: "That day came on the nineteenth of June 1904"); the
+  Germany birthplace still not given again; later documents carrying either still named, the matching detail left
+  to the reader.
+- **DECIDE 13, Chapter Twenty: TITLE SETTLED (Rik, 15 October 2026): "Without Lights".** "Farm Labourer" retired with
+  the trade line, which Rik cut from the chapter as a non sequitur (so DECIDE 3's revision, above, which kept the
+  line "folded into the first movement", is itself superseded: the occupation line is not in the chapter).

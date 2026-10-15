@@ -331,7 +331,8 @@ That is an interpretive outline, not prose. Each scene is still built only from 
 3. **Tyne**, matching TB31 dates, especially mobilisation and the August 1914 grounding.
 4. **Courageous**, 16 to 18 November 1917.
 5. **Alexander**, April to July 1918, including 10 July 1918.
-6. **Powerful**, September to October 1911, or the drillships' logs (Psyche, Pioneer, Cambrian, Pyramus), to show when the Crescent men reached her.
+6. **Jupiter**, late June to early July 1906: her position on 29 June 1906 (the press has her past the Needles eastward on 5 July and westward on 7 September; nothing nearer).
+7. **Powerful**, September to October 1911, or the drillships' logs (Psyche, Pioneer, Cambrian, Pyramus), to show when the Crescent men reached her.
 
 The purpose of a Kew visit is precision and texture, not proving that these episodes happened.
 

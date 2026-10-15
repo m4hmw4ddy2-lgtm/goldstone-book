@@ -594,3 +594,218 @@ aboard. To settle before any Powerful event is given as his.
   FOR PROSE (DECIDE 8): 10 July 1918 falls inside his entry with no break; usable only from a contemporary or official
   source (the North Russia despatches; ADM 53; the press). The handover date (1919 or 1921) is after he left her and
   need not be settled for the book. The LR documents are primary for the ship's building, not for 1918.
+
+
+## SELECTION UNDER I: RULED (Rik, 14 October 2026: "I accept your recommendations for now, let's see how it turns out")
+Provisional: to be reviewed once the movements are drafted.
+- IN: Prince George, the collision of the night of 17 October 1903, led by the Admiral's telegram of 18 October
+  (official text, two settings); Ferrol; Portsmouth on 26 October. Jupiter: manned at Chatham on 15 August 1905, the day
+  his entry opens; the aim-corrector trials at Spithead, 21 November to 19 December 1905. Shannon: commissioned 10
+  March 1908 (Western Mail), the day his entry opens; flagship, Fifth Cruiser Squadron.
+- A CLAUSE EACH: Lion and Agincourt (training ships for boys, Devonport; depot for boys, Portland: Navy List, July
+  1903); Majestic (joined as her refit ended: Burt).
+- NAMES ONLY: Firequeen I and Victory, at Portsmouth.
+- OUT: Corke's death; the Berehaven mines; the ammunition trial; the Caroline; the King's message (unless Rik asks;
+  its day to confirm); any Elizabeth callback through a ship event.
+
+## DRAFTING LOG
+- 14 October 2026: IMAGE CHECKS for movement one done and recorded: the service sheet (fourth check, in its
+  transcription's header: occupation line; sequences 1 to 4; the first "V.G."); the Navy List of July 1903, Lion and
+  Agincourt (Rik's screenshots, now sources/images/navy-lists/; transcribed/Navy_List_July_1903_Lion_Agincourt_
+  transcription.md, checked word by word). NEW from the images: the Lion establishment's tender was the "Liberty";
+  Agincourt's people were "(Borne in 'Boscawen.')".
+- 14 October 2026: MOVEMENT ONE DRAFTED (about 190 words; chapters/CHAPTER_20.md, held locally). Shown to Rik.
+  Sources: ADM 188/383 (occupation; Impregnable, Lion, B 1 cl, V.G., Agincourt and dates); Navy List, July 1903
+  (Lion, Agincourt). No press line; no unattributed quotation. Not used: the physical description, the tattoos,
+  the clothing gratuities, "G1".
+- 14 October 2026 (Rik): Lloyd's List, 6 July 1906: "NEEDLES passed HMS Good Hope [July 5] / HMS Jupiter, bound
+  east". Jupiter passed the Needles eastward on Thursday 5 July 1906 (screenshot saved, sources/images/Media-coverage/
+  jupiter/Lloyds_List_06_July_1906_Needles_Clip.png; transcribed in jupiter_transcriptions.txt, checked). The nearest
+  dated position yet to 29 June 1906, six days after it. It does not say where she was on the 29th. Still wanted
+  for the callback (plan DECIDE 6 (d)): her position on or about 29 June (Lloyd's List and the naval columns for
+  25 June to 4 July 1906; Jupiter's ADM 53 log for 1906).
+- 14 October 2026 (Rik): Lloyd's List, 8 September 1906: "NEEDLES—I. W passed west / HMS Jupiter [Sept 7]".
+  Jupiter passed the Needles westward on Friday 7 September 1906 (saved and transcribed as above). Context for her
+  1906 movements; not near 29 June.
+- 14 October 2026 (Rik): the press searched for Jupiter's position around 29 June 1906: NOTHING FOUND beyond the
+  above (late May, Portland; 5 July and 7 September, the Needles). Her position on the day is not known from the
+  press. Remaining route: Jupiter's ADM 53 log for 1906 (Kew; added to the Kew list). Until then the callback cannot
+  rest on her position, and the Jupiter entry stands by its own dates (plan DECIDE 6 (d)).
+- 14 October 2026: MOVEMENT ONE, FIRST VERSION REJECTED (Rik): "has a line for" is the record-narrating tic ("the
+  register, the record"); as the opening of a Part it gives no reason to go on after the main characters are lost;
+  and the register was Victorian ("We are not Victorian anymore"). SECOND VERSION drafted: opens on the words
+  themselves, shorter sentences, forward motion. Three claims beyond the sheet to rule on: "fourteen" (true age,
+  from the birth certificate; DECIDE 4 bars only the false year); "For the next seventeen years the Navy would decide
+  where he went" (11 Nov 1901 to 26 Mar 1919; a framing sentence, general, not sourced); "his first battleship"
+  (Prince George: the press of October 1903 calls her a battleship, checked).
+- 14 October 2026: Rik on the second version: "We use the record, but we are no longer defined by it." THIRD
+  VERSION: the boy and his movement lead; the occupation line is folded in as a detail, not the frame (this departs
+  from plan DECIDE 3 (a), opening on the occupation line: Rik to rule); ends on a forward hook into movement two (the
+  collision: "manoeuvring without lights", Central News and the Madrid correspondent; "ran into", the Hannibal's
+  act, plain). Not used: "nearly sunk under him" (the research's gloss).
+- 14 October 2026: "and for nearly two of them it kept him among boys" CUT (Rik: "silly", he was the same age as every other boy there).
+- 14 October 2026: MOVEMENT ONE APPROVED (Rik), third version as cut. Rulings: the opening change (plan DECIDE 3,
+  revised: see PART_FIVE_plan.md, RULINGS); "For the next seventeen years the Navy would decide where he went"
+  stands ("not sourced but accurate enough"); the closing hook into the collision stands. A (the occupation line) is
+  superseded as an opening; the line stays, inside the movement.
+- 14 October 2026: IMAGE CHECK for movement two (service sheet; recorded in its transcription's header): engagement,
+  sequences 5 to 14, cells notes, characters 1904 to 1908, A.B. MOVEMENT TWO DRAFTED (about 470 words; held
+  locally). Sources: ADM 188/383; the Prince George press (Admiral's telegram, London Evening Standard 20 Oct 1903;
+  Morning Leader 19 Oct 1903; Western Times 27 Oct 1903; Pall Mall Gazette 19 Oct 1903 for the eight battleships and
+  three cruisers; Daily Express and Western Times 27 Oct 1903 for Portsmouth on the 26th); Jupiter press (Morning
+  Advertiser and North Star 16 Aug 1905; Portsmouth Times 25 Nov and 23 Dec 1905; Evening Irish Times 30 Jan 1906).
+  GENERAL KNOWLEDGE used: Berehaven is on the coast of County Cork. Albert's ages (sixteen) from the birth
+  certificate. No unattributed press line: the telegram, the Morning Leader and the Western Times are each named.
+- 14 October 2026 (Rik): The Echo (London), Thursday 15 December 1904, p. 3, "WARSHIP EXPLOSION": coming up the
+  Channel from Gibraltar with the Channel Fleet "to give her men Christmas leave and to re-fit", Majestic had an
+  explosion in the coal bunkers of the engine-room on the night of 14 December; on arrival at Portsmouth on the 15th
+  an artificer (Frederick George Day) and two ordinary seamen (George Scarborough, John Baker) were taken to Haslar.
+  Image saved (sources/images/Media-coverage/majestic/); transcribed and checked (transcribed/majestic_transcriptions
+  .txt). INSIDE his first Majestic entry: usable as his ship's event (DECIDE 8). Offered to Rik for movement two.
+  ALSO: the fleet's Christmas leave from 15 December is a competing reading of his break of 21 December 1904 to 3
+  January 1905, which plan finding 2 takes for the 14 days' cells (the conduct class's drop on 21 December still
+  fits punishment). Finding 2 stays an inference, not for prose, and now has a rival.
+- 14 October 2026 (Rik): Hampshire Telegraph, 2 July 1904, p. 7: "The battleship Majestic is to be commissioned at
+  Portsmouth on July 15th for service in the Channel Fleet, in place of the Prince George." His sheet: Prince George
+  to 14 July, Majestic from 15 July 1904. So, as with Jupiter and Shannon, he joined a ship on her commissioning day,
+  and Majestic took Prince George's place in the fleet. (That Prince George's men went across with him is an
+  inference: not for prose.) Saved and transcribed (majestic_transcriptions.txt, checked). REPLACES the unchecked Burt
+  ("joined as her refit ended").
+- 14 October 2026 (Rik): the injured men's names CUT ("more names to think about for the reader"); kept as "an artificer and two ordinary seamen". Names stay in the transcription only.
+- 14 October 2026 (Rik): Shipping Gazette and Lloyd's List, Thursday 5 July 1906: a full page from a correspondent
+  aboard HMS Russell, Channel Fleet, in the 1906 naval manoeuvres, Thursday 28 June to Wednesday 4 July. Saved;
+  key passages checked (jupiter_transcriptions.txt). On FRIDAY 29 JUNE the Channel Fleet's 13 battleships were at sea
+  chasing the Atlantic Fleet's battleships north-east from off Portugal. JUPITER IS NOT NAMED. If an order of battle
+  puts her among the 13, this is where the ship was on the day Elizabeth died: a candidate for the one-line callback
+  (DECIDE 6 (d)), claiming only the ship's place. Rik to rule on whether such a line would point. Until her
+  presence is sourced: not usable.
+- 14 October 2026 (Rik): the SAME piece, part one (Lloyd's List, 5 July 1906; checked in full): "WEDNESDAY, Midnight,
+  June 27": "the hauling out of her station of H.M.S. Jupiter, for the purpose of the burial of a member of her crew
+  ... it was on this occasion undesirable for the battle squadron to slow down." JUPITER IS NAMED in the Channel
+  Fleet's battle squadron (Red side, Admiral Sir Arthur Wilson) on 27 June 1906, off Portugal (about 41 N, 11-12 W),
+  at sea in the manoeuvres. With the 13 battleships of 28 June, the chase of 29 June, and the Needles on 5 July, her
+  place on 29 June is now well indicated: at sea with the battle squadron off the Portuguese and Spanish coast. Not
+  named for the 29th itself (five rear battleships were detached south from Finisterre that day, and the Ocean fell
+  behind: Jupiter is not named in either group). FOR RIK: (1) whether the callback may now stand on her being at sea
+  in the manoeuvres that week; (2) the burial at sea on the 27th: in or out (a death in his ship two days before his
+  mother's: set side by side, it would point hard; recommended out of the callback, and out of the chapter unless
+  Rik wants it on its own).
+- 14 October 2026 (Rik): the Hampshire Telegraph of 2 July 1904 (already held) ALSO carries Jupiter: "Orders have
+  been given at Sheerness for the battleship Jupiter to be out of Dockyard hands at Chatham, on July 9th, for the
+  next cruise of the Channel Fleet, after which she will pay off and be refitted at a cost of £60,000." The refit
+  Albert joined her after, announced a year ahead, with the same sum as the North Star of 16 August 1905: a second,
+  independent witness to the £60,000. Before his time in her (he was then in Prince George and Majestic): context
+  only. The same column carries Majestic's commissioning "in place of the Prince George": both his next ships in one
+  news column.
+- 14 October 2026 (Rik): the manoeuvres material is to POSITION THE SHIP and show "what life abroad was like".
+  DRAFTED as one paragraph in movement two, in date order (June 1906), from Lloyd's List, 5 July 1906 (both parts,
+  checked) and Lloyd's List, 6 July 1906 (the Needles). Nothing of Elizabeth; the reader holds 29 June from Chapter
+  Nineteen, so the paragraph is also the callback by placement alone (DECIDE 6 (d)), claiming only the ship's
+  doings. The burial at sea on the 27th is IN, as the correspondent gives it: for Rik to rule (version without it
+  offered). "Declared captured": the mimic war's capture. "Thirteen battleships chased five": the correspondent's
+  count; Jupiter not named among them, and the sentence does not name her.
+- 14 October 2026 (Rik): "in" a ship KEPT throughout ("keep the terminology of the time and profession"): the naval idiom, as on the service sheet ("Ships, &c., served in") and in the sources. Standing for Part Five.
+- 14 October 2026 (Rik): the manoeuvres paragraph APPROVED as drafted, burial at sea IN ("the para is great as is"). It stands as the Jupiter callback (DECIDE 6 (d)) by placement alone.
+- 14 October 2026 (Rik's notes on the whole text; REVISED): cut "the former Implacable and the former Lion"; cut the
+  trade line ("Labourer"/"Farm Labourer") entirely (non sequitur); explain the lights out; "Albert's official
+  twelve-year engagement"; "In December, as the fleet was returning home from..."; say what the Echo is; "not to be
+  restored until the following July"; fewer paragraphs opening on "In"/"On"; the last paragraph de-listed and the
+  "stretch" dropped. NOTE: the trade line was plan DECIDE 3's original opening and skeleton A; it is now OUT of the
+  chapter (the working title "Farm Labourer" therefore needs reconsidering at completion, DECIDE 13).
+  TWO NEW CLAIMS NEEDING A SOURCE before approval: (1) WHY THE LIGHTS WERE OUT: "exercising by night as it would have
+  to fight in war, every ship darkened so that an enemy's torpedo boats could not find her" is GENERAL KNOWLEDGE, not
+  yet sourced; nearest contemporary witness held: Naval & Military Record, 22 Nov 1911 (Powerful and Encounter
+  "manned and armed to resist destroyer attack, all lights being darkened on board"), a different fleet and year.
+  Beresford's memoir (Gutenberg 50508, chapter L, "The Channel Fleet") could not be reached from the session.
+  (2) "The Echo, a London newspaper": from the clip's own file name (Echo_London); its being an evening paper is not
+  claimed.
+  £60,000 IN TODAY'S MONEY: recommended NOT in the prose (the money rule: exact sums as the record gives them; a
+  modern conversion is the narrator stepping out of 1905, and conversions vary by index). Possible in an endnote.
+- 14 October 2026: Rik proposed "as his mother's life was ending, Albert's was just beginning"; Claude argued against (narratorial pointing, against DECIDE 6 (d); not true to the record: he was nineteen and five years in; a stock antithesis). Rik: "ok you win". Not used. The manoeuvres paragraph stands with nothing said of her.
+- 14 October 2026: MOVEMENTS ONE AND TWO APPROVED as revised (Rik: "accepted as is"). Therefore: the lights-out
+  explanation stands on the 1911 Naval & Military Record as its contemporary witness, with Beresford's memoir
+  (chapter L) still wanted to cite for 1903; Captain H. A. Warren's name stays.
+- 14 October 2026: IMAGE CHECK for movement three (service sheet: Pembroke 15² / 28488, 4 Feb 08 to 9 Mch 08;
+  Shannon 5² / 48, 10 Mch 08 to 28 Feb 10; Pembroke I 15² / 6997, 1 Mch 10 to 6 June 10), recorded in the sheet's
+  header; Vera's birth certificate (1921) viewed for "Clarie Irene Goldstone formerly Setterington". MOVEMENT THREE
+  DRAFTED (about 200 words; held locally). Sources: ADM 188/383; Western Mail 11 Mar 1908; Sheerness Guardian 14 Mar
+  1908 (built and laid down at Chatham); the 1910 register (checked word by word, 13 Oct); Vera's birth certificate
+  (G (a)). Pembroke as the Chatham barracks' books: Navy List April 1908, index ("Naval Barracks, Chatham (see under
+  'Pembroke')"), OCR snippet only, NOT image-checked: to check before approval. Not used: the fathers' column (DECIDE
+  5); the 1908 programme (a plan); her true age (H (a): ages set down without comment). Last line per H (a).
+- 14 October 2026 (Rik): Clarie Irene was from a military family: 1891 census index (RG 12/613 f.144), the
+  Setterington household in the barracks of the 31st Regimental District, Kingston; her sister "Elma Rose" explains
+  Lily Alma Rose's name (Chapter Twenty-One, 1913). Recorded in dramatis_personae.md; image wanted (live_lists 4,
+  item 69). For movement three: nothing until the image gives her father's occupation; then at most one clause on
+  where she was born and raised (Rik to rule).
+- 14 October 2026 (Rik): "Elma Rose" is ALMA ROSE (index error) [WITHDRAWN the same day: her birth was registered as
+  Elma Rose (GRO index, Q1 1891, Kingston 2a 327); Alma is the later and family form]. Her father George Setterington, Colour Sergeant,
+  31st East Surrey Regiment, at the Barracks, Kingston, on census night 1891, having risen through the ranks. For
+  movement three, once the census image (or service record) is saved: one clause, e.g. "a colour sergeant's
+  daughter, born in the barracks at Kingston upon Thames". Rik to rule; not in the draft yet.
+- 14 October 2026 (Rik): 1891 and 1901 census IMAGES for the Setteringtons, checked (transcribed/Setterington_
+  1891_1901_census_transcription.md): George "Color Sergt 31. East Surrey Regt." at the Kingston barracks, 1891;
+  "Skilled Labourer" in Chatham (Luton ward), 1901, with "Irene", 12. Both enumerators write "Elma", and the GRO birth index has Elma Rose: her registered name; Alma Rose later.
+  PROPOSED for movement three (Rik to rule): "he married Rennie Setterington, a colour sergeant's daughter, born in
+  the barracks at Kingston upon Thames and raised in Chatham".
+- 15 October 2026 (Rik): the April 1908 Navy List's CONTENTS page (archive.org navylist1908april, scan leaf n10)
+  reads "Naval Barracks, Chatham (see under 'Pembroke')": checked by Rik on the page image. Pembroke IS the naval
+  barracks at Chatham: a primary, official statement, usable. (The List has no separate entry for the barracks under
+  that heading.) Movement three may say "the naval barracks at Chatham, the Pembroke" (or name only the barracks);
+  "whose men were carried on the books of the Pembroke" is NOT what the contents line says and is dropped.
+- 15 October 2026 (Rik's link): Wikipedia, "Royal Naval Barracks, Chatham" (SECONDARY; read through a summarising tool):
+  "also known as HMS Pembroke"; built between the Victorian Steam Yard and Brompton Barracks, 1897 to 1902, designed by
+  Henry Pilkington, completed by December 1902 (cited: Drill Hall Library history booklet, University of Medway, 2018,
+  p. 2; Coad, Support for the Fleet, English Heritage, 2013); before, men "almost invariably housed in hulks" (Coad).
+  With the Navy List contents line (primary) and Historic England 1267804, enough for "the new naval barracks at
+  Chatham, the Pembroke, finished in 1902". Coad is the citable book if a date is used. No capacity figure here.
+- 15 October 2026 (Rik: "aft torpedo flat" not comprehensible): our sentence now reads "rammed the Prince George on her
+  port side near the stern, and the sea flooded the compartment below the waterline from which her after torpedoes
+  were fired". Sources: "on the port side, near the stern" and "torpedo compartments ... immediately filled with
+  water" (Central News, Liverpool Evening Express and London Evening Standard, 20 Oct 1903); "aft submerged torpedo
+  flat" (the Admiral). GENERAL KNOWLEDGE: a torpedo flat is the compartment holding the torpedo tubes; "submerged"
+  in the Admiral's own phrase = below the waterline. The telegram itself is quoted unchanged.
+- 15 October 2026 (Rik's three links on boy service, for B):
+  (1) Hansard, Commons, 7 August 1947, "Royal Navy (Boy Entrants)": COULD NOT BE OPENED from the session (fetch error).
+      Rik to read or paste. A 1947 debate is forty years late for 1901-04: context for the rule, not proof of it.
+  (2) Elise Juzda Smith, "Raising Boys for the Navy: Health, Welfare, and the British Sea Services, 1870-1905",
+      Journal of the History of Medicine and Allied Sciences 76:1 (2021), 53-77, doi 10.1093/jhmas/jraa054
+      (SECONDARY, scholarly; read only in part through a summarising tool): training-ship course of about a year and a
+      half from 15 or 16; Circular No. 30, 1873, entry at 15. The visible part does NOT state the from-18 rule.
+  (3) The Bluejackets (thebluejackets.co.uk), "When to join the Navy: boy sailors" (SECONDARY, a heritage site): "They
+      had signed up to serve for 10 years, but the clock only started once they reach the age of 18, when they were
+      given the rating of Ordinary Seaman." Its TEN years is the older term (1868 regulations); Albert's sheet says 12.
+  ASSESSMENT: every source agrees the engagement ran from 18 and boy time did not count toward it; the length was
+  ten years earlier and twelve by Albert's day (his own sheet; the 1888 broadside; the interwar IWM poster). The
+  rule is safe to state in prose as general knowledge now well attested, citing the Navy List of July 1903
+  (Greenwich rule) and the Bluejackets page in the notes. B to be revised if Rik accepts the drafted sentence.
+- 15 October 2026 (Rik): Hansard, 7 August 1947 (transcribed/Hansard_Commons_7_Aug_1947_Royal_Navy_Boy_Entrants.txt):
+  the Admiralty's own statement that boys signed ON ENTRY an engagement of "12 years from the age of 18 in addition to
+  whatever period may be necessary until they attain that age", a system dating "from the Naval Enlistment Act,
+  1884". SETTLES B's question: in force in 1901; boy time did not count toward the twelve years. Primary citation
+  wanted: the Naval Enlistment Act 1884 itself (legislation.gov.uk or the statutes; to confirm chapter number).
+  IMPLICATION (notes only, for Chapter Twenty-One): on the sheet's reckoning his twelve years ran to 19 June 1916.
+- 15 October 2026 (Rik): RootsWeb (pbtyc), "Pay and Engagement Structure Change 1860", transcribing Admiralty
+  Circular No. 121, 14 June 1853 (and No. 130, 3 Oct 1853): boys engaged "to serve Her Majesty for a period of ten
+  years continuous and general service from the age of 18"; first class at 16 after a year at sea; ordinary seaman
+  only after 18; no boy kept in the boy rating after 20. SECONDARY (a transcription; the circular not seen). With the
+  1868 regulations, the 1888 broadside and Hansard 1947 (Naval Enlistment Act 1884, twelve years), the history is
+  complete: ten years from 18 (1853), twelve from 18 (by the 1880s; the 1884 Act). Context for B; the rule in
+  Albert's time rests on Hansard 1947 and his own sheet.
+- 15 October 2026 (Rik): OPENING REVISED: "In 1901 Albert Goldstone was fourteen, though the Royal Navy had him down
+  as a year older, and for the next seventeen years it would decide where he went." (Rik's line, adjusted: "had him
+  down as" for "believed"; "decide where he went" for "define his life".) DECIDE 4 revised accordingly (plan,
+  RULINGS). B REVISED: the boy-service sentence is in ("He had signed on as a boy, and a boy's time did not count:
+  the twelve years he had bound himself to serve would run only from his eighteenth birthday. That day came on the
+  nineteenth of June 1904, and he was rated ordinary seaman."), on Hansard 1947 (Naval Enlistment Act 1884).
+- 15 October 2026 (Rik): "HMS" at a ship's first mention, "the X" after; applied through the chapter (quotations untouched). Standing for Part Five.
+- 15 October 2026 (Rik): Shannon 1908-1910 searched: nothing beyond a few local movements. Her two years stay as one clause ("she was his ship for the next two years"); the 1909 Prince George collision remains unproven and out.
+- 15 October 2026 (Rik): the curate and witnesses CUT (not necessary). G REVISED: she was BORN Clarie Irene (1891
+  census, "Clarie Irene", aged 1; 1901 "Irene"); "Rennie" was the short form of Irene (Rik). Now: "he married Clarie
+  Irene Setterington, Rennie for short"; the "later known as" sentence cut. The register's "Rennie" stays in the
+  transcription. Hetherington's identification (Crockford's 1932) stays in the notes only.
+- 15 October 2026 (Rik): H (a) kept: the chapter closes on the register's ages. "finished only in 1902" CUT (the
+  barracks named from the Navy List alone). TITLE SETTLED (DECIDE 13): "WITHOUT LIGHTS" (the collision night: "whilst
+  manoeuvring without lights", Morning Leader / Western Evening Herald, 19 Oct 1903). Rik: "No One Hurt" is odd for
+  the years in which Elizabeth dies. The chapter is now DRAFTED IN FULL, all decisions ruled; awaiting Rik's approval.
+- 15 October 2026: CHAPTER TWENTY APPROVED (Rik: "gimme the final"). Sent for upload with the changed notes. The Lloyd's List manoeuvres clips: Rik's own uploads (0010, part one; 0011, the page, higher resolution) replace the session's copies; references renamed.
