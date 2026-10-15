@@ -1,0 +1,69 @@
+HMS MAJESTIC — NEWSPAPER TRANSCRIPTIONS
+Repository source folder: sources/images/Media-coverage/majestic
+
+IMAGE CHECK (check-once rule), 14 October 2026 (Claude): checked word by word in full. Supplied by Rik as a clip,
+14 October 2026. Paper and date from the clip's file name, given by Rik the same day.
+
+============================================================
+SOURCE: Echo_London_15_December_1904_0003_Clip.jpg
+PUBLICATION: The Echo (London), page 3
+DATE: Thursday 15 December 1904
+STATUS: COMPLETE
+============================================================
+
+WARSHIP EXPLOSION
+
+Serious Accident on H.M.S. Majestic.
+
+THREE MEN INJURED.
+
+An alarming and serious explosion occurred on board H.M.S. Majestic last night.
+
+The vessel, with others of the Channel Fleet, was coming home from Gibraltar to give her men Christmas leave and to re-fit, and was coming up the English Channel when an explosion, due no doubt to an accumulation of gas, occurred in the coal bunkers of the engine-room, causing injuries to two seamen and an artificer.
+
+All possible aid was rendered immediately on board, but on the arrival of the vessel at Portsmouth this morning the injured men were conveyed to the Haslar Hospital, where it was found that Frederick George Day, the artificer, was badly injured, while the two ordinary seamen, George Scarborough and John Baker, were seriously injured
+[no stop printed at the end; clip ends at a rule]
+
+[NOTE, Claude, 14 October 2026: "last night" = Wednesday 14 December 1904; Portsmouth "this morning" = Thursday 15
+December. Inside Albert's first Majestic entry (15 July to 20 December 1904, no break): DECIDE 8 condition MET. One
+witness so far (a second report would confirm the names and the hour).]
+
+============================================================
+SOURCE: Hampshire_Telegraph_02_July_1904_0007_Clip.jpg
+PUBLICATION: Hampshire Telegraph, page 7
+DATE: Saturday 2 July 1904
+STATUS: COMPLETE. Supplied by Rik, 14 October 2026; checked word by word in full by Claude the same day.
+============================================================
+
+THE WEEK'S NEWS.
+
+The despatch vessel Surprise, with Lady Domvile on board, arrived on Tuesday at Malta.
+
+Second Lieut. T. A. C. Calvert, Australian Engineers, is to visit the Submarine Mining Station at Gosport.
+
+The storeship Wye arrived at Portsmouth on Tuesday from Sierra Leone, bringing Capt. C. J. Thornton.
+
+For the purchase of guns for the defence of Durban Harbour the Natal Legislative Assembly has voted £40,000.
+
+The battleship Majestic is to be commissioned at Portsmouth on July 15th for service in the Channel Fleet, in place of the Prince George.
+
+The Admiralty has given instructions for the first set of moorings for a first-class battleship to be laid in the new National Harbour at Dover.
+
+The return of the Royal Sailors' Home for the week ending 25th June is as follows:—Beds, 2,348; meals, 1,865; and baths, 215.—Thos. H. Williams, manager.
+
+There is reason for believing that 80 shipwrights and 40 labourers of Devonport Dockyard will receive notice of discharge in the course of the next few days.
+
+In memory of the Hon. Sir Henry Keppel, G.C.B., late Admiral of the Fleet, a memorial brass tablet has been erected in St. Mary's Church, Winkfield, Berkshire.
+
+The battleship Prince of Wales left Gibraltar on Monday for Malta, and the cruiser Lancaser [sic] arrived at Gibraltar to join the Cruiser Division of the Mediterranean Fleet, relieving the cruiser Astræa.
+
+Admiral Lord Walter Kerr, First Sea Lord and Rear-Admiral May, Controller of the Navy, at Chatham visited H.M.S. Swiftsure and Triumph, the battleships purchased from the Chilian Government.
+
+Orders have been given at Sheerness for the battleship Jupiter to be out of Dockyard hands at Chatham, on July 9th, for the next cruise of the Channel Fleet, after which she will pay off and be refitted at a cost of £60,000.
+
+The "Clarion" which is the leading organ of the Socialists pleads for an immediate expenditure of thirty millions on the Navy, and last week devoted its three most important columns to a protest against our present inadequate defences.
+
+[NOTE, Claude: Majestic to be commissioned at Portsmouth on 15 July 1904 for the Channel Fleet "in place of the
+Prince George": Albert's sheet closes Prince George on 14 July and opens Majestic on 15 July 1904. An announcement in
+advance, but the sheet's date agrees. The Jupiter item is the refit he joined her after (£60,000, as in the North
+Star of 16 August 1905).]
