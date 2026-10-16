@@ -1,0 +1,114 @@
+TB35 AND TB36 LOGS: ENTRIES NAMING TB31, OCTOBER 1913 TO JULY 1916 (ALBERT'S TYNE (T.B.31) ENTRY: 27 OCT 1913 TO 27 JUL 1916)
+Source: naval-history.net, "Royal Navy Log Books of the World War 1 Era" (Old Weather volunteer transcriptions of the
+ADM 53 logs), pages "HM TB.35" and "HM TB.36", saved by Rik 16 October 2026 as HTML:
+sources/naval-logs/naval-history_net_HM_TB35_log_1914-1916.html (https://naval-history.net/OWShips-WW1-10-HM_TB_35.htm)
+sources/naval-logs/naval-history_net_HM_TB36_log_1914-1916.html (https://www.naval-history.net/OWShips-WW1-10-HM_TB_36.htm)
+GRADE: a TRANSCRIPTION of a primary (the volunteers' reading of the ADM 53 page images; each entry cites its Old Weather
+image, ADM53-64780 for TB35 and ADM53-64832 for TB36). Not checked here against the log images (they are on Amazon S3,
+outside the session). Square brackets are the volunteers'. Extracted by Claude from the saved HTML, 16 October 2026,
+text unaltered except line breaks.
+
+=== TB35, 29 AUGUST 1914 (image ADM53-64780/0003_1) ===
+August 1914
+At
+Queensferry [and on
+patrol]
+Lat
+56.00, Long -3.40
+9.35am:
+Slipped Tanker.
+9.50am:
+Secured to No 9 Buoy.
+pm:
+Make and mend.
+6.10pm:
+Slipped. 
+7.10pm:
+Anchored S55W from Inchkeith Light House 6 cables.
+9.15pm:
+TB31 reported aground on Iron Craig. Sent all boats from TBs and
+Trawlers. Got out Port
+anchors and grass lines and laid then out off TB31’s quarters
+to steady her, also one ahead. Kept
+searchlights on her all night.
+4f5a7be0a2fc8e092300066c:
+(https://s3.amazonaws.com:443/oldweather/ADM53-64780/0004_0.jpg)
+
+=== TB35, 30 AUGUST 1914 (image ADM53-64780/0004_0) ===
+30
+August 1914
+At
+Queensferry [though not stated at top of
+page]
+Lat
+56.00, Long -3.40
+am:
+Made every preparation to refloat TB31 at HW [High
+Water]
+(9.43). Received Two of TB31’s
+torpedoes.
+10.0am:
+TB31 refloated,
+towed off by tugs Malta, Jumbo and
+Vigilant [all
+listed here]
+and
+taken to Leith.
+10.20am:
+Weighed and proceeded into harbour.
+11.15am:
+Made fast to oil tank.
+1.0pm:
+Got torpedoes into “Tyne’s”
+boat and sent them to the “Tyne”.
+pm:
+One rating joined from “Tyne”.
+5.55pm:
+Slipped and Proceeded out of harbour.
+6.40pm:
+Commenced patrolling between May Island and Inchkeith in company with
+“36”. Course as requisite, speed 8
+knots.
+pm:
+Cordage W1 one coil = 113 fathoms 4 inch
+not recovered from salvage of 31TB.
+[Bread
+Received: 72 lbs]
+[Fuel
+Remaining: Coal 0.4 tons, Oil 40 tons]
+
+=== TB36, 30 AUGUST 1914 (image ADM53-64832/0022_0) ===
+30
+August 1914
+At
+South
+Queensferry
+Lat
+56.0, Long -3.4
+2.0am:
+On patrol - Inchkeith to Kinghorn.
+5.0am:
+TB31
+grounded
+South West of Inchkeith,
+sent collision mat and bottom line. [HMS] New
+Zealand and Invincible
+arrived.
+7.30am:
+Proceeded, course and speed as requisite to South Queensferry.
+8.30am:
+Secured alongside oil lighter. 8.45am: Secured to No X buoy.
+10.0am:
+Hands to Division and prayers. Rounds.
+5.50pm:
+Slipped and proceeded, course and speed as requisite for Night patrol
+Inchkeith to May Island.
+
+=== OTHER ENTRIES NAMING TB31 INSIDE ALBERT'S DATES (date of entry | line) ===
+TB35 2 May 1914 (at Parkeston) | Hands employed TB31 To shift berth to No 3 [Tier]
+TB36 2 May 1914 | Working cables assisting to shift TB No 31.
+TB35 29 November 1914 | Inchkeith abeam. Exercised SL signals with TBs 31 and 32.
+TB36 28 November, 22 and 28 December 1915 | with 28, 31 (and 26): "Completed and proceeded up harbour with 28, 31 and 26." (28 Dec)
+TB35 21-22 June 1916 | Joined up with TBs 32 and 31 for C night patrol. / On C night patrol astern of TB32, TB31 in company speed 10 knots.
+TB36 3, 10, 22, 25 July 1916 | "Carried out C Patrol in company with TBs '32' and '31'." (10 Jul)
+(After 27 July 1916, when Albert left her, TB31 goes on patrol with TBs 25, 27, 33 and 36 to the end of 1916: NOT his.)

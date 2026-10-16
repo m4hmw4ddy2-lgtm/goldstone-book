@@ -1,4 +1,10 @@
-NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik (outside the session) and supplied
+IMAGE CHECKS, 16 October 2026 (Claude, Chapter Twenty-One movement two): checked word by word against the images:
+LT 6 Jul 1912; LT 25 Jul 1912 (0008); LT 12 Dec 1912; Western Evening Herald 21 Feb 1913; N&MR 19 Feb 1913 (0012, the
+main clip, in full); Ceylon Observer 30 Jan 1913 (0006, in full); LT 30 Nov and 3 Dec 1912 ("King Hall", no hyphen, on 3 Dec: corrected). CORRECTIONS (made below): LT 25 Jul "Jervois Bay"
+(not "Jervis"); N&MR "Dr. L. Darby" (not "E."); Ceylon Observer "Capt. Brewen" (not "Brewer"), "Australians love",
+and its last two sections RE-TRANSCRIBED (the supplied text had dropped "THE NEW OFFICERS" list and garbled "PASSED
+THE 'ORVIETO'"). NOT checked: the other Drake clips.
+EARLIER STATUS: NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik (outside the session) and supplied
 14 October 2026. Check each line to be quoted against its image before use: the same batch's Evening Irish Times
 transcription (jupiter_transcriptions.txt) was found seriously wrong in places.
 NOTE: Lyttelton Times, 12 July 1912, page 8, was listed as an "EMPTY SOURCE FILE": it is not empty. Read in full by
@@ -44,7 +50,7 @@ H.M.S. “Drake” bade good-bye to Australia on the 14th inst. and, after a smo
 
 THE HOMEWARD BOUND PENNANT.
 
-Very great heat was experienced during the run from Fremantle and several stokers fainted. Most of the men working below had a trying time: their general health was far from satisfactory. There are nearly 150 Australian recruits on board, including officers, seamen and stokers. They are a happy lot enthusiastic in their Australian love for the water.
+Very great heat was experienced during the run from Fremantle and several stokers fainted. Most of the men working below had a trying time: their general health was far from satisfactory. There are nearly 150 Australian recruits on board, including officers, seamen and stokers. They are a happy lot enthusiastic in their Australians love for the water.
 
 “CROSSING THE LINE” CEREMONY.
 
@@ -52,17 +58,20 @@ The most interesting event on board was what is known as the “crossing the lin
 
 ADMIRAL KING HALL REMAINS IN AUSTRALIA.
 
-Admiral King Hall, who remained in Australia has temporarily hoisted his flag on the “Cambrian,” pending arrival of the new flagship. Capt. Brewer commands the “Drake” a stalwart well-set up officer, whose weather-beaten features showed long service at sea. It is just a year today since the “Drake” reached Australian waters. Most on board were sorry to lose sight of the South.
+Admiral King Hall, who remained in Australia has temporarily hoisted his flag on the “Cambrian,” pending arrival of the new flagship. Capt. Brewen commands the “Drake” a stalwart well-set up officer, whose weather-beaten features showed long service at sea. It is just a year today since the “Drake” reached Australian waters. Most on board were sorry to lose sight of the South.
 
 THE TRIP OF THE ‘AUSTRALIA’.
 
 The Dreadnought cruiser “Australia”—the new Flagship—will leave England probably about July going via the Cape at the Colony’s request. Before the “Duke” left Fremantle many had deserted the ship, some not being recovered yet. However no inconvenience was caused.
 
-THE NEW OFFICERS.
-
-[The clipping names new officers and refers to sport after working hours: football, hockey, fencing and boxing. The final sentence is partially obscured.]
-
-The “Drake” one night quite out of sight and intercepted several of her wireless messages which treated chiefly of the Balkan War and home matters.
+THE NEW OFFICERS
+are Engineer Sub-Lieutenant Dennis, Assistant Pay-Master Jackson, Dr. Darby, and Messrs Munro, Shairp, Embleton and
+Hehire, the seamen being drawn from the 'Encounter,' 'Paramatta' and 'Yarra.' The Officers and men had plenty of sport
+daily after working hours: football, hockey, fencing, boxing etc. The 'Drake'
+PASSED THE 'ORVIETO'
+one night quite out of sight and intercepted several of her wireless messages which treated chiefly of the Balkan War
+and home matters.
+[RE-TRANSCRIBED from the image, 16 October 2026.]
 
 ============================================================
 SOURCE: Ceylon_Observer_30_January_1913_0026_Clip.jpg
@@ -128,7 +137,7 @@ DATE: 3 December 1912
 STATUS: COMPLETE
 ============================================================
 
-H.M.S. Drake, the flagship of Admiral King-Hall, arrived at Wellington from Picton yesterday, and will remain there till the end of the week.
+H.M.S. Drake, the flagship of Admiral King Hall, arrived at Wellington from Picton yesterday, and will remain there till the end of the week.
 
 ============================================================
 SOURCE: Lyttelton_Times_06_July_1912_0009_Clip.jpg
@@ -271,7 +280,7 @@ AUCKLAND, July 24.
 
 The new flagship of the Australian Squadron, H.M.S. Drake, with Vice-Admiral Sir George King-Hall on board, arrived from Suva this morning. The visit of the Admiral on this occasion is purely an official one in connection with the approaching removal of the naval base from Sydney to Auckland. When Captain Rolleston was in Auckland some time ago, he inspected the sites of buildings that will be necessary for housing stores, etc., and the Admiral has come across to make a final inspection before matters are submitted to the Admiralty. Temporary accommodation has also to be arranged for the stores, as the permanent buildings will not be erected in time, and to meet this want the Auckland Harbour Board has placed a large shed at the disposal of the Admiralty, a courtesy which is much appreciated by the authorities. It was thought in some quarters that there would be need for an Admiralty House, but it is not probable that such will be the case. The fleet to be stationed here will in reality be a detachment of the China Squadron. Although its distance from headquarters will practically make a separate fleet of it, still it is more than likely that it will be in command of the senior officer, whose headquarters will be his own ship. When the new order of things comes into force next April there will be no ship of the Drake’s size in these waters, so that more than usual interest attaches to her present visit.
 
-The crew of the flagship is now busy getting into form for big gun-firing, which takes place at Jervis Bay, south of Sydney, towards the end of next month. There is keen rivalry between the ships on the various stations, and the ships of the Australasian Squadron have on more than one occasion well maintained the reputations of these waters.
+The crew of the flagship is now busy getting into form for big gun-firing, which takes place at Jervois Bay, south of Sydney, towards the end of next month. There is keen rivalry between the ships on the various stations, and the ships of the Australasian Squadron have on more than one occasion well maintained the reputations of these waters.
 
 The Drake will remain in the Waitemata until Monday next.
 
@@ -367,7 +376,7 @@ Thousands of sightseers thronged the foreshores in the vicinity of Farm Cove. No
 
 At 9.30 a.m. Admiral Sir George F. King-Hall left the steps at Admiralty House to go on board the Drake. At the same time the admiral’s flag fluttered down the flagstaff at Kirribilli. Lady King-Hall (who took passage to Hobart in the Drake) had gone on board earlier, and by the time the admiral arrived preparations were being made to get the flagship under way. At ten minutes past ten the Drake slipped her moorings, and moved off on the homeward journey. The flagship’s band struck up, and the crowd on the shore cheered lustily and waved farewell to those on board. The deck and rigging of the Drake presented an animated appearance as the seamen returned the hearty cheers from their comrades in the Psyche and Pyramus. Amidst the strains of “Home, sweet home,” “Auld lang syne,” and “The girl I left behind me,” the Drake shaped her course for the Heads. She will proceed to Hobart, where the admiral will leave her and fly his flag in the Cambrian.
 
-She takes home with her a draft of officers and men for the Australia and Sydney respectively. The draft includes Dr. E. Darby, who will be the medical officer of H.M.A.S. Sydney; Assistant-Paymaster Jackson, for H.M.A.S. Australia; and about 140 men.
+She takes home with her a draft of officers and men for the Australia and Sydney respectively. The draft includes Dr. L. Darby, who will be the medical officer of H.M.A.S. Sydney; Assistant-Paymaster Jackson, for H.M.A.S. Australia; and about 140 men.
 
 The Drake will pay off at Portsmouth, and will recommission with a reduced nucleus crew for service in the Sixth Cruiser squadron.
 
@@ -404,3 +413,45 @@ STATUS: COMPLETE
 H.M.S. DRAKE.
 
 H.M.S. Drake, late flagship on the Australian station, arrived at Plymouth this morning, and after disembarking some Canadian naval ratings, proceeded to Portsmouth to pay off.
+
+============================================================
+ADDED 16 October 2026 (Rik's upload). Each TRANSCRIBED BY CLAUDE FROM THE IMAGE and checked word by word in full.
+============================================================
+SOURCE: Lyttelton_Times_28_June_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times, 28 June 1912
+------------------------------------------------------------
+The Naval authorities have supplied the hon. secretary of the Navy League at Wellington with the following monthly
+statement as to the disposition and proposed movements of the men-of-war on the Australasian station for the
+information of friends and relatives of men aboard the different ships:—Drake leaves Sydney about July 2 for Noumea,
+Vila, Suva and Auckland, returning to Sydney about August 4. Encounter, at Sydney; reduces to nucleus crew on June 26;
+will pay off June 30, and be lent to the Royal Australian Navy from July 1. Challenger leaves Sydney June 26 for
+Fremantle, en route for Home. Cambrian, returning from China station, due at Sydney, July 7. Prometheus and Pegasus
+return to England when no longer required on China station. Psyche and Torch, refitting at Sydney. Fantome and
+Sealark, on surveying duties off north-west coast of Australia. Pioneer, at Wellington, remains at present.
+[A PROGRAMME, not a record: of the four ports, only Suva and Auckland are confirmed (LT 24 and 25 July 1912). She
+sailed on 5 July (LT 6 July), not "about July 2".]
+
+SOURCE: Lyttelton_Times_29_August_1912_0006_Clip.jpg
+PUBLICATION: Lyttelton Times, 29 August 1912
+------------------------------------------------------------
+By instructions of the Admiral, the Navy League authorities at Wellington have been furnished with the following list
+of the positions and proposed movements of the ships of the Australasian squadron:—The Drake, Psyche and Cambrian are
+at present at Moreton Bay, Queensland, where they will remain until August 24, after which they will proceed to Sydney
+and then to Jervis Bay for battle practice, returning to Sydney on completion. The Pioneer is at Lyttelton at
+present. The Torch left Sydney for New Hebrides on July 29; the Fantome is surveying at Buccaneer Archipelago and is
+due at Broome in August, and the Sealark is surveying at Solomon Islands.
+[Printed 29 August, five days after the stated 24 August: "at present" is as of the list's own date, not given.]
+
+SOURCE: Lyttelton_Times_09_September_1912_0007_Clip.jpg
+PUBLICATION: Lyttelton Times, 9 September 1912
+------------------------------------------------------------
+AUSTRALIA.
+United Press Association—By Electric Telegraph—Copyright.
+AUSTRALIAN FLEET.
+SYDNEY, September 7.
+The flagship Drake will return to England in January in order to ship a new crew that is now available, and that the
+Admiralty may make a selection before the crew is supplied to the new cruiser Australia. Admiral King-Hall will be
+requested to arrange that the cruiser Melbourne shall leave England in January. It is understood that the Admiral
+will not return to England, but will fly his flag at Admiralty House or on another cruiser. Sir George Reid advises
+that the Admiralty is endeavouring to expedite the construction of the Commonwealth cruisers. The Melbourne will
+probably be ready by December, the Sydney possibly before May, but there is little hope of the Australia before May.

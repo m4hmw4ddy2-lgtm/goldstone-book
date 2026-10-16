@@ -28,6 +28,8 @@ The rest of this transcription was not re-checked in that round; it stands as Ri
 - Character: the first "V.G." stands opposite the B 1 cl row (28 Aug 02 to 23 June 03), undated.
 **FIFTH IMAGE CHECK, 14 October 2026 (Claude), for Chapter Twenty, movement two:** engagement "[blot]4 - 12 Years" (the year's last digit 4 visible; height 5-0½ beside it); sequences 5 to 14 confirmed as transcribed (Prince George 15 / 337, 9 Sept 03; Ord. 19 June 04 to 14 July 04; Majestic 15 / 14, 15 July 04 to 20 Dec 04 and 4 Jan 05 to 28 Feb 05; Firequeen I 15a / 1237, 1 Mch 05 to 31 Mch 05; Victory, ditto, 1 Apl 05 to 14 Aug 05; Jupiter 5 / 172, 15 Aug 05 to 1 Mch 06; 5 II, 12 Mch 06 to 4 Aug 07; 8 Aug 07; A.B. 1 Jan 08 to 3 Feb 08); "Cells 14 days", "Cells 10 d", "3 dys. Cells" in the positions given in section 8; characters "Good" 31.12.04 to 31.12.08.
 **SIXTH IMAGE CHECK, 14 October 2026 (Claude), for Chapter Twenty, movement three:** sequences 15 to 17 confirmed as transcribed (Pembroke 15² / 28488, 4 Feb 08 to 9 Mch 08; Shannon 5² / 48, 10 Mch 08 to 28 Feb 10; Pembroke I 15² / 6997, 1 Mch 10 to 6 June 10).
+**SEVENTH IMAGE CHECK, 15 October 2026 (Claude), for Chapter Twenty-One (PDF page 2 rendered at 200 dpi; rows cropped):** sequences 18 to 23 confirmed as transcribed: Dominion 7 June 10 to 23 May 11; Pembroke I 24 May 11 to 7 Aug 11; Crescent 15² / 44, 8 Aug 11 to 15 Sept 11; **Powerful 5² / 393, 16 Sept 11 to 16 Dec 11** (three months; one entry, no break); Pioneer 5² / 36, 17 Dec 11 to 23 May 12; Drake " / 358, "(1)", 24 May 12 to 25 Feb 13. (Dominion's book number reads "4[?]03" over a struck figure; not checked further.)
+**EIGHTH IMAGE CHECK, 15 October 2026 (Claude), Clothing and Bedding Gratuities, the last line (cropped, enlarged x3):** reads **"£3.10 G C + B June 16"** (no query: "£3.10", "G C + B", "June 16" clear; the £ sign partly under the black corner). That is £3 10s., the "gratuity of three pounds ten shillings for clothing and bedding" paid under the Royal Proclamation of August 1914 to men detained beyond their engagements (Hansard, HC Deb 17 May 1916, transcribed/Hansard_Commons_17_May_1916_Time_Expired_Men_Royal_Navy.txt). The lines above it ("Sept 02", "June 03") were not re-checked.
 NOT checked: the ship's-book numbers in "List and No." (the briefing's readings differ in several); the clothing gratuity sums; Remarks entries 1, 5 and 7. The body below has not been altered; these readings stand over it.
 
 **Original:** The National Archives, **ADM 188/383**, official number **218159**, image reference **122**. [Service-record PDF](https://github.com/m4hmw4ddy2-lgtm/goldstone-book/blob/main/sources/images/albert-goldstone/Albert%20Goldstone%20Naval%20Record.pdf).
@@ -195,7 +197,7 @@ Original location: lower-left block, below the main grid. Heading: **Clothing an
 | 1 | [illegible] |
 | 2 | [£1.8.0?] Sept 02 |
 | 3 | [£3.9.6?] June 03 |
-| 4 | [£3.10?] G.C. + B. June 16 |
+| 4 | £3.10 G C + B June 16 [image-checked 15 Oct 2026] |
 
 ## 11. Remarks
 

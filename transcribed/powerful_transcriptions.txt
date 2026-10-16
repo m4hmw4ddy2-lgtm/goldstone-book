@@ -3,6 +3,16 @@ NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik 
 transcription (jupiter_transcriptions.txt) was found seriously wrong in places.
 NOTE: Lloyd's Weekly Newspaper, 10 December 1911, was listed as an "EMPTY SOURCE FILE": it is not empty. Transcribed
 and checked word by word in full by Claude, 14 October 2026 (below). The rest of this file is NOT checked.
+IMAGE CHECKS, 15 October 2026 (Claude, Chapter Twenty-One skeleton):
+- Lyttelton Times, 23 Sep 1911: checked word by word in full; RE-TRANSCRIBED (a MATERIAL error: "new crews landing at
+  Colombo", not "men from training at Colombo"; see the entry).
+- Naval & Military Record, 22 Nov 1911 (correspondent's letter of 8 Oct): the "AUSTRALIA" item checked word by word in
+  full against the image: agrees, except that the image prints no closing bracket after "training" (the transcription's
+  bracketing is to be read as the paper's: "(which are still temporarily attached to the squadron for training, left").
+- Naval & Military Record, 6 Sep 1911 (letter of 2 Aug): the drillships' paragraph ("The Cambrian, Pioneer, Pyramus, and
+  Psyche left to-day for Colombo, viâ the North of Australia ...") checked: agrees (the image prints "viâ"). Read but not
+  checked word by word: the rest of the clip, where the image prints "Vile" (not "Vila") and "native chiefs" (not
+  "Fijian chiefs"); to correct before any of it is quoted.
 
 HMS POWERFUL — NEWSPAPER TRANSCRIPTIONS
 Repository source folder: sources/images/Media-coverage/powerful
@@ -207,7 +217,9 @@ DATE: 23 September 1911
 STATUS: COMPLETE
 ============================================================
 
-H.M.S. Powerful, flagship of the Australian Squadron, is at present at Jervis Bay, New South Wales. The Encounter is at Brisbane, and the Challenger is refitting at Garden Island, Sydney Harbour. H.M. ships Cambrian, Pyramus, Pioneer and Psyche are each bringing out men from training at Colombo from H.M. ships Gibraltar and Crescent. H.M. ships Torch and Prometheus are in the New Hebrides group. H.M.S. Sealark is surveying in the Solomon Islands, and H.M.S. Fantome is at Broome, West Australia.
+H.M.S. Powerful, flagship of the Australian Squadron, is at present at Jervois Bay, New South Wales. The Encounter is at Brisbane, and the Challenger is refitting at Garden Island, Sydney harbour. H.M. ships Cambrian, Pyramus, Pioneer and Psyche are engaged bringing out new crews landing at Colombo from H.M. ships Gibraltar and Crescent. H.M. ships Torch and Prometheus are in the New Hebrides group. H.M.S. Sealark is surveying in the Solomon Islands, and H.M.S. Fantome is at Broome, West Australia.
+
+[RE-TRANSCRIBED from the image by Claude, 15 October 2026, word by word in full. The supplied text read "are each bringing out men from training at Colombo": WRONG. The paper prints "are engaged bringing out new crews landing at Colombo": the drillships were carrying out NEW CREWS for themselves, landed at Colombo by Gibraltar and Crescent. Also "Jervois Bay" as printed (not "Jervis"), "Sydney harbour" lower case. The clip's first and last lines are cut by the clipping.]
 
 ============================================================
 SOURCE: Naval__Military_Record_and_Roy_01_November_1911_0011_Clip.jpg
@@ -424,7 +436,7 @@ DATES OF REFITS.
 (FROM OUR OWN CORRESPONDENT.)
 October 8th.
 
-On Wednesday last the Powerful and Encounter, accompanied by the Commonwealth destroyers Yarra and Parramatta (which are still temporarily attached to the squadron for training), left Sydney for Port Phillip. On Wednesday and Thursday nights the destroyers carried out night attacks on the cruisers, the latter being manned and armed to resist destroyer attack, all lights being darkened on board. The heavy weather prevented the destroyers from achieving any success. On arrival at Melbourne H.M.S. Cambrian was met, having arrived the previous day from Adelaide, on her way from Colombo after recommissioning. She is to remain at Melbourne for the present to assist in the battle practice, though she will not actually fire, as she has only just recommissioned. The only ships to fire will be the Powerful, Encounter, and Prometheus, as the Psyche and Pioneer will not arrive as early as was expected. The actual battle practice takes place next Wednesday.
+On Wednesday last the Powerful and Encounter, accompanied by the Commonwealth destroyers Yarra and Parramatta (which are still temporarily attached to the squadron for training, left Sydney for Port Phillip. On Wednesday and Thursday nights the destroyers carried out night attacks on the cruisers, the latter being manned and armed to resist destroyer attack, all lights being darkened on board. The heavy weather prevented the destroyers from achieving any success. On arrival at Melbourne H.M.S. Cambrian was met, having arrived the previous day from Adelaide, on her way from Colombo after recommissioning. She is to remain at Melbourne for the present to assist in the battle practice, though she will not actually fire, as she has only just recommissioned. The only ships to fire will be the Powerful, Encounter, and Prometheus, as the Psyche and Pioneer will not arrive as early as was expected. The actual battle practice takes place next Wednesday.
 
 ============================================================
 SOURCE: Times_of_Ceylon_27_November_1911_0008_Clip.jpg

@@ -1,4 +1,9 @@
-NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik (outside the session) and supplied
+IMAGE CHECKS, 16 October 2026 (Claude, Chapter Twenty-One movement two): checked word by word against the images:
+LT 10 Jan, 29 Jan, 6 Feb, 13 Feb, 15 Feb, 4 Mar, 5 Mar (0007), 6 Mar (0002 and 0008), 9 Mar 1912 in full; LT 7 Mar
+1912 (0007), the head and the Pioneer paragraphs only (the rest NOT checked; the transcription's middle is visibly
+garbled in places, e.g. "Captain Koger", "Puwiseah", "Captain Cown": not to be quoted). All agree, EXCEPT LT 6 Mar
+0008: corrected below ("2500 tons", "eight guns", not "2200 tons", "[illegible]").
+EARLIER STATUS: NOT IMAGE-CHECKED (14 October 2026). For Chapter Twenty-One. Transcribed by Rik (outside the session) and supplied
 14 October 2026. Check each line to be quoted against its image before use: the same batch's Evening Irish Times
 transcription (jupiter_transcriptions.txt) was found seriously wrong in places.
 
@@ -114,11 +119,11 @@ The Pioneer is expected to leave on the return to Lyttelton about Sunday next, a
 SOURCE: Lyttelton_Times_06_March_1912_0008_Clip.jpg
 PUBLICATION: Lyttelton Times
 DATE: 6 March 1912
-STATUS: COMPLETE EXCEPT ONE ILLEGIBLE FIELD
+STATUS: COMPLETE (checked 16 October 2026)
 ============================================================
 
 SAILED.
-March 5, 2 p.m.—H.M.S. Pioneer, third-class protected cruiser, 2200 tons, 7000 h.p., [illegible], Commander Stopford, for Chatham Islands.
+March 5, 2 p.m.—H.M.S. Pioneer, third-class protected cruiser, 2500 tons, 7000 h.p., eight guns, Commander Stopford, for Chatham Islands. [CORRECTED from the image, 16 October 2026: the supplied text read "2200 tons" and "[illegible]".]
 
 ============================================================
 SOURCE: Lyttelton_Times_07_March_1912_0007_Clip.jpg
