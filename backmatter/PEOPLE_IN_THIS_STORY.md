@@ -82,3 +82,6 @@ Elizabeth's later son; the author's great-grandfather.
 
 **William Madams** (b. 1860)  
 Elizabeth's later partner.
+
+**Clarie Irene Goldstone**, née Setterington (b. 1889)  
+Albert's wife; a colour sergeant's daughter, born in the barracks at Kingston upon Thames.
