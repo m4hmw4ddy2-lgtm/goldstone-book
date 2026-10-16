@@ -1,8 +1,8 @@
 TB35 AND TB36 LOGS: ENTRIES NAMING TB31, OCTOBER 1913 TO JULY 1916 (ALBERT'S TYNE (T.B.31) ENTRY: 27 OCT 1913 TO 27 JUL 1916)
 Source: naval-history.net, "Royal Navy Log Books of the World War 1 Era" (Old Weather volunteer transcriptions of the
 ADM 53 logs), pages "HM TB.35" and "HM TB.36", saved by Rik 16 October 2026 as HTML:
-sources/naval-logs/naval-history_net_HM_TB35_log_1914-1916.html (https://naval-history.net/OWShips-WW1-10-HM_TB_35.htm)
-sources/naval-logs/naval-history_net_HM_TB36_log_1914-1916.html (https://www.naval-history.net/OWShips-WW1-10-HM_TB_36.htm)
+sources/books/naval-history_net_HM_TB35_log_1914-1916.html (https://naval-history.net/OWShips-WW1-10-HM_TB_35.htm)
+sources/books/naval-history_net_HM_TB36_log_1914-1916.html (https://www.naval-history.net/OWShips-WW1-10-HM_TB_36.htm)
 GRADE: a TRANSCRIPTION of a primary (the volunteers' reading of the ADM 53 page images; each entry cites its Old Weather
 image, ADM53-64780 for TB35 and ADM53-64832 for TB36). Not checked here against the log images (they are on Amazon S3,
 outside the session). Square brackets are the volunteers'. Extracted by Claude from the saved HTML, 16 October 2026,
