@@ -36,7 +36,7 @@ Where the project instructions and the notes disagree on a fact or a status, the
 
 ## The manuscript
 
-`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_19.md` (later chapters are added as they
+`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_21.md` (later chapters are added as they
 are approved; drafts are held locally until then).
 
 | Part | Chapters |
@@ -47,7 +47,7 @@ are approved; drafts are held locally until then).
 | Two, The Evening | 7 to 9 |
 | Three, The Reckoning | 10 to 17 |
 | Four, Elizabeth | 18 and 19 (the second family tree stands before its title page, after Chapter 17) |
-| Five, Albert | not begun |
+| Five, Albert | 20 and 21 (22 to come) |
 | Six, The Researcher; Coda | not begun |
 
 The two family trees stand in the text: the first, "Two families, to 1883", after the Prologue, before Part One; the second, "From Elizabeth to the author", after Chapter 17, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
