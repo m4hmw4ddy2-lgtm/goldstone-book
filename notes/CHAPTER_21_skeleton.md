@@ -501,7 +501,7 @@ read: to check on the saved pages before it is said.
   waters again"); the last paragraph names Fremantle: Ceylon Observer, 30 Jan 1913, "bade good-bye to Australia on the
   14th inst." and "the run from Fremantle" (Fremantle as the port left on the 14th joins the two statements in one
   article: a close reading, recorded here). "across the Indian Ocean": GK (Fremantle to Colombo).
-- 16 October 2026: TB35 and TB36 log pages saved by Rik (sources/naval-logs/, HTML); TB31 entries extracted to
+- 16 October 2026: TB35 and TB36 log pages saved by Rik (sources/books/, HTML); TB31 entries extracted to
   transcribed/TB35_TB36_logs_TB31_1914-1916.txt (GRADE: volunteer transcriptions of ADM 53; images not seen). The
   research note's chronology CONFIRMED for 2 May 1914 and 29-30 Aug 1914; its 1 July 1915 and 29 Feb 1916 entries not
   found by search in the saved text (not used). Western Times 29 Oct 1914 letter image-checked (tb31_transcriptions
