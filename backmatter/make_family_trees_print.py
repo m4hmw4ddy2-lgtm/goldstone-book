@@ -221,16 +221,17 @@ y = 44
 p.person(SX, y, "Albert Jennet Goldstone", "b. 1887", bold=True)
 p.line(SX, y + 4.5, SX, y + 18)
 spouse(SX, y + 9.0, "= Clarie Irene Setterington, b. 1889, m. 1910", "right")
-# Albert's daughters
+# Albert's children (Brian added 16 October 2026, Rik: GRO birth index, 1932, Medway)
 ry = y + 22
-dx = [11, 33, 55, 78]
+dx = [10, 29, 48, 66, 87]
 p.line(dx[0], ry - 4, dx[-1], ry - 4)
 for x, (n, d) in zip(dx, [("Lily Alma Rose", "b. 1913"), ("Clarie Irene", "b. 1918"),
-                          ("Vera Georgina", "b. 1921"), ("Doris May", "b. 1928")]):
+                          ("Vera Georgina", "b. 1921"), ("Doris May", "b. 1928"),
+                          ("Brian Ronald Albert", "b. 1932")]):
     p.line(x, ry - 4, x, ry - 2.6)
     p.person(x, ry, n, d, bold=(n == "Vera Georgina"))
 # Vera
-VX = 55
+VX = 48
 y = ry
 p.line(VX, y + 4.5, VX, y + 18)
 spouse(VX, y + 9.0, "= George William Ferguson, b. 1920, m. 1942", "left")

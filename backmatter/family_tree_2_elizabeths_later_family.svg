@@ -20,11 +20,12 @@
 <text x="950" y="280" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="15" font-weight="normal" font-style="normal" fill="#1a1a1a" text-anchor="middle">Eliza Jane</text>
 <text x="950" y="297" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="13" font-weight="normal" font-style="normal" fill="#666" text-anchor="middle">b. 1891</text>
 <line x1="495" y1="320" x2="495" y2="395" stroke="#1a1a1a" stroke-width="1.1"/>
-<line x1="220" y1="395" x2="760" y2="395" stroke="#1a1a1a" stroke-width="1.1"/>
+<line x1="220" y1="395" x2="940" y2="395" stroke="#1a1a1a" stroke-width="1.1"/>
 <line x1="220" y1="395" x2="220" y2="428" stroke="#1a1a1a" stroke-width="1.1"/>
 <line x1="400" y1="395" x2="400" y2="428" stroke="#1a1a1a" stroke-width="1.1"/>
 <line x1="580" y1="395" x2="580" y2="428" stroke="#1a1a1a" stroke-width="1.1"/>
 <line x1="760" y1="395" x2="760" y2="428" stroke="#1a1a1a" stroke-width="1.1"/>
+<line x1="940" y1="395" x2="940" y2="428" stroke="#1a1a1a" stroke-width="1.1"/>
 <text x="220" y="450" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="15" font-weight="normal" font-style="normal" fill="#1a1a1a" text-anchor="middle">Lily Alma Rose</text>
 <text x="220" y="467" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="13" font-weight="normal" font-style="normal" fill="#666" text-anchor="middle">b. 1913</text>
 <text x="400" y="450" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="15" font-weight="normal" font-style="normal" fill="#1a1a1a" text-anchor="middle">Clarie Irene</text>
@@ -34,6 +35,8 @@
 <text x="580" y="484" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="12" font-weight="normal" font-style="italic" fill="#666" text-anchor="middle">m. 1942 George William Ferguson, b. 1920</text>
 <text x="760" y="450" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="15" font-weight="normal" font-style="normal" fill="#1a1a1a" text-anchor="middle">Doris May</text>
 <text x="760" y="467" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="13" font-weight="normal" font-style="normal" fill="#666" text-anchor="middle">b. 1928</text>
+<text x="940" y="450" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="15" font-weight="normal" font-style="normal" fill="#1a1a1a" text-anchor="middle">Brian Ronald Albert</text>
+<text x="940" y="467" font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif" font-size="13" font-weight="normal" font-style="normal" fill="#666" text-anchor="middle">b. 1932</text>
 <line x1="580" y1="490" x2="580" y2="565" stroke="#1a1a1a" stroke-width="1.1"/>
 <line x1="500" y1="565" x2="700" y2="565" stroke="#1a1a1a" stroke-width="1.1"/>
 <line x1="500" y1="565" x2="500" y2="598" stroke="#1a1a1a" stroke-width="1.1"/>

@@ -94,9 +94,9 @@ mx=[750,950]
 kids(u,mx,Q1-55,Q1-22)
 u.node(750,Q1,[("Lilian Florence Isabel","name"),("b. 1890","date")])
 u.node(950,Q1,[("Eliza Jane","name"),("b. 1891","date")])
-# Albert's daughters
-dx=[220,400,580,760]
-d=[("Lily Alma Rose","b. 1913"),("Clarie Irene","b. 1918"),("Vera Georgina","b. 1921"),("Doris May","b. 1928")]
+# Albert's children (Brian added 16 October 2026, Rik: GRO birth index, 1932, Medway)
+dx=[220,400,580,760,940]
+d=[("Lily Alma Rose","b. 1913"),("Clarie Irene","b. 1918"),("Vera Georgina","b. 1921"),("Doris May","b. 1928"),("Brian Ronald Albert","b. 1932")]
 u.line(495,Q1+40,495,Q2-55); kids(u,dx,Q2-55,Q2-22)
 for x,(n,dd) in zip(dx,d):
     extra=[("m. 1942 George William Ferguson, b. 1920","note")] if n=="Vera Georgina" else []
