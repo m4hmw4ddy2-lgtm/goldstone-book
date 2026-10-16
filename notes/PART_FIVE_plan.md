@@ -519,3 +519,5 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
 - **DECIDE 13, Chapter Twenty: TITLE SETTLED (Rik, 15 October 2026): "Without Lights".** "Farm Labourer" retired with
   the trade line, which Rik cut from the chapter as a non sequitur (so DECIDE 3's revision, above, which kept the
   line "folded into the first movement", is itself superseded: the occupation line is not in the chapter).
+- **DECIDE 13, Chapter Twenty-One: TITLE SETTLED (Rik, 16 October 2026): "Invalided"** (the working title kept; the
+  chapter's last line gives it its meaning). CHAPTER TWENTY-ONE APPROVED the same day.

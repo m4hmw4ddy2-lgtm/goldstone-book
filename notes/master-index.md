@@ -1078,3 +1078,13 @@ Book section: Part One
 **Evening Standard, 21 January 1935:**
 - "Death After 52 Years in Broadmoor... He had been described as an ideal patient. He worked in the various wards."
 
+
+## Added 15-16 October 2026 (Chapter Twenty-One)
+- `sources/images/Media-coverage/crescent/` (19 clips, Aug-Sep 1911): `transcribed/crescent_transcriptions.txt` (checked in full). Crescent to Colombo; the crew transfer of 15 Sep 1911.
+- `sources/images/Media-coverage/drake/` Lyttelton Times 28 Jun, 29 Aug, 9 Sep 1912 (added to `transcribed/drake_transcriptions.txt`, checked).
+- `transcribed/Hansard_Commons_17_May_1916_Time_Expired_Men_Royal_Navy.txt`: the 1914 Proclamation and the £3 10s. gratuity (cf. the service sheet, "£3.10 G C + B June 16").
+- `sources/naval-logs/naval-history_net_HM_TB35_log_1914-1916.html`, `..._TB36_...html` (Old Weather transcriptions of ADM 53): extract `transcribed/TB35_TB36_logs_TB31_1914-1916.txt`.
+- `sources/books/Corbett_Naval_Operations_Vol1_1920_archive-org_fulltext.html`: extract `transcribed/Corbett_Naval_Operations_vol1_Invincible_New_Zealand_Aug_1914.txt`.
+- `sources/books/Newbolt_Naval_Operations_Vol5_part1_naval-history_net.html`: extract `transcribed/Newbolt_Naval_Operations_vol5_ch4_Courageous_1917.txt`.
+- `sources/books/Newbolt_Naval_Operations_Vol5_part2_naval-history_net.html`: extract `transcribed/Newbolt_Naval_Operations_vol5_ch9_Alexander_1918.txt`.
+- London Gazette, issue 31970, 5th Supplement, 8 July 1920, pp. 7331-7335 (Kemp's despatch, North Russia 1918): NOT HELD (403); read through a summarising tool only (CHAPTER_21_skeleton.md, J).

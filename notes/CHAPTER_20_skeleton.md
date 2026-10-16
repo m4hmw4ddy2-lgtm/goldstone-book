@@ -532,8 +532,9 @@ unnamed speaker in a paper: quotable only as what the paper printed.
 - THE SHANNON-PRINCE GEORGE COLLISION: none of the clips carry it. Still 1907 or 1909 (Wikipedia against Conway's).
 
 #### For Chapter Twenty-One (NOT checked; leads noted now so they are not lost)
-- HOW HE REACHED AUSTRALIA: Lyttelton Times, 23 Sep 1911: Cambrian, Pyramus, Pioneer and Psyche "are each bringing out
-  men from training at Colombo from H.M. ships Gibraltar and Crescent". His sheet: Crescent 8 Aug to 15 Sep 1911, then
+- HOW HE REACHED AUSTRALIA: Lyttelton Times, 23 Sep 1911: Cambrian, Pyramus, Pioneer and Psyche "are engaged bringing
+  out new crews landing at Colombo from H.M. ships Gibraltar and Crescent" [CORRECTED 15 October 2026 against the image; the
+  supplied text read "are each bringing out men from training at Colombo"; see CHAPTER_21_skeleton.md]. His sheet: Crescent 8 Aug to 15 Sep 1911, then
   Powerful from 16 Sep. A lead to the route (and the answer to finding 7 of the research's grading above); to check.
 - TB 31: a letter from "H.M. Torpedo Boat 31", 26 October 1914, signed by an officer, thanking the Mayoress of Exeter
   for warm clothing: "what winter in the North Sea means to those serving in torpedo craft" (Western Times, 29 Oct
@@ -568,8 +569,8 @@ transcriptions of ADM 53 logs (Old Weather / naval-history.net): a transcription
 use: save each page's URL and text to the repo, and grade it. The pre-war "8th Destroyer Flotilla at Chatham" needs its
 source named. ADM 53/24983 (Prince George, 8 Oct 1903 to 14 Jul 1904): Discovery reference as given, not checked here.
 CAUTION FOR CHAPTER TWENTY-ONE (DECIDE 8's condition): Powerful's October 1911 night attacks. His sheet has him on
-Powerful's books from 16 September 1911, but the Lyttelton Times of 23 September 1911 has drillships "bringing out men
-from training at Colombo from H.M. ships Gibraltar and Crescent", and the Naval & Military Record (22 Nov 1911, from
+Powerful's books from 16 September 1911, but the Lyttelton Times of 23 September 1911 has drillships "engaged bringing out new crews
+landing at Colombo from H.M. ships Gibraltar and Crescent" [corrected 15 October 2026 against the image], and the Naval & Military Record (22 Nov 1911, from
 8 Oct) says Psyche and Pioneer "will not arrive as early as was expected". If he came out in one of them he may have
 been borne on Powerful's books while still on passage, and not aboard her for the night attacks. Borne is not always
 aboard. To settle before any Powerful event is given as his.

@@ -177,7 +177,13 @@ The commissioning-day overlap gives the posting a clean anchor. What she actuall
 
 ### Was he aboard? To settle first
 
-The Lyttelton Times of 23 September 1911 says the drillships Cambrian, Pyramus, Pioneer and Psyche "are each bringing out men from training at Colombo from H.M. ships Gibraltar and **Crescent**". Albert's sheet has him in Crescent from 8 August to 15 September 1911, then Powerful from 16 September. The Naval & Military Record (22 November 1911, from a letter of 8 October) says "the Psyche and Pioneer will not arrive as early as was expected". **If he came out in one of the drillships, he may have been borne on Powerful's books while still on passage, and not aboard her for the October exercises.** This is the likeliest route to Australia so far found, and it must be settled before any Powerful event in September or October is given as his.
+The Lyttelton Times of 23 September 1911 says the drillships Cambrian, Pyramus, Pioneer and Psyche "are engaged bringing out new crews landing at Colombo from H.M. ships Gibraltar and **Crescent**" (CORRECTED 15 October 2026 against the image: the supplied transcription read "are each bringing out men from training at Colombo"; the paper also prints "Jervois Bay"). So the Crescent and Gibraltar men were the drillships' own new crews. Albert's sheet has him in Crescent from 8 August to 15 September 1911, then Powerful from 16 September. The Naval & Military Record (22 November 1911, from a letter of 8 October) says "the Psyche and Pioneer will not arrive as early as was expected". **If he came out in one of the drillships, he may have been borne on Powerful's books while still on passage, and not aboard her for the October exercises.** This is the likeliest route to Australia so far found, and it must be settled before any Powerful event in September or October is given as his.
+
+**SETTLED 15 October 2026 (Chapter Twenty-One skeleton, CRESCENT AND POWERFUL; transcribed/crescent_transcriptions.txt):**
+Crescent reached Colombo shortly after 4 p.m. on 12 September 1911 with the relief crews for Flora, Psyche and Pioneer;
+the ships recommissioned and the crews were transferred on Friday 15 September; Cambrian, Pioneer and Psyche sailed for
+Australia on the 17th. Albert came out to Australia in Pioneer or Psyche, not in Powerful. Why the sheet carries him
+on Powerful's books from 16 September is not known.
 
 ### Key findings in the period of his entry
 
