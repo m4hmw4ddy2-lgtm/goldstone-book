@@ -83,7 +83,7 @@ Key content: The first hearing of 9 August (shared copy with DT 10 Aug, PMG 9 Au
 Book section: Chs 9-10; Elizabeth thread
 
 **Walthamstow and Leyton Guardian, 18 August 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_18_August_1883_Transcription.txt`
-Status: Complete for columns 3-5 as of 24 Sep 2026 (twenty lines recovered at a column break); column 6 partly illegible under a fold.
+Status: Complete for columns 3-6 as of 24 Sep 2026 (twenty lines recovered at a column break; the column 6 letter read in full across the tear). [Corrected 20 Oct 2026.]
 Key content: The second hearing of 11 August (throat gesture: scarf); the inquest of 10 and 13 August, the full jury list (Joseph Blythe), Lyle's letter, Foxwell's defence of Blythe, the coroner's repudiation; the funeral and the ten mourners; "many people expected that she would be present"; Clarke's "fortunate in their lodgers"; Grantham Robinson's letter of 10 August.
 Book section: Chs 10-11; Elizabeth thread
 
@@ -121,6 +121,11 @@ Book section: Trial, Chelmsford and statement chapters
 Status: Transcribed 22 Sep 2026; complete.
 Key content: The Law Times on the case, reprinted: the conviction "inevitable" under the law as it stood, and the case for an irresistible-impulse test.
 Book section: Medical-campaign chapter
+
+**Walthamstow and Leyton Guardian, 6 October 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_06_October_1883_Transcription.txt`
+Status: PROVISIONAL, 20 Oct 2026, read from the Findmypast viewer; clip wanted before quotation.
+Key content: Orange and Clarke at Springfield on 26 September, "nearly three hours", the convict's brother visiting that day; the Orange paragraph credited to the Evening Standard of 1 October; the further respite (Contradiction 119).
+Book section: Reprieve chapter (Seventeen)
 
 **Walthamstow and Leyton Guardian, 20 October 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_20_October_1883_Transcription.txt`
 Status: Transcribed 22 Sep 2026; complete.
