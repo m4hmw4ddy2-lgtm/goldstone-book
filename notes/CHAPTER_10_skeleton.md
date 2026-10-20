@@ -752,3 +752,7 @@ Blythe who was admitted; no comment joins them. Chapter Eleven trimmed to match:
 the Guardian again", keeping "wonderfully composed but very weak", "everything needful for the present" and the
 mortuary line, and cutting "devoid of all comfort, even the plainest food" and "supplied her immediate wants", which
 repeated Chapter Ten. Source check: the 11 August transcription was made from close crops of the image, 30 September.
+
+- 16 October 2026, corrections to the approved Chapter Eleven (Rik: "of course the typos"): the vicar's letter paragraph,
+  "He had found her" -> "He had found Elizabeth" (she was not named in the paragraph); Gould, "After the Wednesday
+  evening, he went through" -> "After his account of the Wednesday evening, he went through" (did not parse).

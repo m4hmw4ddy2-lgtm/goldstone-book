@@ -503,3 +503,5 @@ Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; TNA HO 145
   c. 29, s. 2 (wording not yet read from the page image).
 - 13 October 2026: Rik added the paragraph to chapters/CHAPTER_17.md himself (as drafted; curly quotation marks round
   the quoted phrase, where the rest of the chapter has straight ones). Chapter approved as amended.
+- 16 October 2026 (Rik: "of course the typos"): the warrant quotation's curly marks, which closed on an opening mark,
+  made straight, as in the rest of the chapter.
