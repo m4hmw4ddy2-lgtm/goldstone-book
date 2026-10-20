@@ -1,0 +1,53 @@
+Source image: NOT YET IN THE REPO. Read 20 October 2026 from the Findmypast viewer (BL/0004053/18831006, page 5,
+article 050), enlarged on screen. A clip is wanted: Walthamstow_and_Leyton_Guardia_06_October_1883_0005_Clip.jpg.
+Newspaper: Walthamstow and Leyton Guardian
+Date: Saturday, 6 October 1883
+Page/column/article: page 5, column 2 (the column left of "ST. JAMES'S, WALTHAMSTOW"), headed "THE WALTHAMSTOW
+MURDERS.", with three sub-heads.
+Transcription scope: the whole item.
+Transcription status: PROVISIONAL. Read from the screen image, every line; the print is heavy and some letters are
+filled in. NOT a recorded image check: to be checked once against the clip when it is in the repo, before quotation.
+Uncertain readings are marked [?]. Findmypast's OCR for this item is unusable and was not relied on.
+
+THE WALTHAMSTOW MURDERS.
+
+MEDICAL EXAMINATION OF THE CONVICT.
+Dr. Orange, Superintendent of the Broadmoor Lunatic Asylum, and Dr. Clarke, visited her Majesty's Prison at
+Springfield on the 26th [?] ult. for a medical examination of the convict. The interview lasted nearly three hours.
+Mr. R. [?] Hunt Carter, Gaol Surgeon, and the Rev. W. F. Lumley, Chaplain, were present during part of the
+examination. Drs. Orange and Clarke afterwards had an interview with the convict's brother, who happened to be
+visiting at the Gaol on that day.
+
+DR. ORANGE'S OPINION OF THE PRISONER'S INSANITY.
+The Evening Standard of the 1st inst. says:—"Dr. Orange (the Medical Superintendent of Broadmoor), who was recently
+sent down to Chelmsford to see the convict Gouldstone, entertains, it is said, no doubt of his insanity. His mother
+and aunt were both insane, and his great uncle committed suicide. He himself appears to have had a suicidal mania,
+and it is believed that he went out with the intention of drowning himself on the very day that he murdered his
+children. His wife, who is a very respectable young woman, says that he has shown signs of madness for the last
+twelve months."
+
+FURTHER RESPITE.
+On the 1st instant the Home Secretary addressed a communication to Mr. J. Oxley Parker, the High Sheriff of Essex,
+signifying the Queen's command that the execution of the sentence of death passed upon William Gouldstone, the
+Walthamstow murderer, be respited until further signification of her Majesty's pleasure. This extended respite is in
+consequence of the report made to Sir William Harcourt by Dr. Clarke and Dr. Orange, who last week had an interview
+with the convict to ascertain the condition of his mind. There can be no doubt the sentence will be remitted in a few
+days, when Gouldstone will be removed to Broadmoor Asylum.
+
+NOTES (not for prose without a ruling):
+- "Evening Standard" is in italics in the print.
+- SOURCE: the first part is reprinted from the Essex Weekly News of 28 September 1883, p. 8 (which has "on Wednesday"),
+  so it is one witness with that paper (Contradiction 119, ADDED).
+- NEW: the date and length of the examination: "the 26th ult." (Wednesday 26 September 1883) and "nearly three
+  hours". The Sunday Dispatch of 30 September has "six or seven hours" (CHAPTER_17_skeleton.md, day pins); the
+  Times of 2 October has "last week". Logged as Contradiction 119.
+- NEW: the gaol surgeon and the chaplain present for part of it; and Orange and Clarke "afterwards had an interview
+  with the convict's brother, who happened to be visiting at the Gaol on that day". Which brother is not named (Bennett
+  and Robert were both defence witnesses). The Dispatch's "several of his relatives" "during the week" agrees.
+- The Orange paragraph: the Guardian attributes it to "The Evening Standard of the 1st inst." (the Standard's evening
+  edition, Monday 1 October). The Times of 1 October prints the same paragraph (its opening hidden on Rik's clip); the
+  Guardian's text adds "it is said" and has "twelve months" in words. One witness (Contradiction 104), now with a
+  likely origin: the Evening Standard. PRESS ONLY, as before.
+- "FURTHER RESPITE" agrees with the Times of 2 October (respite "in consequence of the report made to Sir William
+  Harcourt by Dr. Clarke and Dr. Orange"): shared copy, one witness; and gives the High Sheriff's name, Mr. J. Oxley
+  Parker.
