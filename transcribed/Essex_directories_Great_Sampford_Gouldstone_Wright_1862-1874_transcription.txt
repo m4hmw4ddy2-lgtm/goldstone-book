@@ -1,0 +1,100 @@
+Essex Post Office Directories: Great ("Old") Sampford entries for the Gouldstones and George Wright.
+Source images (Ancestry, "U.K., City and County Directories, 1600s-1900s", image file names kept):
+  sources/images/directories/GB0652-00162.jpg   1862 (?) Post Office Directory, page 158 ("[ESSEX.] SALCOTT. 158 POST
+                                                OFFICE" at the head); the Old Sampford list is at the FOOT of this
+                                                page (corrected 20 October 2026: not on the next image, which begins
+                                                with Sandon, as Rik found)
+  sources/images/directories/GB9010P-00186.jpg  1867 Post Office Directory
+  sources/images/directories/GB0653-00190.jpg   1871 Post Office Directory
+  sources/images/directories/GB0654-00201.jpg   1874 Post Office Directory
+Edition years are Ancestry's labels; the 1862 label is a guess from the run (GB0652 precedes GB0653 = 1871), TO
+CONFIRM from the image's title page or running head. Post Office directories describe the year or so before the title
+date.
+Transcription scope: the entries for Gouldstone and Wright in the Old Sampford residents' lists (and two related lines)
+Transcription status: Partial (scope as stated)
+CHECKED AGAINST THE IMAGES, 20 October 2026: each line below read from a close crop.
+
+1862 (?) (GB0652-00162, foot of p. 158; read 20 October 2026 from close crops):
+  Byatt William, farmer, White house
+  Gouldstone Benjamin, shoemaker
+  Gouldstone Thomas, blacksmith
+  Turpin James, blacksmith
+  Winterflood Geo. farmer, Free Roberts
+  Wright George, furniture broker
+  Wright Hannah (Mrs.), beer retailer
+
+1867 (GB9010P-00186):
+  Gouldstone Benjamin, shoe maker
+  Gouldstone Thomas, blacksmith
+  Winterflood Geo. farmer, Free Roberts
+  Wright George, furniture broker
+
+1871 (GB0653-00190):
+  Gouldstone Thomas, blacksmith
+  Gouldstone Benjamin, shoe maker
+  Wright George, blacksmith
+  Wright George, furniture broker
+  Byatt William, farmer, White house (read 20 October in Ancestry's viewer)
+  (also on the page, read 20 October from the image in Ancestry's viewer: "Winterflood Susan (Mrs.), Free Roberts";
+  and in the parish description: "The straw-plait manufacture is carried on here")
+
+1874 (GB0654-00201):
+  Gouldstone Benjamin, shoe maker
+  Gouldstone Thomas, beer retailer
+  Gouldstone Thomas, blacksmith
+  Wright George, blacksmith
+  Wright George, furniture broker
+  Wright George, farmer, White house
+
+NOTES (inference, NOT for prose):
+- Thomas: "blacksmith" alone in 1867 and 1871; "beer retailer" and "blacksmith" in 1874. The 1871 census (April) has
+  him "Blacksmith & Publican" at the White House, Moor End (dramatis_personae.md).
+- George Wright, the buyer of Lot 26 ("Freehold house and blacksmith's shop ... in occupation of T. Gouldstone",
+  August 1867): a furniture broker in 1867; listed also as a blacksmith in 1871 and 1874; and in 1874 also "farmer,
+  White house". Whether these are one man, and whether "White house" here is the White House at Moor End where Thomas
+  kept his beerhouse, is NOT shown. If it is, Thomas's landlord at the White House may have been the man who bought his
+  forge. Needs: the rate books or a sale record for the White House, and the 1871/1881 census entries for George
+  Wright. Until then, notes only.
+- Winterflood at the Free Roberts (George, 1867; Mrs Susan, 1871): the cholera report of 9 November 1866 said the
+  dead pugilist William Winterflood had "no connexion with Great Sampford". Noted; nothing drawn.
+- CAUTION ON "WHITE HOUSE" (added 20 October 2026, from the 1862 list): the directories have a FARM called White
+  house, farmed by William Byatt in 1862 and 1871, and by George Wright in 1874. The 1871 census has Thomas, blacksmith
+  and publican, at the White House, Moor End. Whether the directories' farm and Thomas's beerhouse are one building
+  is NOT known; the lead that Wright was Thomas's landlord is weakened accordingly. Historic England 1322551 (the White
+  House, Moor End) and the tithe/OS maps may settle it.
+- 1862 also lists "Wright Hannah (Mrs.), beer retailer" and a second blacksmith, James Turpin. A Wright family kept a
+  beerhouse in the village before George Wright bought the smithy; relation to George not known.
+- The 1878 page is now held: see the 1878 section below. The edition of GB0652 (1862?) to confirm from the volume's title page.
+
+1878 (sources/images/directories/GB0655-00232.jpg; Post Office Directory of Essex, the "OLD SAMPFORD" entry)
+CHECKED 20 October 2026: the lines below, from close crops of the image.
+  Gouldstone Benjamin, shoe maker
+  Gouldstone Robert, blacksmith
+  Graves Robert, shopkeeper
+  Graves Thomas, gardener
+  Gray George, carpenter
+  Wright George, blacksmith
+  Wright Geo. furniture broker & farmer
+  Wright William, farmer, Dove house
+  (parish text) "Board School, erected 1877, Miss Catharine Stock, mistress"
+  (parish text) "The straw-plait manufacture is carried on here"
+NOTES (not for prose):
+- No Thomas Gouldstone in 1878, as either blacksmith or beer retailer. His eldest son Robert is the village
+  blacksmith. Benjamin still the shoemaker.
+- The 1874 "Wright George, farmer, White house" is now "Wright Geo. furniture broker & farmer", with no farm named;
+  "Wright George, blacksmith" stays a separate line. Two George Wrights, or one man listed twice: not shown.
+- Catharine Stock, Board School mistress, 1877-78: no link to Elizabeth drawn (Stock is common in the district;
+  Elizabeth had no sister of that name in any record held).
+- Graves Robert and Graves Thomas at Great Sampford: William Graves the foreman was born at Radwinter (1829) to George
+  Graves; no link drawn (dramatis_personae.md, William Graves: the "Thomas Graves, gardener" claim is DO NOT USE as
+  William Graves's father).
+
+1878, trades section (Ancestry image GB0655-00446, Post Office Directory of Essex 1878, "TRADES DIRECTORY.] ESSEX.
+SMI 423", list headed "SMITHS, BLACKSMITHS & FARRIERS."). Image now held: sources/images/directories/GB0655-00446.jpg.
+CHECKED 20 October 2026, first in Ancestry's viewer and then on the uploaded image from close crops: the running head,
+the list heading, and the three lines Godward / Gouldstone / Graystone.
+  Gouldstone R. Old Sampford, Braintree
+NOTES: the list is alphabetical; this is the only Gouldstone line, between "Godward Thos. Grosvenor pl. Southend" and
+"Graystone Charles, Woodford Bridge". So in 1878 there is no Thomas Gouldstone, AND no "Gouldstone Jas. Gt.
+Bardfield" (listed as a blacksmith in 1874 and again in 1882, thumbnails only). Robert is the only Gouldstone smith in
+the county list that year. The W pages (George Wright) were not read.

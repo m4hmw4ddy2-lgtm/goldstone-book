@@ -1,0 +1,58 @@
+Source image: sources/images/Media-coverage/Part-One/Chelmsford_Chronicle_09_November_1866_0005_Clip.jpg (the whole page)
+Newspaper: Chelmsford Chronicle
+Date: Friday, 9 November 1866
+Page/column/article: page 5; foot of column 1 and head of column 2; headed "GREAT SAMPFORD. MYSTERIOUS CASE."
+(Findmypast viewer BL/0000225/18661109, page 5, article 032)
+Transcription scope: the whole article
+Transcription status: Complete
+CHECKED AGAINST THE IMAGE IN FULL, 20 October 2026: made from close crops of the page image (column break at
+"relieving officer was" / "held at the Lion Inn"), every line. Corrects the Findmypast OCR used in
+PART_ONE_search_list.md, item 2: Henry Andrews is himself "farm laborer", aged ten, at work with his father; and
+Winterflood's age, lost in the OCR, is "73 years old".
+Bears on: new Chapter Two (cholera at Great Sampford, 1866; William was ten).
+
+GREAT SAMPFORD.
+MYSTERIOUS CASE.
+
+On Saturday last about three in the afternoon a person named William Winterflood, who, it appears, has been for many
+years a pugilist, and having no connexion with Great Sampford, arrived at the Bull Inn there, in company with another
+man named James Cavell, from Walworth. The latter having heard that the Bull Inn was likely to want a tenant wished
+to persuade Winterflood to hire it with him, but no one else knew that the present landlord was at all likely to
+leave. Winterflood took his lodgings at the Bull, and Cavell went to a friend's house to sleep. In the course of the
+night Winterflood must have been extremely ill, but strange to say he alarmed no one. As soon as he heard the
+landlady moving he knocked for her; she went and found the room in a sad state, the man having all the symptoms of
+choleraic diarrhœa.—Shortly afterwards his friend Cavell came, and going to him considered him in the most extreme
+danger, and immediately fetched Mr. Barnes, surgeon, of Thaxted. Mr. Barnes found him in a state of collapse with
+no pulse, attended to him, and saw him again in the afternoon, having administered medicine and strong stimulants,
+but the poor man expired about six o'clock, perfectly conscious all the afternoon, having been ill only 16 hours.
+Nothing could be done by the medical man but to certify that it was a decided case of Asiatic cholera. Of course
+this created considerable alarm in the parish, and a meeting of the clergyman, guardians, overseers, and relieving
+officer was [column 2] held at the Lion Inn, when the man Cavell was closely interrogated, but no satisfactory result
+ensued. In the mean time the friends of the deceased were communicated with by telegraph, and on their arrival in the
+evening of Monday they wished to have a post-mortem examination made. This was done on Tuesday morning by Mr. Harley,
+partner of Mr. Welch, surgeon, of Saffron Walden, in company with Mr. Barnes, and after a careful proceeding and full
+inquiry into all the circumstances it was determined that the original certificate given by Mr. Barnes could not be
+altered, but that it was deemed a decided case of Asiatic cholera. What renders the matter still more distressing in
+the village is, that a boy aged ten years, named Henry Andrews, farm laborer, who was at work with his father on
+Monday at Mr. Portway's Houses, and was as late as ten in the evening a spectator in a travelling show standing in the
+street, was taken with cramp in the stomach in the night, accompanied with other choleraic symptoms, and died at
+eight o'clock on Tuesday morning, after being visited by Mr. Hyde, assistant to Mr. Fry, surgeon, of Thaxted, and not
+having been ill more than about eight hours. It should, however, be added that the man Winterflood, 73 years old, had
+evidently from the examinations made been a very ailing individual, and the poor boy Andrews was certainly of a very
+delicate constitution. Added to this, our correspondent was informed at Sampford that the premises where the boy
+Andrews lived and died were reported by Mr. Carslake, the relieving officer and inspector of nuisances, as having
+very foul drainage, and the landlord was summoned before the Bardfield bench of magistrates about six weeks ago; the
+summons was allowed to be withdrawn on his undertaking to remedy the nuisance complained of, and the alterations are
+now in progress. A further distressing feeling was experienced in the village on Tuesday, inasmuch as a carpenter's
+son, aged about 19 or 20, named Gray, was taken suddenly ill with such alarming and serious symptoms that in the
+course of the day, although having good medical treatment, his life was despaired of. It turned out, however, in
+this instance that the young man had been using oil paint a good deal, and that in all probability he was suffering
+from what is called painter's colic; we are glad, therefore, to add that in the evening the reports were of a much
+more favorable character, and the medical gentlemen present had good hopes of his recovery.
+
+NOTES:
+- "Saturday last" in the issue of Friday 9 November 1866 = Saturday 3 November; Winterflood died about 6 p.m. that
+  day. Henry Andrews died Tuesday 6 November, 8 a.m.
+- The printed spelling is "laborer" and "favorable" (keep in any quotation).
+- "Mr. Carslake": compare "Henry Caslake, Registrar", William's birth certificate, 1856 (GRO). Same office-holder?
+  Not established.

@@ -1,0 +1,22 @@
+Source image: sources/images/Media-coverage/Part-One/Chelmsford_Chronicle_04_December_1874_0006_Clip.jpg
+Newspaper: Chelmsford Chronicle
+Date: Friday, 4 December 1874
+Page/column/article: page 6; "GREAT BARDFIELD, NOV. 30." (petty sessions)
+Transcription scope: the heading, the magistrates' line, and the last paragraph (the licence transfer); the other
+cases are summarised in the notes, not transcribed.
+Transcription status: Partial (scope as stated)
+CHECKED AGAINST THE IMAGE, 20 October 2026: the lines transcribed, every word.
+
+GREAT BARDFIELD, NOV. 30.
+Magistrates present—Col. Brise, M.P., in the chair; and the Rev. W. E. L. Lampet.
+...
+The licence of the Three Horseshoes beerhouse, Great Bardfield, was transferred from Charles Dowsett to Mr. James
+Gouldstone, blacksmith.
+
+NOTES:
+- Sessions of Monday 30 November 1874. James is Thomas's brother (1861 Little Sampford and 1871 Great Bardfield
+  households match: PART_ONE_search_list.md, item 10).
+- Also at these sessions: "Edward Stock, labourer, of Finchingfield", fined for assaulting a police sergeant over his
+  boy's armful of barley straw (5 November). A Stock of Finchingfield, where Thomas Stock was baptised; no link drawn.
+- The Great Bardfield bench also covered Great Sampford (the 1866 drainage summons): Thomas Gouldstone's own beer
+  licence for the White House would have passed through it, about 1870-71. Not yet found.

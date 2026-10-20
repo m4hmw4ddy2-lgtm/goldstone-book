@@ -1,0 +1,24 @@
+Source image: sources/images/Media-coverage/Part-One/London_City_Press_30_October_1878_0003_Clip.jpg
+Newspaper: London City Press
+Date: Wednesday, 30 October 1878
+Page/column/article: page 3; "PARIS EXHIBITION.—AWARDS TO LONDON FIRMS."
+Transcription scope: the head of the article and the entries around the Falkirk Iron Company (Group III); the rest of
+the list is not transcribed.
+Transcription status: Partial (scope as stated)
+CHECKED AGAINST THE IMAGE, 20 October 2026: the lines transcribed below, from close crops.
+CORRECTION: the Findmypast OCR snippet ran "Bronze Medal, Class 26, Falkirk Iron Company"; on the image "Bronze Medal,
+Class 26" ends the entry ABOVE (Reigo). The Falkirk Iron Company received an HONOURABLE MENTION, Class 27, not a medal.
+PART_ONE_search_list.md, item 7, is corrected accordingly.
+
+PARIS EXHIBITION.—AWARDS TO LONDON FIRMS.
+A FIFTH list of awards made by the International Jury to London exhibitors is here presented to our readers. ...
+[Group III.—FURNITURE AND ACCESSORIES.]
+...
+Reigo, Mr. Michael, 284, Regent-street. Bronze Medal, Class 26.
+Falkirk Iron Company, 67, Upper Thames-street. Honourable Mention, Class 27.
+Gardner J., and Sons, Messrs., 453, Strand. Bronze Medal, Class 27: Lamps, oil and petroleum; also Honourable Mention,
+Class 36, for embroidery.
+Rosser and Russell, Messrs. 7, Charing-cross. Silver Medal, Class 27: Heating apparatus.
+
+NOTES: what Class 27 covered is not stated for the Falkirk entry; on the same page Class 27 includes "Lamps, oil and
+petroleum" and "Heating apparatus". Any wider statement about the class needs its own source.

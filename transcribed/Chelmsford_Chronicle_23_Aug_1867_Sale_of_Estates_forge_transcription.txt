@@ -1,0 +1,70 @@
+Source image: sources/images/Media-coverage/Part-One/Chelmsford_Chronicle_23_August_1867_0005_Clip.jpg
+Newspaper: Chelmsford Chronicle
+Date: Friday, 23 August 1867
+Page/column/article: page 5; article headed "SALE OF ESTATES." (Findmypast viewer BL/0000225/18670823, page 5, article 116)
+Transcription scope: the whole article
+Transcription status: Complete
+CHECKED AGAINST THE IMAGE IN FULL, 20 October 2026 (Part One linear trial): made directly from the image, every line.
+The image is clean and every word is certain. Findmypast's OCR ("£lO2", "£5B", "&0.") is NOT the source.
+Also printed: Essex Standard, same date, p. 2 (seen as OCR only, not checked; the same report, so one witness).
+Bears on: PART_ONE_search_list.md, item 1; the "business troubles" (Thomas, Old Bailey, 1883); new Chapter Two/Three.
+
+SALE OF ESTATES.
+
+The following property in the parishes of Hempsted, Radwinter, Wimbish, Old Sampford, Otten and Walter Belchamp, was
+offered by auction by Mr. WILLIAM RAND, at the Rose and Crown Hotel, Saffron Walden, on the 16th inst.:—
+
+Lot 1. Anser Field and two cottages and gardens, Hempsted, together 4a. 2r. 31p.—Mr. Snape, £305.
+Lot 2. Freehold farm in occupation of Mr. E. Andrews, 21a. 2r. 32p.—Not sold.
+Lot 3. Freehold arable land called Long Croft, 7a. 2r. 30p.—Messrs. Hawkes, £380.
+Lot 4. Four freehold tenements with outbuildings and gardens, area 1r. 25p., in occupation of Messrs. Halls, Moss,
+and others.—Not sold.
+Lot 5. Ditto, occupied by Messrs. Robinson, J. Hales, and others.—Not sold.
+Lot 6. Two freehold tenements with large gardens, occupied by E. Purkiss and J. Halls.—Mr. G. Surridge, £80.
+Lot 7. Ditto, with garden at back, in occupation of W. Battle and J. Mortlock.—Mr. Jas. Archer, £125.
+Lot 8. Ditto, with large garden, in occupation of R. Sorrel and R. Willis.—Mr. W. Willis, £70.
+Lot 9. Freehold house with wheelwright's shop, yard, and garden, occupied by Mr. Betts.—Mr. Betts, £152.
+Lot 10. Freehold farm, Cracknells, 14a. 1r. 1p., in occupation of Mr. E. Andrews.—Mr. R. Medcalf, £820.
+Lot 11. Freehold cottage and orchard in occupation of Mr. Geo. Willis.—Mr. W. Willis, £58.
+Lot 12. Freehold residence with carpenter's shop, outbuildings, yard, and garden, in occupation of J. Stubbings.—Mr.
+J. Stubbings, £210.
+Lot 13. Freehold arable and grass land, 5a. 2r. 18p., in occupation of Mr. E. Andrews, and a cottage occupied by
+George Willis.—Mr. Chapman, £310.
+Lot 14. Freehold arable land, "Great and Little Barrels," 5a. 1r. 18p., in occupation of Mr. E. Andrews.—Mr. E.
+Andrews, £270.
+Lot 15. Two freehold tenements, in occupation of J. Willis and Mrs. Mortlock.—Mr. Brook, £88.
+Lot 16. Blagdens, 112a. 1r. 20p. of arable and grass land, with house, homestead, &c., in occupation of Mr. Jno.
+Snape.—Not sold.
+Lot 17. Rent-charge of £70 per annum from lands in Hempsted.—Mr. W P. Chalk, £1,650.
+Lot 18. Richmond's Farm, Radwinter, consisting of house, homestead, two cottages, and 55a. 3r. 7p. of arable and grass
+land, in the occupation of Mr. R. H. Bedford.—Not sold.
+Lot 19. Field, arable, 3a. 0r. 24p., in occupation of Mr. Bedford.—Mr. J. Gowlett, £125.
+Lot 20. Ditto and three tenements, the whole 1a. 1r. 19p., in occupation of J. Freeman and others.—Mr. J. Gowlet,
+£175.
+Lot 21. Arable land and a cottage and garden, in occupation of J. Chapman and J. Bacon, 6a. 2r. 13p.—J. Cutts, Esq.,
+£350.
+Lot 22. The Maypole Farm, Wimbish, containing 115a. 1r. 14p., with house and homestead, in occupation of Mrs.
+Norris.—Not sold.
+Lot 23. Stettles Farm, Otten and Walter Belchamp, residence homestead, and 124a. 2r. 20p., let to Mr. Thos.
+Edwards.—Not sold.
+Lot 24. Two freehold tenements with garden, let to Mr. Thos. Edwards.—Not sold.
+Lot 25. Two double tenements, in Old Sampford, in occupation of A. Willison and others.—Mr. A. Willison, £152.
+Lot 26. Freehold house and blacksmith's shop, &c., in occupation of T. Gouldstone.—Mr. G. Wright, £102.
+Lot 27. Ditto, with carpenter's shop, &c., paddock at back, 2a. 0r. 3p., in occupation of Geo. Grey.—Mr. Geo. Grey,
+£270.
+Lot 28. Freehold messuage, in occupation of S. Porter and his undertenant.—Mr. Geo. Grey, £74.
+Lot 29. Freehold house and wheelwright's shop, let to Mr. Phillpott.—Mr. W. Willis, £100.
+Lot 30. Freehold double tenement, in occupation of H. Cornell and Wright.—Mr. Goodwin, £70.
+Lot 31. Three freehold tenements, in occupation of W. Jeffery and others.—Mr. W. Willis, £107.
+Lot 32. Freehold garden ground, The Orchard, area 1r. 34p., in occupation of T. Gouldstone and W. Phillpott.—Mr.
+Cutts, £58.
+Lot 33. Two £25 shares in Saffron Walden Corn Exchange Company.—Mr. Jno. Clarke, £44.
+
+NOTES (not for prose without a ruling):
+- "Old Sampford" is the auction's name for Great Sampford (as in the directories: "Gouldstone T. Old Sampford").
+- Lot 26: Thomas was the occupier; the buyer, "Mr. G. Wright", is listed as a blacksmith at Great Sampford in the
+  Post Office Directory of 1871 (sources/images/directories/GB0653-00190.jpg). A "Wright" was also a tenant in Lot 30.
+- Lot 27, next lot, "Ditto, with carpenter's shop": the occupier and buyer George Grey, carpenter (the Gray family of
+  the 1866 cholera report, "a carpenter's son ... named Gray": spelling differs).
+- Lot 2, 10, 13, 14: "Mr. E. Andrews", a farmer in the parishes of the sale. No link to Emily's sister's husband
+  Thomas Andrews is drawn.

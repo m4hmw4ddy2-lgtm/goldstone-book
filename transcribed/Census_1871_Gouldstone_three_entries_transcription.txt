@@ -1,0 +1,43 @@
+1871 census: three entries for William's grandfather and uncles.
+All CHECKED AGAINST THE IMAGES, 20 October 2026 (the lines below, from the full pages and close crops).
+
+(1) RG10/1709, folio 104, page 7 (sources/images/census-stuff/GBC_1871_1709_0213.jpg)
+Line 17: Joseph Gouldstone | [relation blank] | Widr | 80 | Blacksmith | Essex Great Sampford
+The page has no heading naming an institution; the column is headed "(1) RELATION to Head of Family—or (2) Position
+in the Institution", and the page lists unrelated people, many born at Great Sampford, with some family groups. The
+place, "Saffron Walden Union Workhouse, Sewers End Road", comes from Findmypast's index (transcript
+GBC/1871/0010471337), NOT from this page.
+CONFIRMED 20 October 2026 from the enumeration book's cover (sources/images/census-stuff/ESSRG10_1709_1711-0161.jpg,
+RG10/1709, folio 99, checked in full): "ENUMERATION BOOK For the undermentioned Institution or Establishment. Name and
+Description Saffron Walden Union Workhouse. Where Situate Sewers End Road, Saffron Walden", Superintendent Registrar's
+District and Sub-District Saffron Walden. Joseph's page (folio 104, page 7) is five folios on in the same piece and
+uses the institution form ("Position in the Institution"), so it belongs to this book. (The intervening folios were
+not seen; a second institution starting between them is very unlikely but not excluded.)
+
+(2) RG10/1703, folio 95(?), page 21, parish of Great Bardfield (sources/images/census-stuff/GBC_1871_1703_0191.jpg)
+Schedule 117, Hawkspeer Green:
+  Jas Goldstone | Head | Mar | 43 | Blksmith employ 1 man 1 Boy | Essex Sampford
+  Mary Goldstone | Wife | Mar | 42 | Blksmith's Wife | Essex Thaxted
+  Louisa Goldstone | Daur | Unm | 21 | Blksmith's Daur | Essex Sampford
+  M A Goldstone | Daur | [–] | 15 | Blksmith's Daur | Essex Sampford
+  Ellen Goldstone | Daur | [–] | 13 | Scholar | Essex Sampford
+  Alfred Goldstone | Son | [–] | 10 | Scholar | Essex Sampford
+  Robt H Goldstone | Son | [–] | 10m | | Essex Bardfield
+(M. A.'s age: a figure has been overwritten; 15 or 16. The folio stamp is faint.)
+
+(3) RG10/1710, folio 87, page 3, Great Sampford (sources/images/census-stuff/GBC_1871_1710_0181.jpg)
+Schedule 15, "Shoemaker's Shop" (the address reading is uncertain):
+  Benjamin Gouldstone | Head | Mar | 55 | Shoe Maker | Essex Gt Sampford
+  Susan Do | Wife | Mar | 60 | | Essex Thaxted
+  Alice Do | Daur | | 16 | Scholar | Essex Gt Sampford
+Next door, schedule 14: James Andrews, Ag Lab, born Little Sampford, and family (no link drawn).
+
+(4) RG10/1700, page 22, civil parish of Finchingfield (sources/images/census-stuff/ESSRG10_1700_1701-0110.jpg)
+CHECKED 20 October 2026: the two lines below, from close crops (the age column enlarged five times).
+Schedule 138, Weathersfield Road:
+  Robert Suckling | Head | Mar | 33 | Ag. Lab. | Essex Finchingfield
+  Mary Ann Do | Wife | Do | 40 | Plaiter | [Do Do]
+The age is clearly "33", not a misread 43 or 41. The rest of the household (William 15, Martha 13, John 11 and four
+more, per the Findmypast transcript GBC/1871/0010421923) is on the next page, NOT HELD.
+NOTE: Jemima's brother Robert was eleven in 1841 (born about 1830), so about 41 in 1871. A Robert of 33 (born about
+1838) is very probably NOT he. A wife seven years older, with a son of 15, is possible but unusual. Not identified.

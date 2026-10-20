@@ -1,0 +1,71 @@
+Three reports of the drowning of Richard Millard and Henry Hobbs, Monday 28 May 1883.
+All three CHECKED AGAINST THE IMAGES IN FULL, 20 October 2026, every line.
+SHARED COPY: (1) and (2) share the narrative paragraph (one witness for it); (2) adds the inquest. (3) is a separate
+text (the Walthamstow and Leyton Guardian's own, or another agency's).
+Bears on: new Chapter Six (Courtenay Place, May 1883); Chapter Eleven's mourner "Mrs. Millard (who but a few weeks
+ago had two boys drowned)" (Walthamstow and Leyton Guardian, 18 August 1883).
+
+(1) Source image: sources/images/Media-coverage/Part-Two/Hackney_and_Kingsland_Gazette_01_June_1883_0003_Clip.jpg
+Hackney and Kingsland Gazette, Friday 1 June 1883, p. 3 (viewer BL/0000942/18830601, p. 3, a. 088)
+
+SAD BATHING FATALITY.
+Two lads, named Richard Miilard and Henry Hobbs, residing at Courtenay place, St. James street, Walthamstow, and aged
+respectively 17 and 19, lost their lives whilst bathing in the Lea, between seven and eight o'clock on Monday night.
+They were cousins, and the younger boy had come up from Wales to spend a few days with his uncle at Walthamstow.
+Accompanied by a younger brother, the two boys started off to bathe in the Copper Mill Stream. Neither of them could
+swim, and they had not long been in the water when the youngest boy, who had been set to watch the clothes, saw them
+sink after a struggle. Stricken with fear, the boy had not the presence of mind to call out for assistance from the
+men and boys bathing close at hand; but, taking the watches and other valuables from his brother's and his cousin's
+pockets, he hurried off home, a mile or so distant. On the alarm being afterwards given, a search was made and the
+two bodies were discovered clasped to each other in four feet of water.
+
+[“Miilard” as printed.]
+
+(2) Source image: sources/images/Media-coverage/Part-Two/Shoreditch_Observer_02_June_1883_0003_Clip.jpg
+Shoreditch Observer, Saturday 2 June 1883, p. 3 (viewer BL/0001024/18830602, p. 3, a. 048)
+
+SAD BATHING FATALITY.—On Monday evening between seven and eight, two youths, aged respectively 17 and 19, lost their
+lives whilst bathing, under extremely sad circumstances. They were cousins, and the youngest of the two had come up
+from Wales to stay with his uncle, who lives at Walthamstow. Together with a younger brother, the two lads started
+off to bathe in the Copper Mill Stream, a narrow strip of water which flows into the Lea at Clapton. Neither of them
+were expert swimmers, and they set themselves to teach each other the art. They had not been long in the water before
+the young boy, brother of the eldest youth, who was set to watch the clothes, noticed a struggle between the two
+bathers, and saw the younger lad firmly clasp his cousin, and the two sank out of sight. He was so stricken with fear
+that he had not the presence of mind to call out for assistance from the large number of boys and men who were
+bathing close handy. Coming to his senses, the boy took the watches and money out of his brother and cousin's
+pockets, and hurried off to his home, a mile or so distant. Having told a boy of the occurrence, a crowd soon
+collected around the spot at which the youths had sunk, but instead of searching about for the bodies the bystanders
+sent for the drags, half a mile distant, and by the time they arrived some fifteen minutes had elapsed. The youths
+were found clasped together in but four feet of water. Sir John Humphreys held the inquest at the Old Mermaid
+Tavern, Hackney, on the bodies of Henry Hobbe, aged 16, a joiner, and Richard Millard, aged 19, a joiner, who were
+drowned as above. After the evidence had been given, the Coroner said that the place in question was dangerous, and
+boys should be careful of bathing at that spot. Had Millard only had the presence of mind to have kept out of the way
+of his cousin's arms, and have caught him by the back of the neck both of them might have been rescued. It was a sad
+case, but, according to the evidence no one was to blame for the occurence. The Jury returned a verdict of
+Accidental Death.
+
+["Hobbe", "occurence" as printed.]
+
+(3) Source image: sources/images/Media-coverage/Part-Two/Walthamstow_and_Leyton_Guardia_02_June_1883_0006_Clip.jpg
+Walthamstow and Leyton Guardian, Saturday 2 June 1883, p. 6 (viewer BL/0004053/18830602, p. 6)
+
+SAD BATHING FATALITY IN THE RIVER LEA.
+On Monday evening two youths, aged 17 and 19, lost their lives while bathing near Walthamstow. Together with a younger
+brother, the two lads started off to bathe in the Copper Mill stream, which flows into the Lea at Clapton. They had
+not been long in the water before the brother of the eldest youth, who was set to watch the clothes, noticed a
+struggle between the two bathers, and saw the younger lad firmly clasp his cousin, and the two sank. A crowd soon
+collected, but instead of searching for the bodies, the bystanders sent for the drags, half-a-mile distant, and by the
+time they arrived some 15 minutes had elapsed. The youths were found clasped to each other in about four feet of
+water. Instead of applying means to restore animation, the men with the drags wasted time in discussion as to where
+they should take the bodies, and thus all chances of reviving life was lost.
+
+NOTES:
+- "Monday" in issues of 1-2 June 1883 = Monday 28 May 1883.
+- Ages: 17 and 19 (all three narratives); the inquest: Hobbs 16, Millard 19, both joiners. The Hackney Standard
+  (2 June, OCR only, not checked) has "Richard Bohu[?] Millard, aged 19, of James-street, Walthamstow, and his cousin,
+  Henry Hobbs, sixteen, of the same address".
+- Reading the reports together: Millard (19) lived at Courtenay Place with a younger brother, the boy who watched the
+  clothes; Hobbs, the cousin from Wales, was staying with his uncle there. The Guardian's "Mrs. Millard (who but a few
+  weeks ago had two boys drowned)", 18 August, would then be her son and her nephew. An inference: notes only.
+- Which house in Courtenay Place: not given. The 1881 census (taken before the terrace was finished?) and the 1883
+  rate books (Vestry House Museum, live_lists.md, section 4, item 8) may answer it.
