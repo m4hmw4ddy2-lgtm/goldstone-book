@@ -67,10 +67,22 @@ athletes set aside).
    and 1953 "A. Goldstone" are likely the same; 155 Dale Street to compare with his known addresses (Edinburgh Road,
    1933). NOT established.
 5. **Possibly the family, not identified:** "Lily A. R. Goldstone, Luton Council [School]" (1 August 1924, p. 8,
-   a scholarship or school list: Lily Alma Rose was born 1913-14); "Vera Goldstone" (Luton Council School and
-   elocution lists, 1931-1937); "Irene Goldstone", Luton's May Queen (1933); "Mr. Bert Goldstone", manager of a
+   a scholarship or school list: Lily Alma Rose was born 1913-14); "Vera Goldstone" (seven items, 1931-1937, listed
+   below); "Irene Goldstone", Luton's May Queen (1933); "Mr. Bert Goldstone", manager of a
    concert party (22 January 1926, p. 2; 4 December 1925, p. 15; 30 April 1926, p. 9: "Bert" may be Albert, or
    another); "Messrs A. Goldstone and B. B. Burkett, recorders" (3 August 1928, p. 3).
+   "Vera Goldstone" in the Observer (search "vera goldstone", 1925-1945, 9 results; OCR, not checked):
+   - 25 December 1931, p. 2: Luton girls' and infants' school prizes given by Mr William Crittenden senior, "Class IA,
+     Vera Goldstone".
+   - 24 June 1932, p. 11: places at the Chatham County School for Girls: "Vera Goldstone and Sylvia Wragg (Luton
+     Council)".
+   - 9 November 1934, p. 7: a school evening (Royal Society of Arts examinations, 1934): "individual items by Vera
+     Goldstone, Sylvia Cox and Molly Purchase" (vocal and choral speaking items by the forms).
+   - 27 March 1936, p. 7: a school play: "Vera Goldstone acted with charm and conviction in the part of the Prim[e?]
+     ..." (to read).
+   - 11 June 1937, p. 9: Civil Service exam successes, "Clerical assistant grade ... Vera Goldstone".
+   - 30 July 1937, p. 10: County School for Girls results: "Vera Goldstone, v.g. spoken French".
+   (CORRECTED the same day: an earlier line here called these "elocution lists"; that was a guess, not the papers'.)
    Vera Georgina Goldstone (born 1 March 1921) is Rik's grandmother; the "Vera Goldstone" of the Luton school lists
    is very likely she. Lily Alma Rose ("Auntie Lil") likewise. For Rik to judge; none of it is checked.
 6. **No obituary or death notice for Albert, 1962**, found in this paper's OCR.
