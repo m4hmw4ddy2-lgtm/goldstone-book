@@ -26,7 +26,7 @@ The Times printed the letter on the Saturday, and beneath it a line of its own: 
 
 The British Medical Journal that morning gave the credit to doctors and to journals like itself. Without them, it said, he would already have been hanged "for the crime of being afflicted with a terrible disease". It closed on a warning about where the system it complained of could lead: "the rich murderer might go to Broadmoor, and the poor one to the gallows".
 
-Harcourt signed the order for Broadmoor on the Monday, the day to which the hanging had been put back. It took two warrants, given at Whitehall. One directed the Governor of the prison at Chelmsford to send William there, with a certificate, filled up and authenticated, to go with him. The other directed the Superintendent of Broadmoor to receive him and keep him “until he shall be lawfully removed or discharged“.
+Harcourt signed the order for Broadmoor on the Monday, the day to which the hanging had been put back. It took two warrants, given at Whitehall. One directed the Governor of the prison at Chelmsford to send William there, with a certificate, filled up and authenticated, to go with him. The other directed the Superintendent of Broadmoor to receive him and keep him "until he shall be lawfully removed or discharged".
 
 William was told on Wednesday the tenth that he would not hang. A letter from the Home Office reached the High Sheriff that morning: William had been certified of unsound mind, and once the papers were ready he would go to Broadmoor. The letter gave leave for William to be told, and the Under Sheriff, Charles Gepp, went to him soon after it arrived. According to the Times, he "received it with deep gratitude".
 
