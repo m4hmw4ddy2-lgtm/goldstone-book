@@ -96,7 +96,12 @@ RECOMMEND starting with whichever chapter opens Part One after A is ruled.
   compares the two and rules.
 - B to H: not yet ruled. Working on the recommendations meanwhile; any of them void where Rik rules otherwise.
 
-## THE LINEAR MAP (proposed 19 October 2026, on A (b))
+## THE LINEAR MAP (proposed 19 October 2026, on A (b); RENUMBERED 21 October 2026)
+
+RENUMBERED AND RESTORED 21 October 2026 (Rik): Chapters One and Two were merged and then split again the same day;
+Part One on the linear map has SIX chapters, numbered as originally proposed. New Chapter Three (1871 on) is not to
+open on census night: it opens on its real turn (the children leaving home), with the 1871 census inside it. Part Two
+onwards is not renumbered.
 
 Where each dated moment falls, and where its material comes from in the present drafts. Dates from
 confirmed_facts_timeline_contradictions.md, Part Two, unless noted. Titles are left until each chapter is done.
@@ -104,7 +109,7 @@ confirmed_facts_timeline_contradictions.md, Part Two, unless noted. Titles are l
 | New | Span | Moments | Material from |
 |---|---|---|---|
 | 1 | 1833-1858 | Elizabeth's birth certificate (the ruled opening; Jemima's three names); Jemima's first marriage, 25 Dec 1833, and the six deaths, 1844-47, as the background the names carry; the second marriage, 16 Jun 1854 (Smee); Elizabeth born 18 Feb 1855; Nathan buried 19 Jul 1856; William born 10 Oct 1856, registered by Emily 3 Nov; George buried 11 Jul 1858, leaving only Emma | old 2 (most); old 1 (opening); old 3 (William's birth, the 1851 forge) |
-| 2 | 1861-c.1866 | Census night, 7 Apr 1861, both children: Brewery House (John Ansell, Emma) and the smithy (Burton's round, 8 Apr); Elizabeth a scholar; Emma's death 27 Oct and burial 2 Nov 1861; John Ansell's death (1864); Ruth Gouldstone's death, 27 Dec 1865; Emily's crisis, "about eighteen years" before Sept 1883 (so about 1865: placed in the mid-1860s, NOT tied to Ruth's death); cholera at Great Sampford, 1866 | old 1; old 3 |
+| 2 | 1861-1867 | Census night, 7 Apr 1861, both children: Brewery House (John Ansell, Emma) and the smithy (Burton's round, 8 Apr); Elizabeth a scholar; Emma's death 27 Oct and burial 2 Nov 1861; John Ansell's death (1864); Ruth Gouldstone's death, 27 Dec 1865; Emily's crisis, "about eighteen years" before Sept 1883 (so about 1865: placed in the mid-1860s, NOT tied to Ruth's death); cholera at Great Sampford, 1866 | old 1; old 3 |
 | 3 | 1871-c.1877 | Census night, 2 Apr 1871, both: Elizabeth (16, entered as 18) in service at Albion Road with Susan Newman; William (14, a scholar) at the White House; Mabel born 1 May 1873; Jemima dies 25 Oct 1873, Thomas 22 Dec 1873, and Elizabeth is alone; the Chiltons gone to Bristol by 1874; William at Finchingfield with Robert, the accident and rupture (late teens, undated) | old 3; old 4; old 5 |
 | 4 | 1878-1879 | William to London, autumn 1878; Graves; Elizabeth at Frampton Park Road by March; the wedding, 15 Mar 1879 | old 4 (end); old 5 (middle) |
 | 5 | 1879-1882 | Married life at Frampton Park Road; the boys; census night, 3 Apr 1881 | old 5 (end) |

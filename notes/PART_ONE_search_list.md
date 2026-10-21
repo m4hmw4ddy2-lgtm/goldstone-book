@@ -36,7 +36,7 @@ with Sampford; "Wethersfield", "Weathersfield"; "Finchingfield"; "Hudson's Hill"
 
 ## 3. SEARCHES, BY THE NEW CHAPTER THEY WOULD SERVE (in priority order within each)
 
-### New Chapter Two (1861 to about 1866): the biggest gap
+### New Chapter Two (1861 to 1867): the biggest gap
 1. All name variants, 1859-1868, all titles above. Anything on Thomas, Emily or the forge.
 2. "Sampford" with: "to be sold by auction", "blacksmith", "smith's tools", "stock in trade", "distress", "county
    court", 1863-1867. (The business troubles, if they reached a sale or a court.)
@@ -119,7 +119,7 @@ sampford" (59, first page only: noise); "gouldstone finchingfield" (8); "sampfor
 2. **Cholera at Great Sampford, November 1866** (the outbreak the drafted Chapter Three states in one line). Chelmsford
    Chronicle, Friday 9 November 1866, p. 5, "GREAT SAMPFORD. MYSTERIOUS CASE.": on Saturday (3 November) a pugilist,
    William Winterflood, a stranger, lodged at the Bull Inn and died of "Asiatic cholera" about 6 p.m. after sixteen
-   hours' illness; a parish meeting at the Lion Inn; a post-mortem; then a boy of ten, Henry Andrews, "farm laborer"
+   hours' illness [CORRECTED 21 October 2026: he ARRIVED on the Saturday and died on the Sunday, 4 November]; a parish meeting at the Lion Inn; a post-mortem; then a boy of ten, Henry Andrews, "farm laborer"
    himself, at work with his father [CORRECTED from the image, 20 October 2026], died on the Tuesday morning after about eight hours; his house reported for "very foul drainage" by the
    relieving officer and inspector of nuisances, Mr. "Carslake". Same paper, 23 November 1866, p. 5: "about 18 cases
    and seven or eight deaths"; "A large fire is kept burning in the village where the disease is most prevalent; the
@@ -244,7 +244,7 @@ was opened and read.
 
 What this gives (to confirm on the full images before use):
 - Thomas is listed only as a blacksmith in 1862, 1867 and 1871, and first as a beer retailer in 1874. With the census
-  ("Blacksmith & Publican", White House, Moor End, April 1871), the beer-selling began about 1870-71.
+  ("Blacksmith & Beer Retailer", corrected 21 October 2026, White House, Moor End, April 1871), the beer-selling began about 1870-71.
 - **George Wright, who bought the house and smithy Thomas rented at the auction of August 1867 (item 1), is himself
   listed as a blacksmith at Great Sampford in the 1871 directory.** The buyer set up in the trade; Thomas moved out
   to Moor End and took to selling beer. Inference only: whether Wright took over Thomas's forge, or Thomas worked for

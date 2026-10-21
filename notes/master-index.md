@@ -943,7 +943,7 @@ Book section: Part One
 **Great Sampford Post Office Directory, 1874 (via historyhouse.co.uk)**
 External: historyhouse.co.uk transcribed listing
 Status: READ
-Key content: Independently confirms Thomas Gouldstone's dual trade — listed separately as "beer retailer" and "blacksmith," corroborating the 1871 census "Blacksmith & Publican" occupation from a non-census source. Surfaces a previously unrecorded "Benjamin Gouldstone, shoe maker" — relationship unconfirmed. Names Cock Inn licensee (William Piggott), Black Bull licensee (Sarah Davis, likely the same house as the OS sheet's "Bull Inn"), and confirms straw-plait and other village trades contemporary with the 1871 census.
+Key content: Independently confirms Thomas Gouldstone's dual trade — listed separately as "beer retailer" and "blacksmith," corroborating the 1871 census "Blacksmith & Beer Retailer" occupation (corrected 21 Oct 2026; not "Publican") from a non-census source. Surfaces a previously unrecorded "Benjamin Gouldstone, shoe maker" — relationship unconfirmed. Names Cock Inn licensee (William Piggott), Black Bull licensee (Sarah Davis, likely the same house as the OS sheet's "Bull Inn"), and confirms straw-plait and other village trades contemporary with the 1871 census.
 Book section: Part One
 
 **Historic England List Entry 1305447 — Red Lion Inn, Finchingfield Road, Great Sampford**

@@ -516,3 +516,5 @@ Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; TNA HO 145
   weekend:". The Dispatch's "six or seven hours" kept, attributed (the Essex Weekly News's "nearly three hours" not
   set against it, as recommended). FLAG for Rik: the chapter's first sentence, "took a week", now sits beside an
   exact date eleven days after the sentence (14 to 25 September); left unchanged, his to rule.
+- 21 October 2026 (Rik): "took a week" STANDS. The Home Secretary's week is the time to decide; the days to write and
+  send the letter come after it, so the eleven days to the twenty-fifth are no conflict. Flag closed.
