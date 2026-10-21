@@ -1,0 +1,46 @@
+Source image: sources/images/Media-coverage/Part-Three/Daily_Telegraph__Courier_Londo_18_September_1883_0005_Clip.jpg
+(544 x 995, one column)
+Newspaper: The Daily Telegraph (London)
+Date: Tuesday, 18 September 1883 (the filename's and Findmypast's: viewer BL/0001112/18830918, page 5, article 057)
+Page/column/article: page 5; a letter under "THE CONVICT GOULDSTONE."
+Transcription scope: the whole clip, one letter.
+Transcription status: Complete.
+CHECKED AGAINST THE IMAGE IN FULL, 20 October 2026: every line read from four overlapping strips, each enlarged twice
+(Lanczos). End-of-line hyphens closed up ("repre-senting", "examina-tion", "chil-dren", "indepen-dent").
+THIS IS THE ORIGINAL of Savage's reply to "One of the Jury" (live_lists.md, section 4, item 35), held until now only
+as the Walthamstow and Leyton Guardian's reprint of 22 September and through Clark Bell. The juror's letter it answers
+is the Daily Telegraph of 17 September (transcribed/Daily_Telegraph_17_September_1883_Transcription.txt, held since
+3 October 2026).
+
+THE CONVICT GOULDSTONE.
+
+TO THE EDITOR OF "THE DAILY TELEGRAPH."
+
+SIR—I feel bound to take notice of the letter written to you by "One of the Jury" in this case, as there seems to be
+great danger that the prisoner will suffer through misunderstanding of my opinion. The skilful cross-examination of
+Mr. Poland gave me no opportunity of representing my own opinion on the man's sanity. I was forced to own that in a
+short interview, from the facts seen by myself, I could not have signed a certificate of insanity. I doubt not but
+that if I had expressed a willingness to sign one that the haste of the proceeding would have been used as an
+argument against its value.
+
+I did say, however, that, taking my examination with the history of the man and the crime, I had no doubt that he was
+of unsound mind. The judge opposed strongly attempts to get my opinion, believing the common sense of a jury to be the
+best judge of sanity. This is all very well if the facts are explained by one understanding their value, and not
+otherwise. That the patient knew he had killed his children, and that he knew he might be hanged, I could not deny,
+but knowledge of this kind does not exclude insanity.
+
+I have patients of the most insanely dangerous class here who have said the same things which Gouldstone said, and
+who know as much as he does. Yet they are mad. William Gouldstone ought not to suffer without a careful independent
+investigation of his history and the history of his crime, one not confined to an examination of twenty minutes or
+half an hour. I am, yours truly,
+
+GEO. H. SAVAGE, M.D.
+Bethlehem Hospital, Sept. 17.
+
+COLLATION with the Walthamstow and Leyton Guardian's reprint (22 September 1883, transcribed there, lines 288-307):
+- Telegraph "I had no doubt that he was of unsound mind"; Guardian "I have no doubt". The original is "had".
+- Telegraph "the common sense of a jury"; Guardian "of the jury". The original is "a".
+- Telegraph "I am, yours truly," with no dash before it; Guardian "—I am, yours truly,". Punctuation only.
+- Otherwise word for word. The Guardian's quotation marks round the letter are its own.
+Any quotation in the chapters should follow this text (CHAPTER_16_skeleton.md: "Savage's reply to the juror as
+printed ... held only via the Guardian and Clark Bell").

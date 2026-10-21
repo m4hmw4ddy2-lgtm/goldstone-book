@@ -1,0 +1,45 @@
+Source image: sources/images/Media-coverage/Part-Three/London_Daily_Chronicle_15_September_1883_0003_Clip.jpg (1186 x
+5311; "THE WALTHAMSTOW TRAGEDY. SENTENCE OF DEATH.", page 3)
+Newspaper: The Daily Chronicle (London)
+Date: Saturday, 15 September 1883 (Findmypast BL/0005049/18830915, page 3, article 009)
+Transcription scope: PART ONLY: the summing-up, the verdict and the sentence, from "Mr. Justice Day, in summing up"
+to "removed from the bar." The rest of the report is NOT transcribed.
+Transcription status: partial, as above.
+CHECKED AGAINST THE IMAGE, 20 October 2026: these lines, from four strips enlarged twice. Every word legible.
+End-of-line hyphens closed up ("des-troyed", "there-fore", "per-fectly", "mur-der", "pro-visions", "commit-ted",
+"ver-dict", "ad-dressed", "con-victed", "pri-soner").
+
+Mr. Justice Day, in summing up the case to the jury, observed that the point they had to decide—as there could be no
+doubt that the prisoner had destroyed the lives of his five children in the way stated—was not whether the prisoner
+was sane or insane, but whether at the time he committed the crime, he was in such a condition of mind as not to know
+that he was killing his children or that he was not doing wrong. This had been solemnly decided by the judges many
+years ago to be the law, and he therefore informed them as to the real question they had to decide. The learned judge
+then directed the attention of the jury to the medical evidence, and to the fact that it was admitted by Dr. Savage
+that he had no doubt that when the prisoner killed his children he knew perfectly well that he was committing the
+crime of murder, and that death was the penalty for the crime. His lordship in conclusion explained that by the
+provisions of a recent Act of Parliament, if they found that the prisoner was insane at the time he committed the
+act, they would have to return a special verdict stating that the prisoner did commit the offence, but that he was
+insane at the time.
+
+The jury retired at twenty minutes past five o'clock to deliberate upon their verdict. After being absent about a
+quarter of an hour, they returned and found the prisoner guilty of wilful murder.
+
+Mr. Justice Day, having put on the black cap, addressed the prisoner, and said that he had been convicted upon
+overwhelming evidence of the crime of wilful murder, and the jury had no alternative but to find him guilty of that
+offence. It was not his practice to make any observations that might add to the misery of a man in his position, and
+all he should do was to exhort him to seek for mercy from the quarter from which alone it could be obtained. His
+lordship, who was a good deal affected, then passed sentence of death in the usual form, and the prisoner, who
+presented a perfectly calm and composed appearance, was removed from the bar.
+
+NOTES (not for prose without a ruling):
+- SHARED COPY: this is the agency report also printed by the Daily Telegraph of 15 September
+  (transcribed/Daily_Telegraph_15_September_1883_Transcription.txt), with small differences: the Chronicle names
+  "Dr. Savage" where the Telegraph has "one medical gentleman"; "he knew perfectly well"; "no alternative but to find
+  him guilty"; "all he should do" ("say"); "the quarter" ("a quarter"); "perfectly calm and composed" ("perfectly
+  composed"). One witness with the Telegraph (live_lists.md, section 6, shared copy), not a new one.
+- Contradiction 93: no words from the prisoner after the verdict (like the Telegraph).
+- Contradiction 99: the "sane or insane ... killing his children or ... not doing wrong" version (the agency's).
+- Contradiction 94 (the Trial of Lunatics Act at the trial): the special verdict explained in conclusion, as in the
+  Telegraph.
+- It is the Chronicle's agency copy that attributes to Savage the admission the Telegraph gives to "one medical
+  gentleman": for Rik, against the Old Bailey account, before any use.

@@ -1,0 +1,118 @@
+Source image: sources/images/Media-coverage/Part-Three/Daily_Telegraph__Courier_Londo_19_September_1883_0003_Clip.jpg
+(634 x 4006, one column; a wider crop of the same column, "..._Clip (1).jpg", 1155 x 5215, was used for one date)
+Newspaper: The Daily Telegraph (London)
+Date: Wednesday, 19 September 1883 (Findmypast viewer BL/0001112/18830919, page 3, article 030)
+Page/column/article: page 3; three letters under "THE CONVICT GOULDSTONE."
+Transcription scope: the whole item, three letters, to the rule above "THE SUICIDE IN A TUNNEL."
+Transcription status: Complete.
+CHECKED AGAINST THE IMAGE IN FULL, 20 October 2026: every line read from thirteen overlapping strips, each enlarged
+twice (Lanczos). End-of-line hyphens closed up except in words hyphenated in their own right ("summing-up",
+"fellow-creature", "fellow-workmen", "common-sense", "Thames-street", "Cavendish-place"). Kennard's date read at five
+times: "Sept. 18." (Findmypast's OCR "Bept. 16" is wrong.)
+NEW TO THE PROJECT: the three letters, and above all the third, the original of the foreman's statement of the judge's
+direction, held until now only through Clark Bell's "card" (Contradiction 99; live_lists.md, section 4, item 35).
+
+THE CONVICT GOULDSTONE.
+
+TO THE EDITOR OF "THE DAILY TELEGRAPH."
+
+SIR—The summing-up of Mr. Justice Day and conviction of the unfortunate man Gouldstone, now under sentence of death
+for the murder of his five children at Walthamstow, naturally draw attention to the existing law relating to trials of
+persons in those cases where the "plea of insanity" has been raised.
+
+In England, if a person, either of sound or unsound mind, commits a murder, and at the time of the act it can be shown
+to the satisfaction of the jury that he was conscious of the gravity of what he was doing, and knew what the penalty
+for the crime was, he is held accountable for his actions and renders himself amenable to the law of the land.
+Contrary opinions have from time to time been expressed on this question, both by medical and legal authorities, with
+suggestions for amendment of the law dealing with criminal lunatics; but the fact stands out in all its awfulness that
+there is a great probability of a poor criminal lunatic, however insane he may be, being handed over to the public
+executioner simply because he can discriminate between what is right and what is wrong, the crime being committed
+with a diseased and disordered brain, and, to all who have studied mental physiology, considered as an irresponsible
+being.
+
+If we examine the inmates confined in any asylum, with the exception of the idiots and demented cases, we find there
+are few, if any, who cannot distinguish between right and wrong. Are we, therefore, to hold these certificated
+patients as responsible beings? Mr. Justice Day informed the jury that the law considers every person of sound mind
+unless legally proved to be otherwise. This, in common parlance, means that before an individual can be properly
+pronounced non compos mentis a Commission of Lunacy must be first held upon the case, and the pronounced mental
+condition must depend upon the verdict at such inquiry. In England a Commission of Lunacy is rarely held, and is only
+insisted upon where a question of dealing with property arises. Of the 77,121 certificated persons in asylums at the
+present day, 356 have only been found lunatic by such inquisition, the law, it may be presumed, considering the
+remaining 76,765 as responsible individuals, and answerable for any infringement of our statutes. No comments are
+required to show the fallacy of such a law, or the necessity for the amendment and alteration of it.
+
+For upwards of forty years the judges of our land have been obliged to rule as Mr. Justice Day did in the case of
+Gouldstone.
+
+In discussing briefly the case at issue, I would draw attention to the evidence of Dr. Savage, resident superintendent
+of Bethlehem Hospital, his expressed opinion being that he considered "his mind was unsound at the time the act was
+committed," though apparently knowing the difference between right and wrong. Another strong point is the hereditary
+predisposition to insanity. His mother was of unsound mind at the time of his birth, whilst other members of his
+family, closely related to himself, were and are similarly affected. The case is one where it appears to me strict
+inquiry should be made before allowing the extreme penalty of the law to take its course, which it surely will, unless
+the authorities at the Home Office ignore the rule of law as mentioned above, and show clemency to a fellow-creature
+whose mind was considered by Dr. Savage to be "unsound at the time the act was committed," an opinion not only derived
+from hearsay evidence, but formed by Dr. Savage as a result of a personal examination.—Faithfully yours,
+
+FORBES WINSLOW.
+14, Cavendish-place, Sept. 17.
+
+TO THE EDITOR OF "THE DAILY TELEGRAPH."
+
+SIR—I am very happy to see that the true issue of this case is slowly but surely being placed before the public. As
+the employer of William Gouldstone, I am as sure as are his foreman and shopmates that he was insane when he committed
+the act. The ruling of the judge, although, doubtless, a proper exposition of the law, precluded the jury from
+bringing in any other verdict than that of wilful murder. Had I myself been on the jury I should have felt compelled
+to return that verdict.
+
+That the man knew what would be the consequences of his act there can be no possible doubt; but that the chief
+physician of Bethlehem Hospital should be prevented from telling the jury that, having examined Gouldstone and having
+heard the evidence, he believed him to be of unsound mind, and that the jury should not be permitted to receive my
+evidence to the effect that it was the unanimous opinion of Gouldstone's fellow-workmen that he was insane, may perhaps
+be law, but it will be for the public to determine whether it is justice.
+
+Sir William Harcourt will have the whole matter carefully and fully laid before him, and it is satisfactory to know
+that his decision will not be based upon the dry letter of the law alone. This appears, indeed, to be a case in which
+law and common-sense are at variance.—Yours truly,
+
+H. J. KENNARD.
+67, Upper Thames-street, Sept. 18.
+
+TO THE EDITOR OF "THE DAILY TELEGRAPH."
+
+SIR—The judge presiding at the Gouldstone trial told us (the jury) that the law regarding insanity was this, "That if
+a person was proved to be of sound mind up to the time of committing a certain deed; if he knew the nature of that
+deed and the penalty it involved, and if after this he still appeared of sound mind, we were bound according to this
+law to say such a person was not insane." What was the evidence? For five years he had worked at the Falkirk Iron
+Works, and had always done his work satisfactorily like a sane man. The seven witnesses who were called from these
+works admitted this, and they also stated that at intervals he had said he wished he was dead, that he would like to
+throw himself in front of a train or down the lift hole if he were sure of killing himself without any pain. He
+suffered from a rupture, and these remarks were often made when it pained him. When the great addition to his family
+came, he appeared somewhat upset, but did not mention the fact to any of his fellow-workmen. He then resolved to rid
+himself of his children, and intended at first to do it with a revolver, but thought that would make too much noise,
+so he planned it the other way, going out first, as he said, to have an extra drop of drink to nerve him to the job.
+When it was over he said, "Now I shall have the rope." The constable who took him, and the officer to whom he was
+handed in prison, stated that he seemed perfectly aware of what he had done, and quite sane. We did not misunderstand
+Dr. Savage, who said he would not certify him as insane, though he had examined him, but he "considered he was of weak
+mind owing to his slowness of appreciation of questions concerning the crime of which he was accused." The father and
+a sister stated that his mother and an aunt were at times of unsound mind and required looking after, but neither of
+them had ever been confined as lunatics. There was, however, a cousin of his father's on the male side who had been a
+soldier, and died in a lunatic asylum. These were the salient points of the evidence, and upon this the jury were
+quite agreed that the case of insanity was not made out, and therefore were compelled to return a verdict of guilty.
+Whatever now may be the end of this poor unhappy man, I hope that his wife, whom he appears to have been fond of to the
+last, will not suffer from want in this awful calamity; and should a subscription be made for her, I shall be very
+pleased to assist it.—Yours obediently,
+
+THE FOREMAN OF THE JURY.
+
+NOTES (not for prose without a ruling):
+- "non compos mentis" is in italics in the print.
+- The foreman's letter is a juror's account of the evidence and the direction, published after the verdict: it is
+  what one juror says the jury understood, not a record of the summing-up (Contradiction 99: now FIVE versions, the
+  foreman's in his own printed words). Several of its "facts" are a juror's memory of the evidence and some are
+  wrong or unsworn as stated: e.g. "For five years he had worked at the Falkirk Iron Works" (Graves: four years and a
+  half); "a sister" (the defence called William's father and his sister?: to check against the Old Bailey account
+  before any reliance); "a cousin of his father's ... died in a lunatic asylum"; the revolver; "an extra drop of
+  drink". PRESS ONLY, as a juror's letter: never evidence for what happened.
+- Kennard: the employer (dramatis_personae.md, "Real name Kennard"); dated the 18th, printed the 19th.
+- Winslow: Forbes Winslow, of 14 Cavendish Place; his figures (77,121 certificated; 356 by inquisition) are his.

@@ -1,0 +1,84 @@
+Source image: sources/images/Media-coverage/Part-Three/Essex_Weekly_News_28_September_1883_0008_Clip.jpg (565 x 2339,
+one column)
+Newspaper: Essex Weekly News (Chelmsford)
+Date: Friday, 28 September 1883 (Findmypast viewer BL/0004236/18830928, page 8, articles 124-125)
+Page/column/article: page 8; "THE WALTHAMSTOW MURDERS." with five sub-heads, to the rule above "THE HARLOW BURIAL
+SCANDAL."
+Transcription scope: the whole item.
+Transcription status: Complete.
+CHECKED AGAINST THE IMAGE IN FULL, 20 October 2026: every line read from eight overlapping strips, each enlarged twice
+(Lanczos). The print is heavy but every word is legible. End-of-line hyphens closed up ("execu-tion", "candi-dates",
+"consider-ation", "Com-missioners", "Middle-sex"), except "Oxley-Parker", which the paper hyphenates across the line
+and also prints unhyphenated above ("Mr. J. Oxley Parker").
+THE EARLIER WITNESS for Contradiction 119: the Walthamstow and Leyton Guardian of 6 October reprints the "MEDICAL
+EXAMINATION" paragraph, changing "on Wednesday" to "on the 26th ult."
+
+THE WALTHAMSTOW MURDERS.
+
+RESPITE OF THE CONDEMNED MAN.
+
+On Tuesday last the High Sheriff of Essex (Mr. J. Oxley Parker) received a letter from the Home Secretary signifying
+the Queen's commands that the sentence of death passed on William Gouldstone for the murder of his five children, at
+Walthamstow, be respited until Monday, October 8th, in order that medical enquiry may be instituted as to his sanity.
+Monday, the 1st October, had been fixed for the date of his execution.
+
+MEDICAL EXAMINATION OF THE CONVICT.
+
+Dr. Orange, Superintendent of the Broadmoor Lunatic Asylum, and Dr. Clarke, visited Her Majesty's Prison at
+Springfield on Wednesday for a medical examination of the convict. The interview lasted nearly three hours. Mr. E.
+Hunt Carter, Gaol Surgeon, and the Rev. W. F. Lumley, Chaplain, were present during part of the examination. Drs.
+Orange and Clarke afterwards had an interview with the convict's brother who happened to be visiting at the Gaol on
+that day.
+
+REPORTED COMMUTATION OF SENTENCE.
+
+The British Medical Journal is informed that the Home Secretary intends to commute the sentence on the convict
+Gouldstone to penal servitude for life, the evidence of insanity being sufficient to justify a modification of the
+sentence.
+
+A THAXTED SURGEON ON THE CULPRIT'S SANITY.
+
+Mr. Wm. Sunderland, of Thaxted, writes:—
+
+Sir,—As one of the medical witnesses in this late trial, will you please allow me, in The Times, to say that the Jury
+evidently understood Dr. Savage's answer "No," to Mr. Poland's question—"From your conversation with Gouldstone, could
+you certify him to be insane," to imply that he did not consider him to be insane at the time; whereas Dr. Savage's
+opinion was that he was insane, but that from his interview with Gouldstone he would be unable to fill up the
+certificate required by the Lunacy Commissioners. "Certifying" a lunatic in accordance with these requirements is in
+most cases a difficult task, and properly. A medical man may have a strong opinion, but he must have strong facts to
+satisfy the Commissioners. Dr. Savage's opinion was firm, but his facts being meagre he could not "certify" to
+Gouldstone's insanity, therefore he most properly replied "No" to Mr. Poland's question. Gouldstone is as insane to the
+medical profession by his massacre of his five children as if he had sat in a corner for a month with a paper crown
+and called himself the Emperor of all the Russias; he is not legally insane until some medical man has been witness of
+this massacre, so it appears from the verdict. The hereditary tendency to insanity, though ridiculed in Court, has a
+most important bearing on the case, and will no doubt receive its due consideration from the advisers of the Home
+Secretary.—Truly yours,
+
+Thaxted, Essex.                                        WM. SUNDERLAND.
+
+THE CHOICE OF A HANGMAN.
+
+The Sheriffs of London and Middlesex—Alderman De Keyser and Alderman Savory—and the High Sheriff of Essex, Mr. J.
+Oxley-Parker, were on Monday occupied for two hours in examining candidates for the office of public executioner.
+Seventeen persons presented themselves, and five were selected for an interview, when all the details of the
+appointment were discussed. One of the men, James Berry, of Thorp-street, Shearbridge, Bradford, who was sanguine that
+he would be appointed, once assisted Marwood at an execution at Leeds. Another of the selected candidates is a
+builder, residing at Lincoln, who has also, as he stated, "been with Marwood."—A telegram received at Bradford on
+Monday night stated that Berry had received the appointment of public hangman for Newgate. Berry, who is a shoemaker,
+31 years of age, formerly served in both the Bradford Borough police force, and in the County force. When he left
+Bradford, on Sunday he took with him a silk rope, which had been specially plaited for him, fitted with a special
+loop. He contended that death by this rope would be speedier than by the method which Marwood practised. Berry's
+statement that he had been selected for the post is incorrect, the authorities having the matter still under
+consideration. Berry, however, and a man named Taylor, of Lincoln, have been reserved for final selection.
+
+NOTES (not for prose without a ruling):
+- "British Medical Journal" and "The Times" are in italics in the print.
+- "On Tuesday last", in a Friday paper of 28 September = Tuesday 25 September: the day the High Sheriff received the
+  first respite letter (CHAPTER_16_skeleton.md had "date not given anywhere"). One witness.
+- "on Wednesday" = Wednesday 26 September: the examination (Contradiction 119). "nearly three hours" against the
+  Sunday Dispatch's "six or seven hours".
+- Sunderland's letter is a reprint of his letter to the Times (already held from the Times: CHAPTER_16_skeleton.md;
+  "in The Times" stands in the reprint). Collate against the Times copy before any quotation; not done here.
+- The brother is not named.
+- The hangman: the High Sheriff of Essex was among those choosing Marwood's successor in the week before the
+  execution first fixed for 1 October. Press only.

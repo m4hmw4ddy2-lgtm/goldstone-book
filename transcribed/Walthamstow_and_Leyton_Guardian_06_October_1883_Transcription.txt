@@ -1,20 +1,22 @@
-Source image: NOT YET IN THE REPO. Read 20 October 2026 from the Findmypast viewer (BL/0004053/18831006, page 5,
-article 050), enlarged on screen. A clip is wanted: Walthamstow_and_Leyton_Guardia_06_October_1883_0005_Clip.jpg.
+Source image: sources/images/Media-coverage/Part-Three/Walthamstow_and_Leyton_Guardia_06_October_1883_0005_Clip.jpg
+(719 x 1137). First read 20 October 2026 from the Findmypast viewer (BL/0004053/18831006, page 5, article 050).
 Newspaper: Walthamstow and Leyton Guardian
 Date: Saturday, 6 October 1883
 Page/column/article: page 5, column 2 (the column left of "ST. JAMES'S, WALTHAMSTOW"), headed "THE WALTHAMSTOW
 MURDERS.", with three sub-heads.
 Transcription scope: the whole item.
-Transcription status: PROVISIONAL. Read from the screen image, every line; the print is heavy and some letters are
-filled in. NOT a recorded image check: to be checked once against the clip when it is in the repo, before quotation.
-Uncertain readings are marked [?]. Findmypast's OCR for this item is unusable and was not relied on.
+Transcription status: Complete.
+CHECKED AGAINST THE IMAGE IN FULL, 20 October 2026 (the clip, in four overlapping strips enlarged twice). The print is
+heavy and inked in; every word is legible. Two readings corrected from the screen reading: "Mr. E. Hunt Carter" (not
+"R."), as the Essex Weekly News also prints it; and "the 26th ult." stands (no longer marked uncertain).
+Findmypast's OCR for this item is unusable and was not relied on.
 
 THE WALTHAMSTOW MURDERS.
 
 MEDICAL EXAMINATION OF THE CONVICT.
 Dr. Orange, Superintendent of the Broadmoor Lunatic Asylum, and Dr. Clarke, visited her Majesty's Prison at
-Springfield on the 26th [?] ult. for a medical examination of the convict. The interview lasted nearly three hours.
-Mr. R. [?] Hunt Carter, Gaol Surgeon, and the Rev. W. F. Lumley, Chaplain, were present during part of the
+Springfield on the 26th ult. for a medical examination of the convict. The interview lasted nearly three hours.
+Mr. E. Hunt Carter, Gaol Surgeon, and the Rev. W. F. Lumley, Chaplain, were present during part of the
 examination. Drs. Orange and Clarke afterwards had an interview with the convict's brother, who happened to be
 visiting at the Gaol on that day.
 
@@ -36,8 +38,9 @@ days, when Gouldstone will be removed to Broadmoor Asylum.
 
 NOTES (not for prose without a ruling):
 - "Evening Standard" is in italics in the print.
-- SOURCE: the first part is reprinted from the Essex Weekly News of 28 September 1883, p. 8 (which has "on Wednesday"),
-  so it is one witness with that paper (Contradiction 119, ADDED).
+- SOURCE: the whole item is the Essex Weekly News's copy: the first part from 28 September, p. 8 (which has "on
+  Wednesday"), and the respite and the Evening Standard paragraph from 5 October, p. 5 (word for word). One witness
+  with that paper (Contradiction 119).
 - NEW: the date and length of the examination: "the 26th ult." (Wednesday 26 September 1883) and "nearly three
   hours". The Sunday Dispatch of 30 September has "six or seven hours" (CHAPTER_17_skeleton.md, day pins); the
   Times of 2 October has "last week". Logged as Contradiction 119.
