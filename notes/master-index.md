@@ -122,8 +122,33 @@ Status: Transcribed 22 Sep 2026; complete.
 Key content: The Law Times on the case, reprinted: the conviction "inevitable" under the law as it stood, and the case for an irresistible-impulse test.
 Book section: Medical-campaign chapter
 
+**Daily Telegraph, 20 September 1883: Elizabeth's statement, first printing** — `transcribed/Daily_Telegraph_20_September_1883_Statement_of_his_Wife_transcription.txt`
+Status: Checked in full against the image, 20 Oct 2026.
+Key content: the original of her statement and of William's letter of 15 September; "yesterday (Tuesday)". Collation in notes/elizabeth_statement_collation.md.
+Book section: Chapter Sixteen
+
+**Essex Weekly News, 28 September 1883, p. 8** — `transcribed/Essex_Weekly_News_28_September_1883_p8_Walthamstow_Murders_transcription.txt`
+Status: Complete; checked against the clip in full, 20 Oct 2026.
+Key content: first respite letter received Tuesday 25 Sep; Orange and Clarke at Springfield on Wednesday 26 Sep, "nearly three hours", the brother visiting; the BMJ's commutation rumour; Sunderland's letter (reprint); the choice of a hangman (Berry).
+Book section: Reprieve chapter (Sixteen/Seventeen)
+
+**Essex Weekly News, 28 September 1883, p. 5 (leader)** — `transcribed/Essex_Weekly_News_28_September_1883_p5_leader_Fate_of_Gouldstone_transcription.txt`
+Status: Complete; checked in full, 20 Oct 2026. "THE FATE OF GOULDSTONE": the respite; the Times and Telegraph divided; "the man was mad"; predicts life-long confinement.
+
+**Essex Weekly News, 5 October 1883, p. 5** — `transcribed/Essex_Weekly_News_05_October_1883_p5_transcription.txt`
+Status: Complete; checked in full, 20 Oct 2026. Leader "GOULDSTONE'S FATE DECIDED" (the Law Journal quoted); the further respite and the Evening Standard paragraph (the Guardian's source, 6 Oct).
+
+**Daily Telegraph, 18 September 1883 (Savage's reply)** — `transcribed/Daily_Telegraph_18_September_1883_Savage_reply_transcription.txt`
+Status: Complete; checked in full, 20 Oct 2026. The original of the letter the Guardian reprinted on 22 Sep.
+Book section: Chapter Sixteen
+
+**Daily Telegraph, 19 September 1883 (Winslow, Kennard, the Foreman of the Jury)** — `transcribed/Daily_Telegraph_19_September_1883_letters_Winslow_Kennard_Foreman_transcription.txt`
+Status: Complete; checked in full, 20 Oct 2026.
+Key content: the foreman's own account of the direction and the evidence (Contradiction 99); the employer's letter.
+Book section: Chapter Sixteen
+
 **Walthamstow and Leyton Guardian, 6 October 1883** — `transcribed/Walthamstow_and_Leyton_Guardian_06_October_1883_Transcription.txt`
-Status: PROVISIONAL, 20 Oct 2026, read from the Findmypast viewer; clip wanted before quotation.
+Status: Complete; checked against the clip in full, 20 Oct 2026. A reprint of the Essex Weekly News, 28 Sep, p. 8.
 Key content: Orange and Clarke at Springfield on 26 September, "nearly three hours", the convict's brother visiting that day; the Orange paragraph credited to the Evening Standard of 1 October; the further respite (Contradiction 119).
 Book section: Reprieve chapter (Seventeen)
 

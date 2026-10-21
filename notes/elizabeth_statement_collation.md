@@ -23,7 +23,7 @@ way in each:
 | Western Daily Press | 1,075 |
 | Walthamstow and Leyton Guardian | 804 |
 
-**The Essex Weekly News is the fullest and is the copy text** until the original is found. The Western
+**The Essex Weekly News is the fullest and is the copy text** until the original is found. [SUPERSEDED 21 October 2026: the original, the Daily Telegraph of 20 September 1883, is now the copy text (Rik's ruling); see notes/elizabeth_statement_collation.md, RULED 21 October.] The Western
 Daily Press cuts one long block and marks the cut with an ellipsis. The Guardian cuts five passages and
 marks nothing. Where two or three print the same passage they agree closely, and the differences are of the
 kind compositors introduce.
@@ -148,3 +148,50 @@ family". The Guardian cuts the passage. Chapter Five quotes "burden", following 
 word, by Rik's decision: "burthen" would read as a typo. Everything else Part One quotes from the statement follows the
 Essex Weekly News.
 
+
+## 20 October 2026: THE ORIGINAL FOUND, AND COLLATED
+**The Daily Telegraph, Thursday 20 September 1883, p. 5** ("THE CONVICT GOULDSTONE. STATEMENT OF HIS WIFE."):
+`transcribed/Daily_Telegraph_20_September_1883_Statement_of_his_Wife_transcription.txt`, checked against the image in
+full, every word, the same day. It reads "yesterday (Tuesday)": written Wednesday 19th, printed Thursday 20th
+(Contradiction 116, settled). It is the text the three reprints derive from.
+
+**Collated word by word (script, then each difference checked on both images) against the Essex Weekly News copy
+text:** 1,308 words against 1,306. The Essex Weekly News is a near-complete copy. Every difference:
+
+| Daily Telegraph (original) | Essex Weekly News (copy text so far) | Kind |
+|---|---|---|
+| "21s a week" | "21s. a week" | stop |
+| "went to church" | "went to Church" | capital |
+| "and **were** never tired listening" | "and never tired listening" | **a word dropped by the EWN** |
+| "any one else" | "anyone else" | spacing |
+| "till after **twelve**" | "till after 12" | figure for word |
+| "and **yesterday (Tuesday)** in the prison" | "and **on Tuesday last** in the Prison" | the weekly's normalisation (as predicted above) |
+| letter: "the **Dreadfull** news" | "the Dreadful news" | spelling |
+| letter: "I am **thankfull**" | "I am thankful" | spelling |
+| letter: "as **Well** as myselfe" | "as well as myselfe" | capital |
+| letter: "Come and **See** Me" | "Come and see Me" | capital |
+| letter: no quotation marks round the letter; "Chelmsford, Essex, Sept. 15" | quotation marks; "Essex Sept." | punctuation |
+
+The Telegraph also has "the **burthen** of the family" (as the EWN; the Western Daily Press's "burden" is that paper's
+own, which Chapter Five follows by Rik's decision of 1 October).
+
+**For Rik, since Chapters Five and Sixteen are approved (nothing changed):** the quoted text in the chapters follows the
+Essex Weekly News. Where it differs from the original:
+- Chapter Five: "21s. a week" (original "21s"); "went to Church" (original "church"); "burden" (original "burthen",
+  ruled 1 October).
+- Chapter Sixteen (the statement and letter quoted whole): "21s."; "Church"; "burden"; "and never tired listening"
+  (original "and were never tired"); "anyone else" ("any one"); "till after 12" ("twelve"); "on Tuesday last in the
+  Prison at Chelmsford" ("yesterday (Tuesday) in the prison"); in the letter "Dreadful" ("Dreadfull"), "thankful"
+  ("thankfull"), "as well as myselfe" ("Well"), "Come and see" ("See").
+RECOMMEND: make the original the copy text and bring Chapter Sixteen's quotation into line with it (the rule: a text
+quoted in full is quoted from its checked copy text; the original now exists). The one reading that needs a choice is
+"yesterday (Tuesday)": it is what she wrote, and it dates her writing to the Wednesday, which the chapter already
+assumes; it reads naturally inside the quotation. "Burthen" stays a ruling of Rik's.
+
+**William's letter, a fourth printing:** the Telegraph's spellings ("Dreadfull", "thankfull", "Happey", "myselfe",
+"Recive", "than", "Doest", "Rember", "Liveing", "Belive", "Chappeling", "shell") are the nearest we have to the holograph,
+but still a compositor's. The warning above stands. Note also "Cousin Gouldstone in Mash-street" and "Mr. G.
+Sampford" (as in the Guardian).
+
+**RULED 21 October 2026 (Rik: "As recommended"):** the Daily Telegraph of 20 September is the copy text from now on; Chapters Five
+and Sixteen brought into line ("burden" kept by the ruling of 1 October). Log: CHAPTER_16_skeleton.md.

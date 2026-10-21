@@ -39,7 +39,7 @@ Primary sources, 14 to 30 September, every file in full, each checked against li
 | Walthamstow and Leyton Guardian, 22 Sep (letters, press opinions, statement, Robinson, Chelmsford) | 22 Sep | summing-up 3 Oct; letters, Robinson, Tuesday paragraph 8 Oct (gap filled; Smith misattribution corrected) | statement abridged: do not quote from it (collation); "5ft. 6in." a slip (8/53) |
 | Guardian "26 Sep" (`Guardian_26_Sep.txt`) | 26 Sep | **paper and date not visible on clip** | see FINDINGS, 9 |
 | Walthamstow and Leyton Guardian, 29 Sep (the Law Times again) | 29 Sep | whole, 8 Oct; agrees | same text as the Times of 21 Sep: one witness |
-| Essex Weekly News, 21 Sep | 21 Sep | trial report 3 Oct; Chelmsford head 7 Oct; height line today (CORRECTIONS, A) | statement copy text (collation) |
+| Essex Weekly News, 21 Sep | 21 Sep | trial report 3 Oct; Chelmsford head 7 Oct; height line today (CORRECTIONS, A) | statement copy text (collation) until 21 Oct 2026; now the Daily Telegraph of 20 Sep (log, 21 Oct) |
 | Western Daily Press, 18 and 21 Sep | 18, 21 Sep | 21st: statement opening only, 1 Oct; 18th: **no record** | 18th = Savage summary + workmen's letter reprinted |
 | Dundee Courier, 21 Sep | 21 Sep | whole, 8 Oct; agrees | Leeds Mercury's London correspondent; "The Daily Telegraph says" (live_lists 29) |
 | Pall Mall Budget, 21 Sep | 21 Sep | **no record** | summary only; misreports Thomas |
@@ -488,3 +488,17 @@ G. APPLIED 11 October 2026. Was: live_lists.md, section 6: add the Times 26 Sep 
   the choice nominally the Sheriff of Essex's, in practice the Sheriffs of London and Middlesex's; "if executed at
   all". Bears on the chapter's hangman paragraph (movement four). Image-checked; press only. Add, or leave the
   approved text as it is?
+
+- 21 October 2026 (Rik: "As recommended"): the Daily Telegraph of 20 September 1883, the original printing, becomes the copy text
+  for Elizabeth's statement and for William's letter of 15 September as the chapter quotes them
+  (transcribed/Daily_Telegraph_20_September_1883_Statement_of_his_Wife_transcription.txt, checked in full; collation in
+  notes/elizabeth_statement_collation.md, 20 October). Applied to chapters/CHAPTER_16.md:
+  "As the Essex Weekly News printed it" -> "As the Daily Telegraph printed it" (the letter); "She wrote to the papers
+  the next day. The fullest text to survive is the one the Essex Weekly News printed on the Friday." -> "She wrote to
+  the papers the next day, and the Daily Telegraph printed her letter on the Thursday."; in the statement "21s" (was
+  "21s."), "church" ("Church"), "and were never tired" ("and never tired"), "any one else" ("anyone"), "till after
+  twelve" ("12"), "yesterday (Tuesday) in the prison at Chelmsford" ("on Tuesday last in the Prison"), "in the same
+  strain:" (":—"), "I have no doubt" ("[I] have"); in the letter "Dreadfull", "thankfull", "as Well as myselfe", "Come
+  and See Me", "Chelmsford, Essex," (comma). "burden" KEPT (Rik's ruling of 1 October; the Telegraph has "burthen").
+  The two quotations in Chapter Five brought into line the same day ("21s", "church"), since they quote the same text:
+  logged here as Chapter Five has no skeleton (live_lists.md, section 0).

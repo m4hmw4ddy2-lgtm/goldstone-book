@@ -1536,7 +1536,7 @@ Guardian, about 800, marking nothing. The Guardian silently drops five passages,
 ages, the cup of tea "every morning from their birth till their death", his going out when the twins were
 born and returning after twelve with his eyes "strange and wandering", and Elizabeth's own account of
 asking him at the door whether he had told his foreman. **The Essex Weekly News is the copy text and must
-be cited by name.** Full collation at `notes/elizabeth_statement_collation.md`, which also records three
+be cited by name.** [SUPERSEDED 21 October 2026: the original, the Daily Telegraph of 20 September 1883, is now the copy text (Rik's ruling); see notes/elizabeth_statement_collation.md, RULED 21 October.] Full collation at `notes/elizabeth_statement_collation.md`, which also records three
 claims from its own first pass that proved to be errors in our transcription rather than differences
 between the papers, including the long-quoted "any insanity on the family", which every text actually
 reads as "in the family".
@@ -3225,11 +3225,11 @@ copy it.
 "The Prisoner: I am not guilty." (Essex Weekly News, 21 September). Both images checked 3 October 2026. Not in the Old
 Bailey account; the Daily Telegraph's agency report is silent. One moment summarised two ways, or two moments.
 Unresolved.
-ADDED 20 October 2026 (Findmypast, OCR only, NOT CHECKED): the Morning Post of 15 September, p. 2, after the verdict:
-"The Prisoner: I am not guilty. His lordship then assumed the black cap and [passed sen]tence of death in the usual
+ADDED 20 October 2026 (CHECKED on the clip the same day: transcribed/Morning_Post_15_September_1883_trial_close_transcription.txt): the Morning Post of 15 September, p. 2, after the verdict:
+"The Prisoner—I am not guilty. His lordship then assumed the black cap and passed sentence of death in the usual
 form". A second London report with the Essex Weekly News's words, unless the two share a reporter (to compare when
-both images are in hand). The Standard of 15 September (p. 5) is a summary only. The Daily Chronicle's report (p. 3)
-is unreadable in the OCR: image needed.
+both images are in hand). The Standard of 15 September (p. 5) is a summary only. The Daily Chronicle's report (p. 3),
+checked on the clip, is the Daily Telegraph's agency copy (no words from the prisoner): transcribed/London_Daily_Chronicle_15_September_1883_trial_close_transcription.txt.
 
 ### 94. THE TRIAL OF LUNATICS ACT AT THE TRIAL: THREE MOMENTS
 Grain cited it in his opening (Essex Weekly News); Poland handed it to Day, who "was not previously aware" of it, "as
@@ -3262,13 +3262,14 @@ knew that he was doing wrong". Guardian/IPN/Daily Telegraph agency copy: not "sa
 "that he was killing his children, or that he was not doing wrong". Essex Weekly News: the nature and quality only.
 The foreman's card (Clark Bell only): sound mind before, knew "the nature of that deed and the penalty it involved",
 sound mind after. Clark Bell prefers the Times.
-ADDED 20 October 2026: (1) the Morning Post of 15 September, p. 2 (OCR only): the sole question was whether, "if when
-the man killed his children he knew the nature and [quality] of the act which he committed, he was [guilty of]
-murder" (nature and quality only, as the Essex Weekly News). (2) The foreman's own letter, from which Clark Bell's
+ADDED 20 October 2026: (1) the Morning Post of 15 September, p. 2 (checked on the clip): "If at the time the man killed his
+children he knew the nature and qual[ity] of the act which he committed he was guilty of wil[ful] murder" (nature and
+quality only, as the Essex Weekly News). (2) The foreman's own letter, from which Clark Bell's
 "card" comes, is in the Daily Telegraph of 19 September, p. 3, signed "THE FOREMAN OF THE JURY" (OCR: "That if [a]
 person was proved to be of sound mind up to the time of committing a certain deed; if he knew the nature of that deed
 and the penalty it involved, and if after this he still appeared of sound mind, we were bound according to this law to
-say such person was not insane"). Both to check on the images.
+say such person was not insane"). FOREMAN'S LETTER CHECKED on the image, 20 October 2026 ("...to say such a person was not insane"):
+transcribed/Daily_Telegraph_19_September_1883_letters_Winslow_Kennard_Foreman_transcription.txt. The Morning Post still to check.
 
 ### 100. THE PLEA ON THE FRIDAY
 IPN: "on being placed in the dock ... pleaded 'Not guilty' in a calm voice". Essex Weekly News: "who had previously
@@ -3446,8 +3447,9 @@ committed he was not res[ponsible] for his act". The next day's paper (21 Septem
 GOULDSTONE") has a correspondent who has "just read Mrs. Gouldstone's letter". The Telegraph of 19 September (p. 3)
 carries letters on the case but not the statement. So the original is the Telegraph of Thursday 20 September, which
 fits Robinson's "in your paper this morning" and the Dundee Courier's "The Daily Telegraph says". An evening paper of
-the 19th is not excluded by this search, but none is known. TO DO: Rik to clip the column; then collate it against
-the copy text Chapter Sixteen quotes, word by word.
+the 19th is not excluded by this search, but none is known. CLIPPED and CHECKED 20 October 2026 (transcribed/Daily_Telegraph_20_September_1883_Statement_of_his_Wife_transcription.txt):
+it reads "yesterday (Tuesday)". SETTLED: written Wednesday 19 September, first printed Thursday 20 September, in the
+Daily Telegraph. Collation with the reprints: notes/elizabeth_statement_collation.md, 20 October 2026.
 
 ### 117. THE SEA BOOTS: TWO REPORTS (proposed 10 October 2026, CHAPTER_19_skeleton.md)
 Whitstable Times, 6 April 1901 (first hearing) against Folkestone Chronicle, 13 April 1901 (second hearing): vessel
@@ -3468,23 +3470,24 @@ trial date, which stands. Do not use the warrants' date in prose.
 
 ### 119. DR ORANGE'S EXAMINATION: THE DATE AND HOW LONG (logged 20 October 2026)
 Walthamstow and Leyton Guardian, 6 October 1883, p. 5 (transcribed/Walthamstow_and_Leyton_Guardian_06_October_1883_
-Transcription.txt; PROVISIONAL, read from the Findmypast viewer, clip wanted): Orange and Clarke visited the prison at
+Transcription.txt; checked on the clip 20 October 2026): Orange and Clarke visited the prison at
 Springfield "on the 26th ult." (Wednesday 26 September); "The interview lasted nearly three hours"; the gaol surgeon
-(Mr. R. Hunt Carter) and the chaplain present for part; afterwards an interview with "the convict's brother, who happened
+(Mr. E. Hunt Carter) and the chaplain present for part; afterwards an interview with "the convict's brother, who happened
 to be visiting at the Gaol on that day". The Sunday Dispatch of 30 September has "six or seven hours"; the Times of
 2 October, "last week".
+**RULED 21 October 2026 (Rik):** the two dates go into Chapter Seventeen as plain fact; the Dispatch's "six or seven hours" stays, attributed (CHAPTER_17_skeleton.md, log).
 **Assessment:** two press accounts of the length, neither sworn, no shared wording. The Guardian is the only source
 for the date and for the brother. Chapter Seventeen (approved) states the visit without a day ("Week of 24 to 29
 September (days not given)", CHAPTER_17_skeleton.md) and attributes the "six or seven hours" to the Sunday Dispatch:
 whether to change it is Rik's decision. Also: the Guardian names the source of the Times paragraph of 1 October as
 "The Evening Standard of the 1st inst." (Contradiction 104: still one witness).
 **ADDED, same day:** the Guardian's paragraph is not its own. The Essex Weekly News of Friday 28 September 1883, p. 8
-(viewer BL/0004236/18830928, articles 124-125; OCR only, NOT CHECKED), has the same report a week earlier, under "THE
+(viewer BL/0004236/18830928, articles 124-125; CHECKED on the image 20 October 2026: transcribed/Essex_Weekly_News_28_September_1883_p8_Walthamstow_Murders_transcription.txt), has the same report a week earlier, under "THE
 WALTHAMSTOW MURDERS. RESPITE OF THE CONDEMNED MAN." and "MEDICAL EXAMINATION OF THE CONVICT.", with "on Wednesday"
-where the Guardian has "on the 26th ult." and, by the OCR, "lasted three hours" (the "nearly" to be read on the image).
-So the date and the brother rest on ONE local report, the Essex Weekly News, which the Guardian reprinted. The same page
-gives the date of the first respite letter: "On Tuesday last the High Sheriff of Essex (Mr. J. Oxley-Parker)
-received a letter from the Secretary [of State] signifying the Queen's commands" that the sentence be respited until
+where the Guardian has "on the 26th ult.", and the same "nearly three hours".
+So the date and the brother rest on ONE local report, the Essex Weekly News, which the Guardian reprinted. (The rest of the Guardian's item, the further respite and the Evening Standard paragraph, is the Essex Weekly News of 5 October, p. 5, word for word: transcribed/Essex_Weekly_News_05_October_1883_p5_transcription.txt.) The same page
+gives the date of the first respite letter: "On Tuesday last the High Sheriff of Essex (Mr. J. Oxley Parker)
+received a letter from the Home Secretary signifying the Queen's commands" that the sentence be respited until
 Monday 8 October, "in order that medical enquiry may be instituted as to his sanity" (Tuesday 25 September). The
 paper's leader the same day (p. 5, "THE FATE OF GOULDSTONE") repeats "on Tuesday". CHAPTER_16_skeleton.md lists
 "the Home Office letter respiting to 8 October (date not given anywhere)": this is a date, from one Chelmsford paper.

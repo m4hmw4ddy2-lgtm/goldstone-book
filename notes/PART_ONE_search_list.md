@@ -386,27 +386,28 @@ startdate/enddate, o=date&d=asc. Twelve results to a page.
 The broad "wethersfield" sweeps (1844-47, 1861, 1873) were replaced by the narrower name searches above.
 
 19. **Joseph and Thomas Goldstone as witnesses on a man's mind, Lent Assizes, Chelmsford, March 1857.** NEW, 20 October
-    2026. Hibblethwaite v. Clayden, Nisi Prius court, before Mr Baron Channell: the validity of the will of Henry
+    2026. RULED IN, 21 October 2026 (new Chapter One: CHAPTER_1_skeleton.md, RULINGS). Hibblethwaite v. Clayden, Nisi Prius court, before Mr Baron Channell: the validity of the will of Henry
     Hibblethwaite, farmer, of Old Sampford, who left a farm to his sister, Mrs Abigail Clayden; his nephew and heir
     challenged it on the ground that the testator was an idiot. Witnesses for the plaintiff described him as a "poor
-    silly boy" since childhood. **"Joseph Goldstone, blacksmith"**, aged 65 (OCR: "I 65"; he was baptised 17 March 1793, so 63 or just 64: the figure is to read on the image), said he had known
+    silly boy" since childhood. **"Joseph Goldstone, blacksmith"**, aged 65 by his own account ("I am 65", checked on the image; he was baptised 17 March 1793, so 63 or just 64), said he had known
     Hibblethwaite "perfectly well", that he was "a man of weak intellect", brought things to the forge but "never
     could explain what they were to be done to", that the boys teased him and called him "Five-clawed", and that "after
     he was grown I did not attempt to converse with him like another man". He amused the court by calling counsel "My
-    learned counsel", and Mr James answered "My learned blacksmith". Next: "Thomas [Goldstone, OCR garbled], son of
+    learned counsel", and Mr James answered "My learned blacksmith". Next: "Thomas Goldstone, son of
     the last witness", knew the testator twenty years, and told of his asking for a Christmas-box, which Thomas
     thought it odd for a farmer to ask of a tradesman; he had given him sixpence the year before. Verdict for the
     defendant in under five minutes: the jury "thought the testator was in a sound state of mind when the will was
     executed". So the will stood, against the Goldstones' evidence.
-    Sources (OCR only, NOT CHECKED): Chelmsford Chronicle, 13 March 1857, p. 4, "NISI PRIUS COURT ... FRIDAY. Validity of
+    CHECKED ON THE IMAGE, 20 October 2026 (transcribed/Chelmsford_Chronicle_13_March_1857_Hibblethwaite_v_Clayden_Goldstone_evidence_transcription.txt):
+    "I am 65" (certain; his baptism makes him 63 or 64); "Thomas Goldstone, son of the last witness"; the verdict as above.
+    Sources: Chelmsford Chronicle, 13 March 1857, p. 4, "NISI PRIUS COURT ... FRIDAY. Validity of
     a Will. HIBBLETHWAITE v. CLAYDEN" (viewer BL/0000225/18570313, page 4, article 040); Essex Standard, 11 March 1857,
     p. 4 (BL/0000165/18570311, article 024) and 6 March 1857, p. 2 (BL/0000165/18570306, article 009), the same trial.
     Date of the hearing: the Assize opened on a Wednesday; the case ran into a Friday (6 March 1857?): to confirm.
-    Bears on: Joseph, aged sixty-five and still at the forge, five months after William's birth; Thomas, William's
+    Bears on: Joseph, sixty-five by his own account and still at the forge, five months after William's birth; Thomas, William's
     father, in a witness box; and, for the book's argument, a Sampford jury of 1857 deciding what a man's mind was.
-    That last is the author's to weigh: notes only. IMAGE WANTED before any use: the Chelmsford Chronicle column(s),
-    especially Joseph's and Thomas's evidence and the verdict, and the Essex Standard report as a second (separate?)
-    reporter. Mrs "Abigail Claydon": compare "Clayden Abigail (Mrs.), farmer, Thistley farm" (1878 directory).
+    That last is the author's to weigh: notes only. Chronicle image CHECKED (above). Still wanted: the Essex Standard
+    report, as a second (separate?) reporter, and to fix the date of the Friday. Mrs "Abigail Claydon": compare "Clayden Abigail (Mrs.), farmer, Thistley farm" (1878 directory).
 
 ### Part Two / Chapter Six: the Millard drowning, completed
 - Hackney Standard, Saturday 2 June 1883, p. 3, "ACCIDENT ON THE MARSHES": "Richard Bohu[n?] Millard, aged 19, of

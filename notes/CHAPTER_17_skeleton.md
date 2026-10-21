@@ -505,3 +505,14 @@ Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; TNA HO 145
   the quoted phrase, where the rest of the chapter has straight ones). Chapter approved as amended.
 - 16 October 2026 (Rik: "of course the typos"): the warrant quotation's curly marks, which closed on an opening mark,
   made straight, as in the rest of the chapter.
+
+- 21 October 2026 (Rik: "As recommended"; Contradiction 119): two dates added as plain fact, from the Essex Weekly News of 28
+  September 1883, p. 8 (checked): the first respite letter reached the Sheriff on Tuesday 25 September, and the doctors'
+  examination was on Wednesday 26 September. Paragraph one: "By Wednesday the twenty-sixth of September, when the Times
+  printed the news, he had told the Sheriff of Essex that ..." -> "His letter reached the Sheriff of Essex on Tuesday
+  the twenty-fifth of September: ... The Times printed the news the next morning." Paragraph four: "The doctors had in
+  fact come and gone. The next day the Sunday Dispatch named them:" -> "The doctors had in fact come and gone: they had
+  been at the prison on the Wednesday, the day the Times printed the respite. The Sunday Dispatch named them that
+  weekend:". The Dispatch's "six or seven hours" kept, attributed (the Essex Weekly News's "nearly three hours" not
+  set against it, as recommended). FLAG for Rik: the chapter's first sentence, "took a week", now sits beside an
+  exact date eleven days after the sentence (14 to 25 September); left unchanged, his to rule.

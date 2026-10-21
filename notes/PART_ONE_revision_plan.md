@@ -87,6 +87,10 @@ RECOMMEND starting with whichever chapter opens Part One after A is ruled.
 
 ## RULINGS
 
+- B to H: AS RECOMMENDED, ruled 21 October 2026 (Rik). F as (a): Thomas's evidence on Emily kept as background, the
+  courtroom framing and the source to the notes; the flagged rule-break (c) not taken. C with the amendment proposed
+  19 October: nothing goes to the notes until its replacement is in hand.
+
 - A: (b), LINEAR, ruled 19 October 2026 (Rik: "let's try linear then, see how it pans out"). A trial: the six drafted
   chapters stay in chapters/ untouched; the linear version is built chapter by chapter and held locally until Rik
   compares the two and rules.

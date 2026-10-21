@@ -78,6 +78,18 @@ RECOMMEND: keep both facts; no comment on either.
 **E. The ending.** (a) George's burial, July 1858, "only Emma was left"; (b) William's registration, November 1856.
 RECOMMEND (a): it ends on Elizabeth's side and points at the next chapter's census night without saying so.
 
+## RULINGS
+- 21 October 2026 (Rik: "As recommended"): A (a), open on the birth and the registration, with Thomas Stock's mark;
+  B, Edward Suckling a clause; C, the two registrations side by side, no comment; D, Smee and Elizabeth Carter both
+  kept, no comment, title last; E (a), end on George's burial, July 1858.
+- 21 October 2026 (Rik, the same ruling, on PART_ONE_search_list.md item 19): the will trial of March 1857 goes in.
+  Joseph and Thomas Goldstone's evidence that Henry Hibblethwaite of Old Sampford was "of weak intellect", and the
+  verdict that he was of sound mind, at the Lent Assizes, Chelmsford (Chelmsford Chronicle, 13 March 1857, p. 4,
+  checked: transcribed/Chelmsford_Chronicle_13_March_1857_Hibblethwaite_v_Clayden_Goldstone_evidence_transcription.txt).
+  Placement: movement three, after William's registration (November 1856) and before George's burial (July 1858),
+  in its own month. No comment on what it foreshadows. Before drafting: the Friday's date (6 March 1857?) from the
+  Essex Standard; "Mr. James" is counsel, side to confirm.
+
 ## DRAFT
 
 (not begun; waiting for Rik's rulings on the above)
