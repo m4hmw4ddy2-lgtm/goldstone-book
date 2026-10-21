@@ -1,16 +1,22 @@
 Chapter Three
 
-[title to come]
+THE EMPTYING
+
+In the burial ground of the old Independent chapel at Wethersfield stands the Ravens' tomb, a pillar of polished red granite with an inscription on each of its four faces. The first is for Thomas Raven, the brewer in whose yard the Stocks had lived, who died on the twenty-third of March 1878, aged sixty-three, and for his wife, Elizabeth Victoria, who outlived him by twenty-three years. Another face belongs to the women of the house: Jane Raven, at forty-seven; Charlotte Raven; and Sarah Raven, who lived until 1897. Jane and Sarah were the sisters who had kept his house.
+
+The children have a face of their own. Udea Elizabeth Jane, "the eldest beloved child", died on the twenty-third of April 1874, aged ten. Thomas Henry, the only son, had died on the tenth of January 1873, at seven weeks. The fourth face is for a second daughter, Charlotte Mary, who died at Edinburgh in the first days of 1900, at twenty-eight, and beneath her name: "If love and care could death prevent, thy days had not so soon been spent." Of the four children, only Edith outlived her mother, and there was no son to take on the brewery. The one family in these pages that never had to leave Wethersfield emptied all the same.
+
+The villages had looked settled from almost any angle. Wethersfield and Finchingfield both reached the highest population the census would ever record for them in the same year, 1851: 1,770 people in Wethersfield, 2,594 in Finchingfield. Neither saw those numbers again. Whatever drew people away took twenty years to show on a census page, and then it seemed to come all at once. Between 1871 and 1881 Wethersfield lost 281 people, the largest change, either way, in more than a century and a half of counting. Finchingfield lost 434, the largest in its own record. At Great Sampford the same ten years took nearly a third of the village, the steepest fall of the three, and by 1881 one house in six stood empty. By 1901 it was one in five.
+
+The straw went too. Plaiting had been the women's and children's trade in these villages for most of the century: Jemima's, Emma's, Thomas Gouldstone's sisters'. The plait went through dealers to the hat-makers round Luton and Dunstable. From about 1870 cheaper and better plait began to come in from China and Japan, and the cottage trade could not survive it. In Hertfordshire, where the numbers were counted most closely, the women plaiting almost halved in the 1870s and halved again in the 1880s. The hat-makers of Luton, buying the foreign plait, did well out of the same years: the town's rateable value rose by nearly half between 1876 and 1888.
 
 By the spring of 1871 Elizabeth had left Wethersfield. The census of the second of April found her in Stoke Newington, at 115 Albion Road, the house of George Horace David Chilton. She was entered as a general servant, aged eighteen. She was sixteen.
 
 The household was small. Chilton was a solicitor and attorney, thirty-five and London-born; his wife, Isabella, was thirty-two and came from Dundee. They had three sons: Guy, five, Stanley, four, and Reginald, not yet a year old. Two servants looked after all of them. The other was the nursemaid, entered as sixteen and born at Wethersfield: Susan Newman.
 
-The same night found William at fourteen, still entered as a scholar. The Gouldstones had left the village street for Moor End, a scatter of houses out beyond it, and the White House there. It had been built in the seventeenth century, timber-framed and plastered, with two gables to the front, attics and a cellar, and a square chimney stack with a heart carved at its base. Thomas, forty-nine, was entered as a blacksmith and beer retailer. Round him and Emily, thirty-seven, were seven children: Emily, nineteen; Robert, sixteen; William; Thomas, twelve; Bennett, nine; Flora, seven; and Hugh, three. The Post Office directory of 1874 listed him twice, once under each trade.
+The same night found William at fourteen, still entered as a scholar. The Gouldstones had left the village street for Moor End, a scatter of houses out beyond it, and the White House there. It had been built in the seventeenth century, timber-framed and plastered, with two gables to the front, attics and a cellar, and a square chimney stack with a heart carved at its base. Thomas, forty-nine, was entered as a blacksmith and beer retailer. Round him and Emily, thirty-seven, were seven children: Emily, nineteen; Robert, sixteen; William; Thomas, twelve; Bennett, nine; Flora, seven; and Hugh, three.
 
-Thomas's father was not with them. Joseph Gouldstone, eighty and a widower, was entered that night in the Saffron Walden Union Workhouse, on Sewers End Road, and in the column for his occupation the enumerator wrote "Blacksmith".
-
-The directory of that year said that the straw-plait manufacture was carried on in the parish. The census found nine people in Great Sampford living in sheds.
+Thomas's father was not with them. Joseph Gouldstone, eighty and a widower, was entered that night in the Saffron Walden Union Workhouse, on Sewers End Road, and in the column for his occupation the enumerator wrote "Blacksmith". In Great Sampford that year the census found nine people living in sheds.
 
 On the first of May 1873 a girl was born at Great Sampford and named Mabel Frances. Her mother was entered on the certificate as Emily Gouldstone, with no other surname, and the space for her father was left empty. The mother registered the birth herself four weeks later and signed her name. William's sister Emily was twenty-one, and unmarried.
 
@@ -18,10 +24,22 @@ That autumn Jemima died, at Dog Chase. She was sixty-one. The certificate gave n
 
 Elizabeth was eighteen. Of the nine children her mother had borne, she was the only one left, and now she had neither parent.
 
-By 1874 the Chiltons had left London for Eltham House, at Westbury on Trym, outside Bristol. Nothing yet found places Elizabeth anywhere from the census of 1871 until she appears again, in Hackney.
+The labourers of the eastern counties had been organising, in Joseph Arch's National Agricultural Labourers' Union, and in 1874 the farmers answered by locking the union men out. North Essex and Suffolk went first; the men round Newmarket were locked out from the twenty-first of March. The lock-out reached Halstead, and between March and August the union sent £1,460 to its Halstead district alone.
 
-In his late teens William worked with his eldest brother, Robert, as a smith at Finchingfield. He had an accident there, which left him ruptured, and in the same years he began to suffer pains in his head.
+In the middle of it, others left altogether. On Tuesday the fourteenth of April a party of Essex labourers, some with their wives and children, took the train for London and Queensland. The Chelmsford Chronicle had the figures from the agent, Charles Jay, who went with them to the ship: 350 people in all, of whom 50 had boarded at Witham and 50 at Chelmsford. At Chelmsford a large crowd came to see them off, friends on the platform and onlookers outside the station. Hands were shaken and children kissed, and as the train pulled out there were cheers, hats and handkerchiefs from the windows, and "Good bye and God bless you" from the platform. Someone showed a flag from a carriage window. Most of the emigrants, the paper thought, were in high spirits, "but the mood of one or two of the grey beards seemed pensive and sad."
+
+They sailed the same day from the East India Docks in the clipper St James, chartered by the Queensland government for Maryborough and Brisbane. The Chronicle passed on a London paper's account of the ship before she left: young men hauling mattresses into their berths, girls laughing at "the narrow coffin-like compartments in which they will have to sleep for the next three months", and a small girl with a ship's biscuit in one hand and a raw potato in the other, who said she was going to "Eensland". One woman, having dragged her husband to the docks, changed her mind and took him home again. "Very few among the passengers are locked-out men," the London paper said.
+
+Elizabeth was not on that train. She had gone the way most people went, into service, a servant among servants in someone else's house. By 1874 the Chiltons had left London for Eltham House, at Westbury on Trym, outside Bristol. Nothing yet found places Elizabeth anywhere from the census of 1871 until she appears again, in Hackney.
+
+The lock-out did not last the summer. On the third of August the union's executive voted to pay the locked-out men one week more and no longer, and to give no lasting relief to the old and infirm who could not move away.
+
+At Great Sampford Thomas kept both his trades. The Post Office directory of 1874 listed him twice, once as a beer retailer and once as a blacksmith. In his late teens William worked with his eldest brother, Robert, as a smith at Finchingfield. He had an accident there, which left him ruptured, and in the same years he began to suffer pains in his head.
 
 Joseph was buried at St Michael's, Great Sampford, on the first of May 1876. He was eighty-three.
+
+That winter the strikes came to Great Sampford itself. In December 1876 the Chelmsford Chronicle reported that a large number of the labourers there had come out rather than see their wages cut from 12s. to 11s. a week, and that the union was paying its members 9s. More were expected to follow, and those already out, the paper said, "behave themselves remarkably well at present." By the end of January the Colchester Mercury put the strikers at between fifty and sixty; the union's district secretary wrote to say they were fewer than fifty, all members of the Old Sampford branch. The union held a meeting in the village on the eighth of February.
+
+A farmer, G. H. Spooner, answered the union's delegate in the Mercury. The men were not striking against a cut, he wrote: he was paying "day labourers 11s. and beer, or 12s. and no beer", with two shillings a week more for horsekeepers and stockmen, and he had plenty of men. His farm was 267 acres, "and with all the boasted power of Unionism I have at the present time in my employment eighteen men and boys." William was twenty.
 
 The directory of 1878 listed two blacksmiths at Great Sampford, George Wright and Robert Gouldstone. Thomas was not in it.
