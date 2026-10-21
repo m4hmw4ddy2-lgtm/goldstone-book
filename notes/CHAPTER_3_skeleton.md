@@ -64,7 +64,7 @@ F. LEFT OUT, to the notes: James's beerhouse licence (Great Bardfield, 1874); th
 ## 21 October 2026: images checked
 1871 Albion Road and White House pages checked (transcriptions in transcribed/). "Publican" was wrong: "Blacksmith &
 Beer Retailer"; corrected in the draft and in every notes file. Added from the pages: Emily senior 37; Isabella
-Chilton 32, born Dundee; Chilton "Solicitor & Attorney". Susan Newman "entered as sixteen" (baptised October 1855, so
+Chilton 32, born Oundle, Northamptonshire (first misread as Dundee; corrected 21 October); Chilton "Solicitor & Attorney". Susan Newman "entered as sixteen" (baptised October 1855, so
 fifteen). Mabel's birth certificate CHECKED 21 October 2026 (transcribed/1873_birth_Mabel_Frances_Gouldstone_transcription.txt): no father; mother "Emily Gouldstone" with no maiden surname; she registered on 29 May and signed. Draft adds both facts.
 
 ## RULING, 21 October 2026 (Rik): THE EMPTYING STAYS
@@ -140,3 +140,5 @@ sentence stays (inside world).
   general lines (peaks, losses, straw) kept together as a frame up front; I, end on the 1878 directory. The draft
   already follows all three. Earlier DECIDE B to F (first draft): B (Mabel as drafted), C (the gap line), D (Robert,
   facts only) stand as recommended; A (merge) withdrawn; E superseded by I; F carried into the LEFT OUT list.
+- 21 October 2026 (Rik): restored from old Ch5: Isabella Chilton a former governess (earlier census, confirmed by
+  Rik; Ancestry tree note); Susan's companionship line; the Chiltons' three servants in 1881, neither girl among them.

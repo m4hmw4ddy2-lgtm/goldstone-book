@@ -3316,6 +3316,8 @@ Courier; Western Daily Press), although the timeline row for c. October 1882 cit
 Six stated it as what Elizabeth would say, unattributed. **DECIDED 3 October 2026 (Rik, DECIDE 18): Chapter Six now
 names the paper:** "In October the Times would report that his wife said he had shown signs of madness for the last
 twelve months. Counted back, it put the start barely a month after they moved in."
+**SUPERSEDED 21 October 2026 (Rik): the paragraph is CUT from the new-structure Chapter Five (NO GIVEAWAYS); the
+line is press-only and stays here as evidence.**
 
 ### 105. THE REPRIEVE: THREE DATES, NOT ONE
 - **Monday 1 October** (Times, 2 October, "yesterday"): the Home Secretary signified to the Sheriff "the Queen's command

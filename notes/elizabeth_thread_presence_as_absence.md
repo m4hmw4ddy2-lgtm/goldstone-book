@@ -424,6 +424,16 @@ and the press of 11 August respectively.)
 **7 October 2026 (Rik): the statement is quoted IN FULL in Chapter Sixteen ("As Happy as a Child at Play"), so the
 spent lines below are quoted again there, in their place in her text. Limit two still governs Part One.**
 
+**Added 21 October 2026 (Rik, new-structure Chapter Four, chapters/new-structure/): also SPENT in Part One, quoted:**
+- "The second child was weakly, and the first was still only a baby, so that we could not leave the house together."
+- "But for hours together he would keep the children going with his concertina, which he was very fond of playing,
+  while I was engaged in household duties. The children were very fond of him, and were never tired listening to the
+  concertina. If he seemed worried, amusing the children—at which he was very good—or a remark from me would at once
+  change his mood."
+- "as one of our own family" (of Graves; quoted as background, "Long afterwards she would say", the 8th of August
+  context not given).
+These override the hold below for these lines only (Rik: "I would fight to retain" the concertina material).
+
 **Held back for the statement's chapter: everything else**, and in particular the concertina and the children who
 "never tired listening"; "Nothing that ever he said or did ... gave me the least fear"; the cup of tea "every morning
 from their birth till their death"; that he "never took any notice of the babies"; his going out when the twins were

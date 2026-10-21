@@ -97,6 +97,8 @@ RECOMMEND starting with whichever chapter opens Part One after A is ruled.
 - B to H: not yet ruled. Working on the recommendations meanwhile; any of them void where Rik rules otherwise.
 
 ## RULING 21 October 2026 (Rik): ruling D REVERSED; THE EMPTYING STAYS as a chapter (see CHAPTER_3_skeleton.md).
+## RULING 21 October 2026 (Rik): rows 4 and 5 MERGED (London, 1878-1882; CHAPTER_4_skeleton.md). Part One is FIVE
+## chapters: 1, 2, 3 The Emptying, 4 London, 5 Walthamstow (old Ch6). Part Two onwards renumbered later, in one pass.
 
 ## THE LINEAR MAP (proposed 19 October 2026, on A (b); RENUMBERED 21 October 2026)
 
@@ -125,3 +127,26 @@ either of them hearing it).
 One consequence to flag: the present Chapter Five paraphrases Elizabeth's 1883 statement at length, and Chapter
 Sixteen gives it whole. Under the linear map that material still lands in new Chapter Five. Whether to lighten it
 there is a separate question, for when that chapter is reached.
+
+## 21 October 2026: CHAPTER FIVE (old Ch6, "The Deterioration") carried into new-structure (Rik: "yes")
+- CUT: "In October the Times would report that his wife said he had shown signs of madness for the last twelve months.
+  Counted back, it put the start barely a month after they moved in." Reason: NO GIVEAWAYS (6 October) names the
+  defence; the "twelve months" is the Times's own "we understand", not in her statement (timeline file, Contradiction
+  on the 1 October Times). Supersedes DECIDE 18 of 3 October. The next paragraph now opens "Elizabeth had seen it from
+  the start."
+- REWORDED: "with her hands so full already and soon to be fuller" to "with three children already and another on the
+  way", to avoid echoing Chapter Four's quoted "my hands were so full".
+- Unchanged otherwise; press lines already logged ("There's my Charley"; "I have a very large family"; "fortunate in
+  their lodgers"; "as good as a timepiece").
+- 21 October 2026 (Rik: yes): "it was only afterwards that she decided what he must have been thinking about" now
+  "only afterwards did she decide that he had been worrying about their growing family" (paraphrase of the statement:
+  "looking back on all that has happened ... the times when I found him sitting thinking lately he was distressing
+  himself about our growing family"; "I am certain he was insane" kept out).
+- 21 October 2026 (Rik, on sequence): the "very large family" remark is NOT timed by any source. Ada's coroner
+  deposition: "When the twins were born he remarked..." (no hour; the Guardian of 18 August: "when the twins were born
+  he turned. He said that it was a very large family"). Elizabeth: he went out "immediately" and on his return "did
+  not speak". So the remark was taken out of the paragraph of his return (where it contradicted "said nothing") and
+  given a paragraph of its own, untimed: "Ada remembered something he said about the birth."
+- 21 October 2026 (Rik): "his hand going to his head, a great deal, and a complaint of the pain" now "his hand going
+  often to his head, and complaints of the pain" (Rik's first option; the second kept the source's "a great deal": Ada,
+  cross-examined, "I have seen him put his hand to his head a great deal, and he would then complain of pain").
