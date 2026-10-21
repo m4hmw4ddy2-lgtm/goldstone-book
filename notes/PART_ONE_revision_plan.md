@@ -96,6 +96,8 @@ RECOMMEND starting with whichever chapter opens Part One after A is ruled.
   compares the two and rules.
 - B to H: not yet ruled. Working on the recommendations meanwhile; any of them void where Rik rules otherwise.
 
+## RULING 21 October 2026 (Rik): ruling D REVERSED; THE EMPTYING STAYS as a chapter (see CHAPTER_3_skeleton.md).
+
 ## THE LINEAR MAP (proposed 19 October 2026, on A (b); RENUMBERED 21 October 2026)
 
 RENUMBERED AND RESTORED 21 October 2026 (Rik): Chapters One and Two were merged and then split again the same day;

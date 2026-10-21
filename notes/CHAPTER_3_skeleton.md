@@ -1,6 +1,6 @@
 # CHAPTER THREE (LINEAR), SKELETON
 # PROPOSED 21 October 2026, with a trial draft on its recommendations at Rik's request ("Can we do 3?").
-# Draft: chapters/CHAPTER_3_linear_trial_DRAFT.md, held locally. Linear map row 3 (PART_ONE_revision_plan.md).
+# Draft: chapters/new-structure/CHAPTER_3_linear_trial_DRAFT.md, held locally. Linear map row 3 (PART_ONE_revision_plan.md).
 
 ## SPAN AND QUESTION
 April 1871 to 1878. Both children out of their parents' houses: Elizabeth in service in London, alone after 1873;
@@ -65,4 +65,31 @@ F. LEFT OUT, to the notes: James's beerhouse licence (Great Bardfield, 1874); th
 1871 Albion Road and White House pages checked (transcriptions in transcribed/). "Publican" was wrong: "Blacksmith &
 Beer Retailer"; corrected in the draft and in every notes file. Added from the pages: Emily senior 37; Isabella
 Chilton 32, born Dundee; Chilton "Solicitor & Attorney". Susan Newman "entered as sixteen" (baptised October 1855, so
-fifteen). Still unchecked: Mabel's birth certificate (image not held).
+fifteen). Mabel's birth certificate CHECKED 21 October 2026 (transcribed/1873_birth_Mabel_Frances_Gouldstone_transcription.txt): no father; mother "Emily Gouldstone" with no maiden surname; she registered on 29 May and signed. Draft adds both facts.
+
+## RULING, 21 October 2026 (Rik): THE EMPTYING STAYS
+"We should not lose The Emptying chapter." Ruling D of the Part One plan (the Raven tomb, the parish statistics, the
+St James train and the lockout to the notes) is REVERSED. Division of labour: Chapters One and Two show the two worlds
+from inside; The Emptying shows why those worlds were coming apart, arriving after the reader knows both families.
+Village texture in One and Two that duplicates The Emptying may be trimmed. Rik's list of its strongest material:
+population decline (Wethersfield, Finchingfield); Great Sampford's empty houses; the plait collapse; Joseph Arch and
+agricultural unrest; union pressure; migration; the Queensland departure; the contrast between those who emigrated and
+Elizabeth going into service; William's own movement out of the smithy world.
+PROPOSAL: new Chapter Three IS The Emptying (span 1871-1878, the decade of the losses), carrying the personal events of
+those years inside it. DECIDE A (merge with Four) is withdrawn.
+SOURCE STATUS of old Ch4's social material (checked 21 October 2026):
+- Population figures (1851 peaks; 1871-81 losses: Wethersfield 281, Finchingfield 434, Great Sampford 286; vacancy
+  27/162 in 1881, 24/125 in 1901): Vision of Britain (MASTER_NOTES, Part Ten). SOURCED.
+- Nine people in sheds, 1871: Adrian Gray (secondary). SOURCED (secondary).
+- Great Sampford without public water: Thresh, 1905 (via the wells gazetteer). SOURCED (secondary).
+- Thomas's sisters plaiters (1851); Finchingfield straw businesses (White's 1863); plait to Luton and Dunstable through
+  dealers, and the trade killed by Japanese and Chinese plait (Coggeshall Museum). SOURCED. The DATES of the imports
+  (from about 1870) and of the collapse (1879-81): NOT SOURCED.
+- The Witham departure (14 April 1874; the St James; Arch's union; the fares; flags; the cheering) and the 1874
+  lockout (Halstead; 339 men on strike pay; money gone by 10 August): NO SOURCE RECORDED ANYWHERE IN THE REPOSITORY.
+  To be found (Essex papers, April to August 1874; the Labourers' Union Chronicle) before any of it is used.
+  UPDATE 21 October (Rik: these were sourced online in an earlier session, unlogged): the departure details and the
+  Halstead spread RE-FOUND (Jay, Labourers' Union Chronicle 25 April 1874, and Halstead Times 4 April 1874, both via A.
+  Brown, Meagre Harvest, quoted by Foxearth; Clifford 1875); the Chelmsford Chronicle of 17 April 1874 found as a
+  contemporary report. "339" and "10 August" not yet re-found. See PART_ONE_search_list.md, E1-E3.
+- The Raven tomb: Rik's photographs (MASTER_NOTES); 1863 and 1868 soft in the scan.

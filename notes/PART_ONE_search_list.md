@@ -448,3 +448,54 @@ RECEIVED AND CHECKED, 20 October 2026 (Rik's uploads):
 - The 1878 directory (GB0655-00232): Benjamin, shoemaker; Robert, blacksmith; no Thomas. George Wright still listed
   twice (blacksmith; furniture broker and farmer, no farm named). Also "Board School, erected 1877, Miss Catharine
   Stock, mistress" (no link drawn). Transcribed in the directories file.
+
+### For THE EMPTYING (new Chapter Three), 21 October 2026 (Findmypast; OCR only, NOT image-checked)
+E1. THE QUEENSLAND DEPARTURE, Tuesday 14 April 1874. Chelmsford Chronicle, 17 April 1874, p. 7, "THE LABOURERS LOCK-OUT
+    IN THE EASTERN COUNTIES" (viewer BL/0000225/18740417 p7 a059); the same text in the Essex Newsman 18 April p3
+    (a014), Essex Herald 21 April p4 (a074), Colchester Mercury 25 April p2 (a013): SHARED COPY, ONE WITNESS.
+    OCR: "A large number of labourers, some of whom were accompanied by wives and children, left Essex on Tuesday for
+    Queensland. They travelled to London by parliamentary train. Mr. Jay, the agent, went with them to the ship, and
+    he informed our reporter that all 350 were about to set sail. Of these [50?] took train at Witham and [50?] at
+    Chelmsford" (the figures are lost in the Chronicle's OCR; the Colchester OCR reads "50 ... Witham and 50 at
+    Chelmsford": TO READ FROM THE IMAGE). "At Chelmsford the departure of the emigrants was witnessed by a large crowd";
+    hands shaken, children kissed; cheers, hats and handkerchiefs; "Good bye and God bless you"; "A flag was also shown
+    from the window of one of the carriages"; mechanics leaving work to bid farewell; "one or two of the grey beards
+    seemed pensive and sad". "The emigrants sailed the same day from the East India docks in the clipper ship St.
+    James, chartered by the Queensland government, and bound for Maryborough and Brisbane." Then "A London
+    contemporary" on board: the single men fixing mattresses, the girls and the "narrow coffin-like compartments";
+    the little girl with a biscuit and a potato, bound for "Eensland"; the woman who dragged her husband home again;
+    "Very few among the passengers are locked-out men"; ships in the next fortnight to carry "more than 800 men from
+    Suffolk and Essex".
+    RE-FOUND THE SAME DAY (Rik: the old chapter's details were sourced by web search in an earlier session, but the
+    sources were never logged): Foxearth and District Local History Society, "The Song of the Emigrant ship"
+    (foxearth.org.uk/Emigration2.html), quoting Charles Jay's own account in the Labourers' Union Chronicle, 25 April
+    1874, via A. Brown, Meagre Harvest: at Witham junction "the largest party came together", "some 200 working folks";
+    "Cheer after cheer"; "every cottage seemed to expect the train to pass, for someone was prepared to wave a parting
+    flag"; at Chelmsford streets "quite alive with women at the doors waving their parting flag". Jay, the union's man
+    and emigration agent for the Queensland government, offered free passages, free kit and grants of 1 pound a man,
+    10s. a wife and 5s. a child. So old Ch4's flags, cheering and fares ARE sourced (Jay, secondary via Brown).
+    DISCREPANCIES TO SETTLE: the Chronicle's Witham figure (lost in its OCR; Colchester OCR "50") against Jay's "some
+    200" at Witham; the Chronicle's 350 against Foxearth's "3 hundred"; the Chronicle's "chartered by the Queensland
+    government" against Foxearth's "crowning achievement of the National Agricultural Labourers Union". The Chronicle
+    is a reporter's account (informed by Jay); Jay's is the union's own paper. Both may enter as what each said.
+E2. A STRIKE AT GREAT SAMPFORD, winter 1876-77. Chelmsford Chronicle, 15 December 1876, p. 3 (a005), "OLD SAMPFORD.—
+    Strike of Labourers": "Rather than submit to have their wages reduced from 12s. to 11s. per week, a large number of
+    labourers of [the] place are [on] strike. The National Agricultural Labourers' Union pay such as are members 9s.
+    per week." More expected to come out; "Those who are on strike behave themselves remarkably well". Colchester
+    Mercury 27 January 1877, p. 7 (a100), and the same text in the Essex Newsman 27 Jan p4, Chelmsford Chronicle
+    2 Feb p5, Burnham paper 1 Feb (SHARED COPY): "Between 50 and 60 labourers are at present on strike at Old Sampford."
+    Colchester Mercury, 24 February 1877, p. 3, letter from G. H. Spooner, Rye Hills [read "Bye Balls"] Farm, Great
+    Sampford, dated 21 February: a union (N.A.L.U.) meeting at Great Sampford on 8 February; he denies the union
+    delegate's claim that the men struck against a cut from 12s. to 11s. ("we are at the present time paying day
+    labourers 11s. and beer, or 12s. and no beer"); his 267 acres; "eighteen men and boys" in his employ. William was
+    twenty, at home or at Finchingfield (not placed).
+E3. THE 1874 LOCKOUT IN ESSEX. Re-found online 21 October: the lock-out "spread to Halstead and the Birch area"
+    (Halstead Times, 4 April 1874, via Brown, Meagre Harvest, quoted by Foxearth); Clifford, The Agricultural Lock-out
+    of 1874 (1875), lists "Halstead, Essex" among the districts receiving grants from the National Executive (the scan
+    reads "1,93i", presumably 1,931 pounds) and has "End of the struggle — Union allowances stopped" (Chapter V). The
+    "339 men" and "10 August" NOT YET RE-FOUND (Clifford's full text could not be read past its first part here).
+E4. THE PLAIT COLLAPSE, DATES: no newspaper source in a first pass (plait trade depression, Essex, 1870-82). A
+    secondary history is needed (the Luton straw hat trade; or VCH Essex) before any date is used.
+E5. Also found: the new Baptist chapel at Great Sampford, memorial stone laid, Chelmsford Chronicle 4 June 1875, p. 8
+    (not read). Romford County Court, January 1877: Peter Portway, chairman of the Great Sampford School Board (the
+    Portway of "Mr. Portway's Houses", 1866).
