@@ -2,13 +2,13 @@ Chapter Seventeen
 
 UNTIL FURTHER SIGNIFICATION
 
-The Home Secretary, Sir William Harcourt, took a week. By Wednesday the twenty-sixth of September, when the Times printed the news, he had told the Sheriff of Essex that William would not hang on the first of October but on the eighth, and that before then doctors would be sent to examine his mind. The Manchester Guardian read more into it: the respite, it said, was "probably tantamount to a remission of the capital sentence".
+The Home Secretary, Sir William Harcourt, took a week. His letter reached the Sheriff of Essex on Tuesday the twenty-fifth of September: William would not hang on the first of October but on the eighth, and before then doctors would be sent to examine his mind. The Times printed the news the next morning. The Manchester Guardian read more into it: the respite, it said, was "probably tantamount to a remission of the capital sentence".
 
 At least one paper was against it. In Kirkcudbright, the Advertiser saw a week bought by "agitators". Its complaint was one of fairness. A man who killed one person went to the gallows and nobody lifted a finger, while a man who killed several drew a crowd of defenders, as though each death added to the pity owed him. William was poor, it allowed; so were countless fathers who harmed no one. If the doctors called him sane, all he had gained was seven days.
 
 The British Medical Journal's worry, that Saturday, was the doctors' brief. It had heard that Harcourt meant to commute the sentence to penal servitude for life, but it wanted to know what he had asked his doctors to look at. The question, it argued, should be not William's mind in a cell at Chelmsford in September but his mind on the evening of the eighth of August. On that, the journal pointed to "the touching narrative of his wife, and the clear statement of the vicar of the parish in which he lived".
 
-The doctors had in fact come and gone. The next day the Sunday Dispatch named them: Dr Orange, who ran the criminal lunatic asylum at Broadmoor, and Dr Clarke, from London. It put their time with William at six or seven hours. Their findings were for Harcourt. William's family had visited him that week, and he was, by the paper's account, an attentive listener when the chaplain came.
+The doctors had in fact come and gone: they had been at the prison on the Wednesday, the day the Times printed the respite. The Sunday Dispatch named them that weekend: Dr Orange, who ran the criminal lunatic asylum at Broadmoor, and Dr Clarke, from London. It put their time with William at six or seven hours. Their findings were for Harcourt. William's family had visited him that week, and he was, by the paper's account, an attentive listener when the chaplain came.
 
 On the Monday morning the Times reported that Dr Orange "entertains no doubt of his insanity". It gave his family history too, the great-uncle who had taken his own life and his mother and his aunt, both insane, and it added a line about the eighth of August: "it is believed that he went out with the intention of drowning himself on the very day that he murdered his children".
 
