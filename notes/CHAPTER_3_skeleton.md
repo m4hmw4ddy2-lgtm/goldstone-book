@@ -136,3 +136,7 @@ sentence stays (inside world).
   date reads 1878 (census age 46 in 1861 fits 63 in March 1878), and Elizabeth Victoria's 1901. Charlotte Mary: 3
   January 1900. Husband's name: "Thomson", as the stone has it (Rik, 21 October: "Thomason" was his typo).
 - 21 October 2026 (Rik): Charlotte Mary's Scottish death entry (ScotlandsPeople) NOT needed; the stone gives what the chapter uses.
+- 21 October 2026, RULINGS (Rik: "accept your recommendations on all three"): G, open on the Raven tomb; H, the
+  general lines (peaks, losses, straw) kept together as a frame up front; I, end on the 1878 directory. The draft
+  already follows all three. Earlier DECIDE B to F (first draft): B (Mabel as drafted), C (the gap line), D (Robert,
+  facts only) stand as recommended; A (merge) withdrawn; E superseded by I; F carried into the LEFT OUT list.
