@@ -4,11 +4,11 @@ Source image: sources/images/census-stuff/Elizabeth Stock 1871 census.jpg (RG 10
 CHECKED: 21 October 2026, schedule 169 in full against the image (crop at about 0.45 of a 5952px scan; every entry legible).
 
 George Horace David Chilton | Head | Mar | 35 | Solicitor & Attorney | London
-Isabella Chilton            | Wife | Mar | 32 | Do Wife             | Dundee
+Isabella Chilton            | Wife | Mar | 32 | Do Wife             | Oundle [followed by a large scrawl, "Northamp[ton]": the county; CORRECTED 21 October 2026 from a misreading "Dundee"]
 Guy Chilton                 | Son  |     | 5  | Do Son              | Middlesex Islington
 Stanley Chilton             | Son  |     | 4  | Do Son              | Do Do
 Reginald Horace Chilton     | Son  |     | 11 [months, reading of the unit uncertain] | Do Son | Do Stoke Newington
 Susan Newman                | Serv | Unm | 16 | Nursemaid           | Wethersfield Essex
 Elizabeth Stock             | Serv | Unm | 18 | General Servant     | Do Do
-NOTES: a large clerk's scrawl across the birthplace column at the top ("Northamp..."?) is an office mark, not an entry.
+NOTES: the large scrawl after "Oundle" is "Northamp[ton]", the county of Isabella's birthplace (MASTER_NOTES: Isabella nee Todd, born Oundle), not an office mark.
 Elizabeth was sixteen (born 18 February 1855); entered as 18. Susan (baptised 28 October 1855) was fifteen; entered 16.
