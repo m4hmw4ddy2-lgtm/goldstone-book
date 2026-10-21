@@ -1,0 +1,22 @@
+GRO BIRTH CERTIFICATE: MABEL FRANCES (GOULDSTONE), 1 MAY 1873, GREAT SAMPFORD
+Source image: sources/images/birth-certificates/Mapel Frances birth cert.jpg (entry strip; uploaded by Rik)
+CHECKED: 21 October 2026, the entry in full against the image, at page size (every word legible).
+
+No. 228
+When and where born: First May 1873 Great Sampford
+Name: Mabel Frances
+Sex: Girl
+Name and surname of father: [blank]
+Name, surname and maiden surname of mother: Emily Gouldstone [no maiden surname]
+Rank or profession of father: [blank]
+Signature, description and residence of informant: Emily Gouldstone, Mother, Great Sampford [signed, not a mark]
+When registered: Twenty ninth May 1873
+Signature of registrar: Henry Carslake [read "Caslake"; the "r" is not clear], Registrar
+
+NOTES (not for prose):
+- No maiden surname and no father: the form of an unmarried mother's entry. Emily senior was married to Thomas, so the
+  mother is very probably the daughter, Emily (19 in April 1871); the 1901 census has Mabel a granddaughter
+  (dramatis_personae.md). Both Emilys could write (Emily senior signed William's registration, 1856), so the signature
+  does not decide it.
+- Henry Carslake: a Mr. Carslake was relieving officer and inspector of nuisances at Great Sampford in 1866 (the
+  cholera report, Chelmsford Chronicle, 9 November 1866).
