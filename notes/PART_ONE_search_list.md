@@ -491,9 +491,27 @@ E2. A STRIKE AT GREAT SAMPFORD, winter 1876-77. Chelmsford Chronicle, 15 Decembe
     twenty, at home or at Finchingfield (not placed).
 E3. THE 1874 LOCKOUT IN ESSEX. Re-found online 21 October: the lock-out "spread to Halstead and the Birch area"
     (Halstead Times, 4 April 1874, via Brown, Meagre Harvest, quoted by Foxearth); Clifford, The Agricultural Lock-out
-    of 1874 (1875), lists "Halstead, Essex" among the districts receiving grants from the National Executive (the scan
-    reads "1,93i", presumably 1,931 pounds) and has "End of the struggle — Union allowances stopped" (Chapter V). The
-    "339 men" and "10 August" NOT YET RE-FOUND (Clifford's full text could not be read past its first part here).
+    of 1874 (1875), lists "Halstead, Essex" among the districts receiving grants from the National Executive.
+    CHECKED 21 October 2026 in the full book (sources/books/The_Agricultural_Lock_out_of_1874.pdf, Rik's upload):
+    - p. 21, "authentic list of grants made to various districts by the Central Executive at Leamington, between the
+      months of March and August 1874": "Halstead, Essex, 1,460 0 0" (one thousand four hundred and sixty pounds).
+      The "1,931" read earlier from the online scan is SAWSTON's line, not Halstead's: corrected.
+    - p. 14: the men round Newmarket "were locked out on the 21st of March"; "Little attention had been aroused
+      outside the district by the lock-out in North Essex and Suffolk" (so North Essex was locked out earlier).
+    - p. 13: the Exning notice "almost identical with the one given in 1872 in Essex"; wages then 12s. a week.
+    - pp. 147-8, footnote: "On August 3, the executive committee of the National Labourers' Union" confirmed the
+      sub-committee's resolution of July 27 and decided "to pay one week more to locked-out men not in employment";
+      no permanent relief for men unable by age or infirmity to migrate. So the allowances ended about 10 August,
+      as old Ch4 had it (a week from the 3rd): usable as "in the second week of August", or as the resolution itself.
+    - Foxearth, "Charles Jay" page (foxearth.org.uk/CharlesJay.html), read 21 October: "Promissory notes for £1 were
+      given by the emigrants in exchange for a kit" (Jay at a meeting) CONFLICTS with the Emigration page's "grants
+      of £1 per man, 10s for a wife, and 5s for each child": the fares/grants line is NOT SAFE until Jay's own text
+      (Labourers' Union Chronicle) is seen. The same page dates the union's failure to pay to 27 July (unsourced);
+      Clifford's 27 July sub-committee and 3 August executive agree.
+    - "339": NOT in Clifford as Essex strike pay (the only 339s are a feed bill and a page number). Source still
+      unknown: DO NOT USE until found.
+    - p. 36-37, Exning (Suffolk): a family about to sail for Queensland, the wife: "It will be a poor place if we
+      don't" (get a better house). Suffolk, not Essex: notes only.
 E4. THE PLAIT COLLAPSE, DATES: no newspaper source in a first pass (plait trade depression, Essex, 1870-82). A
     secondary history is needed (the Luton straw hat trade; or VCH Essex) before any date is used.
 E5. Also found: the new Baptist chapel at Great Sampford, memorial stone laid, Chelmsford Chronicle 4 June 1875, p. 8

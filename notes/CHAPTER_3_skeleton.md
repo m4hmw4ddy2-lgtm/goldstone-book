@@ -91,5 +91,6 @@ SOURCE STATUS of old Ch4's social material (checked 21 October 2026):
   UPDATE 21 October (Rik: these were sourced online in an earlier session, unlogged): the departure details and the
   Halstead spread RE-FOUND (Jay, Labourers' Union Chronicle 25 April 1874, and Halstead Times 4 April 1874, both via A.
   Brown, Meagre Harvest, quoted by Foxearth; Clifford 1875); the Chelmsford Chronicle of 17 April 1874 found as a
-  contemporary report. "339" and "10 August" not yet re-found. See PART_ONE_search_list.md, E1-E3.
+  contemporary report. Clifford checked in full (Rik's upload): Halstead's grant 1,460 pounds (not 1,931); the allowances ended a week
+  after 3 August; "339" NOT found (do not use). See PART_ONE_search_list.md, E1-E3.
 - The Raven tomb: Rik's photographs (MASTER_NOTES); 1863 and 1868 soft in the scan.
