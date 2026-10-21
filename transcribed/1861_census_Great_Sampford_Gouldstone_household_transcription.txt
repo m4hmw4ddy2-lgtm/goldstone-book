@@ -1,0 +1,23 @@
+1861 CENSUS, GREAT SAMPFORD, ESSEX: THE GOULDSTONE HOUSEHOLD (SCHEDULE 5)
+Source image: sources/images/census-stuff/Gouldstone Household 1861.jpg (RG 9/1123, folio 84, page 1; uploaded by Rik
+21 October 2026)
+CHECKED: 21 October 2026, the whole page against the image (crop at 1.5x for schedules 1-4; Thomas's line at page size
+and crop). Enumerator's name not on this page: "John Burton" is from the index (MASTER_NOTES, 30 July 2026).
+
+Page 1 of the book; road "Village" throughout.
+1  William Philpott, Head, Mar, 46, Grocer, b. Essex Gt Sampford; Zillah, wife, 44, b. Hempstead; Esther, daur, 17;
+   Solomon, son, 12
+2  Steward Porter, Head, Widr, 61, Tailor, b. Gt Sampford
+3  Thomas Martin, Head, Mar, 23, Ag Lab, b. Lt Sampford; Eliza, wife, 23; Rebecca, daur, 2
+4  George Gray, Head, Mar, 44, Master Carpenter employing one man, b. Lt Sampford; Mary, wife, 43; sons Frederic 17
+   (carpenter), Walter W. 15, James J. 13 (scholar), John J. 11, Sidney H. 9, David C. 6, Oswald R. 1 (seven sons)
+5  Thomas Gouldstone, Head, Mar, 39, Blacksmith employing 3 Men, b. Essex Gt Sampford
+   Emily Do, Wife, Mar, 27, b. Essex Wimbish
+   Robert Do, Son, 7; Emily Do, Daur, 9; William Do, Son, 4; Thomas Do, Son, 2; all b. Gt Sampford
+NOTES:
+- The July note (MASTER_NOTES, "immediate 1861 neighbours": Norris, Ruffle, Watson, Drane, with the Gouldstones as
+  "Family 10") is CONTRADICTED by this page: the smithy is schedule 5, after Philpott, Porter, Martin and Gray. The
+  Chapter Two draft's sentence built on the July note is replaced (21 October 2026).
+- William Philpott: the "W. Phillpott" with whom Thomas occupied the Orchard (Lot 32, 1867) is very probably he; the
+  prose does not say so. George Gray: the "George Grey" of Lot 27 (1867) and probably the carpenter's son "named Gray"
+  taken ill in the cholera (1866). Notes only.

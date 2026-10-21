@@ -1,0 +1,35 @@
+1861 CENSUS, WETHERSFIELD, ESSEX: BREWERY HOUSE, THE STOCK HOUSEHOLD (SCHEDULE 15)
+Source image: sources/images/census-stuff/Stock Household 1861.jpg (RG 9/1113, folio 107, page 3; uploaded by Rik
+21 October 2026)
+CHECKED: 21 October 2026, schedule 15 in full against the image (crops at 2x), including the "Whether Blind, or
+Deaf-and-Dumb" column. Rik read John Ansell's "Pauper" and "Blind" from the image the same day; agreed. Schedules 13
+and 14 (Raven, Westwood) CHECKED line by line the same day (crop at 1.5x). Schedules 16 and 17 read at page size only.
+
+Name            | Relation      | Condition | Age M | Age F | Occupation | Where born            | Blind etc.
+Thomas Stock    | Head          | Mar       | 54    |       | Ag. Lab.   | Do [Wethersfield, Essex] | -
+Jemima Do.      | Wife          | Do. [Mar] |       | 49    | (blank)    | Do                    | -
+Elizabeth Do.   | Daur.         | -         |       | 6     | Scholar    | Do.                   | -
+John Ansell     | Fat. in Law   | Widower   | 85    |       | Pauper     | Do                    | Blind
+Emma Ansell     | Daug. in Law  | Un.       |       | 20    | Straw Plaiter | Do                 | -
+
+Road etc.: ditto marks under "Brewery House" (schedule 13), as for schedules 14 and 16; one house inhabited.
+
+Rest of the page, read at page size only, NOT checked line by line:
+CHECKED 21 October 2026:
+- 13, Brewery House: Thomas Raven, Head, Un[married], 46, "Farmer 100 ac. 6 men & 3 boys", with "& Maltster & Brewer"
+  written above, born Cressing; Sarah Do., Sister, Do., 53, "House Keeper"; Jane W. Do., Sister, 44, "Do." [house
+  keeper]; Thomas Do., Nephew, 19, "Brewer"; E. V. King, Visitor, 29, "Farmers Daug.", born Gt Bardfield, Essex.
+- 14: William Westwood, Head, Mar, 72, "Shoe Maker (master)", born Wethersfield; Ann Do., Wife, 68, NO OCCUPATION.
+  (Old chapters/CHAPTER_1.md says Ann Westwood plaited straw: CONTRADICTED by this page.)
+- NOTE: Thomas Raven's memorial names his wife Elizabeth Victoria (MASTER_NOTES). The visitor "E. V. King", 29, may
+  be she, before their marriage: NOT established, not for the prose.
+READ AT PAGE SIZE ONLY:
+- 16: Elizabeth Love, widow, 78, born Acton, Suffolk; George, son, unmarried, 36, brewer (journeyman).
+- 17, Brewery Tap: Edwin Martin, 32, beer retailer, born Finchingfield; Maria, 28; George, 6; Emma, 2; Sarah, 1.
+
+Notes:
+- Thomas Stock and Jemima are both given as born at Wethersfield. Thomas was baptised at Finchingfield (1802) and
+  Jemima at Hornchurch (1811): the census birthplaces are wrong for both. Not for the prose.
+- Thomas's 54 and Jemima's 49: as in MASTER_NOTES ("Final corrections"); Jemima's 49 fits her 1811 baptism.
+- The 1861 sale (Chelmsford Chronicle, 30 August 1861) has the double tenement "in the occupation of Thomas Stock
+  and Harriet Love". No Harriet is on this page; Elizabeth Love (schedule 16) is the nearest. Not resolved.

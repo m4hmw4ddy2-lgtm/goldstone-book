@@ -1,0 +1,19 @@
+1871 CENSUS, GREAT SAMPFORD: THE WHITE HOUSE, MOOR END (SCHEDULE 16)
+Source image: sources/images/census-stuff/Gouldstone Household 1871.jpg (RG 10/1710, page 6(?); image scanned on its
+side; uploaded by Rik 21 October 2026)
+CHECKED: 21 October 2026, schedule 16 in full against the image (rotated, crops at 0.4 of a 7232px scan).
+
+Road etc.: "Do [Moor End] White House"
+Thomas Gouldstone | Head | Mar | 49 | Blacksmith & Beer Retailer ("Retailer" written above "Beer") | Essex Gt Sampford
+Emily Do          | Wife | Mar | 37 |                     | Do Wimbish
+Emily Do          | Daur | Unm | 19 |                     | Do Gt Sampford
+Robert Do         | Son  | Do  | 16 |                     | Do Do
+William Do        | Do   |     | 14 | Scholar             | Do Do
+Thomas Do         | Do   |     | 12 |                     | Do Do
+Bennet Do         | Do   |     | 9  |                     | Do Do
+Flora Do          | Daur |     | 7  |                     | Do Do
+Hugh C. Do        | Son  |     | 3  |                     | Do Do
+Neighbours: 15, Moor End, Thomas Reynolds, ag lab, and family; 17, Moor End, Henry Richardson, ag lab, and family, with
+John Richardson, lodger, 66, dealer, and his wife Sarah.
+CORRECTION: the notes had Thomas as "Blacksmith & Publican" (index). The page says "Blacksmith & Beer Retailer".
+Corrected in every file, 21 October 2026.

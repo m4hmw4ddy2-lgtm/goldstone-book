@@ -1,0 +1,25 @@
+1861 CENSUS, FINCHINGFIELD, ESSEX: MALTING YARD, THE SUCKLING HOUSEHOLD
+Source image: sources/images/census-stuff/Suckling Household 1861.jpg (RG 9/1113, page 38; uploaded by Rik 21 October 2026)
+Index transcript: MyHeritage, in sources/genealogy/MyHeritage Tree.ged (RG09/1113, p. 64, ED 4, enumerator Edward F Beddall)
+CHECKED: 21 October 2026, the Suckling household in full against the image (crops at 2x), including the
+"Whether Blind, or Deaf-and-Dumb" column. Ecclesiastical district: St John the Baptist.
+
+Road etc.: Malting Yard ("Do." under Malting Yard); 1 house inhabited.
+Schedule number in the margin: read as 247 (out of run with 237, 238, 239 above; not load-bearing).
+
+Name            | Relation          | Condition | Age M | Age F | Occupation   | Where born
+Edward Suckling | Head              | Mar       | 76    |       | Pauper       | Do [Essex]. Barking ("Bocking" overwritten "ar")
+Sarah Do.       | Wife              | Mar       |       | 71    | Do [Pauper]  | Do. Cranham
+John Do         | Son               | Mar       | 28    |       | Ag. Lab.     | Do. Finchingfield
+Ann Do.         | Daur in Law       | Mar       |       | 20    | Straw Plaiter| Do Bocking
+Willie Do.      | Grand Son (written over a struck "Son in Law") | | 1 |  |              | Do. Finchingfield
+
+Whether Blind, or Deaf-and-Dumb: BLANK for every member of the household (and for the whole page).
+
+Notes:
+- The occupation and birthplace entries drift down about half a line from Edward's row onward; the reading above
+  follows the order of entries, which agrees with the index transcript.
+- Immediately below the household the enumerator wrote "End of Finchingfield Village": the Sucklings' dwelling
+  at Malting Yard (a yard, not a house) is the last entered in the village. Not for the prose (Rik, 21 October).
+- "Blind, out of work" (old chapters/CHAPTER_2.md, line 9; archive session_update_2026-07-14.md, "both
+  blind/elderly") is CONTRADICTED by this page: the blind column is blank, and the occupation is "Pauper" only.

@@ -1,0 +1,14 @@
+1871 CENSUS, ST MARY STOKE NEWINGTON: 115 ALBION ROAD (SCHEDULE 169), CHILTON HOUSEHOLD, WITH ELIZABETH STOCK
+Source image: sources/images/census-stuff/Elizabeth Stock 1871 census.jpg (RG 10/310, folio 24; uploaded by Rik
+21 October 2026). Parliamentary Borough of Finsbury.
+CHECKED: 21 October 2026, schedule 169 in full against the image (crop at about 0.45 of a 5952px scan; every entry legible).
+
+George Horace David Chilton | Head | Mar | 35 | Solicitor & Attorney | London
+Isabella Chilton            | Wife | Mar | 32 | Do Wife             | Dundee
+Guy Chilton                 | Son  |     | 5  | Do Son              | Middlesex Islington
+Stanley Chilton             | Son  |     | 4  | Do Son              | Do Do
+Reginald Horace Chilton     | Son  |     | 11 [months, reading of the unit uncertain] | Do Son | Do Stoke Newington
+Susan Newman                | Serv | Unm | 16 | Nursemaid           | Wethersfield Essex
+Elizabeth Stock             | Serv | Unm | 18 | General Servant     | Do Do
+NOTES: a large clerk's scrawl across the birthplace column at the top ("Northamp..."?) is an office mark, not an entry.
+Elizabeth was sixteen (born 18 February 1855); entered as 18. Susan (baptised 28 October 1855) was fifteen; entered 16.

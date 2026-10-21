@@ -48,7 +48,7 @@ CHECKED AGAINST THE IMAGES, 20 October 2026: each line below read from a close c
 
 NOTES (inference, NOT for prose):
 - Thomas: "blacksmith" alone in 1867 and 1871; "beer retailer" and "blacksmith" in 1874. The 1871 census (April) has
-  him "Blacksmith & Publican" at the White House, Moor End (dramatis_personae.md).
+  him "Blacksmith & Beer Retailer" (corrected 21 October 2026 from the image) at the White House, Moor End (dramatis_personae.md).
 - George Wright, the buyer of Lot 26 ("Freehold house and blacksmith's shop ... in occupation of T. Gouldstone",
   August 1867): a furniture broker in 1867; listed also as a blacksmith in 1871 and 1874; and in 1874 also "farmer,
   White house". Whether these are one man, and whether "White house" here is the White House at Moor End where Thomas
@@ -59,7 +59,7 @@ NOTES (inference, NOT for prose):
   dead pugilist William Winterflood had "no connexion with Great Sampford". Noted; nothing drawn.
 - CAUTION ON "WHITE HOUSE" (added 20 October 2026, from the 1862 list): the directories have a FARM called White
   house, farmed by William Byatt in 1862 and 1871, and by George Wright in 1874. The 1871 census has Thomas, blacksmith
-  and publican, at the White House, Moor End. Whether the directories' farm and Thomas's beerhouse are one building
+  and beer retailer, at the White House, Moor End. Whether the directories' farm and Thomas's beerhouse are one building
   is NOT known; the lead that Wright was Thomas's landlord is weakened accordingly. Historic England 1322551 (the White
   House, Moor End) and the tithe/OS maps may settle it.
 - 1862 also lists "Wright Hannah (Mrs.), beer retailer" and a second blacksmith, James Turpin. A Wright family kept a
