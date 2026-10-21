@@ -94,3 +94,45 @@ SOURCE STATUS of old Ch4's social material (checked 21 October 2026):
   contemporary report. Clifford checked in full (Rik's upload): Halstead's grant 1,460 pounds (not 1,931); the allowances ended a week
   after 3 August; "339" NOT found (do not use). See PART_ONE_search_list.md, E1-E3.
 - The Raven tomb: Rik's photographs (MASTER_NOTES); 1863 and 1868 soft in the scan.
+
+## DRAFT 2: THE EMPTYING, 21 October 2026 (on Rik's ruling; about 1,570 words)
+Shape: the Raven tomb (frame) -> the villages' peaks and losses -> the straw -> 1871 (Elizabeth; William; Joseph in the
+workhouse; the sheds) -> 1873 (Mabel; Jemima and Thomas Stock) -> 1874 (the lock-out; the Queensland departure;
+Elizabeth not on the train; the Chiltons gone; the gap line; the end of strike pay) -> Thomas's two trades; William's
+accident -> Joseph's burial, 1876 -> the Great Sampford strike, winter 1876-77, and Spooner -> the 1878 directory.
+Sources: as above, plus the four checked clips (transcribed/) and Clifford (sources/books/).
+Press used AS press, named: Chelmsford Chronicle 17 April 1874 (with its "London contemporary" named as such) and
+15 December 1876; Colchester Mercury 27 January and 24 February 1877. No unattributed press line.
+LEFT OUT: "339" (unsourced); Jay's union account and its "some 200 at Witham" and the grants (second-hand, and in
+conflict with the Chronicle and with Foxearth's own Jay page); the plait-collapse dates (unsourced); "The Ravens were
+wealthy people" and the 1991 villagers (present-day aside); the Raven tomb's soft years (1863, 1868) left out of the
+prose; the Baptist chapel (notes only); old Ch4's general paragraph on how people left and "None of this happened as a
+single event..." (generic); the Luton manufacturers prospering on imported plait (unsourced).
+DECIDE (new): G. Opening on the Raven tomb, as old Ch4 did (RECOMMEND), or on Elizabeth leaving home. H. The general
+lines (peaks, losses, straw) up front as a frame (RECOMMEND), or threaded through the years. I. Ending on the 1878
+directory (RECOMMEND) or on Spooner's "eighteen men and boys" and "William was twenty".
+DUPLICATION WITH CHAPTERS ONE AND TWO: none in the prose (Ch1 explains plaiting; Ch3 has its collapse). Ch2's water
+sentence stays (inside world).
+- 21 October 2026: the straw paragraph extended on the sources in PART_ONE_search_list.md E7 (imports from about
+  1870; Hertfordshire's plaiters halved in the 1870s and again in the 1880s; Luton's rateable value up nearly half,
+  1876-1888). Secondary sources, all recorded. No Essex date given.
+- 21 October 2026, THE RAVEN TOMB, Rik's reading of the faces (photographs of the women's face and Charlotte Mary's
+  face NOT in the repo):
+  - Udea Elizabeth Jane: "aged 10 years" (NOT 9). Draft corrected; MASTER_NOTES corrected; old chapters/CHAPTER_4.md
+    still says "aged nine" (old chapter, superseded by this one; not edited).
+  - Charlotte Mary, "wife of Alexander Thomson" (confirmed by Rik; "Thomason" was a typo), "second
+    daughter of Thomas & Elizabeth Raven", died at Edinburgh "Jan 3 1800" as typed by Rik, aged 28: 1800 is
+    impossible (her parents married after 1861); taken as 3 January 1900, as the notes had it. To confirm.
+  - Jane Raven: Rik reads "Dec 23rd 1883", aged 47. CONFLICT: the 1861 census (checked) has Jane W. Raven, 44, so 47
+    falls in 1863-64, not 1883 (she would have been about 66). The notes had "29 Dec 1863?". Day and year to settle
+    (GRO death index, Braintree district, Q4 1863 or Q4 1883, Jane Raven).
+  - Charlotte Raven: Rik reads "Nov 8th 1888", aged 58; notes had "9 Nov 1868?". Not on the 1861 page, so no census
+    check. To settle from the GRO death index.
+  - The draft names neither sister's year, so the prose stands either way.
+  - Edith: born 1874, died 1942 (WN063, Wethersfield News; MASTER_NOTES): she outlived her mother (1901). Sourced.
+- 21 October 2026, SETTLED by the GRO death index (Rik): RAVEN, JANE, 47, Mar qtr 1864, Braintree 4a 241, so she died
+  23 December 1863 (day from the stone) and was registered in the new year; RAVEN, CHARLOTTE, 58, Dec qtr 1868,
+  Braintree 4a 209, so she died 8 November 1868. The stone's "1883" and "1888" are worn 6s; likewise Thomas Raven's
+  date reads 1878 (census age 46 in 1861 fits 63 in March 1878), and Elizabeth Victoria's 1901. Charlotte Mary: 3
+  January 1900. Husband's name: "Thomson", as the stone has it (Rik, 21 October: "Thomason" was his typo).
+- 21 October 2026 (Rik): Charlotte Mary's Scottish death entry (ScotlandsPeople) NOT needed; the stone gives what the chapter uses.

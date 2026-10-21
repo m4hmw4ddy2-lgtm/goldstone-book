@@ -517,3 +517,36 @@ E4. THE PLAIT COLLAPSE, DATES: no newspaper source in a first pass (plait trade 
 E5. Also found: the new Baptist chapel at Great Sampford, memorial stone laid, Chelmsford Chronicle 4 June 1875, p. 8
     (not read). Romford County Court, January 1877: Peter Portway, chairman of the Great Sampford School Board (the
     Portway of "Mr. Portway's Houses", 1866).
+
+E6. CLIPS RECEIVED AND CHECKED, 21 October 2026 (sources/images/Media-coverage/the-emptying/; transcriptions in
+    transcribed/): Chelmsford Chronicle 17 April 1874 (Queensland: "50 took train at Witham and 50 at Chelmsford", 350
+    in all); 15 December 1876 (Old Sampford strike); Colchester Mercury 27 January 1877 ("Between 50 and 60" on strike;
+    Moxon: "less than 50", "members of the Old Sampford branch"); 24 February 1877 (Spooner). Chelmsford Chronicle 4
+    June 1875 (the new Baptist chapel): OCR read only; a history of the chapel since 1800 and the old building ("lath
+    and plaster", "two wooden pillars" to keep the roof up); nothing on the depression in the part read; notes only.
+    Labourers' Union Chronicle, 25 April 1874: NOT on Findmypast (Rik). Jay's account stays second-hand (Brown, via
+    Foxearth): usable only attributed as such, or not at all.
+
+E7. THE PLAIT COLLAPSE AND LUTON, sourced 21 October 2026 (web; all SECONDARY):
+    - Imports "of cheaper Italian, Chinese and Japanese plait from 1870 onwards": P. Horn, Victorian Countrywomen
+      (1991), p. 169, as cited by C. Robinson, "Imports, Mechanisation and the Decline of the English Plaiting
+      Industry: The View from the Hatters' Gazette, Luton 1873-1900" (MA by Research, University of Hertfordshire;
+      uhra.herts.ac.uk/id/eprint/15726), p. 20, n. 50.
+    - "From the 1870s the import of cheap straw plait from Japan and China signaled the demise of the plaiting trade";
+      in Hertfordshire "the number of female plaiters almost halved in the 1870s, and halved again in the 1880s"; peak
+      employment 1871 (12,804); 2,342 by 1901: N. Goose, "How Saucy did it Make the Poor? The Straw Plait and Hat
+      Trades, Illegitimate Fertility and the Family in Nineteenth-Century Hertfordshire" (uhra.herts.ac.uk/id/eprint/749),
+      p. 2. (Journal and year to record from the article itself.)
+    - Decline dated to "the years between 1879 and 1885": P. Sharpe, Adapting to Capitalism, p. 62, as cited by
+      Robinson, p. 20. (Old Ch4's "collapsed outright between 1879 and 1881" is near this but not it: DO NOT USE "1881".)
+    - Bedfordshire plaiters 21,126 (1861), 23,058 (1871), 17,316 (1881), 3,500 (1891): Hatters' Gazette, April 1891,
+      p. 192, as tabled by Robinson (Table 1). England, about 30,000 in 1871, "a few hundreds" by 1907: Encyclopaedia
+      Britannica, 11th ed. (1911), "Straw".
+    - LUTON: imported plait "created wealth in Luton, especially during the 1870s and 1880s" (Robinson, abstract);
+      Luton's rateable value 69,000 pounds (1876), 101,000 (1888), over 125,000 (c. 1899): Hatters' Gazette, March 1888,
+      p. 129, and January 1899, as tabled by Robinson (Table 2). Not uniform: "much depression in the straw hat trade"
+      (Hatters' Gazette, November 1893, p. 600).
+    - CAUTION FOR ESSEX: the figures are Hertfordshire's and Bedfordshire's. In Essex the trade was not gone by 1881:
+      Finchingfield's 1881 table still has 108 women in "Dress" (Vision of Britain), and the Great Sampford directories
+      of 1871 and 1878 still say "The straw-plait manufacture is carried on here". The draft therefore names
+      Hertfordshire for the numbers and gives no Essex date.
