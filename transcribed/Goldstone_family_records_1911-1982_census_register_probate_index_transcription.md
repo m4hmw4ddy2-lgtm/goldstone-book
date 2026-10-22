@@ -42,6 +42,10 @@ IMAGE CHECK (check-once rule): 22 October 2026 (Claude): schedule 67 cropped and
   itself was 28 March 1942, certificate).
 NOTES: answers live_lists 2 ("Where Vera was at the 1939 Register"): in Bath, a civil servant, boarding with another
 young civil servant in a household headed by Fanny R. Cole. Why Bath, or which department, is NOT on the page.
+LOCATION (Rik, 22 October 2026, from a modern map): Marlborough Street, Bath, runs north from the junction of Weston Road
+and Julian Road, between Cavendish Road (Royal Victoria Park beyond it) and St James's Square. The modern map's house
+numbers do not run in a simple order (it shows 11 between 3 and 2), so which building was No. 3 in 1939 is NOT shown;
+the Register's own order (4, 3, 2, 1, then 12, 11, 10, 9) is the record. The map image is not in the repo.
 
 ## 3. PROBATE CALENDAR (England and Wales), 1980 AND 1982
 Images: sources/images/census-stuff/Vera Georgina Ferguson Probate.jpg (1980 calendar, "PAGE 2670"); Lily AR Godbold
