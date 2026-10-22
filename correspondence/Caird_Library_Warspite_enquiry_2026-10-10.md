@@ -1,5 +1,5 @@
 # Caird Library (National Maritime Museum): Marine Society archive, training ship Warspite, 1901
-Sent by Rik, 10 October 2026, to library@rmg.co.uk (text as drafted in session; Rik may have edited before sending). Awaiting reply.
+Sent by Rik, 10 October 2026, to library@rmg.co.uk (text as drafted in session; Rik may have edited before sending). No reply by 22 October 2026; CHASER SENT by Rik, 22 October 2026 (below). Awaiting reply.
 Purpose: live_lists 4, item 45; CHAPTER_18_skeleton.md, finding 12.
 
 Subject: Marine Society archive (MSY): a boy entered on the training ship Warspite, April 1901
@@ -22,6 +22,28 @@ My questions:
 4. Could the Society's records also show how he came to the Royal Navy from the Warspite (a discharge or transfer entry), and what they say of his parents or birthplace?
 
 Any guidance would be much appreciated, including a note of anything else in the collection worth looking at for a boy of 1901.
+
+With thanks and best wishes,
+
+Rik Ferguson
+
+---
+
+## Chaser, sent by Rik 22 October 2026 (text as drafted in session; sent as a reply to the original)
+
+Subject: Re: Marine Society archive (MSY): a boy entered on the training ship Warspite, April 1901
+
+Dear Caird Library team,
+
+I wrote on 10 October about the Marine Society's records (MSY) for the training ship Warspite in 1901, and I'm following up in case my message went astray. My original email is below.
+
+In short, I am looking for my great-grandfather, Albert Goldstone (also recorded as Albert Madams), who was placed on the Warspite in April 1901 and entered the Royal Navy on HMS Impregnable on 11 November 1901. I would be grateful to know:
+
+1. the reference of the register of boys admitted covering April to November 1901, and whether any Warspite entry register survives;
+2. whether that material is open, or closed because it names individuals;
+3. whether you offer a paid search or copying service for remote researchers.
+
+If it would help, I'd also welcome a note of where the Warspite lay in 1901, at Woolwich or Greenhithe, if the Society's records show it.
 
 With thanks and best wishes,
 
