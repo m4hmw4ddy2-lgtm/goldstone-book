@@ -48,3 +48,11 @@ If it would help, I'd also welcome a note of where the Warspite lay in 1901, at 
 With thanks and best wishes,
 
 Rik Ferguson
+
+---
+
+## Acknowledgement received 22 October 2026 (Sophie Seeyave, Archives Assistant, Royal Museums Greenwich)
+
+"I can confirm that we have safely received your original message and are currently in the process of checking related
+archive material. We aim to respond to enquiries within 10 working days, so you will receive a response soon."
+(Ten working days from 22 October 2026: by about 5 November 2026.) Short reply of thanks drafted in session the same day.
