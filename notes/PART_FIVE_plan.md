@@ -459,6 +459,8 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
   21 January 1935 gives its one line, quoted and attributed to the paper, named and dated ("had been described as an
   ideal patient. He worked in the various wards."); the paragraph's errors ("found guilty", "52 years", "80 years of
   age") are left out, not corrected. Milne's "confusional insanity" stays out until live_lists 4, item 28 is sourced.
+  [REVISED 22 October 2026 (Rik), drafting Chapter Twenty-One: the Evening Standard paragraph is quoted WHOLE, heading
+  included, as printed, uncorrected (press as press); CHAPTER_21_skeleton.md, LOG.]
 - **DECIDE 4: (a).** Neither the Germany birthplace nor 1886 given again in our voice; a later document carrying either
   is named and the matching detail left to the reader; the 1911 census only if its image is held, then once.
 - **DECIDE 5: (a).** The marriage in its place from the register, with what the Prologue did not use; the father column

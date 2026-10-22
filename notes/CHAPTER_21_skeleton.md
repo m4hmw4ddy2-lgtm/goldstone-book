@@ -417,3 +417,205 @@ chapter's last record of his public life moves from 1945 to 1953.
   ruling: both are his own words, in his own voice, and both begin "I shall"; read before the chapter, each can be taken as
   a verdict on the life that follows, and this chapter holds two defeats, Brian's death and William's. Plainer candidates
   from the record, in the manner of "Without Lights" and "Invalided": "Ex. R.N." (Vera's certificate, 1921) or "Rigger".
+
+## DRAFTING LOG
+- 22 October 2026: MOVEMENT ONE DRAFTED (chapters/CHAPTER_21.md, held locally; about 330 words). Image checks made today
+  and recorded in new transcription headers: transcribed/1921_census_46_Edinburgh_Road_Chatham_Goldstone_transcription.md,
+  transcribed/Orbita_inward_passenger_list_14_July_1930_Albert_Goldstone_transcription.md,
+  transcribed/Vera_Goldstone_birth_certificate_1921_transcription.md; earlier today: the K.C., the last character entry,
+  the medal roll (service-record header), the 1911 schedule (family-records transcription). Lily's 1924 item checked
+  20 October. Sources, sentence by sentence: ADM 188/383 (K.C. issued 17/4/19; "V.G."); ADM 171/103 p. 131 with the TNA
+  guide (ST., B., V.; "S." = Self); IWM (the King's Certificate of Discharge, ruling B); Vera's birth certificate (1 March
+  1921; informant the mother; registered 7 April; "Seaman Yard Craft H.M.D. Ex. R.N"); 1921 census (signed by Albert; six
+  rooms, six persons; "At Home"; Lily 7, "Whole Time"; Clarie 2; Vera 3 months; Alma Rose, sister-in-law, general servant;
+  "Seaman Yard craft", Chatham Dockyard); 1911 schedule (Rennie Goldstone, alone, tailoress, 46 Edinburgh Road) and
+  Albert's 1911 census (Dominion, Glengariff Harbour, the same night); Chatham Observer, 1 August 1924 (the Board's
+  announcement "on Monday", 28 July; free places from September; "Lily A. R. Goldstone, Luton Council"); 1939 Register
+  (Doris, year only); Orbita list (Pacific Steam Navigation Co.; from Talcahuano; embarked Bermuda; Plymouth 14 July 1930;
+  second class; "Rigger"; 46 Edinburgh Road; "44"). GENERAL KNOWLEDGE used, recorded: Talcahuano is in Chile.
+  Unattributed press lines: NONE (the Lily list is attributed to the Chatham Observer). Left out: the birthplace and age
+  on the 1921 census (ruled); Alma Rose's employer (ruled); the house's room count in 1911 (3 or 5, uncertain); why
+  Bermuda (not recorded).
+- 22 October 2026 (Rik: "1 para is a list"): the census paragraph rewritten as prose (the household no longer a
+  semicolon list; the occupation first; "the six of them had six rooms").
+- 22 October 2026 (Rik: "this whole movement is a boring chronology, no texture"): REDRAFTED. Added, each sourced:
+  the census put back from April to Sunday 19 June 1921 "due to industrial unrest" (National Records of Scotland,
+  research guide "1921 census", https://www.nrscotland.gov.uk/learning-and-events/research-guides/1921-census, read 22
+  October through the fetching tool: Scotland's guide, the same census day for England and Wales; to confirm from a TNA
+  page if wanted); that day was Albert's birthday (birth certificate, 19 June; weekday by the guide); the Orbita's
+  fellow passengers from Bermuda on the same page (actress Florence Glossop-Harris, an actor-manager, an actor, a butler,
+  a nurse: list checked today, recorded in its transcription). Lily and Doris joined in one paragraph ("at ten": born 14
+  December 1913, so ten in July 1924; "was given one of ... free places": the paper's "scholarships had been awarded",
+  "Free places tenable as from September next"). STILL THIN by nature: no document for 1919-1921, nothing on his
+  dockyard work beyond the trade.
+- 22 October 2026 (Rik's lead): Wikipedia, "Admiralty Yard Craft Service" (https://en.wikipedia.org/wiki/
+  Admiralty_Yard_Craft_Service, read 22 October through the fetching tool): "the civilian service which operated
+  auxiliary vessels for the British Admiralty"; it "operated tugs, harbour ferries, launches, and lighters", mainly in or
+  near HM Dockyards; crews "answered to the Captain's Department" in each dockyard; grades Boy, Ordinary Seaman, Able
+  Seaman, Harbourman and upward (no plain "Seaman" grade on the page: Albert's "Seaman Yard craft" read as a seaman in
+  that service, not as a named grade). SECONDARY: the page's own sources are the Admiralty's "Conditions of Service, Rates
+  of Pay, Allowances etc. of the Ratings Serving in the Yard Craft at HM Dockyards, Victualling Yards etc. at Home"
+  (December 1926), the 1914 Statement of the Decisions of the Lords Commissioners on dockyard petitions, and the Times
+  (1923, 1925). One sentence added to the census paragraph, in our words, describing the service (not Albert's own duties,
+  which no document gives). TO CONFIRM before approval, if Rik wants it stronger than Wikipedia: the 1926 Admiralty
+  Conditions of Service (TNA ADM, or a library copy).
+- 22 October 2026 (Rik's lead): Wikipedia, "Chatham Grammar School for Girls" (read 22 October through the fetching
+  tool), citing Audrey Perkyns, A History of Chatham Grammar School for Girls 1907-1982 (Gillingham: Meresborough Books,
+  1982), pp. 5-9: founded January 1907 as the Chatham County School for Girls; an entrance examination; maintained by the
+  local authority, but fees payable; scholarships for poorer families; fee payers fewer between the wars (p. 52); the
+  present building opened February 1913 (p. 15); an extension in 1931 nearly doubling it (pp. 19-21). One sentence added
+  to Lily's paragraph (examination; maintained but fee-paying; a free place meant hers were not paid). GENERAL KNOWLEDGE,
+  recorded: a "free place" was a place without fees (the paper's own phrase, "Free places tenable", supports it). That
+  Lily sat the examination is NOT said (not in the Observer). SECONDARY; Perkyns (1982) is the book to see, if wanted.
+  Available for movement two: the 1931 extension, the year before Vera's scholarship (a clause, if it earns its place).
+- 22 October 2026 (Rik, on Bermuda: "contract rigging work maybe?"): a guess, kept out of the prose (no document).
+  LEAD to test it: the OUTWARD passenger list (BT 27, UK outward passenger lists 1890-1960, Ancestry and Findmypast) for
+  his voyage TO Bermuda, 1929-1930: it would give the date, the ship, and his occupation as given on leaving, and perhaps
+  a contract or employer. Bermuda had a Royal Naval Dockyard (GENERAL KNOWLEDGE, not to be used without a source).
+  Lily's sentence: "hers were not paid" changed to "the family paid none" (the first read as an unpaid debt).
+- 22 October 2026 (Rik): "she will have sat the examination, and then on passing been awarded a scholarship, also
+  general knowledge". RULED: Lily's sitting the entrance examination may be stated (general knowledge, Rik's ruling; the
+  school's entrance examination from Perkyns via Wikipedia; the award from the Observer, "scholarships had been
+  awarded"). The exam's date is not given: the prose dates only the award ("in the summer of 1924"). Same pattern
+  available for Vera in 1932, if wanted.
+- 22 October 2026 (Rik): UK outward passenger lists (BT 27) searched for Albert's voyage to Bermuda, 1929-1930: nothing
+  found. Why he was in Bermuda stays unknown; the prose says nothing of why (K (a)). Lead closed unless new evidence.
+- 22 October 2026 (Rik: "the medal roll gives him? No it doesn't, he was awarded the medals, the roll gives nothing"):
+  recast: he "was awarded" the three medals; the roll is named only for its "How Issued" column ("S.", for himself).
+- 22 October 2026 (Rik: what does "How Issued" mean; did he collect them?): searched. The TNA guide (Appendix 2): "S. =
+  Self", "FR. = Father". Royal Navy Research Archive forum (royalnavyresearcharchive.org.uk, topic 814; a forum reply,
+  a LEAD not a source): "S - means issued to Self (i.e. directly, not to a relative)"; "F = Father (i.e. sent to father
+  of the man)". On Albert's own roll page the column also holds ship names in inverted commas ("Valiant", "Dragon",
+  "Maidstone", "Diligence", "Malaya") and "By A.M." / "A.M.": very probably medals sent to a man's ship, or by another
+  route (INFERENCE; not confirmed in any source found). WHAT IS KNOWN: the column records to whom (or through what) the
+  medals went; Albert's went to him, not to a relative or a ship. NOT KNOWN: whether they were posted or collected,
+  where, or when (the roll is undated). No source found on the mechanism (TNA's ratings guide: nothing; it suggests an
+  enquiry). Prose must not say "sent" or "collected".
+- 22 October 2026 (Rik): the roll sentence now "The medal roll records them as issued directly to him." (Rik's wording; "S." = Self, TNA guide). The Orbita line: "The list enters Albert as a rigger".
+- 22 October 2026 (Rik's question; NOTES ONLY, NOT FOR PROSE): the daughters' conceptions set against the sheet (birth
+  minus about 38 weeks, plus or minus two). Lily (14 Dec 1913): about 9 March to 6 April 1913; Albert in Pembroke I,
+  Chatham, 26 Feb to 26 Oct 1913 (home from the Drake, Plymouth, 21 Feb). Clarie (21 Oct 1918): about 14 Jan to 11 Feb
+  1918; Pembroke I, 1 Jan to 26 Feb 1918, between Courageous and Alexander. Vera (1 Mar 1921) and Doris (1928): Chatham,
+  out of the Navy. Consistent throughout; nothing unexpected. INFERENCE: not in the narrator's voice (the dates already in
+  Chapter Twenty let the reader see it). Caveats: gestation varies; the two dates rest on the 1939 Register (ruled) until
+  birth certificates are seen. Rik: "they all looked alike anyway" (family knowledge, not for the record).
+- 22 October 2026 (Rik: "no, continue"): MOVEMENT ONE taken as APPROVED. MOVEMENT TWO DRAFTED (held locally; about 300
+  words). Sources: GRO birth index Q3 1932 (Brian, year only, G (a)); Observer 24 June 1932 (Vera's scholarship, Chatham
+  Education Committee; her sitting the examination: general knowledge, Rik's ruling for Lily, applied to Vera; eleven in
+  June 1932, born 1 March 1921); Perkyns via Wikipedia (the 1931 extension, "nearly doubling"); Observer 29 Sep 1933
+  (elections Wednesday 1 November; "the only Labour candidate at present selected", "Mr A. Goldstone, the propaganda
+  secretary", against Clr. M. Packer, Christ Church; Blackmore in St Paul's), 13 Oct 1933 (Packer Mayor-elect; Luton ward
+  against Clr. G. B. Silver; "Clr. Mark Packer"), 27 Oct 1933 (nominations: "46, Edinburgh-road", "ship rigger in H.M.
+  Dockyard"), 3 Nov 1933 (Silver 700, Goldstone 665, majority 35; Stearne presiding, "splendid results", Blackmore's
+  "fine majority", "had put up a magnificent fight"; his words in full); 2 Nov 1934 (Harris the sitting member for
+  Luton; Freeman 832, Goldstone 505). Weekdays by calendar: Wed 1 Nov 1933, Thu 1 Nov 1934. Not used (ruled J): the
+  proposers, the electorates and polls, Harris's 1934 defeat, the 7 Sep and 19 Oct 1934 items, Freeman's clinic, the
+  1931 prizes, Sylvia Wragg. "Mrs M. E. Stearne" given without "J.P." (not needed). "W. Blackmore had won St Paul's ward":
+  the 29 Sep item (his ward) with the 3 Nov item ("had won"). Unattributed press lines: NONE (the Observer named once in
+  the paragraph that begins the elections; the 3 Nov report carries the scene).
+- 22 October 2026 (Rik, movement two): "Clarie and Albert's last child was a boy, Brian Ronald Albert" (no later child in
+  any record; "born" added); Vera "sat the entrance examination in her turn" (Rik's option; it marks the sisters' pattern
+  lightly, by his choice, amending ruling C); the results recast: "Albert lost that election by just thirty-five votes"
+  (1933) and, in the same phrasing, "by three hundred and twenty-seven votes" (1934: 832 - 505 = 327, as printed). The
+  vote totals no longer in the prose (kept in the notes).
+- 22 October 2026 (Rik: "ok, continue"): MOVEMENT TWO taken as APPROVED. MOVEMENT THREE DRAFTED (held locally; about 420
+  words). Sources: inquest papers COR/R1/7/3 (12.5 a.m., 19 January 1935, the Infirmary; inquisition 21 January, Payne,
+  eight jurors; age 78; Milne's deposition: admitted 15 Oct 1883 from Chelmsford Prison, "a married man & a blacksmith by
+  occupation", "in poor bodily health for the last six years" (archivist's reading), "during the last 3 months he
+  gradually became weaker", "Goldstone" struck; Priest on duty; cause; natural causes; the slip "Widower Blacksmith.");
+  Evening Standard, 21 Jan 1935 (checked 30 Sep), the ruled line only; Brian's death certificate (15 May 1937, St
+  Bartholomew's, Rochester; 4; tuberculous meningitis; 33a Connaught Road; mother present; registered 18 May; "Son of
+  Albert Goldstone Rigger H.M.D."); Observer 11 June 1937 (Vera, clerical assistant grade, "will be offered posts");
+  Observer 28 Jan 1939 (the ladies' dinner, Thursday 26 January, Luton Parochial Hall; opened 1931; 80 members; premises
+  "within the next two years"; his words); 1939 Register, Connaught Road (RG 101/1692A by the tree) and Bath (Vera).
+  Weekdays by calendar: Sat 19 Jan and Mon 21 Jan 1935. GENERAL KNOWLEDGE, recorded: the 1939 Register a registration of
+  the whole population at the end of September 1939, a month into the war (war declared 3 September 1939). OUT (ruled):
+  "confusional insanity", "Sept 10th", the Standard's errors, Priest's "every attention", the Helen Cottages address, the
+  envelope, the criminal lunatics register; Vera's 1936 play and 1937 school certificate. "first ladies' dinner": from
+  the chairman's words (the ladies "on their own for the first time since the club was formed"). Unattributed press
+  lines: NONE.
+- 22 October 2026 (Rik: paragraphs two and three of movement three began identically, "By ..."): Brian's paragraph now opens on his death, the Connaught Road move after it; the club paragraph opens on Albert as secretary, the year moved into the dinner's date.
+- 22 October 2026 (Rik: the Register sentence seemed to refer to the club): now "A month into the war, at the end of September 1939, every household in the country was registered." (GENERAL KNOWLEDGE, as before.)
+- 22 October 2026 (Rik: "was registered is the problem"): now active, "the government took down the name of everyone in the country, household by household, in a national register." (GENERAL KNOWLEDGE: the National Registration of 29 September 1939; to source from TNA's 1939 Register guide before approval if wanted.)
+- 22 October 2026 (Rik: why was the register taken?): The National Archives blog, "The 1939 Register: when is a 'census'
+  not a census?" (https://blog.nationalarchives.gov.uk/1939-register-census-census/; no author or date shown; read 22
+  October through the fetching tool, first 100,000 characters): taken 29 September 1939; everyone was issued "with an
+  Identity Card on registration, which they were required to carry at all times"; the Register was used "for the supply
+  of ration books - so no registration, no rations". This SOURCES the date (no longer general knowledge) and the use; the
+  Act is not named there. Offered to Rik as a clause; not applied.
+- 22 October 2026 (Rik: "yes"): the clause applied: "on the twenty-ninth of September 1939 ... in a national register; from it everyone was issued with an identity card, and later with a ration book." (TNA blog, above; "later": the blog's use of the Register for ration books; the date rationing began is not stated and not given.)
+- 22 October 2026 (Rik: the Evening Standard item deserves more; "telling that it was considered newsworthy and that a
+  journalist even clocked it"): given a paragraph of its own: the same day as the inquest, page ten, a heading of its own,
+  its opening words ("William Goldstone, a Walthamstow blacksmith") and the ruled line. The paper's errors still left out
+  (DECIDE 7): "52 years ago ... found guilty", "80 years of age"; the HEADING ("Death After 52 Years in Broadmoor") is not
+  quoted, because it carries one of them. How the paper learned of the death is not recorded: nothing said. "had not gone
+  unnoticed in London": a plain statement that a London paper reported it (the Standard is a London paper); it reads the
+  paper's act, not its motive. Rik to rule whether the heading itself goes in, as printed.
+- 22 October 2026 (Rik: "yes"): DECIDE 7, the Evening Standard part, REVISED: the paragraph is quoted WHOLE, heading
+  included, as printed (checked 30 September 2026), press as press, uncorrected: the reader holds the sworn record
+  (one indictment; seventy-eight at death; fifty-one years) and the inquest just before it. "The death had not gone
+  unnoticed in London" cut. PART_FIVE_plan.md, RULINGS, DECIDE 7 to be annotated to match (not yet done).
+- 22 October 2026 (Rik's line edits on movements one to three, applied): medal roll sentence CUT; Yard Craft sentence
+  compressed (Captain's Department out); the 1911 sentence split; Lily "for Chatham County School for Girls ... aged ten,
+  won one of ... free places"; Vera "who was eleven" ("that year" out); "Albert was switched to Luton ward" (the paper:
+  "will contest Luton ward"); the Register: "compiled a national register, household by household, for identity cards
+  and rationing" (TNA blog). PUSHBACK, applied with Rik's sentence: the Orbita line keeps "also from Bermuda" (the page
+  holds passengers from Antofagasta, Callao, Havana and Mollendo too; without it the actress and the rest are not shown
+  to have joined with him). Kept as Rik's reader advised: Milne's struck "Goldstone"; the Standard's "80 years of age",
+  KNOWINGLY, beside the inquest's seventy-eight (ruling of 22 Oct: quoted whole, uncorrected).
+- 22 October 2026 (Rik: "ok, movement 4"): MOVEMENT FOUR DRAFTED (held locally; about 330 words of prose) with TWO
+  BRACKETED GAPS: Clarie's death (H: certificate or burial register) and Albert's death and burial (L: certificate on
+  order; the burial register for plot 10, 534). Image checks today: Vera's marriage (1942: entry 307; parish church of
+  Luton, Kent; by banns; George William Ferguson, 21, bachelor, aircraft fitter, 35 Dagmar Road, father John Henry
+  Ferguson, labourer H.M. Dockyard; Vera Georgina Goldstone, 21, spinster, clerk, 35 Dagmar Road, father Albert
+  Goldstone, "Rigger"; witnesses Albert Goldstone, Sidney Rose, J. H. Ferguson; rector Guy P. Hel[?]); Michael's birth
+  (21 April 1943, 42 Magpie Hall Road U.D.; parents of 35 Dagmar Road; informant V. G. Ferguson, mother; registered 7
+  May 1943). Weekdays: Sat 28 Mar 1942; Wed 14 Jan 1953. Coal case (Observer, 6 Apr 1945): summarised in our words, the
+  paper named; "five hundredweight": the report's "about five hundredweight" (the charge); "since the seventh of
+  February": "no coal was ordered after February 7th". 1953 (Observer, 16 Jan 1953): all three sentences quoted as
+  printed; "more to the younger men" the paper's words, quoted. The 1939 and 1953 club lines sit fourteen years apart
+  with nothing joining them. NOT used: the groom's father and the other witnesses by name; Magpie Hall Road's nature
+  (not known); Clarie's 1945 name "Clara Irene" (press form); the photograph; the other 1953 speakers. Unattributed press
+  lines: NONE.
+- 22 October 2026 (Rik's reader on movement four, applied): marriage sentence "a twenty-one-year-old aircraft fitter ... at
+  Luton parish church"; Michael's line unchanged, kept plain as a hinge (no "my father"); the coal case trimmed (no
+  quantity, no date, no hour). KEPT against the suggested text: "the Chatham Observer reported" (the report is the only
+  source for the case, so under PRESS AS PRESS it is named). FLAG: "no coal had been ordered" without "since the seventh
+  of February" says a little more than the report ("no coal was ordered after February 7th"): Rik to accept, or restore
+  "that week" style precision. The 1953 paragraph untouched. The two gaps stand; the ending to be built from the
+  certificates so that it keeps the public man the chapter has made (reader's note), not a registry paragraph.
+- 22 October 2026 (Rik's reader, revised): the coal case's fuller evidence RESTORED ("since the seventh of February";
+  "at half past two"): Clarie's only recorded words in the book, and Albert's in civilian life; kept for the voices,
+  as with Joseph and Thomas Gouldstone. "Stealing coal" (no quantity) kept from the trim. This also settles the flag on
+  "no coal had been ordered" (the date is back).
+- 22 October 2026 (Rik): "The Chatham Observer reported that the bench dismissed the case without calling on the defence."
+- 22 October 2026 (Rik): Clarie Irene's death certificate ORDERED (GRO, Q1 1958, Chatham, 5b 369). Both gaps now wait on certificates on order.
+- 22 October 2026 (Rik: "Here's a thing"): three rows of a Chatham cemetery burial list (screenshot, provenance to
+  record; very likely the KFHS transcription of the council's registers): saved to sources/images/burials/ and
+  transcribed (transcribed/Chatham_cemetery_burials_Goldstone_plot_10_534_transcription.md). SETTLES: the shared grave
+  10 / 534 (Brian buried 20 May 1937, Clarie 7 Jan 1958, Albert 26 Jun 1962); Find a Grave's dates are burial dates.
+  NEW: Albert died at All Saints Hospital, Chatham (Rik's birthplace: Part Six only), "Retired", 76; Brian "s/o Albert
+  Goldstone (Shipwright)" against "Rigger H.M.D." (proposed Contradiction 127). H and L: the burials are now usable from
+  this list once its source is recorded (and, for any line quoted, ideally the council's register); the deaths still
+  from the certificates (on order). The burial register search at Medway (funerals@medway.gov.uk, £10) now optional.
+- 22 October 2026 (Rik): the burial list is the KFHS transcript of the Chatham Cemetery registers, 1869-2020 (item 397;
+  Rik holds the full PDFs locally). Provenance recorded in the transcription. The shared grave is now citable (a
+  transcription of the council's registers). Still wanted in the repo: the abbreviations list, the by-grave page for
+  10 / 534, the title page. The council search (£10) not needed unless a line is to be quoted from the register itself.
+- 22 October 2026: reconciled with origin, which had moved (another session's whole-book pass on time-led paragraph
+  openings: chapters 2, 3, 5, 12, 18, 20, CHAPTER_20_skeleton.md, PART_TWO_rules_pass.md; taken as they stand). This
+  session's files laid over it (chapter 21, this skeleton, live_lists, PART_FIVE_plan, four transcriptions, the burial
+  image). The KFHS abbreviations read: C = consecrated ground; P = purchased (or parish, pauper or public); depths and
+  interments as described; Albert's "2nd Inter." a slip for the third (unresolved). The KFHS PDFs uploaded to the repo
+  ROOT: to move to sources/pdfs/Chatham_Cemetery_1869_2020/. CHAPTER TWENTY-ONE not yet checked against the whole-book
+  time-led-openings rule: to do (it now opens three of eighteen paragraphs on a time or date, see below).
+- 22 October 2026: Chapter Twenty-One checked against the whole-book rule on time-led openings (PART_TWO_rules_pass.md,
+  22 October). Seven of seventeen paragraphs opened on a time, three adjacent ("A month into the war", "By the spring of
+  1942", "In March 1945"): the last two recast with the time inside the sentence ("Vera was back in Chatham by the
+  spring of 1942"; "Albert and Clarie were both witnesses at Chatham in March 1945"), no fact changed. Now five of
+  seventeen, none adjacent ("Three weeks after his discharge", "In July 1930", "By the autumn of 1933", "That Monday",
+  "A month into the war").
+- 22 October 2026 (Rik): the cemetery is named in the prose as "Palmerston Road Cemetery" (Chatham).
+- 22 October 2026 (Rik): the KFHS by-grave file confirms 10 / 534: only the three, at varying depths; Rik reads Albert's "P" as purchased. Recorded in the burial transcription, with the caution that the purchaser is not named.
+- 22 October 2026 (Rik): George William Ferguson's burial (KFHS): no. 48565, buried 15 Feb 1962, 41, sheet metal worker, died All Saints Hospital, Chatham; grave 20 / 570. Recorded in the burial transcription; Part Six (DECIDE I). The dates table's row for him to read "Q1 1962; buried 15 Feb 1962" (correction proposed, finding 7).
+- 22 October 2026 (Rik: "Albert paid, none of the others can be true"): RULED: grave 10 / 534 a purchased family grave, bought by Albert; the date of purchase not shown, and not to be given.
