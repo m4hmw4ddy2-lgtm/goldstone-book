@@ -1,31 +1,85 @@
 Chapter Six
 
-THE DETERIORATION
+SO EARLY HOME
 
-They left Frampton Park Road in September 1882, three years into their marriage, for a terrace of thirteen bay-fronted cottages a few miles east, on a new development called Courtenay Place. The houses had gone up the year before, on streets that had not even existed when William and Elizabeth married. Tuppence covered the return fare on the workmen's train that had made the whole area possible. On twenty-five shillings a week, a whitesmith could live at the end of a line and still reach Upper Thames Street by half past seven. Number 8 stood near the station end, close enough that the platforms of St James's Street were the first thing visible from the front step. The sound of the steam trains was something the household simply lived within. Only once did William miss his train, the 6.04 from St James's Street to Liverpool Street, and that was a clock gone wrong rather than any fault of his own. His landlord would later say he was as good as a timepiece.
+It was a quarter past five, two hours before he was expected, when Ada heard somebody in the kitchen. She was in the back bedroom with Elizabeth, washing the babies, and she left Elizabeth and went through. William was standing at the dresser.
 
-The landlord was Charles Clarke, a carpenter, who kept the ground floor with his wife Emma and let the rooms above. He and William had struck up the sort of friendship that asks little of either man. On a few Sunday mornings they walked together along the river, long stretches of it in silence, and if Clarke tried to start a conversation on the news of the day William had nothing to offer, more at home in some small question of boyish games than anything grown men were meant to discuss. Clarke kept rabbits behind the house, and William would kill one for him when asked, without fuss, a country skill that had survived the move to London.
+"Oh, you did frighten me," she said. "I wondered who it was."
 
-In October the Times would report that his wife said he had shown signs of madness for the last twelve months. Counted back, it put the start barely a month after they moved in.
+He smiled at her. Nothing followed the smile: no word, no explanation for the two hours, nothing beyond the look on his face. She did not wait for one. She had a baby half dressed in the bedroom, so she left him there.
 
-What she described was not new. "During our five years married life," she wrote, "I frequently noticed that my husband was absent-minded and given to brooding. If he were asked a question he would not, no matter how simple it was, or however easy to answer, reply at once. He would think over it, and sometimes say something not concerning the question." Lately she had begun to find him sitting, thinking, and it was only afterwards that she decided what he must have been thinking about.
+Some minutes passed before he followed her. Below, in the garden, Emma Clarke was hanging out washing.
 
-Three boys filled the back room by then. Charles was three and a half, Herbert two and a half, sickly still and unable to walk, and Frederick sixteen months, barely out of her arms. They were quiet children, none of them given to noise, and William, as reserved with them as he was with everyone, would still speak of them by name to anyone who asked. "There's my Charley," he would say, or "There's my Herbert." Another child was coming. He never complained, she said, except that he did not know how she would manage, with her hands so full already and soon to be fuller. When she put it to him that plenty of people managed on less, he stopped being moody and absent.
+When he came through, he went to Elizabeth's bedside and stood there without speaking. Ada was still in the room. "How is it you are so early home tonight?" Elizabeth asked.
 
-Shortly before the birth he said something else. He told her he believed he had not many weeks to live. She thought it a strange thing to say. She thought of it often, later.
+"I left my situation whilst the manager went to dinner and came home."
 
-On the first of June 1883 another couple came to lodge across the landing, in the front room on the same first floor: Ada Hamilton, a monthly nurse who would see Elizabeth through her confinement, and her husband William, a jeweller. Ada had heard Elizabeth say that William came home with headaches that came on all at once, and she saw it for herself: his hand going to his head, a great deal, and a complaint of the pain. He still had the rupture from Finchingfield, and it distressed him.
+"Did you tell them at the shop about my being confined?"
 
-On Wednesday the first of August, William was up early and brought Elizabeth a cup of tea, as he often did. She was confined that night at about half past ten, and gave birth to two boys: twins, as her mother's first daughters had been. He went straight out of the house, and did not come back until after twelve.
+"No."
 
-When he came in at last, he went to Elizabeth's room and said nothing. His face looked changed to her, and his eyes, she said, were "strange and wandering"; despondent, Ada would call it. When the twins were born he remarked, "I have a very large family," and said he wished they were dead. At the time, Ada thought he meant only the twins. He did not look at them, not that night nor any of the nights that followed. But every morning, from the day they were born, he got up early and brought her a cup of tea.
+She asked again.
 
-He went back to work on the Thursday and the Friday. Friday was pay day, with the customary extra ten shillings the firm gave its men, money in hand for a household that badly needed it. That night William came home the worse for drink, the only time in her ten weeks that Ada ever saw him so. Up to then, she said, he had always been a sober, industrious man.
+"Didn't you tell Mr Graves?"
 
-Twice in the week after the twins were born, Ada came upon him sitting somewhere in the house, strange and quiet, and crying.
+"No."
 
-The following Monday was a Bank Holiday. Tuesday, so far as the household understood it, was a holiday too. With Elizabeth still not up from childbed, the house ran on whatever Ada could manage.
+Frederick was on the bed beside her, sixteen months old, and without another word William lifted him and carried him along the passage to the kitchen, where his brothers were playing on the floor. Ada laid the first twin down beside its mother and went back through to the kitchen.
 
-On one of those two days Clarke remarked to his own wife how fortunate they were in their lodgers.
+William was sitting on the fire guard with his back to the grate. The fire was alight. Charles and Herbert and Frederick were on the floor in front of him, playing, and he had a piece of string in his hands, turning it over in his fingers and tying it, watching his hands rather than the children. She asked whether he had had his tea, and he said, "No." It was ready, she told him. It was on the table and the tea was on the hob. He did not answer her. She went back and washed the second twin and laid that one down beside its mother too, and returned. The boys were still playing, and William was still on the fire guard, and she went on through to the scullery.
 
-Wednesday the eighth of August began like any other since the twins were born. William got up early and brought Elizabeth her cup of tea, and then he went, so far as anyone in the house knew, to his work. Ada did not see him go. He was not expected back until half past seven.
+The perambulator had been moved. Underneath the cistern, where it usually stood, somebody had put a chair. The cistern ran the whole length of the room, fixed high on the wall, and to reach it you had to get up on a chair. She asked William who had put it there. He was within hearing, and he did not answer. It was Charles who answered her.
+
+"My daddy put it there."
+
+Ada went back to the bedroom, and left the boys in the kitchen with their father. "Now, I'll make your bed if you get out," she told Elizabeth.
+
+There were about fourteen inches of water standing in the cistern, and ten inches of clearance between its rim and the ceiling. He held them under, and held them there, for as long as it took.
+
+Charles was three and a half. Herbert was two and a half. Frederick was sixteen months. He did them one at a time. The second went into the water where the first was already lying, and the third where both of them were.
+
+Drowning a conscious child is not quick. He holds his breath for as long as he can, which is not long, and then he breathes, because past a certain point the body overrules him, and what comes in is water. Dr Henry Gould, who examined them the following afternoon, found the evidence of it in all three. The lungs gorged with dark blood, so heavy with it that it ran out when he cut into them and pressed. The right side of the heart the same. The liver the same. In their stomachs, half-digested food mixed with water, which means they were swallowing while it happened.
+
+They were dressed, and their clothes came out of the cistern sodden through. There were no marks of violence on any of them. Nothing about the arms, nothing about the trunk, no bruising, nothing broken, nothing to say they had been struck or wrestled with. Whatever William had to do to keep them under the water, it did not take enough force to mark a child.
+
+The one exception was Charles, the eldest, the one who had answered Ada about the chair. Round his neck was an indentation about the width of a cord. The string was still on him when Dr Twining, the first doctor there, reached the house, the noose in it lying loose against the skin, and Twining lifted it off and handed it to the constable. Gould was clear that it had never been drawn tight enough to suffocate anybody. It was not what killed Charles. Charles drowned, like his brothers.
+
+The two biggest were hard work, by William's own account. Frederick, sixteen months old and not able to do much about any of it, went quickly. He left all three of them in the water and went back into the kitchen.
+
+It had taken no longer than it took Ada, through the wall, to get Elizabeth out of the bed and remake it.
+
+When the bed was done, Elizabeth had to be helped back into it, and the two babies put down beside her again. Then William came along the passage and put his head round the door.
+
+"You can come in, Mr Gouldstone."
+
+He said something, to himself rather than to her, and she could not make out a word of it. Then he turned and went back along the passage.
+
+"Shall I leave the room a minute?" Ada said to Elizabeth. "Perhaps Mr Gouldstone wants to speak to you."
+
+"Yes, do, my dear."
+
+So Ada left the two babies where they lay beside their mother and went out along the landing, past the kitchen door, which was shut, and down the stairs. On the way down she heard it open, and a moment after that she heard him go into the bedroom she had just left. She reached the yard door. Then she heard the screaming. It was Elizabeth, and the word was murder.
+
+She ran back up. The bedroom door was locked from the inside, and Elizabeth was calling through it.
+
+"Open the door. He is murdering my children."
+
+Ada could not shift it. She leaned over the banisters and called, "Help! Help!" two or three times, and Emma Clarke came running up from the garden. It was about half past five. The two of them put their weight against the door together and it did not give. They called through it to him to open it, and he did not answer. They were at that door about three minutes. Emma heard Elizabeth inside. "He has killed my babies."
+
+Then he opened it himself. "You can come in. It is all done."
+
+"Oh, you wicked man, what have you done?" Ada said.
+
+"I am not a wicked man. I am a happy man."
+
+And then, to Elizabeth: "Your other three children are in the cistern."
+
+He went out past Ada as she came in. He had nothing in his hands. Elizabeth was standing at the foot of the bedstead. "Come and look at my babies, and see if he has killed them."
+
+They were on the pillow where Ada had left them. Both were bleeding from the nose and the mouth, and one had a bruise over the eye. They were breathing. Ada took a small sheet and covered them over, so that their mother should not see them, and sent for a doctor.
+
+"He says he has killed the other three children," Elizabeth said. "Go and see, will you?"
+
+As Ada came into the kitchen, William was coming in from the scullery with Frederick in his arms. The child's clothes were wringing wet. He bent and laid him on the floor, on his back.
+
+Ada turned and saw Elizabeth out on the landing, seven days delivered, coming towards the kitchen. She went to her and turned her back from the doorway, and took her into the bedroom, and stayed there with her, and did not leave her for about ten minutes.

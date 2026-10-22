@@ -1,161 +1,89 @@
 Chapter Ten
 
-OF A KINDLY NATURE
+THE TIME APPOINTED FOR THE FUNERAL
 
-Sergeant Bryant went back to Courtenay Place for the twins on the Thursday morning. He went on instructions from Inspector Craggs, who had charge of the case. The doctor saw them first, and then Bryant took them away to the mortuary, where their three brothers had lain since the evening before. By the middle of the morning all five of the Gouldstone children were reunited.
+The funeral was first fixed for three o'clock on the Monday afternoon, which was the hour at which the coroner's jury was to sit again, in the same cemetery, to finish its inquiry into how the five children had died. It was brought forward three hours, to noon, at the request of the mourners. The Dover Express gave the reason for the change: "in order to prevent the assemblage of a large crowd while the proceedings at the inquest were progressing."
 
-Their father was in the dock at Stratford.
+The crowd came anyway.
 
-Craggs and Inspector Folkard brought him up at the court house that morning, before Mr Arthur Lister and Mr W. W. Glenny, charged with the murder of Charles, Herbert and Frederick by putting them into the water cistern at his residence, and with the murder of his two male infant children by striking them on the head with a hammer at the same time and place. Mr John W. Atkinson, a solicitor of Stratford, appeared on his behalf.
+The undertaker was Mr T. Maynard, who held the contract for the Union interments, and the arrangements on the day were carried out by his manager, Mr John Lowick. The five children had each been put into a coffin of their own, of smooth elm, stained, and each coffin carried a plate. The plates, according to the Walthamstow and Leyton Guardian, whose reporter was there, gave their names and ages.
 
-The Daily Telegraph had a man on the press bench, and what he wrote there was in the paper the next morning.
+Before the mourners arrived, the five coffins had been set on the bier in what the Guardian called the mortuary church, each under a velvet pall. That was not the usual custom, and it made the people waiting outside all the more eager to be let in. The building was small. The police, under Sergeant Hawkins, kept it from overfilling, and the newspaper was satisfied that "the orderly demeanour of the spectators was in harmony with the melancholy nature of the occasion."
 
-"The prisoner is a fair man, with light-coloured hair and moustache, and is of medium height. During the whole of the case he remained apparently quite calm and collected, though he seemed careworn and restless. When he was first placed in the dock he looked round the court; then, folding his arms, he rested them on the top of the dock, and gazed anxiously at the magistrates on the bench. At times he listened attentively to the evidence which was given against him, and now and then smiled when certain actions of his were described by the witness."
+Shortly after twelve the procession came out from near the board room, where the jury would sit at three, with the Reverend T. H. Grantham Robinson, vicar of St Saviour's, at its head. He had already seen the children. On the Friday, the day the inquest opened, he had written to the Guardian again. He had found Elizabeth "wonderfully composed but very weak", and hoped, with local help, to provide her "with everything needful for the present". The letter ended: "I shall never forget the five little brothers as I saw them lying side by side in our parish mortuary."
 
-The witness was Ada. She had sworn the whole of it in front of a magistrate that same day, and now she gave it again, aloud and in order and in her own first person, from the washing of the two babies onward, while William rested his folded arms on the top of the dock and listened. She got as far as Frederick being taken off the bed and carried out of the room. There the Telegraph's man stopped taking down her words and instead added in a line of his own, in square brackets, in the middle of her evidence.
+There were ten mourners. First came Martha Gouldstone, William's aunt, with her daughter, and she was carrying a bouquet. Her husband, William's uncle Robert, had died at Walthamstow the December before. Then Mrs Graves and her daughter, and Mrs Graves had a wreath. After them came Ada Hamilton and Emma Clarke, and Mrs Millard, "who but a few weeks ago had two boys drowned", and others the newspaper did not name.
 
-"Here the witness commenced to sob, and she seemed much affected all the subsequent time she was in the witness-box."
+Elizabeth was not among them. "Great sympathy was felt for Mrs. Gouldstone's bereaved and friendless condition," the Guardian wrote, "and many people expected that she would be present at the funeral, she displayed so much anxiety to see her little ones before they were removed after the murder."
 
-She finished it anyway, down to the money and the kiss and the hour each of the babies died. Then they asked her what William had been like before.
+The vicar began the burial service. His first words were "I am the resurrection and the life, saith the Lord", and when they had been said, the newspaper reported, "grief soon made itself visible in tearful faces."
 
-"I have lived in the house for ten weeks, and know that the prisoner has always lived on good terms with his wife; but I noticed he appeared strange after the twins were born. He was not unkind to the children, he seemed fond of them all, but he had not looked at the twins."
+Then the attendants came out, each with a coffin on his shoulder, and Mr Amey with the twins, one under each arm, and the vicar and the mourners after them. All the way to the grave, the Guardian wrote, "the sorrowful spectacle drew from the females agonised utterances on all sides."
 
-The last thing the paper recorded of her evidence was that his wife was now dangerously ill in bed.
+The grave was in the third-class portion of the cemetery, and it was ten feet deep. All five of them went into it together. After the service at the graveside the mourners let their flowers fall on to the coffins, and left.
 
-Craggs asked for an adjournment.
+The spectators stayed much longer. Many of them, before they went, dropped a flower into the grave.
 
-"I should like to ask a few questions, with your permission," said Mr Atkinson, for the defence.
-
-"Do you really think your case will be improved by cross-examining now?" Lister replied. "Don't you think it would be better to reserve it?"
-
-"I leave it entirely in your hands."
-
-"Then the prisoner will be remanded till Saturday, and in the meantime further inquiries will be made."
-
-The prisoner was then removed from the dock.
-
-As Ada was about to leave the box, Lister told her she had given her evidence well, and that it was a painful position for her to be in.
-
-At half past three that afternoon Henry Gould began. He took them in order, starting with the twin who had died last, and opened the other twin at half past four. Then the three eldest. Of Herbert he wrote that the appearances were precisely similar to those he had fully described in Frederick's case; and of Charles the same, with the exception of the marks of the cord around his neck.
+It was not filled in until three o'clock.
 
 ***
 
-There were two inquiries into what he had done, running side by side, and in the fortnight after the murders his case was before both. The magistrates at Stratford had one question to answer, which was whether there was evidence enough to send him for trial. They heard witnesses on oath, had what they said written down, and remanded him from one hearing to the next until they were ready to commit him. The coroner had another. He and a jury of local men were to find how the five children had come by their deaths, and if they found that someone had killed them, they could say so by name, and the coroner could commit that man for trial on his own warrant. Both roads ended in the same place. Walthamstow lay inside the district of the Central Criminal Court, and it was at the Old Bailey that a judge and a jury of twelve would decide whether he was guilty. It was there, and not at the inquest, that the question of his mind belonged.
+"At three o'clock in the afternoon, the time appointed for the funeral," the Guardian wrote, "the adjourned inquest was held." It sat in the same room as on the Friday, before the same coroner and the same jury.
 
-The inquest opened on the Friday afternoon, in the board room of the Walthamstow Cemetery, before Mr C. C. Lewis, coroner for the southern division of Essex. Craggs was there again, of the N Division, watching the case on behalf of the Commissioners of Police. The jury were Messrs William Smith, who was foreman, David Casey, Joseph Blythe, Walter Rollick, John Patchett, Joseph Day, George Foxwell, George Banks, George Lloyd, Thomas Mumford, Stephen Archer, Edwin Lee, William Haggett and William Weston.
+When the court had been constituted, Dr Lyle, who was attending Elizabeth, handed in the letter. He had wanted Mr Lewis to read it out, but in the end read it himself, and entered what the Morning Post called "his most indignant protest". The same newspaper gave the letter's account of his patient: "Before this visit the patient was progressing satisfactorily, but since she was in a much worse state."
 
-They were sworn, and then they went out to the mortuary to view the bodies, which were laid out on a slab. "It need hardly be said that it was a very affecting spectacle to see the five children that had been murdered by the unpitying hand of their parent," the local paper told its readers the following week. "They appeared to have been fine healthy children."
+Blythe asked leave to explain, since he was the man the letter meant. He had missed the view on the Friday and had gone on the Sunday instead, and his visit, he said, had been "of a kindly nature".
 
-On the return of the jury to the board room, the coroner addressed them.
+"Then these observations were not made by you," the coroner said.
 
-"Before opening this, which I think we must look upon as one of the most painful of all painful cases, I feel it incumbent upon me to address a few observations to you. You have, as you are fully aware, been sworn to ascertain under what circumstances these poor, helpless children and infants have come by their respective deaths. I have no doubt that the evidence will disclose to you those circumstances and that they will be of a most appalling and heartless character, such as we may say—such at least as we may trust—have seldom or almost never been submitted to a jury to inquire into. But revolting as those circumstances may be to your feelings, I must ask you to dismiss from your minds anything and everything you have either heard or read relative to this case before entering this room; and that you will be governed entirely by such evidence as may be adduced before you; and, having given that evidence your most unbiassed and careful consideration, then that you will let your verdict be the result of that consideration."
+"Well, they might have been. I do not know."
 
-He had two further things to tell them, and he took them in order. The first was what he meant to do that afternoon.
+The coroner told the room what the view on the Friday had been for, and how quietly it had been done, so that Mrs Gouldstone, lying ill in the front room, "really did not know what was going on."
 
-"I proposed at the outset to take certain preliminary evidence. And then—for the satisfaction, not only of myself, but of those members of the jury who may not have had an opportunity of viewing the premises—I propose to adjourn the inquiry to give us all an opportunity of viewing the premises."
+"I am in the hands of the other jurymen if I have been indiscreet," said Blythe.
 
-The second was the post-mortem examinations.
+"If any such observations were made by you, they were indiscreet."
 
-"Possibly you may be aware that in all cases where a person is likely to be charged with having caused the death of another, as in the case of the persons whose deaths you are about to inquire into, it is necessary that a post-mortem examination should be made. For this reason—that the law requires you should not only have positive evidence as to the cause of death, but also negative evidence that death was not caused by any other means—in other words that the injuries, if any other injuries are proved, are the sole cause of the death. Therefore it is necessary always that a post-mortem examination should be made. I was not aware until I came here that post-mortem examinations had been made, but I have learned that those examinations have been made. I may tell you that I should have ordered them to have been made, and therefore what has been done is simply absolutely necessary. I had thought when I came here that I should have had to adjourn the inquiry for that purpose also."
+Another juryman put a question to Blythe. "Did you connect the other members of the jury with your statement?"
 
-Ada was called first, and she repeated the evidence she had given the day before at Stratford. The third time she had sworn it in two days.
+"I did not connect the jury with it."
 
-Then a juryman began to ask questions of his own. The first was about the twins.
+"So far as I and the jury are concerned," said the coroner, "I thoroughly repudiate everything in this letter."
 
-"Did he complain of anything in connection with that event?"
+Several of the jury said, "Hear, hear."
 
-"He said it was a very large family, and he wished they were dead. I thought he then only referred to the twins. He never looked at them."
+"It is impossible for us, when the inquiry has been adjourned, to be responsible for what any member of the jury takes upon himself to do. The Coroner's court cannot possibly be responsible for that sort of thing."
 
-"Did the wife reproach him for not giving her enough money for expenses?"
+"You may have to make an inquiry as to the cause of her death," said Dr Lyle.
 
-"No. She said to him, 'Never mind; I'll do what I can to support them.' He was earning 25s. a week, and never lost a day's work. He was a very steady man. He was not violent or cross."
+Another juryman, George Foxwell, spoke up for Blythe. He had known Blythe meant to see the cistern that Sunday, having missed both the Friday and the Saturday, and he was sure the call on Mrs Gouldstone afterwards had been a friendly one. If she had asked him questions, he might well have answered them. And it was easy enough, Foxwell said, for others to sign a statement once a man had spoken, "in order to get a man into trouble."
 
-Emma Clarke was called next.
+"Oh, I don't think there was that motive," said Blythe.
 
-"My husband rented the house," she said. "William Gouldstone, his wife, and family had lodged with us eleven months. He was at that time quite a stranger to me. He was generally a steady man. I only saw him the worse for drink once. He was a calm, placid man, and seemed to be very fond of his wife and kind to his three children."
+"Of course it is extremely unwise," said the coroner, "but anything of that sort might have been done—most incautiously and unguardedly." He explained once more what a view was for, and that nothing had been said at the house on the Friday. "Now, having said so much I think we may proceed with the case."
 
-The jury asked her about Elizabeth.
+Sergeant Smith and Sergeant Bryant told the jury how the children had been taken to the mortuary, and Inspector Folkard went through the charge again. Of the kitchen, he said that the eldest of the three boys had been undressed.
 
-"I have heard the mother say she wished the children dead—that was when she was worried," she said.
+"Who undressed it?" the coroner asked.
 
-The coroner put his own questions after theirs, and she went on.
+Sergeant Smith answered. "The doctor and the constable, thinking it was alive."
 
-"I did not think she was in earnest. She never said it in conversation. She had remarked it to the children when they worried her."
+Henry Gould was the last witness. After his account of the Wednesday evening, he went through the notes of his post-mortem examinations at length, in the order he had made them, beginning with the twin who had died last.
 
-The coroner said he did not think anything would turn on that.
+There were no marks of violence on the legs, the arms or the trunk, but "great discolouration on the right side of the head & face. Under the skin I found a considerable amount of blood clot. The right parietal bone was smashed into 3 pieces, the brain protruding and oozing through the fractures."
 
-Police-constable Cheeseman gave his evidence last, from the twenty minutes to six on the Wednesday when the word reached him in St James's Street to the charge at the station. The hammer that had been found in Elizabeth's bedroom was produced in the room.
+Of the other twin, the one who had died in Ada's arms, he found a mark above and behind the right ear, "almost approaching a cut in character about half an inch long". The right parietal bone was fractured in all directions, and the left parietal and the occipital as well. Both infants had died of the injury to the brain, caused in his opinion by a violent blow from some blunt instrument.
 
-The inquiry was then adjourned. Mr Lewis made out the orders for the burial of the children. On leaving the board room, he and some of the jurors walked from the cemetery to Courtenay Place to look at the premises, in order to satisfy themselves whether three children could have been drowned in that cistern.
+Frederick's body was well nourished and there were no marks of violence on it. His lungs were gorged with dark liquid blood. "The stomach contained some half digested food mixed with water." He had died of suffocation, and in Gould's opinion from drowning. So had Herbert and Charles, and of the cord round Charles's neck Gould said: "I don't think the cord had been tied sufficiently tight of itself to cause suffocation."
 
-One of the jurymen did not go.
+Outside, the filled grave had disappeared under flowers. From about three o'clock new people had been arriving, "troops" of them, the Guardian said, in place of those who had come for the funeral. "Crowds of people congregated in the cemetery," the Dover Express reported, "many inspecting the flower-covered grave of the five children, and others lingering outside the small lodge while the inquest was going on."
 
-Elizabeth was in the front room. What survives of the visit is the coroner's own account of it, given three days later, when he was obliged to defend it.
+Inside, the coroner summed up at great length, by the Morning Post's account. He came back to what he had called it at the start, a heartless and cruel case, and told the jury that if they found the children had died by their father's violence, wilful murder was the only verdict open to them. His sanity, in the Guardian's report of his words, "was a subject that the jury had nothing to do with, but which concerned another tribunal."
 
-"The object of the other jurymen and myself in going to the house was simply to see if the children could have been drowned in the cistern. It was purely a view, and no observation should have been made. I myself and the jurymen accompanying me conducted the view with the greatest possible amount of quiet, so that Mrs. Gouldstone, lying ill in the front room, really did not know what was going on."
+The jury returned their verdict without hesitation: wilful murder, against William Gouldstone. Then they signed five verdicts, and the coroner issued his warrant committing him.
 
-***
+All afternoon, until the gates were shut, people kept coming to the grave. Many of the flowers on it had been brought by children in little baskets, and the children seemed to the Guardian's reporter "greatly pleased at the task they had in hand, but withal affected."
 
-A crowd stood at Maryland Point station on the Saturday morning, waiting for a train that William was not on. Word had gone round that he would be brought there from the House of Detention. He came in to Stratford instead, on the main line, and nobody had ordered a cab.
+The report ended with the verdict, the warrant, and one more sentence.
 
-"By some thoughtlessness the police, instead of bringing Gouldstone from the station to the Court in a cab, made him walk the distance of about half a mile," wrote the Daily Chronicle, whose account of the day, printed on the Monday, is the fullest there is. "He was not at once recognised, but as soon as he was he was loudly hooted and yelled at until he was got into the court, and out of sight of the mob."
-
-The hearing was in the largest of the three courts, yet still two or three hundred people remained outside, unable to gain admittance.
-
-Two of his brothers, the Illustrated Police News reported, came to him in the cells of the court. The paper, which had a man there, thought it worth printing what they found: "He seemed calm and perfectly unconcerned at his position."
-
-Four magistrates sat, Powell in the chair with Spicer, Glenny and Lister, who had been on the bench on the Thursday as well. Mr Atkinson appeared again for the defence. The charge was read over.
-
-"Upon being placed in the dock, [he] nodded complacently in recognition to Mrs. Hamilton, a lodger at 8, Courtenay-place, and nurse to Mrs. Gouldstone, but Mrs. Hamilton, who was seated with other witnesses at the side of the court facing the dock, did not appear to notice the nod of the prisoner."
-
-Ada was not asked to speak. Mr Wells, the clerk to the magistrates, read her deposition back to her aloud, the whole of it, while she sat at the side of the court facing him, and her own words came at her in another man's voice.
-
-William looked at the bench, and then at the reporters, and then at the people in the court, and then round again. He leaned his full length as far as the width of the dock allowed, and looked round once more. His feet moved. The Guardian's journalist, watching William rather than the clerk, took it for marking time with the reading.
-
-Then the constable brought out what had been taken from the house. Both items: the cord, and the hammer. The hammer came into court wrapped in a copy of the Walthamstow Guardian, and folded in with it was a tartan scarf.
-
-William looked round the court, pointed, and put his finger to his own throat. He had nothing at his neck.
-
-What he pointed at is the one thing the reporters in the room could not agree on. The Guardian had him point at the scarf, as much as to say, "Let me put it around my neck." The Police News, printing the same copy, had the hammer come out of a neck handkerchief and read the gesture as something smaller and flatter, as much as to say, "That is mine." The Chronicle's man was not looking at the hammer at all. He had the prisoner sit through the whole of the morning "with firmly compressed lips", stolid, until the moment Ada identified the cord, the twine she had watched him turning over in his hands on the fire guard while the children played; and when a policeman held that up, "the prisoner pointed significantly to his throat".
-
-A scarf, a neck handkerchief, or the cord that had been round Charles's neck. Whichever of the three it was, he was pointing at something that goes round a throat, and then at his own.
-
-As the reading of the depositions went on he watched the clerk intently, but every time the room made a noise his attention went to it.
-
-Ada added one thing of her own. She had not seen the hammer until after he was taken away. A constable had asked her for it, and she went into the bedroom and found it behind the door, near the dressing table, and looked at it, and saw no marks on it.
-
-Then Mr Wells spoke to the bench for a moment and asked Craggs whether he wanted a remand.
-
-"Yes. The Treasury will take up the prosecution, and I ask for an adjournment for a week."
-
-Mr Atkinson said, as he had said on the Thursday, that he had a few questions for Mrs Hamilton, and that perhaps he had better keep them until the next hearing. William was remanded for a week. Before the magistrates, Ada was still the only witness who had been called, and her evidence had now been put to them twice without a question from the defence. The prisoner was then removed.
-
-The crowd outside had massed at the door prisoners are usually taken out through, so the police took him another way. Out through the First Court, up a passage and in at the side entrance of a coffee shop that faces the public door, through the shop, and into a cab. Very few of the people waiting got the look at him they had come for.
-
-When they understood what had been done, they cut across to the station. The cab was met on the road. They hooted him the rest of the way, and on the platform extra police held them back until the train had gone.
-
-***
-
-The Guardian that Saturday printed a letter from the vicar of St Saviour's, dated the day after the murders. "I have just seen Mrs. Gouldstone. She is very weak and prostrate, utterly stunned, but most resigned. The family lived in two rooms wretchedly furnished, and I found no nourishment whatever in the house." He had supplied her immediate wants, and he asked the paper's readers for "a few pounds to provide present necessities".
-
-People came to the house all that week to look at her. The Illustrated Police News told its readers what they were doing.
-
-"Some incautious people, with nothing but their own idle curiosity to satisfy, invaded the house and asked to see the poor woman, but of course were denied. The police, anticipating a crowd of sightseers, have volunteered a good body of their staff to keep the press back, but it is to be hoped their services will not be required, and respect will be had for the woman's dangerous condition."
-
-Two doctors were attending her. They were feeding her on jellies and light strengthening food, allowing nature to take its own course, and what they were afraid of was that she would lose her reason. She had asked to see her children before they were taken away and she had been refused. The newspaper explained the refusal without softening it: the doctors "had to be stern in their refusal, dreading its effect on the sufferer's brain."
-
-On the Sunday morning a man came to the door and was, for some reason, admitted.
-
-He was Joseph Blythe, and he was one of the fourteen men who had been sworn on the Friday to inquire into how her children had died. He had not gone with the coroner on the Friday. He came now, by himself, to the room on the first floor where she was lying eleven days after the birth of the twins, and he spoke to her.
-
-What he said in that room is on record because her doctor wrote it down and sent it to the coroner. Dr Lyle's letter protested against the "scandalous and indelicate conduct" of a juryman who had gone to her house and there begun, in Lyle's own word for it, "roundly to abuse her." What Lyle set down in quotation, as the thing said to a woman eleven days out of childbed about the husband who had killed her children, was this:
-
-"It was no use trying to get her husband off the rope, for if he were not hung he would be locked up for life, and he would be as good as dead to her."
-
-And the letter alleged one thing more, which it did not put in quotation. The juryman had also told her that it was the opinion of the jury that she had driven her husband to commit the crime through jealousy.
-
-The Morning Post's account of the same letter is shorter and harder. He told her it was no use further to screen her husband, as the jury had made up their minds on the subject and he would be hanged.
-
-He was asked about it the following afternoon, in front of the coroner and the rest of the jury, and he did not deny it. He said he had not been able to go with the coroner and the other jurymen on the Friday to view the premises, and so he had gone to the house by himself on the Sunday morning. Then the Walthamstow and Leyton Guardian set down his account of what he had gone there for, in one sentence.
-
-"His visit was of a kindly nature, to see if he could be of any service to Mrs. Gouldstone."
+"It is stated that Mrs. Gouldstone is on the whole progressing satisfactorily towards recovery."

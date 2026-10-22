@@ -1,45 +1,35 @@
 Chapter Nineteen
 
-LATE GOLDSTONE FORMERLY STOCK
+WITHOUT LIGHTS
 
-A girl was born in Beach Alley, Whitstable, on Monday the seventh of April 1890, and named Lilian Florence Isabel. Her birth was registered on the nineteenth of May.
+In 1901 Albert Goldstone was fourteen, though the Royal Navy had him down as a year older, and for the next seventeen years it would decide where he went.
 
-The informant was the child's mother. The register entry gives her as "E. Madams", "Mother", of Beach Alley, and the father as William Madams, general labourer. In the mother's column she is "Elizabeth Madams late Goldstone formerly Stock".
+On signing up, he spent a fortnight in HMS Impregnable and nineteen months in HMS Lion at Devonport, which was in fact two ships run as one training establishment for boys, with a tender, HMS Liberty. In August 1902 he was rated boy first class, his character "V.G."
 
-Three years after Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father.
+By the summer of the following year he had been sent on to Portland, to HMS Agincourt, an armoured cruiser of 10,600 tons now serving as a depot for boys. He left her on the eighth of September and the next day joined a battleship, HMS Prince George. Five weeks later, with the ships of the fleet practising manoeuvres without lights, another battleship ran into her.
 
-By the census, on the night of Sunday the fifth of April 1891, the family had moved to 41 Harbour Street, and lived in two rooms. William Madams and Elizabeth were living as husband and wife: the enumerator entered him as head, a general labourer, born in Whitstable, and her as his wife. Below them came "Albert Goldstone", three years old, born in Lambeth and, in the column for his relation to the head of the family, "Stepson". The baby was "Lillian Madams", eleven months.
+The Channel Fleet was off Cape Finisterre, exercising at night with every ship darkened, as she would be in wartime, so that an enemy's torpedo boats could not find her. During a turn on the night of Saturday the seventeenth of October 1903 HMS Hannibal rammed the Prince George on her port side near the stern, and the sea flooded the compartment below the waterline from which her after torpedoes were fired. The next day the Vice-Admiral commanding the fleet telegraphed the Admiralty:
 
-Eliza Jane was born just seventeen months after her sister on the sixteenth of September, at Harbour Place.
+"I have put into Ferrol with the Channel Fleet, on account of Hannibal having collided with Prince George during turning movement on the night of the 17th October, considering it desirable to proceed to Ferrol to ascertain full extent of the damage, as aft submerged torpedo flat of Prince George filled with water. No damage to Hannibal."
 
-The girls were baptised together on Saturday the seventeenth of October, one entry after the other in the baptism book: Lilian at eighteen months, Eliza Jane at a month old. The parents are given as "William & Elizabeth", the surname as "Madams", and the father's trade as "Coal Porter".
+He ended: "No one hurt." Albert was sixteen, and five weeks into his first battleship.
 
-Twelve days later Elizabeth registered Eliza Jane's birth herself, as "E. Madams", "Mother", of Harbour Place. The father's column again names William Madams, and the mother's column holds the same three surnames she had given the year before.
+At Ferrol, the Morning Leader's Madrid correspondent reported, "An immense multitude are on the pier awaiting the squadron." While eight battleships and three cruisers waited in the Spanish port, the Prince George was made fit for the passage home; according to the Western Times, which had its account from men on board, "the whole Fleet's carpenters worked for nearly a week constructing a copper dam on the inside of the ship." She came into Portsmouth under escort on Monday the twenty-sixth of October, and went into dock.
 
-The School Board at Whitstable summoned William Madams in 1896 for not sending a child regularly to school. The Herne Bay Press of the second of May gave his case in two lines: he "was similarly summoned in respect to his son aged eight", and "The mother of the child pleaded poverty as the cause." The bench adjourned it for a fortnight, to see whether his attendance improved.
+He had signed on as a boy, and a boy's time did not count: the twelve years he had bound himself to serve would run only from his eighteenth birthday. That day came on the nineteenth of June 1904, and he was rated ordinary seaman. Four weeks later the battleship HMS Majestic was commissioned at Portsmouth for the Channel Fleet, in place of the Prince George, and he joined her that same day.
 
-The School Board's warnings went on. A final warning to the boy's parents was ordered in May 1898, and a month later the Board ordered legal proceedings against them. A year after that, in July 1899, a fine of five shillings was imposed in his case. The reports in both years call him "Albert Madams".
+In December, as the fleet was returning home from Gibraltar for Christmas leave and a refit, there was an explosion in the coal bunkers of the Majestic's engine-room. It was the night of the fourteenth, and she was coming up the Channel. The Echo, a London newspaper, put it down to gas, and reported that when she reached Portsmouth the next morning an artificer and two ordinary seamen were taken to Haslar Hospital.
 
-By March 1901 he was thirteen and at work. Within a few weeks he was in court, and the Folkestone Chronicle's report of the case gives the story as the witnesses told it. Albert was a basket boy, helping to unload a cargo of coal from a vessel called the Christabel. On the twenty-eighth of March he took a pair of sea boots to John James Pout, a bootmaker in Harbour Street, and asked him to "put pieces on the bottom". Pout told the court that the boy had said "they were his own boots, they having been given to him", and that he had told the boy they were "more suitable for his father than for him". Two days later Albert came back "and said his father wanted 3s. for them", and Pout paid it. But the boots belonged to Alfred Baker, an able seaman on the Christabel.
+While he belonged to the Majestic he was given fourteen days in the cells, and his class for conduct was lowered to second, not to be restored until the following July. The spring and summer of 1905 he spent at Portsmouth, on the books of HMS Firequeen I and then HMS Victory.
 
-The census was taken the next night, Sunday the thirty-first. At Middle Wall the enumerator entered William Madams, harbour labourer, as head of the household, and Elizabeth as his wife. Albert was now his "Son", fifteen, and a harbour labourer too; Lillian was ten and Eliza nine. They had fewer than five rooms.
+HMS Jupiter, the battleship he joined at Chatham on the fifteenth of August 1905, was manned for the Channel Fleet that same day, after a refit that had cost £60,000. Her new captain, H. A. Warren, came from the Hannibal, the battleship that had rammed the Prince George two years before. Three months later she went out to Spithead for what the Portsmouth Times called "aim corrector" trials, and she came back from "aiming director trials" there in December. January 1906 found her at Berehaven, on the coast of County Cork.
 
-A constable arrested him the next day, Monday the first of April. He was charged "with stealing a pair of sea boots, value 10s., the property of Alfred Baker".
+In the last week of June 1906 she was at sea with the Channel Fleet for the summer manoeuvres, off the coast of Portugal, hunting the battleships of the Atlantic Fleet. Lloyd's List had a correspondent in HMS Russell. On the twenty-seventh, he wrote, the Jupiter hauled out of her station to bury one of her crew at sea, and the squadron could not slow down for her, because the enemy had been reported close by. That evening the line opened fire, and before nine o'clock two of the opposing battleships and a cruiser had been declared captured. For two days after, thirteen battleships chased five northward towards the Channel. The manoeuvres ended at noon on the second of July, with the fleet half way across the Bay of Biscay. On the fifth the Jupiter passed the Needles, bound east.
 
-The Canterbury Journal described Elizabeth's part in that day through the charge that was laid against her. "Elizabeth Goldstone, of Middle Wall, was charged at the County Police Court on Tuesday with being drunk and disorderly at Whitstable on the previous day. She is the mother of the boy in custody charged with stealing a pair of sea boots, and when she heard that he had been locked up she went in a state of intoxication, to the police station and created a disturbance. She was requested to go away, which she refused to do, and as she was very drunk the police locked her up also." She was fined five shillings, with ten shillings and threepence costs.
+He stayed in her for two and a half years. There were two more spells in the cells, of ten days and three, and his class for conduct was lowered and restored a second time; still, his character was marked "Good" at the end of every year, as it had been since 1904. He was rated able seaman on the first of January 1908, and a month later he left her.
 
-At St Augustine's Petty Sessions on Saturday the sixth of April, "Albert Goldstone, aged 14" pleaded guilty. Mr Bray, the police court missionary, "offered to get the boy on a training ship", and the bench adjourned the case for a week to let him try.
+From the Jupiter he went to the naval barracks at Chatham, HMS Pembroke. Five weeks later, on Tuesday the tenth of March 1908, he joined HMS Shannon there, on the day she was commissioned. She had been built in Chatham Dockyard, and the Western Mail called her "the largest and most powerful cruiser in commission". She went into service as flagship of the Fifth Cruiser Squadron, and she was his ship for the next two years.
 
-On the thirteenth, the Herne Bay Press reported, the boy was "bound over to come up for judgment when called upon", the missionary "having got the boy on the training-ship Warspite".
+He left her at the end of February 1910 and went back to the barracks. Five days later, on Saturday the fifth of March, he married Clarie Irene Setterington, Rennie for short, at St Mark's, the parish church of New Brompton. She was a colour sergeant's daughter, born in the barracks at Kingston upon Thames, and had grown up in Chatham. Both gave New Brompton as their home.
 
-[WARSPITE: one or two sentences on what the ship was and where she lay in April 1901, once sourced (F (c)).]
-
-On the fourth of September 1901 William Madams was admitted to the Kent County Lunatic Asylum at Chartham, near Canterbury.
-
-Albert entered the Royal Navy on the eleventh of November, as Albert Goldstone, and was entered as a boy second class on the training ship Impregnable.
-
-Madams died in the asylum on Saturday the twenty-third of November, aged forty-two. His death certificate gives the cause as "General Paralysis of the Insane about 3 months", and the death was registered by the asylum's clerk.
-
-Elizabeth died at Beach Alley on Friday the twenty-ninth of June 1906. Her certificate gives the cause of death as "Syphilis 2 years". General paralysis of the insane was syphilis in its last stage, reaching the brain: she and Madams had died of the same disease. In 1901 doctors were already arguing as much; it was proved in 1913.
-
-The informant was her daughter Lilian, who was present at the death, and who described her mother as "Widow of William Madams".
+The register gives the bridegroom's age as twenty-two, and the bride's as twenty-two.

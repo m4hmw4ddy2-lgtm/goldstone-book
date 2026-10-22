@@ -1,85 +1,53 @@
 Chapter Seven
 
-SO EARLY HOME
+UNCOMMONLY FINE CHILDREN
 
-It was a quarter past five, two hours before he was expected, when Ada heard somebody in the kitchen. She was in the back bedroom with Elizabeth, who had not yet the strength to be up and about herself, and whoever it was moved without announcing themselves, so Ada left Elizabeth and went through. William was standing at the dresser. Not doing anything to it, not reaching for anything on it. Just standing.
+Emma Clarke had been down to the street by then and called for the police, and had come back up to the bedroom, so that when Ada left Elizabeth and went back along the passage to the kitchen, Emma went with her. The kitchen was a small room. The three boys were lying on its floor, side by side in a row, their clothes and hair wet through, and there was no blood on any of them. William was standing there, and leaning over the children was a gentleman Ada took to be a chemist. He was Dr Twining. William said nothing, and nobody said anything to him. Ada went back to Elizabeth.
 
-"Oh, you did frighten me," she said. "I wondered who it was."
+Out in St James's Street, William Cheeseman, police constable 86 N, had been on duty at about twenty minutes to six when he was told that a man was killing his children at number 8 Courtenay Place. He went there at once, up the stairs to the landing, and from the landing he could see into the kitchen. William was stooping over three children who lay side by side on the floor, with his coat and hat off and his shirt sleeves tucked up. The children appeared to be dead, their clothes drenched with water. As soon as he saw the constable coming towards the door, it was William who spoke first.
 
-He smiled at her. Nothing followed the smile: no word, no explanation for the two hours, nothing beyond the look on his face. She did not wait for one. There was a second twin still to be washed, and Elizabeth would want to know who had come in, so she left him there, at the dresser.
+"Good evening, policeman. I have done it. Now I am happy and am ready for the rope."
 
-How long he stayed like that before he followed her is the first thing in this account that cannot be fixed to a number. Sworn before a magistrate the day after it happened, Ada put it at nearer ten minutes. Giving evidence five weeks later at the Old Bailey, she put it at three or four. Both were given under oath. Neither was ever corrected. Somewhere in that gap William Gouldstone was in his own kitchen, with his two eldest sons playing on the floor, for some short, unmeasured stretch of time, and nobody living can say what he did with it. Below, in the garden, Emma Clarke was still hanging out washing to dry, in the last of the ordinary afternoon anyone in that house would have.
+He had nothing in his hands. He seemed excited, Cheeseman thought, but not with the excitement that comes from drink, and there was no appearance of drink about him. Cheeseman cautioned him. "What you say will be used in evidence against you." He satisfied himself that the three children on the floor were dead. William put his coat and hat back on.
 
-When he came through, he went to Elizabeth's bedside and stood there without speaking. Ada was still in the room. "How is it you are so early home tonight?" Elizabeth asked.
+"Let me see my wife."
 
-"I left my situation whilst the manager went to dinner and came home."
+Cheeseman said nothing.
 
-"Did you tell them at the shop about my being confined?"
+In the bedroom, Elizabeth herself had asked Ada to go and tell her husband that she wanted to speak to him. Ada looked out of the door, saw the policeman standing in the kitchen, and then William came into the bedroom with the constable. Elizabeth was on the bed. The two babies lay where Ada had covered them with the sheet, there was blood on their faces, and Cheeseman, looking at them, did not see them move.
 
-"No."
+"Oh, you wicked man, what have you done?" Elizabeth said.
 
-She asked again.
+"I have killed all your children, and now you will be single again, and I shall be hanged."
 
-"Didn't you tell Mr Graves?"
+And then: "You wished they were dead, and now they are."
 
-"No."
+She made no answer to any of it. She was crying. "Have you any money?" she asked. She had the doctor to pay. He said, "Yes, a little," and put his hand in his pocket and gave her all that was in it: a two-shilling piece, or it may have been a half-crown, a shilling, and two pennies. Then he leaned over the foot of the bed and kissed her, and said simply, "Good-bye", and the constable took him away.
 
-Frederick was on the bed beside her, sixteen months old, and without another word William lifted him and carried him along the passage to the kitchen, where his brothers were playing on the floor. Ada laid the first twin down beside its mother and went back through to the kitchen.
+Ada remained behind.
 
-William was sitting on the fire guard with his back to the grate. The fire was alight. Charles and Herbert and Frederick were on the floor in front of him, playing, and he had a piece of string in his hands, turning it over in his fingers and tying it, watching his hands rather than the children. She asked whether he had had his tea, and he said, "No." It was ready, she told him. It was on the table and the tea was on the hob. He did not answer her. She went back and washed the second twin and laid that one down beside its mother too, and returned. The boys were still playing, and William was still on the fire guard, and she went on through to the scullery.
+When he had gone, Ada returned to the kitchen. The three boys lay as they had lain, in a row on the floor, with their clothes still on them and sopping wet, and they all appeared to be dead. Somebody came and felt their pulses, and Ada went back to Elizabeth.
 
-The perambulator had been moved. Underneath the cistern, where it usually stood, somebody had put a chair. The cistern ran the whole length of the room, fixed high on the wall, and to reach it you had to get up on a chair. She asked William who had put it there. He was within hearing, and he did not answer. It was Charles who answered her.
+James Honey, a reserve constable from the same station as Cheeseman, had been on duty in the High Street at about ten minutes to six when word reached him. He went first to fetch Dr Twining and then on to Courtenay Place. When he got there, Dr Twining was already in the kitchen, examining the bodies of the three children. It was Honey to whom the cord was handed. Honey could see that all three were dead. He went through to the Hamiltons' front room across the landing, where the two babies had been taken, and saw them there: one was bleeding from the mouth, and both their heads appeared to be severely injured. Between them, Dr Twining and the constable had removed Charles's clothes, thinking he might still be alive. Honey stayed until Dr Gould came.
 
-"My daddy put it there."
+One of the constables asked Ada about the hammer. Until then she had not noticed it. She went into the bedroom to look for it, into the room where the twins had been struck, and found it lying on the floor behind the door, near the dressing table: an ordinary large hammer, the kind for knocking in nails, which she had never seen before. She gave it to Cheeseman. There were no marks on it that she could see.
 
-Ada went back to the bedroom, and left the boys in the kitchen with their father. "Now, I'll make your bed if you get out," she told Elizabeth.
+By a little after six o'clock Sergeant Horace Smith had arrived at the house, and so had Inspector George Folkard, who brought with him Dr Henry Gould, the divisional surgeon of police. Gould went first to the Hamiltons' front room. The twins were lying on the bed there, both of them comatose, breathing in a spasmodic and irregular way. The right side of one child's face and head was very much bruised and blackened, and Gould could feel that the skull beneath was fractured; the back of the other's head was contused and swollen, and that skull too was fractured. Blood and froth were coming from the first one's mouth and nose. He found no other injuries on either of them. They were alive, he said, but neither could survive.
 
-There were about fourteen inches of water standing in the cistern, and ten inches of clearance between its rim and the ceiling. He held them under, and held them there, for as long as it took.
+Then he went into the kitchen. The three boys were still lying in a row on their backs, about the centre of the floor, with their feet all one way. They were dead, and the clothes of two of them were sodden through. The third, Charles, was naked, and round his neck Gould found the indentation the cord had left. Folkard examined the cistern that same night, long but narrow, with its top about six feet from the floor, and the measurements he took there were the ones he gave in evidence.
 
-Charles was three and a half. Herbert was two and a half. Frederick was sixteen months. He did them one at a time. The second went into the water where the first was already lying, and the third where both of them were.
+When the inspector had taken his particulars and the doctor had examined them, Charles, Herbert and Frederick were taken to the mortuary under Sergeant Smith's direction. The two infants, not being dead, were allowed to remain.
 
-Drowning a conscious child is not quick. He holds his breath for as long as he can, which is not long, and then he breathes, because past a certain point the body overrules him, and what comes in is water. Dr Henry Gould, who examined them the following afternoon, found the evidence of it in all three. The lungs gorged with dark blood, so heavy with it that it ran out when he cut into them and pressed. The right side of the heart the same. The liver the same. In their stomachs, half-digested food mixed with water, which means they were swallowing while it happened.
+Ada attended to the mother and the two babies. Within hours, one of the babies died in her arms, the one whose head had been struck at the back. Dr Gould was at the police station when word reached him, and shortly after eight o'clock he came back to the house and found that the child had recently died.
 
-They were dressed, and their clothes came out of the cistern sodden through. There were no marks of violence on any of them. Nothing about the arms, nothing about the trunk, no bruising, nothing broken, nothing to say they had been struck or wrestled with. Whatever William had to do to keep them under the water, it did not take enough force to mark a child.
+An account of the evening went out by telegraph that same night, and the next day it was printed, in almost the same words, in Bristol, in Nottingham and in Middlesbrough. The *Western Daily Press* ran it under the heading "A SHOCKING TRAGEDY. MURDER OF FOUR CHILDREN." Gouldstone, it said, had returned from work "rather earlier than usual, and the nurse noticed that he was in a very bad mood. He told her that he wanted her to leave the house while he had a chat with his wife concerning the money that was to be paid to the doctor. The woman left the house, but just before going she heard Gouldstone ask for the boy Frederick, and noticed that the lad seemed pleased at this parental recognition. Shortly afterwards she was surprised at seeing the cistern overflowing, and going to it was horrified at discovering the dead bodies of three of the children in it." The enraged father, it went on, had "struck the twin babes at their mother's breast with a hammer", and when the nurse asked him what he had done he had replied, "Never mind, I am happy now, and she is a single woman." One of the twins had since died. "The death of the other was hourly expected."
 
-The one exception was Charles, the eldest, the one who had answered Ada about the chair. Round his neck was an indentation about the width of a cord. The string was still on him when Dr Twining, the first doctor there, reached the house, the noose in it lying loose against the skin, and Twining lifted it off and handed it to the constable. Gould was clear that it had never been drawn tight enough to suffocate anybody. It was not what killed Charles. Charles drowned, like his brothers.
+Nobody who was in the house that night described under oath what Elizabeth went through. The *Illustrated Police News*, ten days later, told its readers that "when the murderer was taken away by the police, the poor wife, perhaps happily, lost consciousness for an hour; and through the night, which few thought she would survive, alternately broke into cries, to swoon away again."
 
-The two biggest were hard work, by William's own account. Frederick, sixteen months old and not able to do much about any of it, went quickly. He left all three of them in the water and went back into the kitchen.
+Within a few hours of the murders the Reverend T. H. Grantham Robinson, vicar of St Saviour's, had been to see her.
 
-It had taken no longer than it took Ada, through the wall, to get Elizabeth out of the bed and remake it.
+The second baby, the one with the bruise over his eye, died at about two o'clock in the morning. When Dr Gould came back at ten minutes past seven, he found him dead.
 
-When the bed was done, Elizabeth had to be helped back into it, and the two babies put down beside her again. Then William came along the passage and put his head round the door.
+Neither of them had survived long enough even to be given a name. In the Registrar General's index of deaths for that quarter they follow directly after their brothers, on the same page: Charles, Frederick, Herbert, and then Male, and Male.
 
-"You can come in, Mr Gouldstone."
-
-He said something, to himself rather than to her, and she could not make out a word of it. Then he turned and went back along the passage.
-
-"Shall I leave the room a minute?" Ada said to Elizabeth. "Perhaps Mr Gouldstone wants to speak to you."
-
-"Yes, do, my dear."
-
-So Ada left the two babies where they lay beside their mother and went out along the landing, past the kitchen door, which was shut, and down the stairs. On the way down she heard it open, and a moment after that she heard him go into the bedroom she had just left. She reached the yard door. Then she heard the screaming. It was Elizabeth, and the word was murder.
-
-She ran back up. The bedroom door was locked from the inside, and Elizabeth was calling through it.
-
-"Open the door. He is murdering my children."
-
-Ada could not shift it. She leaned over the banisters and called, "Help! Help!" two or three times, and Emma Clarke came running up from the garden. It was about half past five. The two of them put their weight against the door together and it did not give. They called through it to him to open it, and he did not answer. They were at that door about three minutes. Emma heard Elizabeth inside. "He has killed my babies."
-
-Then he opened it himself. "You can come in. It is all done."
-
-"Oh, you wicked man, what have you done?" Ada said.
-
-"I am not a wicked man. I am a happy man."
-
-And then, to Elizabeth: "Your other three children are in the cistern."
-
-He went out past Ada as she came in. He had nothing in his hands. Elizabeth was standing at the foot of the bedstead. "Come and look at my babies, and see if he has killed them."
-
-They were on the pillow where Ada had left them. Both were bleeding from the nose and the mouth, and one had a bruise over the eye. They were breathing. Ada took a small sheet and covered them over, so that their mother should not see them, and sent for a doctor.
-
-"He says he has killed the other three children," Elizabeth said. "Go and see, will you?"
-
-As Ada came into the kitchen, William was coming in from the scullery with Frederick in his arms. The child's clothes were wringing wet. He bent and laid him on the floor, on his back.
-
-Ada turned and saw Elizabeth out on the landing, seven days delivered, coming towards the kitchen. She went to her and turned her back from the doorway, and took her into the bedroom, and stayed there with her, and did not leave her for about ten minutes.
+Elizabeth's own medical attendant, the man who had delivered the twins seven days before, was Mr Sutton. On the Saturday a Walthamstow man wrote to the *Daily Chronicle* that Mr Sutton had returned his fees for the confinement straight away, the money she had been so anxious to find for him that evening. The twins, the letter added, had been "uncommonly fine children".

@@ -1,19 +1,45 @@
 Chapter Eighteen
 
-ILLEGITIMATE
+LATE GOLDSTONE FORMERLY STOCK
 
-After the October of 1883, the record holds nothing of Elizabeth until a Sunday in June 1887.
+A girl was born in Beach Alley, Whitstable, on Monday the seventh of April 1890, and named Lilian Florence Isabel. Her birth was registered on the nineteenth of May.
 
-The register lies open across two pages, and the printed heading runs the width of both: "Register of Births in Lambeth Workhouse". Its columns run from the date of birth to the registrar's initials, and one of them asks whether the child is legitimate or illegitimate. The date column is headed for the year: 1887.
+The informant was the child's mother. The register entry gives her as "E. Madams", "Mother", of Beach Alley, and the father as William Madams, general labourer. In the mother's column she is "Elizabeth Madams late Goldstone formerly Stock".
 
-Entry 105 is the third on the left-hand page. "June 19." "Male." "Elizabeth Goldston." "Illegitimate." Across the gutter, under "In what Name Baptized", the clerk has written "Albert Jennet". The column for the date of baptism is empty on this line, as it is on every line of the two pages. At the far end are the registrar's initials, "G.H."
+Three years after Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father.
 
-Two children were entered for that Sunday. The line above Albert's is Mary Pratt's: a girl, given the names Alice Mary, and entered, like him, as illegitimate.
+By the census, on the night of Sunday the fifth of April 1891, the family had moved to 41 Harbour Street, and lived in two rooms. William Madams and Elizabeth were living as husband and wife: the enumerator entered him as head, a general labourer, born in Whitstable, and her as his wife. Below them came "Albert Goldstone", three years old, born in Lambeth and, in the column for his relation to the head of the family, "Stepson". The baby was "Lillian Madams", eleven months.
 
-Seventeen entries fill the two pages, from the eighteenth of June to the eighth of July. Eleven of the children are entered as illegitimate. Three of the seventeen were born dead: on their lines a pen stroke runs through the space for a name, and the remarks column reads "Stillborn".
+Eliza Jane was born seventeen months after her sister, on the sixteenth of September, at Harbour Place.
 
-The clerk wrote the two kinds of entry differently. A legitimate child's line names both parents, gives the mother's former surname, and carries under Remarks the father's trade: coachman, boiler-maker, carpenter, labourer. An illegitimate child's line gives the mother's name alone.
+The girls were baptised together on Saturday the seventeenth of October, one entry after the other in the baptism book: Lilian at eighteen months, Eliza Jane at a month old. The parents are given as "William & Elizabeth", the surname as "Madams", and the father's trade as "Coal Porter".
 
-In the civil register the birth is entry 113, made the next day, Monday the twentieth of June. There the mother is "Elizabeth Goldston", and her address is given as "2 John Street Hercules buildings Lambeth".
+Twelve days later Elizabeth registered Eliza Jane's birth herself, as "E. Madams", "Mother", of Harbour Place. The father's column again names William Madams, and the mother's column holds the same three surnames she had given the year before.
 
-It was not Elizabeth who gave the particulars. The informant's column reads "S. Frost", "Present at the birth", and gives Frost's residence as the "Workhouse Infirmary Brook Street Lambeth".
+The School Board at Whitstable summoned William Madams in 1896 for not sending a child regularly to school. The Herne Bay Press of the second of May gave his case in two lines: he "was similarly summoned in respect to his son aged eight", and "The mother of the child pleaded poverty as the cause." The bench adjourned it for a fortnight, to see whether his attendance improved.
+
+The School Board's warnings went on. A final warning to the boy's parents was ordered in May 1898, and in June it decided to prosecute. A year after that, in July 1899, a fine of five shillings was imposed in his case. The reports in both years call him "Albert Madams".
+
+By March 1901 he was thirteen and at work. Within a few weeks he was in court, and the Folkestone Chronicle's report of the case gives the story as the witnesses told it. Albert was a basket boy, helping to unload a cargo of coal from a vessel called the Christabel. On the twenty-eighth of March he took a pair of sea boots to John James Pout, a bootmaker in Harbour Street, and asked him to "put pieces on the bottom". Pout told the court that the boy had said "they were his own boots, they having been given to him", and that he had told the boy they were "more suitable for his father than for him". Two days later Albert came back "and said his father wanted 3s. for them", and Pout paid it. But the boots belonged to Alfred Baker, an able seaman on the Christabel.
+
+The census was taken the next night, Sunday the thirty-first. At Middle Wall the enumerator entered William Madams, harbour labourer, as head of the household, and Elizabeth as his wife. Albert was now his "Son", fifteen, and a harbour labourer too; Lillian was ten and Eliza nine. They had fewer than five rooms.
+
+A constable arrested him the next day, Monday the first of April. He was charged "with stealing a pair of sea boots, value 10s., the property of Alfred Baker".
+
+The Canterbury Journal described Elizabeth's part in that day through the charge that was laid against her. "Elizabeth Goldstone, of Middle Wall, was charged at the County Police Court on Tuesday with being drunk and disorderly at Whitstable on the previous day. She is the mother of the boy in custody charged with stealing a pair of sea boots, and when she heard that he had been locked up she went in a state of intoxication, to the police station and created a disturbance. She was requested to go away, which she refused to do, and as she was very drunk the police locked her up also." She was fined five shillings, with ten shillings and threepence costs.
+
+At St Augustine's Petty Sessions on Saturday the sixth of April, "Albert Goldstone, aged 14" pleaded guilty. Mr Bray, the police court missionary, "offered to get the boy on a training ship", and the bench gave him a week to do it.
+
+On the thirteenth, the Herne Bay Press reported, the boy was "bound over to come up for judgment when called upon", the missionary "having got the boy on the training-ship Warspite".
+
+[WARSPITE: one or two sentences on what the ship was and where she lay in April 1901, once sourced (F (c)).]
+
+On the fourth of September 1901 William Madams was admitted to the Kent County Lunatic Asylum at Chartham, near Canterbury.
+
+Albert entered the Royal Navy on the eleventh of November, as Albert Goldstone, and was entered as a boy second class on the training ship Impregnable.
+
+Madams died in the asylum on Saturday the twenty-third of November, aged forty-two. His death certificate gives the cause as "General Paralysis of the Insane about 3 months", and the death was registered by the asylum's clerk.
+
+Elizabeth died at Beach Alley on Friday the twenty-ninth of June 1906. Her certificate gives the cause of death as "Syphilis 2 years". General paralysis of the insane was syphilis in its last stage, reaching the brain: she and Madams had died of the same disease. In 1901 doctors were already arguing as much; it was proved in 1913.
+
+The informant was her daughter Lilian, who was present at the death, and who described her mother as "Widow of William Madams".

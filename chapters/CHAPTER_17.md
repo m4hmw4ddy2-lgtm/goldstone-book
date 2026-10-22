@@ -1,37 +1,19 @@
 Chapter Seventeen
 
-UNTIL FURTHER SIGNIFICATION
+ILLEGITIMATE
 
-The Home Secretary, Sir William Harcourt, took a week. His letter reached the Sheriff of Essex on Tuesday the twenty-fifth of September: William would not hang on the first of October but on the eighth, and before then doctors would be sent to examine his mind. The Times printed the news the next morning. The Manchester Guardian read more into it: the respite, it said, was "probably tantamount to a remission of the capital sentence".
+After the October of 1883, the record holds nothing of Elizabeth until a Sunday in June 1887.
 
-At least one paper was against it. In Kirkcudbright, the Advertiser saw a week bought by "agitators". Its complaint was one of fairness. A man who killed one person went to the gallows and nobody lifted a finger, while a man who killed several drew a crowd of defenders, as though each death added to the pity owed him. William was poor, it allowed; so were countless fathers who harmed no one. If the doctors called him sane, all he had gained was seven days.
+The register lies open across two pages, and the printed heading runs the width of both: "Register of Births in Lambeth Workhouse". Its columns run from the date of birth to the registrar's initials, and one of them asks whether the child is legitimate or illegitimate. The date column is headed for the year: 1887.
 
-The British Medical Journal's worry, that Saturday, was the doctors' brief. It had heard that Harcourt meant to commute the sentence to penal servitude for life, but it wanted to know what he had asked his doctors to look at. The question, it argued, should be not William's mind in a cell at Chelmsford in September but his mind on the evening of the eighth of August. On that, the journal pointed to "the touching narrative of his wife, and the clear statement of the vicar of the parish in which he lived".
+Entry 105 is the third on the left-hand page. "June 19." "Male." "Elizabeth Goldston." "Illegitimate." Across the gutter, under "In what Name Baptized", the clerk has written "Albert Jennet". The column for the date of baptism is empty on this line, as it is on every line of the two pages. At the far end are the registrar's initials, "G.H."
 
-The doctors had in fact come and gone: they had been at the prison on the Wednesday, the day the Times printed the respite. The Sunday Dispatch named them that weekend: Dr Orange, who ran the criminal lunatic asylum at Broadmoor, and Dr Clarke, from London. It put their time with William at six or seven hours. Their findings were for Harcourt. William's family had visited him that week, and he was, by the paper's account, an attentive listener when the chaplain came.
+Two children were entered for that Sunday. The line above Albert's is Mary Pratt's: a girl, given the names Alice Mary, and entered, like him, as illegitimate.
 
-On the Monday morning the Times reported that Dr Orange "entertains no doubt of his insanity". It gave his family history too, the great-uncle who had taken his own life and his mother and his aunt, both insane, and it added a line about the eighth of August: "it is believed that he went out with the intention of drowning himself on the very day that he murdered his children".
+Seventeen entries fill the two pages, from the eighteenth of June to the eighth of July. Eleven of the children are entered as illegitimate. Three of the seventeen were born dead: on their lines a pen stroke runs through the space for a name, and the remarks column reads "Stillborn".
 
-The Liverpool Daily Post, the same day, answered the rumour of penal servitude. Madness enough to save his life, it argued, meant an asylum, and a convict prison was no place for a madman. "He is either a murderer of the worst type or an irresponsible lunatic."
+The clerk wrote the two kinds of entry differently. A legitimate child's line names both parents, gives the mother's former surname, and carries under Remarks the father's trade: coachman, boiler-maker, carpenter, labourer. An illegitimate child's line gives the mother's name alone.
 
-Harcourt had his doctors' report, and that day he wrote to the Sheriff again. The respite no longer had an end. The sentence was to wait "until further signification of Her Majesty's pleasure".
+In the civil register the birth is entry 113, made the next day, Monday the twentieth of June. There the mother is "Elizabeth Goldston", and her address is given as "2 John Street Hercules buildings Lambeth".
 
-The Home Office wrote on the Wednesday to the solicitor acting for William's employers:
-
-"Whitehall, Oct. 3, 1883,—Sir,—With reference to the applications forwarded by you in behalf of William Gouldstone, I am directed by the Secretary of State to acquaint you that, having caused special medical inquiry to be made as to the state of this man's mind, he has felt justified in advising Her Majesty to respite the capital sentence.—I am, Sir, your obedient servant, GODFREY LUSHINGTON."
-
-Nothing records how, or indeed if, Elizabeth was officially informed.
-
-The Times printed the letter on the Saturday, and beneath it a line of its own: "Gouldstone has been visited this week by his wife and his sister."
-
-The British Medical Journal that morning gave the credit to doctors and to journals like itself. Without them, it said, he would already have been hanged "for the crime of being afflicted with a terrible disease". It closed on a warning about where the system it complained of could lead: "the rich murderer might go to Broadmoor, and the poor one to the gallows".
-
-Harcourt signed the order for Broadmoor on the Monday, the day to which the hanging had been put back. It took two warrants, given at Whitehall. One directed the Governor of the prison at Chelmsford to send William there, with a certificate, filled up and authenticated, to go with him. The other directed the Superintendent of Broadmoor to receive him and keep him "until he shall be lawfully removed or discharged".
-
-William was told on Wednesday the tenth that he would not hang. A letter from the Home Office reached the High Sheriff that morning: William had been certified of unsound mind, and once the papers were ready he would go to Broadmoor. The letter gave leave for William to be told, and the Under Sheriff, Charles Gepp, went to him soon after it arrived. According to the Times, he "received it with deep gratitude".
-
-The next day Mr Graves wrote to the Walthamstow and Leyton Guardian, not about William but about Elizabeth. "By the act of her mad husband she has lost her only support as well as her five children, and now stands alone in utter destitution." The money collected for his defence had not covered it: "We have paid the sum of £50 for the law expenses, but only got in £36 from subscriptions". There was "nothing to give to the wife".
-
-A notice in Mr Graves's name in the Times that Friday gave the exact total, thirty-five pounds fourteen shillings and fourpence, all of it gone on the defence.
-
-On Monday the fifteenth William left Chelmsford by the 7.45 train to Liverpool Street, in the charge of two warders, Lanham and Parker. He was admitted to Broadmoor the same day.
+It was not Elizabeth who gave the particulars. The informant's column reads "S. Frost", "Present at the birth", and gives Frost's residence as the "Workhouse Infirmary Brook Street Lambeth".
