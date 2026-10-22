@@ -579,3 +579,14 @@ read: to check on the saved pages before it is said.
 - 16 October 2026 (Rik): RULED: the 1939 Register's 21 October 1918 stands for Clarie Irene's birth; Rik confirms the quarter (Q4 1918) as definitely correct. Prose unchanged ("On the twenty-first of October ... Three weeks later the war was over."). Certificate still nice to have.
 - 16 October 2026: CHAPTER TWENTY-ONE APPROVED (Rik: "approved, give me all files"). Title "Invalided" stands. Carried to Chapter Twenty-Two: the K.C. (17 Apr 1919), the medal roll (St, V, B), the war badge (28 Feb 1919, no. 36842) if wanted.
 - 16 October 2026 (Rik): "People in This Story": Clarie Irene Goldstone, née Setterington (b. 1889) ADDED (the list now 26, over the 15-25 guide; Rik: "let it run over"). Family tree 2: Brian Ronald Albert (b. 1932) ADDED to both generators (GRO birth index, 1932, Medway); tree 2 SVG, PNG, print PDF and print PNG regenerated (print positions respaced for five children, Vera's line moved to 48 mm). Tree 1 unchanged (regenerated identical in content; files left as they were).
+
+- 22 October 2026 (Rik: too many paragraphs open on a time; "do it"): eight openings rewritten so the time sits
+  inside the sentence, no fact changed: the census paragraph ("The Dominion was lying in Glengariff Harbour ... when
+  the census was taken at midnight on Sunday the second of April 1911."); "Albert left the Pioneer in May"; "A cable
+  from Sydney announced in September"; "Fremantle was her last Australian port, and she sailed from it on the
+  fourteenth of January."; "The boat was at Parkeston, by Harwich, in the spring of 1914."; "The Mayoress of Exeter
+  sent the boat a present of warm clothing that autumn"; "The Courageous put to sea a fortnight later"; "He came back
+  to the barracks at Chatham in January 1919". "By the new year" (the Pioneer) KEPT, so as not to make a run of four
+  paragraphs opening on "The". Time-led openings now four of twenty-four, none adjacent: "Three months after the
+  wedding", "By the new year", "Two months later" (a real turn), "Early in July". Chapter Nineteen checked the same
+  day: four of sixteen, none adjacent; no change.
