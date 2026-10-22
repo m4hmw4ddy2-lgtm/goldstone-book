@@ -86,7 +86,7 @@ u.line(410,Q0-5,580,Q0-5,dash=True)
 u.line(495,Q0-5,495,Q1-22)
 u.node(495,Q1,[("Albert Jennet Goldstone","name"),("b. 1887","date"),("m. 1910 Clarie Irene Setterington, b. 1889","note")],bold=True)
 # Madams
-# "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_19_skeleton.md, settled 1)
+# "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_18_skeleton.md, settled 1)
 u.node(1000,Q0,[("William James Madams","name"),("b. 1860","date")])
 u.line(720,Q0-5,910,Q0-5);  # single line: no marriage to Madams found (Rik, 12 October 2026); double = marriage
 u.line(815,Q0-3,815,Q1-55)

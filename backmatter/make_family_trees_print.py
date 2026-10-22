@@ -204,7 +204,7 @@ SX = 32
 p.line(SX, EY - 1.1, SX, 40.6)
 MX = 85
 p.line(61.5, EY - 1.1, 68.5, EY - 1.1)
-# "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_19_skeleton.md, settled 1)
+# "together from c.1888" removed 11 October 2026: withdrawn, an unsourced tree estimate (CHAPTER_18_skeleton.md, settled 1)
 p.person(MX, EY, "William James Madams", "b. 1860")
 p.line(65, EY - 0.65, 65, 26.5)
 p.line(65, 26.5, 91, 26.5)
