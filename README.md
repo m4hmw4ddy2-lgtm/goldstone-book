@@ -36,7 +36,7 @@ Where the project instructions and the notes disagree on a fact or a status, the
 
 ## The manuscript
 
-`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_20.md` (later chapters are added as they
+`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_21.md` (later chapters are added as they
 are approved; drafts are held locally until then).
 
 A text given whole (a letter or statement) is set as a block quotation, marked with ">" lines: roman, no quotation
@@ -50,7 +50,7 @@ marks, any editorial gap in italics within square brackets (ruled 22 October 202
 | Two, The Evening | 6 to 8 |
 | Three, The Reckoning | 9 to 16 |
 | Four, Elizabeth | 17 and 18 (the second family tree stands before its title page, after Chapter 16) |
-| Five, Albert | 19 and 20 (21 to come) |
+| Five, Albert | 19 to 21 |
 | Six, The Researcher; Coda | not begun |
 
 The two family trees stand in the text: the first, "Two families, to 1883", after the Prologue, before Part One; the second, "From Elizabeth to the author", after Chapter 16, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
