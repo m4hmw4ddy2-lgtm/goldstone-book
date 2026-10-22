@@ -39,7 +39,7 @@ for Vera; Clarie Irene's death (see finding 1); any Chatham Dockyard record; the
 | 17 Apr (or May) 1928 | Doris May born | 1939 Register (Apr); notes (May): Contr. 91 | Year only (plan finding 17) |
 | 14 Jul 1930 | Orbita, Plymouth, from Talcahuano; embarked Bermuda; second class; "46 Edenburgh Rd., Chatham" [sic]; "Rigger"; 44; last permanent residence England | BT 26/927 by the tree (read 22 Oct) | One sentence or none (ruled, DECIDE 11) |
 | 1931 | Luton Working Men's Club opened | Observer, 28 Jan 1939 (his own account) | Only as the 1939 item gives it |
-| Q3 1932 | Brian Ronald Albert born, Medway (2A 1314); mother's maiden name Setterington | GRO and MyHeritage indexes | Year only until the certificate |
+| Q3 1932 | Brian Ronald Albert born, Medway (2A 1314); mother's maiden name Setterington | GRO and MyHeritage indexes (Find a Grave's "1933" is wrong: see FIND A GRAVE) | Year only until the certificate |
 | 24 Jun 1932 | Vera Goldstone (Luton Council) a Chatham Education Committee scholarship to the County School for Girls | Observer (checked 20 Oct) | See C |
 | 29 Sep 1933 | Labour's only candidate so far, "Mr A. Goldstone, the propaganda secretary", against Clr. Packer, Christ Church | Observer (checked 20 Oct) | Usable |
 | 13 Oct 1933 | Packer Mayor-elect; Goldstone to contest Luton ward against Clr. G. B. Silver | Observer (checked 20 Oct) | Usable |
@@ -58,16 +58,16 @@ for Vera; Clarie Irene's death (see finding 1); any Chatham Dockyard record; the
 | 21 Apr 1943 | Michael George Ferguson born, 42 Magpie Hall Road | GRO certified copy (read 2 Oct) | Usable, a plain line (ruled DECIDE 1) |
 | 28 Mar 1945 | Coal case at Chatham: "Albert Goldstone, secretary of the Luton Working Men's Club", and "Mrs. Clara Irene Goldstone" give evidence | Observer, 6 Apr 1945 (checked 10 Oct) | Usable (ruled DECIDE 11) |
 | Nov 1945 | "A. Goldstone", new proprietor, 155 Dale Street (rationed foods) | Observer, 2 Nov 1945 (checked 20 Oct) | OUT: identity not shown |
-| 16 Jan 1953 | "Club secretary, Mr. A Goldstone" (which club not in the snippet) | Observer OCR snippet only | NOT clipped (to obtain) |
-| Q1 1958 (7 Jan) | Clarie Irene dies, Chatham; index age 68; buried Palmerston Road Cemetery | GRO death index, Jan-Mar 1958, Chatham, 5b 369 (Rik, 22 Oct); the day and the burial from Find a Grave via the tree | The quarter usable; the day and burial secondary (H) |
+| 14 Jan 1953 | Luton Working Men's Club annual dinner and dance, Luton (or Christ) Church Hall; Cllr G. W. Rhodes presiding; "Club secretary, Mr. A. Goldstone" begins to speak "to the younger men" (his words cut off on the clip) | Observer, 16 Jan 1953, p. 4 (clipped; checked 22 Oct; photograph above it) | Usable once the continuation is held (M) |
+| Q1 1958 (reg.) | Clarie Irene dies, Chatham; index age 68, registered Jan-Mar 1958. Find a Grave's "7 Jan 1958" is very probably her BURIAL date (see FIND A GRAVE); plot 10, 534, Palmerston Road, with Brian | GRO death index, 5b 369 (Rik, 22 Oct); Find a Grave 224968937 | Registration quarter only; the day not known (H) |
 | Q1 1962 (Feb) | George William Ferguson dies, Chatham; index age 41; buried 15 Feb 1962, Palmerston Road (tree) | GRO death index, Jan-Mar 1962, Chatham, 5b 443 (Rik, 22 Oct); Find a Grave 224970666 agrees (Rik) | See I |
 | Jun 1962 | Albert dies, Chatham district; index age 76 | GRO death index, Jun qtr, 5b 350 | Ending (ruled DECIDE 12); certificate NOT held |
 
 ## FINDINGS (new, wrong or contradictory; proposed corrections NOT applied)
 1. **Clarie Irene, Albert's wife, died early in 1958.** NOT in any note before today. CONFIRMED 22 October 2026 (Rik): GRO
-   death index, "Clarie I Goldstone", 68, Jan-Mar 1958, Chatham, 5b 369 (age right for 7 June 1889). The day, 7 January,
-   and the burial at Palmerston Road Cemetery come from Find a Grave (through the Ancestry tree): secondary; the
-   certificate or the cemetery register would settle them. Four years before Albert. (Decide H.)
+   death index, "Clarie I Goldstone", 68, Jan-Mar 1958, Chatham, 5b 369 (age right for 7 June 1889). Find a Grave's
+   "7 January 1958" is very probably her burial, not her death (see FIND A GRAVE, below): the day of death is NOT known;
+   it may even fall late in 1957. The certificate or the cemetery register would settle it. Four years before Albert. (Decide H.)
 2. **William in the 1921 census at Broadmoor: "Married".** The image was in the repo, UNREAD. Inmate, 64 (right for 10
    October 1856), "Married", "Essex / Gt. Sanford". With Milne's "a married man" (1935), only the typed slip of 1935
    says "Widower". No Broadmoor document held shows the asylum learning of Elizabeth's death. Bears on plan's proposed
@@ -128,7 +128,7 @@ for Vera; Clarie Irene's death (see finding 1); any Chatham Dockyard record; the
    expansions (a King's certificate of discharge; the 1914-15 Star, Victory Medal and British War Medal; "S." for how
    issued) are GENERAL KNOWLEDGE, not on either page. Chapter Twenty's skeleton lists the three medals by name without a
    source. Before prose: one source for each expansion (a TNA research guide to ADM 171 and to RN discharge
-   documents would do), recorded here.
+   documents would do), recorded here. SEARCHED 22 October 2026: see B, SOURCES FOUND.
 15. **What the 1962 certificate can and cannot settle.** It will give the day and place of death, the age as written,
    his occupation as written, the cause, the informant and the registration. It will not give a birthplace (finding 5).
    The informant is the first person after 1937 to give particulars of him to a registrar; who it was is not known.
@@ -206,6 +206,31 @@ the K.C. and medals in a clause before it. (c) Open on the 1921 census night. Ag
 the sheet's and the roll's own words, "K.C.", "St V B", given as the documents give them, with no expansion** (recommended).
 (b) Expand from general knowledge, recorded here. Against: the standing rule. (c) Leave both out. Against: ruling K (a).
 
+SOURCES FOUND FOR B (22 October 2026; web pages read through the fetching tool, quoted from its returns; URLs and
+date recorded here, no page saved):
+- THE MEDAL ROLL, SETTLED. The National Archives, research guide "British military campaign and service medals"
+  (https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/),
+  Appendix 2, abbreviations found on "some of the medal rolls": "ST. = 1914-1915 Star", "B. = British War Medal",
+  "V. = Victory Medal"; for how issued, "S. = Self", "FR. = Father". The same guide places Royal Navy ratings' First World
+  War rolls in ADM 171/94-119 (Albert's is 103). Fits the page held: the roll's own "FR." against Goldstein, A. I., two
+  lines above Albert (a father receiving a dead man's medals), alongside "S." for Albert. The guide does not say which
+  rolls use the codes; the roll's own usage closes that gap. The medals' qualifying terms are in the same guide
+  (1914-15 Star: service 5 August 1914 to 31 December 1915; British War Medal; Victory Medal: served in a theatre of
+  war). TNA's ADM 171 catalogue entry (C1880) and RMG research guide B11 name the same three medals for the war.
+  SO: the three medals may be named in prose, and "S." means issued to himself. Recorded as the source; no general
+  knowledge left here.
+- "K.C.", NOT SETTLED. Imperial War Museums, "Silver War Badge and King's Certificate of Discharge"
+  (https://www.iwm.org.uk/history/silver-war-badge-and-kings-certificate-of-discharge; no author or date): the King's
+  Certificate went to men "discharged during the war because of disabilities", with wording "Served with honour and was
+  disabled in the Great War. Honourably discharged on ...", in "different designs for the Army, Navy and Air Force";
+  "those awarded a Certificate would have been entitled to the Badge" (Albert's badge: 28 February 1919). That makes
+  "K.C." = King's Certificate very likely. But no source found says that "K.C." on an ADM 188 sheet means it (TNA's
+  ratings guide and RMG B11: nothing; the Dreadnought Project's list of abbreviations would not load). The page is
+  written of soldiers; the wording quoted is the Army form's, and Albert's own certificate is not held. RECOMMENDED: the
+  prose gives the stamp's words ("K.C." ... "ISSUED 17/4/19") or says "a certificate, the sheet's "K.C."", and does
+  NOT expand it or quote the certificate's wording, until a naval source ties the stamp to it (leads: the Dreadnought
+  Project list; a TNA enquiry; the Great War Forum, as a lead only).
+
 **C. The daughters' schooling and Vera's road to 1942 (new, Observer finds of 20 October).** (a) **Vera only, the line's
 next link: her scholarship to the County School for Girls (June 1932) and her Civil Service pass (June 1937), each a clause
 in its place; her absence from the 1939 household given by the Register itself: a civil servant in Bath (now held)**
@@ -282,7 +307,7 @@ approved chapter. (c) End on the 1945 club evidence, his death to Part Six. Agai
 - Chatham Observer, 16 January 1953, p. 4 (the "Club secretary" snippet) (M).
 - Brian's birth certificate (item 59 b), if G (b) is wanted.
 - The 1921 Broadmoor census reference (RG 15 piece and schedule), for its transcription header.
-- One source each for "K.C." and the medal abbreviations (finding 14) (B).
+- [FOUND 22 Oct: the medal abbreviations (TNA research guide, Appendix 2).] "K.C.": a naval source still wanted (B).
 - [HELD 22 Oct: the 1911 census, Clarie at 46 Edinburgh Road, schedule 128.]
 - GENERAL KNOWLEDGE to verify before any sentence leans on it: that an English death
   certificate of 1962 has no birthplace column.
@@ -299,3 +324,67 @@ approved chapter. (c) End on the 1945 club evidence, his death to Part Six. Agai
   transcribed/Goldstone_family_records_1911-1982_census_register_probate_index_transcription.md. Findings 1, 7, 10 and
   11, the dates, C, H, I and the sources list updated; proposed Contradiction 125 withdrawn. The probates (Vera died
   2 November 1979, of 35 Dagmar Road; Lily 2 June 1982, of 12 Dornden Gardens) are Part Six's, not this chapter's.
+- 22 October 2026 (Rik: "on B can we find a source now?"): searched. Medal roll abbreviations SOURCED (TNA research
+  guide, Appendix 2: ST., B., V., S. = Self). "K.C." very likely the King's Certificate of Discharge (IWM), but no source
+  ties the abbreviation on a naval sheet to it: B revised (see SOURCES FOUND FOR B).
+
+## RULINGS (Rik, 22 October 2026)
+- **B: "K.C." SETTLED** (Rik: "the evidence is strong enough"): the King's Certificate of Discharge (IWM; with the badge
+  of 28 February 1919). May be named in prose. The certificate's WORDING is still not to be quoted: the IWM page gives the
+  Army form's words, and Albert's own certificate is not held. The three medals named from the TNA guide.
+- **C: (b), amended** (Rik): Lily's free place (1924) in a single line, BEFORE Vera's, "it establishes a family pattern";
+  then Vera's scholarship (1932), Civil Service pass (1937) and Bath (1939). The pattern is shown by the lines in their
+  places, never stated in a sentence of ours.
+- **Albert's death certificate is ON ORDER** (Rik). L (a), as recommended (draft movements one to three meanwhile),
+  awaits a ruling.
+- Still open: A, D, E, F, G, H, I, J, K, L, M, N.
+
+## FIND A GRAVE: BRIAN AND CLARIE (Rik, 22 October 2026, from the memorials; the site cannot be read from the session)
+- Brian Ronald Albert Goldstone, memorial 224968936: birth "1933"; death "20 May 1937"; Chatham Palmerston Road Cemetery;
+  plot "10, 534".
+- Clarie Irene Goldstone, memorial 224968937: birth "1890"; death "7 Jan 1958"; same cemetery; plot "10, 534".
+- Albert Goldstone, memorial 224968938 (Rik, 22 October 2026): birth "1886"; death "26 Jun 1962"; same cemetery; plot
+  "10, 534". (George William Ferguson's memorial is 224970666.)
+FINDINGS:
+(a) **Albert, Clarie and Brian lie in the same grave**, plot 10, 534, Palmerston Road Cemetery, Chatham (Find a Grave,
+    all three memorials). Confirmed from the burial register, it is a documented fact for the chapter's last lines,
+    given plainly (L): the son buried in 1937, his mother in 1958, his father in 1962. No sentence of ours points at it.
+    Until the register is seen, Find a Grave (a volunteer index) is the only source: the register is to obtain.
+(b) **Find a Grave's "death" dates look like burial dates.** Brian's "20 May 1937" is five days after his death on the
+    certificate (15 May 1937, registered 18 May), and his "1933" is a year after the GRO index (Q3 1932). So Clarie's
+    "7 January 1958" is very probably her burial, and she may have died some days earlier, possibly in late December
+    1957 (the index gives only the quarter of registration). CORRECTION PROPOSED (not applied): the family-records
+    transcription, section 4, gives 7 January as "the DAY" from Find a Grave: to read "Find a Grave's date, very probably
+    the burial". Likewise George William Ferguson's "buried 15 Feb 1962" in the tree may be the same date Find a Grave
+    gives as his death: Rik to check his memorial.
+(c) Each memorial's "View Source" names where its data came from (very likely Medway's Palmerston Road burial register):
+    for Rik to read and record here. The register is the source to cite.
+(d) **Albert's "26 Jun 1962" is very probably his burial too**, by the same pattern. With the GRO index's age 76, which
+    fits the naval 19 June 1886 only if he died on or after 19 June: if the registrar's age carried the false year, he
+    died between the 19th and a few days before the 26th. INFERENCE, notes only; the certificate (on order) decides.
+    Find a Grave's "1886" is the false year again (taken from the age at death, or from a family source: not shown).
+    Proposed Contradiction 123 to note it.
+FOR G: Brian's birth stays "in 1932" (index), his death 15 May 1937 (certificate); the burial in the family grave may
+follow in a clause once the register is seen.
+FOR H: neither "7 January" nor "early in 1958" is safe. Recommended now: give her BURIAL, if the register dates it ("At
+the start of 1958 Clarie was buried in ..." only with the register's date), or her death from the certificate. Until
+one is held, H stays open.
+
+## THE OBSERVER CLIP STILL WANTED (M)
+Chatham, Rochester and Brompton Observer, Friday 16 January 1953, page 4 (Findmypast; found by OCR snippet in the search
+of 20 October, press_search note, section B, item 3): the snippet reads "Club secretary, Mr. A Goldstone". Wanted: the
+whole item, to see WHICH club (the Luton Working Men's Club, or another) and whether anything ties "Mr. A Goldstone" to
+Albert (Luton, an address, Clarie). If it is the Luton club, his secretaryship runs from at least 1939 to 1953, and the
+chapter's last record of his public life moves from 1945 to 1953.
+- 22 October 2026 (Rik): rulings on B (K.C. settled) and C (Lily first); Find a Grave memorials for Brian and Clarie
+  (same plot, 10, 534); Find a Grave's dates read as burial dates (Brian's against his certificate); item 60 on order.
+  (A rebase of this session's commits onto Rik's uploads went wrong and was aborted; the skeleton was restored from the
+  local copy with the B sources and the rulings re-applied. Nothing on origin was affected.)
+- 22 October 2026 (Rik): Albert's memorial: plot 10, 534, the same grave as Brian and Clarie; "26 Jun 1962" read as
+  very probably the burial. The burial register (Palmerston Road, Medway) now wanted for all three (live_lists 4, item 66).
+- 22 October 2026 (Rik): the Observer of 16 January 1953, p. 4, clipped with the photograph above it; transcribed and
+  checked (transcribed/Chatham_Observer_16_Jan_1953_Luton_WMC_Rally_Round_transcription.txt). It IS the Luton Working
+  Men's Club: secretary "Mr. A. Goldstone" at the annual dinner of Wednesday 14 January 1953. The clip stops at the subhead
+  "FUTURE POSSIBILITIES", just before his words: the continuation is wanted. M (b) now open to Rik: his secretaryship
+  runs 1939 to 1953 on three reports, and his last recorded public words would be from 1953 if the rest is clipped.
+  The photograph names only Rhodes: any family recognition of Albert in it is Part Six's.
