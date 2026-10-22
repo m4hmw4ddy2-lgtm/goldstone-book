@@ -1,12 +1,12 @@
 # CHAPTERS ONE AND TWO (LINEAR), SKELETON
 # SPLIT AGAIN 21 October 2026 (Rik: "yes, two. I think the reader could get lost without a mental break"). This
-# file covers both: "MOVEMENT TWO" below is Chapter Two (1861-1867), chapters/new-structure/CHAPTER_2_linear_trial_DRAFT.md.
+# file covers both: "MOVEMENT TWO" below is Chapter Two (1861-1867), chapters/CHAPTER_2.md.
 # The merge of the same day is reversed; the texture inventory and additions apply to both chapters.
 #
 # (original title: CHAPTER ONE (LINEAR TRIAL), SKELETON)
 # PROPOSED 19 October 2026, on PART_ONE_revision_plan.md, ruling A (b) and the linear map. Working on the plan's
-# recommendations for B to H (void where Rik rules otherwise). Nothing here is prose. The drafted chapters/CHAPTER_1.md
-# and CHAPTER_2.md stay untouched; the trial draft, when ruled, is held locally as a separate file.
+# recommendations for B to H (void where Rik rules otherwise). Nothing here is prose. The drafted chapters/archive/old_part_one/CHAPTER_1.md
+# and chapters/archive/old_part_one/CHAPTER_2.md stay untouched; the trial draft, when ruled, is held locally as a separate file.
 
 ## SPAN AND QUESTION
 
@@ -98,7 +98,7 @@ RECOMMEND (a): it ends on Elizabeth's side and points at the next chapter's cens
 ## DRAFT
 
 - 21 October 2026: FIRST TRIAL DRAFT, the whole chapter (three movements), at Rik's request ("give it a try now, and we
-  will make a call on if this is the right direction"): chapters/new-structure/CHAPTER_1_linear_trial_DRAFT.md, about 1,100 words,
+  will make a call on if this is the right direction"): chapters/CHAPTER_1.md, about 1,100 words,
   held locally. RULE BROKEN, FLAGGED: drafted whole, not one movement at a time, because the question is the direction.
   Sources pinned: Elizabeth's GRO birth certificate; marriage registers D/P 119/1/9 and /1/10; 1841 and 1851 censuses;
   RG4/1768; D/P 119/1/5 and /1/7; the GRO death certificates of the Ansells (MASTER_NOTES dates table); William's GRO
@@ -132,8 +132,8 @@ RECOMMEND (a): it ends on Elizabeth's side and points at the next chapter's cens
 
 # CHAPTER TWO (LINEAR TRIAL), SKELETON
 # PROPOSED 21 October 2026, with a first draft on its recommendations at Rik's request ("let's try the next chapter").
-# Rulings of 21 October on the Part One plan apply (B to H as recommended). Old chapters/CHAPTER_1.md to CHAPTER_3.md
-# untouched; the trial draft was chapters/new-structure/CHAPTER_2_linear_trial_DRAFT.md; merged 21 October into CHAPTER_1_linear_trial_DRAFT.md.
+# Rulings of 21 October on the Part One plan apply (B to H as recommended). Old chapters/archive/old_part_one/CHAPTER_1.md to chapters/archive/old_part_one/CHAPTER_3.md
+# untouched; the trial draft was chapters/CHAPTER_2.md; merged 21 October into chapters/CHAPTER_1.md.
 
 ## SPAN AND QUESTION
 April 1861 to August 1867. Under B: Elizabeth loses the last of her mother's first family and the old man of the house;
@@ -164,7 +164,7 @@ William's mother is in "a very bad way" while his father's business is in troubl
   Saturday (overcast) and Monday (blue sky) are held. The draft uses no weather. For the old chapter, if it survives: an
   error to fix.
 
-- EDWARD SUCKLING, 1861 (21 October 2026, on Rik's line note): "blind, out of work" (old chapters/CHAPTER_2.md,
+- EDWARD SUCKLING, 1861 (21 October 2026, on Rik's line note): "blind, out of work" (old chapters/archive/old_part_one/CHAPTER_2.md,
   line 9; carried into the trial draft) traces to nothing but an archive session note ("both blind/elderly",
   session_update_2026-07-14.md). The only 1861 text held is the MyHeritage index transcript in the GEDCOM (RG09/1113,
   p. 64, ED 4, enumerator Edward F Beddall, Malting Yard): Edward, head, 76; Sarah, wife, 71, both occupation
@@ -172,7 +172,7 @@ William's mother is in "a very bad way" while his father's business is in troubl
   transcript. IMAGE CHECKED 21 October (Rik's upload, transcribed/1861_census_Finchingfield_Malting_Yard_Suckling_
   transcription.txt): ages and "Pauper" (Edward; "Do" for Sarah) confirmed; the blind column is BLANK, so "blind" is
   contradicted, not merely unsourced. Ann was a straw plaiter. The page ends "End of Finchingfield Village" below them: NOT for the prose (Rik, 21 October).
-  Old CHAPTER_2.md line 9 to fix if it survives.
+  Old chapters/archive/old_part_one/CHAPTER_2.md line 9 to fix if it survives.
 - "Pauper" glossed as living on poor relief paid for out of the parish rates: general knowledge, recorded here.
 - Chelmsford Chronicle 9 Nov 1866 also has "a carpenter's son, aged about 19 or 20, named Gray" taken ill on the
   Tuesday: probably George Grey's household (Lot 27). Notes only.
@@ -207,7 +207,7 @@ and "whether six-year-old Elizabeth was among them"; "perhaps the first death sh
 Norrises, Ruffle, Watson and Drane; the weather; "typhoid came back again and again" (source to confirm).
 
 ## DRAFT
-- 21 October 2026: first trial draft, chapters/new-structure/CHAPTER_2_linear_trial_DRAFT.md (now merged into the Chapter One draft after the section break).
+- 21 October 2026: first trial draft, chapters/CHAPTER_2.md (now merged into the Chapter One draft after the section break).
 - 21 October 2026, Rik's line notes, applied: Edward Suckling's "on the parish" explained (and "blind, out of work"
   dropped as unsourced); Harriet Love's name dropped (unidentified: "occupied with one other tenant"); Emily's crisis
   rewritten without the trial's words (scarf, knife, "very bad way", "kept a woman"), with no forward pointer and no
@@ -344,3 +344,4 @@ T16 KEEP. From the 1842 tithe apportionments (MASTER_NOTES, "Added 25 July 2026"
   Norris/Ruffle/Watson/Drane "gradient" (MASTER_NOTES, 30 July) is NOT on this page and is withdrawn. "went round on
   the Monday" cut (unsourced). Philpott and Gray both recur in Chapter Two's sources (the Orchard; Lot 27; the cholera):
   the prose draws no link.
+- 21 October 2026 (Rik): titles ruled; see PART_ONE_revision_plan.md, last entry. This skeleton's chapters: 1 LATE ANSELL FORMERLY SUCKLING, 2 IN OCCUPATION.

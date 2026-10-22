@@ -1,504 +1,520 @@
-# CHAPTER SIXTEEN: SKELETON (after the verdict: Friday night, 14 September 1883, onwards)
-# STATUS, 9 October 2026: CHAPTER SIXTEEN DRAFTED IN FULL AND APPROVED (Rik: "ok, approved"), chapters/CHAPTER_16.md,
-# "AS HAPPY AS A CHILD AT PLAY", about 3,490 words, four movements. Chapter Seventeen ("Until Further Signification")
-# next: outlined below, to be planned in its own pass [DONE: CHAPTER_17_skeleton.md; Chapter Seventeen approved
-# 10 October 2026. Current status: live_lists.md, section 0].
-# (Earlier status, 7 October: planned; all DECIDE points ruled, all recommendations but DECIDE 3 and 14.)
-# Fixed before planning: the chapter opens with Savage's Lancet letter, dated 14 September (CHAPTER_14_skeleton.md, DECIDE 3a).
-# Working rules as for Chapter Fifteen, with the reported-speech method (CHAPTER_14_skeleton.md, "CHAPTER FIFTEEN
-# ASSEMBLED"): speeches, leaders and letters summarised in our own words, a short phrase or two quoted, each paper
-# named once; sworn evidence quoted at length. Linear rule: a letter belongs to the day it is dated.
-# Contradictions 115 and 116 are PROPOSED (117 withdrawn) at the foot of this file and have NOT been entered in the timeline file.
+# CHAPTER SEVENTEEN: SKELETON ("UNTIL FURTHER SIGNIFICATION": the respite to Broadmoor, 23 September to 15 October 1883)
+# RULED 9 October 2026 (Rik): "Eliminate Cole, this is not his story." DECIDE 16a (7 October) is REVERSED: James Cole
+# is out of the chapter and out of the book's main line. The chapter ends on Broadmoor. DECIDE 8 and 9 withdrawn.
+# Cole material stays in the notes (Contradiction 57; the Times of 19 October transcription) for Part Six or the
+# endnotes only.
+# STATUS, 10 October 2026: DRAFTED IN FULL AND APPROVED (Rik: "approved"), chapters/CHAPTER_16.md, about 870 words,
+# three movements, ending on Broadmoor; closes Part Three.
+# (Earlier, same day: PLANNED. ALL DECIDE POINTS RULED (Rik: "all other decides, I accept the recommendation"):
+# see DECISIONS at the foot. Next: drafting, movement one first (after any outstanding image checks of quoted lines).
+# Fixed before planning: Chapter Sixteen ends on the Central News of Saturday 22 September (the Home Secretary "is
+# about to cause a medical inquiry"). Title ruled 7 October (CHAPTER_15_skeleton.md, DECIDE 14).
+# Working rules as for Chapter Sixteen: the reported-speech method; NO BORROWING; ONE JOB PER VOICE; each paper named
+# once; sworn evidence quoted at length. Linear rule: a letter belongs to the day it is dated, an undated item to the
+# day it was printed.
 
 ## WHAT WAS READ FOR THIS SKELETON
 
-Fresh clone, HEAD aa5bbef = origin/main.
+Fresh clone, `git clone --depth 1`, HEAD 34e1902 = origin/main (checked with `git ls-remote`).
 
-Notes and chapters, in full: `chapters/CHAPTER_15.md`; `chapters/CHAPTER_14.md`; `notes/CHAPTER_14_skeleton.md` in
-full (the "Still to plan" list is not in that file: it is in the project instructions, NARRATIVE STRUCTURE, under
-Chapter Fifteen; read there. Only one Chapter Fourteen revision section stands at the foot of the skeleton, "REVISED ON
-THE CHAPTER FIFTEEN MODEL"; the movement sections above it record the drafting); `notes/live_lists.md` sections 1, 4,
-5, 6; the timeline file's STATUS table, Contradictions 104, 105, 112 (and 8 and 53, see CORRECTIONS, A), the dates
-table from 14 September to 18 October, and the statement-dating entry; `notes/elizabeth_thread_presence_as_absence.md`
-sections 4(d), 6, 9 and 10; `notes/elizabeth_statement_collation.md`. Project docs: My book.txt,
-rik-voice-writing-gate.md, AI_Writing_Tells_Gate.md.
+Notes and chapters, in full: `chapters/CHAPTER_15.md`, `chapters/CHAPTER_14.md`, `notes/CHAPTER_15_skeleton.md`.
+In part, as Rik's session message set out: `notes/live_lists.md` sections 0, 1 (with DECIDE 30), 4, 5, 6; the
+timeline file's STATUS table, Contradictions 20, 57, 80, 104, 105, the dates table from 22 September to 18 October,
+the REPRIEVE AND BROADMOOR facts; `notes/elizabeth_thread_presence_as_absence.md` sections 4(d), 6, 10;
+`notes/dramatis_personae.md` entries for Orange, Clarke, Gepp, Graves, Grantham Robinson, Cole (there is no entry for
+Lushington). Project docs: My book.txt, rik-voice-writing-gate.md, AI_Writing_Tells_Gate.md.
 
-Primary sources, 14 to 30 September, every file in full, each checked against live_lists.md sections 5 and 6:
+Primary sources, 23 September to 18 October, every file in full, each checked against live_lists.md sections 5 and 6:
 
 | File | Dated / printed | Image-checked? | Section 5/6 bearing |
 |---|---|---|---|
-| Lancet, Savage (`William_Gouldstone_Lancet_letter_transcription.txt`) | dated 14 Sep; printed 22 Sep | whole letter, 3 Oct | "ridiculed", "bona fides": Savage's claims, attribute (5) |
-| Times leader (`The_Times_15_Sep_leader_transcription.txt`) | 15 Sep | whole, 3 Oct | Press only; misstates the medical evidence (6) |
-| Daily Telegraph leader (`Daily_Telegraph_15_Sep.txt`) | 15 Sep | whole, 8 Oct (words agree; encoding repaired, header added) | "I have had it on my mind" press-only; the leader's "You wished them to be dead" is its paraphrase (corrections G, Ch 14) |
-| Daily Telegraph, workmen and juror (`Daily_Telegraph_17_September_1883_Transcription.txt`) | both dated 15 Sep; printed 17 Sep | whole, 3 Oct | Contradiction 112: "four years and a half", settled, compatible |
-| Times, Savage (`The_Times_17_Sep_Savage_letter_transcription.txt`) | dated 15 Sep; printed 17 Sep | whole, 3 Oct | "the Judge ridiculed": attribute to Savage (5) |
-| Times, Tallack (`The_Times_19_Sep_Tallack_letter_transcription.txt`) | dated 17 Sep; printed 19 Sep | whole, 3 Oct | Clark Bell's extract not to be used as text (5) |
-| Times, Wood (`The_Times_19_Sep_transcription.txt`) | dated 17 Sep; printed 19 Sep | whole, 8 Oct ("recognized") | as above |
-| Times, the Law Times (`The_Times_21_Sep_transcription.txt`) | printed 21 Sep (Law Times date unknown) | two readings only, 9 Sep | none |
-| Times, Sunderland (`The_Times_22_Sep_Sunderland_letter_transcription.txt`) | **undated**; printed 22 Sep | whole, 3 Oct | "ridiculed in Court": his, attribute (5) |
-| Walthamstow and Leyton Guardian, 22 Sep (letters, press opinions, statement, Robinson, Chelmsford) | 22 Sep | summing-up 3 Oct; letters, Robinson, Tuesday paragraph 8 Oct (gap filled; Smith misattribution corrected) | statement abridged: do not quote from it (collation); "5ft. 6in." a slip (8/53) |
-| Guardian "26 Sep" (`Guardian_26_Sep.txt`) | 26 Sep | **paper and date not visible on clip** | see FINDINGS, 9 |
-| Walthamstow and Leyton Guardian, 29 Sep (the Law Times again) | 29 Sep | whole, 8 Oct; agrees | same text as the Times of 21 Sep: one witness |
-| Essex Weekly News, 21 Sep | 21 Sep | trial report 3 Oct; Chelmsford head 7 Oct; height line today (CORRECTIONS, A) | statement copy text (collation) until 21 Oct 2026; now the Daily Telegraph of 20 Sep (log, 21 Oct) |
-| Western Daily Press, 18 and 21 Sep | 18, 21 Sep | 21st: statement opening only, 1 Oct; 18th: **no record** | 18th = Savage summary + workmen's letter reprinted |
-| Dundee Courier, 21 Sep | 21 Sep | whole, 8 Oct; agrees | Leeds Mercury's London correspondent; "The Daily Telegraph says" (live_lists 29) |
-| Pall Mall Budget, 21 Sep | 21 Sep | **no record** | summary only; misreports Thomas |
-| BMJ, 22 Sep, pp. 583-585 | 22 Sep (leader page misdated "15th") | whole, 7 Oct, from Rik's screenshots (4 corrections) | its narrative of the crime is commentary ("She said she wished the children were dead": Contradiction 4) |
-| Daily News, 22 Sep (Central News) | 22 Sep | from image, 30 Sep | agency paragraph: one witness |
-| IPN, 22 Sep, p. 3 | 22 Sep | head and foot, 3 Oct | trial only; nothing after the verdict |
-| Times, 26 Sep (respite; Peel's letter) | 26 Sep | whole, 3 Oct | Peel undated |
-| Glasgow Herald, 28 Sep | 28 Sep (filename only) | **no record; paper and date not visible** | press |
-| Kirkcudbrightshire Advertiser, 28 Sep | 28 Sep | **no record** | press |
-| BMJ, 29 Sep, pp. [639]-640 | 29 Sep | whole, 7 Oct, retranscribed from Rik's screenshot | prints "Dr. Gower"; Clarke examined, not he (20); see FINDINGS, 10 |
-| Sunday Dispatch, 30 Sep | 30 Sep | whole, 8 Oct; prints "Dr. Orringe" (misprint) | "Dr Gover" in DO NOT USE: this is the Clarke source (Contradiction 20) |
-| For the shape only: Times 1, 2, 6, 11, 12 Oct; Daily News 6 and 16 Oct; Liverpool Daily Post 1 Oct; Preston Chronicle 13 Oct; Guardian 20 Oct | | Times items 3 Oct | Times 1 Oct: press only, one witness (104, section 6); reprieve three dates (105) |
+| Times 26 Sep (`The_Times_26_Sep_transcription.txt`): respite to 8 Oct; Peel's letter | respite undated ("has addressed"); printed 26 Sep | whole, 3 Oct | Sunday Dispatch 30 Sep reprints the respite paragraph: one witness (6) |
+| Manchester Guardian 26 Sep, p. 5 (`Guardian_26_Sep.txt`) | 26 Sep | whole, **today**; identified 10 Oct from Rik's Newspapers.com clipping (header) | see FINDINGS, 6 |
+| Glasgow Herald 28 Sep | 28 Sep (filename only) | whole, **today** | rumour: penal servitude |
+| Sheffield Daily Telegraph 28 Sep, p. 2 (Rik, 10 Oct) | 28 Sep | whole, 10 Oct | reports the commutation as done; press only |
+| Wigan Observer 28 Sep, p. 5 (Rik, 10 Oct) | 28 Sep | whole, 10 Oct | = Manchester Guardian 26 Sep: shared copy (6) |
+| Nottingham Evening Post 17 Sep, p. 2 (Rik, 10 Oct) | 17 Sep | whole, 10 Oct | the hangman's applications; belongs to CHAPTER SIXTEEN (live_lists 1) |
+| Kirkcudbrightshire Advertiser 28 Sep | 28 Sep | **no record**; check before quoting | "half-a-dozen" victims: plainly wrong |
+| BMJ 29 Sep, pp. [639]-640 | 29 Sep | whole, 7 Oct | "Dr. Gower" (Contradiction 20); JSTOR credit |
+| Walthamstow and Leyton Guardian 29 Sep (the Law Times) | 29 Sep | whole, 8 Oct | same text as Times 21 Sep, used in Ch 16: out |
+| Sunday Dispatch 30 Sep | 30 Sep | whole, 8 Oct ("Dr. Orringe", misprint) | respite paragraph = Times 26 Sep (6); "Dr Gover" DO NOT USE (5) |
+| Times 1 Oct (Orange paragraph) | 1 Oct | whole, 3 Oct; opening words hidden by label | PRESS ONLY, one witness (6; Contradiction 104) |
+| Liverpool Daily Post 1 Oct (`Communtation in newspaper.txt` is the same clip) | 1 Oct (filename only) | whole, **today** | quotes the BMJ with its own variant "of the sentence" |
+| Times 2 Oct (respite "until further signification") | Mon 1 Oct ("yesterday"); printed 2 Oct | whole, 3 Oct | Contradiction 105 |
+| Daily News 6 Oct; Times 6 Oct (Lushington's letter; Times adds the visit) | letter dated Wed 3 Oct; printed 6 Oct | DN from image 30 Sep; Times whole 3 Oct | one text, one witness (6) |
+| BMJ 6 Oct, p. 706 (Medical News) | 6 Oct | whole, 7 Oct | copy of Times 1 Oct (6): out |
+| BMJ 6 Oct, pp. 682-683 (leader) | 6 Oct | whole, 7 Oct | "Benn", not "Ben" |
+| Penny Illustrated 6 Oct ("GOULDSTONE'S MANIA") | 6 Oct | **no record** | copy of Times 1 Oct (6): out |
+| Times 11 Oct (certified; Gepp) | Wed 10 Oct ("Yesterday morning"); printed 11 Oct | whole, 3 Oct | "c. 10 October" note in (5) |
+| Preston Chronicle 13 Oct | 13 Oct | **no record** | same copy as Times 11 Oct: quote the Times |
+| Times 12 Oct (Graves's notice, £35 14s. 4d.) | undated notice; printed 12 Oct | whole, 3 Oct (shillings confirmed by the £36) | DECIDE 30 |
+| Walthamstow and Leyton Guardian 20 Oct (removal; Graves's letter) | removal undated, printed 20 Oct; letter dated 11 Oct | both items, every line, **today** | none |
+| Daily News 16 Oct (removal "Yesterday") | Mon 15 Oct; printed 16 Oct | whole, **today** | none |
+| Times 19 Oct, p. 8 (Cole; `The_Times_Oct_19_Cole_transcription.txt`) | Thu 18 Oct; printed 19 Oct | whole, **today** (Rik's page image) | JMS/Bell's account is a copy (one witness) |
+| Old Bailey t18831015-964 (Cole) | sessions of 15 Oct; **no trial date or judge in the held text** | website text only (live_lists 4, 37-type gap) | "copycat" and "Cole was executed" (5); Spectator (6) |
+| Clark Bell, "Madness and Crime", Medico-Legal Journal, Dec 1884 (Gouldstone; Cole, from p. 349; Tuke, JMS Jan 1884, pp. 351-354) | 1884 | PDF text read; not a text to quote (5) | Tuke's "Dr. Glover" (20) |
+| 1935 inquest papers (`Broadmoor_Inquest_COR_R1_7_3_1935_Transcription.txt`); `broadmoor-documents/` register image (via the transcription) | 1935; register undated | checked by the archivist, two readings | Contradiction 43: not evidence about 1883 except the admission date |
 
-Not held, and named before anything leans on a summary of them: Savage's reply to the juror as printed (Daily
-Telegraph, about 18 or 19 September; held only via the Guardian and Clark Bell); the foreman's "card" (Clark Bell
-only, so not quotable as text, section 5); the London daily that first printed Elizabeth's statement (live_lists 29);
-the originals of the Daily News, Morning Post, Daily Chronicle and Morning Advertiser leaders (Guardian extracts only);
-the Leeds Mercury original; the Law Times itself (its date); the Home Office letter respiting to 8 October (date not
-given anywhere); the Walthamstow petition; HO 144 (live_lists 25).
+"Today" = 9 October 2026; each check is recorded in its file's header. Not checked and not needed unless a DECIDE
+point brings them in: Kirkcudbrightshire Advertiser, Penny Illustrated, Preston Chronicle.
+
+Not held, and named before anything leans on a summary of them: the Home Secretary's first letter to the Sheriff (the
+respite to 8 October; undated in every print); his communication of 1 October as a text; the certificate of unsound
+mind and the Home Office letter of 10 October; the Broadmoor admission papers (closed to 2036); any Essex Weekly
+News, Essex Standard or Chelmsford Chronicle after 21 September (the Chelmsford papers carried the prison detail in
+Chapter Sixteen); the Walthamstow and Leyton Guardian of 6 and 13 October; the fate of the Walthamstow petition
+(Robinson, 20 September; nothing after); HO 144 (live_lists 4, item 25).
 
 ---
 
 ## THE DAYS, PINNED TO SOURCES
 
-- **Fri 14, night.** Savage writes to the Lancet from Bethlem, dated "Sept. 14th" (printed 22 September). See FINDINGS, 1.
-- **Sat 15.** The Times leader approves the verdict; the Daily Telegraph leader asks for "one or two eminent
-  specialists" (it names Maudsley or Bucknill) to examine him. At Chelmsford William writes to Elizabeth ("dated the
-  15th": her statement; text in the Essex Weekly News, Western Daily Press, Guardian). The workmen's letter (Graves,
-  "Sept. 15"); the Tottenham juror's, answering the Telegraph leader ("your leading article of to-day"); Savage to the
-  Times ("September 15"). Execution fixed for Monday 1 October at Springfield (Essex Weekly News 21st; Guardian 22nd).
-- **Sun 16.** Chapel, the Rev. W. F. Lumley; Psalm 79, verse 12 (Essex Weekly News and Guardian: one copy).
-- **Mon 17.** The Telegraph prints the workmen and the juror; the Times prints Savage. Savage answers the juror
-  ("Bethlehem Hospital, Sept. 17": Guardian reprint). Tallack and Wood write to the Times (both "Sept. 17"); "One who was
-  present at the trial" and "One who Commiserates with the Prisoner" (both "Sept. 17", papers unknown).
-- **Tue 18.** Elizabeth at Chelmsford with "his sister and aunt" (her statement). The High Sheriff, J. Oxley Parker,
-  visits; the Guardian lists "his wife, mother, and sister" (Contradiction 115, proposed). The Western Daily Press
-  summarises Savage and reprints the workmen.
-- **Wed 19.** Elizabeth's statement ("yesterday (Tuesday)"): written this day (Contradiction 116, proposed). The Times
-  prints Tallack and Wood. Edward Smith, "Walthamstow, Sept. 19" (paper unknown; his is the "prima facie" letter,
-  with an invented speech for William: press only, see the Guardian transcription header, 8 October).
-- **Thu 20.** Grantham Robinson confirms "the truth of her statements", "I firmly believe that he was not in his right
-  mind", "We are getting up a petition in Walthamstow, praying for a reprieve" (Guardian reprint, "Sept. 20th").
-- **Fri 21.** The Times prints the Law Times. Provincial reprints of the statement (Essex Weekly News, Western Daily
-  Press; Dundee Courier's "The Daily Telegraph says"). The Leeds Mercury's correspondent on "feeling in medical
-  circles" (Dundee). Over 1,200 applications for Marwood's post (Essex Weekly News).
-- **Sat 22.** The Lancet prints Savage's letter; BMJ, first article; the Times prints Sunderland (undated); the
-  Guardian's "Opinions of the Press" (three for the sentence, three for inquiry) and its letters page; the Daily News
-  prints the Central News: the Home Secretary "is about to cause a medical inquiry".
-- **c. 23 to 26.** The Home Secretary's letter to the Sheriff respiting the execution to Monday 8 October (date not
-  given; printed Times 26th, "has addressed"; the other "Guardian" of 26th).
-- **Week of 24 to 29.** Dr Clarke and Dr Orange at Chelmsford, "six or seven hours" (Sunday Dispatch 30th; "last week",
-  Times 2 Oct). Relatives visit "during the week" (Sunday Dispatch).
-- **Fri 28 to Sun 30.** Commutation rumoured (Glasgow Herald 28th; BMJ 29th "We are informed"); the Kirkcudbrightshire
-  Advertiser against "humanitarians" (28th); the BMJ's "touching narrative of his wife" (29th); the Law Times reprinted
-  (Guardian 29th); Sunday Dispatch (30th).
-- **For the next chapter (if DECIDE 1a):** Mon 1 Oct, the day fixed; respite "until further signification of Her
-  Majesty's pleasure" (Times 2 Oct); the Times paragraph on Orange (1 Oct, press only, 104). Wed 3, the Lushington
-  letter. That week, visits "by his wife and his sister" (Times 6 Oct). Wed 10, certified; Charles Gepp tells him; "deep
-  gratitude" (Times 11 Oct; Preston Chronicle 13 Oct, same copy). Thu 11, Graves's appeal for the wife; Fri 12, the Times
-  notice, £35 14s. 4d. (DECIDE 30). Mon 15, the 7.45 to Liverpool Street with Lanham and Parker; Broadmoor (Guardian 20
-  Oct; Daily News 16 Oct). Thu 18, Cole tried before Denman.
+- **Sun 23 to Tue 25 September.** Nothing held. The Home Secretary's letter to the Sheriff, respiting the execution
+  to Monday 8 October "in order that inquiry may be made as to the prisoner's sanity", was written in these days or
+  earlier; its date is given nowhere ("has addressed", Times 26th).
+- **Wed 26.** Printed: the respite (Times; the unidentified "Guardian", which adds "probably tantamount to a remission
+  of the capital sentence"). Laurence Peel's letter (Times; undated): out, as in Chapter Sixteen.
+- **Week of 24 to 29 September (days not given).** Dr Clarke, of London, and Dr Orange, of Broadmoor, at Chelmsford at
+  the Home Secretary's request, "six or seven hours" with him, reporting "direct to Sir William Harcourt" (Sunday
+  Dispatch 30th, "Dr. Orringe"; Times 2 Oct, "last week"). Visits by "several of his relatives" "during the week"
+  (Sunday Dispatch). Undated: the visit is stated as fact of that week; the Dispatch's words belong to the 30th.
+- **Fri 28.** Glasgow Herald: "It is understood" that he will be commuted to penal servitude for life. The Sheffield
+  Daily Telegraph reports it as done, and asks whether a life sentence could outlast the time he should spend in an
+  asylum (out under 3a: the rumour is the BMJ's to carry). The
+  Kirkcudbrightshire Advertiser against the "humanitarians" and "agitators": a reprieve "for eight days".
+- **Sat 29.** BMJ: "We are informed" of commutation to penal servitude; the inquiry's terms should cover his state
+  of mind at the time of the crime; "the touching narrative of his wife, and the clear statement of the vicar". The
+  Walthamstow and Leyton Guardian reprints the Law Times (out).
+- **Sun 30.** Sunday Dispatch: Clarke and Orange; the relatives; "diligent attention to the ministrations of the
+  prison chaplain, the Rev. W. Faithfull Lumley".
+- **Mon 1 October, the day first fixed for the execution.** Morning: the Times paragraph on Orange (press only,
+  DECIDE 15). The Liverpool Daily Post (filename date) on the BMJ's rumour: penal servitude would be "absurd"; "He is
+  either a murderer of the worst type or an irresponsible lunatic." That day: the Home Secretary's communication to
+  the Sheriff, respite "until further signification of Her Majesty's pleasure", "in consequence of the report made
+  to Sir William Harcourt by Dr. Clarke and Dr. Orange" (Times 2 Oct, "yesterday"). REPRIEVE DATE ONE (105).
+- **Wed 3.** Lushington's letter to the employers' solicitor, "Whitehall, Oct. 3, 1883": "having caused special
+  medical inquiry to be made ... he has felt justified in advising Her Majesty to respite the capital sentence".
+  REPRIEVE DATE TWO. Printed Saturday 6th (Times; Daily News; one text).
+- **Week of 1 to 6 October (day not given).** "Gouldstone has been visited this week by his wife and his sister"
+  (Times 6th, printed with the letter; press only). The Times expects removal to Broadmoor "shortly".
+- **Sat 6.** BMJ leader: the Home Secretary's decision "both satisfactory and unsatisfactory"; the Medical News copies
+  the Times of the 1st (out). Penny Illustrated: "the official announcement which was made on Monday" (copy; out).
+- **Wed 10.** Morning: the High Sheriff receives the Home Office communication that William "had been certified to be
+  of unsound mind" and will go to Broadmoor "as soon as the necessary documents can be completed", and that it "might
+  be intimated" to him that the capital sentence would not be carried out. The Under Sheriff, Charles Gepp, tells him
+  "shortly after the receipt of the letter, and Gouldstone received it with deep gratitude" (Times 11th; Preston
+  Chronicle 13th, same copy). REPRIEVE DATE THREE.
+- **Thu 11.** Graves writes ("Oct. 11"; printed Walthamstow and Leyton Guardian 20th): "the position of Gouldstone's
+  poor wife"; "By the act of her mad husband she has lost her only support as well as her five children, and now
+  stands alone in utter destitution"; £50 paid for the law expenses against £36 subscribed; "nothing to give to the
+  wife"; Grantham Robinson receiving subscriptions.
+- **Fri 12.** Graves's paid notice (Times): the sum of £35 14s. 4d. "remitted to the Rev. T. H. Grantham Robinson ...
+  for the defence"; "insufficient to meet the bare expenses of the trial"; no provision "for the poor woman who has
+  lost her five children, and whose husband and sole support is now taken from her".
+- **Mon 15.** He leaves Chelmsford Prison in the morning, in the charge of Warders Lanham and Parker, by the 7.45 to
+  Liverpool Street (Walthamstow and Leyton Guardian 20th, undated item); removed to Broadmoor "in accordance with the
+  order of the Home Secretary" (Daily News 16th, "Yesterday"); admitted at Broadmoor that day (1935 inquest papers,
+  Milne: "admitted here on 15 October 1883 from Chelmsford Prison"; the criminal lunatic register: "15 Oct", Broadmoor,
+  entry 4953). The route beyond Liverpool Street is not recorded.
+- [NOTES ONLY: Cole out, 9 Oct] **Thu 18.** James Cole tried at the Central Criminal Court, Poland and Montagu Williams prosecuting, Geoghegan
+  defending "at the request of Mr. Justice Denman"; the jury out "about an hour and a half"; guilty; death; handed to
+  the Sheriff of Surrey (Times 19 Oct, "CENTRAL CRIMINAL COURT, Oct. 18. (Before MR. JUSTICE DENMAN.)"; the evidence
+  in full in Old Bailey t18831015-964). Reprieved after examination by Orange and "Dr. Glover" (Bell, p. 351; date
+  not given anywhere).
 
 ---
 
 ## FINDINGS FROM THE SWEEP
 
-1. **The Lancet letter is dated Friday 14 September and speaks of "Friday last".** "This case occupied the greater
-   part of Friday last". Either the Lancet adjusted his "to-day" for its Saturday issue of the 22nd, or the letter was
-   written later and dated back. The linear rule follows the dateline; the opening stands. Notes only.
-2. **Two readings of Savage's one answer, a day apart, opposite ways.** The Times leader (15th): the medical evidence
-   was that William "did not know what he was doing, and did not know that the penalty for the act was death". The
-   juror (15th): asked by Poland whether he would certify, Savage "distinctly stated 'No', also declaring he believed the
-   prisoner knew at the time that he was committing the crime of murder". Then Savage himself (17th): "I did say,
-   however, that, taking my examination with the history of the man and the crime, I have no doubt that he was of
-   unsound mind." Then Sunderland (22nd): the jury took the "No" for a denial of insanity, "whereas Dr. Savage's opinion
-   was that he was insane". Chapter Fourteen ends on Savage's penalty line (DECIDE 15a there); this chapter is where
-   15a pays out, by the documents' own order. See DECIDE 6.
-3. **The workmen's "hardship" stands against Chapter Fourteen.** "We consider it a great hardship that we were not
-   allowed to put this evidence before the jury" (15th), and the Daily News (via the Guardian) is "quite at a loss to
-   understand why they were not permitted to give evidence". Six of the shop gave evidence, and Kennard told the court
-   "The whole feeling of his fellow-workmen is that he is certainly insane" (Old Bailey; Chapter Fourteen ends movement
-   three on it). What they were not allowed was their opinion. No comment needed; the reader holds Kennard's line.
-4. **Savage's Lancet letter carries William's only recorded words about visions.** "He told me himself, but this was
-   not brought out in evidence, that he had very bad dreams and had seen heaven opened and had heard the voice of God,
-   but, he added, he knew it was only dreaming" (from the interview of Thursday 13th). The Times leader the next day:
-   "There was no sign of any delusion to which he was subject then or at any other time." Savage's report, not sworn;
-   attribute.
-5. **Two letters from William, and only one is held.** Her statement: "In a letter I had from him he spoke of them as
-   being in heaven, where he hopes soon to join them. Here is a letter I have from him, dated the 15th, in the same
-   strain". The heaven letter is undated and unheld; the letter of the 15th hopes "to meet you all In Heaven" but does not
-   speak of the children there (already found, CHAPTER_12_skeleton.md, "CHAPTER THIRTEEN ASSEMBLED"). The project
-   instructions' "the heaven letter" under "Still to plan" should read as the letter of the 15th plus her one sentence
-   about the other (CORRECTIONS, E).
-6. **The Chelmsford copy reads him for us, and echoes her.** "Takes his rest with the felicity of a child" (Essex Weekly
-   News and Guardian, one copy, 21 and 22 Sep) against her "as happy as a child at play" (statement, 19th). Readings, both
-   attributed; the juxtaposition is the reader's to make, not ours.
-7. **A Court of Appeal that did not exist.** The Leeds Mercury's correspondent (Dundee, 21st): "Had there been a Court
-   of Appeal for capital cases—as there would have been if Parliament had done its duty last session—this case would
-   certainly have gone before it." The only route was the Home Secretary. Usable as press; any gloss on the failed bill
-   needs a source first.
-8. **The question changes hands.** After the verdict nobody argued fact; the argument is all about the test and who
-   should apply it. The Telegraph wants specialists; Savage "further investigation"; Tallack the 1864 resolution of the
-   asylum officers and "permanent detention"; Wood that he meant "to compass his own death"; the Law Times "irresistible
-   impulse"; the BMJ Stephen's formulation and "eminent medical men"; Sunderland "the advisers of the Home Secretary". By
-   the 22nd the Central News says the Home Secretary is about to order a medical inquiry. This is the chapter's governing
-   test (see THE SELECTION RULE, below).
-9. **"Guardian, 26 September" is not the Walthamstow and Leyton Guardian.** [IDENTIFIED 10 October 2026: the Manchester Guardian, p. 5.] That paper was a Saturday weekly; 26
-   September 1883 was a Wednesday. The clip shows neither title nor date. Probably the (Manchester) Guardian; to confirm.
-   The dates table and master-index cite it as "Guardian 26 Sep", which readers of the notes will take for the local paper.
-10. **The BMJ pages, now held (Rik's screenshots, 7 October 2026; all four items retranscribed or collated).** The 29
-   September page reads "a modification of his punishment": our text was right, and the Sunday Dispatch and Liverpool
-   Daily Post's "of the sentence" is their own variant (Contradiction 117 withdrawn). It prints "Dr. Gower", and "the man's
-   arm, when lifted", not "the man whose arm". The 22 September leader runs pp. 583-585 and its leader page is headed
-   "SATURDAY, SEPTEMBER 15th, 1883", the journal's misprint (running heads and number give the 22nd). The 6 October leader's
-   OCR text had reversed a sentence ("neither fair nor politic", not "now to be more than politic"), and its comparison
-   case is Benn, not Ben.
-11. **The Sunday Dispatch's respite paragraph is the Times's of 26 September, word for word** ("signifying the Queen's
-   command(s)... The execution was fixed for Monday next"). Shared copy, one witness (add to live_lists, section 6).
-12. **Elizabeth's statement: written Wednesday 19, first printed 19 or 20.** See Contradiction 116 (proposed). For the
-   chapter it is enough that she wrote it on the Wednesday.
-
----
-
-## THE SELECTION RULE, APPLIED
-
-Chapter Fourteen's test was the jury's question. After the verdict the question is the Home Secretary's: is this man
-to hang? Material earns its place if it bears on that: (a) what the jury were thought to have understood, and what
-the witnesses said they meant (finding 2); (b) what was not before the jury (the workmen's opinion, Savage's report of
-the dreams, Elizabeth, the vicar); (c) the test itself, argued in public (finding 8); (d) what the state did. Recommended:
-
-- **In:** Lancet (Savage); Times and Telegraph leaders; the workmen; the juror; Savage to the Times and to the juror;
-  William's letter of the 15th; Tallack and Wood (one point each); Elizabeth's statement; Robinson and the petition; the
-  Law Times (one point); Sunderland; the BMJ of the 22nd (one point: Stephen, and its call on Harcourt); the Guardian's
-  count of the press (as the Guardian's); the Central News; the respite; the inquiry.
-- **Out:** "One who Commiserates with the Prisoner" (17th: repeats the others; its "1,000" workmen is wrong); Laurence Peel (a Lancaster case before M'Naghten); "One who was present at the trial" (repeats the others);
-  Edward Smith (except possibly one line, DECIDE 8); the Pall Mall Budget (a summary; misreports Thomas); the Glasgow
-  Herald (a rumour the BMJ states fuller); the Times leader's and Telegraph leader's errors of fact (the press rule of 3
-  October: a paper plainly wrong on a point the reader knows need not be included).
-- **Open:** the Kirkcudbrightshire Advertiser as the one voice against, if the Times leader is not enough (DECIDE 8).
+1. [NOTES ONLY: Cole out, 9 Oct] **Cole's trial date and judge: SETTLED 9 October 2026 by the Times of 19 October, p. 8** (Rik's page image;
+   `transcribed/The_Times_Oct_19_Cole_transcription.txt`, image-checked). Until then both rested on Clark Bell alone;
+   the Old Bailey text gives neither. The Times report adds: Geoghegan defended "at the request of Mr. Justice
+   Denman" (assigned by the court); Geoghegan offered the jury manslaughter; Poland's choice, "a violent, drunken
+   man" or "an insane person and a fit subject for the Broadmoor Lunatic Asylum"; Denman, that the insanity "should
+   be proved affirmatively"; the jury out "about an hour and a half" (William's, about a quarter of an hour); Cole
+   "replied in the negative" (the Times's formula for William too); Denman's address in direct speech, but then "in
+   the usual manner": the formal words of the sentence are still not printed (live_lists 4, item 38, still open).
+   The Journal of Mental Science account that Bell reprints is this Times report, cut: one witness. CORRECTION H,
+   applied the same day.
+2. **The day fixed for the execution opens in print on the man's insanity, and closes with the respite made
+   indefinite.** The Times paragraph (Orange "entertains no doubt of his insanity") is in Monday morning's paper; the
+   Home Secretary's communication is "yesterday" in Tuesday's. The day William was to hang is the day the first of the
+   three reprieve dates falls (105). No source says what happened at Chelmsford that morning, or whether he was told.
+3. **Three reprieve dates, three different addressees, none of them William or Elizabeth until the third.** 1 October:
+   to the Sheriff. 3 October: to the employers' solicitor, on "the applications forwarded by you" (plural; the solicitor
+   unnamed). 10 October: to the High Sheriff, with leave to tell the prisoner; Gepp tells him. How Elizabeth learned is
+   not recorded at any step (thread section 10). The Times of the 6th already expects Broadmoor four days before the
+   certificate.
+4. **The press argued about the outcome before it happened, and got the sentence wrong.** The Glasgow Herald (28th)
+   and the BMJ (29th, "We are informed") both report penal servitude for life. The Liverpool Daily Post (1 Oct) calls
+   that "absurd": if he is insane he belongs in an asylum; "He is either a murderer of the worst type or an
+   irresponsible lunatic." The certificate and Broadmoor came out the Post's way. The selection can show this without
+   a word of ours.
+5. **The BMJ asks for exactly the inquiry the Times then reports on.** The BMJ (29th) wants the reference to cover his
+   mind "at the time when he committed the crime", not only now; the Times (1 Oct) reports Orange's view and adds that
+   "it is believed that he went out with the intention of drowning himself on the very day". Two press items, two
+   days apart; neither is the report itself, which is not held.
+6. **IDENTIFIED 10 October 2026: the Manchester Guardian, Wednesday 26 September, p. 5** (Rik's Newspapers.com clipping). Was: "Guardian, 26 September" remains unidentified. Checked today: no title or date on the clip, and the wording
+   finds nothing on the open web. It is the only paper to call the respite "probably tantamount to a remission of the
+   capital sentence". Not to be named in prose as "the Guardian" until identified (CHAPTER_15_skeleton, finding 9;
+   correction F there, still open).
+7. **Elizabeth's last appearance in the 1883 record is in Graves's two items of 11 and 12 October**, and both are
+   about money. After the Times of 6 October ("his wife and his sister"), nobody records her with William again. Graves
+   writes of her as "Gouldstone's poor wife" whose "mad husband" has left her "in utter destitution"; the notice as
+   "the poor woman ... whose husband and sole support is now taken from her". Neither mentions the reprieve.
+8. **Graves's letter calls William mad in so many words**, a day after the certificate reached Chelmsford. His word,
+   in his letter; the selection can let it stand beside "certified to be of unsound mind" without comment.
+9. **The chaplain at Chelmsford has a fuller name in the Sunday Dispatch**: "the Rev. W. Faithfull Lumley" (Chapter
+   Sixteen: "the Rev. W. F. Lumley", from the Essex Weekly News). Not a contradiction; the Dispatch spells out the F.
+10. [NOTES ONLY: Cole out, 9 Oct] **Gouldstone is named at Cole's trial, three days after he reached Broadmoor**: the Wandsworth chaplain,
+   cross-examined, "I am not aware that a convict of the name of Gouldstone was under my care". Why the question was
+   asked is not recorded (Contradiction 57, open lead). On the linear rule it belongs to the 18th. Moot: Cole is out (9 October).
+11. **The BMJ leader of 6 October measures the medical evidence as "a ten-minutes' examination, at the last moment"**:
+   a general complaint, not Savage's figure (the juror: twenty minutes to half an hour; BMJ 22 Sep: a quarter to half
+   an hour; Tuke, 1884: "some twenty minutes"). The old notes in that transcription call it "Savage's ten-minute
+   examination". Not to be carried into prose as fact (CORRECTION I).
+12. **Two Parkers.** The High Sheriff is J. Oxley Parker; one of the warders who took William to Broadmoor is Parker.
+   Nothing connects them; keep them apart in prose.
+13. **The 1935 papers and the register give the admission date and nothing else usable here.** Milne's "confusional
+   insanity" on admission is a 1935 description (Contradiction 43; live_lists 4, item 28) and waits for its own
+   chapter. The register's "pauper" with a superscript "c" is a reading, its series unidentified (live_lists 4, item 27).
+14. [NOTES ONLY: Cole out, 9 Oct] **Cole's trial carries a wife who, like Elizabeth, could not be called**: Tuke (1884) says so in terms, and no wife
+   gives evidence in the Old Bailey text. Tuke is a later document and not quotable from Bell; the Old Bailey record
+   shows the absence plainly (her son and her neighbour speak for her). The reader will hear the echo; no sentence of
+   ours should point at it.
 
 ---
 
 ## WHERE THE NATURAL BREAKS ARE
 
-The record falls into two bodies of unequal kind.
+The record from 23 September to 18 October is thin, official and spread out: three weeks in perhaps a dozen short
+items, none sworn, with gaps of days. It falls into three short movements:
 
-**1. The argument, 14 to 22 September.** Nine days, almost all of it paper: letters, leaders, the statement. Dense,
-dated day by day, and it turns on itself (finding 2). Inside it, Tuesday to Thursday (the visit, the statement, the
-vicar) is a scene of its own. It ends on Saturday 22nd with everything arriving at once in print and the Central News
-reporting the inquiry. Under the method (letters summarised), honestly 3,000 to 3,800 words, more if the statement runs
-long (DECIDE 3).
+**1. The respite (26 to 30 September).** The respite in print; the two doctors at Chelmsford; the rumours of penal
+servitude and one voice against; the BMJ on the wife and the vicar.
+**2. The reprieve, in three steps (1 to 6 October).** The day fixed: the Times on Orange in the morning, the respite
+made indefinite; Lushington's letter on the 3rd; the visit by his wife and sister; the BMJ's verdict on the system.
+**3. Certified (10 to 15 October).** Gepp and "deep gratitude"; Graves and the money; the 7.45 train; Broadmoor.
+~~**4. Coda: Cole (18 October).**~~ Out (Rik, 9 October).
 
-**2. The decision, c. 24 September to 15 October.** Thin and official: a respite, two doctors, six or seven hours,
-three dates (105), a letter signed Lushington, "deep gratitude", the money, the 7.45 train. With Cole (18 October),
-1,800 to 2,600 words.
+Honest length: 1,800 to 2,400 words. One chapter. Broadmoor ends it.
 
-**Where the reprieve falls:** in the second body. The respite to 8 October (reported 26th) is the hinge. It could close
-the first chapter (DECIDE 1d) or open the second (1a).
+**Where Part Three ends.** The project outline puts Broadmoor inside Part Three. Ending on Broadmoor, this chapter
+closes Part Three; Part Four (Elizabeth) opens on the absence that follows (thread section 6, "inherits the thread
+inverted"). See DECIDE 10.
 
 ---
 
 ## THE CHAPTER'S ELIZABETH THREAD
 
-She speaks, once, and the chapter is built so that it lands as a turn (section 6: "a turn, not a sample").
-- **Before she speaks, others speak of her.** The Telegraph leader (15th) supposes she "may possibly have led her in a
-  moment of desperation to say some wild words", and that "she must know" the law's demands; the Times leader gives her
-  only as the one he spoke to. Edward Smith (19th): "always supposing that she really expressed such a wish". Readings,
-  each attributed, at most one.
-- **His letter to her** (15th): "Dear Wife do not fret". Placed on its own date (DECIDE 4).
-- **Tuesday 18th:** she goes to Chelmsford. Who went with her (DECIDE 11).
-- **Wednesday 19th: the statement**, from the Essex Weekly News, named once. Section 9 governs: the spent lines (Chapters
-  Five and Six) are not quoted again; the held-back lines are hers to run with here: the concertina and "never tired
-  listening"; "Nothing that ever he said or did ... gave me the least fear"; the cup of tea "every morning from their
-  birth till their death"; "never took any notice of the babies"; "his eyes were strange and wandering"; the doorway and
-  the foreman (her own account of the question Ada swore to); the visits and "as happy as a child at
-  play"; Chelmsford ("You will take care of her, won't you?"; "I have broken God's commandment"); "he seems to have no
-  notion of the enormity of killing the children"; the heaven letter in her one sentence; and the conclusion, "I am
-  certain he was insane".
-- **Thursday 20th:** the vicar confirms her, "I may add that I have not seen his wife since her husband's conviction."
-- **Saturday 29th:** the BMJ's "the touching narrative of his wife" (if 1a, in the next chapter or as this one's last
-  line of her: DECIDE 2).
-- **Next chapter:** the Times of 1 October reports what "His wife ... says" (the twelve months, spent in Chapter Six:
-  not repeated); the visits with his sister; Graves's "the poor woman" and "utter destitution"; and how she learned of
-  the reprieve, which nothing records (not to be narrated; 105). After 15 October the record loses her: Part Four.
+After Chapter Sixteen gave her the floor, this chapter returns her to the third person of other people's paper: the
+sources' "his wife", "the poor wife", "the poor woman" (section 6: "Let the pronoun do it").
+- **Before the reprieve, others cite her.** The BMJ (29th): "the touching narrative of his wife" beside "the clear
+  statement of the vicar" (section 4(d): very probably her published statement and Robinson's letter of 20th). The
+  Times (1 Oct): "His wife, who is a very respectable young woman, says that he has shown signs of madness for the last
+  12 months": the twelve months are spent (Chapter Six, by the Times's name) and are not repeated (DECIDE 15a).
+- **Visits.** "During the week" to the 29th, "several of his relatives" (Sunday Dispatch; she is not named). The
+  week of 1 to 6 October, "his wife and his sister" (Times 6th). With the Tuesday of 18 September, at least two visits
+  to Chelmsford. What passed at either is not recorded, and nothing records whether she knew yet.
+- **Graves's appeal for her** (11th) and his notice (12th): her circumstances in the foreman's words, set against the
+  sum in ours (DECIDE 30).
+- **How she learned of the reprieve: nothing records it** (section 10). Not narrated, not speculated; the three steps
+  are given to their actual addressees, and her absence from each is visible without comment.
+- **After 15 October the record loses her** until Albert's birth certificate (June 1887). The chapter should not say
+  so; Part Four begins from it. The single rationed reminder of what cannot be known (writing rules) is better spent
+  there than here.
 
 ---
 
-## THE SHAPE PROPOSED (two chapters, DECIDE 1a)
+## THE SHAPE PROPOSED
 
-### Chapter Sixteen: Friday night, 14 September, to Saturday 22 September
-**1. Friday night and Saturday.** The Lancet letter, introduced by its date: Savage's account of the trial in a few of
-our sentences, his report of the dreams (finding 4), his complaints attributed, and his last line quoted ("a scandal to
-law, or rather justice"). Saturday: the Times leader (the verdict approved; possibly its reading of the medical
-evidence, DECIDE 6); the Telegraph leader (specialists should see him); the juror answering it (the "No"); the workmen
-(the "hardship"; "four years and a half" as their words); Savage to the Times ("Justice demands further
-investigation"; the House of Detention's medical officer, attributed). In the condemned cell, William's letter to his
-wife.
-**2. Sunday to Monday.** Chapel and the psalm (DECIDE 10); the shorn curls, prison dress, the watch by day and night,
-as plain fact; the paper's readings attributed. Monday: Savage answers the juror ("I have patients of the most
-insanely dangerous class here who have said the same things which Gouldstone said ... Yet they are mad."); Tallack and
-Wood, one point each.
-**3. Tuesday to Thursday.** Chelmsford; the statement at length (DECIDE 3); the vicar and the petition.
-**4. Friday and Saturday.** The Law Times; the Leeds Mercury's Court of Appeal (optional); the execution fixed and
-the hangman wanted (Marwood dead, over 1,200 applications); Saturday 22nd in print: Sunderland, the BMJ, the Guardian's
-three and three; the Central News (DECIDE 2).
-**Estimate:** 3,200 to 4,000 words.
+### 1. The respite (Wednesday 26 to Sunday 30 September)
+The Home Secretary's letter to the Sheriff, J. Oxley Parker: execution put back a week, to Monday 8 October, for an
+inquiry into his sanity (Times, named once). The two doctors at Chelmsford that week, six or seven hours, reporting
+direct to Harcourt; relatives "during the week"; the chaplain (Sunday Dispatch, named once, misprint not quoted:
+DECIDE 4). Friday and Saturday: the rumour of penal servitude, in the BMJ's form (its "touching narrative of his wife"
+and its demand that the inquiry reach back to the day of the crime: DECIDE 3); the one voice against (DECIDE 2).
 
-### Chapter Seventeen: the respite to Broadmoor, c. 24 September to 15 (or 18) October
-**1.** The respite to 8 October; Clarke and Orange, six or seven hours; the week's rumours and the one voice against.
-**2.** Monday 1 October, the day fixed: respite indefinite (Times 2 Oct). The Times paragraph on Orange, named (DECIDE 15).
-Wednesday 3, Lushington's letter, quoted whole (a document, not reported speech). Her visit with his sister.
-**3.** Wednesday 10: certified; Gepp; "Gouldstone received it with deep gratitude". The money (DECIDE 30, already
-decided in form). Monday 15: Lanham and Parker, the 7.45, Broadmoor.
-**4.** Cole (DECIDE 16).
-**Estimate:** 1,800 to 2,600 words.
+### 2. The reprieve in three steps (Monday 1 to Saturday 6 October)
+Monday, the day fixed. Morning: the Times on Orange (DECIDE 15a, as ruled). The Liverpool Daily Post's either/or
+(DECIDE 3). That day, the respite "until further signification of Her Majesty's pleasure", after Clarke and Orange's
+report (Times, 2 Oct). Wednesday: Lushington's letter, whole (DECIDE 5). The week's visit, his wife and his sister
+(Times, with the letter's printing). Saturday: the BMJ leader, one job (DECIDE 6).
+
+### 3. Certified (Wednesday 10 to Monday 15 October)
+Wednesday morning: the certificate, Gepp, "deep gratitude" (Times, 11 Oct). Thursday: Graves's letter. Friday: the
+notice and the sum (DECIDE 30). Monday: Lanham and Parker, the 7.45 to Liverpool Street, Broadmoor, admitted that day,
+all as plain fact (DECIDE 7).
+
+### ~~4. Coda: Cole~~ Out (Rik, 9 October 2026: "this is not his story").
+
+**Estimate:** 1,800 to 2,400 words. The chapter ends on the Monday: the 7.45 train, Broadmoor, admitted that day.
 
 ---
 
 ## DECIDE POINTS
 
-**DECIDE 1. One chapter or two, and where the break falls.**
-(a) **Two chapters, the break at the end of Saturday 22 September** (recommended): the argument, then the decision; the
-reprieve in Chapter Seventeen. Each body is of one kind, and the second is short and official, as Chapter Fifteen was.
-(b) One chapter, 14 September to 15 October, 5,000 to 6,500 words: the longest in the book.
-(c) Three: 14 to 17 (the letters), 18 to 22 (Elizabeth's week), the respite to Broadmoor. Gives the statement a
-chapter of its own; against, the second chapter becomes the statement framed by two days of print, and 22nd's arrivals
-split from the argument they close.
-(d) Two, the break at the respite (reported 26th): Chapter Sixteen ends on "The execution was fixed for Monday next."
-Against: puts the respite, whose letter is undated, at a chapter's end on a date we cannot give.
+**DECIDE 1. One chapter.** (Cole out, 9 October: options (a) and (c) below now read without him.) (a) **One chapter, 26 September to 15 October**
+(recommended: the material is thin and of one kind; the three reprieve dates need to sit together). (b) Two chapters,
+broken at Monday 1 October. Against: two chapters of under 1,500 words each. ((c), Cole elsewhere, falls away.)
 
-**DECIDE 2. How Chapter Sixteen ends (if 1a).**
-(a) The Central News: the Home Secretary "is about to cause a medical inquiry to be held into the mental condition of
-William Gouldstone" (Daily News, 22nd), with the execution date and the hangman just before it (recommended: a plain
-fact of that day, and it hands the next chapter its question without a word of ours).
-(b) The Guardian's count, three for the rope and three for inquiry. Against: the paper's framing as our last line.
-(c) Sunderland: "he is not legally insane until some medical man has been witness of this massacre". Against: an
-editorial ending, the risk DECIDE 3c of Chapter Fourteen avoided.
-(d) The vicar's petition (20th). Against: out of date order with the 21st and 22nd.
+**DECIDE 2. The one voice against, during the respite.** Chapter Sixteen's voices for the rope were the Times leader
+and the Guardian's count; this chapter has none unless one is chosen.
+(a) **The Kirkcudbrightshire Advertiser (28th), one short paragraph of ours**: the reprieve won by "agitators"; why
+should sympathy grow with the number killed while the commonplace murderer goes to the rope unheard? One or two
+words quoted ("humanitarians", "agitators"); its "half-a-dozen" (wrong) paraphrased round. Image check first.
+Recommended: its job (the inequality from the other side) is one nobody else does, and the BMJ of 6 October answers
+it from the opposite direction ("the rich murderer might go to Broadmoor, and the poor one to the gallows").
+(b) Out, as in Chapter Sixteen (DECIDE 8 there). The respite then meets no dissent in print.
 
-**DECIDE 3. The reported-speech method and Elizabeth's statement.** Rik's method summarises letters. Her statement is a
-letter to the papers; it is also her only extended first-person account, and section 6 says she "should be allowed to
-run at length".
-(a) **An exception for the statement**: the held-back passages quoted in runs, from the Essex Weekly News (named once),
-the spent lines summarised or left out, the paper's third-person head ("writes to state her solemn belief") paraphrased
-(recommended: the method's reason is the reporter's paraphrase; this is her first person, and the nearest she comes to
-evidence).
-(b) The method applied strictly: summarised, a phrase or two quoted.
-(c) The whole statement, as printed. Against: repeats the lines Part One spent (section 9).
+**DECIDE 3. The commutation rumours.** (a) **The BMJ (29th) and the Liverpool Daily Post (1 Oct) only**, each with one
+job: the BMJ, that the inquiry must reach back to the day of the crime, and its "touching narrative of his wife, and
+the clear statement of the vicar" (quoted); the Post, the either/or ("He is either a murderer of the worst type or an
+irresponsible lunatic", quoted). The Glasgow Herald out (the same rumour, briefer); the BMJ's guess at the doctors
+("Dr. Gower") out. Recommended. (b) The BMJ only. (c) Neither: the respite, the doctors, the report.
 
-**DECIDE 4. William's letter of 15 September.**
-(a) **On Saturday 15th, its date**, quoted (from the Essex Weekly News, its spelling and capitals as printed, one
-naming), recommended: a letter belongs to the day it is dated, and it is his first-person voice, not reported speech.
-The collation warns the spelling is the compositor's: no argument rests on it.
-(b) Inside her statement on the 19th, where the public first read it. Against: the linear rule.
-(c) Regularise spelling and capitals. Against: quotations keep the source's text.
-And: how much? Whole (about 250 words) or the run from "Dear Wife do not fret" to "So Good By God Bless you"?
-Recommended: whole; it is short and nothing else he wrote survives.
+**DECIDE 4. The Sunday Dispatch's misprint.** (a) **Name the doctors in our voice ("Dr Clarke, of London, and Dr
+Orange, of Broadmoor"), the visit and the six or seven hours attributed to the Sunday Dispatch, "Dr. Orringe" not
+quoted** (recommended; press rule: paraphrase round a printer's error). (b) Quote as printed with [sic]. Against: trips
+the reader. The chaplain's full name, "the Rev. W. Faithfull Lumley": (a) not repeated (he was named in Chapter
+Sixteen; recommended), (b) given once.
 
-**DECIDE 5. The heaven letter.** (a) Only in her sentence, on the 19th; never placed or quoted as if held
-(recommended). (b) Leave her sentence out.
+**DECIDE 5. Lushington's letter.** (a) **On Wednesday 3rd, its date, quoted whole** (about seventy words; a document,
+not reported speech), from the Times text (image-checked; "Her Majesty"), introduced in our sentence as the Home
+Office's letter to the solicitor acting for William's employers; its printing on the Saturday carries the Times's one
+naming and the visit line (recommended). (b) On Saturday 6th, where the public read it. Against: the linear rule.
+Also: Lushington's office (Assistant Under-Secretary in 1883) is TO VERIFY before the prose gives it; the letter's own
+"I am directed by the Secretary of State" needs no gloss, and he can stand as the signature only (recommended).
 
-**DECIDE 6. The two readings of Savage's answer (finding 2).**
-(a) **Both, each named, on Saturday 15th, side by side, no comment**; Savage's reply on the 17th and Sunderland on the
-22nd in their places (recommended: the reader holds Chapter Fourteen's last line; the documents do the rest, in date order).
-(b) The juror only (the Times leader's error left out under the 3 October rule). Against: loses the contradiction,
-which is the point.
-(c) Neither leader on the medical evidence; Savage and Sunderland only.
+**DECIDE 6. The BMJ leader of 6 October: its one job.** (a) **The claim that but for the medical press and medical men
+he would have hanged by now, summarised; and its last line quoted: "the rich murderer might go to Broadmoor, and the
+poor one to the gallows"** (recommended: it is the only voice to put the case in terms of money, which the chapter
+then turns to in Graves's figures). (b) Its "vigilance committee" image quoted instead. (c) Its proposal of state
+medical examiners. Against (b) and (c): the first is the journal's self-portrait, the second policy outside the
+governing test (is this man to hang, and where does he go?). Its "ten-minutes' examination" stays out (finding 11).
+Benn of Matlock: out (another case, unsourced here).
 
-**DECIDE 7. The Lancet letter: what is quoted.** (a) Summary of his account; his report of the dreams quoted ("had
-seen heaven opened and had heard the voice of God", "he knew it was only dreaming"), as Savage's; "threw doubt upon my
-bona fides" and "Counsel were not allowed" attributed; the last line quoted. Recommended. (b) The last line only.
-(c) Also "a feeble minded, rather weakly, good man".
+**DECIDE 7. Broadmoor.** (a) **Plain fact, no paper quoted**: Monday morning, the 7.45 from Chelmsford to Liverpool
+Street, in the charge of two warders, Lanham and Parker; admitted to Broadmoor that day. The Guardian's words wait
+(printed 20th, after the chapter); the 1935 papers' words wait for 1935. Recommended. (b) The Daily News's "in
+accordance with the order of the Home Secretary" quoted, named. The route beyond Liverpool Street: not narrated
+either way.
 
-**DECIDE 8. Selection** (THE SELECTION RULE above). Accept the in/out lists? Open items: Edward Smith's one line about
-the wife ("always supposing that she really expressed such a wish"), recommended out (her own voice follows the same
-day, and the line restates a reading the Telegraph already gave); the Kirkcudbrightshire Advertiser, recommended out (the
-Times leader and the Guardian's three for the rope carry that side); the Leeds Mercury's Court of Appeal, recommended in,
-one sentence, named.
+**DECIDE 8. WITHDRAWN 9 October 2026 (Cole out).** Was: Cole's sources. The date and the judge are now on the Times of 19 October (finding 1). (a) **Sworn
+evidence quoted from the Old Bailey text (check the quoted runs against the printed Sessions Paper page first);
+the speeches, summing-up and Denman's address to Cole from the Times, named once, under the reported-speech method,
+with Denman's words in direct speech quotable as speech** (recommended: the same division of labour as Chapters
+Fourteen and Fifteen). (b) The Times alone, the Old Bailey evidence summarised. Against: the coda then loses the
+sworn voices, which is what the method keeps. (Rik's RTF of the website text, 9 October, is word for word the
+transcription already held.)
+And the reprieve: no date held for Cole's reprieve. "Examined on the Home Secretary's order and reprieved" as fact on
+Bell, with Orange named and the second doctor not ("Glover" is Tuke's spelling; Gover is inference, Contradiction 20).
 
-**DECIDE 9. The other London leaders, held only as the Guardian's extracts.** (a) On Saturday 22nd, as the Guardian
-gave them, with its count as its own (recommended: their own dates are not known, and the Daily News leader replies to
-letters of the 17th). (b) On the 15th, guessing the date. Against: unsourced dating.
+**DECIDE 9. WITHDRAWN 9 October 2026 (Cole out): the chapter ends on Broadmoor (was option c).** Was: How the chapter ends. (a) **Cole's verdict and sentence, then one sentence: examined like William, on
+the Home Secretary's order, by Dr Orange; reprieved** (recommended: the two cases close on the same outcome, and the
+pairing Tuke made in January 1884 is left as fact for the reader to make here, without his words). (b) The Wandsworth
+chaplain's "I am not aware that a convict of the name of Gouldstone was under my care", in its place in the
+cross-examination. Against as an ending: it invites a meaning the record does not give (finding 10; Contradiction 57).
+Recommended in, if at all, in the run of Cole's evidence, not last. (c) End on Broadmoor and the admission.
 
-**DECIDE 10. Chelmsford: the psalm, and the readings.** The psalm and verse are a fact of the Prayer Book (Psalm 79,
-appointed for the sixteenth morning; verse 12: TO VERIFY against an 1880s psalter before stating); "singularly enough"
-and the convict's repeating it are the paper's. (a) Give the psalm as plain fact and the inference as the Essex Weekly
-News's (recommended). (b) Leave the psalm out. Shorn curls, prison dress, the two warders by day and night: plain fact,
-"since" (by the 21st). "Stolid and indifferent", "eats and drinks heartily", "the felicity of a child": the paper's,
-attributed or left out. Height: 5ft 4in, if at all (CORRECTIONS, A).
+**DECIDE 10. Part Three's close.** This chapter ends Part Three (recommended). Rik to confirm, since it decides whether
+the Part Four title page comes next.
 
-**DECIDE 11. Who went to Chelmsford on Tuesday (Contradiction 115).** (a) Her account, "his sister and aunt", and the
-High Sheriff's visit as a plain fact, the Guardian's "mother" left to the notes (recommended: her own words, in three
-reprints, against one unsigned paragraph). (b) Both, named.
+**DECIDE 11. The Manchester Guardian of 26 September and the Glasgow Herald.** (Revised 10 October: the Guardian is
+now identified.) (a) **The Manchester Guardian's one line, named, beside the Times's respite: the respite "probably
+tantamount to a remission of the capital sentence"; the Glasgow Herald out** (recommended: it is the first paper to read
+the respite as a reprieve, five days before the Home Secretary did, and it leads into the week's rumours without a word
+of ours; the Herald is a briefer copy of the BMJ's rumour). (b) Both out, the respite given by the Times alone.
 
-**DECIDE 12. The vicar.** (a) On the 20th: the letter summarised, "I firmly believe that he was not in his right mind"
-and "praying for a reprieve" quoted, and "I have not seen his wife since her husband's conviction" (recommended).
-(b) The petition only.
+### CARRIED OVER
 
-**DECIDE 13. Sunderland's letter is undated.** (a) On Saturday 22nd, the day the Times printed it (recommended).
-(b) Earlier, as written "within the week". Against: unsourced.
+**DECIDE 15 (ruled 7 October, 15a).** The Times paragraph of 1 October, named once; Orange "entertains no doubt of his
+insanity"; the family as the paper's; the twelve months not repeated; "it is believed that he went out with the
+intention of drowning himself on the very day that he murdered his children" as the Times's, no gloss. **New from the
+sweep:** placement: Monday morning, the day fixed for the execution, before the Home Secretary's communication of the
+same day (finding 2). The opening words are hidden on the clip ("[We understand that D]r."): quote from "Dr. Orange"
+on, never the bracketed words (live_lists 4, item 36: a clean copy is wanted). The BMJ and Penny Illustrated copies:
+not used.
 
-**DECIDE 14. Titles.** All from the record.
-- Chapter Sixteen: **"In the Same Strain"** (her statement, of his letter; recommended: the chapter is letters
-  answering letters, and the phrase is hers, about him); or "As Happy as a Child at Play" (hers); or "A Scandal to Law"
-  (Savage, Lancet: the opening line's verdict as the title, against which see DECIDE 3c of Chapter Fourteen).
-- Chapter Seventeen: **"Until Further Signification"** (Times, 2 October, the respite made indefinite; recommended:
-  the state's own phrase for a decision deferred); or "With Deep Gratitude" (Times, 11 October); or "During Her Majesty's
-  Pleasure" (Grain at the trial, Essex Weekly News).
+**DECIDE 16: REVERSED 9 October 2026 (Rik): Cole out of the chapter and the main line. The record below is kept.** (Was ruled 7 October, 16a.) Cole as a coda after Broadmoor; the same prosecutors; convicted; examined on
+Harcourt's order; reprieved; Tuke stated as fact only, his words held. **New from the sweep:** the date and judge are
+the Times's of 19 October (finding 1; DECIDE 8); the selection for the coda under the governing test (is the
+law's question the same, and does it come out the same?): Richard Cole on the delusions (cross-examined), Harriet
+Harding on what she heard ("sooner than a woman should do as she liked, he would sooner settle the lot", and its
+cross-examined form), the prison surgeon and chief warder (sane), Dr Thomas Jackson (insane, "a typical lunatic, with
+dangerous delusions"), each cross-examination in its own paragraph; Poland's either/or and Denman's address from the
+Times (DECIDE 8). The jury's hour and a half against William's quarter of an hour: two facts, no comment. "Copycat" never; the Spectator out.
 
-**DECIDE 15 (Chapter Seventeen). The Times paragraph of 1 October (Contradiction 104).** One press witness. (a) Name
-it once: Orange "entertains no doubt of his insanity"; the family as the paper's; the twelve months not repeated (spent
-in Chapter Six); "it is believed that he went out with the intention of drowning himself on the very day" given as the
-Times's, no gloss (recommended: the only account, of any kind, of an intention that day; the reader knows the Tuesday and
-Wednesday are unaccounted for). (b) Orange's line only. (c) Leave it out.
-
-**DECIDE 16 (Chapter Seventeen). Cole and Tuke.** [REVERSED 9 October 2026 (Rik): "Eliminate Cole, this is not his story." Cole is out of Chapter Seventeen and the main line; see CHAPTER_17_skeleton.md.] Rik placed them in the reprieve chapter (30 September). Cole's trial
-is 18 October, after Broadmoor; Tuke's pairing is January 1884 (Journal of Mental Science, via Clark Bell: a later
-document, and not quotable as text from Bell). (a) Cole as a short coda after Broadmoor: the same prosecutors, Poland and
-Montagu Williams; convicted; examined on Harcourt's order; reprieved (Old Bailey t18831015-964; reprieve date to source).
-Tuke stated as fact only (that the two cases were published together), his words held (recommended). (b) End on
-Broadmoor; Cole to a later chapter. (c) Leave Cole out of the book's main line.
-
-**DECIDE 17. Image checks before drafting** DONE 8 October 2026: all listed below checked, results in each header. (check-once rule: quoted lines only, cropped close, recorded in each header).
-Needed if quoted: the Daily Telegraph leader of 15th (no header at all); Wood; the Guardian of 22nd for Savage's reply,
-Robinson, and the other leaders; the Essex Weekly News for every statement line to be quoted and William's letter; the
-Dundee Courier; the Guardian of 29th; the Sunday Dispatch; the BMJ items are now checked (finding 10).
+**DECIDE 30 (ruled 3 October; live_lists section 1).** The Times notice of 12 October, £35 14s. 4d., in our voice as
+"thirty-five pounds fourteen shillings and fourpence"; Graves's "£36" and "£50" only inside his own words. **New
+from the sweep:** the letter (dated 11th) comes the day before the notice (printed 12th), so the order is the
+letter's figures first, in his words, then the exact sum in ours. ONE JOB PER VOICE: (a) **the letter for her
+("utter destitution", "her mad husband", "nothing to give to the wife"), the notice for the sum and for the defence it
+paid for, one sentence** (recommended); (b) the notice only, the letter's figures dropped; (c) the letter only, the
+exact sum lost.
 
 ---
 
-## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (115 and 116 ENTERED 11 October 2026)
-- **115. Tuesday 18 September: who visited.** "His sister and aunt accompanied me yesterday" (her statement: Essex Weekly
-  News, Western Daily Press, Guardian) against "visited on Tuesday by the High Sheriff ... and also by his wife, mother,
-  and sister" (Guardian 22 Sep, unsigned paragraph). Mother or aunt. Neither sister is named.
-- **116. The statement's first printing: Wednesday 19 or Thursday 20.** "Yesterday (Tuesday)" dates her WRITING to
-  Wednesday 19th. A London morning daily would print it on Thursday 20th, which Robinson's "in your paper this morning",
-  dated the 20th, fits plainly; an evening paper of the 19th remains possible. The collation file and the timeline heading
-  (19th) argue that "a paper writing 'yesterday (Tuesday)' was published on Wednesday": that does not follow. The
-  timeline's own line in the Robinson entry still says "her statement on 20 September". Open until the original is
-  found (live_lists 29). Placement in the prose is unaffected: written Wednesday 19th.
-- ~~117. The BMJ of 29 September: "of his punishment" or "of the sentence".~~ WITHDRAWN 7 October 2026: the page reads
-  "of his punishment"; the two papers' "of the sentence" is their variant inside their own quotation marks (finding 10).
+## PROPOSED CONTRADICTIONS, FOR THE TIMELINE FILE (NOT YET ENTERED)
+None new. Finding 1 is a sourcing error in the notes, not a conflict between sources (CORRECTION H). Contradictions
+115 and 116 (CHAPTER_15_skeleton.md) are still to be entered.
 
 ## CORRECTIONS FOUND (status on each item, 11 October 2026; unmarked = open)
-A. APPLIED 8 October 2026 (transcription corrected, header records the check, the stale lines below fixed). Was: **Essex Weekly News, 21 September, transcription: "In height he stands 5ft. 6in." reads "5ft. 4in."** on the image
-   (`sources/images/Media-coverage/Essex weekly News Sep 21 1883.png`, checked 7 October 2026, the Chelmsford paragraph
-   from "night, having been brought down" to "would repeat it at the service in", every line). Also "O let the sorrowful"
-   reads "Oh let". Contradiction 53 and the status table were right; the transcription was wrong. Stale beside it: the
-   timeline's height row (line 46, "Height 5ft 6in | Essex Weekly News 21 Sep (prison admission record)") and
-   Contradiction 8's bullet "Essex Weekly News: 5ft 6in (prison admission measurement)". Record the check in the
-   header; grep for "5ft 6in" and "5ft. 6in" before closing.
-B. APPLIED 7 October 2026 (the file is retranscribed and its old notes flagged). Was: `transcribed/BMJ_29_September_1883_Transcription.txt`, KEY DETAILS: "responsible for William for the next fifty-two
-   years" (DO NOT USE twice over); "THE VICAR'S STATEMENT ... HAS NOT BEEN FOUND" (superseded: Robinson's letter of 20
-   September, Guardian 22nd); Gover as the probable examiner (Clarke: Contradiction 20).
-C. APPLIED (section 6 now reads "19 September (her writing day)"). Was: `notes/elizabeth_thread_presence_as_absence.md`, section 6: "When Part Three reaches c.21 September" should read
-   the nineteenth (her writing day; Contradiction 116).
-D. APPLIED 11 October 2026. Was: Timeline, the Robinson entry: "her statement on 20 September" against the heading's 19th (Contradiction 116).
-E. NO LONGER APPLIES (checked 12 October 2026): the project instructions lost their chapter-status section on 9 October, and they now name "William's letter of 15 September and Elizabeth's statement" correctly. Was: Project instructions, Chapter Fifteen's "Still to plan": "Elizabeth's statement (with the heaven letter ...)": the
-   letter quoted is the one dated 15 September; the heaven letter is known only from her sentence (finding 5).
-F. APPLIED 10 October 2026: identified as the Manchester Guardian, 26 Sep, p. 5 (Rik's Newspapers.com clipping); dates table, master-index and the transcription header corrected. Was: master-index.md and the dates table: "Guardian 26 Sep" is not the Walthamstow and Leyton Guardian (finding 9).
-G. APPLIED 11 October 2026. Was: live_lists.md, section 6: add the Times 26 Sep / Sunday Dispatch 30 Sep respite paragraph as shared copy
-   (finding 11); and the Essex Weekly News / Guardian Chelmsford paragraph (already noted in Contradiction 53, not in
-   the list).
+H. **APPLIED 9 October 2026** (timeline row, dramatis entry and master-index now cite the Times of 19 October;
+   live_lists item 38 annotated). Was: **Cole's date and judge.** Timeline dates table, row "18 Oct | Cole tried before Denman; convicted; later
+   reprieved", cites "Old Bailey t18831015-964"; dramatis_personae.md, Cole's entry, the same. The held Old Bailey text
+   has neither the day nor the judge; both are Clark Bell's (Medico-Legal Journal, December 1884, p. 349). Add Bell to
+   the citation, and "contemporary confirmation wanted" until a London daily of 19 October is held.
+I. **APPLIED 11 October 2026** (withdrawal notice and inline markers in both files). Was: **`transcribed/BMJ_6_October_1883_Transcription.txt`, old notes (KEY DETAILS 1, 3, 5)**: "He came home with a piece
+   of cord in his pocket", the cord "brought for himself" (against the DO NOT USE noose entry, and MASTER_NOTES's own
+   correction of 18 September); "Elizabeth is the source ... the narrative she gave to the Home Office"; "The BMJ's
+   characterisation of Elizabeth" (it is the Times's, copied). The header says to read them with the 3 October finding,
+   but they are not struck. Recommend marking them withdrawn in place. Also
+   `BMJ_6_October_1883_pp682-683_Transcription.txt`, old note 6: "Savage's ten-minute examination" (finding 11).
+J. **APPLIED 10 October 2026.** Was: **Timeline dates table, 26 Sep row**, cites only "Guardian 26 Sep" (unidentified). Add the Times of 26 September
+   (image-checked, named).
+K. **APPLIED 10 October 2026** (section 6 already lists the pair). Was: **live_lists.md, section 6**: add the Times 11 Oct / Preston Chronicle 13 Oct paragraph as shared copy (one
+   witness). (The Penny Illustrated's copy of the Times of 1 October is already listed there.)
+L. **APPLIED 11 October 2026** (item 57). Was: **live_lists.md, section 4 (sources to obtain)**: add the Essex Weekly News (or another Chelmsford paper) for 28
+   September to 19 October; the Walthamstow and Leyton Guardian of 6 and 13 October; a London daily of 19 October on
+   Cole (fold into item 38).
+M. Old Bailey t18831015-964: the chief warder gives Cole's violence in prison as "15th September" and then "30th
+   September"; the surgeon says the 15th twice. The website text's own inconsistency (or the witness's); for the
+   printed page check (as item 37 for case 849). Not needed for the coda.
+
+## IMAGE CHECKS (check-once rule)
+Done today and recorded in each header: Walthamstow and Leyton Guardian 20 Oct (both items), Daily News 16 Oct,
+Liverpool Daily Post 1 Oct, Manchester Guardian 26 Sep, Glasgow Herald 28 Sep. Already checked: Times 26 Sep, 1, 2, 6, 11, 12
+Oct; BMJ 29 Sep and both 6 Oct items; Sunday Dispatch 30 Sep; Walthamstow and Leyton Guardian 29 Sep. Still to check,
+only if a DECIDE point brings them in: the Kirkcudbrightshire Advertiser (DECIDE 2a). (The Cole coda is out, so the Old Bailey printed page for case 964 is no longer needed.)
+
+## GENERAL KNOWLEDGE TO VERIFY BEFORE PROSE
+- Godfrey Lushington's office in October 1883 (DECIDE 5).
+- That the Home Secretary's respite was formally "signifying the Queen's command" (the Times's words; quote, do not
+  explain).
+- Nothing else from outside the record is planned.
 
 ---
 
-## DECISIONS, 7 OCTOBER 2026 (Rik: "accept all recs, except I think we should use Elizabeth's letter also in full")
+## DECISIONS, 9-10 OCTOBER 2026
 
-- **DECIDE 1a, 2a, 4a, 5a to 13a, 15a, 16a, 17: as recommended.** Two chapters, the break at the end of Saturday 22
-  September; Sixteen ends on the Central News (the medical inquiry), the execution date and the hangman just before it;
-  William's letter of the 15th quoted whole on its own date, the Essex Weekly News's spelling as printed; the heaven letter
-  only in her sentence; the two readings of Savage side by side on the 15th; the Lancet as recommended; the in/out lists
-  (Smith and the Kirkcudbrightshire Advertiser out, the Leeds Mercury's Court of Appeal in); the other leaders on the 22nd
-  as the Guardian's; the psalm as fact (after the psalter check), the paper's readings attributed; "his sister and aunt";
-  the vicar on the 20th; Sunderland on the 22nd; the Times of 1 October named once, the twelve months not repeated; Cole as
-  a coda after Broadmoor, Tuke as fact only; image checks of quoted lines before drafting.
-- **DECIDE 3: (c), CHANGED. Elizabeth's statement quoted IN FULL**, from the Essex Weekly News (the fullest of the three
-  reprints, named once). The reported-speech method does not apply to it. This supersedes, for this chapter only, limit
-  two of `notes/elizabeth_thread_presence_as_absence.md`, section 9: the lines Part One spent are quoted again here, in
-  their place in her text. (Part One's "burden", Chapter Five, follows the Western Daily Press; in the statement as a whole
-  the Essex Weekly News reads "burthen": see SUB-POINTS, 3.)
-- **DECIDE 14: Chapter Sixteen is "AS HAPPY AS A CHILD AT PLAY"** (Elizabeth, of William at each of her visits). Rik: the
-  contrast with his own children, actually happily at play only days before, "is horrific". Chapter Seventeen: "UNTIL
-  FURTHER SIGNIFICATION", as recommended. The title uses her line before the chapter reaches it; there is no contents
-  page (6 October 2026), so it gives nothing away.
+- **Cole OUT** (Rik, 9 October: "Eliminate Cole, this is not his story"). DECIDE 16a reversed; DECIDE 8 and 9 withdrawn.
+  The chapter ends on Broadmoor.
+- **All other DECIDE points: as recommended** (Rik, 10 October: "all other decides, I accept the recommendation"):
+  - **1a.** One chapter, 26 September to 15 October, ending on Broadmoor; about 1,800 to 2,400 words.
+  - **2a.** The Kirkcudbrightshire Advertiser (28 Sep), one short paragraph of ours; "humanitarians" and "agitators"
+    quoted at most; "half-a-dozen" paraphrased round. Image-checked 10 October: the transcription's "these same
+    individuals" reads "these sane individuals" (italic "sane", the paper's irony); corrected in the transcription.
+  - **3a.** The BMJ (29 Sep: the inquiry must reach back to the day of the crime; "the touching narrative of his wife,
+    and the clear statement of the vicar") and the Liverpool Daily Post (1 Oct: "He is either a murderer of the worst
+    type or an irresponsible lunatic"); the Glasgow Herald and "Dr. Gower" out.
+  - **4a.** The doctors named in our voice; the visit and the six or seven hours attributed to the Sunday Dispatch;
+    "Dr. Orringe" not quoted; the chaplain's full name not repeated.
+  - **5a.** Lushington's letter quoted whole on Wednesday 3 October, from the Times text; its Saturday printing carries
+    the Times's one naming and the visit by his wife and his sister; Lushington as signature only.
+  - **6a.** The BMJ leader (6 Oct): that he would have hanged but for the medical press and medical men, summarised;
+    "the rich murderer might go to Broadmoor, and the poor one to the gallows" quoted. "Ten-minutes'" and Benn out.
+  - **7a.** Broadmoor as plain fact: the 7.45 from Chelmsford to Liverpool Street, Warders Lanham and Parker, admitted
+    that day; no paper quoted; the route beyond Liverpool Street not narrated.
+  - **10.** This chapter closes Part Three.
+  - **11a (revised 10 Oct, the paper identified).** The Manchester Guardian (26 Sep), named, beside the Times's respite:
+    "probably tantamount to a remission of the capital sentence". The Glasgow Herald out.
+  - **30a.** Graves's letter (dated 11 Oct) carries Elizabeth ("utter destitution", "her mad husband", "nothing to give to
+    the wife"), his £50 and £36 inside his words; the Times notice (12 Oct) carries the exact sum in our voice,
+    "thirty-five pounds fourteen shillings and fourpence", in one sentence.
+  - **15 (ruled 7 Oct)** placed on the Monday morning, before the Home Secretary's communication; quoted from "Dr.
+    Orange" on.
+- **Still open, not a DECIDE point:** live_lists 4, item 38 (the formal words of a death sentence). KEPT OPEN (Rik, 10 October: "we may still discover it"). Was recommended closed:
+  every report of 1883 says "in the usual form"/"manner"; the 1861 Act prescribes only the burial direction; Laurence's
+  wording dates from 1903. Rik to confirm.
+- **Image checks for drafting:** every line to be quoted is now checked (headers record each), the Kirkcudbrightshire
+  Advertiser included.
 
-### SUB-POINTS ARISING FROM THE CHANGE TO DECIDE 3 (ALL ACCEPTED AS RECOMMENDED, Rik, 8 October 2026: "agreed on all")
-1. **William's letter appears twice.** It is quoted whole on the 15th (4a), and the statement as printed contains it
-   again ("Here is a letter I have from him, dated the 15th, in the same strain:—" and the whole letter). Recommended: in
-   the statement, keep her sentence introducing it and do not print the letter a second time, the one cut marked; the
-   reader has just had it. Alternatives: print it twice; or move the letter into the statement only (reverses 4a).
-2. **The paper's head.** The Essex Weekly News opens in its own third person ("Mrs. Gouldstone, who is exerting herself
-   to the utmost to save her unfortunate husband's life, writes to state her solemn belief that ... She says:—").
-   Recommended: our own sentence introducing her, the paper's words left out or quoted as the paper's; "in full" taken to
-   mean her words, from "During our five years married life" to "the most awful distress".
-3. **"Burthen".** The Essex Weekly News reads "burthen"; Chapter Five quotes "burden" (the Western Daily Press, by Rik's
-   decision of 1 October, because "burthen" reads as a typo). Recommended: "burden" here too, the one word from the
-   Western Daily Press, as in Chapter Five, recorded in the notes; otherwise the Essex Weekly News throughout.
-4. **"On Tuesday last" / "yesterday".** The Essex Weekly News normalised "yesterday (Tuesday)" to "on Tuesday last" but
-   kept "accompanied me yesterday". Quote as printed (both papers' readings in the notes).
-5. **Checking.** Every line of the statement to be image-checked against the Essex Weekly News page before drafting
-   (DECIDE 17), the whole text now, not only the quoted lines. DONE 8 October 2026: statement and letter checked line by line; nineteen
-   corrections to our transcription (its header lists them), among them "I am certain he was insane" (no "that"),
-   "very easy to turn his attention" (no "ask him to"), "Happey", and her two reported sayings in single quotation marks.
-6. **"[I] have no doubt".** The last line of the column begins "have no doubt"; no "I" can be seen (the line is worn at
-   the foot of the scan); the Western Daily Press and the Guardian read "I have". Supply "[I]" in the quotation.
+## DRAFTING (held locally in chapters/CHAPTER_16.md until the chapter is approved)
+- **Movement one** (26 to 30 September), drafted 10 October 2026, about 400 words. Sources: Times 26 Sep (named once;
+  "the substance of his letter"); Manchester Guardian 26 Sep (one phrase); Kirkcudbrightshire Advertiser 28 Sep
+  ("agitators", "humanitarians"; "half-a-dozen" left out, its argument given without numbers); BMJ 29 Sep ("the dire
+  compulsion of disease"; "the touching narrative of his wife, and the clear statement of the vicar of the parish in
+  which he lived"); Sunday Dispatch 30 Sep (the doctors named in our voice, "Orringe" not quoted; the chaplain not
+  named again). The doctors' visit stated as a fact of that week; the Dispatch's details on the Sunday.
+  NO BORROWING pass done: five sentences reshaped (the Kirkcudbrightshire's "voice", "dream", "insane, or eccentric";
+  the BMJ's "terms ... made public"; the Dispatch's "During the week ... visited by several of his relatives").
+  Unattributed lines from press reports of sworn evidence: none.
+- **Movement one REWRITTEN 10 October 2026** (Rik: "Feels like you are appropriating newspaper language again"). The
+  first draft followed each source's own order and phrasing, sentence by sentence ("addressed a letter ... signifying
+  the Queen's command"; "hundreds and thousands of other fathers"; "intends to commute"; "his mental state at the time";
+  "at the request of the Home Secretary ... direct to Sir William Harcourt"; "diligent attention"). Rewritten from the
+  facts outward, in our order: each source kept to its one job (the Kirkcudbrightshire: fairness; the BMJ: the
+  doctors' brief and the wife's narrative; the Dispatch: the doctors, the hours, the visits). "The dire compulsion of
+  disease", the eccentric-relations point and the Sheriff's name dropped. About 300 words.
+- **Movement one ACCEPTED 10 October 2026** (Rik: "ok"), after his line edits: the Home Secretary named in full at the
+  opening; the respite anchored to the day the Times printed it (the letter undated); "doctors would be sent to
+  examine his mind"; "One paper was against it." restored; the BMJ paragraph made the journal's argument, not fact
+  ("It had heard"; "it argued, should be"; "pointed to"); the doctors' visit revealed through the Sunday Dispatch
+  ("had in fact come and gone"); "William's family" for the ambiguous "His family".
 
-## DRAFTING, 8 TO 9 OCTOBER 2026 (held locally in chapters/CHAPTER_16.md until the chapter is approved)
-- **Movement one** (Friday night and Saturday): Lancet; Times leader, its misreading set directly against Savage's
-  sworn "I believe that he knew he was killing the children, and that the penalty for that act was death." (Rik's
-  option 2); Telegraph leader; the juror; the workmen; Savage to the Times; William's letter of the 15th, whole.
-- **Movement two** (Sunday and Monday): chapel and Psalm 79 (verified: Prayer Book, Day 16 Morning Prayer, verse 12);
-  the prison detail; Savage's reply to the juror; Tallack and Wood.
-- **Movement three** (Tuesday to Thursday): the visit; her statement in full (Essex Weekly News; "burden" from the
-  Western Daily Press; the letter's second printing replaced by a marked cut; "[I]" supplied); the vicar. ACCEPTED
-  (Rik, 9 October 2026).
-- **The method, as Rik corrected it (8-9 October): no borrowing.** Rik caught sentences that kept a source's own
-  shape with a word or two swapped ("coupled that pity with abhorrence"; "unless the verdict ... unqualified"; "told off
-  to watch him"; the vicar's letter clause by clause). Every summary sentence is now checked against its source for
-  borrowed structure as well as borrowed words before a movement is shown. Also: "went to the Times" for letters known
-  only by their date became "wrote to the Times"; "in a cell" cut (unsourced).
-- **Transcription found wrong while drafting (9 October): "Nothing that ever he said or did"** (not "that he ever").
-  A second full read of the statement found "He never complained, except" and "came into the room". All propagated.
-- Unattributed lines from press reports of sworn evidence: none.
-- Next: movement four (Friday 21 and Saturday 22), ending on the Central News (DECIDE 2a).
-- **Movement four** drafted 9 October 2026. The Court of Criminal Appeal Bill (Rik's reference): Hansard, Commons, 2
-  April 1883, "[Bill 9.] Second Reading", Sir Henry James, Attorney General, an appeal "as of right" in capital cases;
-  on 16 August Gladstone still hoped to bring it on but "cannot absolutely foresee the time". WITHDRAWN 21 August 1883 (Rik's references): on 20 August consideration "as amended" (after Grand Committee) was
-  deferred a day; on 21 August Gladstone said the Government "no longer cherished the hope of proceeding with the Bill",
-  since it could not pass the Lords that session; Order discharged, "Bill withdrawn". Prose: through committee,
-  withdrawn on 21 August. Hansard 20 Aug: https://hansard.parliament.uk/Commons/1883-08-20/debates/fa76866e-9e6a-4584-8956-6f65efc74309/CourtOfCriminalAppealBill
-  21 Aug: https://hansard.parliament.uk/Commons/1883-08-21/debates/0ba55c0c-7dfc-4ce8-833f-050ec761215c/Parliament—BusinessOfTheHouse—CourtOfCriminalAppealBill https://hansard.parliament.uk/Commons/1883-04-02/debates/1fb93e12-74e5-4653-a80b-f67a63c152b8/CourtOfCriminalAppealBill
-- **Density of the letters (Rik, 9 October 2026).** Each letter-writer keeps one job; any that repeats another's is
-  compressed. Savage (Lancet): what the jury did not hear. Juror: defence of the verdict. Workmen: lived knowledge against
-  courtroom exclusion. Tallack: the legal-medical critique. Wood: the motive theory. Applied: Savage's Times letter cut to
-  its new matter (fear of ruin, "to send them to heaven", the melancholia); the cousins and the certificate left to the
-  Lancet and the reply; the workmen shortened; the judge's obstruction cut from the reply to the juror (the Lancet has it).
-- Tics pass, 9 October: day-openings ("On the Sunday / Monday / Tuesday / Friday / Saturday") varied; "wrote", "wanted",
-  "thought", "told", "same", "plainly" thinned; runs of "It" broken; one lost attribution to Sunderland restored.
-- Title confirmed by Rik: "As Happy as a Child at Play" (from Elizabeth; not a procedural title).
-- **APPROVED 9 October 2026** (Rik). Unattributed lines from press reports of sworn evidence in the whole chapter: none.
+- **Movement two** (1 to 6 October), drafted 10 October 2026, about 400 words. Sources: Times 1 Oct (15a: Orange's
+  "entertains no doubt of his insanity", quoted from "Dr. Orange" on; family history as the paper's; the drowning
+  line quoted, no gloss; the twelve months not repeated); Liverpool Daily Post 1 Oct (the either/or); Times 2 Oct
+  ("until further signification of Her Majesty's pleasure"); Lushington's letter whole on the 3rd (Times text,
+  image-checked; signature only); Times 6 Oct (the visit, quoted; "expected ... Broadmoor" left for movement three);
+  BMJ 6 Oct ("for the crime of being afflicted with a terrible disease"; "the rich murderer ... gallows").
+  NO BORROWING pass: the BMJ's "But for ... would have atoned by this time with his life" sentence replaced by an
+  open quotation; "had no time for" (our characterisation of the Post) cut; "The same paper" (ambiguous) named.
+  Unattributed lines from press reports of sworn evidence: none. Em-dashes only inside the quoted letter.
+- Movement two, 10 October (Rik, of Lushington's letter: "NOT TO ELIZABETH!"): one sentence added after the letter,
+  "Nothing records how, or indeed if, Elizabeth was officially informed." (Rik's wording; William himself was told only on 10 Oct, after the visit the Times reports, so she cannot have heard it from him that week unless he knew unofficially) (thread section 10; Contradiction 105). This spends the chapter's one
+  rationed reminder of what cannot be known, here rather than in Part Four; the Times's visit line follows it.
+- **Movement two APPROVED 10 October 2026** (Rik: "approved"), with his edits: the restated execution date cut; "the
+  great-uncle", "his mother and his aunt" (established facts); "Nothing records how, or indeed if, Elizabeth was
+  officially informed." after Lushington's letter.
+- **Movement three** (10 to 15 October), drafted 10 October 2026, about 250 words. Sources: Times 11 Oct (named once;
+  "received it with deep gratitude"; Preston Chronicle the same copy, not used); Graves's letter dated 11 Oct
+  (Walthamstow and Leyton Guardian 20 Oct, image-checked: "her mad husband", "utter destitution", £50 and £36 inside
+  his words, "nothing to give to the wife"); the Times notice of 12 Oct (the sum in our voice, DECIDE 30a); the removal
+  of 15 Oct as plain fact (DECIDE 7a; Guardian 20 Oct and Daily News 16 Oct not quoted; admission from the 1935 papers
+  and the register, stated as fact). Ends on Broadmoor. Pronoun pass: "he" and "him" after the High Sheriff named.
+  Unattributed lines from press reports of sworn evidence: none.
+- **Movement three ACCEPTED 10 October 2026** (Rik: "ok"), with his edits: "Mr Graves"; "not about William but about
+  Elizabeth"; "a notice in Mr Graves's name". Chapter complete in draft; awaiting approval of the whole.
+- **APPROVED 10 October 2026** (Rik). Final tics pass: two day-openings recast ("The Home Office wrote on the Wednesday";
+  "A notice ... that Friday"). Unattributed lines from press reports of sworn evidence in the whole chapter: none.
+- After approval, 10 October 2026: Rik edited movement one directly on GitHub: "At least one paper was against it." (we hold only one voice against; others may exist).
 
-## AFTER APPROVAL (10 October 2026; CLOSED: Rik, 10 October, "leave it". The approved text stands; the cab is about
-## Marwood's successor, not William, and the chapter already carries the doubt.)
-- The Nottingham Evening Post, Monday 17 September 1883, p. 2 (Rik's upload): Harcourt sent the whole pile of
-  applications for Marwood's post to the City authorities, "it was necessary to remove them from Whitehall in a cab";
-  the choice nominally the Sheriff of Essex's, in practice the Sheriffs of London and Middlesex's; "if executed at
-  all". Bears on the chapter's hangman paragraph (movement four). Image-checked; press only. Add, or leave the
-  approved text as it is?
+## PLACEMENT OF THE SECOND FAMILY TREE (Rik, 12 October 2026)
+"From Elizabeth to the author" stands at the end of this chapter, after its last line and before the title page of
+Part Four. Nothing in the chapter text changes. (live_lists.md, section 0, PLACEMENT.)
 
-- 21 October 2026 (Rik: "As recommended"): the Daily Telegraph of 20 September 1883, the original printing, becomes the copy text
-  for Elizabeth's statement and for William's letter of 15 September as the chapter quotes them
-  (transcribed/Daily_Telegraph_20_September_1883_Statement_of_his_Wife_transcription.txt, checked in full; collation in
-  notes/elizabeth_statement_collation.md, 20 October). Applied to chapters/CHAPTER_16.md:
-  "As the Essex Weekly News printed it" -> "As the Daily Telegraph printed it" (the letter); "She wrote to the papers
-  the next day. The fullest text to survive is the one the Essex Weekly News printed on the Friday." -> "She wrote to
-  the papers the next day, and the Daily Telegraph printed her letter on the Thursday."; in the statement "21s" (was
-  "21s."), "church" ("Church"), "and were never tired" ("and never tired"), "any one else" ("anyone"), "till after
-  twelve" ("12"), "yesterday (Tuesday) in the prison at Chelmsford" ("on Tuesday last in the Prison"), "in the same
-  strain:" (":—"), "I have no doubt" ("[I] have"); in the letter "Dreadfull", "thankfull", "as Well as myselfe", "Come
-  and See Me", "Chelmsford, Essex," (comma). "burden" KEPT (Rik's ruling of 1 October; the Telegraph has "burthen").
-  The two quotations in Chapter Five brought into line the same day ("21s", "church"), since they quote the same text:
-  logged here as Chapter Five has no skeleton (live_lists.md, section 0).
+## REOPENED FOR ONE PARAGRAPH, 13 OCTOBER 2026 (the Broadmoor warrants)
+New source: the Home Office removal and reception warrants, both "Given at Whitehall the 8th day of October 1883",
+"(sd) W. V. Harcourt", office number A 31638 (sources/images/broadmoor-documents/; transcribed/
+Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; TNA HO 145/3, via Ancestry).
+- DECIDE (13 October 2026): (a) leave the approved chapter; (b) add the warrants on Monday the eighth, the day to which
+  the hanging had been put back (Times 26 Sep), under the linear rule. RULED (b) (Rik: "yes, b").
+- Drafted 13 October 2026: one paragraph, between the BMJ of 6 October and "William was told on Wednesday the tenth".
+  Quoted: "until he shall be lawfully removed or discharged" (reception warrant, printed form with "he" in manuscript;
+  image-checked 13 Oct). "Filled up and authenticated" in our voice, from the removal warrant's printed clause
+  (image-checked 13 Oct). Unattributed lines from press reports of sworn evidence: none.
+- Why the next paragraph still stands: the Times of 11 October has removal "as soon as the necessary documents can be
+  completed" ("once the papers were ready"). Harcourt's warrants were signed on the 8th; what remained was the
+  certificate the removal warrant orders the prison to send with him. The new paragraph names it, so the two agree.
+- Not used in prose: the conviction date in both warrants, "the 10th day of September" (the opening day of the
+  Sessions, Old Bailey t18830910-849; the trial was Friday 14th); the Act cited for the certification, 27 & 28 Vict.
+  c. 29, s. 2 (wording not yet read from the page image).
+- 13 October 2026: Rik added the paragraph to chapters/CHAPTER_16.md himself (as drafted; curly quotation marks round
+  the quoted phrase, where the rest of the chapter has straight ones). Chapter approved as amended.
+- 16 October 2026 (Rik: "of course the typos"): the warrant quotation's curly marks, which closed on an opening mark,
+  made straight, as in the rest of the chapter.
+
+- 21 October 2026 (Rik: "As recommended"; Contradiction 119): two dates added as plain fact, from the Essex Weekly News of 28
+  September 1883, p. 8 (checked): the first respite letter reached the Sheriff on Tuesday 25 September, and the doctors'
+  examination was on Wednesday 26 September. Paragraph one: "By Wednesday the twenty-sixth of September, when the Times
+  printed the news, he had told the Sheriff of Essex that ..." -> "His letter reached the Sheriff of Essex on Tuesday
+  the twenty-fifth of September: ... The Times printed the news the next morning." Paragraph four: "The doctors had in
+  fact come and gone. The next day the Sunday Dispatch named them:" -> "The doctors had in fact come and gone: they had
+  been at the prison on the Wednesday, the day the Times printed the respite. The Sunday Dispatch named them that
+  weekend:". The Dispatch's "six or seven hours" kept, attributed (the Essex Weekly News's "nearly three hours" not
+  set against it, as recommended). FLAG for Rik: the chapter's first sentence, "took a week", now sits beside an
+  exact date eleven days after the sentence (14 to 25 September); left unchanged, his to rule.
+- 21 October 2026 (Rik): "took a week" STANDS. The Home Secretary's week is the time to decide; the days to write and
+  send the letter come after it, so the eleven days to the twenty-fifth are no conflict. Flag closed.

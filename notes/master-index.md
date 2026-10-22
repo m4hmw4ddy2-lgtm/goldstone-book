@@ -728,7 +728,7 @@ CORRECTED 11 October 2026: this entry was headed "Lambeth Workhouse Birth Certif
 Transcription: `transcribed/Albert_Goldstone_birth_certificate_1887_transcription.txt` (whole entry image-checked 10 October 2026)
 Status: READ 2 October 2026; checked 10 October 2026
 Key content: Lambeth registration district, Lambeth Church 2nd sub-district, entry **113**. Born 19 June 1887, Workhouse Infirmary, Brook Street; "Albert Jennet"; Boy; father's name and occupation blank; mother "Elizabeth Goldston of 2 John Street Hercules buildings Lambeth" (no maiden surname); informant **S. Frost**, "Present at the birth", Workhouse Infirmary, Brook Street, Lambeth; registered 20 June 1887; George Hearson, Registrar. GRO certified copy issued 7 January 2013. For the Broadmoor descent evidence.
-CORRECTED 11 October 2026: this entry called it "the same entry as the Lambeth Workhouse images above (... No. 113)". It is the same birth, a different record: the workhouse register numbers it 105, the civil register 113 (CHAPTER_18_skeleton.md, finding 8).
+CORRECTED 11 October 2026: this entry called it "the same entry as the Lambeth Workhouse images above (... No. 113)". It is the same birth, a different record: the workhouse register numbers it 105, the civil register 113 (CHAPTER_17_skeleton.md, finding 8).
 Earlier notes kept: [REVERSED 10 October 2026, Rik: the informant is S. Frost; an earlier "correction" away from S. Frost was wrong.] Elizabeth's address (2 John Street) is her residence, not the infirmary's. ("Not a workhouse inmate", once added here, is TO VERIFY: PART_FOUR_plan.md, finding 9.)
 
 **Albert Goldstone and "Rennie" [?] Setterington, marriage, 5 March 1910**
@@ -1117,4 +1117,4 @@ Book section: Part One
 - `sources/books/Corbett_Naval_Operations_Vol1_1920_archive-org_fulltext.html`: extract `transcribed/Corbett_Naval_Operations_vol1_Invincible_New_Zealand_Aug_1914.txt`.
 - `sources/books/Newbolt_Naval_Operations_Vol5_part1_naval-history_net.html`: extract `transcribed/Newbolt_Naval_Operations_vol5_ch4_Courageous_1917.txt`.
 - `sources/books/Newbolt_Naval_Operations_Vol5_part2_naval-history_net.html`: extract `transcribed/Newbolt_Naval_Operations_vol5_ch9_Alexander_1918.txt`.
-- London Gazette, issue 31970, 5th Supplement, 8 July 1920, pp. 7331-7335 (Kemp's despatch, North Russia 1918): NOT HELD (403); read through a summarising tool only (CHAPTER_21_skeleton.md, J).
+- London Gazette, issue 31970, 5th Supplement, 8 July 1920, pp. 7331-7335 (Kemp's despatch, North Russia 1918): NOT HELD (403); read through a summarising tool only (CHAPTER_20_skeleton.md, J).

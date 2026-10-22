@@ -509,7 +509,7 @@ E3. THE 1874 LOCKOUT IN ESSEX. Re-found online 21 October: the lock-out "spread 
       (Labourers' Union Chronicle) is seen. The same page dates the union's failure to pay to 27 July (unsourced);
       Clifford's 27 July sub-committee and 3 August executive agree.
     - "339": NOT in Clifford as Essex strike pay (the only 339s are a feed bill and a page number). Source still
-      unknown: DO NOT USE until found.
+      unknown: DO NOT USE. CLOSED (Rik, 21 October 2026): the new Ch3 does not use it, so no search.
     - p. 36-37, Exning (Suffolk): a family about to sail for Queensland, the wife: "It will be a poor place if we
       don't" (get a better house). Suffolk, not Essex: notes only.
 E4. THE PLAIT COLLAPSE, DATES: no newspaper source in a first pass (plait trade depression, Essex, 1870-82). A

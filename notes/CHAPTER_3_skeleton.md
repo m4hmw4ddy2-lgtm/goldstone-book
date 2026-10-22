@@ -1,6 +1,6 @@
 # CHAPTER THREE (LINEAR), SKELETON
 # PROPOSED 21 October 2026, with a trial draft on its recommendations at Rik's request ("Can we do 3?").
-# Draft: chapters/new-structure/CHAPTER_3_linear_trial_DRAFT.md, held locally. Linear map row 3 (PART_ONE_revision_plan.md).
+# Draft: chapters/CHAPTER_3.md, held locally. Linear map row 3 (PART_ONE_revision_plan.md).
 
 ## SPAN AND QUESTION
 April 1871 to 1878. Both children out of their parents' houses: Elizabeth in service in London, alone after 1873;
@@ -118,7 +118,7 @@ sentence stays (inside world).
   1876-1888). Secondary sources, all recorded. No Essex date given.
 - 21 October 2026, THE RAVEN TOMB, Rik's reading of the faces (photographs of the women's face and Charlotte Mary's
   face NOT in the repo):
-  - Udea Elizabeth Jane: "aged 10 years" (NOT 9). Draft corrected; MASTER_NOTES corrected; old chapters/CHAPTER_4.md
+  - Udea Elizabeth Jane: "aged 10 years" (NOT 9). Draft corrected; MASTER_NOTES corrected; old chapters/archive/old_part_one/CHAPTER_4.md
     still says "aged nine" (old chapter, superseded by this one; not edited).
   - Charlotte Mary, "wife of Alexander Thomson" (confirmed by Rik; "Thomason" was a typo), "second
     daughter of Thomas & Elizabeth Raven", died at Edinburgh "Jan 3 1800" as typed by Rik, aged 28: 1800 is
@@ -142,3 +142,4 @@ sentence stays (inside world).
   facts only) stand as recommended; A (merge) withdrawn; E superseded by I; F carried into the LEFT OUT list.
 - 21 October 2026 (Rik): restored from old Ch5: Isabella Chilton a former governess (earlier census, confirmed by
   Rik; Ancestry tree note); Susan's companionship line; the Chiltons' three servants in 1881, neither girl among them.
+- 21 October 2026 (Rik): titles ruled; see PART_ONE_revision_plan.md, last entry. This skeleton's chapters: 3 THE EMPTYING (confirmed).

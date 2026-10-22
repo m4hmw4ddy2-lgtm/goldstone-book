@@ -27,7 +27,7 @@ NEW:
    - The two give different rents (3s. 3d.; 3s. 6d.): both certain on the images; one is a misprint, which is not known.
    - WHICH MRS MADAMS is NOT shown. Elizabeth was "Mrs Madams" in Whitstable (1891 census; Lilian's certificate,
      1890), at 41 Harbour Street in 1891 and in Middle Wall in 1901; Beach Alley (1890) runs between Island Wall and
-     Middle Wall (CHAPTER_19_skeleton.md). But William Madams was living in 1899, and the occupier is the wife, which
+     Middle Wall (CHAPTER_18_skeleton.md). But William Madams was living in 1899, and the occupier is the wife, which
      is odd unless he was away; and there were other Madams households in the town (George Madams, 1891 and 1894;
      John Madams, 1901). A lead only. To settle it: the 1899 rate book or electoral register for Island Wall; the
      Whitstable directory.

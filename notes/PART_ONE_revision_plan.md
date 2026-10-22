@@ -150,3 +150,12 @@ there is a separate question, for when that chapter is reached.
 - 21 October 2026 (Rik): "his hand going to his head, a great deal, and a complaint of the pain" now "his hand going
   often to his head, and complaints of the pain" (Rik's first option; the second kept the source's "a great deal": Ada,
   cross-examined, "I have seen him put his hand to his head a great deal, and he would then complain of pain").
+- 21 October 2026 (Rik): TITLES RULED. 1 LATE ANSELL FORMERLY SUCKLING (Jemima's three surnames on Elizabeth's birth
+  certificate; rhymes, unremarked, with Ch19 "Late Goldstone Formerly Stock"); 2 IN OCCUPATION (the 1867 sale, Lot 26,
+  "in occupation of T. Gouldstone"; both families' homes sold in the chapter); 3 THE EMPTYING; 4 ONE OF OUR OWN FAMILY
+  (Elizabeth's statement, of Graves; second use of a spent line, as a title); 5 AS GOOD AS A TIMEPIECE (replaces "The
+  Deterioration", a diagnosis in our voice; the phrase is press, Walthamstow Guardian 18 Aug 1883, "His landlord says he
+  was as good as a timepiece"). Set in the drafts the same day.
+- 21 October 2026 (Rik: "I approve it"): NEW PART ONE APPROVED, all five chapters. Moved into chapters/ as CHAPTER_1.md
+  to CHAPTER_5.md; old Chapters 1 to 6 to chapters/archive/old_part_one/; old 7 to 21 renumbered 6 to 20, skeletons
+  likewise. Concordance: notes/live_lists.md, section 0.

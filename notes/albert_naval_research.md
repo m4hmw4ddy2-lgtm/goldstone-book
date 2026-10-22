@@ -3,7 +3,7 @@
 **Date:** 14 October 2026
 **Revised:** 14 October 2026, the same evening, after the press clips were checked against their images and further sources were read. The corrections are listed in section 18.
 **Scope:** Research completed in this session into the ships and operational settings on Albert Jennet Goldstone's Royal Navy service sheet (ADM 188/383), with particular attention to sources that overlap his exact dates aboard.
-**Status of this note:** a research summary (a lead), not a source. Each finding is to be cited from the source it names. Selection and decisions for Chapter Twenty are recorded in `notes/CHAPTER_20_skeleton.md`, which governs where this note differs.
+**Status of this note:** a research summary (a lead), not a source. Each finding is to be cited from the source it names. Selection and decisions for Chapter Twenty are recorded in `notes/CHAPTER_19_skeleton.md`, which governs where this note differs.
 
 ## 1. Working evidential rule
 

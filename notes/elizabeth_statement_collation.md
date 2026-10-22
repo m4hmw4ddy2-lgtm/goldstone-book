@@ -194,4 +194,4 @@ but still a compositor's. The warning above stands. Note also "Cousin Gouldstone
 Sampford" (as in the Guardian).
 
 **RULED 21 October 2026 (Rik: "As recommended"):** the Daily Telegraph of 20 September is the copy text from now on; Chapters Five
-and Sixteen brought into line ("burden" kept by the ruling of 1 October). Log: CHAPTER_16_skeleton.md.
+and Sixteen brought into line ("burden" kept by the ruling of 1 October). Log: CHAPTER_15_skeleton.md.

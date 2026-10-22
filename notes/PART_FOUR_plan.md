@@ -1,6 +1,6 @@
 # PART FOUR: "ELIZABETH". PLAN (part level), proposed and RULED 10 October 2026
 # Covers: 15 October 1883 (Broadmoor) to 29 June 1906 (her death, Whitstable). Plan only; no prose.
-# Chapter skeletons (CHAPTER_18_skeleton.md etc.) follow from this once Rik rules on the DECIDE points below.
+# Chapter skeletons (CHAPTER_17_skeleton.md etc.) follow from this once Rik rules on the DECIDE points below.
 # [STATUS, 11 October 2026: ruled 10 October; Chapter Eighteen approved; Chapter Nineteen planned, waiting on the
 # Warspite source. Current status: live_lists.md, section 0 only.]
 # Working rules as for Part Three; the thread file (notes/elizabeth_thread_presence_as_absence.md) governs,
@@ -37,7 +37,7 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
 - 19 June 1887: Albert born, Lambeth; registered 20 June.
 - ~~c. 1888: with William James Madams in Whitstable (MASTER_NOTES; the source for "c. 1888" is NOT stated in the notes:
   TO SOURCE before prose. The first document placing her in Whitstable is Lilian's birth, 7 April 1890).~~ WITHDRAWN
-  10 October 2026: an unsourced Ancestry tree estimate (CHAPTER_19_skeleton.md, settled 1).
+  10 October 2026: an unsourced Ancestry tree estimate (CHAPTER_18_skeleton.md, settled 1).
 - 7 Apr 1890: Lilian Florence Isabel Madams born, Whitstable (birth record; certificate not in repo).
 - 5 Apr 1891: census, 41 Harbour Street, two rooms; Albert "Stepson".
 - 16 Sep 1891: Eliza Jane born, Harbour Place; **Elizabeth registers her herself, 29 October**.
@@ -76,7 +76,7 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
 - (19 Jan 1935: William dies at Broadmoor; she never knew.)
 
 ## FINDINGS FROM TODAY'S READING
-1. **[CORRECTED 10 October 2026: TWICE, not once. Lilian's certificate (registered 19 May 1890, informant "E. Madams, Mother", Beach Alley) carries the same self-description seventeen months earlier. See CHAPTER_19_skeleton.md, LILIAN'S CERTIFICATE.]** **Elizabeth acts in the record, once, in her own name.** On Eliza Jane's certificate the informant is "E. Madams,
+1. **[CORRECTED 10 October 2026: TWICE, not once. Lilian's certificate (registered 19 May 1890, informant "E. Madams, Mother", Beach Alley) carries the same self-description seventeen months earlier. See CHAPTER_18_skeleton.md, LILIAN'S CERTIFICATE.]** **Elizabeth acts in the record, once, in her own name.** On Eliza Jane's certificate the informant is "E. Madams,
    Mother": she registered the birth herself and gave her own history as "Elizabeth Madams late Goldstone formerly
    Stock". After 1883, the only document in which she speaks for herself. Whether she signed or made a mark cannot be
    told from a certified copy (the registrar's hand). This is the Part's turn, as the statement was Part Three's.
@@ -130,7 +130,7 @@ repo); the Coombs emigration papers and Eliza Coombs's 1976 death certificate (d
    - "John Street ... renamed Newnham Terrace in 1893"; "site now the Park Plaza Hotel Waterloo"; the half mile to
      Brook Street. Source not recorded.
    - "Cohabited with William Madams from approximately 1888". Source not recorded. WITHDRAWN 10 October 2026
-     (CHAPTER_19_skeleton.md, settled 1).
+     (CHAPTER_18_skeleton.md, settled 1).
    - Madams's admission date, 4 September 1901 (MH 94/37: image not in the repo).
 10. **The "four missing years" are three years and eight months:** from the last 1883 record (12 October) to Albert's
    birth (19 June 1887). The book's phrase is the notes' shorthand; the prose should give dates, not a count.
@@ -220,7 +220,7 @@ the clerk's choice and carry no meaning, so the Prologue stands and the prose ma
 document, and the silence before each). (b) One chapter, 1883 to 1906, about 2,500 words. (c) Three: the silence and
 Lambeth; Whitstable to 1898; 1901 and the deaths.
 
-**DECIDE 2. How Part Four opens.** [REVISED 10 October 2026, Rik, at draft: one sentence giving the gap before the register (option c); see CHAPTER_18_skeleton.md, DRAFTING.] (a) **On the birth register's page, 19 June 1887, with nothing before it**: the
+**DECIDE 2. How Part Four opens.** [REVISED 10 October 2026, Rik, at draft: one sentence giving the gap before the register (option c); see CHAPTER_17_skeleton.md, DRAFTING.] (a) **On the birth register's page, 19 June 1887, with nothing before it**: the
 gap shown by the dates alone (recommended: the thread's instruction to show, not assert). (b) On the last 1883 record
 (Graves's "stands alone in utter destitution") and then the cut to 1887. Against: Chapter Seventeen has just used it.
 (c) One sentence giving the gap (the single rationed reminder). Against: Chapter Seventeen has just spent one.
@@ -269,7 +269,7 @@ P6. APPLIED 11 October 2026 (a note at the head of MASTER_NOTES: its PART headin
 - ~~Lilian Madams's birth certificate (1890): the first document placing Elizabeth in Whitstable.~~ OBTAINED 10 October 2026.
 - ~~The source of "with Madams from c. 1888".~~ ANSWERED 10 October 2026: none; withdrawn.
 - ~~MH 94/37 entry image (Madams's admission, 4 September 1901).~~ Read by Rik on Ancestry, 10 October 2026; may be used
-  without a saved copy (CHAPTER_19_skeleton.md, H).
+  without a saved copy (CHAPTER_18_skeleton.md, H).
 - Kent County Asylum, Chartham: case book entry for William Madams (Kent History and Library Centre), if it survives.
 - A Whitstable directory, 1890s: Harbour Street / Harbour Place; Beach Alley (live_lists 4, item 33).
 - Lambeth: LMA LABG/174/01 (item 12); census for 2 John Street (item 13).

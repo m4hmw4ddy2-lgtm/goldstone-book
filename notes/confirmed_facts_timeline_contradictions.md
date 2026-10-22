@@ -255,7 +255,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 - No document names her from 12 October 1883 (Graves's notice in the Times; her last appearance in the 1883 record) to
   19 June 1887 (Albert's birth). (Corrected 11 October 2026 from "August 1883 to June 1887": she is in the record
   through September and October 1883, in her statement, the Chelmsford visit and Graves's notices. PART_FOUR_plan.md,
-  finding 10; CHAPTER_17_skeleton.md, finding 7.)
+  finding 10; CHAPTER_16_skeleton.md, finding 7.)
 - **Albert Jennet Goldstone born 19 June 1887, Workhouse Infirmary, Brook Street, Lambeth**
 - Registered 20 June 1887; informant "S. Frost, Present at the birth", residence the infirmary. That Frost was on the
   infirmary's staff is inference from that residence; "trained nurse" has no source (Chapter Eighteen correction C3).
@@ -268,7 +268,7 @@ Primary source: Ada Hamilton's sworn testimony across all hearings. **Corrected 
 - Albert's middle name Jennet: origin unknown, no family precedent found in Gouldstone, Stock, or Suckling lines (Sarah, Edward Suckling's wife's own surname is itself unconfirmed — see genealogy corrections below) — open question
 - With William James Madams in Whitstable by 7 April 1890, when Lilian was born at Beach Alley (GRO birth entry No. 398):
   the first document placing her there. "From approximately 1888", carried here until 11 October 2026, is WITHDRAWN:
-  an Ancestry tree estimate with no source (CHAPTER_19_skeleton.md, settled 1; correction E2).
+  an Ancestry tree estimate with no source (CHAPTER_18_skeleton.md, settled 1; correction E2).
 - Died 29 June 1906, Beach Alley, Whitstable; registered 2 July 1906 (GRO death certificate;
   transcribed/Elizabeth_Madams_death_certificate_1906_transcription.txt). Age on the certificate 47; 51 by her birth
   certificate (Contradiction 89). (Corrected 11 October 2026 from "Died July 1906, aged 51. Registered Blean district,
@@ -451,7 +451,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 3 Apr 1881 | Census: 88 Frampton Park Road, Hackney. William G. Stone, 24, blacksmith; Elizabeth, 26, born Wethersfield; Charles, 1; Herbert, 4 months; Bennett, boarder, 19 | RG 11/301, folio 94, pp. 47-48 (image read 2 Oct 2026) |
 | 12 Oct 1883 to 19 Jun 1887 | No document names Elizabeth: from her last appearance in the 1883 record (Graves's notice, Times 12 Oct) to Albert's birth (corrected 11 Oct 2026 from "1883-1887 ... disappears") | PART_FOUR_plan.md, finding 10 |
 | 19 Jun 1887 | Albert Jennet Goldstone born, Workhouse Infirmary, Brook Street, Lambeth; registered by S. Frost, 20 June; Elizabeth's address 2 John Street, Hercules Buildings | Birth certificate |
-| ~~c.1888~~ | ~~Elizabeth and William Madams begin living together, Whitstable~~ WITHDRAWN 10 Oct 2026 (applied here 11 Oct): an unsourced Ancestry tree estimate ("MARR Abt. 1888"); no census supports it. The first document of her in Whitstable is Lilian's birth, 7 Apr 1890 | CHAPTER_19_skeleton.md, settled 1; correction E2 |
+| ~~c.1888~~ | ~~Elizabeth and William Madams begin living together, Whitstable~~ WITHDRAWN 10 Oct 2026 (applied here 11 Oct): an unsourced Ancestry tree estimate ("MARR Abt. 1888"); no census supports it. The first document of her in Whitstable is Lilian's birth, 7 Apr 1890 | CHAPTER_18_skeleton.md, settled 1; correction E2 |
 | 7 Apr 1890 | Lilian Florence Isabel Madams born, BEACH ALLEY, Whitstable; registered Mon 19 May 1890 by "E. Madams, Mother, Beach Alley", the mother as "Elizabeth Madams late Goldstone formerly Stock"; father William Madams, General Labourer | GRO birth entry No. 398 (sources/images/birth-certificates/Lilliam Madams Birth Cert.jpg; image checked 10 Oct 2026); baptism register No. 832 gives the same date |
 | 5 Apr 1891 | Census: 41 Harbour Street, Whitstable. William Madams, head, general labourer; Elizabeth, wife, 34, born Wethersfield; Albert Goldstone, **stepson**, 3, born Lambeth; Lillian Madams, 11 months | RG 12/711, p. 6, schedule 39 (image read 2 Oct 2026) |
 | 16 Sep 1891 | Eliza Jane Madams born, Harbour Place, Whitstable; registered Thu 29 Oct 1891 by "E. Madams, Mother" | GRO birth entry No. 177 (transcribed/Eliza_Jane_Madams_birth_certificate_1891_transcription.txt; image checked 10 Oct 2026) |
@@ -467,7 +467,7 @@ prose, and again if this table is more than a few weeks old when read (carried o
 | 1-2 Apr 1901 | Elizabeth, as "Elizabeth Goldstone, of Middle Wall", at the police station on the day of Albert's arrest; locked up; Tuesday 2 April, County Police Court: drunk and disorderly at Whitstable on the 1st; fined 5s. and 10s. 3d. costs | Canterbury Journal, 6 Apr 1901 (image checked 10 Oct 2026) |
 | 2 Apr 1901 | First hearing, County Magistrates' Office, Canterbury: Albert Goldstone, 14, charged with stealing sea boots from "the brigantine Christabelle, lying in Whitstable Harbour"; on arrest "admitted having stolen the boots and sold them"; remanded to the Petty Sessions, Saturday 6 April | Whitstable Times, 6 Apr 1901 (image checked 10 Oct 2026). Differs from the Folkestone Chronicle on the vessel's name, two dates and the officer: proposed Contradiction, not entered |
 | 13 Apr 1901 | Adjourned hearing, St Augustine's Petty Sessions: Albert Goldstone bound over to come up for judgment when called upon; J. Bray, police court missionary, "having got the boy on the training-ship Warspite" | Herne Bay Press, 20 Apr 1901 (image checked 10 Oct 2026) |
-| 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 (Ancestry index and register image, read by Rik 10 Oct 2026; image not saved; may be used, CHAPTER_19_skeleton.md, H) |
+| 4 Sep 1901 | William James Madams admitted to Chartham Asylum, Kent | TNA MH 94/37 (Ancestry index and register image, read by Rik 10 Oct 2026; image not saved; may be used, CHAPTER_18_skeleton.md, H) |
 | 11 Nov 1901 | Albert joins HMS Impregnable as Boy 2nd Class, as Albert Goldstone, born 19 June 1886 at "Heckenning Houzellon", Germany; twelve days before William Madams dies at Chartham (corrected 2 Oct 2026 from "19 Jun 1901", see Contradiction 90) | ADM 188/383, no. 218159 (image read 2 Oct 2026) |
 | 23 Nov 1901 | William James Madams dies at Chartham; general paralysis of the insane | GRO death certificate (transcribed/William_Madams_death_certificate_1901_transcription.txt; correction E4, applied 11 Oct 2026); the MH 94/37 index agrees |
 | 2 Dec 1901 | Home Office returns the depositions (ref. A31638) to the Central Criminal Court | Home Office letter, trial-docs |
@@ -1306,7 +1306,7 @@ contractor who held the Union interment contract. That is the class argument in 
 closing 586 characters of the Dover Express's funeral paragraph are the Guardian's text word for word. The
 "6ft." falls in the part that is not shared. Ten feet stands on the Guardian and the Morning Post, worded
 independently, against a compiler with two other demonstrable errors on the same page (see
-CHAPTER_10_skeleton.md, "Chapter Eleven assembled"). **Decided by Rik and used in Chapter Eleven: ten feet.**
+CHAPTER_9_skeleton.md, "Chapter Eleven assembled"). **Decided by Rik and used in Chapter Eleven: ten feet.**
 One caution on the gloss above: only the Dover Express says "common grave", and it may mean no more than one
 grave shared by the five. The prose states the depth and the third-class portion and draws no class
 conclusion.
@@ -2743,7 +2743,7 @@ inquest sat, and nothing about where that stood in the grounds.
 ---
 
 ## FROM THE CHAPTER TWELVE SOURCE SWEEP, 24 TO 30 SEPTEMBER 2026
-Full working in `notes/CHAPTER_12_skeleton.md`. Entered here 30 September 2026, with Rik's agreement to apply all
+Full working in `notes/CHAPTER_11_skeleton.md`. Entered here 30 September 2026, with Rik's agreement to apply all
 corrections from that sweep.
 
 ### 57. JAMES COLE: THE DATE, AND WHAT CONNECTS HIM TO THIS CASE — date RESOLVED
@@ -2911,7 +2911,7 @@ between the committal and the trial is the Clerkenwell House of Detention. Sourc
 Grantham Robinson, in his own sermon as printed: "On Friday last I saw the unhappy man ... at the House of
 Detention". What William told him is given only in the vicar's indirect report. See his entry in
 dramatis_personae.md. The sermon was preached on the Sunday evening of the day James Cole killed his son. Place:
-Chapter Thirteen's plan, see CHAPTER_12_skeleton.md, DECIDE 8.
+Chapter Thirteen's plan, see CHAPTER_11_skeleton.md, DECIDE 8.
 
 ### 68. HONEY'S "TEN O'CLOCK"
 - **Honey, sworn statement of 18 August:** "about 10 minutes to 6".
@@ -2999,7 +2999,7 @@ town was reading. For Rik: whether Chapter Ten or Eleven should know of the firs
 Before Mr Justice Watkin Williams: pleaded not guilty "in a firm tone", "perfectly calm and composed"; Elliott applied
 for the trial to be put off to Friday because the defence witnesses could not attend before then; Poland did not
 oppose; the judge acceded although it meant a judge sitting "specially". **New dated event** between the true bill
-(11th) and the trial (14th). Bears on DECIDE for Chapter Thirteen's ending (CHAPTER_12_skeleton.md).
+(11th) and the trial (14th). Bears on DECIDE for Chapter Thirteen's ending (CHAPTER_11_skeleton.md).
 
 ### 73. "DEFENDED BY MR. FORREST FULTON"
 Guardian, 15 September: "the prisoner will be defended by Mr. Forrest Fulton"; in the next paragraph "Mr. Elliott, for
@@ -3176,7 +3176,7 @@ A straight contradiction between two reports of the same cross-examination. Neit
 ### 88. ALBERT: "STEPSON" IN 1891, "SON" IN 1901 (logged 2 October 2026)
 - **1891 census**, 41 Harbour Street, Whitstable (RG 12/711, schedule 39): "Albert Goldstone", relation to head **Stepson**, 3.
 - **1901 census**, Middle Wall, Whitstable (RG 13/799, schedule 155): "Albert do" [Madams], relation to head **Son**, 15.
-- **1896 (added 11 October 2026 from CHAPTER_19_skeleton.md):** "William Madams was similarly summoned in respect to his son aged eight" (Herne Bay Press, 2 May 1896): a reporter's wording of a summons in Madams's name, not a document of the household's own. A third reading, between the two censuses.
+- **1896 (added 11 October 2026 from CHAPTER_18_skeleton.md):** "William Madams was similarly summoned in respect to his son aged eight" (Herne Bay Press, 2 May 1896): a reporter's wording of a summons in Madams's name, not a document of the household's own. A third reading, between the two censuses.
 - **Birth certificate, 1887:** father's column blank. **Lambeth Workhouse register:** "Illegitimate".
 - **1901 is not neutral either:** the same entry gives his age as 15 when he was 13.
 **Assessment:** neither census settles paternity. "Stepson" fits a child born before the couple lived together and carrying another surname, whoever the father was; "son" fits a household that had stopped making the distinction. The DNA match with Bronwyn Joule cannot separate the two either (Elizabeth is common to both readings). [12 October 2026: the amount, 77.6 cM, leans weakly towards half-siblings, i.e. away from Madams as Albert's father; inference only, not decisive: dramatis, Eliza Jane Madams. Rik matches no one else with a Madams link, and has no shared matches with Bronwyn (12 Oct): evidence against Madams only if Bronwyn has Madams-only matches, which only she can see; see there.] What IS settled, by dates and not by any of these documents: Albert is not William Gouldstone's son. The project's old phrase "almost certainly the biological son of William James Madams" is withdrawn in favour of "possibly" (Rik, 2 October 2026: he does not accept Madams's paternity as certain, and the causal chain stands whoever the father was). In prose, the 1891 and 1901 entries may be set side by side without comment.
@@ -3209,7 +3209,7 @@ Against her birth certificate (18 February 1855): 1879 marriage 24 (correct); 18
 Sixteen images in `sources/images/Media-coverage/to-transcribe/`, each transcribed from the image (header records the
 one check): the Times of 9, 10 and 14 August, 11, 15 (leader), 17, 19 (Tallack), 22 and 26 September, 1, 2, 6, 11 and
 12 October; the Daily Telegraph of 15 and 17 September. Compared sentence by sentence against every report already
-held and against the sworn documents. Contradictions 93 to 101 were proposed in `notes/CHAPTER_14_skeleton.md` the
+held and against the sworn documents. Contradictions 93 to 101 were proposed in `notes/CHAPTER_13_skeleton.md` the
 same day and are entered here with the rest.
 
 **Shared copy, for the list in live_lists.md section 6:** the Times, the Daily Telegraph and the Western Times reports
@@ -3425,7 +3425,7 @@ SETTLED for prose (William).
 Numbering note: the Chapter Sixteen skeleton also used "117" for a BMJ reading ("of his punishment" or "of the
 sentence"), WITHDRAWN 7 October 2026 and never entered. The number 117 here is the Chapter Nineteen proposal.
 
-### 115. TUESDAY 18 SEPTEMBER: WHO VISITED WILLIAM AT CHELMSFORD (proposed 7 October 2026, CHAPTER_16_skeleton.md)
+### 115. TUESDAY 18 SEPTEMBER: WHO VISITED WILLIAM AT CHELMSFORD (proposed 7 October 2026, CHAPTER_15_skeleton.md)
 - **Her statement** (Essex Weekly News, Western Daily Press, Guardian): "His sister and aunt accompanied me yesterday".
 - **Guardian, 22 September, unsigned paragraph:** "visited on Tuesday by the High Sheriff ... and also by his wife,
   mother, and sister".
@@ -3453,7 +3453,7 @@ the 19th is not excluded by this search, but none is known. CLIPPED and CHECKED 
 it reads "yesterday (Tuesday)". SETTLED: written Wednesday 19 September, first printed Thursday 20 September, in the
 Daily Telegraph. Collation with the reprints: notes/elizabeth_statement_collation.md, 20 October 2026.
 
-### 117. THE SEA BOOTS: TWO REPORTS (proposed 10 October 2026, CHAPTER_19_skeleton.md)
+### 117. THE SEA BOOTS: TWO REPORTS (proposed 10 October 2026, CHAPTER_18_skeleton.md)
 Whitstable Times, 6 April 1901 (first hearing) against Folkestone Chronicle, 13 April 1901 (second hearing): vessel
 "the brigantine Christabelle" / "the Christabel"; boots last seen "the previous Friday week" (22 March) / "the 23rd
 ult."; sale "the next day" / "On the 30th ult." (two days after the 28th); "Corporal Lambkin" / "P.C. Lampkin"; on
@@ -3477,10 +3477,10 @@ Springfield "on the 26th ult." (Wednesday 26 September); "The interview lasted n
 (Mr. E. Hunt Carter) and the chaplain present for part; afterwards an interview with "the convict's brother, who happened
 to be visiting at the Gaol on that day". The Sunday Dispatch of 30 September has "six or seven hours"; the Times of
 2 October, "last week".
-**RULED 21 October 2026 (Rik):** the two dates go into Chapter Seventeen as plain fact; the Dispatch's "six or seven hours" stays, attributed (CHAPTER_17_skeleton.md, log).
+**RULED 21 October 2026 (Rik):** the two dates go into Chapter Seventeen as plain fact; the Dispatch's "six or seven hours" stays, attributed (CHAPTER_16_skeleton.md, log).
 **Assessment:** two press accounts of the length, neither sworn, no shared wording. The Guardian is the only source
 for the date and for the brother. Chapter Seventeen (approved) states the visit without a day ("Week of 24 to 29
-September (days not given)", CHAPTER_17_skeleton.md) and attributes the "six or seven hours" to the Sunday Dispatch:
+September (days not given)", CHAPTER_16_skeleton.md) and attributes the "six or seven hours" to the Sunday Dispatch:
 whether to change it is Rik's decision. Also: the Guardian names the source of the Times paragraph of 1 October as
 "The Evening Standard of the 1st inst." (Contradiction 104: still one witness).
 **ADDED, same day:** the Guardian's paragraph is not its own. The Essex Weekly News of Friday 28 September 1883, p. 8
@@ -3491,6 +3491,6 @@ So the date and the brother rest on ONE local report, the Essex Weekly News, whi
 gives the date of the first respite letter: "On Tuesday last the High Sheriff of Essex (Mr. J. Oxley Parker)
 received a letter from the Home Secretary signifying the Queen's commands" that the sentence be respited until
 Monday 8 October, "in order that medical enquiry may be instituted as to his sanity" (Tuesday 25 September). The
-paper's leader the same day (p. 5, "THE FATE OF GOULDSTONE") repeats "on Tuesday". CHAPTER_16_skeleton.md lists
+paper's leader the same day (p. 5, "THE FATE OF GOULDSTONE") repeats "on Tuesday". CHAPTER_15_skeleton.md lists
 "the Home Office letter respiting to 8 October (date not given anywhere)": this is a date, from one Chelmsford paper.
 For Rik.

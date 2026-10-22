@@ -1,6 +1,6 @@
 # CHAPTER FOUR (LINEAR), SKELETON
 # PROPOSED 21 October 2026, with a trial draft on its recommendations (Rik: "is there a Ch4?").
-# Draft: chapters/new-structure/CHAPTER_4_linear_trial_DRAFT.md. Linear map row 4 (PART_ONE_revision_plan.md).
+# Draft: chapters/CHAPTER_4.md. Linear map row 4 (PART_ONE_revision_plan.md).
 
 ## SPAN AND QUESTION
 Autumn 1878 to 15 March 1879. William leaves the smithy world for a London ironworks and a new trade; Elizabeth, alone
@@ -15,7 +15,7 @@ since 1873, is found in the same house; they marry.
 - Graves's life: baptism 25 January 1829, Radwinter; 1851 (22, lodger, Tower Hamlets, whitesmith); 1861 (32, Bethnal
   Green, wife Harriet, five children); 1871 (4 Mare Street, Hackney, wife Martha, chandler shop keeper);
   1881 and 1891, 88 Frampton Park Road (dramatis_personae.md; MASTER_NOTES). "Next parish to Great Sampford":
-  Radwinter borders Great Sampford (old Ch5; TO CONFIRM on a map before final).
+  Radwinter borders Great Sampford (old Ch5; CONFIRMED on a map by Rik, 21 October 2026).
 - London City Press, 30 October 1878, p. 3 (checked 20 October; transcribed): Falkirk Iron Company, 67 Upper Thames
   Street, Honourable Mention, Class 27 (the class not named in the prose: what it covered is not stated).
 - Blacksmith and whitesmith: Isaac Taylor (1836), as recorded in MASTER_NOTES ("large and coarse articles, as
@@ -98,3 +98,4 @@ F. RIK'S OPENING LINE stays in our voice as he asked; check it against the gate 
 - Still out: the cornet and flute; "said little unless he was spoken to"; "bright and healthy", "could not walk",
   "practically two babies to mind" (August 1883 ages); the general paragraphs on a servant's life; the Chilton boys'
   later careers. Rik may reopen any.
+- 21 October 2026 (Rik): titles ruled; see PART_ONE_revision_plan.md, last entry. This skeleton's chapters: 4 ONE OF OUR OWN FAMILY.

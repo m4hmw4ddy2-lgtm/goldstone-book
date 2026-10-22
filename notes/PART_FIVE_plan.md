@@ -6,7 +6,7 @@
 # warrants of 8 October 1883 (Chapter Seventeen) do not touch Part Five.
 # REVISED AGAIN 13 October 2026, on Rik's session note: Vera's words (DECIDE 14, attribution); the dockyard trade and the
 # councillor (finding 15); the tattoo (finding 16); Doris's date (finding 17); the Caird and Kent replies (finding 18).
-# Chapter skeletons (CHAPTER_20_skeleton.md etc.) follow from this once Rik rules on the DECIDE points below.
+# Chapter skeletons (CHAPTER_19_skeleton.md etc.) follow from this once Rik rules on the DECIDE points below.
 # Working rules as for Parts Three and Four. Standing for this Part (Rik's brief, 13 October 2026): no interior states
 # or motives (Albert "choosing" anything is a motive); the discharge cause is "Org Heart Disease" (it does not read
 # "V.D. Heart"); the Warspite-Impregnable link is "not documented yet"; Part Five must not retell the Prologue.
@@ -17,10 +17,10 @@ Notes: README; live_lists sections 0, 2, 4, 5, 6; MASTER_NOTES (book shape; Prol
 birth and name; the "Candidate for Part Five or the Coda" note under the 1935 inquest papers); dramatis_personae.md
 (Albert, William James Madams, Lilian and Eliza Jane Madams, Vera, the daughters inside Albert's entry);
 timeline file, dates table 1887-1970 and Contradictions 88 to 92 and 117; PART_FOUR_plan.md (form; DECIDE 5);
-CHAPTER_19_skeleton.md and chapters/CHAPTER_19.md as amended by Rik on 13 October (the hand-over: "Albert entered the
+CHAPTER_18_skeleton.md and chapters/CHAPTER_18.md as amended by Rik on 13 October (the hand-over: "Albert entered the
 Royal Navy on the eleventh of November, as Albert Goldstone, and was entered as a boy second class on the training ship
 Impregnable"); chapters/PROLOGUE.md and the close
-of chapters/CHAPTER_19.md; thread file sections 6 and 11; part_three_context file, the Part Six frame (line 357 on);
+of chapters/CHAPTER_18.md; thread file sections 6 and 11; part_three_context file, the Part Six frame (line 357 on);
 acknowledgements_running_list.md; master-index entries for Albert's folder; correspondence/Caird_Library_Warspite_
 enquiry_2026-10-10.md (no reply recorded: the Warspite gap is not touched).
 
@@ -117,7 +117,7 @@ saved: marked GK.)
    Majestic stops on 20 December 1904 and resumes on 4 January 1905, fourteen days, and the conduct class drops on
    21 December; the conduct class drops on 2 March 1906 and the Jupiter entry is closed on 1 March and reopened on the
    12th, ten days ("1 Mch 06": corrected 13 October 2026 from "11 March", image re-read on RMG's reading); Jupiter stops on 4 August 1907 and resumes on the 8th, three days. The sheet never dates or explains
-   a punishment. [14 October 2026: a rival reading for the Majestic break: the Channel Fleet came home for Christmas leave on 15 December 1904 (the Echo, 15 Dec 1904). CHAPTER_20_skeleton.md.] Prose may say what the sheet says (three spells, fourteen, ten and three days, beside those ships; the
+   a punishment. [14 October 2026: a rival reading for the Majestic break: the Channel Fleet came home for Christmas leave on 15 December 1904 (the Echo, 15 Dec 1904). CHAPTER_19_skeleton.md.] Prose may say what the sheet says (three spells, fourteen, ten and three days, beside those ships; the
    class for conduct lowered twice and restored), not when or why.
 
 3. **The 1910 marriage gives his true age.** "22" on 5 March 1910 fits his birth in June 1887; by the naval 1886 he
