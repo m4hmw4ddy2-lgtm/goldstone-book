@@ -45,7 +45,7 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | PART FIVE, ALBERT | | | | |
 | 19 | 20 | Without Lights | Approved 15 Oct 2026 | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
 | 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct | CHAPTER_20_skeleton.md |
-| 21 | 22 (planned) | "I Shall Live to Fight Again" (working) | NEXT: skeleton, on the plan (DECIDE 7, 12, 14) and the K.C. and medals carried over (CHAPTER_20_skeleton.md, K) | PART_FIVE_plan.md |
+| 21 | 22 (planned) | "I Shall Live to Fight Again" (working) | SKELETON PROPOSED 22 Oct 2026 (full source sweep; DECIDE A to N for Rik; findings and proposed corrections not applied). Next: Rik rules; order Albert's death certificate (item 60) | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
 | PART SIX, CODA | | | Not begun | MASTER_NOTES |
 
 Part Four and Part Five logs before 21 October 2026 (OLD numbering throughout):
