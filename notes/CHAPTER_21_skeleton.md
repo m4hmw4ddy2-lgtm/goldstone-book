@@ -646,3 +646,4 @@ chapter's last record of his public life moves from 1945 to 1953.
 - 22 October 2026 (Rik): "Clarie died on the second of January 1958, aged sixty-eight." Ending option (a)/(b)/(c) for the headstone still to rule.
 - 22 October 2026 (Rik: "No, I like it as is"): the ending KEPT as first drafted ("On the headstone the three of them are Albert, Brian R. A. and Rennie, "wife & mother". It gives none of them a surname."); options (a)-(c) not taken.
 - 22 October 2026 (Rik): TITLE SETTLED: "I Shall Live to Fight Again" (his words, 3 November 1933). DECIDE N closed.
+- 22 October 2026 (Rik: "I approve it"): CHAPTER TWENTY-ONE APPROVED (about 1,550 words; title "I Shall Live to Fight Again"). Part Five complete. One check outstanding: the two death certificates against the ending (dates of death 2 Jan 1958 and 21 Jun 1962; Albert's place and age); if they disagree, the lines are corrected, not reopened.

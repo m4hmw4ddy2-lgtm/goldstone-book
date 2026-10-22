@@ -526,3 +526,4 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
 - **DECIDE 13, Chapter Twenty-One (old Twenty-Two): TITLE SETTLED (Rik, 22 October 2026): "I Shall Live to Fight Again"**
   (his words after the count, Chatham Observer, 3 November 1933). Set in the chapter. Approval awaits the two death
   certificates (CHAPTER_21_skeleton.md, LOG).
+- **CHAPTER TWENTY-ONE APPROVED (Rik, 22 October 2026).** Part Five complete (Chapters Nineteen to Twenty-One). One check outstanding: the death certificates of Clarie (1958) and Albert (1962) against the ending.

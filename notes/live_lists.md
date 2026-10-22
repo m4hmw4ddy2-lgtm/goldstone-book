@@ -45,8 +45,8 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | PART FIVE, ALBERT | | | | |
 | 19 | 20 | Without Lights | Approved 15 Oct 2026 | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
 | 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct | CHAPTER_20_skeleton.md |
-| 21 | 22 (planned) | "I Shall Live to Fight Again" (title settled 22 Oct 2026) | SKELETON PROPOSED 22 Oct 2026 (full source sweep); DECIDE A to N ALL RULED 22 Oct 2026; DRAFTED IN FULL 22 Oct 2026 (about 1,550 words; held locally; the ending from the KFHS burial transcript and headstone notes). Both death certificates ON ORDER (item 60; Clarie's, GRO Q1 1958, 5b 369), to check the ending against. Next: the certificates, then Rik's approval | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
-| PART SIX, CODA | | | Not begun | MASTER_NOTES |
+| 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); closes Part Five. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
+| PART SIX, CODA | | | Not begun; NEXT | MASTER_NOTES |
 
 Part Four and Part Five logs before 21 October 2026 (OLD numbering throughout):
 
