@@ -39,6 +39,9 @@ Where the project instructions and the notes disagree on a fact or a status, the
 `chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_20.md` (later chapters are added as they
 are approved; drafts are held locally until then).
 
+A text given whole (a letter or statement) is set as a block quotation, marked with ">" lines: roman, no quotation
+marks, any editorial gap in italics within square brackets (ruled 22 October 2026; `notes/CHAPTER_15_skeleton.md`).
+
 | Part | Chapters |
 |---|---|
 | Prologue | `PROLOGUE.md` |
