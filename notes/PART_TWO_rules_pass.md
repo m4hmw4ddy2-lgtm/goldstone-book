@@ -212,3 +212,19 @@ G3. "by seven o'clock on the morning of the seventeenth of November they were ap
     now.)
 ### RULING, 21 October 2026 (Rik: "Ok agreed"): G1-G3 applied to chapters/CHAPTER_20.md. ALL DRAFTED CHAPTERS NOW
 CHECKED AGAINST THE CURRENT RULES (Prologue; new-structure Part One; Parts Two to Five as drafted).
+
+## TIME-LED PARAGRAPH OPENINGS, WHOLE BOOK, 22 October 2026 (Rik: "do it")
+Counted in every chapter (new numbering). Clusters of adjacent time-led openings were broken by moving the time inside
+the sentence; no fact changed; isolated ones left. Chapter Eight's evening sequence ("Shortly after eight", "At about
+nine o'clock") kept: the clock is the structure of the night.
+- Ch2: "The Chronicle counted "about 18 cases and seven or eight deaths" by the twenty-third."; "At the Rose and Crown
+  Hotel in Saffron Walden, on the sixteenth of August 1867, the auctioneer William Rand sold ..."
+- Ch3: "A girl was born at Great Sampford on the first of May 1873 and named Mabel Frances."
+- Ch5: "Another couple came to lodge across the landing on the first of June 1883, in the front room ..."
+- Ch12: "The Club Minstrels gave a variety entertainment three days later ..."; "The vicar wrote to the Guardian again
+  four days later."; "The grand jury returned a true bill the next day."
+- Ch18: "The census taken on the night of Sunday the fifth of April 1891 found that the family had moved to 41 Harbour
+  Street, and lived in two rooms."
+- Ch20: eight openings earlier the same day (CHAPTER_20_skeleton.md), then "The official history records that early in
+  July there was ...".
+WATCH when drafting: a run of paragraphs opening on a time is a tell (project instructions, NO UNNECESSARY COMPRESSION).

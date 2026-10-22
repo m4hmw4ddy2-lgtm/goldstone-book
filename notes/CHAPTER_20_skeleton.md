@@ -587,6 +587,9 @@ read: to check on the saved pages before it is said.
   fourteenth of January."; "The boat was at Parkeston, by Harwich, in the spring of 1914."; "The Mayoress of Exeter
   sent the boat a present of warm clothing that autumn"; "The Courageous put to sea a fortnight later"; "He came back
   to the barracks at Chatham in January 1919". "By the new year" (the Pioneer) KEPT, so as not to make a run of four
-  paragraphs opening on "The". Time-led openings now four of twenty-four, none adjacent: "Three months after the
-  wedding", "By the new year", "Two months later" (a real turn), "Early in July". Chapter Nineteen checked the same
-  day: four of sixteen, none adjacent; no change.
+  paragraphs opening on "The". Time-led openings then four of twenty-four ("Three months after the wedding", "By the new year", "Two
+  months later", "Early in July"); the note first logged here said none adjacent, WRONG: "Two months later" and
+  "Early in July" are adjacent. Chapter Nineteen checked the same day: four of sixteen, none adjacent; no change.
+- 22 October 2026 (Rik: "do it"), after a whole-book check: "Early in July, the official history records, there was"
+  recast as "The official history records that early in July there was ... and that it was the ...". Time-led
+  openings now three of twenty-four, none adjacent. The whole-book check is logged in notes/PART_TWO_rules_pass.md.
