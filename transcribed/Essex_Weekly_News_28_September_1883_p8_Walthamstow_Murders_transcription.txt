@@ -74,10 +74,10 @@ consideration. Berry, however, and a man named Taylor, of Lincoln, have been res
 NOTES (not for prose without a ruling):
 - "British Medical Journal" and "The Times" are in italics in the print.
 - "On Tuesday last", in a Friday paper of 28 September = Tuesday 25 September: the day the High Sheriff received the
-  first respite letter (CHAPTER_16_skeleton.md had "date not given anywhere"). One witness.
+  first respite letter (CHAPTER_15_skeleton.md had "date not given anywhere"). One witness.
 - "on Wednesday" = Wednesday 26 September: the examination (Contradiction 119). "nearly three hours" against the
   Sunday Dispatch's "six or seven hours".
-- Sunderland's letter is a reprint of his letter to the Times (already held from the Times: CHAPTER_16_skeleton.md;
+- Sunderland's letter is a reprint of his letter to the Times (already held from the Times: CHAPTER_15_skeleton.md;
   "in The Times" stands in the reprint). Collate against the Times copy before any quotation; not done here.
 - The brother is not named.
 - The hangman: the High Sheriff of Essex was among those choosing Marwood's successor in the week before the

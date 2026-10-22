@@ -29,5 +29,5 @@ READINGS NOTED:
 - Weekdays (calendar computation): born Wednesday 16 September; registered Thursday 29 October 1891, forty-three
   days later. The legal period for registration is general knowledge outside the repo: NOT for prose.
 - "Goldstone", with the e, here; "Goldston" on Albert's certificate (1887). Spellings carry no meaning (Rik). The
-  maiden surname "Stock" is given here and NOT on Albert's certificate (CHAPTER_18_skeleton.md, finding 5, DECIDE D).
+  maiden surname "Stock" is given here and NOT on Albert's certificate (CHAPTER_17_skeleton.md, finding 5, DECIDE D).
 - The same registrar, Edwin Johnson, registered her death in 1906.

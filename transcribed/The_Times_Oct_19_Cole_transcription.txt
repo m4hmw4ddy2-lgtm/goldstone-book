@@ -9,7 +9,7 @@ overlapping crops. This counts as the one image check. Small capitals rendered a
 
 NOTES (9 October 2026, Chapter Seventeen sweep):
 1. SETTLES THE DATE AND THE JUDGE: tried Thursday 18 October 1883, before Mr Justice Denman. Until now both rested on
-   Clark Bell (December 1884) only; the Old Bailey website text gives neither (CHAPTER_17_skeleton.md, finding 1,
+   Clark Bell (December 1884) only; the Old Bailey website text gives neither (CHAPTER_16_skeleton.md, finding 1,
    correction H).
 2. THE JOURNAL OF MENTAL SCIENCE ACCOUNT (as Clark Bell prints it, Medico-Legal Journal, Dec 1884, pp. 349-351) IS THIS
    REPORT, cut and lightly reworded ("The plea of insanity was set up"; "the new Act regarding the treatment of

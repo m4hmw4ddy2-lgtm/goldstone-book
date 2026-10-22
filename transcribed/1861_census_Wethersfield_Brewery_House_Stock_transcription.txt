@@ -20,7 +20,7 @@ CHECKED 21 October 2026:
   written above, born Cressing; Sarah Do., Sister, Do., 53, "House Keeper"; Jane W. Do., Sister, 44, "Do." [house
   keeper]; Thomas Do., Nephew, 19, "Brewer"; E. V. King, Visitor, 29, "Farmers Daug.", born Gt Bardfield, Essex.
 - 14: William Westwood, Head, Mar, 72, "Shoe Maker (master)", born Wethersfield; Ann Do., Wife, 68, NO OCCUPATION.
-  (Old chapters/CHAPTER_1.md says Ann Westwood plaited straw: CONTRADICTED by this page.)
+  (Old chapters/archive/old_part_one/CHAPTER_1.md says Ann Westwood plaited straw: CONTRADICTED by this page.)
 - NOTE: Thomas Raven's memorial names his wife Elizabeth Victoria (MASTER_NOTES). The visitor "E. V. King", 29, may
   be she, before their marriage: NOT established, not for the prose.
 READ AT PAGE SIZE ONLY:

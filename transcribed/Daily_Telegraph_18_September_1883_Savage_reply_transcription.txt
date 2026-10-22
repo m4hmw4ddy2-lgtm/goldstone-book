@@ -42,5 +42,5 @@ COLLATION with the Walthamstow and Leyton Guardian's reprint (22 September 1883,
 - Telegraph "the common sense of a jury"; Guardian "of the jury". The original is "a".
 - Telegraph "I am, yours truly," with no dash before it; Guardian "—I am, yours truly,". Punctuation only.
 - Otherwise word for word. The Guardian's quotation marks round the letter are its own.
-Any quotation in the chapters should follow this text (CHAPTER_16_skeleton.md: "Savage's reply to the juror as
+Any quotation in the chapters should follow this text (CHAPTER_15_skeleton.md: "Savage's reply to the juror as
 printed ... held only via the Guardian and Clark Bell").

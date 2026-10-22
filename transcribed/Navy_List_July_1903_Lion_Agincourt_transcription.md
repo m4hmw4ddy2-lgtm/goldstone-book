@@ -1,7 +1,7 @@
 # The Navy List, July 1903: the entries for Lion and Agincourt
 
 **Source:** The Navy List, July 1903 (archive.org item navylist1903, file F1NavyList1903July). Screenshots by Rik,
-14 October 2026, from the archive.org viewer at the leaves given in CHAPTER_20_skeleton.md (Lion, scan leaf 357;
+14 October 2026, from the archive.org viewer at the leaves given in CHAPTER_19_skeleton.md (Lion, scan leaf 357;
 Agincourt, scan leaf 290). Images: sources/images/navy-lists/Navy_List_July_1903_Lion.png and
 Navy_List_July_1903_Agincourt.png. The edition is taken from the URLs Rik used; the screenshots carry no title or
 date line. The officers' latest dates (Lion 1 May 03; Agincourt 3 May 03) agree with a list of mid-1903.

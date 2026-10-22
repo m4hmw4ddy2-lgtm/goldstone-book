@@ -21,5 +21,5 @@ Notes:
   follows the order of entries, which agrees with the index transcript.
 - Immediately below the household the enumerator wrote "End of Finchingfield Village": the Sucklings' dwelling
   at Malting Yard (a yard, not a house) is the last entered in the village. Not for the prose (Rik, 21 October).
-- "Blind, out of work" (old chapters/CHAPTER_2.md, line 9; archive session_update_2026-07-14.md, "both
+- "Blind, out of work" (old chapters/archive/old_part_one/CHAPTER_2.md, line 9; archive session_update_2026-07-14.md, "both
   blind/elderly") is CONTRADICTED by this page: the blind column is blank, and the occupation is "Pauper" only.

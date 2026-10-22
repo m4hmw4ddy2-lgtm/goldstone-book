@@ -42,7 +42,7 @@ NOTES (not for prose without a ruling):
   Wednesday"), and the respite and the Evening Standard paragraph from 5 October, p. 5 (word for word). One witness
   with that paper (Contradiction 119).
 - NEW: the date and length of the examination: "the 26th ult." (Wednesday 26 September 1883) and "nearly three
-  hours". The Sunday Dispatch of 30 September has "six or seven hours" (CHAPTER_17_skeleton.md, day pins); the
+  hours". The Sunday Dispatch of 30 September has "six or seven hours" (CHAPTER_16_skeleton.md, day pins); the
   Times of 2 October has "last week". Logged as Contradiction 119.
 - NEW: the gaol surgeon and the chaplain present for part of it; and Orange and Clarke "afterwards had an interview
   with the convict's brother, who happened to be visiting at the Gaol on that day". Which brother is not named (Bennett
