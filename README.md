@@ -36,21 +36,25 @@ Where the project instructions and the notes disagree on a fact or a status, the
 
 ## The manuscript
 
-`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_21.md` (later chapters are added as they
+`chapters/`, in reading order: `PROLOGUE.md`, then `CHAPTER_1.md` to `CHAPTER_20.md` (later chapters are added as they
 are approved; drafts are held locally until then).
 
 | Part | Chapters |
 |---|---|
 | Prologue | `PROLOGUE.md` |
 | (after the Prologue) | the first family tree, "Two families, to 1883" |
-| One, Before | 1 to 6 |
-| Two, The Evening | 7 to 9 |
-| Three, The Reckoning | 10 to 17 |
-| Four, Elizabeth | 18 and 19 (the second family tree stands before its title page, after Chapter 17) |
-| Five, Albert | 20 and 21 (22 to come) |
+| One, Before | 1 to 5 |
+| Two, The Evening | 6 to 8 |
+| Three, The Reckoning | 9 to 16 |
+| Four, Elizabeth | 17 and 18 (the second family tree stands before its title page, after Chapter 16) |
+| Five, Albert | 19 and 20 (21 to come) |
 | Six, The Researcher; Coda | not begun |
 
-The two family trees stand in the text: the first, "Two families, to 1883", after the Prologue, before Part One; the second, "From Elizabeth to the author", after Chapter 17, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
+The two family trees stand in the text: the first, "Two families, to 1883", after the Prologue, before Part One; the second, "From Elizabeth to the author", after Chapter 16, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
+Chapters were renumbered on 21 October 2026, when a new five-chapter Part One replaced the old six (kept in
+`chapters/archive/old_part_one/`). Chapter numbers in words in notes dated before then are the OLD numbers; the
+concordance is in `notes/live_lists.md`, section 0.
+
 `backmatter/` holds the list and both family trees. The trees have two generators, `make_family_trees.py` (SVG
 previews) and `make_family_trees_print.py` (print PDFs, B-format); any change goes into both, run from the repository
 root, and every export is regenerated.
