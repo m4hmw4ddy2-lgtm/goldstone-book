@@ -337,7 +337,20 @@ approved chapter. (c) End on the 1945 club evidence, his death to Part Six. Agai
   places, never stated in a sentence of ours.
 - **Albert's death certificate is ON ORDER** (Rik). L (a), as recommended (draft movements one to three meanwhile),
   awaits a ruling.
-- Still open: A, D, E, F, G, H, I, J, K, L, M, N.
+- Still open: A, D, E, F, G, H, I, J, K, L, M, N. [ALL RULED later the same day, below.]
+- **A to N, the rest: as recommended** (Rik, 22 October 2026: "All other decides as recommended"). So:
+  A (a) open on the K.C. and the medals, then 1921; D (a) the club in (1939 words in full; 1945 in a sentence or two);
+  E (a) William's 1921 census out of the prose; F (a) William's death in one paragraph, Milne's "a married man" then
+  "Widower. Blacksmith.", the struck "Goldstone", the Evening Standard line last; G (a) Brian "in 1932", death from the
+  certificate; H (a) AS REVISED under FIND A GRAVE: Clarie's death given from the certificate, or her burial from the
+  register, never Find a Grave's "7 January" as a death date; I (a) George William Ferguson to Part Six; J (a) the
+  elections as listed; K (a) the Orbita in one sentence; L (a) draft movements one to three now, the last paragraph
+  when the certificate arrives (on order); N working title kept.
+  M (a): the 1945 shop OUT. The 1953 dinner: (a) said "out until a second source"; the clip itself, now held, is that
+  source (the Luton Working Men's Club, its secretary "Mr. A. Goldstone"). Taken as IN, in one or two sentences in its
+  date order, his words only if the continuation is clipped. Rik to say if he reads (a) otherwise.
+- **STATUS: ALL DECIDE POINTS RULED, 22 October 2026. Ready to draft movement one** (after the image checks listed
+  under BEFORE DRAFTING; the 1939 Register and Vera's certificates already read; the K.C. and roll checked).
 
 ## FIND A GRAVE: BRIAN AND CLARIE (Rik, 22 October 2026, from the memorials; the site cannot be read from the session)
 - Brian Ronald Albert Goldstone, memorial 224968936: birth "1933"; death "20 May 1937"; Chatham Palmerston Road Cemetery;
@@ -388,3 +401,6 @@ chapter's last record of his public life moves from 1945 to 1953.
   "FUTURE POSSIBILITIES", just before his words: the continuation is wanted. M (b) now open to Rik: his secretaryship
   runs 1939 to 1953 on three reports, and his last recorded public words would be from 1953 if the rest is clipped.
   The photograph names only Rhodes: any family recognition of Albert in it is Part Six's.
+- 22 October 2026 (Rik): "All other decides as recommended". All A to N ruled; M read as the 1953 dinner IN (flagged).
+- 22 October 2026 (Rik): the 1945 shop at 155 Dale Street: "no we leave it out". OUT for good; not pursued (no
+  directory or register search added to the sources list).
