@@ -502,3 +502,12 @@ G. APPLIED 11 October 2026. Was: live_lists.md, section 6: add the Times 26 Sep 
   and See Me", "Chelmsford, Essex," (comma). "burden" KEPT (Rik's ruling of 1 October; the Telegraph has "burthen").
   The two quotations in Chapter Five brought into line the same day ("21s", "church"), since they quote the same text:
   logged here as Chapter Five has no skeleton (live_lists.md, section 0).
+
+- 22 October 2026 (Rik): EXTRACTS. A text given whole (William's letter of 15 September; Elizabeth's letter to the
+  Daily Telegraph) is set as a block quotation: indented, roman (not italic), without quotation marks, same line
+  spacing as the body. Elizabeth's letter stays one paragraph up to "in the same strain:", as the Telegraph printed it
+  (checked against the clip, 22 October 2026: the paper gives no paragraph breaks); her last paragraph, "I have no
+  doubt...", follows flush after the gap, as in the paper. The gap where the paper printed William's letter is marked
+  inside the extract, in italics within square brackets: [His letter of the fifteenth followed.] (replacing "[Here the
+  paper printed his letter of the fifteenth.]", which echoed her "Here is a letter"). In the repo, extracts are marked
+  with ">" lines. Applies to any later text given whole.
