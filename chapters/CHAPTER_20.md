@@ -44,7 +44,7 @@ The Courageous put to sea a fortnight later, flying the flag of Admiral Napier, 
 
 Two months later he was in a very different ship. HMS Alexander was an armed icebreaker, and in the spring of 1918 she helped two ships of food, sent out from England, through the ice to Archangel, on the White Sea. The food was to be bartered for the Allied war stores at Archangel, to keep them out of German hands, but the government in Moscow would not let the stores go, and by June most of them had been sent away inland by rail. The Alexander stayed to protect the food from raids, and the Soviet resented her being there.
 
-Early in July, the official history records, there was "an ugly demonstration against the Alexander by all the armed vessels in the port, and even field-guns ashore", and it was the "cool and firm conduct" of her captain, Henry Hurt, that averted the danger. Rear-Admiral Kemp, who reached Archangel two days later, sent her away to Murmansk.
+The official history records that early in July there was "an ugly demonstration against the Alexander by all the armed vessels in the port, and even field-guns ashore", and that it was the "cool and firm conduct" of her captain, Henry Hurt, that averted the danger. Rear-Admiral Kemp, who reached Archangel two days later, sent her away to Murmansk.
 
 He stayed in the Alexander for the rest of the war, and in September 1918, with his lost badge restored, he was made a petty officer. On the twenty-first of October Clarie gave birth to their second daughter, Clarie Irene. Three weeks later the war was over.
 

@@ -12,7 +12,7 @@ Three boys filled the back room by then. Charles was three and a half, Herbert t
 
 Shortly before the birth he said something else. He told her he believed he had not many weeks to live. She thought it a strange thing to say. She thought of it often, later.
 
-On the first of June 1883 another couple came to lodge across the landing, in the front room on the same first floor: Ada Hamilton, a monthly nurse who would see Elizabeth through her confinement, and her husband William, a jeweller. Ada had heard Elizabeth say that William came home with headaches that came on all at once, and she saw it for herself: his hand going often to his head, and complaints of the pain. He still had the rupture from Finchingfield, and it distressed him.
+Another couple came to lodge across the landing on the first of June 1883, in the front room on the same first floor: Ada Hamilton, a monthly nurse who would see Elizabeth through her confinement, and her husband William, a jeweller. Ada had heard Elizabeth say that William came home with headaches that came on all at once, and she saw it for herself: his hand going often to his head, and complaints of the pain. He still had the rupture from Finchingfield, and it distressed him.
 
 On Wednesday the first of August, William was up early and brought Elizabeth a cup of tea, as he often did. She was confined that night at about half past ten, and gave birth to two boys: twins, as her mother's first daughters had been. He went straight out of the house, and did not come back until after twelve.
 

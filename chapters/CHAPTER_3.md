@@ -18,7 +18,7 @@ The same night found William at fourteen, still entered as a scholar. The Goulds
 
 Thomas's father was not with them. Joseph Gouldstone, eighty and a widower, was entered that night in the Saffron Walden Union Workhouse, on Sewers End Road, and in the column for his occupation the enumerator wrote "Blacksmith". In Great Sampford that year the census found nine people living in sheds.
 
-On the first of May 1873 a girl was born at Great Sampford and named Mabel Frances. Her mother was entered on the certificate as Emily Gouldstone, with no other surname, and the space for her father was left empty. The mother registered the birth herself four weeks later and signed her name. William's sister Emily was twenty-one, and unmarried.
+A girl was born at Great Sampford on the first of May 1873 and named Mabel Frances. Her mother was entered on the certificate as Emily Gouldstone, with no other surname, and the space for her father was left empty. The mother registered the birth herself four weeks later and signed her name. William's sister Emily was twenty-one, and unmarried.
 
 That autumn Jemima died, at Dog Chase. She was sixty-one. The certificate gave neuralgia, of six weeks, and three weeks of congestion of the brain. Hannah Passfield, of Hudson's Hill, was with her at the end, and went to the registrar afterwards and made her mark. Thomas Stock died at Dog Chase eight weeks later, on the twenty-second of December, of the chronic bronchitis he had had for a year. Eliza Skingsley, of Dog Chase, was with him, and she too made her mark. He was buried at St Mary Magdalene on the twenty-eighth, aged seventy-two.
 

@@ -8,7 +8,7 @@ The informant was the child's mother. The register entry gives her as "E. Madams
 
 Three years after Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father.
 
-By the census, on the night of Sunday the fifth of April 1891, the family had moved to 41 Harbour Street, and lived in two rooms. William Madams and Elizabeth were living as husband and wife: the enumerator entered him as head, a general labourer, born in Whitstable, and her as his wife. Below them came "Albert Goldstone", three years old, born in Lambeth and, in the column for his relation to the head of the family, "Stepson". The baby was "Lillian Madams", eleven months.
+The census taken on the night of Sunday the fifth of April 1891 found that the family had moved to 41 Harbour Street, and lived in two rooms. William Madams and Elizabeth were living as husband and wife: the enumerator entered him as head, a general labourer, born in Whitstable, and her as his wife. Below them came "Albert Goldstone", three years old, born in Lambeth and, in the column for his relation to the head of the family, "Stepson". The baby was "Lillian Madams", eleven months.
 
 Eliza Jane was born seventeen months after her sister, on the sixteenth of September, at Harbour Place.
 
