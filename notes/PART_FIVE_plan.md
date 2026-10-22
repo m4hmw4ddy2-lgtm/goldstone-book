@@ -401,7 +401,7 @@ stands.
      his birth certificate (19 June 1887: 74 or 75 in June 1962). It fits the naval 1886 only if he died on or after 19
      June. Assessment: open until the certificate is held (day of death, informant, the age as written).
 
-## CORRECTIONS FOUND (not applied; for Rik. Each, when applied, to be grepped across the repo)
+## CORRECTIONS FOUND (Q1 to Q8 and Q11 APPLIED 22 October 2026 on Rik's ruling, "apply as recommended"; Q8 as option (a), both accounts side by side; each grepped across the repo. Q5 had already been applied in master-index.md.)
 Q1. Dates table "1918 | German High Seas Fleet surrenders; Albert present | Naval record" and dramatis "Present at
     surrender of German High Seas Fleet (1918)": wrong (FINDING 5). Strike; DO NOT USE added today.
 Q2. Dates table "14 Jul 1930 ... Unverified: from a ChatGPT-archive summary only": the list is held (FINDING 6).

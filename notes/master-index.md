@@ -694,7 +694,7 @@ Book section: Part Three
 `sources/images/albert-goldstone/Albert Goldstone Naval Record.pdf`
 Status: READ (image-based — read via vision)
 Reference: ADM 188/383, official no. 218159 (TNA image reference 122)
-Key content: Full naval service record 1901-1919. First ship Impregnable, Boy 2nd Class, 11 November 1901 (not 19 June 1901; Contradiction 90). Continuous-service engagement 19 June 1904, twelve years. Birth date given as 19 June 1886 (added a year — actually 1887). Claimed birthplace: "Heckenning Houzellon", Germany. AB by 1910; Pembroke I (Chatham) from 1 March 1910, four days before his marriage at New Brompton. Broadmoor descent evidence: ties the 1887 birthday to the 1910 groom and, through the birthplace, to the 1921 census. All ships, ratings, promotions. Tattoos: "I love KC" right forearm, anchor left forearm, five dots and ring left hand. Always "Very Good" conduct.
+Key content: Full naval service record 1901-1919. First ship Impregnable, Boy 2nd Class, 11 November 1901 (not 19 June 1901; Contradiction 90). Continuous-service engagement 19 June 1904, twelve years. Birth date given as 19 June 1886 (added a year — actually 1887). Claimed birthplace: "Heckenning Houzellon", Germany. AB by 1910; Pembroke I (Chatham) from 1 March 1910, four days before his marriage at New Brompton. Broadmoor descent evidence: ties the 1887 birthday to the 1910 groom and, through the birthplace, to the 1921 census. All ships, ratings, promotions. Tattoos: "I love [K/F/T?] C" right forearm (initial uncertain; correction Q4), anchor left forearm, five dots and ring left hand. Always "Very Good" conduct.
 Book section: Part Five
 
 **Albert Madams Attendance Warning**
