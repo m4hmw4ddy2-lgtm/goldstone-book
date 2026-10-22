@@ -634,3 +634,15 @@ chapter's last record of his public life moves from 1945 to 1953.
   A.", "Rennie"); it must NOT quote "wife & mother" or "Husband of Rennie" as the stone's words unless a photograph shows
   them. Also: George W. Ferguson died 8 February 1962 ("husband & father", grave 20/570/1): Part Six.
 - 22 October 2026 (Rik): RULED: "wife & mother" may be quoted as the stone's words; "Husband of Rennie" is the transcriber's cross-reference and is not quoted.
+- 22 October 2026 (Rik: "but we have the dates of death now"): THE ENDING DRAFTED from the KFHS transcripts, before
+  the certificates (L revised by Rik's instruction). Sources: DLMI28 headstone notes (deaths: Rennie 2 Jan 1958, 68;
+  Albert 21 Jun 1962, 76; "Brian R. A."; "wife & mother", ruled the stone's words; "no surname on original MI");
+  KFHS burial transcript (Clarie buried 7 Jan 1958; Albert buried 26 Jun 1962, All Saints Hospital, Chatham,
+  "Retired", 76; grave 10/534, Albert's the third burial (DLMI28 534/3); Brian buried 20 May 1937); Rik's ruling that
+  Albert bought the grave (date not given). "aged "76"": the register's figure quoted, the false year left to the
+  reader (DECIDE 4). TO CHECK when the certificates arrive: both days of death, Albert's place of death and age as
+  written, and anything they add (cause, informant) that earns a place. "It gives none of them a surname": the
+  transcriber's note, stated plainly; no comment of ours.
+- 22 October 2026 (Rik): "Clarie died on the second of January 1958, aged sixty-eight." Ending option (a)/(b)/(c) for the headstone still to rule.
+- 22 October 2026 (Rik: "No, I like it as is"): the ending KEPT as first drafted ("On the headstone the three of them are Albert, Brian R. A. and Rennie, "wife & mother". It gives none of them a surname."); options (a)-(c) not taken.
+- 22 October 2026 (Rik): TITLE SETTLED: "I Shall Live to Fight Again" (his words, 3 November 1933). DECIDE N closed.

@@ -523,3 +523,6 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
   line "folded into the first movement", is itself superseded: the occupation line is not in the chapter).
 - **DECIDE 13, Chapter Twenty-One: TITLE SETTLED (Rik, 16 October 2026): "Invalided"** (the working title kept; the
   chapter's last line gives it its meaning). CHAPTER TWENTY-ONE APPROVED the same day.
+- **DECIDE 13, Chapter Twenty-One (old Twenty-Two): TITLE SETTLED (Rik, 22 October 2026): "I Shall Live to Fight Again"**
+  (his words after the count, Chatham Observer, 3 November 1933). Set in the chapter. Approval awaits the two death
+  certificates (CHAPTER_21_skeleton.md, LOG).
