@@ -8,10 +8,9 @@ KFHS: "A transcription of the burial registers 1869-2020 for Chatham Cemetery"; 
 Council Bereavement Services." The rows here are from the 1869-2007 part. Rik holds the full set (folder
 "Chatham_Cemetery_1869_2020": LIST OF ABBREVIATIONS; 1869-2007 and 2007-2020 by name, by grave and by date) on his own
 computer; only extracts are in the repo. A TRANSCRIPTION of the registers, not the registers. IN THE REPO (Rik, 22 October
-2026): the LIST OF ABBREVIATIONS and the three 2007-2020 files ("by date", "by grave", "by name", redacted); they landed
-at the repository ROOT, not in sources/pdfs/Chatham_Cemetery_1869_2020/ (which holds only a .gitkeep): to move. The
-1869-2007 files (which hold these burials) are too large: still wanted, the "by grave" PAGE for 10 / 534 and the title
-page, as single-page extracts.
+2026): the LIST OF ABBREVIATIONS only, at sources/images/burials/LIST OF ABBREVIATIONS.pdf. The 2007-2020 files were
+uploaded and then removed by Rik the same day (not needed: these burials are in the 1869-2007 part). The full set,
+1869-2020, stays on Rik's own computer; Rik has checked the 1869-2007 "by grave" listing for 10 / 534 (see ADDED, below).
 Column headings are not on the screenshot: the column meanings below are READINGS, not the source's labels.
 IMAGE CHECK (check-once rule): 22 October 2026 (Claude), the three rows read whole at full size. Certain unless marked.
 
