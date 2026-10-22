@@ -58,7 +58,7 @@ for Vera; Clarie Irene's death (see finding 1); any Chatham Dockyard record; the
 | 21 Apr 1943 | Michael George Ferguson born, 42 Magpie Hall Road | GRO certified copy (read 2 Oct) | Usable, a plain line (ruled DECIDE 1) |
 | 28 Mar 1945 | Coal case at Chatham: "Albert Goldstone, secretary of the Luton Working Men's Club", and "Mrs. Clara Irene Goldstone" give evidence | Observer, 6 Apr 1945 (checked 10 Oct) | Usable (ruled DECIDE 11) |
 | Nov 1945 | "A. Goldstone", new proprietor, 155 Dale Street (rationed foods) | Observer, 2 Nov 1945 (checked 20 Oct) | OUT: identity not shown |
-| 14 Jan 1953 | Luton Working Men's Club annual dinner and dance, Luton (or Christ) Church Hall; Cllr G. W. Rhodes presiding; "Club secretary, Mr. A. Goldstone" begins to speak "to the younger men" (his words cut off on the clip) | Observer, 16 Jan 1953, p. 4 (clipped; checked 22 Oct; photograph above it) | Usable once the continuation is held (M) |
+| 14 Jan 1953 | Luton Working Men's Club annual dinner and dance, Luton (or Christ) Church Hall; Cllr G. W. Rhodes presiding; "Club secretary, Mr. A. Goldstone", "speaking more to the younger men": "We now have a vast amount of ground at our disposal ..."; "I shall not worry one iota ..."; "We have got to pull together ..." | Observer, 16 Jan 1953, p. 4 (whole article clipped; checked 22 Oct; photograph above it) | Usable (M, as read) |
 | Q1 1958 (reg.) | Clarie Irene dies, Chatham; index age 68, registered Jan-Mar 1958. Find a Grave's "7 Jan 1958" is very probably her BURIAL date (see FIND A GRAVE); plot 10, 534, Palmerston Road, with Brian | GRO death index, 5b 369 (Rik, 22 Oct); Find a Grave 224968937 | Registration quarter only; the day not known (H) |
 | Q1 1962 (Feb) | George William Ferguson dies, Chatham; index age 41; buried 15 Feb 1962, Palmerston Road (tree) | GRO death index, Jan-Mar 1962, Chatham, 5b 443 (Rik, 22 Oct); Find a Grave 224970666 agrees (Rik) | See I |
 | Jun 1962 | Albert dies, Chatham district; index age 76 | GRO death index, Jun qtr, 5b 350 | Ending (ruled DECIDE 12); certificate NOT held |
@@ -72,7 +72,8 @@ for Vera; Clarie Irene's death (see finding 1); any Chatham Dockyard record; the
    October 1856), "Married", "Essex / Gt. Sanford". With Milne's "a married man" (1935), only the typed slip of 1935
    says "Widower". No Broadmoor document held shows the asylum learning of Elizabeth's death. Bears on plan's proposed
    Contradiction "122" (now proposed below as 124). Same census night as Albert's Chatham schedule: nothing joins them.
-3. **Albert's own words in direct speech are TWO, not one** (plan FINDING 11 superseded): 1 November 1933 ("I shall live
+3. **Albert's own words in direct speech are THREE, not one** (plan FINDING 11 superseded; the third, 1953, added 22
+   October, see the LOG): 1 November 1933 ("I shall live
    to fight again ...") and 26 January 1939, at the club's ladies' dinner: "In view of the unique position of the club
    we believe that membership should be far greater than it actually is," he said. (Clipped and checked 20 October.)
    The 1945 evidence is reported speech.
@@ -404,3 +405,10 @@ chapter's last record of his public life moves from 1945 to 1953.
 - 22 October 2026 (Rik): "All other decides as recommended". All A to N ruled; M read as the 1953 dinner IN (flagged).
 - 22 October 2026 (Rik): the 1945 shop at 155 Dale Street: "no we leave it out". OUT for good; not pursued (no
   directory or register search added to the sources list).
+- 22 October 2026 (Rik): the whole 1953 article re-clipped; transcription completed and checked. His words, in the paper's
+  direct speech: "We now have a vast amount of ground at our disposal and I see no reason why we could not build our own
+  dance hall and billiards hall." / "I shall not worry one iota so long as Luton Working Men's Club is going ahead." /
+  "We have got to pull together; only then will we be able to pay off the debt owing now, and then call the club our
+  own." Selection for prose (all three, or the last alone) to be settled in drafting movement four; ONE JOB PER VOICE:
+  1939 and 1953 both speak of the club's own home and of members, so drafting should let each give what it alone
+  gives (1939: eighty members, premises to come; 1953: the ground held, the debt).
