@@ -412,3 +412,8 @@ chapter's last record of his public life moves from 1945 to 1953.
   own." Selection for prose (all three, or the last alone) to be settled in drafting movement four; ONE JOB PER VOICE:
   1939 and 1953 both speak of the club's own home and of members, so drafting should let each give what it alone
   gives (1939: eighty members, premises to come; 1953: the ground held, the debt).
+- 22 October 2026 (Rik): title candidate, "I Shall Not Worry One Iota" (his words, 1953), beside the working "I Shall
+  Live to Fight Again" (1933). Not ruled: titles are settled on completion (plan DECIDE 13). Claude's notes for that
+  ruling: both are his own words, in his own voice, and both begin "I shall"; read before the chapter, each can be taken as
+  a verdict on the life that follows, and this chapter holds two defeats, Brian's death and William's. Plainer candidates
+  from the record, in the manner of "Without Lights" and "Invalided": "Ex. R.N." (Vera's certificate, 1921) or "Rigger".
