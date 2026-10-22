@@ -1,14 +1,15 @@
 "RALLY ROUND". NEW YEAR CALL TO LUTON W.M.C. MEMBERS. CHATHAM, ROCHESTER AND BROMPTON OBSERVER, FRIDAY 16 JANUARY 1953, PAGE 4
 Images (Rik's clips, uploaded 22 October 2026; Findmypast):
-- sources/images/Media-coverage/Chatham_Rochester_and_Brompton_16_January_1953_0004_Clip.jpg (613 x 1134): the article,
-  from its heading down to the subhead "FUTURE POSSIBILITIES" (cut off at the subhead: the rest of the article, with
-  Mr Goldstone's words, is NOT on the clip).
+- sources/images/Media-coverage/Chatham_Rochester_and_Brompton_16_January_1953_0004_Clip.jpg (579 x 1735): the WHOLE
+  article, heading to end (Rik re-clipped and re-uploaded it, 22 October 2026, replacing a first clip of 613 x 1134
+  that stopped at the subhead "FUTURE POSSIBILITIES").
 - sources/images/Media-coverage/Chatham_Rochester_and_Brompton_16_January_1953_0004_Clip (1).jpg (2760 x 1129): the
   photograph that ran above it, with the page's running head "CHATHAM OBSERVER, JANUARY 16th, 1953" and the caption.
-IMAGE CHECK (check-once rule): 22 October 2026 (Claude), both clips read whole at full size; every word certain
-except where marked. End-of-line hyphens closed up ("Wednes-day", "mem-bers", "w[i]sh-ing").
+IMAGE CHECK (check-once rule): 22 October 2026 (Claude), both clips read whole at full size; the second part of the
+article (from "FUTURE POSSIBILITIES" to the end) checked again on the full clip, Mr Goldstone's words from a crop
+enlarged x2. Every word certain except where marked. End-of-line hyphens closed up ("Wednes-day", "mem-bers", "w[i]sh-ing").
 
-THE ARTICLE (as far as the clip runs):
+THE ARTICLE (whole):
 
 "RALLY ROUND"
 New Year call to
@@ -26,7 +27,14 @@ build the club up."
 Mr. Rhodes concluded by wishing the club every success and congratulated it on having such an enthusiastic committee.
 Club secretary, Mr. A. Goldstone said he was speaking more to the younger men when he said:
 FUTURE POSSIBILITIES
-[clip ends]
+"We now have a vast amount of ground at our disposal and I see no reason why we could not build our own dance hall and
+billiards hall.
+"I shall not worry one iota so long as Luton Working Men's Club is going ahead."
+Mr. Goldstone added: "We have got to pull together; only then will we be able to pay off the debt owing now, and then
+call the club our own." [this paragraph in bold type]
+Other speakers were Mr. M, R. Lourie, chairman, Mr. W. Powell, past chairman, and Mr. L. D. Hills.
+Mr. F. W. May, treasurer, was toast master.
+Following the speeches there was dancing to music supplied by Mr. N. Baker, who was also M.C.
 
 THE PHOTOGRAPH'S CAPTION:
 "COUNCILLOR GEORGE RHODES presided over the annual dinner of Luton Working Men's Club, held on Wednesday in Christ
@@ -39,6 +47,11 @@ NOTES:
   in January 1939 and "Albert Goldstone" in March 1945 (Observer, 28 January 1939 and 6 April 1945, held). Same club,
   same office, same initial: very probably Albert, then 65 (true age), fourteen years on from 1939. Nothing on the clip
   names him in full or gives an address.
-- WANTED: the continuation below "FUTURE POSSIBILITIES" (same page, next column or below), which carries his words.
+- HIS WORDS: three sentences in direct speech, the paper's own quotation marks (two paragraphs, then "Mr. Goldstone
+  added:"). With 1933 and 1939, his third recorded utterance in direct speech, and the last held: nine years before
+  his death. In 1939 he had said the club would have its own premises "within the next two years" (held); in 1953 it
+  has "a vast amount of ground" and "the debt owing now". Placed side by side in the notes only; no sentence of ours
+  is to join them.
+- "Mr. M, R. Lourie" as printed (a comma for a full stop): the punctuation of the original is "M, R." on the image.
 - The photograph names no one but Rhodes. Whether Albert (or Clarie) is in it is NOT shown; any identification would be
   family recognition (Part Six, Rik's voice), not the record.
