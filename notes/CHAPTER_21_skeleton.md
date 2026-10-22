@@ -620,3 +620,17 @@ chapter's last record of his public life moves from 1945 to 1953.
 - 22 October 2026 (Rik): George William Ferguson's burial (KFHS): no. 48565, buried 15 Feb 1962, 41, sheet metal worker, died All Saints Hospital, Chatham; grave 20 / 570. Recorded in the burial transcription; Part Six (DECIDE I). The dates table's row for him to read "Q1 1962; buried 15 Feb 1962" (correction proposed, finding 7).
 - 22 October 2026 (Rik: "Albert paid, none of the others can be true"): RULED: grave 10 / 534 a purchased family grave, bought by Albert; the date of purchase not shown, and not to be given.
 - 22 October 2026 (Rik): the KFHS PDFs removed from the repo; the abbreviations list kept at sources/images/burials/LIST OF ABBREVIATIONS.pdf. Transcription header updated to match.
+- 22 October 2026 (Rik): MONUMENTAL INSCRIPTIONS for grave 10 / 534 (very probably KFHS item 398; provenance to
+  confirm). A headstone with NO SURNAME on it ("Albert", "Brian R. A.", "Rennie"; "wife & mother"; "Husband of Rennie");
+  death dates from the stone: Brian 15 May 1937 (matches his certificate), Clarie 2 January 1958, Albert 21 June 1962;
+  Albert 76 (the false year again). Recorded in the burial transcription. FOR THE ENDING (L): the stone is the strongest
+  material the chapter has for its last lines, given plainly and without comment: what it says, and that it gives no
+  surname. Needs: the inscription's full wording if the file has it; ideally a photograph. The certificates still
+  govern the dates. Placeholders updated.
+- 22 October 2026 (Rik): the inscriptions file is KFHS DLMI28, "Chatham, Kent. Monumental inscriptions for Palmerston Road
+  Cemetery", now in the repo (sources/images/burials/Chatham Palmerston Road MI by name.pdf). Its column is "Headstone
+  notes": the transcriber's notes, not the inscription's wording. FOR THE ENDING: the prose may say the stone gives their
+  first names only, no surname (the transcriber's explicit note), and may name them as the notes do ("Albert", "Brian R.
+  A.", "Rennie"); it must NOT quote "wife & mother" or "Husband of Rennie" as the stone's words unless a photograph shows
+  them. Also: George W. Ferguson died 8 February 1962 ("husband & father", grave 20/570/1): Part Six.
+- 22 October 2026 (Rik): RULED: "wife & mother" may be quoted as the stone's words; "Husband of Rennie" is the transcriber's cross-reference and is not quoted.
