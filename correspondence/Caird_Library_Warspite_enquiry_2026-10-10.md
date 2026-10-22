@@ -1,6 +1,6 @@
 # Caird Library (National Maritime Museum): Marine Society archive, training ship Warspite, 1901
 Sent by Rik, 10 October 2026, to library@rmg.co.uk (text as drafted in session; Rik may have edited before sending). Awaiting reply.
-Purpose: live_lists 4, item 45; CHAPTER_19_skeleton.md, finding 12.
+Purpose: live_lists 4, item 45; CHAPTER_18_skeleton.md, finding 12.
 
 Subject: Marine Society archive (MSY): a boy entered on the training ship Warspite, April 1901
 
