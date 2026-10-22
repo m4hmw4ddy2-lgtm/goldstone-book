@@ -69,3 +69,42 @@ RULED 22 October 2026 (Rik): "Albert paid, none of the others can be true". The 
 reopened for the family twice over twenty-five years (son 1937, wife 1958, Albert 1962) was a bought family grave, not
 a parish, pauper or public one. The prose may say the grave was Albert's, bought by him (Rik's ruling; the transcript
 itself names no purchaser and gives no purchase date: when it was bought, e.g. in 1937 for Brian, is NOT shown).
+
+ADDED 22 October 2026: MONUMENTAL INSCRIPTIONS. SOURCE (Rik): Kent Family History Society, DLMI28, "Chatham, Kent.
+Monumental inscriptions for Palmerston Road Cemetery". Full file in the repo: sources/images/burials/Chatham Palmerston
+Road MI by name.pdf (281 pages; running head "Chatham Cemetery, Palmerston Road, Chatham, Kent MIs"; footer "Chatham
+Palmerston Road MI by name.xlsx 13/05/2020"). Read 22 October 2026 by text extraction (pdftotext); the three Goldstone
+rows agree word for word with Rik's screenshot (sources/images/burials/Palmerston_Road_monumental_inscriptions_
+Goldstone_plot_10_534_extract.png, checked at full size). COLUMN HEADINGS (from the file): "Ref", "Given names",
+"Surname", "Age at death", "Born", "yyyy", "mm", "dd", "Headstone notes", "Grave ref".
+CAUTION ON "Headstone notes": the column is the transcriber's NOTES on each stone, not a full transcription of its
+wording. Elsewhere in the file it holds quoted phrases ("Vase-In loving memory of Perce and Gran"), relationships
+("Wife of Charles ABBEY 299/1") and facts ("killed in action"). So "wife & mother" may be the stone's own words or the
+transcriber's summary: NOT to be quoted as the inscription. "no surname on original MI" is the transcriber's explicit
+statement about the stone, and may be stated as such.
+| Ref | Given names | Surname | Age at death | yyyy | mm | dd | Headstone notes | Grave ref |
+| 2120 | Albert | GOLDSTONE | 76 | 1962 | Jun | 21 | Husband of Rennie (10/534/2) Husband of Rennie (534/2), no surname on original MI Burial register GOLDSTONE | Plot 10 Grave 534/3 |
+| 2118 | Brian R. A. | GOLDSTONE | 4½ | 1937 | May | 15 | No surname on original MI (Burial register GOLDSTONE) | Plot 10 Grave 534/1 |
+| 2119 | Rennie | GOLDSTONE | 68 | 1958 | Jan | 2 | wife & mother, no surname on original MI (Burial register GOLDSTONE) | Plot 10 Grave 534/2 |
+READINGS AND FINDINGS:
+1. THERE IS (or was) A HEADSTONE: "MI" = monumental inscription. Its forms of the names: "Albert", "Brian R. A.",
+   "Rennie". NO SURNAME ON THE STONE for any of the three ("no surname on original MI"); the transcriber supplied
+   GOLDSTONE from the burial register. As recorded: no interpretation (not for the narrator's voice).
+2. The dates here are DEATH dates, from the stone: Brian's "1937 May 15" agrees exactly with his death certificate (and
+   his burial was 20 May). So: Clarie ("Rennie") died 2 JANUARY 1958 (a Thursday), buried 7 January; Albert died
+   21 JUNE 1962 (a Thursday), buried 26 June. Subject to the death certificates (on order), which govern.
+3. Albert's age, 76, on 21 June 1962: right only for the naval 19 June 1886 (by his true 1887 he was 75). The stone
+   carries the false year. Brian "4½" (born Q3 1932: fits). Rennie 68 (born 7 June 1889: right).
+4. The stone names her RENNIE, the name of the 1910 register and her 1911 schedule; "wife & mother". Albert "Husband of
+   Rennie". The family's name for her, on the stone.
+5. Albert's grave reference 534/3: the THIRD burial (confirms that the burial transcript's "2nd Inter." for him is a slip).
+6. "Husband of Rennie (10/534/2)" and "Husband of Rennie (534/2)" both appear: the transcriber's cross-references, as
+   printed.
+WANTED: the inscription's own wording (the file gives notes only); whether the stone still stands (a photograph).
+ALSO IN THE FILE (Part Six only): Ref 4497, "George W FERGUSON", 41, died 1962 Feb 8, "husband & father", Plot 20 Grave
+570/1 (his death 8 February, burial 15 February 1962). No Setterington, Godbold, Neaves or Ainsley entry found.
+
+RULED 22 October 2026 (Rik): "wife & mother" (Rennie) is the STONE'S OWN WORDS and may be quoted as the inscription
+(lower case, no cross-reference: the file's form for words copied from stones, e.g. "Beloved husband", "husband &
+father"). "Husband of Rennie (10/534/2)" is the TRANSCRIBER'S cross-reference (the file's fixed "Husband of X ...
+grave ref" form): NOT to be quoted as the stone's words; the prose says only that the stone names him, with no surname.
