@@ -58,7 +58,7 @@ The second was the post-mortem examinations.
 
 "Possibly you may be aware that in all cases where a person is likely to be charged with having caused the death of another, as in the case of the persons whose deaths you are about to inquire into, it is necessary that a post-mortem examination should be made. For this reason—that the law requires you should not only have positive evidence as to the cause of death, but also negative evidence that death was not caused by any other means—in other words that the injuries, if any other injuries are proved, are the sole cause of the death. Therefore it is necessary always that a post-mortem examination should be made. I was not aware until I came here that post-mortem examinations had been made, but I have learned that those examinations have been made. I may tell you that I should have ordered them to have been made, and therefore what has been done is simply absolutely necessary. I had thought when I came here that I should have had to adjourn the inquiry for that purpose also."
 
-Ada was called first, and she repeated the evidence she had given the day before at Stratford. The third time she had sworn it in two days.
+Ada was called first, and she repeated the evidence she had given the day before at Stratford. The second time she had sworn it in two days.
 
 Then a juryman began to ask questions of his own. The first was about the twins.
 

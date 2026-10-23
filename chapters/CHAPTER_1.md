@@ -38,4 +38,4 @@ The next witness was Thomas. "I knew the testator 20 years; the Christmas before
 
 In less than five minutes the jury found for the defendant, "and said they thought the testator was in a sound state of mind when the will was executed."
 
-At Wethersfield, in the summer of 1858, George Ansell died of typhus fever, aged nineteen. He was buried on the eleventh of July. Elizabeth was three. Of the eight children Jemima had borne John Ansell, only Emma was left.
+At Wethersfield, on the fifteenth of July 1858, George Ansell died of typhus fever, aged nineteen. Elizabeth was three. Of the eight children Jemima had borne John Ansell, only Emma was left.
