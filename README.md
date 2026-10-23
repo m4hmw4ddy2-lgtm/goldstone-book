@@ -70,7 +70,7 @@ root, and every export is regenerated.
 | `sources/trial-docs/` | The 1883 depositions and statements (CRIM 1/19/2), with page images, and the Old Bailey text. The committal statement sits under `Coroner Depositions/Commital/` by an old misfiling, left in place on purpose (see the index). |
 | `sources/images/` | Page images: press (`Media-coverage/`), certificates, censuses, Broadmoor documents, maps, photographs. |
 | `sources/pdfs/` | Journals and books as PDFs. |
-| `sources/genealogy/` | The Ancestry and MyHeritage family trees (GEDCOM), and two DNA comparison exports. A tree is weaker than a certificate; the comparison exports undercount (see the index). |
+| `sources/genealogy/` | The Ancestry and MyHeritage family trees (GEDCOM), and two DNA comparison exports. A tree is weaker than a certificate; the comparison exports are truncated after chromosome 9 (see the index). |
 | `correspondence/` | Letters to and from archives, as sent, with what each reply changed. |
 | `ChatGPT-archive/` | Earlier AI-assisted sessions. Never a source; every quotation is checked against the repository. |
 
