@@ -1,5 +1,5 @@
 # Caird Library (National Maritime Museum): Marine Society archive, training ship Warspite, 1901
-Sent by Rik, 10 October 2026, to library@rmg.co.uk (text as drafted in session; Rik may have edited before sending). No reply by 22 October 2026; CHASER SENT by Rik, 22 October 2026 (below). Awaiting reply.
+Sent by Rik, 10 October 2026, to library@rmg.co.uk (text as drafted in session; Rik may have edited before sending). No reply by 22 October 2026; CHASER SENT by Rik, 22 October 2026 (below). REPLY RECEIVED 23 October 2026 (below).
 Purpose: live_lists 4, item 45; CHAPTER_18_skeleton.md, finding 12.
 
 Subject: Marine Society archive (MSY): a boy entered on the training ship Warspite, April 1901
@@ -56,3 +56,29 @@ Rik Ferguson
 "I can confirm that we have safely received your original message and are currently in the process of checking related
 archive material. We aim to respond to enquiries within 10 working days, so you will receive a response soon."
 (Ten working days from 22 October 2026: by about 5 November 2026.) Short reply of thanks drafted in session the same day.
+
+---
+
+## Reply received 23 October 2026 (Sophie Seeyave, Archives Assistant, Royal Museums Greenwich; supplied by Rik)
+
+Summary (her words quoted where they matter):
+- The MSY collection: https://www.rmg.co.uk/collections/archive/rmgc-object-492005 (expandable hierarchy).
+- For 1901, check BOTH, "Sometimes, people are recorded in the registers but not the indexes (or vice versa)":
+  - Registers of Admission, 1899-1915, Marine Society: "name, dates of entering and leaving the Society's Ship, to what
+    ship (with RN indicating for Royal Navy), and date of visiting ticket".
+  - Alphabetical indexes to MSY/L: registers of admission, 1889-1914: "name, age and height, former occupation, family
+    connections (e.g. parents) and where they lived, date of leaving the Society's Ship (with RN indicating for Royal
+    Navy)".
+  - Also: WARSPITE Old Boys Association register (chronological), 1917-49; a few boys discharged as early as 1900,
+    "dispersed across the volume".
+- Access: open, in person at the Reading Room, Tuesday to Friday, 10:00 to 16:45; no proof of descent needed; request
+  through "Request this item" on each item page; register to visit:
+  https://www.rmg.co.uk/collections/caird-library/register-to-visit.
+- Remote: no scanning (the collection is on loan, use restricted); BUT the enquiry lookup service can check items and
+  give "a couple of quick reference photos". Publishing any photo needs the lender's permission, obtained through them.
+- Paid searches: independent researchers (TNA and RMG lists, links in her email).
+WHAT IT CHANGES: the index entry may give Albert's parents ("family connections") and address, seven months before the
+naval "Germany" (live_lists 4, item 45). The register gives his dates on the ship and "RN" if he went to the Navy from
+it. Neither is needed for the Chapter Eighteen gap (what the ship was and where she lay), which wants a published
+source. Item reference numbers for the two volumes to be copied from the item pages before any request.
+
