@@ -33,7 +33,10 @@ manuscript are shown with " / ".
 - No punctuation in columns 1, 5 and 7 beyond the full stop after "Stock" in column 4. Chapter One's quotations
   ("The Village, Weathersfield"; "Jemima Stock, late Ansell formerly Suckling"; "the mark of Thomas Stock, Father")
   render the line breaks as commas. The words, spellings and order agree with the image.
-- Registrar's first initial "A."; the second is a looped capital, J or S: not settled.
+- Registrar's first initial "A."; the second is a looped capital, J or S, not settled on this image. The same registrar
+  signed George Ansell's death registration of 16 July 1858 (MASTER_NOTES.md reads it "A. S. Baker"), but that image
+  (viewed 24 October 2026) shows the same looped capital, so it does not settle the letter. [Corrected 24 October
+  2026: a note of 23 October said "probably S" on that reading, which was circular.]
 
 ## Against Chapter One (23 October 2026)
 Agrees: 30 March 1855 registration; Thomas Stock's mark as informant, "Father"; born 18 February 1855; "The Village,
