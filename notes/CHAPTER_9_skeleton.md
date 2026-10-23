@@ -756,3 +756,4 @@ repeated Chapter Ten. Source check: the 11 August transcription was made from cl
 - 16 October 2026, corrections to the approved Chapter Eleven (Rik: "of course the typos"): the vicar's letter paragraph,
   "He had found her" -> "He had found Elizabeth" (she was not named in the paragraph); Gould, "After the Wednesday
   evening, he went through" -> "After his account of the Wednesday evening, he went through" (did not parse).
+- 23 October 2026 (Rik: "Yes", on the independent audit, item 11): "The third time she had sworn it in two days" now "The second time": Ada was sworn at Stratford on 9 August and at the inquest on 10 August (timeline dates table).

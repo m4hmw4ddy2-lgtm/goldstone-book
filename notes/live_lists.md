@@ -21,7 +21,7 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 |---|---|---|---|---|
 | Prologue | Prologue | (untitled) | Rewritten by Rik, 6 Oct 2026 | MASTER_NOTES, Part Two status note, 6 Oct |
 | PART ONE, BEFORE | | | | |
-| 1 | new | Late Ansell Formerly Suckling | Approved 21 Oct 2026 | CHAPTER_1_skeleton.md |
+| 1 | new | Late Ansell Formerly Suckling | Approved 21 Oct 2026; corrected 23 Oct (George Ansell's death date, audit) | CHAPTER_1_skeleton.md |
 | 2 | new | In Occupation | Approved 21 Oct 2026 | CHAPTER_1_skeleton.md |
 | 3 | new (old 4's title) | The Emptying | Approved 21 Oct 2026 | CHAPTER_3_skeleton.md |
 | 4 | new (old 4 and 5 merged) | One of Our Own Family | Approved 21 Oct 2026 | CHAPTER_4_skeleton.md |
@@ -31,12 +31,12 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 7 | 8 | Uncommonly Fine Children | Drafted in full; rules pass 21 Oct | same |
 | 8 | 9 | Gone to Glory | Drafted in full; rules pass 21 Oct | same |
 | PART THREE, THE RECKONING | | | | |
-| 9 | 10 | Of a Kindly Nature | Drafted and settled; rules pass 21 Oct | CHAPTER_9_skeleton.md |
+| 9 | 10 | Of a Kindly Nature | Drafted and settled; rules pass 21 Oct; corrected 23 Oct ("second time", audit) | CHAPTER_9_skeleton.md |
 | 10 | 11 | The Time Appointed for the Funeral | Drafted and assembled; rules pass 21 Oct | CHAPTER_9_skeleton.md |
 | 11 | 12 | At Another Place | Drafted in full and assembled; rules pass 21 Oct | CHAPTER_11_skeleton.md |
 | 12 | 13 | Some Way of Business | Approved | CHAPTER_11_skeleton.md |
 | 13 | 14 | William, Are You Well? | Approved 4 Oct; revised, approved 7 Oct; rules pass 21 Oct | CHAPTER_13_skeleton.md |
-| 14 | 15 | The Form of Their Verdict | Approved 7 Oct 2026 | CHAPTER_13_skeleton.md |
+| 14 | 15 | The Form of Their Verdict | Approved 7 Oct 2026; corrected 23 Oct ("until the verdict", audit) | CHAPTER_13_skeleton.md |
 | 15 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026; amended 21 Oct; extracts set as block quotations 22 Oct | CHAPTER_15_skeleton.md |
 | 16 | 17 | Until Further Signification | Approved 10 Oct 2026; amended 13 and 21 Oct; closes Part Three; the second family tree follows it | CHAPTER_16_skeleton.md |
 | PART FOUR, ELIZABETH | | | | |
@@ -44,7 +44,7 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 18 | 19 | Late Goldstone Formerly Stock | Approved 12 Oct 2026; ONE GAP: the Warspite sentences (Caird Library) | CHAPTER_18_skeleton.md |
 | PART FIVE, ALBERT | | | | |
 | 19 | 20 | Without Lights | Approved 15 Oct 2026 | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
-| 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct | CHAPTER_20_skeleton.md |
+| 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct; corrected 23 Oct (the Pioneer's crossing; the 1916 barracks spell, audit) | CHAPTER_20_skeleton.md |
 | 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); closes Part Five. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
 | PART SIX, CODA | | | Not begun; NEXT | MASTER_NOTES |
 
@@ -90,7 +90,7 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
 - Where William was looking during the second kitchen visit: his hands (Old Bailey) or the children (coroner
   deposition). Decided for the prose (his hands, Chapter Seven), NOT resolved on the evidence.
 - Which kitchen visit the cord first appears in (Contradiction 27).
-- Ada's four sworn wordings of his reply at the door; Chapter Seven quotes only "I am a happy man" (Contradiction 1).
+- Ada's four sworn wordings of his reply at the door; Chapter Seven (now Chapter Six) quotes "I am not a wicked man. I am a happy man." (her coroner deposition, 10 Aug), as DECIDED under Contradiction 1 [corrected 23 October 2026: this line said it quoted only "I am a happy man"].
 - The hammer, when and where found (30); the first twin's death (31); how the boys lay (32); Ada's tea against "no
   provisions" (33).
 - Ada moving the chair: in the Daily Telegraph and Times of 10 August and Western Times of 14 August only (one reporter's text); unconfirmed. The Times adds Ada's "When I noticed the chair under the cistern, of course I did not think of anything of this sort." (111).
@@ -299,6 +299,11 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
     1844), so it cannot show the family there. STILL OPEN, small: the Hudson's Hill plots in IR 29/12/374 (owners and
     occupiers of the cottages there in 1842), if TheGenealogist is taken again; and the 1841 and 1851 census pages
     for Hudson's Hill (neighbours; Elizabeth Carter). Rik's OS map of Hudson's Hill: sheet and date to record.
+
+73. (Added 24 October 2026, independent audit.) George Ansell's burial: the Wethersfield burial register, D/P 119/1/7,
+    p. 82 (Essex Ancestors), image. The index's 11 July 1858 is impossible against his death on 15 July (GRO death
+    certificate, image checked 24 October 2026). Chapter One gives the death only, so nothing in the prose waits on
+    this; it settles the dates table and dramatis_personae.md. LOW.
 
 Checked and not needed again: Jade Shepherd, Journal of Victorian Culture 2013 (Gouldstone not in it); Jade Shepherd,
 Medical History 2016 (Gouldstone not named; kept as Broadmoor context, the four superintendencies); Roger Smith is now

@@ -722,3 +722,4 @@ part_three_context_law_and_medicine.md, the section of 12 October 2026. Source o
 point by point the same day.
 Also the same day, Chapter Three (Rik): the great-uncle sentence cut (press only, Times 1 October; Contradiction 104);
 "His aunt" made "Thomas's own aunt" (Thomas: "my father had a sister who wore a strait jacket").
+- 23 October 2026 (Rik: "Yes", on the independent audit, item 3), Chapter Fourteen: "but apart from his plea, no report has him say a word" now "but until the verdict no report has him say a word beyond his plea": the chapter itself later quotes the Essex Weekly News, "The Prisoner: I am not guilty." (and the Times's "had not"; Contradiction 93).

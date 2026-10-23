@@ -70,7 +70,7 @@ Pious tone throughout, no apparent understanding of the enormity of what he has 
 - Alfred, buried 1 June 1846, age 8
 - Edith (b. posthumously, after her father's April 1845 death), buried 24 February 1847, age 1
 - John Nathan (b. 19 May 1834), buried as "Nathan," 19 July 1856, age 22
-- George (b. 19 May 1839), buried 11 July 1858, age 19
+- George (b. 19 May 1839), died 15 July 1858, age 19, typhus fever (GRO death certificate; burial indexed 11 July 1858, impossible: MASTER_NOTES; corrected 23 October 2026)
 - Emma (**birth registered Q3 1840, Braintree district, vol. 12 p. 29, mother's maiden name Suckling**: GRO birth index, supplied by Rik 1 October 2026. This confirms her as Jemima's daughter and agrees with her burial age 21 on 2 November 1861, death 27 October, and 1861 census age 20, which together put her birth between April and October 1840), buried 2 November 1861, age 21. **1851 census age "8" is wrong; she was ten** (Rik, 1 October 2026; Chapter Two now says ten). Baptism 30 May 1841, Wethersfield (Essex Parish Baptisms index, supplied by Rik 1 October 2026), **indexed with parents "John Ansell, Mary", not Jemima**: clerk's or indexer's slip, or another family; register image to check before treating it as hers. The GRO entry makes her birth and parentage certain without it — seven months after the 1861 census recorded her alive in Jemima and Thomas's household
 
 **John Ansell senior** (the husband's father; brewer, later agricultural labourer; widower by 1851; 75 in 1851 and 85, blind and "Pauper" in 1861 (Rik, from the census image, 21 October 2026), both in Jemima's household) died in the September quarter of 1864, Braintree district, age 88 (GRO death index 4a 225, supplied by Rik 4 October 2026), when Elizabeth was nine.

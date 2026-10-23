@@ -31,7 +31,7 @@ For William, it is only his birth into a working forge, and the parallel it sets
 - 1851 census, Dog Chase: Jemima a widow and straw plaiter; John Nathan, George, Emma; John Ansell senior a widower
   in her house (old Ch1)
 - Marriage 2, 16 Jun 1854, after banns, both marks; witnesses Robert Suckling and Frederick Smee (D/P 119/1/10)
-- Nathan buried 19 Jul 1856 (phthisis, eight months); George buried 11 Jul 1858 (typhus fever) (D/P 119/1/7;
+- Nathan buried 19 Jul 1856 (phthisis, eight months); George died 15 Jul 1858 (typhus fever; burial indexed 11 Jul, impossible: corrected 23 Oct 2026) (D/P 119/1/7;
   certificates)
 - William: Thomas Gouldstone marries Emily Willett 30 Jan 1851; the 1851 forge by the mill and the Cock Inn (old Ch3);
   William born 10 Oct 1856, registered by Emily 3 Nov (full GRO certificate); Emily (b. 1854) and Robert before him
@@ -354,3 +354,4 @@ T16 KEEP. From the 1842 tithe apportionments (MASTER_NOTES, "Added 25 July 2026"
   Ansell formerly Suckling"; "the mark of Thomas Stock, Father"); the source has no commas there; (2) "the
   registrar for the Finchingfield district" rests on the notes, as the image has no district heading. (Raised by the
   independent audit, 23 October 2026, section 4: "no image or transcription of it in the repo". Now there is.)
+- 23 October 2026 (Rik: "Yes", on the independent audit, item 1): "in the summer of 1858 ... He was buried on the eleventh of July" now "on the fifteenth of July 1858, George Ansell died of typhus fever". The burial date was the index's 11 July, impossible against his death on the 15th (GRO death certificate; MASTER_NOTES). Propagated: timeline dates table, dramatis_personae.md, this skeleton's SOURCES, PART_ONE_revision_plan.md.
