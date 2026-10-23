@@ -419,6 +419,12 @@ general knowledge before use, and each as a clause; no account of the war beyond
   October 2026; findings under J, ALEXANDER IN THE OFFICIAL DESPATCH, below. Awaiting ruling.
 
 ### J. ALEXANDER IN THE OFFICIAL DESPATCH (researched 15 October 2026)
+**[23 October 2026: THE GAZETTE NOW HELD. Page images in sources/images/Media-coverage/Alexander/ (pp. 7331-7335; Rik); the
+Alexander passages transcribed and image-checked: transcribed/London_Gazette_8_Jul_1920_Kemp_despatch_Alexander_
+transcription.md. Every excerpt below CONFIRMED on the image, including "I sent her to Murmansk" (the CAUTION in the
+drafting log is CLEARED). Correction: the Gazette prints "practicable use", not "practical". New, for the notes only:
+on 30 July Hurt led a trawler detachment in "Tay and Tyne" for Archangel (p. 7334). Both page ranges are right: the
+despatch runs 7331-7335; the Alexander passages fall on 7333-7334.]**
 PRIMARY, OFFICIAL: Rear-Admiral T. W. Kemp's despatch on naval operations in North Russia, 1918, Fifth Supplement to
 the London Gazette, issue 31970, 8 July 1920, pp. 7331-7335 (thegazette.co.uk). READ ONLY THROUGH A SUMMARISING TOOL
 (short verbatim excerpts); the PDFs could not be saved from the session (host not allowed): Rik to download pp. 7331-7335
@@ -593,3 +599,9 @@ read: to check on the saved pages before it is said.
 - 22 October 2026 (Rik: "do it"), after a whole-book check: "Early in July, the official history records, there was"
   recast as "The official history records that early in July there was ... and that it was the ...". Time-led
   openings now three of twenty-four, none adjacent. The whole-book check is logged in notes/PART_TWO_rules_pass.md.
+- 23 October 2026: Kemp's despatch (London Gazette, issue 31970, Fifth Supplement, 8 July 1920) saved by Rik as page
+  images; the Alexander passages transcribed and checked word by word (transcription header). The chapter's sentence
+  "Rear-Admiral Kemp, who reached Archangel two days later, sent her away to Murmansk" CHECKED against the image:
+  rank (his signature, "Rear-Admiral, Retired"), "July 4th", "Two days before my arrival", "I sent her to
+  Murmansk". "Henry Hurt" checked ("Henry A. le F. Hurt"). No change to the prose. (Raised by the independent audit,
+  23 October 2026, item 7: "Rear-Admiral" Kemp, "two days later" and "Henry" Hurt not in the repo. Now they are.)

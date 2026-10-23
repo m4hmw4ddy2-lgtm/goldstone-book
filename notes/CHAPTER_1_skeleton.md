@@ -19,6 +19,9 @@ For William, it is only his birth into a working forge, and the parallel it sets
 - Elizabeth's GRO birth certificate: 18 Feb 1855, "The Village, Weathersfield"; Thomas Stock, Ag Lab, informant, "X
   the mark of Thomas Stock, Father"; mother "Jemima Stock, late Ansell formerly Suckling"; REGISTERED 30 MARCH 1855
   (dramatis_personae.md, Elizabeth; not used in the present prose)
+  [23 October 2026: IMAGE NOW HELD, sources/images/birth-certificates/Elizabeth Stock Birth Cert.jpg (Rik); transcribed
+  and checked word by word: transcribed/Elizabeth_Stock_birth_certificate_1855_transcription.md. Agrees with Chapter
+  One's opening. The image is the entry strip only: "the registrar for the Finchingfield district" is not on it.]
 - Jemima's baptism, 15 Dec 1811, Hornchurch (FHL Film 857075); Edward Suckling in four censuses (old Ch2)
 - Marriage 1, 25 Dec 1833, St Mary Magdalene (D/P 119/1/9), Smee among the witnesses
 - 1841 census, Dog Chase household (old Ch1 and Ch2); the twins in the Independent chapel register (RG4/1768);
@@ -345,3 +348,9 @@ T16 KEEP. From the 1842 tithe apportionments (MASTER_NOTES, "Added 25 July 2026"
   the Monday" cut (unsourced). Philpott and Gray both recur in Chapter Two's sources (the Orchard; Lot 27; the cholera):
   the prose draws no link.
 - 21 October 2026 (Rik): titles ruled; see PART_ONE_revision_plan.md, last entry. This skeleton's chapters: 1 LATE ANSELL FORMERLY SUCKLING, 2 IN OCCUPATION.
+- 23 October 2026: Elizabeth's birth certificate image added (Rik) and checked word by word against Chapter One's
+  first two paragraphs. Words, spellings and order of all three quotations agree. Two points for Rik, nothing changed:
+  (1) the quotations render the manuscript's line breaks as commas ("The Village, Weathersfield"; "Jemima Stock, late
+  Ansell formerly Suckling"; "the mark of Thomas Stock, Father"); the source has no commas there; (2) "the
+  registrar for the Finchingfield district" rests on the notes, as the image has no district heading. (Raised by the
+  independent audit, 23 October 2026, section 4: "no image or transcription of it in the repo". Now there is.)

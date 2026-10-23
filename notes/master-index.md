@@ -707,6 +707,13 @@ Book section: Part Five
 
 ## SECTION 4: FAMILY DOCUMENTS AND PHOTOGRAPHS
 
+**Elizabeth Stock, birth, 18 February 1855 (GRO birth certificate, entry strip; image added 23 October 2026)**
+`sources/images/birth-certificates/Elizabeth Stock Birth Cert.jpg`
+Transcription: `transcribed/Elizabeth_Stock_birth_certificate_1855_transcription.md` (checked word by word, 23 October 2026)
+Status: READ
+Key content: entry 198; born "Eighteenth February 1855", "The Village Weathersfield"; Elizabeth, Girl; father Thomas Stock, Agricultural Labourer; mother "Jemima Stock late Ansell formerly Suckling"; informant "X The mark of Thomas Stock Father The Village Weathersfield"; registered "Thirtieth March 1855"; registrar "A. [J. or S.?] Baker". The image shows no district or sub-district heading.
+Book section: Chapter One (opening)
+
 **Goldstone-Stock Wedding Certificate**
 `sources/images/marriage-certificates/William Gouldstone-Elizabeth Stock Marriage.jpg`
 (Also: `sources/images/marriage-certificates/William Gouldstone-Elizabeth Stock Marriage.jpg`)
@@ -1117,4 +1124,4 @@ Book section: Part One
 - `sources/books/Corbett_Naval_Operations_Vol1_1920_archive-org_fulltext.html`: extract `transcribed/Corbett_Naval_Operations_vol1_Invincible_New_Zealand_Aug_1914.txt`.
 - `sources/books/Newbolt_Naval_Operations_Vol5_part1_naval-history_net.html`: extract `transcribed/Newbolt_Naval_Operations_vol5_ch4_Courageous_1917.txt`.
 - `sources/books/Newbolt_Naval_Operations_Vol5_part2_naval-history_net.html`: extract `transcribed/Newbolt_Naval_Operations_vol5_ch9_Alexander_1918.txt`.
-- London Gazette, issue 31970, 5th Supplement, 8 July 1920, pp. 7331-7335 (Kemp's despatch, North Russia 1918): NOT HELD (403); read through a summarising tool only (CHAPTER_20_skeleton.md, J).
+- London Gazette, issue 31970, 5th Supplement, 8 July 1920, pp. 7331-7335 (Kemp's despatch, North Russia 1918): HELD since 23 October 2026, page images `sources/images/Media-coverage/Alexander/GBOR_LONDON-GAZETTE_1920_07-06_31970_0001.jpg` to `_0005.jpg`; the Alexander passages transcribed and image-checked in `transcribed/London_Gazette_8_Jul_1920_Kemp_despatch_Alexander_transcription.md` (the rest of the despatch not transcribed). Earlier: NOT HELD (403), read through a summarising tool only (CHAPTER_20_skeleton.md, J).
