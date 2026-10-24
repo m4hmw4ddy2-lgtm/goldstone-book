@@ -70,6 +70,12 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
   until Part Six (item 52); the governing-test pass on the three hearings (Chapters Nine to Eleven): DEFERRED to the
   full-draft pass (section 3).
 
+- (25 October 2026, for Rik, no hurry.) A LARGER PIECE ON BROADMOOR: whether, where and how long. Held for it: the
+  removal and reception warrants (8 October 1883); the admission register; the four censuses, 1891 to 1921, "married"
+  every time, and the same men listed with him (Thomas Luck and Henry White on every page); the 1935 inquest papers;
+  the closed case file and the early-access request (correspondence/Forster_RBA_letters_2025.md). Candidates: a
+  chapter of its own, a thread in Parts Four and Five, or Part Six in Rik's voice. Not yet decided.
+
 ## 2. OPEN QUESTIONS
 ### Albert and his family (added 2 October 2026)
 - "Heckenning Houzellon", Germany: Albert's stated birthplace (naval record, 1921 census). A real place, a garbling of one, or invented?

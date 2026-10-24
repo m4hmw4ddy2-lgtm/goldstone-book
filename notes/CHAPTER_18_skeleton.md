@@ -627,4 +627,9 @@ Warspite (Caird Library). Each movement shown before the next.
     Broadmoor kept him alive until 1935.
   - part_three_context_law_and_medicine.md's observation ("the reprieve is what kept her married ... TO VERIFY from the
     1857 Act") is now VERIFIED; noted there.
+- 25 October 2026: two lines setting William's 1891 and 1901 Broadmoor census entries ("married") beside Elizabeth's
+  as Madams's "wife" on the same nights were drafted and NOT USED (Rik: "doesn't seem worth it, if anything this
+  would fit into a larger piece on Broadmoor"). The four Broadmoor censuses (1891, 1901, 1911, 1921; transcribed/
+  Broadmoor_1891_1901_census_William_Gouldstone_transcription.md and the 1921 file) are HELD FOR A LARGER PIECE ON
+  BROADMOOR, place undecided (live_lists 1).
 
