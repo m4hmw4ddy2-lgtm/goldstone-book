@@ -38,7 +38,7 @@ At about nine o'clock William spoke to Wheatley for the third time.
 
 "I wish I had killed the little ones out of the way; I don't know whether I hit them once or twice; I have had this preying on my mind for a long time."
 
-He did not ramble or talk to himself. He was perfectly cool, Wheatley thought, and not showy in the least.
+He did not mumble or talk to himself. He was perfectly cool, Wheatley thought, and not strange in the least.
 
 At half past eight the next morning, Thursday the ninth of August, Folkard went to him again and told him that he was now charged with the murder of all five of his children.
 
