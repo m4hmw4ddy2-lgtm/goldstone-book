@@ -8,7 +8,7 @@ A girl was born in Beach Alley, Whitstable, on Monday the seventh of April 1890,
 
 The informant was the child's mother. The register entry gives her as "E. Madams", "Mother", of Beach Alley, and the father as William Madams, general labourer. In the mother's column she is "Elizabeth Madams late Goldstone formerly Stock".
 
-She was using the surname of the child's father.
+She was using the surname of the child's father, but she could not marry him, and no marriage between them is on record. William had told her, on the evening of the eighth of August, that she would be single again, and that he would be hanged. The reprieve had left him alive in Broadmoor, and her his wife. The law gave a wife no divorce for her husband's madness; that came only in 1937.
 
 The census taken on the night of Sunday the fifth of April 1891 found that the family had moved to 41 Harbour Street, and lived in two rooms. William Madams and Elizabeth were living as husband and wife: the enumerator entered him as head, a general labourer, born in Whitstable, and her as his wife. Below them came "Albert Goldstone", three years old, born in Lambeth and, in the column for his relation to the head of the family, "Stepson". The baby was "Lillian Madams", eleven months.
 
