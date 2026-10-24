@@ -41,7 +41,7 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 16 | 17 | Until Further Signification | Approved 10 Oct 2026; amended 13 and 21 Oct; closes Part Three; the second family tree follows it | CHAPTER_16_skeleton.md |
 | PART FOUR, ELIZABETH | | | | |
 | 17 | 18 | Illegitimate | Approved 10 Oct 2026 (stark on purpose) | PART_FOUR_plan.md; CHAPTER_17_skeleton.md |
-| 18 | 19 | Late Goldstone Formerly Stock | Approved 12 Oct 2026; ONE GAP: the Warspite sentences (Caird Library) | CHAPTER_18_skeleton.md |
+| 18 | 19 | Late Goldstone Formerly Stock | Approved 12 Oct 2026; new opening on the 1887-1890 gap, 24 Oct (Rik); ONE GAP: the Warspite sentences (Caird Library) | CHAPTER_18_skeleton.md |
 | PART FIVE, ALBERT | | | | |
 | 19 | 20 | Without Lights | Approved 15 Oct 2026; corrected 24 Oct ("by the Navy's reckoning", audit) | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
 | 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct; corrected 23 Oct (the Pioneer's crossing; the 1916 barracks spell, audit); 24 Oct (the Drake, the Courageous, the Pioneer's sailing; audit) | CHAPTER_20_skeleton.md |

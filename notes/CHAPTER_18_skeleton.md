@@ -589,3 +589,14 @@ Warspite (Caird Library). Each movement shown before the next.
   admission date (MH 94, read by Rik 10 October); the charge wording (the Folkestone Chronicle, Contradiction 117);
   the identity links (Elizabeth Goldston, Albert Madams, the 1896 summons) as ruled. The Warspite gap stands (the
   Caird Library lookup requested by Rik, 23 October; correspondence/).
+- 24 October 2026 (Rik: the jump from Lambeth, June 1887, to Beach Alley, April 1890, will make a reader think they
+  have missed something). DECIDE A's opening REVISED: Chapter Eighteen now opens on the gap, in Rik's wording (with
+  "the newspapers and the registers alike" for "both media and bureaucracy", and "appears" for "eventually
+  resurfaces"): "For nearly three years after Albert's birth in Lambeth, Elizabeth disappears from the newspapers and
+  the registers alike. When she appears again, it is on the Kent coast." Then Lilian's birth, unchanged. "Three years
+  after Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father." TRIMMED to "She was using
+  the surname of the child's father." "Nearly three years": 20 June 1887 to 7 April 1890, two years ten months. Rik
+  accepts the second rationed reminder in two chapters: the missing record is the point here. Nothing names her or
+  Albert between those dates (repo sweep, CHAPTER_17_skeleton.md); the next lead is live_lists 4, item 12 (LMA,
+  LABG/174/01: discharge date and destination).
+
