@@ -8,11 +8,13 @@ Their father was in the dock at Stratford.
 
 Craggs and Inspector Folkard brought him up at the court house that morning, before Mr Arthur Lister and Mr W. W. Glenny, charged with the murder of Charles, Herbert and Frederick by putting them into the water cistern at his residence, and with the murder of his two male infant children by striking them on the head with a hammer at the same time and place. Mr John W. Atkinson, a solicitor of Stratford, appeared on his behalf.
 
-The Daily Telegraph had a man on the press bench, and what he wrote there was in the paper the next morning.
+The Daily Telegraph printed an account of the hearing the next morning.
 
 "The prisoner is a fair man, with light-coloured hair and moustache, and is of medium height. During the whole of the case he remained apparently quite calm and collected, though he seemed careworn and restless. When he was first placed in the dock he looked round the court; then, folding his arms, he rested them on the top of the dock, and gazed anxiously at the magistrates on the bench. At times he listened attentively to the evidence which was given against him, and now and then smiled when certain actions of his were described by the witness."
 
-The witness was Ada. She had sworn the whole of it in front of a magistrate that same day, and now she gave it again, aloud and in order and in her own first person, from the washing of the two babies onward, while William rested his folded arms on the top of the dock and listened. She got as far as Frederick being taken off the bed and carried out of the room. There the Telegraph's man stopped taking down her words and instead added in a line of his own, in square brackets, in the middle of her evidence.
+The Walthamstow and Leyton Guardian had one thing more. He had been in the dock about two minutes when Mr Wells, the clerk to the magistrates, had him taken out again, to make way for a late application to transfer a public-house licence. When he was brought back, he "placed his hands together and then rested his head on his right hand."
+
+The witness was Ada. She gave her evidence aloud and in order and in her own first person, from the washing of the two babies onward. She got as far as Frederick being taken off the bed and carried out of the room. There the Telegraph's report stopped giving her words and added a line of its own, in square brackets, in the middle of her evidence.
 
 "Here the witness commenced to sob, and she seemed much affected all the subsequent time she was in the witness-box."
 
@@ -102,13 +104,13 @@ A crowd stood at Maryland Point station on the Saturday morning, waiting for a t
 
 They used the biggest of the three courts, and it was not enough: two or three hundred people remained outside.
 
-Two of his brothers, the Illustrated Police News reported, came to him in the cells of the court. The paper had a man there, and printed what they found: "He seemed calm and perfectly unconcerned at his position."
+Two of his brothers, the Illustrated Police News reported, came to him in the cells of the court, and he "seemed calm and perfectly unconcerned at his position."
 
 Four magistrates sat, Powell in the chair with Spicer, Glenny and Lister, who had been on the bench on the Thursday as well. Mr Atkinson appeared again for the defence. The charge was read over.
 
 "Upon being placed in the dock, [he] nodded complacently in recognition to Mrs. Hamilton, a lodger at 8, Courtenay-place, and nurse to Mrs. Gouldstone, but Mrs. Hamilton, who was seated with other witnesses at the side of the court facing the dock, did not appear to notice the nod of the prisoner."
 
-Ada was not asked to speak. Mr Wells, the clerk to the magistrates, read her deposition back to her aloud, the whole of it, while she sat at the side of the court facing him, and her own words came at her in another man's voice.
+Ada was not asked to give her evidence again. Mr Wells read her deposition back to her aloud, the whole of it, while she sat at the side of the court facing him, and her own words came at her in another man's voice.
 
 William looked at the bench, and then at the reporters, and then at the people in the court, and then round again. He leaned his full length as far as the width of the dock allowed, and looked round once more. His feet moved. The Guardian's journalist, watching William rather than the clerk, took it for marking time with the reading.
 
@@ -116,7 +118,7 @@ Then the constable brought out what had been taken from the house. Both items: t
 
 William looked round the court, pointed, and put his finger to his own throat. He had nothing at his neck.
 
-What he pointed at is the one thing the reporters in the room could not agree on. The Guardian had him point at the scarf, as much as to say, "Let me put it around my neck." The Police News, printing the same copy, had the hammer come out of a neck handkerchief and read the gesture as something smaller and flatter, as much as to say, "That is mine." The Chronicle's man was not looking at the hammer at all. He had the prisoner sit through the whole of the morning "with firmly compressed lips", stolid, until the moment Ada identified the cord, the twine she had watched him turning over in his hands on the fire guard while the children played; and when a policeman held that up, "the prisoner pointed significantly to his throat".
+What he pointed at is the one thing the reports do not agree on. The Guardian had him point at the scarf, as much as to say, "Let me put it around my neck." The Police News, printing the same copy, had the hammer come out of a neck handkerchief and read the gesture as something smaller and flatter, as much as to say, "That is mine." The Chronicle's man was not looking at the hammer at all. He had the prisoner sit through the whole of the morning "with firmly compressed lips", stolid, until the moment Ada identified the cord, the twine she had watched him turning over in his hands on the fire guard while the children played; and when a policeman held that up, "the prisoner pointed significantly to his throat".
 
 A scarf, a neck handkerchief, or the cord that had been round Charles's neck. Whichever of the three it was, he was pointing at something that goes round a throat, and then at his own.
 

@@ -42,7 +42,7 @@ Drowning a conscious child is not quick. He holds his breath for as long as he c
 
 They were dressed, and their clothes came out of the cistern sodden through. There were no marks of violence on any of them. Nothing about the arms, nothing about the trunk, no bruising, nothing broken, nothing to say they had been struck or wrestled with. Whatever William had to do to keep them under the water, it did not take enough force to mark a child.
 
-The one exception was Charles, the eldest, the one who had answered Ada about the chair. Round his neck was an indentation about the width of a cord. The string was still on him when Dr Twining, the first doctor there, reached the house, the noose in it lying loose against the skin, and Twining lifted it off and handed it to the constable. Gould did not think it had been tied tight enough, of itself, to suffocate him. It was not what killed Charles. Charles drowned, like his brothers.
+The one exception was Charles, the eldest, the one who had answered Ada about the chair. Round his neck was an indentation, apparently made by a piece of cord or stout string. The string was still on him when Dr Twining, the first doctor there, reached the house, the noose in it lying loose against the skin, and Twining lifted it off and handed it to the constable. Gould did not think it had been tied tight enough, of itself, to suffocate him. It was not what killed Charles. Charles drowned, like his brothers.
 
 The two biggest were hard work, by William's own account. Frederick, sixteen months old and not able to do much about any of it, went quickly. He left all three of them in the water and went back into the kitchen.
 
