@@ -811,3 +811,9 @@ Provisional: to be reviewed once the movements are drafted.
   the years in which Elizabeth dies. The chapter is now DRAFTED IN FULL, all decisions ruled; awaiting Rik's approval.
 - 15 October 2026: CHAPTER TWENTY APPROVED (Rik: "gimme the final"). Sent for upload with the changed notes. The Lloyd's List manoeuvres clips: Rik's own uploads (0010, part one; 0011, the page, higher resolution) replace the session's copies; references renamed.
 - 15 October 2026 (Rik, after approval): "Her new captain, H. A. Warren, came from the Hannibal, the battleship that had rammed the Prince George two years before." NOTE: at the collision the Hannibal's captain was George A. Giffard (Pall Mall Gazette, 19 Oct 1903); Warren is "late of the Hannibal" (Morning Advertiser, 16 Aug 1905), i.e. after Giffard. The sentence does not claim Warren was in command that night.
+- 24 October 2026 (independent audit, ind_F E2; RULED, Rik: "approved"): "That day came on the nineteenth of June 1904"
+  NOW "That day, by the Navy's reckoning, came on the nineteenth of June 1904": on his true birth date (19 June 1887)
+  he turned seventeen that day, and the chapter has him sixteen in October 1903. Checked, no change: the Jupiter
+  "joined at Chatham" and "manned" (North Star, 16 August 1905; his entry opens that day); the ships darkened against
+  torpedo boats (source recorded above); the Majestic "that same day" (Hampshire Telegraph's 15 July, and his sheet's
+  joining date the same day); the ships' doings as his (plan DECIDE 8, amended).

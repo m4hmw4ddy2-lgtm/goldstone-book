@@ -584,3 +584,8 @@ Warspite (Caird Library). Each movement shown before the next.
   Ship Warspite", Navy League Journal 9 (1904), p. 221; and the Departmental Committee on the Supply and Training of
   British Boy Seamen for the Mercantile Marine, Minutes of Evidence (HMSO, 1908), p. 401. Recorded in live_lists 4,
   item 45. The Caird Library reply is still awaited.
+- 24 October 2026 (independent audit, ind_E; checked, NO PROSE CHANGE): "the year before" (1890, then 1891: true by
+  calendar year); general paralysis as syphilis (Stoddart 1901; Noguchi and Moore 1913, recorded above); the Chartham
+  admission date (MH 94, read by Rik 10 October); the charge wording (the Folkestone Chronicle, Contradiction 117);
+  the identity links (Elizabeth Goldston, Albert Madams, the 1896 summons) as ruled. The Warspite gap stands (the
+  Caird Library lookup requested by Rik, 23 October; correspondence/).

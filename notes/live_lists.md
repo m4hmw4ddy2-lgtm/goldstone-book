@@ -43,9 +43,9 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 17 | 18 | Illegitimate | Approved 10 Oct 2026 (stark on purpose) | PART_FOUR_plan.md; CHAPTER_17_skeleton.md |
 | 18 | 19 | Late Goldstone Formerly Stock | Approved 12 Oct 2026; ONE GAP: the Warspite sentences (Caird Library) | CHAPTER_18_skeleton.md |
 | PART FIVE, ALBERT | | | | |
-| 19 | 20 | Without Lights | Approved 15 Oct 2026 | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
-| 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct; corrected 23 Oct (the Pioneer's crossing; the 1916 barracks spell, audit) | CHAPTER_20_skeleton.md |
-| 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); closes Part Five. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
+| 19 | 20 | Without Lights | Approved 15 Oct 2026; corrected 24 Oct ("by the Navy's reckoning", audit) | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
+| 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct; corrected 23 Oct (the Pioneer's crossing; the 1916 barracks spell, audit); 24 Oct (the Drake, the Courageous, the Pioneer's sailing; audit) | CHAPTER_20_skeleton.md |
+| 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); corrected 24 Oct (the younger Clarie; Mrs Stearne; audit); closes Part Five. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
 | PART SIX, CODA | | | Not begun; NEXT | MASTER_NOTES |
 
 Part Four and Part Five logs before 21 October 2026 (OLD numbering throughout):

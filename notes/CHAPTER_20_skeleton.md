@@ -606,3 +606,9 @@ read: to check on the saved pages before it is said.
   Murmansk". "Henry Hurt" checked ("Henry A. le F. Hurt"). No change to the prose. (Raised by the independent audit,
   23 October 2026, item 7: "Rear-Admiral" Kemp, "two days later" and "Henry" Hurt not in the repo. Now they are.)
 - 23 October 2026 (Rik: "Yes", on the independent audit, items 5 and 10): "By the new year the Pioneer had crossed to New Zealand" now "In the new year the Pioneer crossed": the Lyttelton Times of 10 January 1912 still expects her at Bluff on the 20th "from Australia"; she came into Bluff from the West Coast Sounds on 12 February (pioneer_transcriptions.txt). "Four months in the barracks" now "A little over three months": Pembroke I, 28 July to 3 November 1916 (ADM 188/383), 98 days. "Eighteen months" away from England (about seventeen) left as it stands. Time-led paragraph openings unchanged in number.
+- 24 October 2026 (independent audit, ind_F E4, E6, E7; RULED, Rik: "approved"): the Drake "for six weeks among the
+  islands" CUT to "for the islands" (the six weeks were the Lyttelton Times's forecast of 6 July; she was in at Auckland
+  from Suva on the 24th and sailed for Sydney on the 29th); "four light cruisers" NOW "three or four light cruisers"
+  (Newbolt); the Pioneer "at two o'clock the next afternoon she left her moorings at Gladstone Pier and sailed" NOW "the
+  next day she left her moorings at Gladstone Pier, and at two o'clock in the afternoon she sailed" (Lyttelton Times,
+  6 March 1912: moorings in the morning, sailed at 2 p.m.).

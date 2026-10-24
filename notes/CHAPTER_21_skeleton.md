@@ -647,3 +647,9 @@ chapter's last record of his public life moves from 1945 to 1953.
 - 22 October 2026 (Rik: "No, I like it as is"): the ending KEPT as first drafted ("On the headstone the three of them are Albert, Brian R. A. and Rennie, "wife & mother". It gives none of them a surname."); options (a)-(c) not taken.
 - 22 October 2026 (Rik): TITLE SETTLED: "I Shall Live to Fight Again" (his words, 3 November 1933). DECIDE N closed.
 - 22 October 2026 (Rik: "I approve it"): CHAPTER TWENTY-ONE APPROVED (about 1,550 words; title "I Shall Live to Fight Again"). Part Five complete. One check outstanding: the two death certificates against the ending (dates of death 2 Jan 1958 and 21 Jun 1962; Albert's place and age); if they disagree, the lines are corrected, not reopened.
+- 24 October 2026 (independent audit, ind_E E4, U16; RULED, Rik: "approved"): the 1939 Register, "Clarie a shop
+  assistant" NOW "the younger Clarie a shop assistant" (the daughter, Clarie I. jnr; two Claries in two sentences);
+  Mrs Stearne, "and Albert, she said, \"had put up a magnificent fight\"" NOW "and Albert had put up \"a magnificent
+  fight\"" (the Observer reports her in indirect speech). Checked, no change: the K.C., the medals and the Yard Craft
+  Service (sources in B); the grave, "wife & mother" and the death dates (Rik's rulings; the two certificates are the
+  check outstanding, live_lists 0); "76", "44", "19 Jun 86" as the documents give them.
