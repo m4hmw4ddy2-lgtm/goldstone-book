@@ -2,7 +2,7 @@ Chapter Nine
 
 OF A KINDLY NATURE
 
-Sergeant Bryant went back to Courtenay Place for the twins on the Thursday morning. He went on instructions from Inspector Craggs, who had charge of the case. The doctor saw them first, and then Bryant took them away to the mortuary, where their three brothers had lain since the evening before. By the middle of the morning all five of the Gouldstone children were reunited.
+Sergeant Bryant went back to Courtenay Place for the twins on the Thursday. He went on instructions from Inspector Craggs, who had charge of the case. The doctor saw them first, and then Bryant took them away to the mortuary, where their three brothers had lain since the evening before. That day all five of the Gouldstone children were reunited.
 
 Their father was in the dock at Stratford.
 
@@ -18,7 +18,7 @@ The witness was Ada. She gave her evidence aloud and in order and in her own fir
 
 "Here the witness commenced to sob, and she seemed much affected all the subsequent time she was in the witness-box."
 
-She finished it anyway, down to the money and the kiss and the hour each of the babies died. Then they asked her what William had been like before.
+She finished it anyway, down to the money and the kiss and the hour each of the babies died. Then she spoke of what William had been like before.
 
 "I have lived in the house for ten weeks, and know that the prisoner has always lived on good terms with his wife; but I noticed he appeared strange after the twins were born. He was not unkind to the children, he seemed fond of them all, but he had not looked at the twins."
 
@@ -148,7 +148,7 @@ Two doctors were attending her. They gave her no medicines, only quiet, and jell
 
 On the Sunday morning a man came to the door and was admitted.
 
-He was Joseph Blythe, and he was one of the fourteen men who had been sworn on the Friday to inquire into how her children had died. He had not gone with the coroner on the Friday. He came now, by himself, to the room on the first floor where she was lying eleven days after the birth of the twins, and he spoke to her.
+He was Joseph Blythe, and he was one of the fourteen men who had been sworn on the Friday to inquire into how her children had died. He had not gone with the coroner on the Friday. He came now to the room on the first floor where she was lying eleven days after the birth of the twins, and he spoke to her.
 
 What he said in that room is on record because her doctor wrote it down and sent it to the coroner. Dr Lyle's letter protested against the "scandalous and indelicate conduct" of a juryman who had gone to her house and there begun, in Lyle's own word for it, "roundly to abuse her." What Lyle set down in quotation, as the thing said to a woman eleven days out of childbed about the husband who had killed her children, was this:
 

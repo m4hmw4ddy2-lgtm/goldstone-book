@@ -2,7 +2,7 @@ Chapter Eight
 
 GONE TO GLORY
 
-On the road to the police station, William talked. Cheeseman did not have to ask him anything.
+On the road to the police station, William talked.
 
 "When I took my money last week I thought of buying a revolver to do it with, but I altered my mind, because I thought it would make too much noise. I had a hard job with the two biggest, but the other little bugger, I soon settled him. I thought it was getting too hot to have five bloody kids in about three years and a half."
 
