@@ -849,10 +849,16 @@ Book section: Part Three
 
 **1921 Broadmoor Census**
 `sources/images/broadmoor-documents/1921 census Broadmoor.jpg` (the duplicate in census-stuff/ deleted by Rik, 12 October 2026)
-Status: UNREAD
-Key content: William listed in Broadmoor census — 37 years into his detention (admitted 15 October 1883; census night 19 June 1921; corrected 12 October 2026 from "38").
-Book section: Part Three
-**ACTION: Read next session**
+Status: READ [corrected 24 October 2026: transcribed and checked 22 October, transcribed/Broadmoor_1921_census_William_Gouldstone_transcription.md; this entry still said UNREAD]
+Key content: William listed in Broadmoor census — 37 years into his detention (admitted 15 October 1883; census night 19 June 1921; corrected 12 October 2026 from "38"). Row 10: "William Gouldstone", 64, "Married", "Essex / Gt. Sanford".
+Book section: Part Five (Chapter Twenty-One)
+
+**1891, 1901 and 1911 censuses, Broadmoor (William Gouldstone)**
+`sources/images/census-stuff/William Gouldstone 1891 census.jpg` (RG 12/1008, p. 12) and `sources/images/census-stuff/William Gouldstone 1901 census.jpg` (RG 13/1164, p. 8); added by Rik, 24 October 2026
+Transcription: `transcribed/Broadmoor_1891_1901_census_William_Gouldstone_transcription.md` (William's lines checked 24 October 2026)
+Status: READ
+Key content: 1891, "William Gouldstone", Patient, M[arried], 34, Blacksmith, "Essex - Great Sanford", Lunatic; 1901, "W. G." (initials only, every inmate), Inmate, M, 45, Blacksmith, "Essex Great Sandford [?]". Married on both census nights; the same patients in the same order above him in both years. 1911 (added 25 October 2026; RG 14/6684, ED 5, schedule page 3, line 24; covers name "Broadmoor Asylum, Criminal Lunatic Asylum, Crowthorne"): "W. G.", Patient, 55, Married, Blacksmith, "Essex, Gt Sanford"; the same men again.
+Book section: Parts Four and Five (census nights beside Elizabeth's); Part Six
 
 **1891 Eliza Jane Madams Birth Certificate**
 `sources/images/birth-certificates/1891 Eliza Jane Madams Birth Cerificate.jpg`

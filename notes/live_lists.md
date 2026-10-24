@@ -300,6 +300,8 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
     occupiers of the cottages there in 1842), if TheGenealogist is taken again; and the 1841 and 1851 census pages
     for Hudson's Hill (neighbours; Elizabeth Carter). Rik's OS map of Hudson's Hill: sheet and date to record.
 
+74. ~~(Added 24 October 2026.) William at Broadmoor, 1911 census~~ FOUND 25 October 2026 (Rik): RG 14/6684, ED 5, p. 3, line 24, "W. G." (transcription, 1911 section). Was: (RG 14, Berkshire, Easthampstead / Sandhurst / Crowthorne): probably initials only, as in 1901; look for "W. G.", about 54, blacksmith, born Essex, after "C. G. R." in the run of patients (transcribed/Broadmoor_1891_1901_census_William_Gouldstone_transcription.md). 1891 and 1901 HELD (Rik, 24 October 2026).
+
 73. (Added 24 October 2026, independent audit.) George Ansell's burial: the Wethersfield burial register, D/P 119/1/7,
     p. 82 (Essex Ancestors), image. The index's 11 July 1858 is impossible against his death on 15 July (GRO death
     certificate, image checked 24 October 2026). Chapter One gives the death only, so nothing in the prose waits on

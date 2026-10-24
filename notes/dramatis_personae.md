@@ -9,6 +9,8 @@
 ### William Gouldstone (10 October 1856–1935)
 **The murderer. The pivot on which the whole book turns. NOT Rik's ancestor — the reason Rik exists.**
 
+**At Broadmoor, census by census (added 24 October 2026):** 1891, full name, "M", 34, Blacksmith, "Great Sanford"; 1901, "W. G.", "M", 45, Blacksmith; 1911, "W. G.", "Married", 55, Blacksmith, "Gt Sanford" (found by Rik, 25 October 2026; RG 14/6684); 1921, full name, "Married", 64, "Gt. Sanford". Married on every census night held. Transcriptions: transcribed/Broadmoor_1891_1901_census_William_Gouldstone_transcription.md and ..._1921_... .
+
 **Birth certificate obtained and checked directly, 10 September 2026 — exact date confirmed.** Born **10 October 1856, Great Sampford.** Father Thomas Gouldstone, Blacksmith. Mother Emily Gouldstone, formerly Willett, who was herself the informant, registering him on 3 November 1856. This fully matches every existing age reference: born October 1856 makes him 22 at his March 1879 marriage and 26 at the murders in August 1883, exactly as recorded on both the marriage certificate and in Savage's own Lancet letter. Third child of Thomas and Emily Gouldstone. Came to London and was taken on at the Falkirk Ironworks through William Graves (who had known him since birth). Promoted from blacksmith to whitesmith by Graves.
 
 **Physical:** 5ft 4in (IPN 18 Aug "not more than 5ft 4in"; Essex Weekly News 21 Sep "5ft. 4in.", image checked 8 Oct 2026; the Guardian's "5ft. 6in." is a misprint of the same paragraph; nobody's measurement, Contradiction 53). Stout build. Fair complexion. Light, curly hair — shorn on arrival at Chelmsford Prison. Slight moustache. Preserved "a great deal of boyishness" despite being 26. Did not smoke.
