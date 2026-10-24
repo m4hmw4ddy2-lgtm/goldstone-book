@@ -701,6 +701,12 @@ Status: READ (OCR text; s. XXVII and s. XVI checked on the page images, pp. 851-
 Key content: s. XXVII, the grounds for dissolution: the husband on adultery alone; the wife only on adultery with incest, bigamy, cruelty or two years' desertion, or on rape, sodomy or bestiality. No ground of insanity. s. XVI, judicial separation: adultery, cruelty, desertion.
 Book section: Chapter Eighteen (why Elizabeth could not marry Madams)
 
+**Matrimonial Causes Act 1937 (1 Edw. 8 & 1 Geo. 6, c. 57), King's Printer's text**
+`sources/pdfs/ukpga_19370057_en.pdf` (added by Rik, 24 October 2026; legislation.gov.uk scan)
+Status: READ (OCR text; s. 2 checked on the page image, p. 2, 24 October 2026)
+Key content: s. 2, new grounds for divorce for either spouse, including (d) "incurably of unsound mind and has been continuously under care and treatment for a period of at least five years"; s. 3, care and treatment includes detention "as a criminal lunatic". Royal assent 30 July 1937.
+Book section: Chapter Eighteen ("that came only in 1937")
+
 **Merkulova PhD Thesis, 2022**
 `sources/pdfs/Merkulova_P_PRHS_PhD_2022.pdf`
 Status: READ (fully readable — typeset text)

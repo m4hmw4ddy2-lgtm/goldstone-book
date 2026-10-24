@@ -616,10 +616,12 @@ Warspite (Caird Library). Each movement shown before the next.
   - Matrimonial Causes Act 1923: a wife may divorce for adultery alone; no insanity ground (secondary: "The Double Standard
     in the English Divorce Laws, 1857-1923", Law & Social Inquiry (Cambridge; abstract page only, author not
     recorded); Wikipedia).
-  - Matrimonial Causes Act 1937, s. 2 (new s. 176 of the 1925 Act), statute text read on vLex
-    (https://vlex.co.uk/vid/842482897), not saved to the repo: either spouse may petition on the ground that the other
-    "is incurably of unsound mind and has been continuously under care and treatment for a period of at least five
-    years immediately preceding the presentation of the petition". To save a copy to sources/pdfs/ when convenient.
+  - Matrimonial Causes Act 1937 (1 Edw. 8 & 1 Geo. 6, c. 57), 30 July 1937, s. 2 (new s. 176 of the 1925 Act),
+    King's Printer's text, sources/pdfs/ukpga_19370057_en.pdf, p. 2 (added by Rik; CHECKED ON THE PAGE IMAGE,
+    24 October 2026): either spouse may petition on the ground that the other "(d) is incurably of unsound mind and has
+    been continuously under care and treatment for a period of at least five years immediately preceding the
+    presentation of the petition". s. 3 defines care and treatment to include detention "as a criminal lunatic"
+    (for the notes only: the ground arrived two years after William's death and thirty-one after Elizabeth's).
   - No marriage and no divorce: live_lists 4, item 56, SETTLED 13 October 2026 (Rik: none found in any available
     index). "The reprieve" (not "the verdict"): the verdict carried death; the respite until further signification and
     Broadmoor kept him alive until 1935.
