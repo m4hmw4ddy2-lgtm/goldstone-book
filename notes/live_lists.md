@@ -37,7 +37,7 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 12 | 13 | Some Way of Business | Approved | CHAPTER_11_skeleton.md |
 | 13 | 14 | William, Are You Well? | Approved 4 Oct; revised, approved 7 Oct; rules pass 21 Oct; corrected 24 Oct (Sunderland, Savage, Bennett; audit) | CHAPTER_13_skeleton.md |
 | 14 | 15 | The Form of Their Verdict | Approved 7 Oct 2026; corrected 23 Oct ("until the verdict", audit) | CHAPTER_13_skeleton.md |
-| 15 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026; amended 21 Oct; extracts set as block quotations 22 Oct | CHAPTER_15_skeleton.md |
+| 15 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026; amended 21 Oct; extracts set as block quotations 22 Oct; corrected 24 Oct (Wood, Savage, the Guardian's count; audit) | CHAPTER_15_skeleton.md |
 | 16 | 17 | Until Further Signification | Approved 10 Oct 2026; amended 13 and 21 Oct; closes Part Three; the second family tree follows it | CHAPTER_16_skeleton.md |
 | PART FOUR, ELIZABETH | | | | |
 | 17 | 18 | Illegitimate | Approved 10 Oct 2026 (stark on purpose) | PART_FOUR_plan.md; CHAPTER_17_skeleton.md |

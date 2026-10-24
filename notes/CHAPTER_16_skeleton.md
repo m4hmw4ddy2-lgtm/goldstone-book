@@ -518,3 +518,13 @@ Broadmoor_warrants_reception_and_removal_8_Oct_1883_transcription.md; TNA HO 145
   exact date eleven days after the sentence (14 to 25 September); left unchanged, his to rule.
 - 21 October 2026 (Rik): "took a week" STANDS. The Home Secretary's week is the time to decide; the days to write and
   send the letter come after it, so the eleven days to the twenty-fifth are no conflict. Flag closed.
+- 24 October 2026 (independent audit, ind_D; checked, NO PROSE CHANGE): "took a week" (ruled 21 October); "the day to
+  which the hanging had been put back" (ruled 13 October); the Dispatch's "six or seven hours" (Contradiction 119,
+  ruled 21 October); Clarke against Gover (Contradiction 20); £35 14s. 4d. (the shillings by Graves's "£36", recorded
+  in the transcription header). CORRECTION TO THIS SKELETON: DECIDE 6 above calls the BMJ's last line "the only voice
+  to put the case in terms of money". It is not about money: it warns that officials removing untried prisoners to
+  asylums (the Benn case) could, under less scrupulous servants, send "the rich murderer ... to Broadmoor, and the
+  poor one to the gallows if the present duplex system ... were permitted to continue" (transcribed/BMJ_6_October_1883_
+  pp682-683_Transcription.txt). The chapter's sentence ("a warning about where the system it complained of could
+  lead") is accurate and stands; any later use of the line follows the source, not DECIDE 6's gloss.
+

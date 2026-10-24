@@ -511,3 +511,16 @@ G. APPLIED 11 October 2026. Was: live_lists.md, section 6: add the Times 26 Sep 
   inside the extract, in italics within square brackets: [His letter of the fifteenth followed.] (replacing "[Here the
   paper printed his letter of the fifteenth.]", which echoed her "Here is a letter"). In the repo, extracts are marked
   with ">" lines. Applies to any later text given whole.
+- 24 October 2026 (independent audit, ind_D U5, U6, U8; RULED, Rik: "approve 1-3"):
+  - Wood: "that William had chosen a madman's way of going about it" NOW "that he had \"adopted an irrational method to
+    accomplish what he desired.\"" (Times, 19 September; "a madman's way" was our gloss).
+  - Savage: after "I believe that he knew he was killing the children, and that the penalty for that act was death."
+    ADDED "He had also said that if William knew, \"I do not think it would have influenced his actions.\"" (Old Bailey,
+    cross-examination, two sentences earlier: "I should say he knew that the penalty for murder was death, but if he
+    knew I do not think it would have influenced his actions").
+  - The Guardian's count: "The Daily Telegraph, the Morning Post and the Daily News called for his state of mind to be
+    further examined." NOW "On the other side it counted the Daily Telegraph, the Morning Post and the Daily News, as
+    asking for his state of mind to be further examined." (the grouping is the Guardian's; the Post did not ask).
+  - Checked, no change: "burden" (ruled 1 October); "his sister and aunt" (Contradiction 115); the Criminal Appeal
+    Bill (Hansard pages recorded above); the workmen's "not allowed to put this evidence" (their own words, quoted).
+
