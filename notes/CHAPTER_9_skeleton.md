@@ -782,4 +782,12 @@ repeated Chapter Ten. Source check: the 11 August transcription was made from cl
     IPN prints the Guardian's copy).
   - STILL OPEN, for Rik: the same kind of phrasing stands in "The Guardian's journalist, watching William rather than
     the clerk" and "The Chronicle's man was not looking at the hammer at all".
+- 24 October 2026, further (audit ind_B 2.12 to 2.15; RULED, Rik: "approved"): "on the Thursday morning" NOW "on the
+  Thursday" and "By the middle of the morning all five ... were reunited" NOW "That day all five ..." (Bryant gives no
+  hour); "Then they asked her what William had been like before" NOW "Then she spoke of what William had been like
+  before" (no question printed in the Telegraph or the Times); Blythe "He came now, by himself," NOW "He came now"
+  (Guardian, 18 August: he "went to the house on Sunday morning", nothing on company). KEPT, under the press rule's
+  plain observation of a public scene: the grave filled in at three (Morning Post, Chapter Ten) and "crowds at all
+  three stations" (Morning Advertiser, Chapter Eleven). The burial service's first words: general knowledge, recorded
+  above.
 

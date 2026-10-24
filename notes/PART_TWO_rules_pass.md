@@ -276,4 +276,7 @@ or stout string" (no width). NOW "Round his neck was an indentation, apparently 
 string." The rest of ind_B section 2 for Chapters Six and Seven checked: ruled earlier (2.1 to 2.3), sourced (2.5
 Twining first: Honey and Gould; 2.6 Contradiction 29; 2.10 "accouchement fees"), press as press (2.9), or a sound
 inference left as it stands (2.8, the twins struck in the bedroom: locked in, hammer found there).
+CHAPTER EIGHT, one more (audit ind_B 2.11), RULED 24 October 2026 (Rik: "approved"): "Cheeseman did not have to ask
+him anything." CUT. Cheeseman says only "On the way to the station he said"; Folkard's "He volunteered all this
+statement to me" is about the station, not the road.
 

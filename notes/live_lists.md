@@ -29,9 +29,9 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | PART TWO, THE EVENING | | | | |
 | 6 | 7 | So Early Home | Drafted and assembled (retitled 6 Oct); rules pass 21 Oct; corrected 24 Oct (the cord; the bed-making sentence; the neck mark; audit) | MASTER_NOTES, Part Two; PART_TWO_rules_pass.md |
 | 7 | 8 | Uncommonly Fine Children | Drafted in full; rules pass 21 Oct; corrected 24 Oct (three sentences, audit) | same |
-| 8 | 9 | Gone to Glory | Drafted in full; rules pass 21 Oct; corrected 24 Oct (Wheatley's "mumble" and "strange", audit) | same |
+| 8 | 9 | Gone to Glory | Drafted in full; rules pass 21 Oct; corrected 24 Oct (Wheatley's "mumble" and "strange"; "Cheeseman did not have to ask" cut; audit) | same |
 | PART THREE, THE RECKONING | | | | |
-| 9 | 10 | Of a Kindly Nature | Drafted and settled; rules pass 21 Oct; corrected 23 Oct ("second time", audit); 24 Oct (the Telegraph and IPN reporters, the Guardian's dock paragraph added, four more sentences; audit) | CHAPTER_9_skeleton.md |
+| 9 | 10 | Of a Kindly Nature | Drafted and settled; rules pass 21 Oct; corrected 23 Oct ("second time", audit); 24 Oct (the Telegraph and IPN reporters, the Guardian's dock paragraph added, eight more sentences; audit) | CHAPTER_9_skeleton.md |
 | 10 | 11 | The Time Appointed for the Funeral | Drafted and assembled; rules pass 21 Oct | CHAPTER_9_skeleton.md |
 | 11 | 12 | At Another Place | Drafted in full and assembled; rules pass 21 Oct | CHAPTER_11_skeleton.md |
 | 12 | 13 | Some Way of Business | Approved | CHAPTER_11_skeleton.md |
