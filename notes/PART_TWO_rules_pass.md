@@ -267,4 +267,13 @@ CHAPTER SEVEN (chapters/CHAPTER_7.md), RULED 24 October 2026 (Rik: "approve all"
   two moments, Ada's at the door (her 9 and 10 August accounts) and the wife's in the bedroom (Cheeseman, all three).
 - Already settled, no change: "You wished ..." (Ada, coroner); the hammer (30); the first twin's death (31); "on their
   backs" (32); Charles undressed (press, logged); Grantham Robinson's visit (71).
+CHAPTER EIGHT, the swearing in Cheeseman's quotation: raised again 24 October 2026 (audit, item 4), options (a) keep,
+(b) the Proceedings' dashes, (c) a mix. Rik left the chapter unchanged: (a) STANDS, FINAL (third ruling, after
+18 September and 21 October). Not to be raised again.
+CHAPTER SIX, one more (audit ind_B 2.4), RULED 24 October 2026 (Rik: "approve"): was "Round his neck was an indentation
+about the width of a cord." Gould, coroner: "an indentation mark round the neck, apparently caused by a piece of cord
+or stout string" (no width). NOW "Round his neck was an indentation, apparently made by a piece of cord or stout
+string." The rest of ind_B section 2 for Chapters Six and Seven checked: ruled earlier (2.1 to 2.3), sourced (2.5
+Twining first: Honey and Gould; 2.6 Contradiction 29; 2.10 "accouchement fees"), press as press (2.9), or a sound
+inference left as it stands (2.8, the twins struck in the bedroom: locked in, hammer found there).
 

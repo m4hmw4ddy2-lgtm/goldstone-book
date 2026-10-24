@@ -757,3 +757,29 @@ repeated Chapter Ten. Source check: the 11 August transcription was made from cl
   "He had found her" -> "He had found Elizabeth" (she was not named in the paragraph); Gould, "After the Wednesday
   evening, he went through" -> "After his account of the Wednesday evening, he went through" (did not parse).
 - 23 October 2026 (Rik: "Yes", on the independent audit, item 11): "The third time she had sworn it in two days" now "The second time": Ada was sworn at Stratford on 9 August and at the inquest on 10 August (timeline dates table).
+- 24 October 2026 (independent audit, ind_B 1.7 to 1.9 and synthesis item 16; RULED by Rik: "We could incorporate [the
+  Guardian's dock passage], otherwise approve"):
+  - "The Daily Telegraph had a man on the press bench, and what he wrote there was in the paper the next morning." NOW
+    "The Daily Telegraph printed an account of the hearing the next morning." The Telegraph, Times and Western Times
+    print one reporter's text for 9 August (live_lists 6); nothing shows he was the Telegraph's.
+  - NEW PARAGRAPH, from the Walthamstow and Leyton Guardian, 11 August (its own report of the hearing; transcription
+    checked 30 September): "The Walthamstow and Leyton Guardian had one thing more. He had been in the dock about two
+    minutes when Mr Wells, the clerk to the magistrates, had him taken out again, to make way for a late application
+    to transfer a public-house licence. When he was brought back, he \"placed his hands together and then rested his
+    head on his right hand.\"" The Guardian's "not more than 5ft. 4in." NOT used (the height ruling, above). Mr Wells
+    is now introduced here; the 11 August paragraph's "Mr Wells, the clerk to the magistrates" shortened to "Mr Wells".
+  - Ada's paragraph: "She had sworn the whole of it in front of a magistrate that same day, and now she gave it again"
+    CUT (her deposition was taken on oath at this hearing, not before it) and "while William rested his folded arms
+    on the top of the dock and listened" CUT (the Telegraph's folded arms are "When he was first placed in the dock";
+    the Guardian's head on his hand is after). "the Telegraph's man stopped taking down her words and instead added in
+    a line of his own" NOW "the Telegraph's report stopped giving her words and added a line of its own". "She gave it
+    aloud" NOW "She gave her evidence aloud" (the "it" lost its antecedent with the cut).
+  - "The paper had a man there, and printed what they found:" CUT (the IPN shares copy with the Guardian, which has
+    "It is said"); the IPN's words now follow as its report.
+  - "Ada was not asked to speak." NOW "Ada was not asked to give her evidence again." (she identified the hammer:
+    Chronicle, 13 August; and the chapter's own "Ada added one thing of her own").
+  - "the one thing the reporters in the room could not agree on" NOW "the one thing the reports do not agree on" (the
+    IPN prints the Guardian's copy).
+  - STILL OPEN, for Rik: the same kind of phrasing stands in "The Guardian's journalist, watching William rather than
+    the clerk" and "The Chronicle's man was not looking at the hammer at all".
+
