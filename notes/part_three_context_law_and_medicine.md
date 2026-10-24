@@ -351,8 +351,9 @@ place only where the book is already at her silence (the governing test), stated
 
 **ADDED, AN OBSERVATION FOR PART FOUR OR SIX (inference, not for prose as argument):** the reprieve is what kept her
 married. Had William hanged, she would have been a widow and free to marry; reprieved and in Broadmoor, he lived
-until 1935, and no divorce was open to her on the ground of his insanity (TO VERIFY from the 1857 Act; no divorce
-search recorded, live_lists 4, item 56). Hence "late Goldstone", never "widow", until the 1906 certificate called her
+until 1935, and no divorce was open to her on the ground of his insanity (VERIFIED 24 October 2026: 1857 Act, s. XXVII, on the page,
+sources/pdfs/ukpga_18570085_en.pdf, pp. 851-852; insanity a ground only from the 1937 Act, s. 2; no divorce or
+marriage found, live_lists 4, item 56, settled 13 October; used in Chapter Eighteen, CHAPTER_18_skeleton.md, log). Hence "late Goldstone", never "widow", until the 1906 certificate called her
 the widow of a man she had not married.
 
 **ADDED, A FRAME FOR PART SIX (Rik's voice only):** three generations and the record. The state produced an archive

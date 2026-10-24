@@ -695,6 +695,12 @@ Status: READ 24 October 2026 (typeset text)
 Key content: "Delivered at the London Institution, February 28th, 1884"; quotes Day's direction "On the trial of William Gouldstone". No mention of the wife. JSTOR terms apply (acknowledgements).
 Book section: Chapter Seventeen (opening); Part Three context
 
+**Matrimonial Causes Act 1857 (20 & 21 Vict. c. 85), Queen's Printer's text**
+`sources/pdfs/ukpga_18570085_en.pdf` (added by Rik, 24 October 2026; legislation.gov.uk scan)
+Status: READ (OCR text; s. XXVII and s. XVI checked on the page images, pp. 851-852, 24 October 2026)
+Key content: s. XXVII, the grounds for dissolution: the husband on adultery alone; the wife only on adultery with incest, bigamy, cruelty or two years' desertion, or on rape, sodomy or bestiality. No ground of insanity. s. XVI, judicial separation: adultery, cruelty, desertion.
+Book section: Chapter Eighteen (why Elizabeth could not marry Madams)
+
 **Merkulova PhD Thesis, 2022**
 `sources/pdfs/Merkulova_P_PRHS_PhD_2022.pdf`
 Status: READ (fully readable — typeset text)

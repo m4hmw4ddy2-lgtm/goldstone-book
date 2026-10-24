@@ -599,4 +599,30 @@ Warspite (Caird Library). Each movement shown before the next.
   accepts the second rationed reminder in two chapters: the missing record is the point here. Nothing names her or
   Albert between those dates (repo sweep, CHAPTER_17_skeleton.md); the next lead is live_lists 4, item 12 (LMA,
   LABG/174/01: discharge date and destination).
+- 24 October 2026 (Rik: the place to show that William was wrong about "single again", and what the outcome had done;
+  then "no record of a marriage at all"; RULED "approved"): the one-line paragraph "She was using the surname of the
+  child's father." NOW: "She was using the surname of the child's father, but she could not marry him, and no
+  marriage between them is on record. William had told her, on the evening of the eighth of August, that she would be
+  single again, and that he would be hanged. The reprieve had left him alive in Broadmoor, and her his wife. The law
+  gave a wife no divorce for her husband's madness; that came only in 1937."
+  SOURCES AND CHECKS:
+  - "single again ... hanged": Cheeseman (coroner deposition and 18 August statement; Chapter Seven's quotation).
+  - Matrimonial Causes Act 1857 (20 & 21 Vict. c. 85), s. XXVII, Queen's Printer's text, sources/pdfs/
+    ukpga_18570085_en.pdf, pp. 851-852 (CHECKED ON THE PAGE IMAGES, 24 October 2026): a husband may petition on his
+    wife's adultery; a wife only on "incestuous Adultery, or of Bigamy with Adultery, or of Rape, or of Sodomy or
+    Bestiality, or of Adultery coupled with such Cruelty as without Adultery would have entitled her to a Divorce a
+    Mensa et Thoro, or of Adultery coupled with Desertion, without reasonable Excuse, for Two Years or upwards". No
+    ground of insanity; s. XVI (judicial separation) likewise: "Adultery, or Cruelty, or Desertion".
+  - Matrimonial Causes Act 1923: a wife may divorce for adultery alone; no insanity ground (secondary: "The Double Standard
+    in the English Divorce Laws, 1857-1923", Law & Social Inquiry (Cambridge; abstract page only, author not
+    recorded); Wikipedia).
+  - Matrimonial Causes Act 1937, s. 2 (new s. 176 of the 1925 Act), statute text read on vLex
+    (https://vlex.co.uk/vid/842482897), not saved to the repo: either spouse may petition on the ground that the other
+    "is incurably of unsound mind and has been continuously under care and treatment for a period of at least five
+    years immediately preceding the presentation of the petition". To save a copy to sources/pdfs/ when convenient.
+  - No marriage and no divorce: live_lists 4, item 56, SETTLED 13 October 2026 (Rik: none found in any available
+    index). "The reprieve" (not "the verdict"): the verdict carried death; the respite until further signification and
+    Broadmoor kept him alive until 1935.
+  - part_three_context_law_and_medicine.md's observation ("the reprieve is what kept her married ... TO VERIFY from the
+    1857 Act") is now VERIFIED; noted there.
 
