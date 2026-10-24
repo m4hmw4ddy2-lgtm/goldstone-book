@@ -27,9 +27,9 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 4 | new (old 4 and 5 merged) | One of Our Own Family | Approved 21 Oct 2026 | CHAPTER_4_skeleton.md |
 | 5 | old 6 | As Good as a Timepiece | Approved 21 Oct 2026 (old 6 with changes; formerly "The Deterioration") | PART_ONE_revision_plan.md |
 | PART TWO, THE EVENING | | | | |
-| 6 | 7 | So Early Home | Drafted and assembled (retitled 6 Oct); rules pass 21 Oct | MASTER_NOTES, Part Two; PART_TWO_rules_pass.md |
+| 6 | 7 | So Early Home | Drafted and assembled (retitled 6 Oct); rules pass 21 Oct; corrected 24 Oct (the cord; the bed-making sentence; audit) | MASTER_NOTES, Part Two; PART_TWO_rules_pass.md |
 | 7 | 8 | Uncommonly Fine Children | Drafted in full; rules pass 21 Oct | same |
-| 8 | 9 | Gone to Glory | Drafted in full; rules pass 21 Oct | same |
+| 8 | 9 | Gone to Glory | Drafted in full; rules pass 21 Oct; corrected 24 Oct (Wheatley's "mumble" and "strange", audit) | same |
 | PART THREE, THE RECKONING | | | | |
 | 9 | 10 | Of a Kindly Nature | Drafted and settled; rules pass 21 Oct; corrected 23 Oct ("second time", audit) | CHAPTER_9_skeleton.md |
 | 10 | 11 | The Time Appointed for the Funeral | Drafted and assembled; rules pass 21 Oct | CHAPTER_9_skeleton.md |

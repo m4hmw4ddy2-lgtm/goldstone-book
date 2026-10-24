@@ -562,6 +562,7 @@ reopened without a new document.
 | 115 | OPEN on the evidence; RULED for prose 7 Oct | Who went with Elizabeth to Chelmsford on 18 September: "his sister and aunt" (her statement) or "wife, mother, and sister" (Guardian, 22 Sep). Chapter Sixteen follows her statement. |
 | 116 | OPEN | Her statement written Wednesday 19 September; first printed 19 or 20 September. Placement unaffected (her writing day). |
 | 117 | SETTLED for prose 10 Oct | The sea boots: Whitstable Times and Folkestone Chronicle differ in detail; compatible on substance. Chapter Nineteen uses the Folkestone Chronicle only. |
+| 120 | OPEN on the evidence; RULED for prose 24 Oct | "Your other three children are in the cistern": in Ada's 9 Aug statement (image 0007), absent from her coroner deposition, DENIED by her at the Old Bailey ("he did not say anything about the other children"). Chapter Six keeps it (earliest sworn). |
 
 ### 1. WILLIAM'S WORDS ON OPENING THE BEDROOM DOOR
 Multiple sworn versions:
@@ -3494,3 +3495,17 @@ Monday 8 October, "in order that medical enquiry may be instituted as to his san
 paper's leader the same day (p. 5, "THE FATE OF GOULDSTONE") repeats "on Tuesday". CHAPTER_15_skeleton.md lists
 "the Home Office letter respiting to 8 October (date not given anywhere)": this is a date, from one Chelmsford paper.
 For Rik.
+
+### 120. "YOUR OTHER THREE CHILDREN ARE IN THE CISTERN": ADA AGAINST ADA (logged 24 October 2026)
+Raised by the independent audit of 23 October 2026 (ind_B, section 0); not logged before.
+- **Ada's witness statement, 9 August (the EARLIEST sworn account; image 0007, CHECKED 24 October 2026):** "He said to
+  his wife 'Your other three Children are in the Cistern'", immediately after "I have killed the Children I am a happy
+  man now".
+- **Ada's coroner deposition, 10 August:** no such line. Elizabeth asks Ada "to see after the other 3 children".
+- **Ada at the Old Bailey, 14 September:** "he said 'No, I am a happy man'—I passed into the bedroom to his wife, and
+  he passed me and went out into the kitchen—he did not say anything about the other children".
+- The Times of 10 August (one reporter's copy of the 9 August hearing) has Elizabeth: "He says he has killed the other
+  three children. Go and see, will you?" (Contradiction 28 area), which fits the 9 August line.
+RULED for prose, 24 October 2026 (Rik: "accept all proposals"): Chapter Six KEEPS the line, on the earliest sworn
+account (third standing rule). OPEN on the evidence: her trial denial stands in the record and is not narrated.
+

@@ -228,3 +228,27 @@ nine o'clock") kept: the clock is the structure of the night.
 - Ch20: eight openings earlier the same day (CHAPTER_20_skeleton.md), then "The official history records that early in
   July there was ...".
 WATCH when drafting: a run of paragraphs opening on a time is a tell (project instructions, NO UNNECESSARY COMPRESSION).
+
+## INDEPENDENT AUDIT, PART TWO (24 October 2026)
+Findings checked against the images and the Old Bailey text; RULED by Rik the same day ("accept all proposals").
+CHAPTER SIX (chapters/CHAPTER_6.md):
+- The cord. Was "Gould was clear that it had never been drawn tight enough to suffocate anybody." Gould, coroner
+  deposition: "I don't think the cord had been tied sufficiently tight of itself to cause suffocation." NOW "Gould did
+  not think it had been tied tight enough, of itself, to suffocate him."
+- The bed-making. Was "It had taken no longer than it took Ada, through the wall, to get Elizabeth out of the bed and
+  remake it." The tie to the bed-making (21 September) STANDS; "no longer than" (a duration no source gives; Ada at the
+  Old Bailey: "I might have been there twenty minutes before I saw the prisoner again") and "through the wall" (no
+  source places the bedroom against the scullery) went. NOW "It was done while Ada, in the bedroom, was getting
+  Elizabeth out of the bed and remaking it."
+- "Your other three children are in the cistern." KEPT, on Ada's 9 August statement (image 0007, checked 24 October);
+  her Old Bailey denial logged as Contradiction 120.
+- Already ruled or sourced, no change: "Shall I leave the room a minute?" and "Yes, do, my dear" (Contradiction 28);
+  the door words (Contradiction 1); "Didn't you tell Mr Graves?" (Ada, Old Bailey); "Oh, you wicked man" at the door
+  (Ada, 9 and 10 August); the cistern "the whole length of the room" (Folkard at the Old Bailey says only "the room").
+CHAPTER EIGHT (chapters/CHAPTER_8.md):
+- Was "He did not ramble or talk to himself. He was perfectly cool, Wheatley thought, and not showy in the least."
+  NOW "He did not mumble or talk to himself. He was perfectly cool, Wheatley thought, and not strange in the least."
+  Wheatley, image 0022: "Prisoner did not mumble and talk to himself" and "not strange in the least" (Rik's reading,
+  ruled 1 October 2026 and recorded in the transcription header and CHAPTER_11_skeleton.md, but NEVER CARRIED INTO
+  THIS CHAPTER: a second-standing-rule failure, found by the audit).
+
