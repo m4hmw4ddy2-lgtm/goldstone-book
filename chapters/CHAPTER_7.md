@@ -2,7 +2,7 @@ Chapter Seven
 
 UNCOMMONLY FINE CHILDREN
 
-Emma Clarke had been down to the street by then and called for the police, and had come back up to the bedroom, so that when Ada left Elizabeth and went back along the passage to the kitchen, Emma went with her. The kitchen was a small room. The three boys were lying on its floor, side by side in a row, their clothes and hair wet through, and there was no blood on any of them. William was standing there, and leaning over the children was a gentleman Ada took to be a chemist. He was Dr Twining. William said nothing, and nobody said anything to him. Ada went back to Elizabeth.
+Emma Clarke had been down to the street by then and called for the police, and had come back up to the bedroom, so that when Ada left Elizabeth and went back along the passage to the kitchen, Emma went with her. The kitchen was a small room. The three boys were lying on its floor, side by side in a row, their clothes and hair wet through, and there was no blood on any of them. William was standing there, and leaning over the children was a gentleman Ada took to be a chemist. He was Dr Twining. Ada did not hear him say anything, and she went back to Elizabeth.
 
 Out in St James's Street, William Cheeseman, police constable 86 N, had been on duty at about twenty minutes to six when he was told that a man was killing his children at number 8 Courtenay Place. He went there at once, up the stairs to the landing, and from the landing he could see into the kitchen. William was stooping over three children who lay side by side on the floor, with his coat and hat off and his shirt sleeves tucked up. The children appeared to be dead, their clothes drenched with water. As soon as he saw the constable coming towards the door, it was William who spoke first.
 
@@ -22,13 +22,13 @@ In the bedroom, Elizabeth herself had asked Ada to go and tell her husband that 
 
 And then: "You wished they were dead, and now they are."
 
-She made no answer to any of it. She was crying. "Have you any money?" she asked. She had the doctor to pay. He said, "Yes, a little," and put his hand in his pocket and gave her all that was in it: a two-shilling piece, or it may have been a half-crown, a shilling, and two pennies. Then he leaned over the foot of the bed and kissed her, and said simply, "Good-bye", and the constable took him away.
+She made no answer. She was crying. "Have you any money?" she asked. She had the doctor to pay. He said, "Yes, a little," and put his hand in his pocket and gave her all that was in it: a two-shilling piece, or it may have been a half-crown, a shilling, and two pennies. Then he leaned over the foot of the bed and kissed her, and said simply, "Good-bye", and the constable took him away.
 
 Ada remained behind.
 
 When he had gone, Ada returned to the kitchen. The three boys lay as they had lain, in a row on the floor, with their clothes still on them and sopping wet, and they all appeared to be dead. Somebody came and felt their pulses, and Ada went back to Elizabeth.
 
-James Honey, a reserve constable from the same station as Cheeseman, had been on duty in the High Street at about ten minutes to six when word reached him. He went first to fetch Dr Twining and then on to Courtenay Place. When he got there, Dr Twining was already in the kitchen, examining the bodies of the three children. It was Honey to whom the cord was handed. Honey could see that all three were dead. He went through to the Hamiltons' front room across the landing, where the two babies had been taken, and saw them there: one was bleeding from the mouth, and both their heads appeared to be severely injured. Between them, Dr Twining and the constable had removed Charles's clothes, thinking he might still be alive. Honey stayed until Dr Gould came.
+James Honey, a reserve constable from the same station as Cheeseman, had been on duty in the High Street at about ten minutes to six when word reached him. He went first to fetch Dr Twining and then on to Courtenay Place. When he got there, Dr Twining was already in the kitchen, examining the bodies of the three children. It was Honey to whom the cord was handed. Honey could see that all three were dead. He saw the two babies too: one was bleeding from the mouth, and both their heads appeared to be severely injured. Between them, Dr Twining and the constable had removed Charles's clothes, thinking he might still be alive. Honey stayed until Dr Gould came.
 
 One of the constables asked Ada about the hammer. Until then she had not noticed it. She went into the bedroom to look for it, into the room where the twins had been struck, and found it lying on the floor behind the door, near the dressing table: an ordinary large hammer, the kind for knocking in nails, which she had never seen before. She gave it to Cheeseman. There were no marks on it that she could see.
 
