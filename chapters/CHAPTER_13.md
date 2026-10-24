@@ -44,7 +44,7 @@ One of the other sisters had married John Byford. On a Saturday afternoon Willia
 
 For the father's side, the defence called Charles Gouldstone of Epping, a first cousin of Thomas's. His son William, a soldier, had been taken to the Brentford Lunatic Asylum in April 1880 and had died there. Cross-examined, he said his son had been subject to fits: "I think sometimes they were only drink."
 
-At Thaxted, Dr William Sunderland had attended William's mother at intervals for eight years, and in his opinion "she is in an unsound state of mind". Despondency was the form it took, and her sister, Mrs Andrews, suffered "from the same form of insanity, despondency." Cross-examined, he said that neither woman had been certified or confined as a lunatic. Both lived at home with their husbands.
+At Thaxted, Dr William Sunderland had attended William's mother at intervals for eight years, and in his opinion "she is in an unsound state of mind". Despondency was the form it took, and her sister, Mrs Andrews, suffered "from the same form of insanity, despondency." Cross-examined, he said that William's mother had never been certified or confined as a lunatic. Both women lived at home with their husbands.
 
 Re-examined, he said: "She is now continually restless and thinks her husband will fail in business, and thinks they will be turned out into the streets, and it makes him move about from place to place."
 
@@ -56,7 +56,7 @@ Cross-examined, he said that William earned twenty-five shillings a week. At abo
 
 For some years William's mate at the works had been Charles Cakebread. William had talked of throwing himself in front of a train if he could kill himself instantaneously, and down the lift-hole "if he thought he would kill himself right out without lingering afterwards". He had not made a joke of it: "he spoke seriously." He had been very despondent at times, and when Cakebread asked if there was anything he could do for him, he had complained of pains in his head and asked Cakebread to knock his brains out with a hammer. "That I treated as a joke and took no more notice of." Cross-examined, Cakebread said that it had been about six months before, at work, and that William "seemed to have a determination as if he meant it as a reality".
 
-His brother Bennett worked in the same shop. Cross-examined, Bennett said: "I do not know where he was on the Saturday, the day of the beanfeast; or on the Monday, Tuesday, or Wednesday; he was not at work—he did not tell me where he had been."
+His brother Bennett worked at the Ironworks too. Cross-examined, Bennett said: "I do not know where he was on the Saturday, the day of the beanfeast; or on the Monday, Tuesday, or Wednesday; he was not at work—he did not tell me where he had been."
 
 Another of the men, John Clark, had heard William on many occasions wish that he were dead, "and also that he wished some one would hit him on the head and kill him out of the way".
 
@@ -72,7 +72,7 @@ He had heard the evidence in court as well. "I have heard the evidence as to his
 
 He was about to be asked what conclusion he had reached, after hearing the evidence of insanity on both sides of the family, when, according to the Times, Mr Justice Day said that this seemed to him to be the very question the jury had to decide. A doctor might give his medical evidence, but not draw the conclusion that was theirs to draw.
 
-In answer to further questions, Savage spoke of the family. "The insanity on the mother's side having been proved, I should say the prisoner has a very great tendency to become insane, and if insanity, however remote, were proved on the male side, it would considerably increase the liability in the offspring." He told the court one thing more: the last patient at Bethlem to die there without being moved to Broadmoor had been a woman who had killed her whole family.
+In answer to further questions, Savage spoke of the family. "The insanity on the mother's side having been proved, I should say the prisoner has a very great tendency to become insane, and if insanity, however remote, were proved on the male side, it would considerably increase the liability in the offspring." According to the Times, he told the court one thing more: the last patient at Bethlem to die there without being moved to Broadmoor had been a woman who had killed her whole family.
 
 Mr Poland cross-examined him. Savage had seen the prisoner once, on the Thursday, the day before the trial, at the request of his solicitor, "for not more than a quarter or half an hour". He had known that he was to examine him as to the state of his mind, and that he was to be tried for murder. "I spoke about the gravity of his crime, that he had killed five children, but nothing about the trial—speaking alone from the conversation I had with him, and what I saw of him, I had no reason to doubt that he was a man of sound mind; or I might say rather to prove that he was a man of unsound mind; it was compatible with sanity or insanity."
 
