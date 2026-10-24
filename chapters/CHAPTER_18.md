@@ -2,11 +2,13 @@ Chapter Eighteen
 
 LATE GOLDSTONE FORMERLY STOCK
 
+For nearly three years after Albert's birth in Lambeth, Elizabeth disappears from the newspapers and the registers alike. When she appears again, it is on the Kent coast.
+
 A girl was born in Beach Alley, Whitstable, on Monday the seventh of April 1890, and named Lilian Florence Isabel. Her birth was registered on the nineteenth of May.
 
 The informant was the child's mother. The register entry gives her as "E. Madams", "Mother", of Beach Alley, and the father as William Madams, general labourer. In the mother's column she is "Elizabeth Madams late Goldstone formerly Stock".
 
-Three years after Lambeth, Elizabeth was on the Kent coast, using the surname of the child's father.
+She was using the surname of the child's father.
 
 The census taken on the night of Sunday the fifth of April 1891 found that the family had moved to 41 Harbour Street, and lived in two rooms. William Madams and Elizabeth were living as husband and wife: the enumerator entered him as head, a general labourer, born in Whitstable, and her as his wife. Below them came "Albert Goldstone", three years old, born in Lambeth and, in the column for his relation to the head of the family, "Stepson". The baby was "Lillian Madams", eleven months.
 
