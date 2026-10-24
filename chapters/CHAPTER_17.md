@@ -2,6 +2,8 @@ Chapter Seventeen
 
 ILLEGITIMATE
 
+William's case outlived the year. In January 1884 the Journal of Mental Science put it "first and foremost" among its notes of the quarter, and in February it came up in a lecture at the London Institution. In September, in New York, a paper on it was read to the Medico-Legal Society: "This case excited great interest in England." In all of it, Elizabeth is his wife. Not one of them calls her Elizabeth, or says what became of her.
+
 After the October of 1883, the record holds nothing of Elizabeth until a Sunday in June 1887.
 
 The register lies open across two pages, and the printed heading runs the width of both: "Register of Births in Lambeth Workhouse". Its columns run from the date of birth to the registrar's initials, and one of them asks whether the child is legitimate or illegitimate. The date column is headed for the year: 1887.
