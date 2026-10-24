@@ -40,7 +40,7 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 15 | 16 | As Happy as a Child at Play | Approved 9 Oct 2026; amended 21 Oct; extracts set as block quotations 22 Oct; corrected 24 Oct (Wood, Savage, the Guardian's count; audit) | CHAPTER_15_skeleton.md |
 | 16 | 17 | Until Further Signification | Approved 10 Oct 2026; amended 13 and 21 Oct; closes Part Three; the second family tree follows it | CHAPTER_16_skeleton.md |
 | PART FOUR, ELIZABETH | | | | |
-| 17 | 18 | Illegitimate | Approved 10 Oct 2026 (stark on purpose) | PART_FOUR_plan.md; CHAPTER_17_skeleton.md |
+| 17 | 18 | Illegitimate | Approved 10 Oct 2026 (stark on purpose); new opening paragraph, 24 Oct (the 1884 journals; Rik) | PART_FOUR_plan.md; CHAPTER_17_skeleton.md |
 | 18 | 19 | Late Goldstone Formerly Stock | Approved 12 Oct 2026; new opening on the 1887-1890 gap, 24 Oct (Rik); ONE GAP: the Warspite sentences (Caird Library) | CHAPTER_18_skeleton.md |
 | PART FIVE, ALBERT | | | | |
 | 19 | 20 | Without Lights | Approved 15 Oct 2026; corrected 24 Oct ("by the Navy's reckoning", audit) | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |

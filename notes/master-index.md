@@ -674,8 +674,26 @@ Book section: Background reference
 **Medico-Legal Journal, Vol.2 Issue 3, December 1884**
 `sources/pdfs/The_Medico-legal_journal._Volume_2,_Issue_3,_December_1884._(IA_s2600id1338017).pdf`
 Status: READ (fully readable — typeset text)
-Key content: Clark Bell's "Madness and Crime" uses Gouldstone as central case study alongside Guiteau assassination. Savage's letters reproduced in full. Case crossed the Atlantic within fourteen months of the murders.
-Book section: Part Three
+Key content: Clark Bell's "Madness and Crime" uses Gouldstone as central case study alongside Guiteau assassination. Savage's letters reproduced in full. Case crossed the Atlantic within fourteen months of the murders. "Read before the Medico-Legal Society of New York, September 24, 1884." Quoted in Chapter Seventeen: "This case excited great interest in England." (read 24 October 2026; the wife appears only in the 8 August quotations; Elizabeth not named).
+Book section: Part Three; Chapter Seventeen (opening)
+
+**Journal of Mental Science, January 1884, vol. 29, pp. 534-539: "Occasional Notes of the Quarter. The Case of Gouldstone."**
+`sources/pdfs/JMS_Jan_1884_vol29_pp534-539_The_Case_of_Gouldstone.pdf` (Cambridge, doi 10.1192/bjp.29.128.534)
+Status: READ 24 October 2026 (typeset text)
+Key content: opens "First and foremost among the Occasional Notes of the Quarter the case of Gouldstone calls for comment"; his history (drawing on Elizabeth's statement: church "as long as his wife could go with him"), the expert evidence, the legal dicta; the writer had interviewed him ("In the interview I had with him"). Elizabeth not named; nothing of her after 8 August.
+Book section: Chapter Seventeen (opening); Part Three context
+
+**Journal of Mental Science, January 1884, vol. 29, pp. 603-607: Notes and News, "William Gouldstone"**
+`sources/pdfs/JMS_Jan_1884_vol29_pp603-607_Notes_and_News_William_Gouldstone.pdf`
+Status: READ 24 October 2026 (typeset text)
+Key content: a full report of the trial (Poland's opening, the witnesses). The wife is "his wife" and "Mrs. Gouldstone" in the account of 8 August; Elizabeth not named; nothing of her after.
+Book section: Chapter Seventeen (opening)
+
+**J. C. Bucknill, "A Lecture on the Relation of Madness to Crime", BMJ, 15 March 1884, pp. 499-502 (JSTOR 25265890)**
+`sources/pdfs/Bucknill-LectureRelationMadness-1884.pdf`
+Status: READ 24 October 2026 (typeset text)
+Key content: "Delivered at the London Institution, February 28th, 1884"; quotes Day's direction "On the trial of William Gouldstone". No mention of the wife. JSTOR terms apply (acknowledgements).
+Book section: Chapter Seventeen (opening); Part Three context
 
 **Merkulova PhD Thesis, 2022**
 `sources/pdfs/Merkulova_P_PRHS_PhD_2022.pdf`

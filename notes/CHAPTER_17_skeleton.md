@@ -216,4 +216,25 @@ C5. master-index.md, line 649: "S. Frost (NOT S Frost as in earlier notes ...)" 
   document names her between October 1883 and 19 June 1887.- 10 October 2026, Rik's edits: "The book" -> "The register"; the catalogue of column headings cut to the span of
   the columns and the legitimacy column only. Mary Pratt kept (Rik). The Frost/Hearson ending kept.- 10 October 2026, Rik: the closing line on George Hearson cut. DECIDE F revised: the chapter now ends on the
   informant's column ("S. Frost", "Present at the birth", the infirmary as Frost's residence).
+- 24 October 2026 (Rik: the reader should feel what the silence was; then "yes, love it"): NEW OPENING PARAGRAPH,
+  before "After the October of 1883 ...": "William's case outlived the year. In January 1884 the Journal of Mental
+  Science put it \"first and foremost\" among its notes of the quarter, and in February it came up in a lecture at the
+  London Institution. In September, in New York, a paper on it was read to the Medico-Legal Society: \"This case
+  excited great interest in England.\" In all of it, Elizabeth is his wife. Not one of them calls her Elizabeth, or
+  says what became of her."
+  SOURCES (all in sources/pdfs/, read 24 October 2026; master-index, SECTION 3):
+  - JMS, January 1884, vol. 29, pp. 534-539, Occasional Notes of the Quarter, "The Case of Gouldstone": "First and
+    foremost among the Occasional Notes of the Quarter the case of Gouldstone calls for comment."
+  - JMS, January 1884, pp. 603-607, Notes and News, "William Gouldstone" (the trial report: "his wife", "Mrs.
+    Gouldstone").
+  - Bucknill, BMJ, 15 March 1884: "Delivered at the London Institution, February 28th, 1884".
+  - Clark Bell, "Madness and Crime", Medico-Legal Journal, vol. 2 no. 3, December 1884: "Read before the
+    Medico-Legal Society of New York, September 24, 1884"; "This case excited great interest in England."
+  CHECKED: none of the four names her Elizabeth (searched); none mentions her after 8 August (every "wife" read in
+  context; the JMS note's "as long as his wife could go with him" is from her own statement, about before).
+  Rik's first framing (public interest in William sated, so none in her) NOT used: no source gives a motive, and
+  interest in William did not end; the paragraph shows the contrast and leaves the reason. The why belongs to Part
+  Six, in Rik's voice. Weatherly (1894) and the 1917 Orange obituary kept for Part Six (linear rule). Rationed
+  reminders: this paragraph states what the 1884 texts contain, not what the record lacks; the sentence after it
+  remains the chapter's one statement of the gap.
 
