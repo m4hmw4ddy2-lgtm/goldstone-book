@@ -3,7 +3,7 @@
 Image: sources/images/broadmoor-documents/1921 census Broadmoor.jpg (6492 x 3012; a single institution schedule page,
 "Page 1."). Reference (RG 15 piece, schedule) NOT on the image and NOT recorded in the repo: to add.
 Transcription created 22 October 2026 (Chapter Twenty-One planning, CHAPTER_21_skeleton.md); none existed before.
-master-index.md still lists the image as UNREAD (correction proposed in the skeleton, not applied).
+[master-index.md listed the image as UNREAD until corrected 24 October 2026.]
 
 IMAGE CHECK (check-once rule): 22 October 2026 (Claude). The page read whole at reduced size; row 10 cropped and
 enlarged (columns a to f), every word certain. The other nine rows are other men and are NOT transcribed.
