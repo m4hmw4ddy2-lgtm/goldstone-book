@@ -730,3 +730,14 @@ September), a paragraph explaining the grand jury, Kerr's charge, the true bill 
 **Image checks done for this chapter (recorded in each transcription header):** Guardian 25 August (sermon and leader),
 1 September (leader; Workmen's Hall), 8 September (both letters), 15 September (whole item, "in a firm tone"); Times 12
 September. IPN covers read from the images.
+- 24 October 2026 (independent audit, ind_C), Chapters Eleven and Twelve, checked; NO PROSE CHANGE:
+  - The grand jury paragraph (Chapter Twelve): SOURCE RECORDED, Archbold, Pleading and Evidence in Criminal Cases
+    (transcribed/, the archive.org full text): the bill "must be found by a majority of the jurors, and that majority
+    must consist of twelve at least ... the number of persons on the grand jury cannot exceed twenty-three, nor be
+    less than twelve". It had not been recorded here before use.
+  - "the coroner had issued his warrant committing him for trial" (Chapter Eleven): sourced, the Guardian of 18 August
+    ("warrant committing the accused").
+  - Mrs Pelly (catalogue D/CAc 12/18, above); Gould's "speciality" (ruled 30 September); Forrest Fulton
+    (Contradiction 73); the visits (ruled): no change.
+  - The Graves notice (Chapter Twelve): the date line re-checked on the image, legible; header updated.
+

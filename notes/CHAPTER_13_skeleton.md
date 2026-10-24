@@ -723,3 +723,15 @@ point by point the same day.
 Also the same day, Chapter Three (Rik): the great-uncle sentence cut (press only, Times 1 October; Contradiction 104);
 "His aunt" made "Thomas's own aunt" (Thomas: "my father had a sister who wore a strait jacket").
 - 23 October 2026 (Rik: "Yes", on the independent audit, item 3), Chapter Fourteen: "but apart from his plea, no report has him say a word" now "but until the verdict no report has him say a word beyond his plea": the chapter itself later quotes the Essex Weekly News, "The Prisoner: I am not guilty." (and the Times's "had not"; Contradiction 93).
+- 24 October 2026 (independent audit, ind_C; RULED, Rik: "approved"), Chapter Thirteen:
+  - Sunderland: "neither woman had been certified or confined as a lunatic" NOW "William's mother had never been
+    certified or confined as a lunatic. Both women lived at home with their husbands." (Proceedings: the mother "has
+    not been certified nor been confined"; of Mrs Andrews only that she "lives at home with her husband"; the Times's
+    "neither ... certified" not used.)
+  - Savage's last patient at Bethlem: "According to the Times," added (Times only; not in the Proceedings).
+  - "His brother Bennett worked in the same shop." NOW "His brother Bennett worked at the Ironworks too." (Proceedings:
+    "I am employed at the Falkirk Ironworks".)
+  - Checked, no change: Emily the eldest (Thomas: "the eldest is a daughter"; her baptism, 5 March 1854, before
+    Robert's, 7 January 1855); Poland's "I shall be hung" (ruled 7 October); Bethlem and Kennard (ruled); the
+    grouping of the defence witnesses (ruled; no sequence stated).
+
