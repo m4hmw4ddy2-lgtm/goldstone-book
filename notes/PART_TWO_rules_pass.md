@@ -251,4 +251,20 @@ CHAPTER EIGHT (chapters/CHAPTER_8.md):
   Wheatley, image 0022: "Prisoner did not mumble and talk to himself" and "not strange in the least" (Rik's reading,
   ruled 1 October 2026 and recorded in the transcription header and CHAPTER_11_skeleton.md, but NEVER CARRIED INTO
   THIS CHAPTER: a second-standing-rule failure, found by the audit).
+CHAPTER SEVEN (chapters/CHAPTER_7.md), RULED 24 October 2026 (Rik: "approve all"):
+- Was "William said nothing, and nobody said anything to him." Ada, 9 August statement: "The prisoner was present. I
+  didn't hear him say anything." NOW "Ada did not hear him say anything, and she went back to Elizabeth." (joined to
+  the next sentence, which also opened on "Ada").
+- Was "He went through to the Hamiltons' front room across the landing, where the two babies had been taken, and saw
+  them there". Honey's statement (checked 30 September): "I then saw the other two children", no place. Only Gould
+  (about 6 p.m.) puts the twins in the front room; his paragraph already does. NOW "He saw the two babies too". Who
+  moved the twins, and when, is in no source and is not narrated.
+- Was "She made no answer to any of it." Cheeseman: she "made no reply to him when he said he had murdered all the
+  children" (18 August); "You wished they were dead" is Ada's (coroner), not heard by Cheeseman. NOW "She made no
+  answer."
+- The audit WRONG on two points, no change: the caution is direct speech in Cheeseman's 18 August statement ("I said,
+  'What you say will be used in evidence against you.'", image 0013, checked 30 September); "Oh, you wicked man" is
+  two moments, Ada's at the door (her 9 and 10 August accounts) and the wife's in the bedroom (Cheeseman, all three).
+- Already settled, no change: "You wished ..." (Ada, coroner); the hammer (30); the first twin's death (31); "on their
+  backs" (32); Charles undressed (press, logged); Grantham Robinson's visit (71).
 
