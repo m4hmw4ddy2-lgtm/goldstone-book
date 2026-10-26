@@ -74,7 +74,7 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
   removal and reception warrants (8 October 1883); the admission register; the four censuses, 1891 to 1921, "married"
   every time, and the same men listed with him (Thomas Luck and Henry White on every page); the 1935 inquest papers;
   the closed case file and the early-access request (correspondence/Forster_RBA_letters_2025.md). Candidates: a
-  chapter of its own, a thread in Parts Four and Five, or Part Six in Rik's voice. Not yet decided.
+  chapter of its own, a thread in Parts Four and Five, or Part Six in Rik's voice. Not yet decided. [25 October 2026, Rik: "a chapter of its own or included in the psychology chapter" (the medical and legal chapter). Catch: combined at the end of Part Three, it runs 1891-1921 before Lambeth (1887), a deliberate break with the linear rule; or kept separate, Broadmoor later (e.g. between Parts Five and Six) to 1935. To decide once the medical chapter's sources are in (live_lists 4, items 11 and 53).] RULED 25 October 2026 (Rik): ONE CHAPTER, the medical and legal argument, placed where it falls in the timeline (end of Part Three), and allowed to end on William's later years in Broadmoor. Research opened: notes/medical_legal_chapter_research.md (the debate, how long it ran, its outcome).
 
 ## 2. OPEN QUESTIONS
 ### Albert and his family (added 2 October 2026)
