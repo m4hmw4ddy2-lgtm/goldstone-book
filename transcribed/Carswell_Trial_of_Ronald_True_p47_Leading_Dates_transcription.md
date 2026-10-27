@@ -2,7 +2,7 @@
 
 **Source:** Donald Carswell (ed.), *Trial of Ronald True*, Notable British Trials (Edinburgh and London: William
 Hodge). EDITION NOT STATED on the page held (first edition 1925; new edition 1950): TO RECORD. Page 47 (number at the
-foot). Image: sources/pdfs/Carswell_Trial_of_Ronald_True_p47_Leading_Dates.png (Rik's screenshot, 27 October 2026).
+foot). Image: sources/images/Carswell_Trial_of_Ronald_True_p47_Leading_Dates.png (Rik's screenshot, 27 October 2026).
 
 **Scope:** the 1922 entries only (the rows that bear on Chapter Twenty-Two). Earlier rows (1891-1921) not transcribed.
 
