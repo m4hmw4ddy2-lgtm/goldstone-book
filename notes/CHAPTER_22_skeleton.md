@@ -267,4 +267,25 @@ All as recommended (A (a), C, D (a), E, F, G (a), H, I, J (a), L (a), M, N, O, P
 - K: obtain movement three's sources NOW, before drafting (live_lists 4, items 75 to 79). DONE 27 Oct (75-77 obtained; 78, 79 not needed); one new source raised (MPA 1896).
 
 ## DRAFTING LOG
-(none yet)
+- 27 October 2026: FRAME AND MOVEMENT ONE DRAFTED (chapters/CHAPTER_22.md, held locally; about 1,050 words).
+  Read first: rik-voice-writing-gate.md, AI_Writing_Tells_Gate.md, My book.txt (extract), CHAPTER_16.md in full.
+  Sources: inquest papers (COR/R1/7/3, archivist-checked); JMS Oct 1883 pp. 444-451 (checked); Orange's address, JMS
+  Oct 1883, pp. 347-348 (the "doubtful cases" passage and Stephen's letter: CHECKED against the images today; the
+  address begins at p. 329, so the file name "pp299-354" is wrong; it holds pp. 329-354); BMJ 27 Oct 1883
+  (checked); The Times 19 Oct 1883 (Cole: tried Thursday 18 October before Denman; son Thomas; checked 9 Oct);
+  Bucknill 15 March 1884 (Denman's words to Cole); Ch16 (examination after respite; Orange and Clarke).
+  Unattributed press lines: NONE.
+  Not used: the Cole trial's Wandsworth chaplain saying, cross-examined, that he was "not aware that a convict of the
+  name of Gouldstone was under my care" (Old Bailey website text, NOT image-checked): William's name raised at
+  Cole's trial itself. An option for Rik.
+  Caution recorded: Orange's "in doubtful cases, not to pass sentence" was written of sentences of penal servitude
+  and imprisonment, not of death; the prose gives that context.
+
+- 27 October 2026 (Rik: "do 3, write the whole chapter ... I can then edit offline"): WHOLE CHAPTER DRAFTED (about
+  2,800 words), held for Rik's offline edit. Movement one redrafted earlier on Rik's notes (two voices, anchored on
+  Day's question). The Times leader of 19 Oct 1883 quoted FROM THE JMS REPRINT, attributed as such (option 3; original
+  still wanted, live_lists 81). Facts to confirm in Rik's edit: (1) "That never became law" (Atkin's impulse rule):
+  secondary only (research note; Barry 1943); (2) Nicolson's post not stated in the prose (unverified); (3) Bucknill
+  "once superintendent of a county asylum" rests on his own words in July 1883 (county not named); (4) Cullingworth
+  "a physician at St Thomas's Hospital" rests on his own p. 77 ("this hospital"). One rationed reminder kept (Luck and
+  White); the True "never met" sentence cut. The 1884 three-yearly review: law only, no count.
