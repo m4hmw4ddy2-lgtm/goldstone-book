@@ -1,5 +1,13 @@
 # THE MEDICAL AND LEGAL CHAPTER: RESEARCH (opened 25 October 2026)
 
+**27 October 2026: PLACEMENT SUPERSEDED.** The 25 October ruling below (end of Part Three) was replaced on 26 October
+2026 (Rik): the chapter stands between Parts Five and Six, retrospective, 1883 to 1935. The plan, the findings from the
+primary texts and the decide points are now in notes/CHAPTER_22_skeleton.md, which governs. This file stays as the
+research record. Updates of 27 October: the two Acts are HELD (section 2, first two items); Bucknill is held in BOTH
+parts; the 1883 meeting, the January 1884 notes, Bucknill, the 1894 discussion, Cullingworth and the BMJ of 27 Oct
+1883 are transcribed and checked (see the skeleton, WHAT WAS READ). Several summaries in section 3 below are corrected
+there (Pitt Lewis; "the journal" = Tuke; Bucknill's second half).
+
 RULING (Rik, 25 October 2026): the chapter goes where it falls in the timeline (the argument after the trial,
 October 1883 onward, at the end of Part Three), and it may END with William's later trajectory in Broadmoor (a ruled
 exception to the linear rule, as the Prologue is). Broadmoor folds into it rather than standing alone. Needed first:
@@ -23,8 +31,8 @@ Items marked TO VERIFY are from general knowledge, not yet sourced.
 - Scholarship: Conley, Certain Other Countries (project_muse PDF); Merkulova PhD 2022.
 
 ## 2. STILL TO OBTAIN (primary)
-- Trial of Lunatics Act 1883 (46 & 47 Vict. c. 38): text (live_lists 4, item 11).
-- Criminal Lunatics Act 1884 (47 & 48 Vict. c. 64): text; s. 2(4) read on vLex 25 October 2026 (below), not saved.
+- ~~Trial of Lunatics Act 1883 (46 & 47 Vict. c. 38): text (live_lists 4, item 11).~~ HELD (uploaded 25 Oct); s. 2 transcribed 27 Oct 2026.
+- ~~Criminal Lunatics Act 1884 (47 & 48 Vict. c. 64): text~~ HELD (uploaded 25 Oct); ss. 2 and 4 transcribed 27 Oct 2026 (Royal Assent 14 August 1884, on the Act).
 - Savage, "The Gouldstone Murder, in its relation to the Plea of Insanity in Criminal Cases", BMA South London District
   Branch, October 1883 (BMJ 1883 vol. 2, p. 942; live_lists 4, item 53), and the branch's resolution.
 - Tuke, JMS January 1884, pp. 351-354 (Cole) [cited in Bell].

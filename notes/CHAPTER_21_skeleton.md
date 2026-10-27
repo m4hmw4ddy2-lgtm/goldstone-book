@@ -653,3 +653,44 @@ chapter's last record of his public life moves from 1945 to 1953.
   fight\"" (the Observer reports her in indirect speech). Checked, no change: the K.C., the medals and the Yard Craft
   Service (sources in B); the grave, "wife & mother" and the death dates (Rik's rulings; the two certificates are the
   check outstanding, live_lists 0); "76", "44", "19 Jun 86" as the documents give them.
+
+## CUT MAP, PROPOSED 27 October 2026 (for Rik's ruling of 26 October: Part Five ends with Brian, May 1937)
+Paragraphs counted in chapters/CHAPTER_21.md as it stands (approved 22 Oct; corrected 24 Oct), body paragraphs only.
+NOTHING CUT YET: the chapter is unchanged until Rik rules on this map.
+| Para (opening words) | Words | Goes to |
+|---|---|---|
+| 1 "Three weeks after his discharge" to 9 "Labour put him up again" (1919 to Nov 1934) | about 1,050 | STAYS in Ch21, unchanged. The title's source ("I shall live to fight again", 1933) is among them |
+| 10 "At Broadmoor, in the asylum's infirmary" (William's death and the inquest, Jan 1935) | 160 | MOVES to Ch22, the opening frame (DECIDE A). Not repeated in Ch21 |
+| 11 "That Monday, the day of the inquest" (Evening Standard) | 76 | MOVES to Ch22, movement four (as press) |
+| 12 "Brian died at St Bartholomew's Hospital" (May 1937) | 80 | STAYS, except its last sentence ("In June, Vera, who was sixteen, passed the Civil Service examination...") which MOVES to Part Six |
+| 13 "Albert was secretary of the Luton Working Men's Club" (1939) to 18 "Albert died at All Saints Hospital" (1962) | about 535 | MOVE to Part Six as source material (notes/PART_SIX_source_from_CHAPTER_21.md, verbatim, with their sourcing; to be rewritten, not pasted) |
+Result: Ch21 about 1,050 + 60 = about 1,110 words, ending on Brian.
+Consequences: (a) Ch21 no longer mentions William's death at all; the reader first learns of it in Ch22's frame, which
+is now its natural place. (b) Clarie's and Albert's deaths, the shared grave and the headstone move to Part Six; the
+"ONE CHECK OUTSTANDING" (the two death certificates against the ending) moves with them. (c) The line "the grave where
+Brian had been buried twenty years before" goes to Part Six. CORRECTED 27 Oct 2026 (Rik queried it): Brian's burial
+IS held: transcribed/Chatham_cemetery_burials_Goldstone_plot_10_534_transcription.md (KFHS burial transcript): buried
+20 May 1937, Palmerston Road Cemetery, grave 10/534, "s/o Albert Goldstone (Shipwright)" [sic: Contr. 127 proposed],
+grave dug ten feet; the stone, "Brian R. A.", no surname (KFHS MIs). Grave bought by Albert (Rik's ruling, 22 Oct;
+when bought not shown). Claude's earlier statement that it was not held was wrong: it relied on live_lists 4, item
+59, which was out of date, without grepping the repo (standing rule five).
+DECIDE R (for Rik; REVISED 27 Oct 2026 after the correction above). The new last line. (a) End on the registration:
+"...the registrar entered the boy as 'Son of Albert Goldstone Rigger H.M.D.'" (b) Add the burial: buried on the
+twentieth of May in Palmerston Road Cemetery, in a grave dug to ten feet (the depth, which left room for the later
+burials, is the register's; the reason is NOT stated in it and must not be). (c) End on the burial without the depth.
+RECOMMEND (b) or (c) over (a): the burial closes the boy's life rather than his paperwork, and the grave Part Six
+returns to (Clarie 1958, Albert 1962) is opened here. The depth is a fact that says more than it states; whether to
+keep it is Rik's call. The stone and its missing surname stay for Part Six, when all three names are on it.
+Final wording to be edited with Rik, per the handover.
+
+RULED 27 October 2026 (Rik): cut map AGREED; Ch21 stays a chapter of its own (not merged into Ch20; Rik asked, Claude
+advised against: length is within the book's range, and Ch20's "Invalided / Org Heart Disease" ending would be lost).
+DECIDE R: (b), the burial WITH the depth. NOTE (Rik's question): Ch10 already has the five children's grave: "The grave
+was in the third-class portion of the cemetery, and it was ten feet deep. All five of them went into it together."
+(Contradiction 52, settled at ten feet on the Guardian and the Morning Post, press, 24 Sept.) Brian, Elizabeth's
+grandson, goes into a ten-foot grave fifty-four years later (register transcript, not press). The echo is to be LEFT
+UNREMARKED: no narratorial link, no "again", no repetition of the 1883 phrasing beyond the plain words the fact needs.
+The 1937 depth carries no stated reason (the register gives none).
+- 27 October 2026: CUT MADE (cut map, DECIDE R (b)). Rik edited the last paragraph (cut "and the family had moved by
+  then to 33A Connaught Road"; the address goes to Part Six). CHAPTER TWENTY-ONE RE-APPROVED in its cut form (Rik
+  supplied the final paragraph); about 770 words; ends "The grave was dug to ten feet." Closes Part Five.

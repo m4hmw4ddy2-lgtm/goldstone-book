@@ -47,12 +47,13 @@ Nicolson's obituary of Orange (BMJ 1917); Shuttleworth (no Gouldstone); Ward, "T
 Conley; Merkulova.
 
 ## SOURCES NOT HELD (needed before the movement named)
-1. Criminal Appeal Act 1907: the text, Royal Assent date (movement three).
-2. Ronald True: a primary account of the conviction (May 1922), appeal and reprieve dates; the research note's dates
-   are from Wikipedia (movement three).
-3. Hansard, HC Deb 13 June 1922, Shortt on True: the column, to cite the held text (movement three).
-4. Committee on Insanity and Crime (Atkin), Report, Cmd. 2005 (1923/24): its remit and the recommendation's wording
-   (Wellcome Collection, works/hud8u3z3) (movement three).
+(Items 1 to 4 OBTAINED 27 October 2026: see findings 12 to 15.)
+1. ~~Criminal Appeal Act 1907~~ HELD: transcribed/Criminal_Appeal_Act_1907_extracts_transcription.md.
+2. ~~Ronald True's dates~~ HELD: Carswell, p. 47 (transcribed/Carswell_Trial_of_Ronald_True_p47_Leading_Dates_transcription.md).
+3. ~~Hansard column~~ HC Deb 13 June 1922, vol. 155, cc. 201-5 (transcribed/Hansard_HC_13_June_1922_vol155_cc201-5_Shortt_Reprieve_of_True.txt).
+4. ~~Atkin report~~ HELD: transcribed/Atkin_Committee_Insanity_and_Crime_Report_Cmd2005_1923_extracts_transcription.md.
+4a. NEW, 27 Oct: the Medico-Psychological Association's committee report of 1896 ("to the insane person justice is
+   done"), JMS 1896, and its membership (finding 14). Wanted before movement three leans on it.
 5. The volume year of St Thomas's Hospital Reports vol. XXIII (movement two; not needed if the prose dates
    Cullingworth by his reading, 17 January 1895: DECIDE J).
 6. Carr's treatise (1890?) naming Gouldstone and Cole: not in the repository anywhere. Out unless obtained (DECIDE N).
@@ -114,6 +115,30 @@ Conley; Merkulova.
     printings found). The draft's account of him is supported, pending the Hansard column.
 11. **Corrections to my own report of 27 October:** the 1911 census WAS already transcribed and checked (25 October,
     in the 1891-1901 file); the draft's "fifty-five" is right. Tuke was at Dove's trial. One resolution in 1883.
+12. **Criminal Appeal Act 1907**, Royal Assent 28 August 1907. s. 5(4): the court could itself find an appellant
+    "guilty of the act" but insane and order him kept as a criminal lunatic, "as if a special verdict had been found";
+    s. 19 leaves the prerogative of mercy alone, so the post-sentence medical inquiry stayed with the Home Secretary.
+13. **True (Carswell, p. 47):** trial begun 1 May 1922; guilty and sentenced 5 May; appeal dismissed 25 May; 8 June
+    "Sentence respited on the ground of insanity. True removed to Broadmoor." ("respited", as for William.) Hansard,
+    16 July 1931 (Clynes): "certified insane while under sentence of death and was removed to Broadmoor", still held
+    there in July 1931.
+14. **The Atkin Committee (Cmd. 2005)** was appointed 10 July 1922, a month after True's respite, and reported
+    1 November 1923 (not "1923/24"). Its report DOES NOT MENTION TRUE: the link is timing and remit only, not to be
+    stated as cause. It recommended the irresistible-impulse rule ("in substance deprived of any power to resist";
+    not enacted) and "not guilty on the ground that he was insane" (cf. 1964). But on the procedure William and True
+    went through it found the opposite of the doctors of 1884-95: the jury's finding reversed in private was "So far
+    from this being objectionable we think it essential"; "The procedure under the sub-section is satisfactory and
+    does not require amendment"; a panel of experts "unnecessary". And it quoted the MPA's OWN committee of 1896:
+    "from the beginning to the end of the proceedings care is taken that justice should be done", no amendment of the
+    law recommended (the MPA adding that it did not approve the 1843 rules): "In our opinion, in 1923, as in 1896,
+    'to the insane person justice is done.'" The profession split against itself within two years of Bristol.
+    Members include Sir Herbert Stephen (dissenting on one point: a Home Secretary might "leave for execution a
+    prisoner rightly certified to be insane"), Sir Richard Muir and Edward Marshall Hall. Figures: since 1900, 58
+    inquiries, 13 to Broadmoor, 17 commuted, 28 executed, of 585 murder convictions.
+15. **Consequence for the shape:** movement three no longer ends on "not enacted" alone. It ends on the state
+    defending the very procedure the doctors had called secret and amateur, and quoting the doctors' own
+    association to do it. The test William was tried under is kept "save as above". This sets up the closing line
+    ("The legal test applied by Mr Justice Day ... was still in force") without comment.
 
 ## OVERLAP: WHAT THE READER ALREADY HAS (so this chapter does not retell it)
 - **Prologue:** Broadmoor from 15 October 1883; "more than fifty-one years".
@@ -160,13 +185,15 @@ back: what was argued about the man for half a century.
   resolutions; Orange and Savage on the committee.
 - January 1895: Cullingworth, Gouldstone and Cole by name; the executed man; the proposals; the poisons analysts;
   Weatherly's scheme "a somewhat different one".
-**Movement three, 1907 to 1924. "Institutions change; the conflict remains."** (Needs sources 1 to 4.)
+**Movement three, 1907 to 1923. "Institutions change; the conflict remains."** (Sources now held: findings 12-15.)
 - 1907 Court of Criminal Appeal, against the 1883 Bill withdrawn three weeks before William's trial (Ch15 has the
   withdrawal: a reminder only).
 - 1922 True: convicted, appeal dismissed, examined under s. 2(4), reprieved, Broadmoor. Shortt in the Commons: "two
   issues which are quite distinct"; "bound by the law of the land". Set against Harcourt's choice in 1883 and
   Mercier's "amateur court". True arrives where William is (thirty-nine years). No meeting asserted.
-- Atkin: remit (s. 2(4)); the recommendation; not enacted.
+- Atkin: appointed 10 July 1922 (dates beside True's; no causal claim); its remit names s. 2(4); the impulse
+  recommendation (not enacted) and M'Naghten otherwise "maintained"; the procedure "essential", "satisfactory";
+  the MPA's 1896 "justice is done", quoted back in 1923. [MPA 1896 report to obtain first: source 4a.]
 **Movement four, Broadmoor and 1935. "The man, and the thin record."**
 - The four censuses (married each time; initials in 1901 and 1911; Luck and White on every page). One rationed
   reminder of what cannot be known (Luck and White).
@@ -227,9 +254,9 @@ Q. **Order of drafting.** RECOMMEND: movement one first (sources complete), show
    three when its sources are in.
 
 ## TO DO BEFORE DRAFTING (smallest steps)
-- Rik's rulings on A to Q.
-- The Ch21 cut map (only if A (a)).
-- Movement three sources (list above).
+- ~~Rik's rulings on A to Q~~ RULED 27 Oct.
+- The Ch21 cut map (A (a) ruled).
+- ~~Movement three sources~~ OBTAINED 27 Oct, except the MPA 1896 report (4a).
 - Rename the three BMJ PNGs (they are 27 October 1883, pp. 829-831) when Rik next uploads.
 
 ## RULINGS (Rik, 27 October 2026)
@@ -237,7 +264,7 @@ All as recommended (A (a), C, D (a), E, F, G (a), H, I, J (a), L (a), M, N, O, P
 - B: TITLE "THE LENGTH OF A ROPE" (Bucknill, BMJ 22 March 1884, p. 554: "these terms may vary greatly, even to the
   length of a rope"). The phrase is Bucknill's, about the judge's summing-up as weighed by the Home Secretary's
   examiners; the prose must give it its source and sense where it appears.
-- K: obtain movement three's sources NOW, before drafting (live_lists 4, items 75 to 79).
+- K: obtain movement three's sources NOW, before drafting (live_lists 4, items 75 to 79). DONE 27 Oct (75-77 obtained; 78, 79 not needed); one new source raised (MPA 1896).
 
 ## DRAFTING LOG
 (none yet)
