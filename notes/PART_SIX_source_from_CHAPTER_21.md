@@ -34,3 +34,14 @@ since Ch21 no longer does.
 
 ## CHECK THAT MOVES WITH THIS MATERIAL
 The two death certificates (Clarie's on order; Albert's: live_lists 4, item 60) against the dates, place and age above.
+
+## FROM CHAPTER TWENTY-TWO (Rik, 27 October 2026): THE LAW TODAY
+Rik noted that Ch22 does not say the M'Naghten rules are still in force today. By the ruling of 26 October (handover:
+post-1935 legal milestones go into Part Six, selectively; no coda after "He was never discharged."), this belongs
+here, where the researcher meets it. Candidate facts, ALL TO SOURCE before use (none is checked; the research note's
+versions come from Wikipedia): the Royal Commission on Capital Punishment (1953) recommended leaving the question to
+the jury, not enacted; Homicide Act 1957, s. 2, diminished responsibility (a partial defence to murder); Criminal
+Procedure (Insanity) Act 1964, "not guilty by reason of insanity"; Murder (Abolition of Death Penalty) Act 1965; the
+M'Naghten rules still the test in England and Wales (R v Sullivan [1984], House of Lords; Butler Committee 1975;
+Law Commission discussion paper "Criminal Liability: Insanity and Automatism", 2013). Primary texts wanted: the Acts
+(legislation.gov.uk) and the Law Commission paper.
