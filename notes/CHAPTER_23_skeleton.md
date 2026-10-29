@@ -302,3 +302,25 @@ For Ch24, to start gathering (no answer needed yet):
   (via Steve) had Alma Rose living "with us in Dagmar Road": Dagmar Road was the Goldstones' household. But Steve also
   remembers visiting his grandparents at 46 Edinburgh Road: they may have moved again after 1948. Ch23 prose unchanged:
   each address in the year a document gives it; item 92 (electoral registers) now decides more.
+
+## DRAFTING LOG
+- 29 October 2026: MOVEMENT ONE DRAFTED (1937-1939; about 360 words of prose; held locally, chapters/CHAPTER_23.md, with
+  the Part Six title page "WITHOUT WHOM"). Sources: Observer, 11 June 1937 and 30 July 1937 (school items 6 and 7, checked
+  20 Oct); Brian's death certificate (address, May 1937); Observer, 28 Jan 1939 (checked 20 Oct; the dinner "on Thursday":
+  26 January 1939, a Thursday, computed); the 1939 Register, Connaught Road (TRANSCRIBED and checked today:
+  transcribed/Goldstone_1939_Register_33A_Connaught_Road_transcription.md) and Bath (checked 22 Oct). The Register clause
+  follows Ch21's approved wording on the TNA blog (CHAPTER_21_skeleton.md, log, 22 Oct). Ages computed: Lily 25, Doris 11,
+  Fanny R. Cole 68, Freda L. Hussey six months older than Vera. Identity of the 1937 "Vera Goldstone" very probable, not
+  proven (no parents or address on either item): the prose gives the paper's name. Unattributed press lines: NONE.
+  Time-led openings: one ("On the twenty-ninth of September 1939"), not adjacent. Rene's 1940 marriage held for movement two.
+- 29 Oct (Rik): line edits to movement one applied as given: the opening ("In June of 1937, the Chatham Observer printed ..."; "Vera Goldstone was sixteen" cut) and the Bath paragraph ("She had moved to Bath ... residing ... The household also included ..."). Curly quotes normalised to the chapters' straight quotes.
+- 29 Oct (Rik): age reinstated: 'Under the clerical assistant grade was "Vera Goldstone", sixteen years old.' (The age is ours, from her birth certificate; the paper gives none.)
+- 29 Oct (Rik): Bath sentence: "She had moved to 3 Marlborough Street, Bath, and was a civil servant, residing in the household of Fanny R. Cole ..."
+- 29 Oct (Rik: "agreed"): the address paragraph CUT (it stepped back from June 1937 to Brian's death in May: linear rule); the Register now introduces "33A Connaught Road, Chatham".
+- 29 Oct: Rik's 20 new clips (transcribed/Part_Six_press_clips_1931-1939_Goldstone_family_transcription.md) folded into
+  movement one under the write-everything ruling: Vera's prize at the Luton Football Club dance (Observer, 26 March 1938);
+  the ladies' dinner now on BOTH papers (Chatham News, 27 Jan 1939: about forty wives; Clarie on the committee; Albert and
+  Mrs Blatchford the M.C.s; his "might well be envied by much larger organisations", quoted, reported speech); "with Mrs R.
+  E. Blatchford presiding" CUT (the papers disagree on who presided: Observer, Mrs Blatchford; Chatham News, G. Field);
+  the "Tough Guys" dinner, 31 January 1939 (Chatham News, 10 Feb 1939): Albert spoke and sang. "Clarie" for the papers'
+  "Mrs. Goldstone": identification beyond reasonable doubt (the secretary's wife; Clarie was at the club in 1945).

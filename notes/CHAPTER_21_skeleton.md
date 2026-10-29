@@ -747,3 +747,21 @@ reviewed"). Chapter about 990 words.
 - 29 Oct (Rik: "I think move, right?"): the Gazette sentence moved to the END of the Orbita paragraph, after the landing at Plymouth.
 - 29 Oct 2026 (Rik: "yep, give me the whole chapter"): AMENDMENT APPROVED. Ch21 re-approved with the four insertions; about 990 words. Ends as before ("The grave was dug to ten feet.").
 - 29 Oct 2026 (Rik): the Gazette sentence STAYS ("I like the texture, let's leave it for now"). Claude advised cutting it at the trim; Rik's call stands, open to review at the trim.
+
+## SECOND AMENDMENT DRAFTED, 29 October 2026 (Rik: "show me the redrafted 21"; held locally, NOT approved)
+From Rik's 20 clips (transcribed/Part_Six_press_clips_1931-1939_Goldstone_family_transcription.md), under the write-everything
+ruling, in date order: the Christmas 1931 nativity play (Irene a shepherd; "In the Observer she was always Irene"); the May
+Queen crowning, 26 May 1932 ("Irene Goldstone (captain)"); The Fortune Ballot, December 1932, and Irene as Luton's May Queen
+at the Christ Church fete, June 1933; Albert's Labour dance, September 1933 (a sentence in the 1933 paragraph); the Labour
+bazaar, December 1933 (Albert on the committees; Clarie at the cocktail bar); Gundulph House and St Bartholomew's, 15
+December 1933 (Irene, house captain); the party for children of the unemployed, January 1934; The Blue Bird, July 1934
+("V. Goldstone"); the club's first children's party, 22 February 1936 (Albert performed); the carnival pageant, August 1936
+("Doris Goldstone", eight). The approved Vera-1931 paragraph re-opened to follow the nativity play ("Two days after the
+nativity play"). "Labour put him up" now "Labour put Albert up" (the paragraph before is Vera's). About 1,420 words (was
+990). Weekdays computed. Unattributed press lines: NONE.
+DELIBERATE OMISSION, for Rik: the carnival's purpose (the extension fund of St Bartholomew's Hospital) is left out of the
+Doris paragraph, which stands immediately before "Brian died at St Bartholomew's Hospital": the adjacency would point.
+The Gundulph paragraph (1933) names the hospital, four paragraphs and three years away from Brian: Rik's call.
+- 29 Oct 2026 (Rik: "agreed. give me the whole chapter"): SECOND AMENDMENT APPROVED as drafted: the carnival's hospital purpose omitted; the Gundulph paragraph keeps St Bartholomew's; "In the Observer she was always Irene" kept. About 1,420 words. Ends as before.
+- 29 Oct 2026 (Rik, on an outside reader's notes): TRIM: the November 1934 prize-giving paragraph CUT. Other trims proposed (Gundulph House; the September 1933 dance; the May 1932 "captain" line; the Glossop-Harris sentence) not ruled.
+- 29 Oct 2026 (Rik: "we keep them"): Gundulph House, the September 1933 dance, the May 1932 "captain" line and the Glossop-Harris sentence all KEPT. Ch21 approved at about 1,360 words.
