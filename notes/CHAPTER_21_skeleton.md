@@ -188,7 +188,7 @@ the Prologue's "fifty-one years" not repeated. Out (recommended): Priest's "ever
 Helen Cottages address (Prologue territory; a note), the reused 1926 envelope, the criminal lunatics register.
 
 ## WHAT STAYS OUT FOR PART SIX (ruled DECIDE 10 (a): all family memory, in Rik's voice)
-The councillor; the ropery foreman on a bicycle; the Edam cheese; the France story and the German link (Linda's letter; [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
+The councillor; the ropery foreman on a bicycle; the Edam cheese; the France story and the German link (Linda's letter; [28 Oct correction REVERSED 29 Oct 2026 (Rik: "go with the emails"): Steve found Albert's naval record BEFORE Rik and passed it to Dot, the Ainsleys, Sue and Linda (Steve's email, 8 April 2015; correspondence/Family_emails_Albert_naval_record_April_2015.txt). Linda's line stands.]
 Q8); the "dark family secret"; Vera's "If there's a god, then why did my little brother die?" (ruled DECIDE 14); the
 Harbour Street hairdresser; Auntie Lil and Nanny Vere as Rik knew them; the photographs (Albert and Clarie on the beach;
 the Ferguson family Christmas, late 1950s); the five dots (Rik's closing line); George William Ferguson's death (I);
@@ -746,3 +746,4 @@ Time-led openings: none added adjacent ("Vera was at", "The Chatham Observer of 
 reviewed"). Chapter about 990 words.
 - 29 Oct (Rik: "I think move, right?"): the Gazette sentence moved to the END of the Orbita paragraph, after the landing at Plymouth.
 - 29 Oct 2026 (Rik: "yep, give me the whole chapter"): AMENDMENT APPROVED. Ch21 re-approved with the four insertions; about 990 words. Ends as before ("The grave was dug to ten feet.").
+- 29 Oct 2026 (Rik): the Gazette sentence STAYS ("I like the texture, let's leave it for now"). Claude advised cutting it at the trim; Rik's call stands, open to review at the trim.

@@ -5,8 +5,8 @@
 ## People
 
 ### Family
-- **Uncle Steve Ferguson.** *May be named (Rik, 28 October 2026).* Also turned up Albert's naval record
-  independently, after Rik had. Family photographs (the survivors of the house fire at Dot's) and family
+- **Uncle Steve Ferguson.** *May be named (Rik, 28 October 2026).* Found Albert's naval record before Rik (by
+  2015) and shared it with the family (his email, 8 April 2015, in correspondence/). Family photographs (the survivors of the house fire at Dot's) and family
   information. Recorded: `notes/archive/session-summary-2026-06-24.md`; project memory.
 - **Eileen Ferguson Smith** (Rik's mother). Her memoir (correspondence/Mum's book.txt, supplied by Rik 28 October
   2026) and her WhatsApp messages of 25 June 2025 (correspondence/images/IMG_0049.PNG, IMG_0050.PNG): family memory

@@ -45,7 +45,7 @@ rewritten, not pasted.
   little brother die?" (the memory that led Rik to Brian); Albert as a councillor (contradicted for 1933 and 1934 by
   the Observer; unproved otherwise: give both).
 - Linda Neaves's letter (permission to use and name, Rik): the France story (a French maid and a nobleman, from Lil,
-  "backed up by" Doris); Rene's "absolute rubbish"; "I think it was Steve who uncovered the German link"; the Edam [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
+  "backed up by" Doris); Rene's "absolute rubbish"; "I think it was Steve who uncovered the German link"; the Edam [28 Oct correction REVERSED 29 Oct 2026 (Rik: "go with the emails"): Steve found Albert's naval record BEFORE Rik and passed it to Dot, the Ainsleys, Sue and Linda (Steve's email, 8 April 2015; correspondence/Family_emails_Albert_naval_record_April_2015.txt). Linda's line stands.]
   cheese; the ropery foreman on a bicycle. NOT YET IN THE REPO (live_lists 4, item 65).
 - Rik's own: the "dark family secret ... unknown until I uncovered this story"; "No stories were told of his mother or
   her ex-husband"; Auntie Lil and Nanny Vere as he knew them; Clarie Irene (he knew her); 35 Dagmar Road and the Boxing

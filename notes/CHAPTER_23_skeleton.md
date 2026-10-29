@@ -298,3 +298,7 @@ For Ch24, to start gathering (no answer needed yet):
   family home: INFERENCE, notes only. To settle: electoral registers (item 92); Albert's death certificate; Steve or
   Eileen. Prose: each address in its year only.
 - 28 Oct (Rik: "approve all recommendations"): E (a) CONFIRMED (to Ch21). ALL Ch23 DECIDE POINTS RULED. Next: draft movement one.
+- 29 Oct: THE 2015 EMAILS (correspondence/Family_emails_Albert_naval_record_April_2015.txt; memory log, 29 Oct): Dot
+  (via Steve) had Alma Rose living "with us in Dagmar Road": Dagmar Road was the Goldstones' household. But Steve also
+  remembers visiting his grandparents at 46 Edinburgh Road: they may have moved again after 1948. Ch23 prose unchanged:
+  each address in the year a document gives it; item 92 (electoral registers) now decides more.

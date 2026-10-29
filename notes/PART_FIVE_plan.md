@@ -158,7 +158,7 @@ saved: marked GK.)
    secret ... unknown until I uncovered this story"; "No stories were told of his mother or her ex-husband". Linda
    Neaves's letter (Rik's paste, about line 10155): she grew up on a story from Lil, "backed up by my mum" (Doris), that
    he was born in FRANCE, of a French maid and a nobleman; Rene called it "absolute rubbish"; "I think it was Steve who
-   uncovered the German link". So the German birthplace may have reached the family through research, not from [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
+   uncovered the German link". So the German birthplace may have reached the family through research, not from [28 Oct correction REVERSED 29 Oct 2026 (Rik: "go with the emails"): Steve found Albert's naval record BEFORE Rik and passed it to Dot, the Ainsleys, Sue and Linda (Steve's email, 8 April 2015; correspondence/Family_emails_Albert_naval_record_April_2015.txt). Linda's line stands.]
    Albert. This bears on the dramatis line "The Germany lie passed to Vera as fact. She passed it to Mick. Mick passed
    it to Rik as family history" (correction Q8, for Rik) and on the Prologue's "The false birthplace remained with him
    for the rest of his life" (Rik's text, ruled 6 October as family recollection: NOT reopened here, but Rik should

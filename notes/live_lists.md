@@ -83,7 +83,7 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
 ### Albert and his family (added 2 October 2026)
 - "Heckenning Houzellon", Germany: Albert's stated birthplace (naval record, 1921 census). A real place, a garbling of one, or invented?
 - Census references still to record: the 1939 Register (RG 101 piece) [13 October 2026: RG 101/1692A by the Ancestry tree; confirm from the record]; the 1891 folio (index says 20, not visible on the image).
-- (13 October 2026) [22 October 2026: both accounts now recorded side by side in dramatis_personae.md (Vera), correction Q8; the question stays open, for Part Six, in Rik's voice.] Was the family's story of Albert's birth Germany or France? Linda Neaves's letter (Lil and Doris: France; Rene: "absolute rubbish"; Steve found the German link) against dramatis's "The Germany lie passed to Vera as fact". PART_FIVE_plan.md, finding 9. For Rik. [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
+- (13 October 2026) [22 October 2026: both accounts now recorded side by side in dramatis_personae.md (Vera), correction Q8; the question stays open, for Part Six, in Rik's voice.] Was the family's story of Albert's birth Germany or France? Linda Neaves's letter (Lil and Doris: France; Rene: "absolute rubbish"; Steve found the German link) against dramatis's "The Germany lie passed to Vera as fact". PART_FIVE_plan.md, finding 9. For Rik. [28 Oct correction REVERSED 29 Oct 2026 (Rik: "go with the emails"): Steve found Albert's naval record BEFORE Rik and passed it to Dot, the Ainsleys, Sue and Linda (Steve's email, 8 April 2015; correspondence/Family_emails_Albert_naval_record_April_2015.txt). Linda's line stands.]
 - (13 October 2026) The Chatham Goldstones (Frederick, b. c.1854 Islington; his daughter Amy married David Ethell, 1911): any connection to Albert or the Gouldstones? Not shown. Namesake trap for Part Five; a question for Part Six if anywhere (PART_FIVE_plan.md, finding 12).
 - Where Vera was at the 1939 Register (not in her parents' household at 33A Connaught Road).
 - Albert's age on the 1921 census, 35 or 38: Contradiction 92.
@@ -375,6 +375,28 @@ Doris May Goldstone and Charles G. Neaves (date not known).
 Road, 1937-1939, if held): Medway Archives. To show who lived at 35 Dagmar Road when: Albert and Clarie (there by 26
 November 1948, East Kent Gazette), Vera and George (there at their marriage, March 1942, and Michael's birth, 1943), Lil.
 Settles whether it was the Goldstones' house first (CHAPTER_23_skeleton.md, RULINGS, 28 Oct).
+
+93. (Added 29 October 2026, Part Six; Eileen's suggestion.) Royal Naval Association, Chatham (or Luton Road) branch:
+any membership record for Albert Goldstone (and Vera, George). The Association was founded after the war (general
+knowledge, TO CHECK the year), so only Albert's last years could show; a long shot, but a letter is cheap. Also David
+Ferguson's photograph of the RNA club evenings (1960s).
+
+94. (Added 29 October 2026, Part Six; REVISED the same day.) The Arethusa at Upnor. Malcolm Ainsley (via Rita, 29 Oct;
+correspondence/Rita_Ainsley_message_29_Oct_2026_Arethusa.txt): "Albert worked on the HMS Arethusa that was moored at
+Upnor", a training ship for boys. The ship: the Shaftesbury Homes' Arethusa (ex-Peking), moored off Upnor from July 1933
+(Wikipedia only, TO REPLACE). Wanted: any record of Albert working on her (Shaftesbury Homes / Arethusa staff records;
+the Chatham Observer, 1933-1962; Medway Archives); a proper published history of the ship for the facts above.
+
+95. [PARTLY ANSWERED 29 Oct 2026 from Rik's trees: married William John Rowden, hairdresser, 1914; 97 High Street, Whitstable, 1939; widowed 1955; died Q1 1981 (dramatis, Lilian Madams). CHECKED 29 Oct: marriage index (Q3 1914, Blean, 2a 2166), 1911, 1921 and 1939 images (transcribed/Lilian_Madams_Rowden_1911_1921_1939_transcription.md). Her death CHECKED 29 Oct (GRO index: Q1 1981, Canterbury, aged 90, b. 7 Apr 1890). Still to check: his death, 1955 (tree only). Effectively CLOSED for Lilian.] (Added 29 October 2026, Part Six.) Lilian Florence Isabel Madams (born 7 April 1890, Whitstable), Albert's
+half-sister, after 1906: marriage (to a barber, by Dot's account via Steve, 2015), addresses, death. To untangle the two
+"Auntie Lils" (Rik, 29 Oct: the aunt Eileen calls "strange", who may have lived with Albert, is "potentially the one
+from Whitstable"). GRO marriage and death indexes, Madams.
+
+96. [29 Oct 2026, Rik: "No burial record for Elizabeth" found. A NEGATIVE search, not proof: searched 29 Oct (Rik): Find a Grave, Ancestry and MyHeritage (names used not recorded). NOT yet searched: the cemetery's own burial register (Canterbury City Council bereavement services, or a KFHS transcript), the Whitstable and Seasalter parish burial registers (Canterbury Cathedral Archives). Names to try: Madams, Goldstone, Goldston, Gouldstone, Stock; June 1906; Whitstable Cemetery, Seasalter and Whitstable parish registers, a possible unmarked or common grave.] (Added 29 October 2026.) Elizabeth's own BURIAL (died Beach Alley, Whitstable, June 1906) is NOT recorded anywhere in the
+repository (grepped 29 Oct). Lilian Rowden (her daughter) was buried in Whitstable Cemetery in 1981 (Find a Grave 237731535,
+plot 2, grave T-105). Wanted: the Whitstable Cemetery burial register (or a KFHS transcript, as for Chatham) for June 1906,
+Madams/Goldstone; and William Madams's burial (died Chartham, November 1901). Where Elizabeth lies is a fact the book has not
+got, and Part Six or the Coda may want it.
 
 86. (Added 27 October 2026, Part Six; as item 85.) Rik's own research timeline, in his words (PART_SIX_plan DECIDE 5); and
 the DNA evidence as screenshots for the notes (the Bronwyn Joule match; the Madams analysis).
