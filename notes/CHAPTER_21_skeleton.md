@@ -724,11 +724,12 @@ Stream": "Vera Goldstone acted with charm and conviction in the part of the Prim
 Oct (transcribed/Chatham_Observer_Vera_and_Lily_Goldstone_school_items_1924-1937_transcription.txt, items 4 and 5).
 The Observer named; its reading of her performance quoted, never in our voice. Identity very probable, not proven (no
 parents or address): the prose gives the paper's "Vera Goldstone" as the record does, in the chapter that already has
-her scholarship. Also to consider by the same ruling: Lily's free place (1 August 1924, item 1) and the 1931 form
-prize (item 2), which fall in Ch21's span. Earlier rulings put these out (DECIDE C); Rik's 28 Oct ruling reopens them.
+her scholarship. Also by the same ruling: the 1931 form prize (item 2), which falls in Ch21's span. [CORRECTED 29 Oct 2026: Lily's
+1924 free place (item 1) is ALREADY IN the approved chapter (para. 'Lily sat the entrance examination...'); Claude listed
+it without opening the chapter. Not part of the amendment.]
 Draft to Rik as an amendment to the approved chapter; nothing else in Ch21 changes.
 
 RULED 28 October 2026 (Rik: "approve all recommendations"): DECIDE S (a): one clause, the Royal Gazette named once, that
 the Glossop-Harris company had closed its season at the Colonial Opera House, Hamilton, on the first of July; nothing
-of Albert. Ch23 E (a) confirmed: the 1934 and 1936 school items, with Lily's 1924 free place and Vera's 1931 prize, go
-into Ch21 in date order. Both to be drafted together as ONE AMENDMENT to the approved chapter and shown to Rik.
+of Albert. Ch23 E (a) confirmed: the 1934 and 1936 school items, with Vera's 1931 prize, go into Ch21 in date order (Lily's
+1924 free place is already there). Both to be drafted together as ONE AMENDMENT to the approved chapter and shown to Rik.
