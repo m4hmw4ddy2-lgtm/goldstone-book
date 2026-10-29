@@ -733,3 +733,16 @@ RULED 28 October 2026 (Rik: "approve all recommendations"): DECIDE S (a): one cl
 the Glossop-Harris company had closed its season at the Colonial Opera House, Hamilton, on the first of July; nothing
 of Albert. Ch23 E (a) confirmed: the 1934 and 1936 school items, with Vera's 1931 prize, go into Ch21 in date order (Lily's
 1924 free place is already there). Both to be drafted together as ONE AMENDMENT to the approved chapter and shown to Rik.
+
+## AMENDMENT DRAFTED, 29 October 2026 (held locally; for Rik)
+Four insertions, nothing else changed: (1) the Orbita paragraph, one sentence: the Royal Gazette and Colonist Daily
+(30 June 1930) had advertised the company's farewell at the Colonial Opera House on Tuesday 1 July; (2) new paragraph
+after the Orbita: the Christmas 1931 visit and Vera's Class 1A form prize (Observer, 25 Dec 1931); (3) new paragraph
+after the 1934 election: the prize-giving report and "individual items by Vera Goldstone, Sylvia Cox and Molly Purchase"
+(Observer, 9 Nov 1934; the school unnamed, as on the clip); (4) new paragraph before Brian: Lady Precious Stream (Observer,
+27 Mar 1936), Vera's line quoted. Sources and readings: the transcription headers (29 Oct). Weekdays computed: 18 Dec 1931
+and 1 Jul 1930. General knowledge used: the play's title and author (characters match). Unattributed press lines: NONE.
+Time-led openings: none added adjacent ("Vera was at", "The Chatham Observer of the following week", "The Observer
+reviewed"). Chapter about 990 words.
+- 29 Oct (Rik: "I think move, right?"): the Gazette sentence moved to the END of the Orbita paragraph, after the landing at Plymouth.
+- 29 Oct 2026 (Rik: "yep, give me the whole chapter"): AMENDMENT APPROVED. Ch21 re-approved with the four insertions; about 990 words. Ends as before ("The grave was dug to ten feet.").
