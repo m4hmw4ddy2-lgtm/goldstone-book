@@ -82,3 +82,28 @@ naval "Germany" (live_lists 4, item 45). The register gives his dates on the shi
 it. Neither is needed for the Chapter Eighteen gap (what the ship was and where she lay), which wants a published
 source. Item reference numbers for the two volumes to be copied from the item pages before any request.
 
+
+---
+
+## Reply received 29 October 2026 (Sophie Seeyave, Archives Assistant, Royal Museums Greenwich; supplied by Rik): THE SEARCH
+"MSY/L/5 is organised according to date, and MSY/M/5 is organised according to surnames (alphabetical). I have checked
+MSY/L/5 for the years 1899 - 1901, and MSY/M/5 for surnames starting with G and M, but unfortunately did not see any
+mention of Albert Goldstone/Goldston/Gouldstone/Madams."
+Further resources she gave: Simon Fowler, "Tracing Your Naval Ancestors" (RMG library rmgl-150751), pages on training ships,
+photographed and attached (saved: correspondence/images/Fowler_Tracing_Your_Naval_Ancestors_p38.jpg to _p41.jpg); the Guide
+to Naval Records at The National Archives (PDF, https://www.exeter.ac.uk/research/centres/maritime/resources/naval_records/);
+RMG Collections Online for context on WARSPITE and IMPREGNABLE.
+WHAT IT CHANGES:
+1. A NEGATIVE SEARCH by the archive itself: neither the Marine Society's register of admissions (by date, 1899-1901) nor its
+   alphabetical index (G and M) names Albert under Goldstone, Goldston, Gouldstone or Madams. It is a search by an archive
+   assistant of the two volumes she named, as reported: it covers his months (April to November 1901).
+2. So the only source for the Warspite remains the Herne Bay Press of 20 April 1901 ("having got the boy on the
+   training-ship Warspite"): PRESS, reporting what the missionary had arranged. Whether Albert ever went aboard is NOT
+   shown; the Navy took him at Impregnable on 11 November 1901 (ADM 188/383). (Possible reasons for the absence, all
+   unproven: entered under another name; never admitted; a gap in the volumes. Notes only.)
+3. Chapter Eighteen's bracketed Warspite gap (what the ship was and where she lay) still wants a published source; Fowler's
+   pages do not say where the Warspite lay. Rik to rule whether the gap is filled, or the sentence stays as the paper
+   gives it and the gap is closed by cutting the bracket (CHAPTER_18_skeleton.md, F (c)).
+4. Fowler p. 40 gives the record holder for the ARETHUSA (item 94): "The Shaftesbury Homes has some records
+   (www.shaftesbury.org.uk) or write to The Chapel, Royal Victoria Patriotic Buildings, Trinity Road, London SW18 3SX"
+   (the book's address; current details to check).
