@@ -45,11 +45,11 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | PART FIVE, ALBERT | | | | |
 | 19 | 20 | Without Lights | Approved 15 Oct 2026; corrected 24 Oct ("by the Navy's reckoning", audit) | PART_FIVE_plan.md; CHAPTER_19_skeleton.md |
 | 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct; corrected 23 Oct (the Pioneer's crossing; the 1916 barracks spell, audit); 24 Oct (the Drake, the Courageous, the Pioneer's sailing; audit) | CHAPTER_20_skeleton.md |
-| 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); corrected 24 Oct (the younger Clarie; Mrs Stearne; audit); closes Part Five. RULED 26 Oct 2026 (Rik): Part Five to END with Brian's death (May 1937); the 1935 inquest passage to move to Ch22 and everything after Brian to Part Six as source material; CUT MADE AND RE-APPROVED 27 Oct 2026: ends on Brian's burial ("The grave was dug to ten feet."); about 770 words; cut text in notes/PART_SIX_source_from_CHAPTER_21.md. The death-certificate check below moves to Part Six. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
+| 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); corrected 24 Oct (the younger Clarie; Mrs Stearne; audit); closes Part Five. RULED 26 Oct 2026 (Rik): Part Five to END with Brian's death (May 1937); the 1935 inquest passage to move to Ch22 and everything after Brian to Part Six as source material; CUT MADE AND RE-APPROVED 27 Oct 2026: ends on Brian's burial ("The grave was dug to ten feet."); about 770 words; cut text in notes/PART_SIX_source_from_CHAPTER_21.md. The death-certificate check below moves to Part Six. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age  REOPENED 28 Oct 2026 FOR ONE ADDITION ONLY (Rik, via Ch23 DECIDE E): Vera's 1934 and 1936 school items, in date order (Lily's 1924 free place and Vera's 1931 prize to consider); DECIDE S (a) ruled 28 Oct, the Orbita clause joins the same amendment; amendment to be drafted and shown | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
 | 22 | new | The Length of a Rope (ruled 27 Oct) | SKELETON PROPOSED 27 Oct 2026; DECIDE A-Q RULED 27 Oct (as recommended, except B: title; K: get movement three sources now): the medical and legal chapter, placed between Parts Five and Six (Rik, 26 Oct, superseding 25 Oct). Started afresh from the sources (Rik, 27 Oct); the working draft of 26 Oct (not in the repo) is notes only. DECIDE A to Q for Rik. Sources for movement three not yet held | CHAPTER_22_skeleton.md |
 | PART SIX, "WITHOUT WHOM" (title ruled 27 Oct 2026) | | | | |
-| 23 | new | (on completion) | SKELETON PROPOSED 27 Oct 2026 (Vera, May 1937 to June 1962; documentary voice; ends on the stone). Part plan DECIDE 1 to 4, 13, 14 RULED 27 Oct; Ch23 DECIDE A to M for Rik; questions for Rik at the foot | CHAPTER_23_skeleton.md; PART_SIX_plan.md |
-| PART SIX (rest), CODA | | | Plan DECIDE 5 to 12 OPEN. Not begun. RULED 26 Oct 2026: opens with the family in 1937 (Vera), not with the research; the post-Brian material of Ch21 is its source material | MASTER_NOTES; handover 26 Oct (CHAPTER_22_skeleton.md, head) |
+| 23 | new | (on completion) | SKELETON PROPOSED 27 Oct 2026 (Vera, May 1937 to June 1962; documentary voice; ends on the stone). Part plan DECIDE 1 to 4, 13, 14 RULED 27 Oct; Ch23 DECIDE A to M RULED 28 Oct (Rik: write everything held, trim after); E sends the 1934/1936 items to Ch21; H waits on GRO indexes (item 91). Next: draft movement one | CHAPTER_23_skeleton.md; PART_SIX_plan.md |
+| PART SIX (rest), CODA | | | ALL PLAN DECIDE POINTS RULED 28 Oct 2026: Ch24 (family, Rik's voice), Ch25 (research, in the order found), Coda ending on Rik's three sentences on Elizabeth. Not begun; Ch25 needs Rik's research timeline. RULED 26 Oct 2026: opens with the family in 1937 (Vera), not with the research; the post-Brian material of Ch21 is its source material | MASTER_NOTES; handover 26 Oct (CHAPTER_22_skeleton.md, head) |
 
 Part Four and Part Five logs before 21 October 2026 (OLD numbering throughout):
 
@@ -83,7 +83,7 @@ notes/archive/live_lists_retired_2026-10-22.md. Chapter numbers below are the NE
 ### Albert and his family (added 2 October 2026)
 - "Heckenning Houzellon", Germany: Albert's stated birthplace (naval record, 1921 census). A real place, a garbling of one, or invented?
 - Census references still to record: the 1939 Register (RG 101 piece) [13 October 2026: RG 101/1692A by the Ancestry tree; confirm from the record]; the 1891 folio (index says 20, not visible on the image).
-- (13 October 2026) [22 October 2026: both accounts now recorded side by side in dramatis_personae.md (Vera), correction Q8; the question stays open, for Part Six, in Rik's voice.] Was the family's story of Albert's birth Germany or France? Linda Neaves's letter (Lil and Doris: France; Rene: "absolute rubbish"; Steve found the German link) against dramatis's "The Germany lie passed to Vera as fact". PART_FIVE_plan.md, finding 9. For Rik.
+- (13 October 2026) [22 October 2026: both accounts now recorded side by side in dramatis_personae.md (Vera), correction Q8; the question stays open, for Part Six, in Rik's voice.] Was the family's story of Albert's birth Germany or France? Linda Neaves's letter (Lil and Doris: France; Rene: "absolute rubbish"; Steve found the German link) against dramatis's "The Germany lie passed to Vera as fact". PART_FIVE_plan.md, finding 9. For Rik. [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
 - (13 October 2026) The Chatham Goldstones (Frederick, b. c.1854 Islington; his daughter Amy married David Ethell, 1911): any connection to Albert or the Gouldstones? Not shown. Namesake trap for Part Five; a question for Part Six if anywhere (PART_FIVE_plan.md, finding 12).
 - Where Vera was at the 1939 Register (not in her parents' household at 33A Connaught Road).
 - Albert's age on the 1921 census, 35 or 38: Contradiction 92.
@@ -366,6 +366,15 @@ GRO index); the marriage of David Ethell and Amy Goldstone (1911); Amy's birth (
 Frederick Goldstone). Then, only if Rik wants it, Frederick Lazenbys Goldstone's line back to James Goldstone (born about
 1803) against the Great Sampford Gouldstones. The trees alone make Amy Rik's great-grandmother; nothing yet joins her
 family to William's.
+
+91. [OBTAINED 28 October 2026 (Rik): all three index entries; transcribed/Goldstone_daughters_marriages_GRO_index_and_Neaves_engagement_transcription.md.] (Added 28 October 2026, Ch23, DECIDE H.) GRO marriage index entries: Clarie Irene Goldstone and John T. Ainsley
+(Q3 1940, Medway, by the trees); Lily Alma Rose Goldstone and Frank G. Godbold (date not known: after 29 September 1939?);
+Doris May Goldstone and Charles G. Neaves (date not known).
+
+92. (Added 28 October 2026, Ch23.) Electoral registers for 35 Dagmar Road, Chatham, 1945 to 1962 (and 33A Connaught
+Road, 1937-1939, if held): Medway Archives. To show who lived at 35 Dagmar Road when: Albert and Clarie (there by 26
+November 1948, East Kent Gazette), Vera and George (there at their marriage, March 1942, and Michael's birth, 1943), Lil.
+Settles whether it was the Goldstones' house first (CHAPTER_23_skeleton.md, RULINGS, 28 Oct).
 
 86. (Added 27 October 2026, Part Six; as item 85.) Rik's own research timeline, in his words (PART_SIX_plan DECIDE 5); and
 the DNA evidence as screenshots for the notes (the Bronwyn Joule match; the Madams analysis).

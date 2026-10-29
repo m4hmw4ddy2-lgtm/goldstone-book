@@ -125,3 +125,27 @@ they are ONE source, not two. For anything before Rik's own memory (his birth, t
 cause, the parties before about 1975), the witness is EILEEN, and Ch24 attributes it to her, with Rik's telling as
 his retelling. Where Rik also remembers it (the conga, Nanny Vere at Dagmar Road, Auntie Lil), it has two witnesses,
 and Ch24 may give it as his own memory. Never count the two memoirs as corroborating each other on the older passages.
+
+## RIK, 28 October 2026: THE AUNTS AND UNCLES HE KNEW (testimony)
+"I knew all these people Dot and Charlie, Bingles and Jack (Auntie Rene), Auntie Lil ( who for some reason was called
+Nin by my father's generation)".
+- Rik knew personally: Doris ("Dot") and Charlie Neaves; Clarie Irene ("Auntie Rene") and Jack Ainsley; Lily ("Auntie
+  Lil"). So all three surviving sisters are within his own memory, with his grandmother Vera: Ch24 can give them as
+  his witnesses, not only his mother's.
+- NAMES: "Bingles" belongs with Rene and Jack. Claude's reading: Rene was "Bingles" (to confirm with Rik: Rene, or Jack,
+  or the couple?). Lil was "Nin" to Mick's generation (Mick, Steve, the Ainsley and Neaves cousins); "Auntie Lil" to
+  Rik. Reason for "Nin" not known (Rik).
+- "Bingles" (Rik, 28 Oct, from Linda): RENE, because she wore a "Bing Boy hat"; Linda does not know what that was.
+  Lead, not checked: "The Bing Boys Are Here", a London revue of 1916 (general knowledge, TO SOURCE), and its sequels;
+  what hat took its name, if any, is NOT found (one web search, 28 Oct, nothing). Family memory, via Linda.
+- "Nin" (Rik, 28 Oct): origin not known; Rik has asked Steve. Pending his answer.
+- ALBERT, AS THE SISTERS SPOKE OF HIM TO RIK (Rik, 28 Oct): "to me, nothing." Dot, Rene and Lil, all known to Rik
+  personally, told him nothing about their father. With Rik's own account ("No stories were told of his mother or her
+  ex-husband"; a "dark family secret") and Linda's ("My mum said very little about him"; "My mum rarely spoke of him"),
+  this is three generations of near-silence about Albert, every witness agreeing. For Ch24, in Rik's voice; the
+  silence is the evidence, stated as what he was (not) told, without a reason supplied for it.
+- STEVE (Rik, 28 Oct): "we can name him." And: "He didn't 'find the German link' he turned up Albert's Naval record,
+  some time after I had but hadn't yet told him as I was digging." So Linda's "I think it was Steve who uncovered the
+  German link" is Linda's belief, corrected by Rik: Rik found the naval record first; Steve found it independently,
+  later. For Ch25 (the research), in order. Either way the German birthplace reached the family through research, not
+  from Albert (PART_FIVE_plan finding 9 stands on that point).

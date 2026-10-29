@@ -45,7 +45,7 @@ rewritten, not pasted.
   little brother die?" (the memory that led Rik to Brian); Albert as a councillor (contradicted for 1933 and 1934 by
   the Observer; unproved otherwise: give both).
 - Linda Neaves's letter (permission to use and name, Rik): the France story (a French maid and a nobleman, from Lil,
-  "backed up by" Doris); Rene's "absolute rubbish"; "I think it was Steve who uncovered the German link"; the Edam
+  "backed up by" Doris); Rene's "absolute rubbish"; "I think it was Steve who uncovered the German link"; the Edam [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
   cheese; the ropery foreman on a bicycle. NOT YET IN THE REPO (live_lists 4, item 65).
 - Rik's own: the "dark family secret ... unknown until I uncovered this story"; "No stories were told of his mother or
   her ex-husband"; Auntie Lil and Nanny Vere as he knew them; Clarie Irene (he knew her); 35 Dagmar Road and the Boxing
@@ -189,3 +189,23 @@ own 5 and 6 (the research spine; Michael), which stay OPEN, with 7 to 12.
   connected to William's or to Albert's. No further search (live_lists 4, item 90, withdrawn except as Rik wishes). In
   the book: nothing joins the two Goldstone lines in any voice. Whether the coincidence of name is mentioned at all is
   Rik's call in Ch24 or Ch25, in his own voice; never pressed into the causal chain.
+
+## RULINGS (Rik, 28 October 2026: "approve all recommendations"). Govern where they differ from the body.
+- **DECIDE 2: (a).** After Ch23, two chapters: Ch24, the family Rik remembers, in his voice; Ch25, the research.
+- **DECIDE 5: (a).** Ch25 follows the order in which Rik actually found things; needs his research timeline
+  (live_lists 4, item 86).
+- **DECIDE 6: (a).** Michael: a birth in Ch23; in Ch24 as Rik's father, as much as Rik wants.
+- **DECIDE 7: (a).** All family stories in Ch24, each attributed (PART_SIX_family_memory_log.md); France and Germany
+  side by side, no verdict; the councillor beside the two defeats; the sisters' silence given as the evidence; none in
+  the narrator's voice.
+- **DECIDE 8: (a).** The law today: one passage in Ch25, where Rik meets it, after the Acts (1957, 1964, 1965) and the
+  Law Commission paper (2013) are held (item 85); no legal timeline; not repeating Ch22's "still in force".
+- **DECIDE 9: (c).** The book's last words are Rik's three sentences on Elizabeth (rik_voice_elizabeth_22sep2026.md,
+  his text, edited by him alone): "She could not tell her own story at the time, so I am telling it for her now.
+  Elizabeth Stock was a survivor, a mother, and deserves to be remembered." The January 2036 line stands just before
+  them. (The five dots close Part Six: ruled 13 Oct.)
+- **DECIDE 10: (a).** One permissions list, in acknowledgements_running_list.md. Given: Eileen, Linda, Steve. Sue: Linda's
+  wishes. The Ainsleys: if they reply.
+- **DECIDE 12: (a).** Before Ch25 is drafted, list what the Prologue's close already says (PROLOGUE.md, last paragraph),
+  so Part Six does not repeat it.
+ALL PART SIX PLAN DECIDE POINTS NOW RULED (1-14).

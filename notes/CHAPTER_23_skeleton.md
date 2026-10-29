@@ -247,3 +247,54 @@ For Ch24, to start gathering (no answer needed yet):
   earlier "where her life ended" meant her home, not the place of death. The hospital stays family memory until the
   certificate (item 84) names it. For Ch24.
 - STILL OPEN: Q1 (Bath: which department; any paper of Vera's); Q3 (did Vera stay in the Civil Service after marrying).
+
+## RULINGS (Rik, 28 October 2026). These govern where they differ from the body above.
+- **STANDING (Rik): "I don't think we should leave out anything we have. We should write it all and then trim if
+  required."** Ch23 is drafted with EVERYTHING held for 1937 to 1962; selection happens after, on the full draft.
+  This REVERSES Claude's "one passage" limit on the club (written into the recommendation on PART_SIX_plan DECIDE 3,
+  which Rik ruled "as recommended"; the limit was Claude's, not Rik's) and every "out" below that rested on selection.
+  It does NOT override the sourcing and structure rules: a fact enters prose only from a document or a ruled source;
+  the linear rule stands; Ch23 stays in the documentary voice (family memory to Ch24, ruled DECIDE 3).
+- A: (a), open on the Civil Service list (Observer, 11 June 1937, named as the paper).
+- B: ALL THREE club items: 1939 (the ladies' dinner, eighty members, premises promised), 1945 (the coal case), 1953
+  (the dinner, his three sentences). Each written to what it alone gives; trimmed later if needed.
+- C: (a), in.
+- D: IN (the school certificate, July 1937, "v.g. spoken French"), the Observer named.
+- E: the 1934 recitation and the 1936 play are BEFORE May 1937: the linear rule puts them in Part Five's span, which is
+  closed. OPEN, for Rik: Ch24 in his voice, as things he found; or a reopening of Ch21 to add them there.
+- F: IN (the 1939 Register amended: "Goldstone" struck, "FERGUSON" over it, the margin's date), at the marriage, as a
+  plain fact of the record.
+- G: IN, "in 1944" (index held), subject to Steve's agreement to be named.
+- H: IN as far as documents allow: the GRO marriage index entries for the younger Clarie (Ainsley, Q3 1940), Lily
+  (Godbold) and Doris (Neaves) to be found first (live_lists 4, item 91); until then bracketed gaps in the draft, not
+  tree facts in prose.
+- I: (b), with his father (John Henry Ferguson, labourer, H.M. Dockyard, from the 1942 register; a witness).
+- J: (a), everything: the day, All Saints, forty-one, "Sheet metal Worker", the grave of his own, "husband & father".
+- K: (a), "Retired" and "76" both quoted.
+- L: IN, one plain sentence from the record, to be trimmed later if it points. Placed with care (finding 6).
+- M: on completion.
+- Also IN under the standing ruling, where documents allow: the Bath household (Fanny R. Cole, "Independant" [sic];
+  Freda L. Hussey, another young civil servant); the other witnesses at the marriage (Sidney Rose, J. H. Ferguson);
+  Michael's registration (informant V. G. Ferguson, 7 May 1943); George's 1921 household only if it serves (to
+  decide in drafting). STILL OUT by Rik's earlier rulings: the 1945 shop at 155 Dale Street ("no we leave it out",
+  22 Oct); "Bert Goldstone" of 1926 (identity not shown).
+- 28 Oct (Rik): G: Steve MAY BE NAMED. G is IN, "in 1944".
+- 28 Oct (Rik): E: "1934/6 have no business being in my voice." So not Ch24. Read as option (b): the 1934 recitation
+  and the 1936 play go into CHAPTER TWENTY-ONE, in date order (between the 1934 election and Brian's death), under the
+  write-it-all ruling: Ch21 REOPENED for that addition only (CHAPTER_21_skeleton.md). If Rik meant "out altogether",
+  this is reversed.
+- 28 Oct (Rik): H SETTLED BY THE GRO INDEX (transcribed/Goldstone_daughters_marriages_GRO_index_and_Neaves_engagement_
+  transcription.md): the younger Clarie and John T. Ainsley, Q3 1940, Medway; Lily and Frank G. Godbold, Q2 1943,
+  Chatham; Doris and Charles Neaves, Q3 1949, Chatham. All three IN, each in its year (quarter only, "in 1940" etc.).
+- 28 Oct (Rik): DORIS'S ENGAGEMENT NOTICE (East Kent Gazette, Friday 26 November 1948; page not recorded): "Mr. and Mrs. A. Goldstone, of 35, Dagmar Road,
+  Chatham". NEW FINDING: by the late 1940s Albert and Clarie lived at 35 DAGMAR ROAD, the house of Vera's marriage
+  (1942), of Michael's birth (1943) and of Vera's death (1979). Ch23 now has one house running through it. QUESTION FOR
+  RIK: was 35 Dagmar Road the Goldstones' house first, with Vera and George living there with her parents? (Rik's
+  answer of 28 Oct called it "Vera and George's house".) The prose gives only what documents give: each address in its
+  year; no "family home" claim until settled.
+- 28 Oct: Rik notes both Vera and George gave 35 Dagmar Road at the marriage (1942; already held). Whose house it was
+  stays OPEN: (a) the Goldstones', moved there 1939-1942, with Vera and George living with them; or (b) Vera and
+  George's, the Goldstones joining by November 1948. A shared address at a wartime wedding often means the bride's
+  family home: INFERENCE, notes only. To settle: electoral registers (item 92); Albert's death certificate; Steve or
+  Eileen. Prose: each address in its year only.
+- 28 Oct (Rik: "approve all recommendations"): E (a) CONFIRMED (to Ch21). ALL Ch23 DECIDE POINTS RULED. Next: draft movement one.

@@ -188,7 +188,7 @@ the Prologue's "fifty-one years" not repeated. Out (recommended): Priest's "ever
 Helen Cottages address (Prologue territory; a note), the reused 1926 envelope, the criminal lunatics register.
 
 ## WHAT STAYS OUT FOR PART SIX (ruled DECIDE 10 (a): all family memory, in Rik's voice)
-The councillor; the ropery foreman on a bicycle; the Edam cheese; the France story and the German link (Linda's letter;
+The councillor; the ropery foreman on a bicycle; the Edam cheese; the France story and the German link (Linda's letter; [CORRECTED 28 Oct 2026 (Rik): Steve did not find "the German link"; he turned up Albert's naval record, some time after Rik had found it (Rik had not yet told him). Linda's line stays as what Linda believed: PART_SIX_family_memory_log.md.]
 Q8); the "dark family secret"; Vera's "If there's a god, then why did my little brother die?" (ruled DECIDE 14); the
 Harbour Street hairdresser; Auntie Lil and Nanny Vere as Rik knew them; the photographs (Albert and Clarie on the beach;
 the Ferguson family Christmas, late 1950s); the five dots (Rik's closing line); George William Ferguson's death (I);
@@ -716,3 +716,19 @@ WHY ALBERT WAS IN BERMUDA: still item 64. Rik (28 Oct): there was an H.M. Dockya
 from a source before use (general knowledge). With Albert a rigger in H.M. Dockyard, Chatham (1933 nominations), it makes
 dockyard work the likeliest reason: INFERENCE, notes only, until a document (a dockyard pay or transfer record; the
 Admiralty's Bermuda establishment lists) puts him there. The prose says only that he came home from Bermuda.
+
+## REOPENED FOR ONE ADDITION, 28 October 2026 (Rik, via Ch23 DECIDE E: "1934/6 have no business being in my voice")
+Vera's two school items before Brian's death go into Ch21 in date order, under Rik's write-everything-then-trim ruling:
+the Observer of 9 November 1934 (her individual item at a school prize-giving) and of 27 March 1936 ("Lady Precious
+Stream": "Vera Goldstone acted with charm and conviction in the part of the Prime Minister's wife"); both checked 20
+Oct (transcribed/Chatham_Observer_Vera_and_Lily_Goldstone_school_items_1924-1937_transcription.txt, items 4 and 5).
+The Observer named; its reading of her performance quoted, never in our voice. Identity very probable, not proven (no
+parents or address): the prose gives the paper's "Vera Goldstone" as the record does, in the chapter that already has
+her scholarship. Also to consider by the same ruling: Lily's free place (1 August 1924, item 1) and the 1931 form
+prize (item 2), which fall in Ch21's span. Earlier rulings put these out (DECIDE C); Rik's 28 Oct ruling reopens them.
+Draft to Rik as an amendment to the approved chapter; nothing else in Ch21 changes.
+
+RULED 28 October 2026 (Rik: "approve all recommendations"): DECIDE S (a): one clause, the Royal Gazette named once, that
+the Glossop-Harris company had closed its season at the Colonial Opera House, Hamilton, on the first of July; nothing
+of Albert. Ch23 E (a) confirmed: the 1934 and 1936 school items, with Lily's 1924 free place and Vera's 1931 prize, go
+into Ch21 in date order. Both to be drafted together as ONE AMENDMENT to the approved chapter and shown to Rik.
