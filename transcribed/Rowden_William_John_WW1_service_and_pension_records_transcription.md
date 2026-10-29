@@ -1,6 +1,6 @@
 # WILLIAM JOHN ROWDEN (Lilian Madams's husband): FIRST WORLD WAR SERVICE AND PENSION RECORDS, 1914-1917
 Images (Rik's screenshots, 29 October 2026, from an online copy of the WO 364 "pension" series; the viewer shows images
-15946 and 15950 of 19170; Ancestry tree cites WO 364, piece 4886B): sources/images/rowden/ (six files, named by form).
+15946 and 15950 of 19170; Ancestry tree cites WO 364, piece 4886B): sources/images/Rowden/ (six files, named by form).
 Low resolution (about 800 px wide): a further image at higher resolution would settle the uncertain readings.
 IMAGE CHECK (check-once rule): 29 October 2026 (Claude): every image read whole; the marriage and next-of-kin rows cropped.
 Uncertain readings marked [?].
