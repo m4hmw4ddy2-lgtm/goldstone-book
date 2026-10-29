@@ -12,10 +12,10 @@ the same reference). Lily's marriage, 1943, explains the later "Godbold" annotat
 the family's belief that Frank G. Godbold died in the war (Rik, 28 Oct): NOT shown; his death still to find (item 89).
 "Clarrie" is the index's spelling; the 1939 Register has "Clarie I." (the younger).
 
-## 2. ENGAGEMENT NOTICE, NEAVES-GOLDSTONE (image: sources/images/Media-coverage/Part-Six/East_Kent_Gazette_26_November_
-## 1948_Neaves_Goldstone_engagement_Clip.jpg, 609 x 377; Rik, 28 October 2026)
+## 2. ENGAGEMENT NOTICE, NEAVES-GOLDSTONE (image: sources/images/Media-coverage/Part-Six/The_East_Kent_Gazette_etc__
+## 1948_11_26_6.jpg, 609 x 377; uploaded by Rik 28-29 October 2026)
 PAPER AND DATE (Rik, 28 October 2026, from the source file name "The_East_Kent_Gazette_etc__1948_11_26"): the EAST KENT
-GAZETTE, Friday 26 November 1948. Page NOT recorded. (A Sittingbourne paper: the groom's family was of Sittingbourne.)
+GAZETTE, Friday 26 November 1948. Page: the file name's final "_6" probably means page 6 (Findmypast's clip naming), not confirmed. (A Sittingbourne paper: the groom's family was of Sittingbourne.)
 IMAGE CHECK (check-once rule): 28 October 2026 (Claude): the whole clip read at full size. Certain except where marked;
 the scan is soft in places ("M[r]s." in line 3 is broken but legible).
 Under the heading "ENGAGEMENTS":
