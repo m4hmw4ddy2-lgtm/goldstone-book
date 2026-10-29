@@ -47,7 +47,9 @@ CHAPTER NUMBERS WRITTEN IN WORDS IN THE NOTES ("Chapter Seventeen", "Ch19") ARE 
 | 20 | 21 | Invalided | Approved 16 Oct 2026; rules pass 21 Oct; corrected 23 Oct (the Pioneer's crossing; the 1916 barracks spell, audit); 24 Oct (the Drake, the Courageous, the Pioneer's sailing; audit) | CHAPTER_20_skeleton.md |
 | 21 | 22 | I Shall Live to Fight Again | Approved 22 Oct 2026 (Rik: "I approve it"; about 1,550 words); corrected 24 Oct (the younger Clarie; Mrs Stearne; audit); closes Part Five. RULED 26 Oct 2026 (Rik): Part Five to END with Brian's death (May 1937); the 1935 inquest passage to move to Ch22 and everything after Brian to Part Six as source material; CUT MADE AND RE-APPROVED 27 Oct 2026: ends on Brian's burial ("The grave was dug to ten feet."); about 770 words; cut text in notes/PART_SIX_source_from_CHAPTER_21.md. The death-certificate check below moves to Part Six. ONE CHECK OUTSTANDING (a recorded check, not a reopening): the two death certificates (item 60; Clarie's on order) against the ending's dates, place and age | CHAPTER_21_skeleton.md; PART_FIVE_plan.md |
 | 22 | new | The Length of a Rope (ruled 27 Oct) | SKELETON PROPOSED 27 Oct 2026; DECIDE A-Q RULED 27 Oct (as recommended, except B: title; K: get movement three sources now): the medical and legal chapter, placed between Parts Five and Six (Rik, 26 Oct, superseding 25 Oct). Started afresh from the sources (Rik, 27 Oct); the working draft of 26 Oct (not in the repo) is notes only. DECIDE A to Q for Rik. Sources for movement three not yet held | CHAPTER_22_skeleton.md |
-| PART SIX, CODA | | | Not begun. RULED 26 Oct 2026: opens with the family in 1937 (Vera), not with the research; the post-Brian material of Ch21 is its source material | MASTER_NOTES; handover 26 Oct (CHAPTER_22_skeleton.md, head) |
+| PART SIX, "WITHOUT WHOM" (title ruled 27 Oct 2026) | | | | |
+| 23 | new | (on completion) | SKELETON PROPOSED 27 Oct 2026 (Vera, May 1937 to June 1962; documentary voice; ends on the stone). Part plan DECIDE 1 to 4, 13, 14 RULED 27 Oct; Ch23 DECIDE A to M for Rik; questions for Rik at the foot | CHAPTER_23_skeleton.md; PART_SIX_plan.md |
+| PART SIX (rest), CODA | | | Plan DECIDE 5 to 12 OPEN. Not begun. RULED 26 Oct 2026: opens with the family in 1937 (Vera), not with the research; the post-Brian material of Ch21 is its source material | MASTER_NOTES; handover 26 Oct (CHAPTER_22_skeleton.md, head) |
 
 Part Four and Part Five logs before 21 October 2026 (OLD numbering throughout):
 
@@ -328,6 +330,45 @@ certificates are not needed (GRO index, S qtr 1883 West Ham 4a 102).
 80. (Added 27 October 2026, Chapter Twenty-Two, movement three.) The Medico-Psychological Association's committee report of 1896 on the criminal responsibility of the insane (quoted by the Atkin report, p. 20: "to the insane person justice is done"; adopted by the Association "while not approving" the 1843 rules): the report itself (JMS 1896, probably the Association's annual meeting) and the committee's membership. LOCATED 27 Oct 2026: JMS vol. 42, no. 179 (October 1896): "Medico-Psychological Association ... Annual Meeting", Notes and News, pp. 859-885 (the July 1896 meeting, 23-24 July), and the Occasional Note "Criminal Responsibility", pp. 823-824. REQUESTED from Hester Parr (Cambridge Core), 27 Oct 2026 (Rik).
 
 81. (Added 27 October 2026, Chapter Twenty-Two.) The Times, 19 October 1883, the LEADER on Cole's conviction (leader page, probably p. 9; the held image is p. 8, the court report): it names Gouldstone ("the jury were overruled, and Gouldstone was sent to Broadmoor"; "the Home Secretary is the final Court of Appeal"). Held only as the JMS's abridged reprint (transcribed/JMS_Jan_1884_pp613-614_Cole_reprieve_and_Times_leader_19_Oct_1883_transcription.md). The original wanted before the prose quotes it.
+
+82. (Added 27 October 2026, Part Six, Ch23; PART_SIX_plan DECIDE 14.) George William Ferguson's death certificate: GRO,
+Q1 1962, Chatham, vol. 5b, p. 443 (index, age 41). For the day (8 February by the KFHS MI), the place (All Saints Hospital
+by the KFHS burial transcript), the cause and the informant. The family's cause ("viral pneumonia", Rik's memoir) is
+memory until this is held.
+
+83. [INDEX OBTAINED 28 October 2026 (Rik): Chatham, Oct-Dec quarter 1944, mother's maiden name Goldstone, 8a 1781;
+CHAPTER_23_skeleton.md, finding 9. The "8a" doubt below withdrawn.] (Added 27 October 2026, Part Six, Ch23; DECIDE 14.) Stephen Albert John Ferguson's birth: the GRO birth index entry
+(and the certificate, if Ch23 gives more than the year). Held only in the two GEDCOMs (22 September 1944, Chatham; the
+Ancestry tree's citation reads "Volume 8a, Page 1781", which does not look like a Chatham reference of 1944: to check).
+
+84. (Added 27 October 2026, Part Six; DECIDE 14.) Vera Georgina Ferguson's death certificate: GRO, Q4 1979, Chatham
+(index entry to find). The date is held (Probate Calendar 1980: 2 November 1979, of 35 Dagmar Road); the certificate gives
+the place (St Bartholomew's Hospital, Rochester, by Rik's memoir: to test), cause and informant.
+
+85. (Added 27 October 2026, Part Six; from PART_SIX_plan, SOURCES TO OBTAIN, not carried here when the plan was written.)
+Present-day law, for Ch25 (DECIDE 8): Homicide Act 1957; Criminal Procedure (Insanity) Act 1964; Murder (Abolition of
+Death Penalty) Act 1965 (legislation.gov.uk); Law Commission, "Criminal Liability: Insanity and Automatism" (2013).
+
+87. [OBTAINED 28 October 2026 (Rik): transcribed/Ferguson_1921_census_schedule_263_transcription.md; Chatham.] (Added 28 October 2026, Part Six, Ch23.) George William Ferguson in the 1921 census (Rik holds it): the image, for his
+birthplace (Chatham or Canterbury: proposed Contradiction 128) and household (31 Best Street by the Ancestry tree).
+
+88. (Added 28 October 2026, Ch21 / Ch24.) The Orbita: the rest of the inward list (BT 26/927; only the page with Albert is
+held), for the whole company aboard; and the Orbita's sailing date from Bermuda (a Royal Gazette shipping notice, early
+July 1930). Why Albert was in Bermuda stays item 64.
+
+89. (Added 28 October 2026, Part Six, Ch24.) Frank G. Godbold, Lily Alma Rose Goldstone's husband (Rik: married; "we
+think he died in WWII"): GRO marriage index (Goldstone/Godbold, Medway or wherever Lil then was, after 1939, since the
+Register's "Godbold" is a later annotation); CWGC; GRO deaths. No reliable record found by Rik so far.
+
+90. [CLOSED 28 October 2026 (Rik): the two Goldstone families are not connected; no search needed.] (Added 28 October 2026, Part Six; PART_SIX_plan DECIDE 11.) The Ethell-Goldstone line, by certificates: Eileen's
+birth (1947, father David Ethell); David Ethell's birth (November 1913, Gillingham: mother's maiden name Goldstone in the
+GRO index); the marriage of David Ethell and Amy Goldstone (1911); Amy's birth (31 March 1889, Willesden: father
+Frederick Goldstone). Then, only if Rik wants it, Frederick Lazenbys Goldstone's line back to James Goldstone (born about
+1803) against the Great Sampford Gouldstones. The trees alone make Amy Rik's great-grandmother; nothing yet joins her
+family to William's.
+
+86. (Added 27 October 2026, Part Six; as item 85.) Rik's own research timeline, in his words (PART_SIX_plan DECIDE 5); and
+the DNA evidence as screenshots for the notes (the Bronwyn Joule match; the Madams analysis).
 
 ## 5. DO NOT USE
 - "Chatham Asylum" — it was Chartham Asylum near Canterbury

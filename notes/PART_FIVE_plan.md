@@ -182,6 +182,17 @@ saved: marked GK.)
    maiden surname is Ethell. Whether this family is connected to Albert or to the Gouldstones is not shown anywhere.
    Also on the medal roll, the next row: another Albert Goldstone, S.P.O., 310716. NAMESAKE TRAPS for Part Five (DO NOT
    USE as Albert's kin); the Ethell connection is a question for Rik and Part Six, if anywhere.
+[28 October 2026, Claude, from Rik's two GEDCOMs (sources/genealogy/), which AGREE: Amy Goldstone (born 31 March
+1889, Willesden; died February 1973) married David Ethell (born 1884, Gillingham; died 28 August 1943); their son David
+Ethell (born November 1913, Gillingham; died 2006) married Mary Elizabeth Wilson (born 1924, Jarrow); their daughter is
+Eileen Adele Ethell, Rik's mother. So by the trees AMY GOLDSTONE IS RIK'S GREAT-GRANDMOTHER on his mother's side, Eileen's
+"Granny Ethell" (Eileen's memoir: born in London, said to have sung in music hall, widowed "during the war", l.9, 228).
+Her line in the MyHeritage tree: Frederick Lazenbys Goldstone (born 1855/56, Islington) and Elizabeth Ann Bassett
+(Hinckley); his father Henry Gatenby Goldstone (born 1830, Bloomsbury); his father James Goldstone (born about 1803).
+A LONDON family. No connection to the Essex Gouldstones of Great Sampford (William's) is shown anywhere. TREES ONLY:
+no certificate held for any link. And note: even a proven link would make Rik a distant blood relation of William
+through AMY, never through Albert, whose surname came from Elizabeth's marriage, not from blood.]
+[RULED 28 Oct 2026 (Rik): not connected. PART_SIX_plan DECIDE 11 closed.]
 
 13. **Elizabeth in Part Five's documents.** She is in none of Albert's after 1901. The 1910 register has a column for
    each father and none for a mother (the form; whether English registers then had no mother's column is general
@@ -443,7 +454,8 @@ Q11. Dramatis (Albert): "The five dots: possibly representing five murdered half
 
 ## RULINGS (Rik, 13 October 2026). These govern where they differ from the body above.
 - **DECIDE 1: (a).** Span 11 November 1901 to Albert's death, 1962. Michael's birth (1943) stays in Part Five in
-  its date order as a plain line; Part Six opens with Rik.
+  its date order as a plain line; Part Six opens with Rik. [SUPERSEDED 26-27 October 2026: Part Five ends with Brian (May 1937); Michael's birth and Part
+  Six's opening are Ch23's, through Vera, in the documentary voice (PART_SIX_plan.md, RULINGS).]
 - **DECIDE 2: (a).** Three chapters: 1901-1910, 1910-1919, 1919-1962.
 - **DECIDE 3: (a).** Part Five opens on the occupation line: "Labourer" struck through, "Farm Labourer" written beneath.
   (b) rejected (Lion three days after Madams's death is a juxtaposition that points). IF the Caird Library reply

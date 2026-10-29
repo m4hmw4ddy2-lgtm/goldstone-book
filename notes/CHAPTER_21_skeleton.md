@@ -263,6 +263,8 @@ from 1921 to 1945, and the chapter would otherwise leave her alive). (b) Out; Pa
 **I. George William Ferguson's death, early 1962 (GRO index Q1 1962, age 41).** (a) **Out of Part Five; Part Six, in
 Rik's voice (he is Rik's grandfather); the dates table row corrected to the index** (recommended). (b) A clause before Albert's death.
 Against: one more death in a closing page; and the month is unsettled.
+[SUPERSEDED 27 October 2026 (Rik, PART_SIX_plan DECIDE 4 (a)): George's death goes in Ch23, in the documentary
+voice, not in Rik's voice.]
 
 **J. The elections, selected.** (a) **In: "the propaganda secretary", and Labour's only candidate so far (29 Sep 1933);
 Luton ward because Packer had become Mayor-elect (13 Oct); the nomination's address and trade; 665 to 700; Stearne's
@@ -694,3 +696,23 @@ The 1937 depth carries no stated reason (the register gives none).
 - 27 October 2026: CUT MADE (cut map, DECIDE R (b)). Rik edited the last paragraph (cut "and the family had moved by
   then to 33A Connaught Road"; the address goes to Part Six). CHAPTER TWENTY-ONE RE-APPROVED in its cut form (Rik
   supplied the final paragraph); about 770 words; ends "The grave was dug to ten feet." Closes Part Five.
+
+## THE ORBITA: COLOUR PROPOSED, 28 October 2026 (Rik: "maybe we can dig into this a bit for colour"). An APPROVED
+## paragraph: nothing changes without Rik's ruling.
+NEW SOURCE: The Royal Gazette and Colonist Daily (Bermuda), 30 June 1930, p. 3 (Rik's upload; transcribed and checked:
+transcribed/Royal_Gazette_Bermuda_30_June_1930_Glossop-Harris_Company_transcription.md). Florence Glossop-Harris "and
+her English Repertory Company" were ending a season at the Colonial Opera House, Hamilton: "Bird in Hand" on Monday 30
+June, a farewell "The Wrecker" on Tuesday 1 July. Gordon Blyth and Arthur Holland, on the Orbita page, are in the casts.
+DECIDE S. (a) **One clause, in our words, with the paper named once: that the company had closed a season at the
+Colonial Opera House in Hamilton a few days before (or "on the first of July") (recommended: it says why a page of a
+passenger list is half a theatre company, which the paragraph now leaves the reader to wonder at; one job, one clause;
+nothing of Albert).** (b) Leave the paragraph as approved. (c) More (the plays, the reviews, Roger Livesey): against,
+it is the company's story, not Albert's, and Livesey's sailing is not shown.
+CONDITIONS under (a): no sentence or juxtaposition suggests Albert saw, met or knew of the company; "a few days before"
+only if the Orbita's sailing date is found (item 88); otherwise "on the first of July", the paper's date for the last
+night. The "commercial traveller" in "Bird in Hand" (Blyth's part) is NOT to be used: it points at the 1910 register.
+Val Larg (Bahá'í histories page) is not shown to be on the 1930 tour or the ship: out.
+WHY ALBERT WAS IN BERMUDA: still item 64. Rik (28 Oct): there was an H.M. Dockyard in Bermuda until 1951. To be saved
+from a source before use (general knowledge). With Albert a rigger in H.M. Dockyard, Chatham (1933 nominations), it makes
+dockyard work the likeliest reason: INFERENCE, notes only, until a document (a dockyard pay or transfer record; the
+Admiralty's Bermuda establishment lists) puts him there. The prose says only that he came home from Bermuda.

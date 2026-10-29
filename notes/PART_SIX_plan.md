@@ -31,7 +31,10 @@
   (burial transcript; MIs: "husband & father").
 - Albert died 21 June 1962, All Saints, buried 26 June, grave 10/534, "Retired", 76; the stone: Albert, Brian R. A.,
   Rennie "wife & mother", no surname (burial transcript; MIs).
-- Vera died November 1979, Chatham, aged 58 (dramatis; SOURCE TO CHECK: certificate or index).
+- Vera died 2 November 1979, of 35 Dagmar Road, Chatham (Probate Calendar 1980, administration 14 March 1980,
+  £13,645; image checked 22 Oct: transcribed/Goldstone_family_records_1911-1982_..._transcription.md, section 3). The
+  death certificate (place of death, cause) is NOT held (live_lists 4, item 84). [Corrected 27 Oct 2026: "SOURCE TO
+  CHECK" was stale; the calendar entry was already held (standing rule five).]
 - Rik born 31 May 1970, All Saints Hospital, Chatham (birth certificate): where Albert and George died, and (Rik)
   where Michael, Rob and Rik's mother were born (42 Magpie Hall Road, the old Medway Union Workhouse site).
 All of it is already approved prose or checked notes in PART_SIX_source_from_CHAPTER_21.md: source material, to be
@@ -113,6 +116,16 @@ alone. The files open in January 2036. (DECIDE 9 orders these.)
 11. **The Ethell question** (PART_FIVE_plan finding 12: Amy Goldstone, daughter of a Chatham Frederick Goldstone, married
     David Ethell, 1911; Rik's mother's maiden name is Ethell). (a) Look before Ch24 (a namesake trap until shown);
     (b) leave it. RECOMMEND (a), a quick check only: if it connects, it is extraordinary; if not, it stays out.
+[28 October 2026, Claude, from Rik's two GEDCOMs (sources/genealogy/), which AGREE: Amy Goldstone (born 31 March
+1889, Willesden; died February 1973) married David Ethell (born 1884, Gillingham; died 28 August 1943); their son David
+Ethell (born November 1913, Gillingham; died 2006) married Mary Elizabeth Wilson (born 1924, Jarrow); their daughter is
+Eileen Adele Ethell, Rik's mother. So by the trees AMY GOLDSTONE IS RIK'S GREAT-GRANDMOTHER on his mother's side, Eileen's
+"Granny Ethell" (Eileen's memoir: born in London, said to have sung in music hall, widowed "during the war", l.9, 228).
+Her line in the MyHeritage tree: Frederick Lazenbys Goldstone (born 1855/56, Islington) and Elizabeth Ann Bassett
+(Hinckley); his father Henry Gatenby Goldstone (born 1830, Bloomsbury); his father James Goldstone (born about 1803).
+A LONDON family. No connection to the Essex Gouldstones of Great Sampford (William's) is shown anywhere. TREES ONLY:
+no certificate held for any link. And note: even a proven link would make Rik a distant blood relation of William
+through AMY, never through Albert, whose surname came from Elizabeth's marriage, not from blood.]
 12. **The Prologue's echo.** The Prologue ends in Rik's voice; Part Six should not repeat its sentences. RECOMMEND
     reading the Prologue's close before drafting Ch25 and listing what it has already said.
 
@@ -130,3 +143,49 @@ alone. The files open in January 2036. (DECIDE 9 orders these.)
 1. Rik rules DECIDE 1 to 12 (or the first four, which shape Ch23).
 2. Ch23 skeleton: it needs no new sources except the death certificates, and can be planned now.
 3. Rik writes his research timeline (for Ch25), in any form.
+
+## RULINGS (Rik, 27 October 2026). These govern where they differ from the body above.
+Numbering: Rik ruled six points in the session, put to him as "1 to 6". 1 to 4 are this plan's DECIDE 1 to 4. The
+session's "5" and "6" were NEW points, recorded here as DECIDE 13 and 14 so that they do not collide with the plan's
+own 5 and 6 (the research spine; Michael), which stay OPEN, with 7 to 12.
+- **DECIDE 1: (b), "WITHOUT WHOM".** Rik: he removed "Without whom I would not exist" from the end of the Prologue in
+  order to spend it on this Part's title. "Without William's actions, without Elizabeth's survival, without
+  reinvention, none of the family in Part 6 would be here." (Claude had leaned against it: the thesis in our voice, and
+  the acknowledgements' phrase. Rik's reason answers both: the title names three causes, not one, and it is his.)
+  Title as two words, "Without Whom", as the handover had it (Claude's reading of the ruling; Rik to correct if he wants
+  the longer form).
+- **DECIDE 2: (a), restricted.** Ch23 (Vera, 1937 to 1962) is a chapter of its own. The split of what follows into
+  Ch24 and Ch25 stays OPEN until Rik's research timeline (DECIDE 5) and the drilling for family content are in.
+- **DECIDE 3: (a).** Rik's voice starts at Ch24. Ch23 is in the documentary voice and holds NO family memory: not
+  Vera's question about Brian, not the cause of George's death as the family gives it, not the drink, nothing from
+  Rik's memoir. Albert's club gets one passage in Ch23 (1939 or 1953 at length, not both: ONE JOB PER VOICE).
+- **DECIDE 4: (a).** 1962 closes Ch23: George (died 8 February) and Albert (died 21 June), both at All Saints Hospital,
+  in their two graves (20/570; 10/534), nothing joining them in our voice. The chapter ENDS ON THE STONE: Albert,
+  Brian R. A., Rennie, "wife & mother", no surname. The plan's alternative close ("Vera, a widow and fatherless in one
+  year") is dropped: a pointing sentence. Vera's 1962 as told to Rik belongs to Ch24.
+- **DECIDE 13 (new; the session's "5"): (a).** George's "husband & father" (KFHS DLMI28, ref 4497) may be quoted as the
+  stone's own words, as Rik ruled for "wife & mother" (22 Oct): the same column, the same form.
+- **DECIDE 14 (new; the session's "6"): (a).** To obtain: George William Ferguson's death certificate (1962); the GRO
+  birth index entry for Stephen Albert John Ferguson (1944); Vera's death certificate (1979). Added to live_lists 4,
+  items 82 to 84.
+- **Rik, the same session: "My book" is not a publication** ("my vanity memoir"). It is a SOURCE for Part Six (Rik's
+  own testimony, in his voice) as well as the voice reference; its passages may be drawn on, rewritten, in Ch24 and
+  after. What it says of things Rik saw is his own observation; what it says of things he was told (the drink, "my
+  mum's words"; the cause of George's death) is family memory, attributed as such. Its "around £11,000" [CORRECTED 28 Oct 2026: not a slip.
+  Eileen's memoir (l.770) gives about £11,000 as the price of the Dagmar Road HOUSE, shared by the two sons; the
+  calendar's £13,645 is the ESTATE. Both stand: PART_SIX_family_memory_log.md.]
+- **Rik, the same session: "you probably need to drill me for more content as we go."** Standing instruction for Part
+  Six: each skeleton ends with questions for Rik, and each answer is recorded as his testimony, dated, in the skeleton.
+- SUPERSEDED by these rulings and by the ruling of 26 Oct: PART_FIVE_plan DECIDE 1 ("Michael's birth stays in Part
+  Five ... Part Six opens with Rik"); CHAPTER_21_skeleton DECIDE I (a) ("George William Ferguson's death ... Part Six,
+  in Rik's voice"): his death is now in Ch23, in the documentary voice.
+
+- 28 October 2026: Eileen Ferguson Smith's memoir (correspondence/Mum's book.txt) read in full; everything bearing on
+  Part Six logged, attributed, in notes/PART_SIX_family_memory_log.md, the single log for family testimony from now on
+  (Rik's, Eileen's, Linda's). Nothing in it changes Ch23 (documentary voice).
+
+- **RULED 28 October 2026 (Rik): "Yes, there is Goldstone on both sides of my family, but they are not connected."**
+  DECIDE 11 CLOSED. Amy Goldstone (Granny Ethell) is Rik's maternal great-grandmother; her London family is NOT
+  connected to William's or to Albert's. No further search (live_lists 4, item 90, withdrawn except as Rik wishes). In
+  the book: nothing joins the two Goldstone lines in any voice. Whether the coincidence of name is mentioned at all is
+  Rik's call in Ch24 or Ch25, in his own voice; never pressed into the causal chain.

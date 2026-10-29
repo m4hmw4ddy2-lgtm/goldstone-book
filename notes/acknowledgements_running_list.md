@@ -7,9 +7,13 @@
 ### Family
 - **Uncle Steve Ferguson.** Family photographs (the survivors of the house fire at Dot's) and family
   information. Recorded: `notes/archive/session-summary-2026-06-24.md`; project memory.
+- **Eileen Ferguson Smith** (Rik's mother). Her memoir (correspondence/Mum's book.txt, supplied by Rik 28 October
+  2026) and her WhatsApp messages of 25 June 2025 (correspondence/images/IMG_0049.PNG, IMG_0050.PNG): family memory
+  of Vera, Lil and Dagmar Road, 1964 to 1980. Recorded: `notes/PART_SIX_family_memory_log.md`. *AGREED (Rik, 28 October 2026):
+  her memories and testimony may be used.*
 - **Linda Neaves, and her late sister Sue (Susan Neaves).** Oral history, including the Edam cheese story and
   the Chatham ropery foreman detail. Recorded: `notes/dramatis_personae.md` (Doris May Goldstone's entry);
-  project memory. *Sue's name needs Linda's wishes before it is printed.*
+  project memory. *Linda's agreement to use her memories and testimony: GIVEN (Rik, 28 October 2026). Sue's name needs Linda's wishes before it is printed.*
 
 ### DNA matches and descendants
 - **Bronwyn Joule**, descendant of Eliza Jane Madams (emigrated to New Zealand, 1927). The MyHeritage match,
