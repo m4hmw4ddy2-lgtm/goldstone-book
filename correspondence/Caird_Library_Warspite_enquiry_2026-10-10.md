@@ -107,3 +107,14 @@ WHAT IT CHANGES:
 4. Fowler p. 40 gives the record holder for the ARETHUSA (item 94): "The Shaftesbury Homes has some records
    (www.shaftesbury.org.uk) or write to The Chapel, Royal Victoria Patriotic Buildings, Trinity Road, London SW18 3SX"
    (the book's address; current details to check).
+
+---
+
+## Rik's reply, sent 29 October 2026 (drafted in session)
+Thanked Sophie for checking both volumes and for the Fowler pages; said the negative result bears on how far the Herne
+Bay Press report can be relied on; mentioned the Arethusa lead. Asked one question: whether RMG holds anything, or can
+recommend a published source, recording where the Warspite was moored in 1901 (for context). AWAITING REPLY. Bears on
+CHAPTER_18_skeleton.md (the Warspite gap: fill from a source, or cut the bracket).
+LIMIT OF THE SEARCH (noted 29 Oct): one register by date (1899-1901) and one index (G and M) under four names; a boy
+entered under an unexpected name would not be found. Albert's naval service is unbroken from 11 November 1901 (ADM 188/383:
+Impregnable, then Lion from 26 November 1901), so the only possible Warspite months are April to November 1901.
