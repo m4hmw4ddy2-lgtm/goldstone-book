@@ -65,6 +65,6 @@ conflict (she may have moved after 1979), but the calendar does not show her at 
   The DAY, 7 January 1958, and the burial at Palmerston Road Cemetery come from the Ancestry tree, whose source for them
   is Find a Grave (Rik's link, Ancestry collection 60526, record 194528623): a secondary index, not the register.
 - "George W Ferguson", death age 41, birth "abt 1921" (Ancestry's subtraction), registered Jan-Feb-Mar 1962, Chatham,
-  Kent, vol. 5b, p. 443. Age 41 fits his birth on 24 May 1920. Rik: agrees with Find a Grave memorial 224970666 (not
+  Kent, vol. 5b, p. 443. Age 41 fits his birth in May 1920 (1921 census; the day "24 May" unsourced). Rik: agrees with Find a Grave memorial 224970666 (not
   readable from the session: the site refuses automated fetching). The Ancestry tree has death February 1962, buried 15
   February 1962, Palmerston Road Cemetery; MyHeritage's "Mar 1962" is the quarter, not a month.
