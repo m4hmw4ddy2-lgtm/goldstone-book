@@ -633,3 +633,11 @@ Warspite (Caird Library). Each movement shown before the next.
   Broadmoor_1891_1901_census_William_Gouldstone_transcription.md and the 1921 file) are HELD FOR A LARGER PIECE ON
   BROADMOOR, place undecided (live_lists 1).
 
+
+- 29 October 2026: Caird Library (RMG) searched the Marine Society's registers for 1899-1901 (by date) and the alphabetical
+  index (G and M): Albert NOT FOUND under any of his names (correspondence/Caird_Library_Warspite_enquiry_2026-10-10.md).
+  The Herne Bay Press (20 April 1901) remains the only source that he was got onto the Warspite. The bracketed gap (what the
+  ship was and where she lay) still wants a published source. FOR RIK: fill it from a published history, or close the gap
+  by cutting the bracket and leaving the paper's words to stand alone. Recommend the second unless a good source turns up
+  soon: the sentence already says, in the paper's words, what was arranged; a description of a ship he may never have
+  boarded adds less than it seems.
