@@ -27,7 +27,7 @@ NOTES (not prose):
    (proposed Contradiction 128). The census governs over the tree. The tree's Canterbury may come from where his elder
    sisters were born (rows 3-5); not shown.
 2. HIS AGE: 1 year 1 month on census night (19 June 1921) puts his birth about mid-April to mid-May 1920. Against
-   "24 May 1920" (dramatis; source of the day not recorded), which gives 1 year 0 months. A month's slip by a parent is
+   "24 May 1920" (dramatis; the day now SOURCED, 30 Oct 2026, from the 1939 Register: transcribed/Ferguson_George_1939_Register_79_Park_Street_Pembroke_transcription.md), which gives 1 year 0 months. A month's slip by a parent is
    common; NOT a contradiction worth entering unless a birth certificate is held. It settles the YEAR: 1920, not 1921.
 3. J. H. Ferguson, labourer, H.M. Dockyard: the "John Henry Ferguson, labourer H.M. Dockyard" of the 1942 marriage.
 4. Part Six material only, and Ch23 needs none of it (DECIDE I: George at the marriage, "twenty-one"). A household of
