@@ -76,8 +76,8 @@ for x,(n,d) in zip(cx,c): t.node(x,R4,[(n,"name"),(d,"date")])
 t.out("backmatter/family_tree_1_to_1883.svg","Two families, to 1883")
 
 # ---------------- TREE 2 ----------------
-u=SVG(1300,900)
-u.text(650,42,"From Elizabeth to the author",24)  # title ruled 12 October 2026 (Rik); tree placed at the head of Part Five
+u=SVG(1300,580)
+u.text(650,42,"Elizabeth's family, to 1932",24)  # retitled 30 October 2026 (Rik: "ok"), was "From Elizabeth to the author" (ruled 12 Oct): trimmed to Albert's children; the line to the author moves to tree 3, after the Part Six title page
 Q0,Q1,Q2,Q3,Q4=110,280,450,620,790
 u.node(650,Q0,[("Elizabeth Stock","name"),("b. 1855","date"),("married William Gouldstone, 1879","note")],bold=True)
 # unnamed father
@@ -99,14 +99,32 @@ dx=[220,400,580,760,940]
 d=[("Lily Alma Rose","b. 1913"),("Clarie Irene","b. 1918"),("Vera Georgina","b. 1921"),("Doris May","b. 1928"),("Brian Ronald Albert","b. 1932")]
 u.line(495,Q1+40,495,Q2-55); kids(u,dx,Q2-55,Q2-22)
 for x,(n,dd) in zip(dx,d):
-    extra=[("m. 1942 George William Ferguson, b. 1920","note")] if n=="Vera Georgina" else []
+    extra=[]
     u.node(x,Q2,[(n,"name"),(dd,"date")]+extra,bold=(n=="Vera Georgina"))
-# Vera's sons
-sx=[500,700]
-u.line(580,Q2+40,580,Q3-55); kids(u,sx,Q3-55,Q3-22)
-u.node(500,Q3,[("Michael George Ferguson","name"),("b. 1943","date"),("m. Eileen Adele Ethell, b. 1947","note")],bold=True)
-u.node(700,Q3,[("Stephen Albert John","name"),("b. 1944","date")])
-u.line(500,Q3+40,500,Q4-55); kids(u,[400,600],Q4-55,Q4-22)
-u.node(400,Q4,[("Robert George Ferguson","name"),("b. 1968","date")])
-u.node(600,Q4,[("Richard David Ferguson","name"),("b. 1970","date")],bold=True)
-u.out("backmatter/family_tree_2_elizabeths_later_family.svg","From Elizabeth to the author")
+u.out("backmatter/family_tree_2_elizabeths_later_family.svg","Elizabeth's family, to 1932")
+
+# ---------------- TREE 3 ----------------
+# Added 30 October 2026 (Rik: "yes, to follow the title page"): stands after the Part Six title page ("WITHOUT WHOM"),
+# before Chapter Twenty-Three, so the reader has the line from Albert to the author before Part Six's documents.
+# Title "From Albert to the author" PROPOSED, for Rik. Sisters' marriages: GRO marriage index (1940, 1943, 1949).
+v=SVG(1300,800)
+v.text(650,42,"From Albert to the author",24)
+P0,P1,P2,P3=110,290,470,650
+v.node(560,P0,[("Albert Jennet Goldstone","name"),("b. 1887","date")],bold=True)
+v.node(800,P0,[("Clarie Irene Setterington","name"),("b. 1889","date")])
+v.double(665,695,P0-5); v.text(680,P0+20,"m. 1910",12,style="italic",fill=GREY)
+v.line(680,P0+28,680,P1-55)
+cx=[260,470,680,890,1080]
+kids(v,cx,P1-55,P1-22)
+ch=[("Lily Alma Rose","b. 1913","m. 1943 Frank G. Godbold"),("Clarie Irene","b. 1918","m. 1940 John T. Ainsley"),
+    ("Vera Georgina","b. 1921","m. 1942 George William Ferguson, b. 1920"),("Doris May","b. 1928","m. 1949 Charles George Neaves"),
+    ("Brian Ronald Albert","b. 1932",None)]
+for x,(n,dd,m) in zip(cx,ch):
+    v.node(x,P1,[(n,"name"),(dd,"date")]+([(m,"note")] if m else []),bold=(n=="Vera Georgina"))
+v.line(680,P1+40,680,P2-55); kids(v,[580,780],P2-55,P2-22)
+v.node(580,P2,[("Michael George Ferguson","name"),("b. 1943","date"),("m. Eileen Adele Ethell, b. 1947","note")],bold=True)
+v.node(780,P2,[("Stephen Albert John","name"),("b. 1944","date")])
+v.line(580,P2+40,580,P3-55); kids(v,[480,680],P3-55,P3-22)
+v.node(480,P3,[("Robert George Ferguson","name"),("b. 1968","date")])
+v.node(680,P3,[("Richard David Ferguson","name"),("b. 1970","date")],bold=True)
+v.out("backmatter/family_tree_3_from_albert.svg","From Albert to the author")

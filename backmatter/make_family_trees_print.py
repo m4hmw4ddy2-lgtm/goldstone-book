@@ -1,6 +1,7 @@
 # Family trees for the printed page, drawn at actual size (millimetres and points).
 # Run from the repository root:  python3 backmatter/make_family_trees_print.py
-# Writes backmatter/family_tree_1_to_1883_print.pdf and family_tree_2_elizabeths_later_family_print.pdf.
+# Writes backmatter/family_tree_1_to_1883_print.pdf, family_tree_2_elizabeths_later_family_print.pdf and
+# family_tree_3_from_albert_print.pdf.
 #
 # Built for the SMALLEST likely trade format, B-format paperback (198 x 129 mm, text area about 100 x 160 mm),
 # so that the same drawing sits at 100% in any larger format (Demy 234 x 156 and up) without scaling.
@@ -188,9 +189,9 @@ c.save()
 
 # ---------------------------------------------------------------- TREE 2
 c = canvas.Canvas("backmatter/family_tree_2_elizabeths_later_family_print.pdf", pagesize=(PAGE_W, PAGE_H))
-c.setTitle("From Elizabeth to the author")
+c.setTitle("Elizabeth's family, to 1932")
 p = Page(c)
-p.text(50, 4, "From Elizabeth to the author", "R", TITLE)
+p.text(50, 4, "Elizabeth's family, to 1932", "R", TITLE)  # retitled 30 Oct 2026 (Rik); trimmed to Albert's children
 
 # Top: Elizabeth, the unnamed father (dashed) and William James Madams (single line: no marriage found; Rik, 12 October 2026)
 EY = 16
@@ -230,28 +231,54 @@ for x, (n, d) in zip(dx, [("Lily Alma Rose", "b. 1913"), ("Clarie Irene", "b. 19
                           ("Brian Ronald Albert", "b. 1932")]):
     p.line(x, ry - 4, x, ry - 2.6)
     p.person(x, ry, n, d, bold=(n == "Vera Georgina"))
-# Vera
-VX = 48
-y = ry
-p.line(VX, y + 4.5, VX, y + 18)
-spouse(VX, y + 9.0, "= George William Ferguson, b. 1920, m. 1942", "left")
-ry = y + 22
-sons = [38, 78]
-p.line(sons[0], ry - 4, sons[1], ry - 4)
-for x in sons:
+c.showPage()
+c.save()
+
+# ---------------------------------------------------------------- TREE 3
+# Added 30 October 2026 (Rik): after the Part Six title page. Title PROPOSED, for Rik.
+c = canvas.Canvas("backmatter/family_tree_3_from_albert_print.pdf", pagesize=(PAGE_W, PAGE_H))
+c.setTitle("From Albert to the author")
+p = Page(c)
+p.text(50, 4, "From Albert to the author", "R", TITLE)
+AY = 18
+p.person(33, AY, "Albert Jennet Goldstone", "b. 1887", bold=True)
+p.person(75, AY, "Clarie Irene Setterington", "b. 1889")
+p.double(50, 58, AY - 1.1)
+p.text(54, AY + 3.2, "m. 1910", "I", NOTE, grey=True)
+p.line(54, AY + 4.5, 54, AY + 18)
+ry = AY + 22
+dx = [9, 29, 49, 68, 90]
+p.line(dx[0], ry - 4, dx[-1], ry - 4)
+p.line(54, AY + 18, 54, ry - 4)
+kids3 = [("Lily Alma Rose", "b. 1913", ("m. 1943", "Frank G. Godbold")),
+         ("Clarie Irene", "b. 1918", ("m. 1940", "John T. Ainsley")),
+         ("Vera Georgina", "b. 1921", None),
+         ("Doris May", "b. 1928", ("m. 1949", "Charles G. Neaves")),
+         ("Brian Ronald Albert", "b. 1932", None)]
+for x, (n, d, m) in zip(dx, kids3):
     p.line(x, ry - 4, x, ry - 2.6)
-p.person(38, ry, "Michael George Ferguson", "b. 1943", bold=True)
-p.person(78, ry, "Stephen Albert John", "b. 1944")
-# Michael
-y = ry
-p.line(38, y + 4.5, 38, y + 18)
-spouse(38, y + 9.0, "= Eileen Adele Ethell, b. 1947", "left")
-ry = y + 22
-gs = [20, 62]
-p.line(gs[0], ry - 4, gs[1], ry - 4)
-for x in gs:
-    p.line(x, ry - 4, x, ry - 2.6)
-p.person(20, ry, "Robert George Ferguson", "b. 1968")
-p.person(62, ry, "Richard David Ferguson", "b. 1970", bold=True)
+    p.person(x, ry, n, d, bold=(n == "Vera Georgina"))
+    if m:
+        p.text(x, ry + 6.0, m[0], "I", NOTE, grey=True)
+        p.text(x, ry + 8.6, m[1], "I", NOTE, grey=True)
+VX = 49
+p.line(VX, ry + 4.5, VX, ry + 20)
+spouse(VX, ry + 14.0, "= George William Ferguson, b. 1920, m. 1942", "right")
+ry2 = ry + 24
+p.line(40, ry2 - 4, 80, ry2 - 4)
+p.line(VX, ry + 20, VX, ry2 - 4)
+for x in (40, 80):
+    p.line(x, ry2 - 4, x, ry2 - 2.6)
+p.person(40, ry2, "Michael George Ferguson", "b. 1943", bold=True)
+p.person(80, ry2, "Stephen Albert John", "b. 1944")
+y = ry2
+p.line(40, y + 4.5, 40, y + 18)
+spouse(40, y + 9.0, "= Eileen Adele Ethell, b. 1947", "left")
+ry3 = y + 22
+p.line(22, ry3 - 4, 62, ry3 - 4)
+for x in (22, 62):
+    p.line(x, ry3 - 4, x, ry3 - 2.6)
+p.person(22, ry3, "Robert George Ferguson", "b. 1968")
+p.person(62, ry3, "Richard David Ferguson", "b. 1970", bold=True)
 c.showPage()
 c.save()
