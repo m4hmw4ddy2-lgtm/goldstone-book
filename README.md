@@ -51,14 +51,16 @@ marks, any editorial gap in italics within square brackets (ruled 22 October 202
 | Three, The Reckoning | 9 to 16 |
 | Four, Elizabeth | 17 and 18 (the second family tree stands before its title page, after Chapter 16) |
 | Five, Albert | 19 to 21 |
-| Six, The Researcher; Coda | not begun |
+| (between Parts Five and Six) | 22 |
+| (after the Part Six title page) | the third family tree, "From Albert to the author" (title proposed; added 30 October 2026) |
+| Six, Without Whom; Coda | 23 onward, in progress |
 
-The two family trees stand in the text: the first, "Two families, to 1883", after the Prologue, before Part One; the second, "From Elizabeth to the author", after Chapter 16, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
+The family trees stand in the text (a third added 30 October 2026, after the Part Six title page, before Chapter 23: "From Albert to the author", title proposed): the first, "Two families, to 1883", after the Prologue, before Part One; the second, "Elizabeth's family, to 1932" (formerly "From Elizabeth to the author"; trimmed 30 October 2026), after Chapter 16, before Part Four. Back matter, in this order: "People in This Story", notes, sources, acknowledgements.
 Chapters were renumbered on 21 October 2026, when a new five-chapter Part One replaced the old six (kept in
 `chapters/archive/old_part_one/`). Chapter numbers in words in notes dated before then are the OLD numbers; the
 concordance is in `notes/live_lists.md`, section 0.
 
-`backmatter/` holds the list and both family trees. The trees have two generators, `make_family_trees.py` (SVG
+`backmatter/` holds the list and the three family trees. The trees have two generators, `make_family_trees.py` (SVG
 previews) and `make_family_trees_print.py` (print PDFs, B-format); any change goes into both, run from the repository
 root, and every export is regenerated.
 
