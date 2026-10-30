@@ -242,6 +242,7 @@ For Ch24, to start gathering (no answer needed yet):
   Chatham", in J. H. Ferguson's household of ten (H.M. Dockyard labourer). SETTLES finding 7: born 1920 (Rik's "1921"
   was the census year), at CHATHAM; the tree's Canterbury does not stand. Proposed Contradiction 128 resolved in favour
   of the census; dramatis to read "born May 1920 (1921 census: 1 year 1 month), Chatham", the day 24 May unsourced.
+- 30 Oct, George's 1939 Register (Rik's upload; transcribed/Ferguson_George_1939_Register_79_Park_Street_Pembroke_transcription.md): 79 Park Street, Pembroke (Pembroke M.B., 601/2), "Ferguson Geo Wm", 24 May 1920, single, "aircraft Rivetor", one of about a dozen aircraft riveters, fitters and steel benders lodging with a crane driver's family. SOURCES the day 24 May. In September 1939 George was in Pembrokeshire and Vera in Bath: the Register shows neither how nor when they met. Possible m2 sentence (for Rik): George's whereabouts in 1939, after Vera's Bath paragraph. The employer (Short Brothers of Rochester, at the Pembroke Dock flying-boat station?) is NOT in the record: live_lists 97.
 - 28 Oct, Vera's death (Rik): "she died in hospital but her address was still Dagmar Road". So no conflict: the memoir's
   hospital (St Bartholomew's, Rochester) is where she died; "of 35 Dagmar Rd" (probate calendar) is her address. His
   earlier "where her life ended" meant her home, not the place of death. The hospital stays family memory until the
@@ -324,3 +325,26 @@ For Ch24, to start gathering (no answer needed yet):
   E. Blatchford presiding" CUT (the papers disagree on who presided: Observer, Mrs Blatchford; Chatham News, G. Field);
   the "Tough Guys" dinner, 31 January 1939 (Chatham News, 10 Feb 1939): Albert spoke and sang. "Clarie" for the papers'
   "Mrs. Goldstone": identification beyond reasonable doubt (the secretary's wife; Clarie was at the club in 1945).
+- 30 Oct (Rik): "By this time Vera was not with them."
+- 30 Oct (Rik): "Clarie was a housewife." (Plain rendering of the Register's "unpaid Domestic Duties", the form's standard entry; not quoted.)
+- 30 Oct 2026 (Rik: "yes"): MOVEMENT ONE APPROVED.
+- 30 Oct 2026: MOVEMENT TWO DRAFTED (1940-1945; held locally). Sources: GRO marriage index (younger Clarie and John T.
+  Ainsley, Q3 1940, Medway; Lily and Frank G. Godbold, Q2 1943, Chatham); 1942 marriage register (checked 22 Oct: by banns,
+  ages, trades, address, John Henry Ferguson labourer H.M. Dockyard, witnesses Albert Goldstone, Sidney Rose, J. H.
+  Ferguson; rector's name NOT used, reading uncertain); 1939 Register, Bath (the amendment: "Goldstone" struck, "FERGUSON"
+  over, margin "Cl.20 M [6 or 8]/5/42": given as "a note in the margin dated May 1942"; ruled F IN); Michael's birth
+  certificate (checked 22 Oct; informant V. G. Ferguson, mother; registered 7 May 1943; father aircraft fitter); Steve:
+  GRO index Q4 1944 (mother's maiden name Goldstone), full name by Rik, "in 1944"; coal case (Observer, 6 April 1945,
+  checked 10 Oct): rewritten, not pasted; Rik's closing sentence kept as ruled; under the write-everything ruling the
+  delivery date (12 Feb), the gates, the key, and Albert's cellar evidence (11 Feb; five to six cwt; with P.C. Smith the next
+  evening: "a police constable") restored; the coalman not named (acquitted; nothing gained). "The Working Men's Club had its
+  coal in the cellar under the bar": INFERENCE from the report ("the key of the cellar was in the bar") — FLAG for Rik:
+  cut to "The club kept its coal in a cellar" if "under the bar" says more than the report. Weekday: Sat 28 Mar 1942.
+  Unattributed press lines: NONE. Magpie Hall Road's nature not given (names kept to their years).
+- 30 Oct: "under the bar" removed before showing (inference); now "The Working Men's Club kept its coal in a cellar" (the report: "got coal from the cellar").
+
+## HANDOVER, 30 October 2026 (session retired; next session starts here)
+- chapters/CHAPTER_23.md (m1 approved, m2 drafted) is NOT in the repo, by rule. Rik holds the copy and attaches it at the start of the next session.
+- AWAITING RIK: (1) approval of m2 as drafted; (2) whether m2 gains one sentence putting George at 79 Park Street, Pembroke, an aircraft riveter, in September 1939 (recommended: yes, after Vera's Bath paragraph; record only, no employer); (3) the tree 3 title, "From Albert to the author" (proposed).
+- NEXT: draft m3 (1946 to 1962): the 1948 engagement notice (Doris and Charles Neaves, "Mr. and Mrs. A. Goldstone, of 35, Dagmar Road") and the 1949 marriage; the club items after 1945 held in the press transcriptions; Clarie's death (1958); George's death (Q1 1962); Albert's death (June 1962); the stone ("husband & father", DECIDE 13). Sweep the Part Six press transcriptions and the 1953 club items first. Family memory stays out of Ch23 (Rik's voice starts at Ch24).
+- OPEN, not blocking m3: whose house 35 Dagmar Road was (item 92); George's employer in 1939 (item 97: ask Steve about Shorts); Nin and the "mad aunt" (Steve); the Bath department; the Ch18 Warspite gap (awaiting Sophie, RMG).

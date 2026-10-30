@@ -482,7 +482,7 @@ only if a DECIDE point brings them in: the Kirkcudbrightshire Advertiser (DECIDE
 - After approval, 10 October 2026: Rik edited movement one directly on GitHub: "At least one paper was against it." (we hold only one voice against; others may exist).
 
 ## PLACEMENT OF THE SECOND FAMILY TREE (Rik, 12 October 2026)
-"From Elizabeth to the author" stands at the end of this chapter, after its last line and before the title page of
+"Elizabeth's family, to 1932" (formerly "From Elizabeth to the author") stands at the end of this chapter, after its last line and before the title page of [RETITLED AND TRIMMED 30 October 2026 (Rik): now "Elizabeth's family, to 1932", ending on Albert's children; the line to the author is the third tree, "From Albert to the author", after the Part Six title page.]
 Part Four. Nothing in the chapter text changes. (live_lists.md, section 0, PLACEMENT.)
 
 ## REOPENED FOR ONE PARAGRAPH, 13 OCTOBER 2026 (the Broadmoor warrants)
