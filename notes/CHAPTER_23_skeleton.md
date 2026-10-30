@@ -242,7 +242,7 @@ For Ch24, to start gathering (no answer needed yet):
   Chatham", in J. H. Ferguson's household of ten (H.M. Dockyard labourer). SETTLES finding 7: born 1920 (Rik's "1921"
   was the census year), at CHATHAM; the tree's Canterbury does not stand. Proposed Contradiction 128 resolved in favour
   of the census; dramatis to read "born May 1920 (1921 census: 1 year 1 month), Chatham", the day 24 May unsourced.
-- 30 Oct, George's 1939 Register (Rik's upload; transcribed/Ferguson_George_1939_Register_79_Park_Street_Pembroke_transcription.md): 79 Park Street, Pembroke (Pembroke M.B., 601/2), "Ferguson Geo Wm", 24 May 1920, single, "aircraft Rivetor", one of about a dozen aircraft riveters, fitters and steel benders lodging with a crane driver's family. SOURCES the day 24 May. In September 1939 George was in Pembrokeshire and Vera in Bath: the Register shows neither how nor when they met. Possible m2 sentence (for Rik): George's whereabouts in 1939, after Vera's Bath paragraph. The employer (Short Brothers of Rochester, at the Pembroke Dock flying-boat station?) is NOT in the record: live_lists 97.
+- 30 Oct, George's 1939 Register (Rik's upload; transcribed/Ferguson_George_1939_Register_79_Park_Street_Pembroke_transcription.md): 79 Park Street, Pembroke (Pembroke M.B., 601/2), "Ferguson Geo Wm", 24 May 1920, single, "aircraft Rivetor", one of twelve men on the page entered as aircraft riveters, fitters or steel benders (six born in 1920; recounted 30 Oct) lodging with a crane driver's family. SOURCES the day 24 May. In September 1939 George was in Pembrokeshire and Vera in Bath: the Register shows neither how nor when they met. Possible m2 sentence (for Rik): George's whereabouts in 1939, after Vera's Bath paragraph. The employer (Short Brothers of Rochester, at the Pembroke Dock flying-boat station?) is NOT in the record: live_lists 97.
 - 28 Oct, Vera's death (Rik): "she died in hospital but her address was still Dagmar Road". So no conflict: the memoir's
   hospital (St Bartholomew's, Rochester) is where she died; "of 35 Dagmar Rd" (probate calendar) is her address. His
   earlier "where her life ended" meant her home, not the place of death. The hospital stays family memory until the
@@ -343,8 +343,76 @@ For Ch24, to start gathering (no answer needed yet):
   Unattributed press lines: NONE. Magpie Hall Road's nature not given (names kept to their years).
 - 30 Oct: "under the bar" removed before showing (inference); now "The Working Men's Club kept its coal in a cellar" (the report: "got coal from the cellar").
 
+- 30 Oct 2026 (new session): MOVEMENT THREE DRAFTED (1948-1962; about 380 words; held locally). SWEEP (1946-1962): repo
+  grepped (transcribed/, notes/, sources/) for Goldstone, Ferguson, Neaves, Godbold, Ainsley, Dagmar; nothing held for
+  1946-1947 or 1950-1952; the 1945 Dale Street shop stays OUT (Rik, 22 Oct); no obituary for Albert (press search,
+  20 Oct). Sources: East Kent Gazette, 26 Nov 1948 (checked 28 Oct; the notice quoted whole, as a record-kind item);
+  GRO marriage index, Doris and Charles Neaves, Q3 1949, Chatham ("registered at Chatham in the summer of 1949");
+  Observer, 16 Jan 1953 (checked 22 Oct; Wednesday = 14 Jan, computed; Rhodes summarised in our words, NO BORROWING
+  checked; the hall NOT named, the paper gives two names); KFHS DLMI28 (death dates: Clarie 2 Jan 1958, George 8 Feb 1962,
+  Albert 21 Jun 1962; "husband & father"; the stone) and KFHS burial transcript (burials, places of death, "Wife",
+  "Sheet metal Worker", "Retired", "76", depths 8' and 6', second and third burial). Certificates (items 60, 82) still to
+  check against every date and place. Unattributed press lines: NONE. Joins avoided: no "also", "too", "this time", no
+  interval counted; George's stone line worded off the closing stone's shape. FLAGS for Rik: the depths (Clarie 8',
+  Albert 6'; George's 8' left out to avoid a pattern); "a grave of his own" (ruled J; may point); "Rennie" at the close
+  (the reader last met the name at the 1910 marriage).
+- 30 Oct: RULINGS PUT TO RIK: m2 approval; the Pembroke sentence (recommended: yes, a paragraph after Bath, which amends
+  approved m1; wording proposed in the reply); tree 3 title (recommended: "Albert's family, to 1970", parallel to the
+  other two; "From Albert to the author" still Rik's call).
+
+- 30 Oct 2026 (Rik): CHAPTER REWRITTEN AS NARRATIVE (nothing removed), then Rik's edits applied: CUT the 1938 dance prize;
+  Freda L. Hussey and the servant; "after banns"; the bride's-father column; the Bath amendment (F reversed); Michael's
+  father's trade. EDITED: "In January 1939 the club held its first ladies' night"; the Tough Guys sentence; "George
+  William Ferguson was recorded as"; Michael "at 42 Magpie Hall Road, the hospital later named All Saints" (Rik asked
+  for "born at All Saint's Hospital": the name is anachronistic for 1943 and 42 = the hospital is inference; Claude's
+  wording, FOR RIK); the coal opening reworded ("a delivery of coal brought Albert and Clarie into court"); "Vera's
+  husband George"; "Four months later" and a sentence that Vera lost husband and father within months (REVERSES
+  PART_SIX_plan DECIDE 4's "nothing joining them" and finding 6; Rik's ruling); Albert "buried ... with his wife and
+  son, Clarie and Brian". Eileen's account of George's death logged (PART_SIX_family_memory_log.md); not in Ch23.
+- 30 Oct (Rik, a note): "The Neaves-Goldstone announcement proves that Vera and George were living with Vera's parents."
+  Claude: the notice puts Albert and Clarie at 35 Dagmar Road in November 1948; the marriage and birth put Vera and George
+  there in 1942-43. Six years apart, so it shows the same house, not the same time; with Dot's "lived with us in Dagmar
+  Road" (2015) it makes the Goldstones' household the likelier reading. Item 92 (electoral registers) would prove it.
+  Prose unchanged: each address in its year.
+
+- 30 Oct 2026 (Rik's source): Kent HER, MKE20414, "Site of All Saints Hospital, Magpie Hall Road, Chatham"
+  (heritage.kent.gov.uk/Monument/MKE20414/; Rik's paste, confirmed by WebFetch the same day): Medway Union workhouse
+  built 1857-59 (Peck and Stephens; 650 inmates; infirmary, fever and smallpox wards); "In 1930 site became Medway
+  Hospital" (handed to Kent County Council at the end of the Poor Law); a maternity ward among additions before 1948;
+  transferred to the NHS in 1948 "as All Saints Hospital"; closed c.1997, demolished for housing. Sources cited by the
+  HER: RCHME, SKE12401; Essex CC Field Archaeology Unit, 2000, desk-based assessment, SKE15858 (both unpublished).
+  SETTLES the 1943 name: the Medway Hospital. The street NUMBER 42 is not on the page: that 42 Magpie Hall Road was the
+  hospital is still inference (strong: a maternity ward on the site before 1948; Michael, Rob and Eileen born there by
+  family account). A second source for "42" (Kelly's directory, or another birth certificate of the 1940s) closes it.
+  Prose now: "at 42 Magpie Hall Road, the Medway Hospital, which became All Saints Hospital in 1948." The workhouse
+  origin (and any echo of Albert's workhouse-infirmary birth) stays for Rik's voice, Ch24, by finding 5.
+
+- 30 Oct 2026 (Rik): "Vera lived at Dagmar Road until she died, so in 1948 they must all have been living together."
+  RECORDED AS RIK'S READING. Documents: Vera and George of 35 Dagmar Road, March 1942 and May 1943; Albert and Clarie of
+  it, November 1948; Vera of it at her death, November 1979. Nothing documents 1944-1978 for Vera. Testimony fills the
+  gap: Rik (28 Oct, Michael "grew up" there with Steve, born 1944); Dot via Steve, 2015 ("lived with us in Dagmar
+  Road"). On documents plus testimony: very probable that the two households were one house in 1948. Not proven by
+  document alone; item 92 (electoral registers, 1945-1962) would show it. Ch23 prose: each address in its year, no
+  sentence stating they lived together, unless Rik rules one in.
+
+- 30 Oct 2026 (Rik): TITLE RULED (M): "Of 35, Dagmar Road" (the East Kent Gazette notice, 26 Nov 1948). The Doris notice therefore keeps the address in any compression.
+
+- 30 Oct 2026 (Rik: "yes to the cuts"): Tough Guys cut to one sentence (penny fund and singing kept); the Doris notice compressed to the engagement, Neaves "of Sittingbourne" and her parents' address (quoted); Neaves's family details cut. GEORGE'S DEATH SCENE (Eileen, from Mick): option (a) keep it for Ch24 or (b) one attributed passage in Ch23: AWAITING RIK.
+
+- 30 Oct 2026 (Rik): GEORGE'S DEATH SCENE: (a). Ch23 keeps the record only; the scene (Eileen, from Mick: the flu, the evening, "viral pneumonia" from the death benefit file) goes to Ch24 in Rik's voice, attributed. "Modify if necessary after." Rik also noted that the chronological approach "has served us well": for Ch24 planning, propose a chronological spine (1962 onward through Rik's life) before any other order.
+
 ## HANDOVER, 30 October 2026 (session retired; next session starts here)
 - chapters/CHAPTER_23.md (m1 approved, m2 drafted) is NOT in the repo, by rule. Rik holds the copy and attaches it at the start of the next session.
 - AWAITING RIK: (1) approval of m2 as drafted; (2) whether m2 gains one sentence putting George at 79 Park Street, Pembroke, an aircraft riveter, in September 1939 (recommended: yes, after Vera's Bath paragraph; record only, no employer); (3) the tree 3 title, "From Albert to the author" (proposed).
 - NEXT: draft m3 (1946 to 1962): the 1948 engagement notice (Doris and Charles Neaves, "Mr. and Mrs. A. Goldstone, of 35, Dagmar Road") and the 1949 marriage; the club items after 1945 held in the press transcriptions; Clarie's death (1958); George's death (Q1 1962); Albert's death (June 1962); the stone ("husband & father", DECIDE 13). Sweep the Part Six press transcriptions and the 1953 club items first. Family memory stays out of Ch23 (Rik's voice starts at Ch24).
 - OPEN, not blocking m3: whose house 35 Dagmar Road was (item 92); George's employer in 1939 (item 97: ask Steve about Shorts); Nin and the "mad aunt" (Steve); the Bath department; the Ch18 Warspite gap (awaiting Sophie, RMG).
+
+## HANDOVER UPDATE, 30 October 2026 (later the same day)
+- CHAPTER TWENTY-THREE APPROVED (Rik: "approved"), title "Of 35, Dagmar Road"; chapters/CHAPTER_23.md now in the repo.
+  The HANDOVER above is superseded on (1) m2 (approved within the whole) and (2) the Pembroke sentence (IN, opening m2).
+- STILL OPEN: (3) the tree 3 title ("From Albert to the author" proposed; Claude suggested "Albert's family, to 1970").
+- CHECKS OUTSTANDING on the approved text (recorded checks, not reopenings): the death certificates of Clarie and Albert
+  (item 60) and George (item 82) against dates and places; a second source for "42" Magpie Hall Road as the Medway Hospital.
+- NEXT: Ch24 skeleton. Carry into it: George's death scene (Eileen, from Mick; memory log, 30 Oct); the Dagmar Road
+  household as Rik's reading; the workhouse site of All Saints (Kent HER MKE20414) and any echo of Albert's birth, in
+  Rik's voice only.

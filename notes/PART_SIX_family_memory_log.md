@@ -288,3 +288,16 @@ was a training ship. Malc believes it was used for orphan boys training to join 
 - 29 Oct: Rowden's Army papers (transcribed/Rowden_William_John_WW1_service_and_pension_records_transcription.md):
   Lilian married him at Seasalter on 13 August 1914; her sister Eliza Madams was a witness; Lilian's address 20 Middle
   Wall, Whitstable. Elizabeth's two Madams daughters side by side, eight years after her death.
+
+## EILEEN, VIA RIK, 30 October 2026: GEORGE'S DEATH (testimony; FOR CH24, not Ch23)
+Rik's paste of his mother's words: "When Mick got home from work in Maidstone (KEC) one evening his Dad had come home
+from work early thinking he had the flu. He was in bed. The following day Mick and Steve went to work. When Mick
+returned home that evening, his father had died. How terrible was that! When I worked for the Min of Health & Nat Ins
+in 1967/68 I looked up George's death benefit file. I know he died from 'viral pnreumonia' [sic]. I can't remember the
+exact date but it was in February 1962."
+- R (reported to Eileen: Mick's account) for the evenings; T (her own) for reading the death benefit file, 1967/68.
+- The cause, "viral pneumonia", now has a documentary root by her account (a Ministry file she read), but the file is not
+  held; the death certificate (item 82) decides.
+- PLACE: the burial transcript has All Saints Hospital, Chatham. Her account does not say where he died; it does not
+  conflict, but it is silent on any removal to hospital.
+- Ruled DECIDE 3: family memory does not enter Ch23. For Ch24, in Rik's voice, attributed.
